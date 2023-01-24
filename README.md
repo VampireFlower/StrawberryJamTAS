@@ -1,2 +1,2 @@
 # StrawberryJamTAS
- TAS files for the celeste mod Strawberry Jam
+ TAS files for the Celeste mod Strawberry Jam
