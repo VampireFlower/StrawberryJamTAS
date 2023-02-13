@@ -1,13 +1,17 @@
-RecordCount: 0
+RecordCount: 2
 
-
+console load StrawberryJam2021/5-Grandmaster/Linj
    1
 
 #Start
-  36
+ 110
 
-#
+#lvl_A Limitless Horizon
+   1,S
+   1,D,J
+  34
    1,J
+
 
 
 

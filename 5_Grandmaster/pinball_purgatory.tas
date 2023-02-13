@@ -1,12 +1,12 @@
-RecordCount: 0
+RecordCount: 2
 
-
+console load StrawberryJam2021/5-Grandmaster/maya
    1
 
 #Start
-  36
+ 190
 
-#
+#lvl_Insert Coin
    1,J
 
 
