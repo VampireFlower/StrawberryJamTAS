@@ -1,21 +1,151 @@
-RecordCount:
+# StrawberryJam2021
+# https://gamebanana.com/mods/424541
+
+RecordCount: 318
 
 console load StrawberryJam2021/1-Beginner/Owen-Shirrell
    1
 
 #Start
  110
-
-#lvl_00 - Overpass
    1,S
    1,D,J
   34
+
+#lvl_00 - Overpass
+   1,L,J
+  13,R,Z
+   2,L,J
+  12,D,X
+  40
+
+#lvl_01 - Lockdown
+  14,D
+   1,L,D
+   1,D
+   1,L,D
+   1,D
+  11,R,D
+  14,R,D,X
+   1,R,J
+  11,R,D,X
+   2,R,J
+   2,R
+  17,R,D,X
+   6,R
+   1,R,J
+   8,D,X
+  40
+
+#lvl_02 - Breadth
+   7,D
+   2,L,D
+  12,R,D,X
+   1,R,J
+   2,L
+  15,R,D,X
+  10,L,D
+   1,R,D
+  19,L,D
+   1,D
+  40
+
+#lvl_03 - Labyrinth
+   3,L,D
+  15,L,D,X
+  14,R,D
+   5,D
+   1,R,D
+  25,D
+   2,L,D
+  43
+
+#lvl_04 - Widdershins
+   5,L,D
+  13,L,D,X
+   1,L,J
+   1,L
+   1,L,J
+   8,L
+  15,D,C
+   7,L,D
+  15,D
+  43
+
+#lvl_05 - Symmetry
+  12,R,D,X
+   1,R,J
+   2,R
+  15,R,D,X
+  15,D,C
+  21,L,D
+   4,D
+   1,L,D
+  10,D
+   1,R,D
+  18,D
+   1,R,D
+  40
+
+#lvl_06 - Socket
+   1
+   1,R,D
+   1,D
+  12,R,D,X
+   1,R,J
+   7,R
+   1,R,J
+  15,R,D
+  14,D,X
    1,J
+   1,K,G
+   1
+  14,L
+   1,L,J
+  16,L
+  13,R,D,X
+   1,L,J
+  28,L
+  13
+  17,R,G
+   7,R,U,G
+   5,U,X
+   1,R,J,G
+   4,L,D
+  13,R,D
+  19,R,X
+   1,L,J
+  15,L
+  11,L,D,J
+  12,R,K,G
+   1,R,J,G
+   1,K
+   5,R,Z
+   3,R,J
+   1,R
+   2,R,J
+   7,R
+  15,D,X
+   2,R
+   1,L,J
+  15,L
+  15
+  12,R
+   1,R,D
+   2,R,D,J
+  15,D,X
+  22,L
+  10
+  10,L,D,X
+   1,R,J
+   9,R,D
+   6,R
+  15,D,X
+   2,L,D
+   6,D
+  40
+
+#lvl_07 - Ferry
 
 
-
-
-
-
-
-ChapterTime: 
+ChapterTime:    
