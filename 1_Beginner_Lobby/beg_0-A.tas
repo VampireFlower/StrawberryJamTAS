@@ -1,0 +1,36 @@
+console load StrawberryJam2021/0-Lobbies/1-Beginner
+   1
+
+#Start
+ 190
+   2,L,J
+  10,L,X
+   2,J
+   8,L,J
+   2,L,K,G
+   1,K
+   5,L,K
+  24,L,U,X
+   4,Z
+   1,L,J
+   1,L
+   1,L,K
+   9,L
+  20,D
+   1,X
+   3
+#0:01.445(85)
+
+
+#demonstration
+#of bench usage.
+#inputs below belong
+#in beg_A-D.tas
+ 123
+   1,U
+   1,F,0
+   1,J
+  71
+   4,Z
+   6,R,J
+  10
