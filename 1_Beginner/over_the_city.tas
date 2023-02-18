@@ -1,4 +1,4 @@
-RecordCount: 622
+RecordCount: 650
 
 console load StrawberryJam2021/1-Beginner/CoupCritik
    1
@@ -286,20 +286,23 @@ console load StrawberryJam2021/1-Beginner/CoupCritik
   11,L,K
    1,R
    7,K
-   4,L,K
+   5,L,K
+   3,K
    1,L,J
-  10,R,J
-   7,K,G
+   7,R,J
+   4,K,G
    1,K
-   8,R,J,G
-   1,L
+   1,J,G
+  11,L,K
   40
 
 #lvl_17
-  29,L
-   1,L,J
-  14,L
-   9,L,J
+   9,L
+   1,L,K,G
+   1,L,J,G
+  13,L
+   7,L,J
+   2,L
   10,L,K,G
   10,R,J
   12,L,K
@@ -353,4 +356,4 @@ console load StrawberryJam2021/1-Beginner/CoupCritik
   11,K
   19,U,X
  135,D
-ChapterTime: 0:45.118(2654)
+ChapterTime: 0:44.795(2635)
