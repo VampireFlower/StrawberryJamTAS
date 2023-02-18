@@ -1,5 +1,7 @@
-#By Tyran
-RecordCount: 463
+# StrawberryJam2021
+# https://gamebanana.com/mods/424541
+
+RecordCount: 517
 
 console load StrawberryJam2021/1-Beginner/Owen-Shirrell
    1
@@ -228,12 +230,13 @@ EndRepeat
   40
 
 #lvl_10 - Downfall
-   1,D
-  15,L,Z
-  15,L,C
-  35,L,D
-   8,R,D
+   7,L,D
+   6,L,Z
+   1,L,J
+  23,L,D
    7,D
-  15,U,X
+   2,L,D
+  15,D,X
+   2,D
  135
-ChapterTime: 0:36.567(2151)
+ChapterTime: 0:36.244(2132)
