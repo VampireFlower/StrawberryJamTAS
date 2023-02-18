@@ -1,4 +1,4 @@
-RecordCount:
+RecordCount: 419
 
 console load StrawberryJam2021/1-Beginner/snas
    1
@@ -7,12 +7,227 @@ console load StrawberryJam2021/1-Beginner/snas
  190
 
 #lvl_1
+   4,R,Z
+   6,R,J
    1,J
+   4,R,K,G
+   5,R
+   3,R,J
+   1,R,K,G
+#  3f slower somehow
+#  10,R
+#   1,R,J
+#   5,R
+#   5
+# 100,D,X
+   6,R
+   6
+   1,R,J
+   2
+  33,R,D,X
+   4,R,Z
+   1,R,J
+   9,R
+   1,R,G
+  21,R,J,G
+  13,L,Z
+   1,R,J
+  10,R
+   1,R,J
+  13,R,X
+   1,R,J,G
+   7,R
+   1,R,G
+   7,R,D
+  15,R,G
+   2,R,J,G
+  31,R,D,X
+   6,R,Z
+   2,R,J
+   3,R
+   1,R,J,G
+  10,R
+   1,R,J
+  11,R,D,X
+  40
 
+#lvl_2
+#  slower but has potential
+#   3,D,X
+#   4,R,J
+#  30,R,G
+#   1,R,J,G
+#   1,K,G
+#   1,J,G
+#  33,R,D,X
+   2,R,D,X
+   1,R,J
+   7,R
+   1,R,J
+   2,R
+  12,R,D,X
+   1,L,J,G
+  10,R
+   7,L
+  19,R,D
+  14,L,Z
+   1,R,J
+   7,R
+   6,R,J
+   2,R
+#  this ending kinda sucks
+  31,R,D,X
+   4,Z
+   1,R,J
+   7,R
+   6,R,J
+   5,R
+   4
+  15,U,X
+   1,R,J,G
+   7,R
+  10,R,Z
+  40
 
+#lvl_3
+   2,R,Z
+   1,R,J
+  13,R,D
+   1,R,J
+  17,R,D
+   1,L,D
+  12,D
+  13,R,Z
+  11,R,J,G
+  16,R
+   3,R,J
+  23,R
+  14,R,Z
+  23,R,J
+  14,R,X
+  17,R,J,G
+   1,J
+  10,L
+  23,R,D
+  12,L,Z
+   1,R,J
+   7,R
+   1,R,J
+  11,R,U,X
+   3,R,J,G
+  40
 
+#lvl_4
+   4,R,J
+   5,R
+  30,R,U,G
+   1,R,J,G
+   1,R,K,G
+   5,R,J,G
+  12,R
+  15,L,X
+  30,D
+   3,L,D
+   5,D
+  13,R,D
+   1,R,J
+   8,R
+#  this part sucks
+ 170,R,G
+   2,R,J,G
+  15,R,D,X
+  16,R,D,C
+   5,D
+  15,R,D
+   5,R
+   2,R,D
+  12,L,D
+#  this part also sucks but less
+   8,R,D
+  16,J,G
+  35,L,G
+   4,L,D,G
+   4,L,D
+  14,D
+   1,R,D
+  11,L,D
+   4,L,Z
+   2,L,J
+   8,L
+   1,L,J
+  15,L,D,X
+  11,D,C
+  40
 
+#lvl_5
+   8,D
+  19,R,D
+   8,R
+   8,R,Z
+   1,R,J,G
+   1,K,G
+   2,R
+   2
+   3,J
+   2
+  11,L,G
+  24,L,D,G
+   1
+   1,J
+   1,L,K,G
+   8,R,K
+   1
+   1,R
+   1
+#  couldnt get this multiboost to work
+#  17,R
+#  34,R,G
+#   2,R,J,G
+#   1,R,K,G
+#   2,R,J,G
+#   1,R,K,G
+# 100,R,D,X
+  13,R,D
+   1,D
+  15,R,D
+  13,R,X
+  30,R,J,G
+   5,R,K,G
+  12,R
+   1,J
+   1,R,K,G
+   8,L,K
+   2,K
+  10,U,X
+  25,R,J
+  38,R,D
+  18,L,D
+   9,R,D
+  10,R,X
+   5,R,J
+  18,R,U,X
+   1,R,J,G
+   7,R
+   4,R,Z
+   1,R,J
+   5,R
+  40
 
+#lvl_6
+   2,R
+   1,R,J
+   2,R
+  15,R,D,X
+   5,L,D
+  10,R,D,C
+   1,R,J
+  12,R,K,G
+  14,U,Z
+  10,R,J
+   3,J
+  12,R,K,G
+   1,R,J,G
+   7,R
+ 148,R,U,X
 
-
-ChapterTime: 
+ChapterTime: 0:31.586(1858)
