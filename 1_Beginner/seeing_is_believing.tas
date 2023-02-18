@@ -1,4 +1,5 @@
-RecordCount:
+#By Vamp
+RecordCount: 1447
 
 console load StrawberryJam2021/1-Beginner/NotYourBadeline
    1
@@ -7,12 +8,266 @@ console load StrawberryJam2021/1-Beginner/NotYourBadeline
   88
 
 #lvl_a_01
+#CantPause
+  12,L,Z
+   1,R,J
+   7,R
+   1,R,J
+   8,R,D,X
+   1,S
+   1,D,J
+  34
+   2,R
+   7,R,K
+   4,R
+   6,R,D,X
+   1,R,J,G
+   1
+  11,R
+  40
+
+#lvl_a_02
+   1,R,J
+   5,R
+   9,R,K,G
+   3,R,J,G
+   1
+   2,R,K,G
+   4,R
+   1
+  14,R,U,X
+   1,R,J,G
+   9,R
+   7,R,J
+   4,J
+   6
+  40
+
+#lvl_a_03
+   2,J
+   1
    1,J
+  15,R,D,X
+   7,D
+   1,R,D
+   3,D
+   7,L,D
+  15,R,U,V
+   1,L,K,G
+   1,J,G
+   6
+   1,R
+   1,R,K
+   9,R
+  24,R,U,X
+   4,C
+   1,R,J
+   1,J
+   6
+  18,R,D
+   1,D
+   8,R,D
+   3,R
+   1,R,D
+  12,R,Z
+   1,R,J
+   6,R
+   1,R,J
+   6,R,U,V
+  40
 
+#lvl_a_04
+   8,L
+   2,K,G
+  14,R,U,X
+   1,K,G
+   1,L,K
+   1,R,J,G
+   5,R,K,G
+   1,R,J,G
+   7,R
+   2,R,J
+   1,R
+  10,R,V
+   1,R,J
+  12,R
+   3,L,D
+   4,D
+   2,L,D
+   4,L,K
+  28,L,D,X
+   2,D
+   1,L,D
+   9,R,V
+  11,R,K
+   4,R
+   1,R,K
+   1,R
+   1,R,K
+   6,R
+   1,K
+   1,R,K
+   1,K
+  10,U,X
+  10,L
+  15,U,X
+   1,L
+  16,R,C
+   4,D,X
+   1,R,J
+   7,R
+  12,R,D,K
+  40
 
+#lvl_a-05
+   3,R,J
+  21,R,D,X
+   1,D
+   9,R,D
+   9,R
+  12,U,Z
+  17,R,K
+   1,R,J,G
+   3,R,K,G
+  15,R
+   6,R,V
+   1,R,J
+   8,R
+   1,R,K
+  14,R,D,X
+   1,R,J
+   9,R,D,X
+   1,R,J
+   1,R
+  40
 
+#lvl_a_05
+   6,R
+   3,R,K
+  12,R,J,G
+   6,R
+   4,R,J
+  14,R,D
+   2,L,D
+   3,L
+  17,L,D,X
+   2,L,J
+  13,L,V
+   1,L,J
+   1,L
+   1,L,J
+  25,R,D,C
+  20,R,X
+  20,R,C
+  22,R,U,X
+   2,K,G
+   1,R,K
+   1,K
+   1,R,K
+   1,L,K
+   1,R
+  13,R,J,G
+   2,R,K,G
+   3,L,K
+   1,K
+   1,L,K
+   4,R,K
+   2,K
+   1,R,J,G
+   1,R,K,G
+   7,R
+  10,R,Z
+   1,R,J
+   7,R
+   4,R,D,K
+   1,R
+  40
 
+#lvl_a_07
+   8,R
+   1,R,K
+   7,R
+  16,D,X
+   1,L
+   1,L,D
+  10,R,D
+  13,R,D,X
+   2,R,J
+  14,R,U,V
+   1,K
+  16,R
+  17,R,U,C
+   1,K,G
+   1,L,K
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+  10,R
+   5,R,K
+  14,L,D,X
+   1,R,J
+   5,R,D,X
+   1,R,K,G
+   7,R
+   1,R,J
+   6,R
+   8,R,K
+  40
 
+#lvl_a_08
+   7,R,K
+  18,R,D,X
+  11,R
+   2,R,D
+  20,R,U,X
+   2,K,G
+   6,R
+   1,L
+   4,R
+   4,D,X
+   1,R,J
+   2,R,K,G
+   6,R
+   1
+   1,R,K
+   2,R
+  15,R,D,X
+   2,R
+   1,R,J
+   1,R
+   5,R,J
+   3,R
+   1,R,D
+  11,R,D,K
+   6,R
+  14,R,X
+   1,R,K,G
+  12,R
+   6,R,J
+  40
 
-
-ChapterTime: 
+#lvl_a_09
+  15,R,D,X
+   1,S
+   1,D,J
+  34
+  10,R,D
+   2,D
+   3
+  34,L,D,X
+   6,R,K
+  32,R,D,C
+   8,R,K
+  37,R,D,C
+Repeat 9
+   1,K
+   1,J
+Endrepeat
+   1,K
+   1,J,G
+   1,K,G
+   1,J,G
+   1,K,G
+   2
+ChapterTime: 0:27.744(1632)
