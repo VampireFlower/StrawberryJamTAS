@@ -1,4 +1,4 @@
-RecordCount:
+RecordCount: 587
 
 console load StrawberryJam2021/2-Intermediate/marlin
    1
@@ -7,12 +7,125 @@ console load StrawberryJam2021/2-Intermediate/marlin
   69
 
 #lvl_1
+   7,L,D,X
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+   5,R,J
+  15,R,D,X
+   3,R
+   1,R,K,G
+   7,R
+   1,R,J
+   3,R
+   7,R,J
+  15,R,D,X
+   6,R,J
+   6,R
+   1,R,K
+  13,R,U,Z
+   2,R,J,G
+   1
+   7,R
+   2,R,K
+   1,R
+   7,R,J
+  15,R,D,X
+  12,R,J
+  11,R
+   1,R,K
+   1,R
+  11,R,D,X
+   1,R,J,G
+   2,R,K,G
+   1,R,J,G
+   2,R,K,G
+  16,R
+   6,R,J
+   1,R
+  14,R,U,X
+   7,R,J,G
    1,J
+   4,R,J
+  10,R
+   1,R,J
+   3,R
+  40
 
+#lvl_2
+  14,R
+  12,L,D
+  15,R,D,X
+   1,R,J
+  11,J
+  11,R
+   2
+   1,R
+   1
+   1,R
+   1,G
+   2,K,G
+   1,J
+   4,K
+  10,L,K
+  15,U,X
+   3,J,G
+  21,D
+   1,L,D
+   2,D
+  29,L,D
+   4,Z
+   1,L,J
 
+##FRAMETIES
+#   5,L
+#   3
+#   3,L
+#  15,D,X
+#   6,R
+#   3,R,J
+#  10,R,Z
+#   1,R,J
+#   2,R,K,G
+#   1,K
+#   8,R,K
+#  15,R,D,X
+#   1,R,J
+#  39,R,D
+#   1,R
+#   1,R,D
+#   5,R
+#   1
+#   1,R
+#   2
+#  12,U,X
 
+  17,L
+  14,L,D,X
+   5,R,J
+  15,R,D,X
+   1,R,J
+   2,J
+   3,R,K,G
+  10,R,J,G
+  15,R,D,K,X
+  34,R,K
+   3
+   2,R
+  14,U,X
+  14,R,J
+   1,L,J
+   7,K,G
+  21,R,K
+   4,R
+   2,R,J
+   7,R
+   4,Z
+   1,R,J
+   5,R
+  40
 
+#lvl_3
+ 100,R
 
-
-
-ChapterTime: 
