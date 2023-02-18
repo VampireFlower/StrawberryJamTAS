@@ -1,12 +1,10 @@
-# StrawberryJam2021
-# https://gamebanana.com/mods/424541
-
-RecordCount: 978
+RecordCount: 1094
 
 console load StrawberryJam2021/1-Beginner/Circumplex
    1
 #Start
  104
+
 #lvl_01
   10,R,X
    5,R,J
@@ -21,40 +19,33 @@ console load StrawberryJam2021/1-Beginner/Circumplex
    1,R,J
    6,R
   40
+
 #lvl_02
    1,R
+StunPause
   19,R,J
+SkipInput,3,1
+  13,R,U,Z
+   1,L
+EndStunPause
+   1,J,G
+   5,J
   15,R,X
-  13,U,C
+  25,R,D
   15,R,X
-  12,D
-   7,R,D
-   2,L
-  15
+  23,R,D
+   1,R
+   6,R,D,X
    1,R,J
-  12,R,K
-  12,L,J
-  12,R,K
-   8,L,J
-   5,L
-  21,R,D
-  21,D
-  13,L,D
-  56,D
-  19,R,D
-  15,R,X
-  29,R,D
-   6,R,Z
+   7,R
    1,R,J
-   6,R
+   6,R,D,X
   40
+
 #lvl_03
-   1,R
+   8,R,D,X
    1,R,J
-  11,R,D,X
-   1,R,J
-   1,R
-   3,R
+   5,R
   22,R,J
   19,L,K
    1,R,J
@@ -74,8 +65,9 @@ console load StrawberryJam2021/1-Beginner/Circumplex
   17,L
    7,L,K,G
    1,R,J
-  21,R,K
-   1
+  20,R,K
+   1,R
+   1,K
    1,J
   26,R,J
   51,R,D
@@ -105,6 +97,7 @@ console load StrawberryJam2021/1-Beginner/Circumplex
    1,R,J
    1,R
   40
+
 #lvl_04
    6,R
    1,R,J
@@ -146,6 +139,7 @@ console load StrawberryJam2021/1-Beginner/Circumplex
   12,L,K,G
    6,L,J,G
   40
+
 #lvl_05
    3
    3,R
@@ -182,45 +176,48 @@ console load StrawberryJam2021/1-Beginner/Circumplex
    6,L,J
   30,R,D
   74,D
-  20
-  16,L
-   5,U,X
-   7,J
-  14,R
+  15
+  11,L
+   4,L,J
+   9,U,X
+   1,J
+  12,R,J
+   4,R
    1,R,K,G
-   1,R,J,G
-  10,R
+   8,R
    6,R,Z
    1,R,J
    7,R
    1,R,J
+   2,R
   14,R,D,X
    1,R,J
+   1,R
   14,R,D,X
   40
+
 #lvl_06
    1,R,J
-  12,R,D,X
-  14,R,J
-  15,R,X
-  10,D
-   6
-  38,R,D
-  40,D
-  15,R,X
-  15,U,C
-  13,J
-   6,L,J
-   1,L,J
-  17,R
-  15,R,X
-   1,R
+  11,R,D,X
    1,R,J
-  19,D
-  18,L,D
-  19,R
-  13,R,X
-  15,R,C
+   3,R
+   1,R,J
+   3,R
+   5,R,J
+  54,R
+  15,D,X
+  18,R,D
+  11
+  15,R,U,X
+   9,J
+  10,L,J
+   2,J
+   1,L,J
+  14,J
+  15,R
+  20,R,X
+  19,R,C
+  15,R,X
    9,R
   15,R,X
    9,R
@@ -246,6 +243,7 @@ console load StrawberryJam2021/1-Beginner/Circumplex
    4,R,D
    1,D
   40
+
 #lvl_07
    1,D
   16,L,D
@@ -284,6 +282,7 @@ console load StrawberryJam2021/1-Beginner/Circumplex
   15,L,D,X
   11,D,C
   40
+
 #lvl_08
    3
    4,D,C
@@ -322,6 +321,7 @@ console load StrawberryJam2021/1-Beginner/Circumplex
    1
    8,R,J
   40
+
 #lvl_09
    7,R
    1,L,J
@@ -361,9 +361,8 @@ endStunPause
    6,R,Z
    1,R,J
    2,R
-#Old 1:14.341(4373)
-#new 1:08.969(4057)
   40
+
 #lvl_10
    5,R
    1,R,J
@@ -375,33 +374,33 @@ endStunPause
   25,D
   18,R
    8,R,X
-  54,R,D
+  43,R,D
+   8,D
+   1,R,D
+   1,D
+   1,R,D
   15,R,X
-  26,L,D
-   6,L,X
+  24,L,D
+   2,D
   13,R
   15,R,X
-  68,R,G
-   1,G
+  61,R,G
+   4,R,D,G
+   1,D,G
    1,J,G
    1,R,K,G
    1,R,J,G
-   7,L,J
-   7,L
-  15,L,J
-  15,L,X
-  10,L,D
-  15,L,D,C
-  14,L,D
-   2,L
-  10,L,X
-   8,L,J
-  15,U,X
-   4,R
-  19,J
-   5,K
-   7,R,K
+  13,L,Z
+   1,R,J,G
+  15,L
+   8,L,D
+   4,L
+  15,L,U,Z
+  11,U,C
+   8,R,J
   40
+
+#lvl_11
    5,R
    1,R,J,G
    1,R,K,G
@@ -501,6 +500,7 @@ endStunPause
    1,R,J,G
   10,R
   40
+
 #lvl_heart
    1,R
    1,R,J
@@ -511,5 +511,5 @@ endStunPause
   19,R,D
   23,D
   15,R,U,X
- 124
-ChapterTime: 1:41.082(5946)
+ 135
+ChapterTime: 1:38.226(5778)
