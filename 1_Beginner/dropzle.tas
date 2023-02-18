@@ -1,5 +1,7 @@
-#By Tyran
-RecordCount: 318
+# StrawberryJam2021
+# https://gamebanana.com/mods/424541
+
+RecordCount: 463
 
 console load StrawberryJam2021/1-Beginner/Owen-Shirrell
    1
@@ -145,5 +147,95 @@ console load StrawberryJam2021/1-Beginner/Owen-Shirrell
 
 #lvl_07 - Ferry
 
+   1,R,D
+   5,D
+   5,D
+   2,L,D
+  14,R,D,X
+  19,R,J
+   9,R
+  14,R,X
+  12,R,J
+   9,R
+   1,R,J
+   6,R
+  15,D,X
+  16,D
+   1,L,D
+   1,D
+   2,R,D
+   1,R
+  40
 
-ChapterTime:    
+#lvl_08 - Daedalus
+   9,R
+   5,R,D
+  17,R,D
+   6,D
+   1,R,D
+  18,D
+  43
+
+
+#lvl_09 - Perpendicular
+   3,L,D
+  15,L,D,X
+  15,D,C
+  33,D
+   9,R,D
+  14,R,D,X
+   1,R,J
+   7,R
+Repeat,3
+   1,R,J
+  14,R
+EndRepeat
+  10,R,J
+   3,R
+   4
+   1,K
+  11,L,K
+  17,U,X
+  18,U,C
+  15,U,X
+   3,L
+  10,L,Z
+   1,L,J
+   4,L
+   3,R
+   1,J
+   3,R,J
+  19,R
+   1,L
+   3,R
+  29,D
+   8,L,D
+   3,D
+  15,L,D,X
+  10,L,J
+   4,L
+  15,U,X
+  15,U,C
+  15,U,X
+  14,D
+  17,L,D
+  13,L,D,C
+   1,L,J
+   7,L
+   1,L,J
+   6,L
+   1,R
+  42,D
+   2,L,D
+  40
+
+#lvl_10 - Downfall
+   1,D
+  15,L,Z
+  15,L,C
+  35,L,D
+   8,R,D
+   7,D
+  15,U,X
+ 135
+ChapterTime: 0:36.567(2151)
