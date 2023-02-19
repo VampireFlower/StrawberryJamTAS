@@ -1,0 +1,37 @@
+console wipedebug
+console load StrawberryJam2021/0-Lobbies/1-Beginner 912 664
+   1
+console hearts 21
+
+#Start
+  36
+  12,R,Z
+   1,R,J
+   3,R
+   1,R,K
+   5,R
+  11,R,U,X
+   1,R,J,G
+   1,R
+   1
+   7,R
+   5,R,J
+  15,R,D,X
+   2,R,J
+  29,R,D,X
+  16,D,C
+  14,L,D,X
+   1,L,J
+  10,L,D,X
+   1,S
+   1,D,J
+  34
+  10,L,J
+  15,L,D,X
+   1,L,J
+  23,L,D,X
+   6,L,J
+   1,L
+  20,L,D,C
+   1,X
+#0:03.706(218)
