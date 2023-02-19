@@ -1,4 +1,4 @@
-RecordCount:
+RecordCount: 58
 
 console load StrawberryJam2021/1-Beginner/Ceph
    1
@@ -7,12 +7,21 @@ console load StrawberryJam2021/1-Beginner/Ceph
   94
 
 #lvl_1
-   1,J
-
-
-
-
-
-
+***S
+   8,R,Z
+   1,R,J
+   8,R
+  15,R,D,X
+  19,R,D,C
+   9,J
+  20,L,X
+  15,D,C
+  15,R,X
+   6,R,J
+   3,R
+  15,R,Z
+  29,R,D
+   4,R,Z
+ 100,R,J
 
 ChapterTime: 
