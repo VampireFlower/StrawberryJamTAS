@@ -1,4 +1,4 @@
-RecordCount: 1226
+RecordCount: 1618
 
 console load StrawberryJam2021/1-Beginner/frozenflygone
    1
@@ -84,18 +84,19 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
    1,R,J
   14,R,U,X
    1,R,J
-   7,R,U,X
+   3,R
+   1
   40
 
 #lvl_SS2-3
 
 #faster descent possibly
-   7,R,U,X
-   3,L
-   1,R,J
-   2,L,J
-  18,L
-  52,D
+  15,R,U,X
+   1
+   7,L,U,J
+   8,L,D
+  43,D
+   3,R,D
    5,R,Z
    1,L,J
    7,L
@@ -120,45 +121,42 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
   40
 
 #lvl_SS2-4
-#can reach the platform sooner
    2,R
   10,R,J
-  18,D,X
-  18,J
-   1,K
-  40,R,K
-  10,L,U,X
-   3,R,J
-  25,R
-  14,R,U,X
-   5,L,Z
-   2,R,J
+  17,D,X
+  19,J
+   2,R,K,G
+   2,L,K,G
+   3,R,K,G
    7,R
-   8,R,K
-  14,L,U,J,G
-  12,L,U,K,G
-  12,L,U,J,G
-   2,L,U,K,G
-   8,L
-  13,L,Z
+
+  10,R,U,Z
+   1,R,J
+   4,R
+  17,R,J
+  15,R,U,X
+  13,R
+   5,R,K
+  14,U,Z
+  12,R,J
+   1,K
+   1,J,G
+   7,L
+  12,L,Z
    1,L,J
    2,L
-   5,L,U,X
-  16,L
-   5,U,X
-   8,U
+  14,L,U,X
+   1,L,J
+   3,L
+  13,U,X
   40
 
 #lvl_SS2-3
-  20,U
-   3,R,U
-   3,U
-
-  50,U
+  76,U
   11,L,U
   40
 
-#lvl_SS2-5
+#lvl_SS2-5b
    3,L,U
    5,L,U,X
    9,L
@@ -182,100 +180,112 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
 
 #lvl-SS2-3
   68,D
-  14,L
-  10
-  10,L,D,X
-   5,R,J
-  14,R,D,X
+  17,L,D
+  14,L,Z
+   1,R,J
+  15,R,Z
+   1,R,J
+   2,R
+   1,R,J
+   1,R
+   1,R,K
   40
 
 #lvl-SS2-7
-   1,R,J
-  14,R,D,X
-  12,R,J
-
-   7,R,D,X
-
+  17,R,K
+  12,R,D,X
 
 #lvl-HUB
-  11,R
+  11,R,D
    1,R,J
   14,R,D,X
    1,R,J
   14,R,D,X
    1,R,J
-  11,R,D,X
+   9,R,D,X
   40
 
 #lvl_Lab-0
 #potentially cpop to reduce speed at gravity flip
-   3,R,D,X
-   2,R,J
-   9,R
-  12,R,X
+   5,R,D,X
+   5,R,K
+  10,R
+   1
    1,R,J,G
-  14,R
-  16
-  45,R
+   5,R
+   5,R,J
+  17,R
+   3,R,D
+   1,R
+   1,R,G
+  10
+   9,R,J,G
+   5,R
    1,R,J
   14,R
    1,R,J
-   8,R
+  14,R
+   1,R,J
+  10,R
   40
 
 #lvl_Lab-1
-   6,R
+   4,R
    1,R,J
   14,R
    1,R,J
   14,R
    1,R,J
   14,R
-   5,R,J
-  24,R,U
-  42,R,D
-  43,L,D
-  30,L,J
-  32,L
+   7,R,J
+  23,R,U
+  43,R,D
+  51,L,D
+  14,L,Z
    1,L,J
-  14,L
+   7,L
    1,L,J
-  14,L
-   1,L,J
-   6,L
+  12,L
   40
 
 #lvl_Lab-2
 #fastfalling may allow for the removal of these r releases
-   8,L
-   1,L,J
-  14,L
-  17,L,J
-  16,L,D
-  60,L
-  10,L,D
-  49,L
-  28,L
+   2,L
+   8,L,J
+  47,L,U
+  36,L,D
+  34,L,U
+  19,L,D
   40
 
 #lvl_Lab-3
-  28,L
-  11,L,U
-  27,L
-  15,L,D
-  25,L
-  18,L,U
-  29,L,D
-  55,D
-   2,R,D
-  27,R,U
+  19,L,D
+  60,L
+   5,L,J
+  12,L,D
+   1,J
+   8,L,J
+   5,L
+   3,L,J
+  16,L
+   1,L,J,G
+  14,L
+   3,L,D
+  52,D
+   1
+   1,D
+   2,L
+   3
+   3,R
+  25,R,U
   10,R,J
    1,R
    9,R,J
    2
   11,R
    1,R,K,G
-  20,R
+   1,R,J,G
+  21,R
    1,R,J
   14,R
    1,R,J
@@ -284,19 +294,30 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
   14,R
    1,R,J
   14,R
-   1,R,J
-   3,R
   40
 
 #Lvl_Lab-4
-  11,R
- 162,R,J
-  32,R,D
    1,R,J
+  14,R
+   1,R,J
+  24,R
+  15,R,D
+  37,R,U
+  11,R
+   1,R,J
+  26,R,D
+  11,R
+  26,R,J
+  30,R,D
+   1,R,J
+   1,R
   40
 
 #Lvl_Lab-5
-  58,R,U
+   2
+  60,R,U
+   1,U
+   1,R,U
    5,R
   28,R,D
    7,L,D
@@ -310,26 +331,30 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
 
 #lvl-Lab_7
    9,D
-  26,L,D
+  20,L,D
+   6,D
+   1,L
+   3
+   1,L
    1,L,J
-  22,L
-  12,L,D
+  14,L
    1,L,D,J
+  14,L,D
+   1,L,D,J
+   2,L,K
    3,L
+
    1,L,J
-  11,L
-   1,L,J
-  14,L
-   1,L,J
-  14,L
-   1,L,J
-  14,L
-   1,L,J
+   1,L,K
    2,L
+   1,L,J
+  14,L
+   1,L,J
+   9,L
   40
 
 #lvl_Lab-8
-  12,L
+   6,L
    1,L,J
   14,L
    1,L,J
@@ -337,30 +362,30 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
    1,L,J
   14,L
    8,L,J
-   5,L,U,X
-  14,L
+  19,L,U,C
 
 
 
 #lvl_HUB
-   5,L,D,X
-   9,L
-   1,L,J
   14,L,D,X
    1,L,J
   14,L,D,X
    1,L,J
   14,L,D,X
    1,L,J
-   5,L,D,X
+  14,L,D,X
+   1,L,J
   40
 
 #lvl_WZ-0
-   7,L,D,X
+  12,L,D,X
    6,L,J
-  20,U,X
-  11,J
-  12,L
+  14,U,X
+  15,J
+   1,L,K,G
+   7,L
+#wait for cycle
+   1
   10,L,Z
    1,L,J
    8,L
@@ -610,9 +635,9 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
  183,U
   40
 
-#lvl_ HEART  
+#lvl_HEART  
   23,U
    5,U,X
- 136
+ 135
 
-ChapterTime: 1:51.792(6576)
+ChapterTime: 1:47.797(6341)
