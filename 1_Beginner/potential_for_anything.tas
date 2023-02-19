@@ -1,4 +1,4 @@
-RecordCount: 1113
+RecordCount: 1226
 
 console load StrawberryJam2021/1-Beginner/frozenflygone
    1
@@ -120,7 +120,7 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
   40
 
 #lvl_SS2-4
-#can reach the plateform sooner
+#can reach the platform sooner
    2,R
   10,R,J
   18,D,X
@@ -250,26 +250,31 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
    8,L
    1,L,J
   14,L
-  30,L,J
-   3
-   9,L
-  74,L
-   6
-  64,L
+  17,L,J
+  16,L,D
+  60,L
+  10,L,D
+  49,L
+  28,L
   40
 
 #lvl_Lab-3
-#better fastfalling is possible
-  77,L
-  11
-  71,L
+  28,L
+  11,L,U
+  27,L
+  15,L,D
+  25,L
+  18,L,U
+  29,L,D
   55,D
-  11,R,D
-  15,U
-  13,R
-  12,R,J
-  22,R
-   2,R,J,G
+   2,R,D
+  27,R,U
+  10,R,J
+   1,R
+   9,R,J
+   2
+  11,R
+   1,R,K,G
   20,R
    1,R,J
   14,R
@@ -280,13 +285,13 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
    1,R,J
   14,R
    1,R,J
-   7,R
+   3,R
   40
 
 #Lvl_Lab-4
-   7,R
+  11,R
  162,R,J
-  36,R
+  32,R,D
    1,R,J
   40
 
@@ -610,4 +615,4 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
    5,U,X
  136
 
-ChapterTime: 1:52.268(6604)
+ChapterTime: 1:51.792(6576)
