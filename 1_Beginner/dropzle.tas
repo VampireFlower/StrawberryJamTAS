@@ -1,4 +1,7 @@
-RecordCount: 358
+# StrawberryJam2021
+# https://gamebanana.com/mods/424541
+
+RecordCount: 362
 
 console load StrawberryJam2021/1-Beginner/Owen-Shirrell
    1
@@ -35,14 +38,16 @@ console load StrawberryJam2021/1-Beginner/Owen-Shirrell
   40
 
 #lvl_02 - Breadth
-   4,D
-   4,R,D
-   4,Z
+   1,D
+   7,R,D
+   5,R,Z
    1,R,J
-  10,R,D
-  15,R,D,X
-  25,L,D
-   4,D
+  28,R,D
+   5,D
+   1,R,D
+  13,D
+   1,L,D
+   1,D
   40
 
 #lvl_03 - Labyrinth
@@ -152,8 +157,11 @@ console load StrawberryJam2021/1-Beginner/Owen-Shirrell
    1,K,G
    1
    2,J,G
-   6,R
-  36,D,X
+   1,R,J
+   4,R
+  34,D,X
+   1,L,D
+   1,D
    1,R
   40
 
@@ -245,4 +253,4 @@ console load StrawberryJam2021/1-Beginner/Owen-Shirrell
   15,D,X
    2,D
  135
-ChapterTime: 0:35.802(2106)
+ChapterTime: 0:35.768(2104)
