@@ -487,7 +487,7 @@ console load StrawberryJam2021/1-Beginner/Ceph
 Repeat, 4
    1,U
    1,R
-RndRepeat
+EndRepeat
    1,R
   15,R,X
 Repeat, 3
