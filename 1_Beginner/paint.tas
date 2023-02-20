@@ -1,4 +1,4 @@
-RecordCount: 2423
+RecordCount: 2448
 
 console load StrawberryJam2021/1-Beginner/mosscairn
    1
@@ -122,8 +122,10 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    7,R
   12,R,J
   15,U,X
-  15,R,J
-  28,G
+  16,R,J
+  20,G,U
+   5
+   2,R
    4,R,Z
   11,R,J,G
   10,R,Z
