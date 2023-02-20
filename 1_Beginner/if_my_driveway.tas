@@ -1,7 +1,14 @@
-RecordCount: 2723
+RecordCount: 2866
 
 console load StrawberryJam2021/1-Beginner/Bing_Over_Google
    1
+
+#-1f
+#   5,L,Z
+#   3,L,J
+#   5,L,K,G
+#   9,L
+#   1,L,J
 
 #Start
 #lvl_00- intro
@@ -21,6 +28,7 @@ console load StrawberryJam2021/1-Beginner/Bing_Over_Google
    3,L,D,X
    1,L,J
   15,L,D,X
+#0:01.785(105)
    3,L
    1,R
   14,R,Z
@@ -186,21 +194,26 @@ EndStunPause
    9,U,X
   40
 
-#level_09
+#lvl_09- Fin
   13,L,J
   10,L,Z
-   5,L,J
-  14,L,Z
-   1,L,J
-   9,L,D,X
-  16,L,J,G
+   4,L,J
+   1,J
    1,L,K,G
-  12,L
-   1
-   2,R,J
+   1,K
+  14,L,D,X
+  13,L,J
+   1,L
+   8,L,Z
+   1,L,J
+   6,L
+   5,L,J
   15,U,X
-   2,R,J,G
-  13,R,K,G
+   1,R,J,G
+   2,R,K,G
+   3,L,J
+   1,K
+   4,R,J
   15,L,D,X
  125,L,D
-ChapterTime: 0:19.992(1176)
+ChapterTime: 0:19.822(1166)
