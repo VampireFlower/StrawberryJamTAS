@@ -1,4 +1,4 @@
-RecordCount: 1026
+RecordCount: 1205
 
 console load StrawberryJam2021/2-Intermediate/GlowWoomii
    1
@@ -7,32 +7,31 @@ console load StrawberryJam2021/2-Intermediate/GlowWoomii
  190
 
 #lvl_startroom
-   4,R,Z
+   7,R,Z
    1,R,J
    7,R
-  18,R,J
+  15,R,J
   13,R,U,X
-  31,R,G
-  16,R
+  18,R,G
+   1,R,K,G
+  25,R
    6,R,Z
    1,R,J
    7,R
    1,R,J
-   9,R,D,X
+   8,R,D,X
    1,R,J
    7,R
-   2,R,J
+   3,R,K
   40
 
 #lvl_r1
-   1,R,J
-   1,J
-  15,R,J
+  13,R,J
   13,R,U,X
    7,R,G
-   4,G
-   8,R,D
-  16,D
+   5,G
+   5,R,D
+  19,D
   19,R
   15,R,U,X
   52,R,G
@@ -72,32 +71,36 @@ console load StrawberryJam2021/2-Intermediate/GlowWoomii
   40
 
 #lvl_r3
-  11,R
-   9,R,D,X
+   6
+   3
+   2,R
+  10,R,D,X
    3,R,J
-   3,R
+   3,R,J
+   5,R,D,X
    1,R,K,G
   11,R
-  12,R,J
-  13,R,G
-   3,R,J,G
-   4,R
-  14,R,X
-   1,R,J,G
-  11,R
-   1,R,J
+  19,R,K,G
+   1,R
+   5,R,J
+   2,R
+   2,R,J
+  11,R,U,X
+   1,R,K,G
+   6,R,K
+   1,K
   40
 
 #lvl_rhub(0)
-   6,R,J
-   8,R,D,X
-   6,R,J,G
+   2,K
+   1
+   9,R,D,X
+   4,R,J,G
    5,R
-   3,R,J
+   1,R,K
    4,R
-   3,R,J
-  70,R,G
-   6,R
+  56,R,K,G
+   5,R
   29,R,D,X
   40
 
@@ -407,4 +410,4 @@ console load StrawberryJam2021/2-Intermediate/GlowWoomii
    1,L,J
   44,L
 
-ChapterTime: 1:16.109(4477)
+ChapterTime: 1:15.463(4439)
