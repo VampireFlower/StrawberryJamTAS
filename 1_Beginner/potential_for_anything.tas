@@ -1,4 +1,4 @@
-RecordCount: 1800
+RecordCount: 1863
 
 console load StrawberryJam2021/1-Beginner/frozenflygone
    1
@@ -89,8 +89,6 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
   40
 
 #lvl_SS2-3
-
-#faster descent possibly
   15,R,U,X
    1
    7,L,U,J
@@ -206,7 +204,6 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
   40
 
 #lvl_Lab-0
-#potentially cpop to reduce speed at gravity flip
    5,R,D,X
    5,R,K
   10,R
@@ -249,7 +246,6 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
   40
 
 #lvl_Lab-2
-#fastfalling may allow for the removal of these r releases
    2,L
    8,L,J
   47,L,U
@@ -624,31 +620,30 @@ EndRepeat
    1,L,J
    6,L
    5,U,X
-  38,U
+  30,U
+   8,L,U
   40
 
 #lvl_FinalChallenge
-#bino shenanigans?
 #saving a cycle in the """gravitron""" is probs possible and would save like 6 billion years
-   4,U
+   4,L,U
   14,L,U,X
-   1,L,J
-  14,L,U,X
-   7,L
-  31,R,U
-   1,R
-  21,R,D
-  10,L,D,X
+   6,L,J
+   2,L
+  13,R
+  21,R
+  29,R,J
+  10,R,D,X
   28,R,J
    5,R,U,X
-  16,R,J
-  30,R,U
+  16,R
+  22,R,U
   36,R,D
   35,R,U
-  35,R,D
+  37,R,D
   20,R,U
-  15,U
-   6
+  16,U
+   5
   29,R,D
   16,R,U
   40,U
@@ -691,4 +686,4 @@ EndRepeat
   23,U
    5,U,X
  135
-ChapterTime: 1:44.397(6141)
+ChapterTime: 1:44.278(6134)
