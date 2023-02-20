@@ -1,4 +1,4 @@
-RecordCount: 1618
+RecordCount: 1800
 
 console load StrawberryJam2021/1-Beginner/frozenflygone
    1
@@ -364,8 +364,6 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
    8,L,J
   19,L,U,C
 
-
-
 #lvl_HUB
   14,L,D,X
    1,L,J
@@ -385,65 +383,101 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
    1,L,K,G
    7,L
 #wait for cycle
-   1
   10,L,Z
    1,L,J
    8,L
    5,D,X
   38,L,D
-  10,L,Z
+   4,L,Z
    1,L,J
-   5,L
-   5,D,X
-  13,L,D
-  21,D
+   2,L
+   3,L,J
+   1,L
+   2,L,J
+   1,L
+   2,L,D
+  18,D,X
+  20,D
 
 #lvl_WZ-1
    5,R,D,X
   15,R
-  14,L
+  13,L,D
    5,R,Z
   23,L
   13,D
-   7,L,J
+   1,J
+   6,L,J
    5,L,Z
   23,R
-  12,R,D
-   5,R,J
-   5,Z
-  10,R
+   6,R,D
+   3,L,D
+   1,L
+   2,L,D
+   4,R,Z
+   2,R,J
+   1,R,K,G
+   5,R
+   3,R,J
+   3,R
 
 #lvl_WZ-2
-  15,R,D,X
-  13,R,J
-   1,K
-  20,L,K
-   5,R,U,X
-   4,R
+   5,R
+   1,L
+  13,L,J
+   1,L,K,G
+Repeat,5
+   1,L,J,G
    1,R,J,G
-  14,R
-  10,R,Z
-  11,R,J
-  14,L,U,X
-   1,L,J
-  16,L,U,X
-  10,J
-   5,D,X
-  32,L
-   5,L,Z
+EndRepeat
+   1,K
+   7,R,K
+   3,K
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   4,R,D,X
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+   5,R,J
+  12,L,U,X
    1,L,J
    7,L
+   1,L,U,J
+   2,L,D,J
+   8,J
+   1,K
+   9,R,J,G
+  10,L,D,X
+   1,L,J,G
+   9,L
    1,L,J
    3,L
-   5,U,X
-  16,L,U
-   5,L,X
-   5
-   8,J
-   5,D,X
-  20,L,J
-  14,L,Z
+  10,L,Z
    1,L,J
+   4,L
+  15,U,X
+   6,L
+   9,L,U,J
+   2,R,U,J
+   2,R,K,G
+   1,L,K,G
+   1,R,K,G
+   1,L,K,G
+   1,R,K,G
+   1,L,K,G
+   1,R,K,G
+   2,L,K,G
+   1,R,K,G
+   1,J
+  10,L,J
+   2,L,K,G
+  10,L,Z
+   1,L,J
+   5,L
   14,L,U,X
    2,L,J
   11,L
@@ -487,37 +521,55 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
   36,L,U
   14,L,U,X
    1,L,J
-  14,L,U,X
-   4,L,J
-  10,L
-   5,U,X
-  15,U
-   5,L,U,X
-  16,L,U
-  24,U
+   1,L
+  15,L,U,X
+   1,U
    1
-  56,D
-   5,R,D,X
-  39,R,D
-   5,R,X
-  11,R
-   5,D,X
-  26,D
+  13,R,J
+   1,L,K,G
+   1,R,K,G
+   1,L,K,G
+   1,R,K,G
+   1,L,K,G
+   1,R,K,G
+   1,L,K,G
+   1,R,K,G
+   1,L,K,G
+   1,R,K,G
+   1,L,K,G
+
+   2,R,K,G
+   1,L,K,G
+   1,J,G
+   1,R,J,G
+   1,L,K,G
+  12,K
+  15,D,X
+   3,L,D
 
 #lvl_WZ-4
+   6,L,D
   14,R,D,X
-   9,R,J
-   8,R
-   5,R,X
-  17,R,D
-  33,D
-  10,R,D
-  14,R,Z
-   3,R,J
+  23,R,J
+   1,J
+  15,R,U,Z
+   1,L,J,G
+   2,L,K,G
+Repeat,2
+   1,R,K,G
+   1,L,K,G
+EndRepeat
+   1,R,K,G
+   1
+   1,J
+  10,R
+  10,R,D,X
+   1,R,J
+   4,R
 
 #lvl_WZ-5a
    5,L,X
-  31,L
+  31,L,U
   10,L,Z
   27,R,J
   33,R,D,Z
@@ -639,5 +691,4 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
   23,U
    5,U,X
  135
-
-ChapterTime: 1:47.797(6341)
+ChapterTime: 1:44.397(6141)
