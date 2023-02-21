@@ -1,4 +1,4 @@
-RecordCount: 1306
+RecordCount: 1324
 
 console load StrawberryJam2021/1-Beginner/HankyMueller
    1
@@ -130,198 +130,24 @@ console load StrawberryJam2021/1-Beginner/HankyMueller
   15,R,D,X
   30,D
    5,R,D
-  18,D
-  14,L,D,X
+  12,D
+   9,L,D
+   4,R,D
   40
 
 #lvl_Timestop Intro
-  38,L,D
-   1,L,J
-  14,L
-   1,L,J
-   4,L
-  15,U,X
-   4,R,J,G
-  18
-  35,L,D
-   1,L,J
-  18,L
-   1,L,J
-  14,L
-   1,L,J
-  14,L
-   3,L,J
-  19,L
-  10,L,J
- 100,L
-  15,L,U,X
-   7,L
-   6,G
-  12,L,J,G
-  12,L,K,G
-   4,L,J,G
-  40
 
-#lvl_Shuffle
-  12,L,J,G
-   3,L,K,G
-  10,L
-   1,L,J
-  14,L
-  22
-  15,U,X
-  15,U,C
-   5,L
-  10,R,D
-   8,D
-   7,R
-   8
-  15,R
-   1,G
-   1,R,J,G
-  19,R
-   1,R,J
-   3,R
-  15,L
-  10,L,D,X
-  10,L,J
-  22,L
-   2,L,J
-  23,L,K,G
-  15,U,X
-  19,L,J
-  15,U,X
-  15,R,U,C
-   8,R
-   1,R,J,G
-  13,R
-   1,R,J
-  14,R
-   1,R,J
-   3,R
-   1,R,J,G
-   1,R,K,G
-  21,R,J
-  12,R,K,G
-   4,R,J,G
-  40
-
-#lvl_Double Vision
-  11,R,K,G
-  15,R,X
-  37,R
-  13
-  15,R,U,X
-  10,R
-  20,D
-  10,R,D
-   6,L,D
-   7,R
-  45,L,J
-  18
-  15,R
-  15,R,X
-  16,R
-  18,R,C
-  18
-  20,L
-  15,R
-  15,U,X
-  15,R,U,C
-  55,R
-  15,R,X
-  26,R
-  15,R,U,X
-   2,R
-  46,R,D
-   1,R,J
-   3,R
-   1,R,J,G
-   1,R,K,G
-   1,R,K
-  10,R
-   1,R,J,G
-   1,R,K
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-   3,R
-  15,D
-   1,J
-  30,R,D
-  40
-
-#lvl_Waiting Room
-   6,R,D
-  15,R,D,X
-  30,D
-   5,R,D
-  18,D
-  14,L,D,X
-  40
-
-#lvl_Timestop Intro
-  38,L,D
-   1,L,J
-  14,L
-   1,L,J
-   4,L
-  15,U,X
-   4,R,J,G
-  18
-  35,L,D
-  20,L,J
-  90
-  16,U,X
-   7,J
-   8
-  34,D
-   1,L,J
-  14,L
-   1,L,J
-  16,L
-  10,L,J
-  79,L
-  51,R,D
-  52,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   6,R,X
-   2,R,J
-   1,R,K,G
-   6,R,K
-   8,R
-   1
-  31,R,Z
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-   3,R
-  12,R,K,G
-   2,R,J,G
-  17,R
-  17,R,D
-   1,R,J
-  17,R
-   1,R,J
-   2,R
+   1,S
+   1,D,J
+  69,O
+   6,R,Z
   40
 
 #lvl_Timestop Intro Again
-   6,R,D,X
    1,R,J
-  11,R
-   1,R,J
-  10,R,D,X
+  10,R
+   2,R,J
+  12,R,D,X
    6,G
    7,D,X
    1,L,J
@@ -331,7 +157,7 @@ console load StrawberryJam2021/1-Beginner/HankyMueller
    1,L,K,G
   14,L
   15,R
-  78
+  77
    1,R,J
   21,R
    1,R,J
@@ -617,8 +443,9 @@ console load StrawberryJam2021/1-Beginner/HankyMueller
    4
   41,R,D
    7,R,X
+   1,R
 StunPause
-  11,R
+  10,R
 SkipInput,3,1
   15,D,X
    1
@@ -644,4 +471,4 @@ EndStunPause
  158
   10,R,X
  135
-ChapterTime: 2:13.892(7876)
+ChapterTime: 1:36.203(5659)
