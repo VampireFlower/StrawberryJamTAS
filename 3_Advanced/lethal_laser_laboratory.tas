@@ -1,8 +1,8 @@
-RecordCount: 1462
+RecordCount: 1855
 
 
 console load StrawberryJam2021/3-Advanced/hennyburgr
- 190
+   1
 
 #Start
 #lvl_a_01
@@ -14,35 +14,28 @@ console load StrawberryJam2021/3-Advanced/hennyburgr
    1,J
   23,R
 
-  10,R,X
-   4,R
-
-   1,R,J
-   5,R,U,X
-   9,R
-   6,L,J
-   8,L,G
-   
+  14,R,Z
+   2,J
+  15,U,X
+  11,L,G
    8,R,D
-  14,D
+  15,D
 
   10,L,Z
   19,L,J
-  14,L,K,G
-
+   9,K,G
+   2,L,K
   18,U,X
-  15,U,C
-   4
+  14,U,C
+   5,J
 
   40
-#lvl_a02
-
+#lvl_a_02
   11
-
   15,R,X
   10,J
-   8,L,G
 
+   8,L,G
   42
 
   10,R,X
@@ -54,25 +47,52 @@ console load StrawberryJam2021/3-Advanced/hennyburgr
 
    2,L,J,G
   10,L
-  42
+  40
+   4,L
 
-  10,L,Z
+   9,L,D,X
    1,R,J
-   8,R
+   7,R
   10,R,J
-  13,R
+   5,R
+   8,R,J
 
-  15,U,X
+  14,U,X
 
-   6,R,U,J
+   5,R,U,J
 
   40
-#lvl_a03
+#lvl_a_03
   11,R
-
-  10,R,Z
-   4,R
-  27,R,J
+   1
+   5,R,D,X
+   1,R,J
+   7,R
+  10,R,J
+   5,R
+  11,R,J
+  12,K,G
+   1,J
+  31,L,K
+  25,L,U,X
+   8,L,K,G
+   7,L,J,G
+   5,L
+   2,L,J
+  12,L
+  12,K
+   5,L,J,G
+  56,G
+   1,K
+  18,R,J
+  14,R,Z
+  25,R,J
+  13,U,X
+  14,L,J
+   8,L
+   4,L,J
+   3,L
+   6,L,J
 
 # cycle skip attempt
 #  14,U,X
@@ -103,62 +123,27 @@ console load StrawberryJam2021/3-Advanced/hennyburgr
 #  10,Z
 #   3
 #  50,J
-
-   5,R
-  13,R,J,G
-  73,R,U,G
-
-   3,J,G
-   9
-   1,L
-
-  29,L,J
-
-   5,L,U,X
-  24,L
-   9
-
-   1,J
-  10,L,J
-  15,L
-  35,L,J,G
-
-   1,K
-  36,L,K
-   1,J
-  36,L,J
-   1,K
-   9,L,K
-  12,R
-
-  14,R,Z
-  24,R,J
-
   15,U,X
-
-  13,L,J
-  15,L
-
-   6,L,J
-  15,U,X
-   5
-
+   3,J
   40
 
-#lvl_a04
-  17
+#lvl_a_04
+
+   7
+   9,R
+
+  14,R,Z
+  21,R,J
+
+  15,U,X
+  10,R
+  68,L,G
+   5
+
+  18,R
 
   10,R,Z
-  27,R,J
-
-  10,U,X
-  87,L,G
-
-  10
-  14,R
-
-  10,R,Z
-  27,R,J
+  25,R,J
 
   15,U,X
   56,R,J
@@ -177,8 +162,8 @@ console load StrawberryJam2021/3-Advanced/hennyburgr
   10,R,D,X
    1,J
   40
+#lvl_a_05
 
-#lvl_a05
    7,R
    8,R,J
   19,R
@@ -224,31 +209,24 @@ console load StrawberryJam2021/3-Advanced/hennyburgr
 
   10,L,Z
   19,L,J
-
   15,U,X
-  27,R,J
-
-   2,G
-  12,K,G
-
+  25,R,J
+   2,R,G
+  19,R,K,G
+   6,J,G
+   9,K,G
+   2
+   7,J,G
    7
-  12,L,J
-  12,R,K
-
-  10
-
-  10,U,X
-   1
-
+  11,U,X
   40
-#lvl_06
+#lvl_a_06
 
    2,J,G
    9
-  15,R,Z
-
+   5,R,Z
    1,R,J
-
+   9,R
   10,L,D,X
   31,R,J
 
@@ -293,65 +271,44 @@ console load StrawberryJam2021/3-Advanced/hennyburgr
 
 #  10,U,X
 #  10,R,J
-
-  15,J
-  14
-   
-  10,L,Z
+  34,J
+  13,L,Z
+  26,R,J
+  12,U,X
+  10,R,J
+  10,J
   23,R,J
-
-  17,U,X
-  32,R,J
-
-  16,L
-
-  10,R,Z
-  11,R,J
-  22,R
-
-  10,Z
+  14,R,Z
+  16,R,J
+  15,R,D,X
+   3,R
    1,R,J
-   4,R
-   8,R,D,X
-   
+  11,R,D,X
   40
+#lvl_a_07
 
-#lvl_a07
-   3
-   3,R,J
-   4,R
-  10,R,D,X
-
+   6,R,D,X
    1,R,J
-   4,R
-  10,R,D,X
+  14,R,D,X
    1,R,J
-   4,R
-   6,R,J
-
-  10,R,U,X
-  36,L,D
-
+  10,R,D,X
+   5,R,J
+  11,R,U,Z
+   1,L
+   1,K,G
+   2
+   1,R
+  22,L
 
   10,L,Z
-   1,J
-   6,L
-  10,L,J
+   1,L,J
+   7,L
+  13,J
+   9,K
+  12
+  10,R,Z
+   5,R,J
+  12,U,X
+ 225
 
-   6
-
-  10,R,U,X
-   1,R
-   1,R,J,G
-
-  14,R
-
-  10,U,X
- 137
-
-ChapterTime: 0:47.345(2785)
-
-
-
-
-
+ChapterTime: 0:41.208(2424)
