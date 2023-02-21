@@ -1,4 +1,4 @@
-RecordCount: 1908
+RecordCount: 1935
 
 console load StrawberryJam2021/3-Advanced/Jolly
    1
@@ -46,22 +46,18 @@ EndStunPause
    6,G
   18,L,J
   15,R,X
-  10,L,D,C
-   7,L,J
-   5,L
-   2,L,J
-   2,L
-  18,D,X
-  15,R,D,C
-   3,R,D
-  13,L,D,X
-  49,R,C
-  14,R,U,X
-  15,U,C
-  15,L,U,X
-  28,L,D
-   9,D
-  31,G
+  15,D,C
+   1,L,J
+   6,L
+  13
+   9,R,D
+   3,D
+  15,R,Z
+   5
+   1,R
+  13,L
+   1,G
+  30,U,G
    3,R,J
   16,R
    6,R,Z
@@ -278,11 +274,11 @@ EndStunPause
    1,L,K,G
    7,R,K
   10,R,U,X
-  13,R,J,G
+  14,R,J,G
 StunPause
    4,R,J
 EndStunPause
-   5,R,J
+   4,R,J
   30,R,D
    6,R
    1,R,D
@@ -657,4 +653,4 @@ EndStunPause
    1,L,J
   34,L
 
-ChapterTime: 1:53.186(6658)
+ChapterTime: 1:51.435(6555)
