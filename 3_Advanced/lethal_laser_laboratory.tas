@@ -1,4 +1,4 @@
-RecordCount: 1976
+RecordCount: 2054
 
 
 console load StrawberryJam2021/3-Advanced/hennyburgr
@@ -68,55 +68,29 @@ console load StrawberryJam2021/3-Advanced/hennyburgr
    1,J
   31,L,K
   25,L,U,X
-   8,L,K,G
-   7,L,J,G
-   5,L
-   2,L,J
-  12,L
-  12,K
-   5,L,J,G
-  56,G
-   1,K
-  18,R,J
-  14,R,Z
-  25,R,J
-  13,U,X
-  14,L,J
-   8,L
-   4,L,J
-   3,L
-   6,L,J
-
-# cycle skip attempt
-#  14,U,X
-#  43,L,J
-
-#  10,L,U,X
-
-#  20,L,J,G
-#   4,K,G
-#   4,J,G
-#   5,K,G
-#  15,R,J
-#  10,R
-
-##  wallbounce attempt
-##  10,R
-
-##   9,R,J
-##   1,R
-##  21,R,J
-##   2
-  
-##  10,U,X
-##   2
-##   1,R,J
-##  26,L,J
-
-#  10,Z
-#   3
-#  50,J
-  15,U,X
+   2,L,K,G
+   2,R,K
+   2,K
+   1,L,J,G
+  12,L,K,G
+  16,L,U,X
+   1,J
+   8,R,J
+   2
+  11,R
+#save 1 frame to dcb
+   1,R,J,G
+  23,R
+  11,R,J
+   5,R
+   6,U,X
+  34,L,J
+   2,J
+   2,K,G
+   6
+   1,R
+   6,J
+  14,U,X
    3,J
   43
 
@@ -282,4 +256,4 @@ console load StrawberryJam2021/3-Advanced/hennyburgr
   10,U,X
  135
 
-ChapterTime: 0:40.851(2403)
+ChapterTime: 0:39.831(2343)
