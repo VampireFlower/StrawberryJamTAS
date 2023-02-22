@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 1523
+RecordCount: 1545
 
 #bottlenecks in each room can depend on
 #theo in the clear pipe or Madeline,
@@ -143,15 +143,17 @@ console load StrawberryJam2021/1-Beginner/Jadeturtle
    1,R
   12,R,U,X
   14,R,J,G
-  79,R,D,G
+  78,R,D,G
    1,R
-   3,R,D
+   4,R,D
   20,R,D,X
   28,R
   11,U,C
   14,R,J
-   6,R
-   5
+   5,R
+   4
+   1,R
+   1
 ##madeline here
   10,R,X
    1,L,J
@@ -377,7 +379,7 @@ console load StrawberryJam2021/1-Beginner/Jadeturtle
    1,L
 ##pipe entry can be optimized, bottlenecks are about equal
   14,L,X
-  99
+ 100
    7,R,D,X
    1,R,J
    7,R
@@ -488,7 +490,7 @@ repeat, 10
    3,L,J
 endrepeat
 
-ChapterTime: 1:13.134(4302)
+ChapterTime: 1:13.151(4303)
 
 
 
