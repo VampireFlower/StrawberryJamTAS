@@ -1,10 +1,11 @@
-RecordCount: 1735
+RecordCount: 2736
 
 console load StrawberryJam2021/1-Beginner/HankyMueller
    1
 
 #Start
   69
+
 
 #lvl_Intro A
   14,Z
@@ -99,30 +100,36 @@ console load StrawberryJam2021/1-Beginner/HankyMueller
    1,L,J
    1,L
    1,L,K,G
-   1,L,J,G
-   6,L
+   7,L,J,G
+   0,L
    1,S
    1,D,J
   34
-   7,L
    1,L,J
-   8,L
-  13,D
+   5,L
+   2,L,J
+   7,L
+   5,L
+   6,D
    1,J
-  30,R,D
+  14
+  12,R,D
+   4,D
   40
 
 #lvl_Waiting Room
-   6,R,D
-  15,R,D,X
-  30,D
-   5,R,D
-  12,D
+   2,R,D
+  13,R
+   1,R,D
+   2,R
+  37,R,D
+   6,D
    9,L,D
-   4,R,D
+   8,R,D
   40
 
 #lvl_Timestop Intro
+
    1,S
    1,D,J
   69,O
@@ -131,74 +138,82 @@ console load StrawberryJam2021/1-Beginner/HankyMueller
 
 #lvl_Timestop Intro Again
    1,R,J
-  10,R
-   2,R,J
-  12,R,D,X
-   6,G
-   7,D,X
-   1,L,J
-  14,L
-   1,L,J
-   2,L
-   1,L,K,G
-  14,L
-   1,L
-  79
-  11,R
-   1,R,J
-  21,R
-   1,R,J
-  14,R
-   1,R,J
-  21,R,D
-  18,R,J
-   5,R
-  16,L
-   4,J,G
-   2,R,J
-  18
-  25,R
-  15,R,U,X
-  21,R
-  20,R
-   5,R,D
-  15,R,U,Z
-   3,R
-   1,J
-   1,K
-   1,R,K
-   5,R
-  18,R,J
-   6,L,D
-   5
-   3,L,J,G
-   2,R,J
-   1,L,J
-   2,L,K,G
-   5,L
-   2,L,J
-   8,L
-  13,D
-  18
-  13,L
-  18,L,U,X
-  16,L
-  15,L,U,X
-  19,L
-  13,R,D
-  15,R,D,X
-  18,R,D
-   3,R
-  21,D
-   1,R,D
-   6,U,G
+  23,R
+Repeat 30
+   1,G
    1
+EndRepeat
+   1
+  10,L,D,X
+   2,L,J
+   1,L,K,G
+   2
+   1,J,G
+  10
+   9,R
+  15,D,X
+  14
+  11,R
+   3,R,J
+   4,L,J
+   1,K
+   1,J,G
+   1
+  25,R
+  12,R,D,J
+   1,L,J
+   1,K,G
+   7,R,K
+   1,L,K
+   1,J,G
+   6,R,J
+   1,L,J
+  10,K,G
+   1,J
+  45,R
+  15,R,X
+  24,R
+  15,R,U,Z
+  13,R
+   5,R,J
+   5,R
+   3,R,K
+   3,R
+   1,R,K
+   8,R
+   1,R,D
+   1,L,D
+   1,L
+   3,L,D
+   1,R,D
+   4,L,D
+   1,J,G
+   1,L,K,G
+   1,L,J,G
+  15,L,K,G
+  15,L,Z
+  37,L
+  15,L,X
+  14,L
+   8,L,D
+  15,R,D,X
+  25,R,D
+   1
+   1,R
+   4,D
+   8,L,D
+   1,R,D
+   3,D
+   7,G
    1,R,J,G
    1,R,K,G
-   5,L,K
+   1,R,J,G
+   5,L,J
   20,L
+   2,L,D
    6,R,D
   40
+#0:30.209(1777)
 
 #lvl_Stepping Stone
   12,R,D
@@ -456,9 +471,9 @@ console load StrawberryJam2021/1-Beginner/HankyMueller
   41,R,D
    4,Z
    1,R,J
-   3,R
+   4,R
 stunpause
-   7,R
+   6,R
 skipinput 3 1
   15,D,X
 endstunpause
@@ -484,7 +499,4 @@ endstunpause
  158
   10,R,X
  135
-
-ChapterTime: 1:30.134(5302)
-
-
+ChapterTime: 1:28.553(5209)
