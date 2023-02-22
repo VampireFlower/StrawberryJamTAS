@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 563
+RecordCount: 589
 
 console load StrawberryJam2021/1-Beginner/cellularAutomaton
    1
@@ -9,7 +9,7 @@ console load StrawberryJam2021/1-Beginner/cellularAutomaton
 #Start
   36
 
-#01
+#lvl_01
    2,R,K
    2,R,K
    2
@@ -20,7 +20,7 @@ console load StrawberryJam2021/1-Beginner/cellularAutomaton
   10,L,K
   40
 
-#02
+#lvl_02
    6,L
    9,R,J
   10,L,Z
@@ -39,7 +39,7 @@ console load StrawberryJam2021/1-Beginner/cellularAutomaton
    1,R
   40
 
-#03
+#lvl_03
   14,L
    8,L,D,X
   11,L,J
@@ -69,7 +69,7 @@ console load StrawberryJam2021/1-Beginner/cellularAutomaton
   11,U,C
   40
 
-#04
+#lvl_04
   16,R,J
   11,R,X
    4,R,J
@@ -81,7 +81,7 @@ console load StrawberryJam2021/1-Beginner/cellularAutomaton
   18,U,C
   40
 
-#05
+#lvl_05
    9
    1,J
   14,L,J
@@ -97,7 +97,7 @@ console load StrawberryJam2021/1-Beginner/cellularAutomaton
    8,L,Z
   40
 
-#06
+#lvl_06
    9,L,J
   15,R,U,X
   11,R,J
@@ -110,23 +110,34 @@ console load StrawberryJam2021/1-Beginner/cellularAutomaton
   10,U,X
   40
 
-#07
+#lvl_07
    5,U,X
   23,R,J
   19,U,X
   18,U,C
   11,R,J
    4,R,Z
-   1,R,J
-  44,L,D
-  29,R,J
-  22,R,U,X
-  18,R,U,C
-  18,R,J
-   6,R,K,G
+   3,R,J
+   6,R
+   1,R,K
+   8,R,D
+   5,L,D
+   2,D
+   1
+   2,L
+  15,R,Z
+   2,R
+  11,R,J
+   5,R
+  14,R,U,Z
+   1,L
+   1,J
+   2,K,G
+  14,R,K
+   3,R,J,G
   40
 
-#08
+#lvl_08
   16,R,K,G
   15,U,X
   25,J
@@ -137,7 +148,8 @@ console load StrawberryJam2021/1-Beginner/cellularAutomaton
   24,L,U,X
   15,U,C
   20,L,K
-  15,R,U,X
+   4,X
+  11,R,D,X
  125
 
-ChapterTime: 0:24.361(1433)
+ChapterTime: 0:23.647(1391)
