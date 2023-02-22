@@ -1,4 +1,4 @@
-RecordCount: 1908
+RecordCount: 1976
 
 
 console load StrawberryJam2021/3-Advanced/hennyburgr
@@ -53,8 +53,8 @@ console load StrawberryJam2021/3-Advanced/hennyburgr
    8,R,J
   14,U,X
    5,R,U,J
-
   40
+
 #lvl_a_03
   11,R
    1
@@ -118,88 +118,75 @@ console load StrawberryJam2021/3-Advanced/hennyburgr
 #  50,J
   15,U,X
    3,J
-  40
+  43
 
 #lvl_a_04
-
-   7
+   4
    9,R
-
   14,R,Z
-  21,R,J
-
-  15,U,X
-  10,R
-  68,L,G
-   5
-
-  18,R
-
+   7,R,J
+  25,R,U,X
+   1,J
+   1,L,K,G
+  10,L,K
+  30,L,G
+   5,U,G
+  17,G
+   5,D
+  12,R,D
+   6,R
+   2
   10,R,Z
-  25,R,J
+  24,R,J
+  14,U,X
 
-  15,U,X
+
   56,R,J
-
   10,R
    8,R,J
-  16,R
-
+  15,R
+   2
   10,R,Z
    2,R,J
   13,R
-
   10,R,Z
    1,J
    5,R
   10,R,D,X
    1,J
   40
-#lvl_a_05
 
+#lvl_a_05
    7,R
    8,R,J
   19,R
-
   10,L,Z
    9,R,J
    1,J
-
   10,R,U,Z
   15
-
   10,X
   21,L,J
    3,L
-
   10,L,U,X
    1
   23,L,J,G
-
    1,R
   13,J
-   
   10,R,U,X
-
    2,R
   12
-
   10,R,Z
   20,R,J
-
    1
    5,J,G
    5,K,G
    5,J,G
-  
   26,L,K
-  
   10,L,X
    9,L
-
    5,L,J,G
    8,L
-
   10,L,Z
   19,L,J
   15,U,X
@@ -213,8 +200,8 @@ console load StrawberryJam2021/3-Advanced/hennyburgr
    7
   11,U,X
   40
-#lvl_a_06
 
+#lvl_a_06
    2,J,G
    9
    5,R,Z
@@ -222,37 +209,27 @@ console load StrawberryJam2021/3-Advanced/hennyburgr
    9,R
   10,L,D,X
   31,R,J
-
   13,U,X
   13,R,J
   21,R
    7
    5,Z
   40,L
-
    5,L
   10,L,D,X
-
    5,R
    5,L,X
-
    5,R,X
   35,R
-
    5,R,X
    9
   15,R
   20
-
    5,D,X
-
   15
-
    5,R,Z
    6,R
-
   10,L,D,X
-
   14,L
 # attempt to skip laser
 #   3,R,J
@@ -278,8 +255,8 @@ console load StrawberryJam2021/3-Advanced/hennyburgr
    1,R,J
   11,R,D,X
   40
-#lvl_a_07
 
+#lvl_a_07
    6,R,D,X
    1,R,J
   14,R,D,X
@@ -292,7 +269,6 @@ console load StrawberryJam2021/3-Advanced/hennyburgr
    2
    1,R
   22,L
-
   10,L,Z
    1,L,J
    7,L
@@ -306,4 +282,4 @@ console load StrawberryJam2021/3-Advanced/hennyburgr
   10,U,X
  135
 
-ChapterTime: 0:41.140(2420)
+ChapterTime: 0:40.851(2403)
