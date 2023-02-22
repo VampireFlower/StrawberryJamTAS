@@ -1,11 +1,9 @@
-RecordCount: 1624
+RecordCount: 1774
 
 console load StrawberryJam2021/2-Intermediate/Arphimigon
    1
-
 #Start
  100
-
 #lvl_a_01 (a)
   10,R,Z
   13,R,J
@@ -41,50 +39,48 @@ console load StrawberryJam2021/2-Intermediate/Arphimigon
    6
    2,R
    8,D
-  14,L,D
-   8,D
-   4,R,D
+  20,L,D
+  12,D
   15,R,Z
-   5,R,D
-  21,D
   19,R,D
-  77
-  13,D
+
+   1,S
+   1,D,J
+  69,O
    1,J
   14,L,U,X
   40
-
 #lvl_a_01 (b)
   13,L,K,G
    7,J,G
-   4,R,J
-  14,U,X
-   1,J
-   9,L,K,G
-  18,L
-  12,L,U,Z
-   7,L,K,G
-   4,L
-   2,L,J
-   7,L
-  10,J
-   5,L,J
-  14,U,X
-   1,R
-  12,K,G
-   9,R
-   7
-  12,J
+   5,R,J
+  15,U,X
+   5,L,K,G
+   2
+   1,K,G
+  13,L
+   6,J
+  14,L,U,X
+   3,L,K,G
+  17,L
+  12,R,J
+  15,U,X
+  10,K,G
+   7,R
+   6
+   1,L,J
+  11,J
   15,L,U,X
    1,L,K,G
-  14,L
+  13,L
    7,R,J
    5,J
-  15,R,U,X
+  14,R,U,X
   11,K,G
-  23,L,J
-   7,L,K,G
-  14,L
+   1,L,J
+  21,L,K
+   8,L,J,G
+  13,L
    7,L,J
   13,L,U,X
   40,R,J
@@ -123,10 +119,11 @@ console load StrawberryJam2021/2-Intermediate/Arphimigon
    2,J,G
   13,R
   10,R,J
-  36,R,U,X
-  77
-  14,L
-   4,L,Z
+  17,R,U,X
+   1,S
+   1,D,J
+  69,O
+   8,L,Z
    1,L,J
   40
 
@@ -259,9 +256,11 @@ console load StrawberryJam2021/2-Intermediate/Arphimigon
   12,L,J
    5,L,U,X
  107,L,U,G
-  85,L,G
-  77
-   7,R,D,X
+  65,L,G
+   1,S
+   1,D,J
+  69,O
+   6,R,Z
    1,R,J
    2,R
   40
@@ -290,16 +289,20 @@ Repeat 29
    1,D
    1
 endRepeat
+#several key cycles, was too lazy to remove the repeat so just added frames somewhere
+   2
+#
   14,U,Z
    1,J
   19,R
    6
    6,J
   15,R,Z
-Repeat 39
+Repeat 30
    1,L
    1,R
 endRepeat
+   1
    1,R
    7,J
    1,K
@@ -311,12 +314,12 @@ Repeat 2
    1,J
   24
 endRepeat
-  17
+  28
    9,L,J
   14,U,X
   14,R,J
   14,L,K
-  87
+ 101
   11,J
   14,U,X
   13,J
@@ -334,16 +337,20 @@ endRepeat
   10,R,X
    5,R,J
   14,U,X
-   6,J
-  10,K,G
+   7,J
+   6,R
+   1,R,K,G
   13,R
-   8,R,J
+  12,R,J
   15,U,X
   12,R,K,G
-  12,R,J,G
-   8,R,K,G
+   9,R,J,G
+   3
+   1,R,K,G
+   3
+   1,R,K,G
   13,R
-  18,R,K
+  17,R,K
   13,U,X
   40
 
@@ -474,14 +481,16 @@ endRepeat
    6,R,K
   26,R,D
   14,R,Z
-   5,R,J
+   1,R,J
+   7,R,D,X
   40
 
 #lvl_b_05
-   7,R,J
+   3,R,D,X
+   6,R,J
   14,R,D,X
-   2,R,J
+   1,R,J
   14,R,U,X
  136
 
-ChapterTime: 2:13.824(7872)
+ChapterTime: 2:12.073(7769)
