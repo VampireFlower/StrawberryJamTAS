@@ -1,4 +1,4 @@
-RecordCount: 1421
+RecordCount: 2032
 
 console load StrawberryJam2021/1-Beginner/Circumplex
    1
@@ -14,29 +14,28 @@ console load StrawberryJam2021/1-Beginner/Circumplex
    5,R
    5,R,K
   15,R,X
-  15,R,U,C
-  23,R,D
-   6,R,Z
+  16,R,D
+  24,R,U,Z
+   4,R,V
    1,R,J
-   6,R
+   5,R
   40
 
 #lvl_02
-   1,R
-StunPause
-  19,R,J
-SkipInput,3,1
-  13,R,U,Z
-   1,L
-EndStunPause
-   1,J,G
-   5,J
+   2,R
+  18,R,D,J
   15,R,X
-  25,R,D
+  12,U,C
   15,R,X
-  23,R,D
-   1,R
-   6,R,D,X
+  13,D
+   7,R,D
+   1,R,G
+   6,J,G
+   2
+   3,R
+  16,R,D
+  55,R,D
+   7,R,Z
    1,R,J
    7,R
    1,R,J
@@ -347,8 +346,9 @@ EndStunPause
   12,L,K,G
    7,L,J,G
   14,U,X
-#stun Alignment
-   2
+### spinner cycle
+   1
+###
   18,U,C
   22,R
   14,R,U,Z
@@ -468,38 +468,41 @@ endStunPause
   17,D
   46,L
   26,L,G
-   3,U,G
-  23,G
-#very improvable
+   1,D,G
+   1,G
+   1,D,G
+   1,G
+   1,D,G
+  18,G
+   1,L,J,G
+   1,L,K,G
+   2,L,J,G
+   7,R,Z
    1,J,G
-   1,K,G
-   8,R,Z
-   1,R,J,G
-   7,R
-   4,R,D,J
-   7,R
-   5,R,J
-   5,R
-  15,R,D,X
-   4,R,D
-   1,R,J
-   1,R,K
-   2,R,J
-   9,R,K,G
-   5,R
+   6
    1,R
-   2
+   1,R,J
+   1,R
+   1,D,J
+   2,R
+   5,R,D,X
+   1,R,J,G
+   1,R
+   6,R,J
+   6,R
+  27,R,J
    5,R,U,Z
   40
 
 #lvl_heart
-   9,R,U,Z
-   1
+   8,R,U,Z
+   1,J
   17,R
   15,D,X
-   1,D
-   6,R,D
-   4,X
- 135,U
+   2,R
+   1
+   4,R
+   4,Z
+ 135,R,U
  
-ChapterTime: 1:35.846(5638)
+ChapterTime: 1:33.585(5505)
