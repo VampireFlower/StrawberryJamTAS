@@ -1,184 +1,170 @@
+RecordCount: 89
+
 console load StrawberryJam2021/4-Expert/Stotch
    1
 
 #Start
-#s1
+#lvl_s1
    4,R
-   5,R,Z
-  27,R
-   5,R,U,X
-  55,R,U,G
-   5,R,X
-  10,R
-   5,R,X
-  27,D
-   5,R,U,X
-  13,R,G
+  15,R,Z
+  17,R
+  15,R,U,X
+  45,R,U,G
+  15,R,X
+  15,R,C
+  17,D
+  15,R,U,X
+   3,R,G
    5,R
    1,L
-   5,R,D,X
-  15,R
-   5,U,X
-  63,L,U,G
+  15,R,D,X
+   5,R
+  15,U,X
+  53,L,U,G
   19,R
-   5,R,D,X
-  17,R
-   5,R,D,X
+  15,R,D,X
+   7,R
+  15,R,D,X
+  15,R,C
+  15,R,D,X
   10,R
-   5,R,X
-  10,R
-   5,R,D,X
-  20,R
-   5,R,D,X
-  24,R,D
-   5,R,U,X
-  22,R
-   5,R,U,X
-  34,R
-   5,R,D,X
-   7
-  41,L,D,G
+  15,R,D,X
+  14,R,D
+  15,R,U,X
+  12,R
+  15,R,U,X
+  24,R
+   9,R,D,X
+   3
+  23,L
+  18,L,D,G
   16,R,G
    1,R
    5,R,X
   39,R,D
-   5,R,X
-  13,R
-   5,R,X
-   5,R,D
-
-#s2
+  18,R,X
+  10,R,C
   40
+
+#lvl_s2
    9,R,D
-   5,D,X
-  28,R
-   5,R,X
-  10,R
-   5,R,X
-  21,L
-   5,L,X
-  29,R
-   5,R,X
-  15,R,D
+  15,D,X
+  18,R
+  15,R,X
+  15,R,C
+  11,L
+  15,L,X
+  19,R
+  15,R,X
+   5,R,D
   17,L,D
-   5,L,D,Z
-  10,L,D
-   5,D,X
-  35,L,D,G
+  15,L,D,Z
+  15,D,X
+  25,L,D,G
   17,R,G
    1,R
-   5,R,X
-  21,L
-   5,U,X
-  61,L,G
+  15,R,X
+  11,L
+  15,U,X
+  51,L,G
    1,R
-   5,R,X
-  17,L
-   5,D,X
-  20,D
+  15,R,X
+   7,L
+  15,D,X
+  10,D
    3,R,D
    8,R
-   5,R,X
-  12,R
-   5,R,X
-  16,R
-   5,R,D,X
-
-#s3
-  40
-  10,R
-   5,R,X
+  15,R,X
    2,R
+  15,R,X
+   6,R
+   5,R,D,X
+  40
+
+#lvl_s3
+  10,R,D,X
+   7,R,C
   12
   52,L,G
    1,R
-   5,R,X
-  33,L
-   5,L,U,Z
-  22,R
-   5,R,U,X
-  20,R
-   5,R,D,X
-  13,R,D
-  19,D
-   5,R,D,Z
-  16,R
-   5,R,D,X
-  40,L,D
-  28,D
-   5,R,U,Z
-  21,R
-   5,U,X
-  30,R,D
-   5,R,X
+  15,R,X
+  23,L
+  15,L,U,Z
+  12,R
+  15,R,U,X
   10,R
-   5,R,X
-   2,R
-
-#s4
+  15,R,D,X
+   3,R,D
+  19,D
+  15,R,D,Z
+   6,R
+  15,R,D,X
+  30,L,D
+  28,D
+  15,R,U,Z
+  11,R
+  15,U,X
+  20,R,D
+  15,R,X
+   7,R,C
   40
+
+#lvl_s4
   28,R
    4,D
    1,L,G
-   5,R,X
-  10,R
-   5,R,D,X
-  14,R
+  15,R,X
+  15,R,D,C
+   4,R
   16,L
-   5,L,U,X
-  10,L
+  15,L,U,X
   12,R
-   5,R,Z
-  50,L,D
+  15,R,Z
+  40,L,D
    1,D
    1,L,D
   19,D
-   1,L,Z
-  52,L,G
-   5,U,X
-  11,R
-   5,R,X
-  17,R
-   5,R,X
-  11,R
-   5,D,X
-  20,R
-   5,R,Z
-  63,R,U,J,G
+  15,L,Z
+  38,L,G
+  15,U,X
+   1,R
+  22,R,X
+  16,R,C
+  15,D,X
+  10,R
+  35,R,Z
+  32,R,U,J,G
    5,R,X
    3,R
-
-#s5
   40
+
+#lvl_s5
   13,R
-   5,R,U,Z
-  14,R
-   5,U,X
-  29,R
+  19,R,U,Z
+  15,U,X
+  19,R
    9,L
    3,L,D
   30,R,D
-   5,R,X
-  14,L
+  15,R,X
+   4,L
    6
-   5,U,X
-  28
-   5,U,X
-   8,R
-   2
-   5,U,X
-  19,D
-   5,D,X
-  13,R,D
+  15,U,X
+  18
+  15,U,X
+  15,U,C
+   9
+  15,D,X
+   3,R,D
   15,D
    6,L
   17,R,D
-   5,D,X
-  18,R
-   5,R,D,X
-  16,R
-   5,L,U,X
-  49,R,D,G
+  15,D,X
+   8,R
+  15,R,D,X
+   6,R
+  15,L,U,X
+  39,R,D,G
    1,R
    1,R,G
    3,R
@@ -195,178 +181,163 @@ console load StrawberryJam2021/4-Expert/Stotch
    5,R,D
    2,D
    9,R,D
-   5,R,D,Z
-  14,R
-   5,D,X
-  20,R
-   5,U,X
+  15,R,D,Z
+   4,R
+  15,D,X
   10,R
-   5,U,X
-  10,R
-   5,R,X
-  20,R,D
+  15,U,X
+  15,U,C
+  15,R,X
+  10,R,D
   35,D
-   5,R,U,Z
-  42,R
-   5,R,U,X
-  33,R
+  15,R,U,Z
+  31,R,D
+  15,R,U,X
+  23,R
    5,R,X
-
-#s6
   40
-  10,R
-   5,R,U,Z
-  14,L
-   5,U,X
-  34,L,U,G
+
+#lvl_s6
+  10,R,X
+  15,R,U,Z
+  20,L
+  23,L,U,G
   15,L,G
    1,R
-   5,R,U,X
-  35,L
-   5,L,U,X
-  65,L,G
+  15,R,U,X
+  25,L
+  15,L,U,X
+  55,L,G
    2,R
-   5,R,X
-  31,R,D
+  15,R,X
+  21,R,D
    1,D
    2,R
   18,D
    3,R,D
-   5,R,X
-  10,R
-   5,U,X
-  14
-   5,U,X
-  14
-   5,R,X
-  30,R,D,G
+  15,R,X
+  15,U,C
+   4
+  15,U,X
+   4
+  15,R,X
+  20,R,D,G
   30,D,G
-   5,R,Z
-  10,R
-   5,U,X
-  19,L
+  15,R,Z
+  15,U,X
+   9,L
  107,G
-   5,R,X
-  31,L,D
+  15,R,X
+  21,L,D
   11,D
    2,R,D
+  15,R,D,X
+   4,R
+  15,R,X
+   2,R
    5,R,D,X
-  14,R
-   5,R,X
-  12,R
-   5,R,D,X
-   1,R
-
-#s7
   40
+
+#lvl_s7
+   1
   11,R
-   5,R,U,Z
-  40,L,U,J,G
+  15,R,U,Z
+  30,L,U,J,G
   14,R,G
    1,R
-   5,R,X
-  14,R
-   5,D,X
-  15,R
-   5,U,X
-  11,R
-   5,R,D,X
-  13,R
-   5,D,X
-  25,R,D
-   5,U,X
-  13,D
-   4,R,D
-   5,R,Z
-  10,R
-   5,U,X
-  39,D
-   5,R,Z
-  10,R
-   5,D,X
-  24
-   5,U,X
-  12,R
-   5,R,Z
-  10,R
-   5,U,X
-  22,D
-  12,R,D
-   5,R,X
-  13,R
-   5,R,X
-   7,R
-
-#s8
-  40
+  19,R,X
+  15,D,C
+   5,R
+  15,U,X
+   1,R
+  15,R,D,X
    3,R
-   5,R,X
-  21,R
-   5,U,X
-  40,L,D,G
+  15,D,X
+  15,R,D
+  15,U,X
+   3,D
+   4,R,D
+  15,R,Z
+  15,U,X
+  29,D
+  15,R,Z
+  15,D,X
+  14
+  15,U,X
+   2,R
+  15,R,Z
+  10,U,X
+  17,D
+  12,R,D
+  18,R,X
+  13,R,C
+  40
+
+#lvl_s8
+   2,R,C
+  15,R,X
+  11,R
+  15,U,X
+  30,L,D,G
   20,L,G
    2,R
-   5,R,X
-  19,R,G
+  15,R,X
+   8,R
+   1,R,G
    5,D,X
   15,R
-   5,U,X
-  11,R
-   5,R,Z
-  30,L,D
+  15,U,X
+   1,R
+  15,R,Z
+  20,L,D
   42,D
-   5,U,X
-  13,R
-   5,R,U,X
-  19,D
-   5,R,D,X
-  16,R,D
-   5,D,X
-  32
-   1,L,G
-   5,U,X
-  10,R
-   5,R,U,X
-  20,R
-   5,U,X
-  30,D
-   5,R,X
-  10,R
-   5,U,X
-  34,D
-   5,U,X
-  13,R
-   5,R,Z
-  28,R,D
-   5,R,D,X
-  28,D
-   8,R,D
-   5,R,D,X
-  10,R
-   5,D,X
-  15,R
-   5,R,X
-  45,R,D
-  13,D
+  15,U,X
+   3,R
+  15,R,U,X
+   9,D
+  15,R,D,X
    6,R,D
-   5,R,X
-  22,R
-   5,R,D,X
+  15,D,X
+  22
+   1,L,G
+   9,U,X
+   6,R
+  15,R,U,X
   10,R
-
-#s9
+  12,U,X
+  23,D
+  15,R,X
+  15,U,C
+  24
+  15,U,X
+   3,R
+  15,R,Z
+  18,R,D
+  15,R,D,X
+  18,D
+   8,R,D
+  15,R,D,X
+   8,D,C
+  12,R
+  15,R,X
+  35,R,D
+  13,D
+   2,R,D
+   5,R
+  26,R,X
+  15,R,D,C
   40
-   5,R,D,X
-  10,R
-   5,R,U,Z
-  38,R,D
-   5,R,U,X
-  16,R
-  12,L,J
-   5,R,X
-  20,R
-   5,R,U,X
-  14,R
- 139,R
 
-ChapterTime: 1:12.471(4263)
+#lvl_s9
+  15,R,D,X
+  15,R,U,Z
+  28,R,D
+  15,R,U,X
+   6,R
+  12,L,J
+  15,R,X
+  10,R
+  19,R,U,X
+ 135,R
+
+ChapterTime: 1:12.437(4261)
