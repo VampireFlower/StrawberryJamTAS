@@ -1,4 +1,4 @@
-RecordCount: 2170
+RecordCount: 2346
 
 
 console load StrawberryJam2021/3-Advanced/hennyburgr
@@ -9,17 +9,19 @@ console load StrawberryJam2021/3-Advanced/hennyburgr
   12,R,Z
    8,J
    1
-  14,R,U,X
+  14,R,U,X,P
    3,R,J,G
    1,J
   17,R
    7,R
-  13,R,X
-   2,R,J
-  16,U,X
-  10,L,G
+  12,R,X
+   3,R,J
+  15,U,X
+   1,L,J,G
+   7,L
+   1,L,G
    8,R,D
-  15,D
+  16,D
   10,L,Z
   18,L,J
    1,L,K,G
@@ -34,7 +36,8 @@ console load StrawberryJam2021/3-Advanced/hennyburgr
   11
   15,R,X
   10,J
-   8,L,G
+   7,L
+   1,L,G
   42
   10,R,X
    1,J
@@ -70,27 +73,25 @@ console load StrawberryJam2021/3-Advanced/hennyburgr
   25,L,U,X
    2,L,K,G
    2,R,K
-   2,K
-   1,L,J,G
-  12,L,K,G
-  16,L,U,X
-   1,J
-   8,R,J
-   2
-  11,R
-#save 1 frame to dcb
+   3,L,K
+   9,L,J,G
+  10,L
+  15,U,X
+  13,R
    1,R,J,G
-  23,R
-  11,R,J
-   5,R
+   3,R,J
+  20,R
+  10,R,J
+   4,R
+   1
+   2,R
    6,U,X
-  34,L,J
-   2,J
-   2,K,G
+  36,L,J
+   1,K,G
    6
    1,R
    6,J
-  14,U,X
+  15,U,X
    3,J
   43
 
@@ -198,15 +199,16 @@ console load StrawberryJam2021/3-Advanced/hennyburgr
   10,L,D,X
   14,L
 # attempt to skip laser
+#   1,J
 #   3,R,J
-#   8
+#   6,R
 #  10,L,Z
 #  10,R,J
 #   1,J
 #  11,R,J
-
-#  10,U,X
-#  10,R,J
+#  11,U,X
+#  50,R,J
+##
   34,J
   13,L,Z
   26,R,J
@@ -248,4 +250,4 @@ console load StrawberryJam2021/3-Advanced/hennyburgr
   10,U,X
  135
 
-ChapterTime: 0:38.675(2275)
+ChapterTime: 0:38.624(2272)
