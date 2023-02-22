@@ -1,4 +1,4 @@
-RecordCount: 1191
+RecordCount: 1426
 
 console load StrawberryJam2021/3-Advanced/mmm
    1
@@ -70,14 +70,16 @@ console load StrawberryJam2021/3-Advanced/mmm
   13,L
    1,L,J
   14,L,D
-   1,R,J
-  39,R
-  12,D
+   3,L,J
+   5,L
+   1,L,J
+   4,L,D
+  10,D
+  10,R,D
   40
 
 #lvl_a03
-   7,D
-  12,R,D
+  17,R,D
   18,R,D,X
   20,R,D
    9,L,D,X
@@ -88,16 +90,16 @@ console load StrawberryJam2021/3-Advanced/mmm
   11,L,J
    2,R,J
    1,R
-  13,R,J
-   7,R
-   7,R,Z
-   3,R,J
-   2,R
-   8,R,J
-  16,R,D
-   2,R
-  58,R,J
-  15,U,X
+  11,R,J
+  11,R
+   5,R,Z
+   1,R,J
+   6,R
+   1,R,J
+  27,R
+   9,R,J
+  34,R
+  16,U,X
   23,L,J
   14,R,K
   15,L,J
@@ -117,14 +119,13 @@ console load StrawberryJam2021/3-Advanced/mmm
    1,L,J
   15,L
    6,U,X
-  10,R,J
-  32,R,D
-   1,R
-  33,R,J
-  25,R
-   7,R,D
+  14,R,J
+  39,R
   36,R,J
-   5,R,K
+  33,R,K
+  15,R,D,X
+  12,R
+   7,R,K
   16,U,X
 
   11,L,J
@@ -133,7 +134,7 @@ console load StrawberryJam2021/3-Advanced/mmm
   10,R,K
    4,L,J
   10,L,K
-  13,R,J
+  11,R,J
   40
 
 #lvl_a05
@@ -263,53 +264,36 @@ console load StrawberryJam2021/3-Advanced/mmm
    1
   13,R
   13,R,J
-  11,R
-   6,R,J
-   7,R
-   1,R,J
-  14,R
-   1,R,J
-  21,R,D
-   2,R,J
-  16,R
-   2,R,J
-   8,R
-   1,J
-  18,R
-   7,R,J
-   1,R
-  23,R,J
-   2,R,K
-   8,R
-   2,R,J
    9,R
+   9,R,U,X
+  10,R,K,G
+  26,R
+   6,R,J
+  15,R
    2,R,J
-   5,R
+   8,R
+   1,R,J
+   2,R
   40
 
 #lvl_a09
-   6,R
-   1,J
-   3,R,J
-   3,R,J
-   5,L
-  14,R,D,X
+   3,R
    1,R,J
+   2,R
+   1,R,K
+  14,R
+   2,R,J
+   5,R
+   2,R,J
+   8,R
+   8,R
+   9,R,J
+  34
+  10,D
+  11,R,K
    7,R
-   4,R,J
-   1,R
-  15,R,J
-  11,R,D
-  20,R,J
-  13,L
-  11,R
-   9,L
-   7,R,D
-  11,R,J
-   1,R
-  11,R,J
   33,R,K
-  41
+  39
    8,J
    9,L,J
   22,L,K
@@ -368,17 +352,14 @@ console load StrawberryJam2021/3-Advanced/mmm
    1,R,J
   14,R
   40
-
 #lvl_a10
    9,R,D
-  20,R,J
-  17,R,D
-  13,R,X
+   6,R,J
+  30,R
+  14,R,U,X
    9,R,J,G
-   1,R
-  10,R,J
-  35,R,K
-   1,X
-   3
+  10,R
+  35,R,J
+   4,X
  135,D
-ChapterTime: 1:17.486(4558)
+ChapterTime: 1:14.970(4410)
