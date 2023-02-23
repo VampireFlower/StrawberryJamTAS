@@ -1,4 +1,4 @@
-RecordCount: 894
+RecordCount: 1049
 
 console load StrawberryJam2021/1-Beginner/snas
    1
@@ -25,25 +25,19 @@ console load StrawberryJam2021/1-Beginner/snas
    1,R,J
    2
   15,R,D,X
-   1,L,D
-   4,D
-   2,L,D
-  11,R,D
-   4,R,Z
+  18,R,D
+  10,R,X
    6,R,J
-   4,R
-   1,R,G
-   1,R,J,G
-   1,L,J,G
-   1,R,K,G
-   1,R,J,G
-   9,R
-   5,R,J
-  14,L,D,X
+   5,R,K,G
+  10,U,X
+   9,R,J
+   2,R,K,G
+   7,R
+   4,Z
    1,R,J
-   9,R,D,X
-   3,R,J
-  15,R
+   7,R
+   2,R,J
+  10,R
    1,R,G
    7,R,D
   15,R,G
@@ -67,6 +61,7 @@ console load StrawberryJam2021/1-Beginner/snas
 #   1,K,G
 #   1,J,G
 #  33,R,D,X
+##
    2,R,D,X
    1,R,J
    7,R
@@ -152,32 +147,33 @@ console load StrawberryJam2021/1-Beginner/snas
    1,L,D
    2,D
    6,R
-   8,R,D
-   1,R,J
-   7,R
-#  this part sucks
-  96,R,G
-  10,R,D,G
-  10,R,G
-   1,R,U,G
-   1,R,U
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-   1,R,K,G
-  17,R,D
-   9,D
+   7,R,D
+   1,R
+   1,R
+   4,R,Z
+   4,L,J
+   4,L
+  34,L,J
+   8,R,K
+  27,R,D
+  49,R,J
+   1,R
+  19,R,Z
+   5,D
    1,R,D
-  15,R,Z
-  13,D
+   1,D
    1,L,D
    6,R,D
    1,R
-  14,R,D
+  11,R,D
+   4,R
+   1,R,D
   12,L,D
-   9,D
+   7,D
+   2
   10,G
-  10,J,G
+   8,J,G
+   2
   22,L,K
    4,L
   27,D
@@ -228,12 +224,14 @@ console load StrawberryJam2021/1-Beginner/snas
    1,J
    1,R,K,G
    8,L,K
-   2,K
-  10,U,X
-  25,R,J
-  38,R,D
-  18,L,D
-   9,R,D
+   1,K
+  11,U,X
+   4,R,J
+  20,R
+   3,R,J
+  33,R,D
+  25,D
+   5,R,D
   10,R,X
    7,R,J
   14,R,U,X
@@ -264,4 +262,4 @@ console load StrawberryJam2021/1-Beginner/snas
   13,R,U,X
  135
 
-ChapterTime: 0:30.379(1787)
+ChapterTime: 0:29.869(1757)
