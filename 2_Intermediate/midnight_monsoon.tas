@@ -1,4 +1,4 @@
-RecordCount: 945
+RecordCount: 997
 
 console load StrawberryJam2021/2-Intermediate/Luma
    1
@@ -296,52 +296,34 @@ console load StrawberryJam2021/2-Intermediate/Luma
   40
 
 #lvl_4
-   2,R
-   3,R,J
-   3,R
-   1,R,J
-  12,R
-  57,L,G
+   9,R,Z
+   5,R,J
+  18,J,G
+   3,K
+   1,L,K
+  11,K
+  17,D,X
+   1,L,J
+  14,L
+   1,L,J
+   2,L
+  30,L,G
+   1,G
    1,D
    1,N
-  42
-# 230 Waiting frames, just doing something interesting with the bino
-Repeat 10
-   1,L
-   1,L,U
-   1,U
-   1,R,U
-   1,R
-   1,R,D
-   1,D
-   1,L,D
-EndRepeat
-Repeat 10
-   1,L
-   1,U
-   1,R
-   1,D
-EndRepeat
-Repeat 15
-   1,L
-   1,R
-EndRepeat
-Repeat 15
-   1,U
-   1,D
-EndRepeat
-Repeat 14
-   1,L
-   1,R
-   1,U
-   1,D
-EndRepeat
+ 239
  150,D
-  32,R
-  15,R,D,Z
+  10
+  14,R,U,Z
+#spinner cycle?
+   3
+#
+
+  15,R,D,V
   13,D
   60,R,D
-  10,D
+   9,D
+   1,D,AU
    4,D,AU
   10,D,AU
   10,R,D,AU
@@ -556,7 +538,7 @@ EndRepeat
    1,R,K,G
    1,R,J,G
    1,R,K,G
-  76,L,J
+  75,L,J
 
-ChapterTime: 1:40.997(5941)
+ChapterTime: 1:40.691(5923)
 
