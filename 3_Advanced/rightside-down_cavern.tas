@@ -1,5 +1,4 @@
-RecordCount:
-
+RecordCount: 95
 console load StrawberryJam2021/3-Advanced/Vamp
    1
 
@@ -7,9 +6,32 @@ console load StrawberryJam2021/3-Advanced/Vamp
   90
 
 #lvl_intro_SJ
-   1,J
-
-
+  10,R,Z
+   2,R,J
+   3,R
+   1,R,K,G
+  17,R,D
+   1,R,K
+   8,R,J,G
+  15,R,D,X
+Repeat 3
+   1,R,K
+   1,R,J
+endRepeat
+   9,R,U,Z
+   5,R,K,G
+   2,R,J,G
+   2
+   1,R,J,G
+   7,R
+   1,R,J
+  14,U,X
+  19,R,K
+  21
+  26,R
+  21,L
+   9
+  50,R
 
 
 
