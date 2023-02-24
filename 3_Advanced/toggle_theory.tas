@@ -1,4 +1,4 @@
-RecordCount:
+RecordCount: 101
 
 console load StrawberryJam2021/3-Advanced/Citrea
    1
@@ -7,12 +7,32 @@ console load StrawberryJam2021/3-Advanced/Citrea
  190
 
 #lvl_intro
+  10,R,D,X
+   1,L,J
+   4,L
+   1
+  15,D,X
+   1
+  15,D,X
+   1
+  15,D,X
+  14,R,D,C
    1,J
+   6,R,D,X
+   1,S
+   1,D,J
+  34
+   1,R,J
+   2,R
 
-
-
-
-
-
+#lvl_a-1
+  40
+   6,R
+   7,R,D,X
+   1,J
+   6
+   1,R,J
+   2,R,K
+  14,R,U,X
 
 ChapterTime: 
