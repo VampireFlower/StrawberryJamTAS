@@ -1,4 +1,4 @@
-RecordCount:
+RecordCount: 74
 
 console load StrawberryJam2021/2-Intermediate/Evilleafy
    1
@@ -7,12 +7,85 @@ console load StrawberryJam2021/2-Intermediate/Evilleafy
   92
 
 #lvl_Evilleafy-00
-   1,J
+***S
+   4,Z
+   1,R,J
+  15,R
+  20,R,J
+  22,R,D,X
+   1,R,J
+   2,R
+   1,R,J,G
+   2,R,K,G
+   1,R
+   2,R,K
+  40
 
+#lvl_Evilleafy-01
+   4,R,K
+   3,R
+   1,R,J
+   2,R
+  14,R,Z
+  23,R,J
+  12,U,X
+  25,L,J
+  15,L,X
+  15,L,C
+  51,R
+  38,R,X
+Repeat, 6
+   1,J,G
+   1,K,G
+EndRepeat
+   1,J,G
+   1,L,J
+Repeat, 4
+   1,R,K,G
+   1,R,J,G
+EndRepeat
+   3,R
+   1,R,J,G
+   3,R,K,G
+   8,R
+   4,R,Z
+   1,R,J
+   8,R
+  40
 
-
-
-
-
+#lvl_Evilleafy-02
+   3,R
+   1,R,J,G
+  15,R
+   4,R,J
+   8,R,D,X
+   1,R,J,G
+   1,R,K,G
+  16,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   3,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   7,R
+  14,R,U,X
+   1,R,J
+  24,R,U,X
+  16,R,J
+  15,D,X
+  18,D,C
+   3,R
+  26,R,X
+  14,R,Z
+   1,R,J
+   4,R
+  31,R,D,X
+   2,R,J
+  54,R,D,C
+   1,R,J
+ 100,L,D
 
 ChapterTime: 

@@ -1,10 +1,13 @@
-RecordCount: 722
+RecordCount: 762
 
 console load StrawberryJam2021/1-Beginner/hyperlife
    1
 
 #Start
  190
+
+#Spinner Cycle
+   1
 
 #lvl_a-01
    2,L
@@ -40,28 +43,30 @@ console load StrawberryJam2021/1-Beginner/hyperlife
    7,R,D
    1,J
    9,L
-  11,R,D,X
+  10,R,D,X
    1,R,J
    7,R
    1,R,J
   40
 
 #lvl_a-02
-   4,R,J
-  14,R,X
-  10,R,J
-  20
-  10,L
-  50
-  15,L,D,J
-  14,L,V
+   2,R,J
+  15,R,U,Z
+  35,R
+  48
+   5,L
+   7,L,D,J
+   1,L,K,G
+   4,L,J,G
+   8,L,Z
    1,R,J
-  14,R
-   1,R,J
-  14,R
-   3,R,J
-  30,R
-  15
+   1
+   1,R,K,G
+   5,D
+  23,R,D
+   2,R,J
+  34,R
+  17
   10,L,J
   10,R,X
    7,R,J
@@ -228,9 +233,8 @@ Endstunpause
   11,R,J,G
   40
 
-
 #lvl_a-07
    2,R,J
   15,R,X
  134
-ChapterTime: 0:28.747(1691)
+ChapterTime: 0:28.645(1685)
