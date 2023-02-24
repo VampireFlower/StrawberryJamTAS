@@ -1,10 +1,12 @@
-RecordCount: 2630
+RecordCount: 2771
 
 console load StrawberryJam2021/2-Intermediate/Rocketguy2
    1
 
 #Start
   76
+# Spinner Cycle
+   2
 
 #lvl_RG2-0
    1,R
@@ -34,23 +36,30 @@ console load StrawberryJam2021/2-Intermediate/Rocketguy2
    5,R,D,X
    1,S,N
    1,D,J
-  34,P
+  34
    1,J
   10,R,J
    2,L
   12,L
   10,L,X
-  27,R,J
-  10,R,D,G
-  13,R,G
-   4,R,D,G
-   9,R,G
-  15,R,D,X
-   7,L,D
-   6,R
-  10,U,X
-  32,R
-   8,R,X
+  27,R
+  10,D,G
+   1,G
+   1,D,G
+  13,G
+   1,D,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+  24,R,D
+   1,R
+   5,R,X
+  33,R
+   7,R,X
   18,R,J
   15,R,X
   15,D
@@ -460,4 +469,4 @@ EndRepeat
   43,R
 
 
-ChapterTime: 1:25.289(5017)
+ChapterTime: 1:25.187(5011)
