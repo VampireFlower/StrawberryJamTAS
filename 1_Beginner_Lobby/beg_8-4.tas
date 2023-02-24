@@ -8,21 +8,20 @@ console load StrawberryJam2021/0-Lobbies/1-Beginner 2112 248
    3,R,J
    1
   15,R,D,X
-  12,L,D
-   3,D
+   9,L,D
+   2,D
+   4
+   2,D
    1,L,D
-   1,D
-   4,R,Z
+   4,Z
    1,R,J
-   5,R
-   1,R,K
+   6,R
    1,R
    7,R,J
   15,R,D,X
-   1,R,J
-   2,R
-  18,R,D,X
-  13,R,J
+   2,R,J
+  17,R,D,X
+  13,R,D,J
   12,R,D,X
    1,R,J,G
    1,R,K,G
@@ -31,22 +30,19 @@ console load StrawberryJam2021/0-Lobbies/1-Beginner 2112 248
    1,R,K,G
    5,R
    3,R,K
-   4,R,D
-   8,R,J
-  18,R,D,X
-   2,D
-   1,R,J
-   6,J
-   2
-   4,K,G
-   1,J,G
-   3,R,J
-   2,R
+   4,R
+   7,R,J
+   1,J
+   4,R
+  19,R,D,X
+   1,D,J
+  11,K,G
+   1,R,K
   15,R,D,X
-   2,R,D
-   1,R,D
+   1
    1,R
-  34,R,D
-   9,R
+  30,R,D
+   6,R
+   8,R
    1,X
-#0:03.808(224)
+#0:03.723(219)

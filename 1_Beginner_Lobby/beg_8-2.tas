@@ -8,20 +8,19 @@ console load StrawberryJam2021/0-Lobbies/1-Beginner 2112 248
    3,R,J
    1
   15,R,D,X
-  12,L,D
-   3,D
+   9,L,D
+   2,D
+   4
+   2,D
    1,L,D
-   1,D
-   4,R,Z
+   4,Z
    1,R,J
-   5,R
-   1,R,K
+   6,R
    1,R
    7,R,J
   15,R,D,X
-   1,R,J
-   2,R
-  18,R,D,X
+   2,R,J
+  17,R,D,X
   13,R,J
   12,R,D,X
    1,R,J,G
@@ -31,39 +30,49 @@ console load StrawberryJam2021/0-Lobbies/1-Beginner 2112 248
    1,R,K,G
    5,R
    3,R,K
-   9,R,D
+   4,R
+   5,R,D
   10,R,J
    1,R
-  17,R,K
-  15,U,Z
-   4,L
-  15,U,X
-   2,L
-   5,L,J
-   8,L
-   4,L,K
-   6,L
-   1,L,J
-   9,L
-   3
-   2,L
-   3,L,J
+  16,R,K
+  17,U,Z
+  21,U,C
+  11,L,J,G
    1,L,K,G
-   6,L,J,G
-   2,L,K,G
-  11,L
-   1,L,J
-  16,L
-   1,L,J
-   1,L,K,G
-  13,L
-   3,L,D,J
+   2,R
+   5
+#stalling
+   2,D
+   1
+   2,D
    5,L
-   5,L,K
-  11,L,Z
-   7,R,J
-  11,R
+   1,L,J
+   1,L,K,G
+   8,L,J,G
+   2,L,K,G
+   1,L
+   1
+   6,L
+   1
+   2,L
+   1,L,D,J
+  13,L
+   3
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+   5,L
+   2,L,J
+   1,L
+   2,L,J
+   6,L
+   1,L,D
+   4,L,J
+   6,L
+  10,L,D,X
+   3,R,J
+   4,K,G
+   2,R,K
    1,X
-#0:05.372(316)
-
-
+   7,R
+#0:05.202(306)
