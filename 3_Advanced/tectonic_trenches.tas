@@ -1,4 +1,4 @@
-RecordCount:
+cRecordCount:
 
 console load StrawberryJam2021/3-Advanced/Julia
    1
@@ -7,12 +7,313 @@ console load StrawberryJam2021/3-Advanced/Julia
   69
 
 #lvl_a-01
+  14,R,Z
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   9,R,D,X
+   1,S
+  35,D,J
+   1,R,K
+  12,R
+  40
+#lvl_a-02
+   6,R
+   1,R,J
+  10,R
+   7,U,X
+  13,G
+   9,U,G
+   1,D
+  13
+  10,U,X
+  21,D,G
+  20,D
+  15,R,D
+  22,R
+   9,U,X
+  13,G
+  10,R,G
+   1,R,D
+  15,R
+  15,R,U,X
+   3,R
+  14,U,X
+  25,G
+   1,L
+   7
+   8,R
+#somewhat slow on purpose
+#to wait for coin to move
+   8,D
+   7,R,D
+   5,R
+  15,R,Z
+   8,R,G
+  12,J,G
+   9,R,K,G
+  14,R,D,X
+   1,R,J
+   7,R
+  15,R,U,X
+  22,R
+  24,D
+   3
+   4,L
+   1,R,D
+   2,D
+   1,R,D
+   7,D
+  16,R,D
+   3,R
+  27
+   6,L,Z
+   1,R,J
+   1,R
+   1,R,K,G
+   9,R
+   1,R,J
+   4,R,K,G
+   7,R,D,X
+  40
+#lvl_a-03
+   7,R,D,X
+   3,R,J
+  12,U,X
+  10,G
+  15,R,D,G
+   1
+  12,U,X
+  10,G
+  15,R,D,G
+  10,U,X
+  28,R
+  15,D,X,G
+   5,L,D,G
+  40,R,D,G
+  11,D,G
+   1,L
+  38,D
+  15,R,U,X
+  12,U,C
+  25,R,D,G
+   1,D
+  13
+   7,U,X
+  10,G
+  15,D,G
+   1
+   5,U,X
+  21,R,D,G
+   1,L
+  27,R
+  27,R,D
+  18,D
+   2,R,D
+  13,L,Z
+   1,R,J
+   1,R
+  10,R,D,X
+   1,R,J
+   4,R
+  12,R,D,X
+  40
+#lvl_a-04
+   2,R,D,X
+   1,R,J
+  14,R,D,X
+  24,R,J
+  15,R,X
+  12,R,J,G
+   7,K,G
+   2,L,K
+  33,L
+  15,L,X
+  15,D,C
+  15,R
+  41,R,J
+  13,U,X
+  15,G
+  25,R,G
+  24,R
+  46,D
+  15,L,U,X
+  18,L
+  15,L,X
+  16,R
+  15
+  16,R,K
+  15,U,X
+   3,R
+  10,R,J
+   8,R
+  39,R,J
+   7,R,D
+  15,R,Z
+  13,R
+  10,R,U,X
+  92,R,U,G
+  23,R,D,G
+  27,D,G
+   1,R,D,G
+  50,R,U,G
+   7,R
+  14,U,X
+  20,R,G
+  15,U,X
+  12,R
+   3,R,J
+   6,R,Z
+   3,R,J
+   2,R,K,G
+   6,R
+   1,R,J,G
+  10,R
+  61
+   1,R
+   1,R,J
+   6,R,Z
+   1,R,J
+   6,R
+   1
+   1,R,J
    1,J
-
-
-
-
-
-
-
-ChapterTime: 
+   1
+   1,R
+   1,R,J,G
+   1,R
+   3
+  10,R,Z
+   1,R,J
+   7,R
+   1,R,J,G
+   6,R,D,X
+   1,S
+  10,D,J
+  25
+   4,R,J
+   5,R
+  15,R,D,X
+  64
+#lvl_a-05
+  15,R,J
+  11,R,D,X
+   4,R,J
+   4,R,K
+  17,U,X
+  21,G
+   1,L,D,G
+   6,U,X
+  22,G
+  20
+   8,R
+   4,R,D
+  14,R,D,X
+   1,R,J
+  15,R,U,X
+  24,R
+  15,D,X
+   7,R,D
+  15,R,D,X
+   9,R,D
+   1,L,J
+  13
+  13,L,D,X
+  20,R
+  10,U,X
+  12,G
+  13,R,G
+   8,U,X
+  21,G
+   1,L,G
+   4,X
+  35,R,X
+  18,L,D,C
+  18,D,X
+  11,R,D
+  18,R,X
+  10,R,D,C
+  20,R,J
+  15,U,X
+  12,G
+  10,L,G
+   2,G
+   1
+  19,R
+  15,R,U,X
+  58,R
+   7,R,D
+   1
+   7,R,J
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   5,R,D,X
+#lvl_a-07
+  40
+   9,R,D,X
+  30,R,J
+  18,R,U,X
+   3,R
+  18,U,X
+  18,R,C
+   2,R
+  14,R,D,X
+  10,R,J
+   1,R
+  15,R,J
+  14,R,D,X
+  10,R,J
+stunPause
+   1,R,J
+   1,R
+  24,R,J
+skipInput,3,1
+  12,R,D,X
+   3,R,J
+endStunPause
+  26,R,J
+  20,U,X
+   7,R,J
+   5,R
+  12,G
+   9,R,G
+stunPause
+  11,R,G
+  12,R
+   1,R,J
+endStunpause
+   3,R,J
+ 121,R,U,G
+   1,L
+  48,R
+  10,R,D
+   1,R,J,G
+  12,R
+  10,R,J
+   5,R
+   3,R,J
+  12,R
+  14,R,U,X
+   1,R,J,G
+   7,R
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   5,R,D,X
+  40
+#lvl_a-06
+   9,R,D,X
+   1,R,J
+   7,R,D,X
+   1,S
+  10,D,J
+  25
+  10,R,J
+  12,U,X
+ 135
+ChapterTime: 1:04.481(3793)
