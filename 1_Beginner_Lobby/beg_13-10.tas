@@ -1,0 +1,46 @@
+console load StrawberryJam2021/0-Lobbies/1-Beginner 1856 1000
+   1
+
+#Start
+  36
+   7,R,Z
+   1,R,J
+   3,R
+   1,R,K
+   3,R
+  10,R,J
+   1,J
+   2,R,J
+  12,U,X
+   1,R,J
+  14,L,J
+  11,L
+  13,L
+   5,L,X
+   9,R
+   1
+  12,U,X
+   1,L,J
+   9,L
+  14,L,Z
+   1,L,J
+   9,L,U,X
+   2,L,K,G
+  15,L
+  14,L,J
+  14,L,U,X
+  15,U,C
+   2,R
+  11,L,U,X
+   2,L,J,G
+   7,L
+  13,L,U,X
+  15,L,U,C
+  10,L,D,X
+   8,L,J
+   1,L,K,G
+  11,L,D,X
+   1,L,J
+  15,L,D
+   1,X
+#0:04.386(258)
