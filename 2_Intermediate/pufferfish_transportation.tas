@@ -1,4 +1,4 @@
-RecordCount: 2584
+RecordCount: 2630
 
 console load StrawberryJam2021/2-Intermediate/Rocketguy2
    1
@@ -141,27 +141,22 @@ console load StrawberryJam2021/2-Intermediate/Rocketguy2
   12,R,X
  113
    1,R
-  12,R,Z
-   3,R,J
-  15,R,X
-   3,L
-  15,R,C
-   2,R
-  12,L
-  15,L,X
-  19,L
+  10,R,Z
+   1,R,J
+   8,R
   15,D,X
-  15,L,D
- 102
-   2,R,J
-  16,U,X
-  40,R,J
-  14,R,X
-   7,R,J
-  15,R,X
-   9,R,J
+  10,R,D
+  99
+   5,R,J
+  42,R,K
+  15,R,U,X
+  21,R
+   8,R,X
+   8,R,J
+   5,R
+  12,R,J
   18,R,X
-   1,R
+   4,R
   15,R,X
   12,R
   15,R,J
@@ -175,10 +170,11 @@ console load StrawberryJam2021/2-Intermediate/Rocketguy2
   30
   15,U,X
    7,L
-  30,R
+  31,R
   15,R,D,X
    6,R
- 171
+ 170
+   1,R,K
    3,R,J
    3,R
   11,R,D,X
@@ -373,9 +369,9 @@ EndRepeat
 #lvl_RG2-9
    1,R
    6,R
-   8,R,D,X
+  10,R,D,X
 StunPause
-   6,R,D,C
+   4,R,D,C
    1,L,J
 SkipInput,3,1
   14,R,D,X
@@ -383,8 +379,9 @@ SkipInput,3,1
 SkipInput,3,1
    9,L,Z
    1,R,J
-   5,L
+   4,L
 EndStunPause
+   1,L
    2,R
    5,R,D
    9,R,J
@@ -463,4 +460,4 @@ EndRepeat
   43,R
 
 
-ChapterTime: 1:26.377(5081)
+ChapterTime: 1:25.289(5017)
