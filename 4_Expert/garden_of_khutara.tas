@@ -1,4 +1,4 @@
-RecordCount: 1445
+RecordCount: 1663
 
 console load StrawberryJam2021/4-Expert/DanTKO
    1
@@ -31,71 +31,72 @@ console load StrawberryJam2021/4-Expert/DanTKO
    1,R,J
   14,R,D,X
    1,R,J
-  14,R,D,X
-   9,R,J
-  16,U,X
-  55,R
-   8,R,X
-   9,R,J,G
-  20,R
-   6,R,Z
+   7,R
+   4,R,J
+  17,R,U,X
+  45,R,D
+   4,R
+  10,R,X
+   8,R,J,G
+   1,R
+   5,R,J
+  14,R
+   7,R,Z
    1,R,J
    7,R
-   1,R,J
-  13,R,D,X
-   2,L,J
-   8,U,X
-  11,L,D
-   5,D
-  10,R,Z
+   9,R,J
+  15,D,X
+   7,R,D
+   4,R,Z
    1,R,J
    1,R,K
    1,R,J
    1,R,K
    1,R,J
-   5,R,D,X
-   2,R,J,G
-   2,R
+   5,R,J
   40
 
 #lvl_DanTKO_02
    3
-  14,R
-   1,R,J
-  10,R,K
-   5,R
-  34,G
-   8,L
-   9,L,D,X
-   1,L,J
-   7,L
-   8,L,J
-  10,L
-  15,L,U,X
-  41,G
-  16,R
-  14,R,D,X
-  11,R,J
+  10,R,J
   15,R,D,X
-   8,R
-  23,L
-  15,U,X
-  28,L,U,C
-  27,G
-   1,L,J,G
-   1,L,K,G
-   1,L,J,G
-   2,R
-   1,L,J,G
-   8,R,J
-   9,R
-   7,L
-  15,L,U,Z
-   7,R,J
-   2,R,K,G
-   5,K
-   7,R,K
-   3,R,J,G
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+  35,R,U,G
+   3,L
+   4,L,J,G
+  10,L,Z
+   1,L,J
+   6,L
+   6,L,J
+  11,L
+   6,L,J,G
+  31,U,G
+   5,R
+   2,R,J,G
+  27,R,U,X
+   9,R,J
+   4,L,J
+  10,K
+   9,L,U,X
+  11,J,G
+   2
+   6,L,U,G
+  10,J,G
+  12,G
+   1,K,G
+   2,R,K
+  24,R
+  16,L,U,Z
+   1,R,J
+   6,R,K
+   2,R,J,G
+   8,J
+   4,R,J
+   3,R,K,G
   15,R
   13,R,D,X
    1,L,J
@@ -127,7 +128,6 @@ console load StrawberryJam2021/4-Expert/DanTKO
    1,R,K
    1,R,J
   13,R
-
    4,R,J
   12,R,U,X
    9,R,J,G
@@ -574,4 +574,4 @@ Repeat 22
 endrepeat
    3,L
 
-ChapterTime: 1:34.418(5554)
+ChapterTime: 1:32.922(5466)
