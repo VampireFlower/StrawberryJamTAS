@@ -1,4 +1,4 @@
-RecordCount: 1951
+RecordCount: 1980
 
 console load StrawberryJam2021/2-Intermediate/Arphimigon
    1
@@ -249,7 +249,6 @@ console load StrawberryJam2021/2-Intermediate/Arphimigon
   14,L,D,X
    2,L,J
   40
-
 #lvl_a_02
    2,L,J
   52,L,X
@@ -262,10 +261,9 @@ console load StrawberryJam2021/2-Intermediate/Arphimigon
   26,L
   57,L,X
    4,L,K
-  12,L,J
-   5,L,U,X
- 107,L,U,G
-  39,L,G
+   1,L,J
+  14,L,U,X
+ 107,L,G
    1,R
   16,L
    1,S
@@ -292,9 +290,7 @@ console load StrawberryJam2021/2-Intermediate/Arphimigon
    2,L,J
   29
   15,R,U,Z
-#several key cycles, was too lazy to remove the repeat [as well] so just added frames somewhere
-  27
-#
+   8
 Repeat 30
    1,L
    1,R
@@ -311,12 +307,12 @@ Repeat 2
    1,J
   24
 endRepeat
-  28
+  34
    9,L,J
   14,U,X
   14,R,J
   14,L,K
- 101
+  77
   11,J
   14,U,X
   13,J
@@ -490,4 +486,4 @@ endRepeat
   14,R,U,X
  136
 
-ChapterTime: 2:11.257(7721)
+ChapterTime: 2:09.931(7643)
