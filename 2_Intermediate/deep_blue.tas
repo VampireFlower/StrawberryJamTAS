@@ -336,18 +336,20 @@ console load StrawberryJam2021/2-Intermediate/Emik
   90,G
    2,L,J
  164,L,J,G
- 143,L,X
+   1,R
+ 141,L,X
    4,L,J
-   1,L,K
-  13,L,D,X
+   2,L,K
+  12,L,D,X
   40
 
 #lvl_a_09
-   4,L,D
-   3,L,J
-  15,L,D,X
-  18,L
+   5,L
    1,L,J
- 145,U,X
-
-ChapterTime: 1:14.681(4393)
+   3,L
+  15,L,D,X
+   9,L
+   1,L,J
+  14,L,X
+ 135
+ChapterTime: 1:14.613(4389)
