@@ -1,4 +1,4 @@
-RecordCount: 4847
+RecordCount: 5091
 
 console load StrawberryJam2021/1-Beginner/HankyMueller
    1
@@ -126,7 +126,7 @@ EndStunPause
   69,O
 
 #spinner
-   1
+   2
 
    6,R,Z
   40
@@ -189,107 +189,60 @@ EndRepeat
    9,L,K
   32,L
   15,L,X
-  14,L
-   8,L,D
-  15,R,D,X
-  25,R,D
-   1
-   1,R
-   4,D
-   8,L,D
-   1,R,D
-   3,D
-   7,G
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-   5,L,J
+  12,L
+  24,R,D
+  12,L,X
+   1,L,J,G
   20,L
-   2,L,D
-   6,R,D
-  40
-
-#lvl_Stepping Stone
-  12,R,D
-   1,R,J
-   8,R,D
-  15,D,X
-  17,R,D,C
-  16,R,J
-  17,R
-  14,R,X
-   1,R,J
-   1,J
-   6,R,J
-   2,R
-   1,R,K,G
-  14,R
-  10,D
-  29,L,D
-  14,L,D,X
    1,L,J
-   7,L
-   5,L,J
-   5,L
-   2,L,J
-   1,L,K,G
-  15,L
-   5
-   2,R,J
+   2,L,K,G
+  11,L
+   1,L,D,J
+   3,L
+   1,J,G
+   6,L
+  10,R
+   1,R,J
   18,R
    1,R,J
   14,R
    1,R,J
-  15,R
-   1,J
-   3,R,J
+  21,R
+  10,R,J
    5,R
-   2,R,J
-   2,R
-   1,R,J
-   2,R
-   1,R,J,G
-   1,R,K,G
-   9,R
-   1,R,J
-  21,R
+   2,R,J,G
+  23,R,D
    1,R,J
   14,R
-   1,R,J
-  14,R
-   1,R,J
-  17,R
-   3,R,J
-  12,R,K,G
-   5,R,J,G
-   7,R
-  16,L
-  12,J,G
-  12,L,K,G
-  12,J,G
-   3,K,G
-   5,L,Z
-   1,L,J
+   5,R,J
+  28,R
+   9,R,D
+  10,L,D,X
+   1,J
    7,L
-   1,L,J
-  23,L,D
-  10,L,J
-  17,L
-   1,L,J
-  14,L
-   1,R,D,J
-  15,R
-   1,R,J
+   5,L,D
+  21,L,J
+  21,L
+   1,L,D,K
+   2,L,J,G
+   7,L
+   6,L,J
   14,R
-   1,R,J
+  40
+
+#lvl_Stepping Stone
   21,R
-  14,R,Z
-   1,R,J
-   6,R
-  11,R,J
-  10,R
-   1,R,J
-  17,R,D
+  16,D
+  14,L,D,X
+   2,R,J
+  16,R
+  12,R,J
+  25,R
+  10,R,X
+   2,J
+   8,R,J
+   1,R,K,G
+  16,R,D
   37,L,D
   14,L,D,X
    1,L,J
@@ -301,16 +254,15 @@ EndRepeat
    7,R,D,X
    1,R,J
    7,R
-   3,R,J
-  16,R
-   1,R,J
-  14,R
-  14,R,J
-   6,R,K,G
+   6,R,J
+   2,R,K,G
+  19,R
+  20,R,J
+   5,R,K,G
   48,R
   10,R,J
-  26,R,D
-  23,D
+  25,R,D
+  24,D
   40
 
 #lvl_Fork
@@ -406,4 +358,4 @@ endstunpause
   10,R,X
  135
 
-ChapterTime: 1:04.566(3798)
+ChapterTime: 1:00.180(3540)
