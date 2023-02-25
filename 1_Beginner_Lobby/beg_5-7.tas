@@ -3,43 +3,55 @@ console load StrawberryJam2021/0-Lobbies/1-Beginner 2816 656
 
 #Start
   36
-   2,L,J
-  10,L,Z
-  10,L,J
-   1,L
-   2,L,K
-  15,L,D,X
-   5,L,D
-  15,L,D,X
+   5,R,Z
+   1,L,J
+   1
+   1,J
+   1,L,K,G
+   5
+   4,L
+   7,L,J
+  20,L,D,X
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+  15,D,X
   15,D,C
   15,D,X
   15,L,D,C
-  15,L,D,X
-   7,L,D,C
-  10,L,U,J
-   3,U
-   1,L,U
-   1,U
-  14,U,Z
-   2,L,J
+  13,L,D,X
+   1,L,J
+  14,F,359
+  13,U,Z
+   1,L,J
+   1
    1,L,K
    1,L,J
    1,L,K
    1,L,J
-   2,L,K,G
-   1,K
-   3,L,K
-  14,L,D,X
-   1,L,J
-  14,L,U,Z
-  14,L,U,C
-  17,R,U,X
-  15,R,U,C
-  11,L,K,G
-   1,L,J,G
+   1,L,K,G
+   3
    2,L
    1
-   4,L
+   1,L
+   2
+   2,L,D,J
+   5,L
+   8,L,K
+  10,U,X
+   8,R,J
+   1,L,J
+   2,R,J
+   4,R,K,G
+   7,R
+   2,R,J
+  15,U,X
+   1,L,J,G
+   2,R,J
+   1,L,J
+   7,L
    4,X
    6,L,J
    7,L
@@ -47,4 +59,4 @@ console load StrawberryJam2021/0-Lobbies/1-Beginner 2816 656
    1,L,J
    7,L
    1,X
-#0:04.148(244)
+#0:04.012(236)
