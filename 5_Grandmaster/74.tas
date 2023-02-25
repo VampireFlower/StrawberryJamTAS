@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 1773
+RecordCount: 2437
 
 console load StrawberryJam2021/5-Grandmaster/fishtank
    1
@@ -116,17 +116,23 @@ console load StrawberryJam2021/5-Grandmaster/fishtank
    2,R
   40
 
-#lvl_Bad Reception
-  12,R
-   8,R,J
-  10,R,K
-  13,R
-   1,R,J,G
-  14,R
-   1,R,J
+#lvl_Calling (Bad Reception)
   18,R
-  10,R,D
+   1
    1,R
+   1
+   1,R
+   1
+   5,R,J
+   1,R,K,G
+   6,R,J,G
+   1
+   5,R,J
+   3,R
+   1,R,K,G
+   9,R
+   1,R,J
+  29,R,D
    1,R,J
   14,R
    1,R,J
@@ -135,25 +141,24 @@ console load StrawberryJam2021/5-Grandmaster/fishtank
   14,R
   17,R,J
    3,R,K,G
-   3
-   2,J
-   1,K
-   8,R,K
+   2,K
+   3,J
+   8,R,J
    2,R,J
   12,R,K,G
+   1,J
 Repeat 15
    1,J
    1,K
 EndRepeat
    4,R,J,G
-  12,R
-   1,R,D
+  11,R
 Repeat 4
    1,R,D,J
    4,R,D
 EndRepeat
    1,R,D,J
-   2,R,D
+   1,R,D
   40
 
 #lvl_Ventilation Ducts
@@ -162,123 +167,147 @@ EndRepeat
    4,R,D
    2,R,J
   17,R
-  13,R,J
-   8,L,J
-   3,R,K
+   7,R,J
+   9,L,J
+   1,R,K
    7,R
    9,R,J
-  38,R,K
+   1,R,K
+  20,R,J
+  15,R
+   2
    1,R
-  10
-  15,R,J
+   4
+   1,R
+   3
+   1,R,J
+  14,R
    1,R,K,G
   18,R
    4,D
   10,R,J
-   4,R,K
-  12,R,J
-  11,R
-   9,L
-   6,R
-  13
+   1,R,K
+   4,R,J
+   1,R,K
+   5,R
+   2,R,J,G
   14,R
-   4,R,J,G
-  29,R
-   6
-   2,R
-  24,R,D
-   7
-  20,R
-   5,R,J
-  10,R,K
-  17,R
-   1,R,D
-   1,R,D,J
-   5,R,D
-   1,R,D,J
-   4,R,D
+   1,J
+   1,J
+  17,R,G
+   1,R
+  21,R,J
+  16,R,D
+   3,J
    2,R,J
-   5,R,K
+  13,R,D
+   5,R,J
+  13,R,D
+  12,R,J
+   1,R,K
+   8,R,J
+  20,R
+   1,R,D,J
+   4,R
+   1,R,J
+   4,R
+   2,R,J
+   1,R
+   5,R,J
+   1,J
+   1,R,J
+   3,R
+   1,R,J,G
+   1,R,K,G
   10,R
    1,R,J
-  12,R
+   2,R
   40
 
 #lvl_Attic
-   3,R
-   1,R,J
-  14,R
-  14,R,J
-   5,R
-   7,K,G
+  12,R
+  20,R,J
+   6,K,G
+   1,R,K
    9,R,J
    7,R
+   2,R,G
    6,L,K
    1,J
-  11,R,J
-   7,R
-   5,R,J
-   2,J
-   5,R,J
-   4,K
-  13,J
-   7,R,J
-  17,L,J
-  12,R,K
-  24,R,J,G
-   4,R,K,G
-   1,J
    1,K
-   2,R,K
-  20,L,K
-  10,J
-  11,L,J
-  13,K,G
-   6,L
-   2,R
-  18,R,J
-  12,R
-   9,R,J,G
-  21,R
-   6,R,J
-  23,R
-   1
-  11,D
-  10,R,D
-  21,D
-   7,L,D
-   8,R,J
-  24,R
-   6,R,J
-  13,R
-   5,L
-  10,L,D
-   2,L,J
-  16,L
-   2,R
-  11,R,D
-  14,R
-   6,R,J
-   1,J
-   5,L
-   8,R,J
+  10,R,K
+  17,R
+   5,R,J
+  28,R,K
+   5,R,J
+   8,R,G
+   7,K,G
+   1,L,K
+   1,R,K
+   1,R,J,G
+  13,R,J
+   6,K,G
+   1,R,K
+   1,K
+   1,R,K
+   1,K
+   1,R,K
+   1,K
+  32,R,J
+   1,R,K
+   1,R
+   5,R,J
    9,R
+   7
+   1,R
    1,R,J
+  21,R
+   8,R,D
+   8,D
+   4,R,D
+   6,R
+   4,R,J,G
    7,R
+   7
+   1,R
+   2,D
+   4,R,D
+   9,R,J
+  17,R
+   7,L
+   1,L,J
+  23,L,D
+   6,D
+   7,L,D
+  10,R,D
+   9,R,J,G
+   1,R
+  14,R,J
+  12,R
+   1
+   1,J
+   2,K
+   1,R,K
+   3,R
+   1,R,J,G
+   1,R,K,G
+  10,R
+   3,R,J
   40
 
 #lvl_Nakaniwa Adventure
-   7,R
+   2,R,J
+  16,R
+   2
    1,R,J
-  14,R
-   1,R,J
-  21,R
+   1,R,K
+  20,R
    1,R,J
   14,R
    1,R,J
   18,R
-  30,F,151
- 131,D
+  28,F,161
+ 132,D
    2,R,J,G
   13,R,D
    5,R,J
@@ -383,7 +412,6 @@ EndRepeat
   15,R
   13,R,D
   12,R
-
    8,R,J
    7,R,U
    1,R,K
@@ -504,4 +532,4 @@ EndRepeat
   15,L,U,X
  141
 
-ChapterTime: 1:18.608(4624)
+ChapterTime: 1:16.245(4485)
