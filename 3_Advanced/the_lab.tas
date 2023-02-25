@@ -1,4 +1,4 @@
-RecordCount: 3059
+RecordCount: 3134
 
 console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1
@@ -601,18 +601,13 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1
   17
   15,R,U,X
-  23,L
-  19,D
-   5,R,D
-   1,D
-   3,R,D
+  35,D
+  12,R,D
+  11,L,D,X
    1,R,J
-   2,J
-  10,L,D,X
-   1,R,J
-   4,R
+   3,R
    8,R,D,X
-  29,R,J,G
+  24,R,J,G
   15,L,U,X
   11,R,D,C
   18,R,X
@@ -629,15 +624,10 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    9,L
   15,L,U,X
   36,D
-   1,R,D
-   9,R
-   4,R,D
-   3,D
-   1,R,G
-   1,R,J,G
-  11,R
+   5,R,D
+  22,R
    1,R,J
-   5,R
+   5,R,K
   14,R,D,X
   21,R,J
    5,R
@@ -802,4 +792,4 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1,R,K,G
   37,R
 
-ChapterTime: 1:43.224(6072)
+ChapterTime: 1:42.969(6057)
