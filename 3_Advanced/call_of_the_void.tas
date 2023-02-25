@@ -1,4 +1,4 @@
-RecordCount: 1433
+RecordCount: 2049
 
 console load StrawberryJam2021/3-Advanced/Viv
    1
@@ -79,25 +79,28 @@ console load StrawberryJam2021/3-Advanced/Viv
    1,R,J
   14,R,Z
    1,R,J
-   6,R
+   3,R
+   2,R,J
+   1,R
   14,R,Z
    6,R
-  14,R,D,X
-  10,R,J
-  12,R,K,G
-   5,R,Z
-   8,R,J
+  11,R,D,X
+   3,R,J
+   1,J
+  14,R,U,Z
+   9,J,G
   40
 
 #lvl_viv2
-   2,R,J
-  11,R,D,X
+   3,R
+  15,R,D,X
+   3,R,D
    1,J
-  24,D,G
-   1,J
-   6
-  31,D,G
-  38,L,D,X
+   6,R
+  12,D,G
+  19,D
+  15,L,D,X
+  23,D
   24
   78,R,U,Z
   27,R,X
@@ -106,8 +109,8 @@ console load StrawberryJam2021/3-Advanced/Viv
   24,L,D,X
   40,R,Z
   97,U,G
-  13,D,G
-  76
+  46,D,G
+  37
   11,L,D,X
   30,R,J
   17,R,D,X
@@ -151,38 +154,45 @@ console load StrawberryJam2021/3-Advanced/Viv
   38,D,G
   10,R,J
  152,D,G
-  39,R,Z
+   4
+  39,R,X
   40
 
 #lvl_viv3x
- 217
+ 216
+   5,R,U,Z
   40
 
 #lvl_viv4
-  12
-   9,J
-  13,R,Z
-   2,L,J
-  25,R,D,X
-  10,L,D,C
-  35,R,J
+  10,R,U,Z
+  15,R,D,X
+  15,R,D
+  10,L,D,X
+  34,R,J
   38,L,D,X
-   1,L,J
-  28,L,D,X
-  14,R,C
-   3,R,J
-  14,R,D,X
-   1,L,J
-  65,R,D,X
-  12,U,C
-  37,J
-  15,R,X
-  47,L,Z
-  52,R,D,X
-  15,L,D,C
-   3,R
+   1,L
+   6,L,D
+   1
+  15,L,X
+   7,L
+  15,R,V
+  14,R,Z
    1,R,J
-  12,R,J
+  15,R,D,X
+  41,R
+  13,U,X
+  37,R,J
+  14,R,Z
+   1,L,J
+  15,L,D,X
+  22,L
+  15,R,D,X
+  37,R
+  10,L,Z
+   2,L,J
+   2,K,G
+   1,J
+   9,L,K,G
   10,L,D,X
   59,R,J
   38,L,K
@@ -209,54 +219,63 @@ console load StrawberryJam2021/3-Advanced/Viv
   65,L,J
    1,K
   15,D,X
-   2,R
-  17,R,J
-   1,L,K,G
-   1,L,J,G
-   3,L,K,G
-  63,R,J
-  14,U,X
-   9,L,J
-  29,L,K
-  17,R,J
-  30,L,K
-  44,U,G
+   3,R
+   1
+  17,R,D,J
+   3,L,J
+   1,K,G
+   1,R,K
+  87,L,J,G
+  15,U,X
+   5
+   8,L,J,Z
+   1,R,K,G
+   1,R,J,G
+  42
+  44,L,U,G
   36,R,U,X
   22,R,D,C
    1,R,J
-   6,R,D,X
-   9,R,J
+   9,R,D,X
+   6,R,J
   40
 
 #lvl_viv5x
+   4,R,J
   15,R,D,X
-  29,D,C
-   2,L,J
-  17,L,Z
-  12,L,D,V
+  16,D
+   1,L,D
+   1,D
+   1,L,D
+  15,L,Z
+   2
+  12,L,D,X
   40
 
-#lvl_viv5
-   3
-  18,D,X
-   1,L
-   6,L,D,J
-  15,D,Z
-   6,R,D,J
-  15,D,Z
-   7,L
+#lvl_viv5 (1)
+   2
+   1,R
+  15,D,X
+   2
+   2,L
+   4,L,D,J
+  15,D,X
+   5,R,D,J
+  15,D,X
+   6,L
    3,L,D,J
   15,D,X
-   6,R,D,J
+   1,R
+   4,R,D,J
   15,D,X
-   3,L
    3,L,J
   15,L,D,X
-  26,R,D,J
- 128,R,D,X
+   1,R
+  23,R,D,J
+  15,D,X
+  77,D
    4,R,J
   40
-
 
 #lvl_viv6
    7
@@ -275,30 +294,40 @@ console load StrawberryJam2021/3-Advanced/Viv
    1,R,J
    4,R
    8,R,D,X
-  44,D,G
-  14,R,Z
-   3,R,D
-  22,R,J
-  31,D,X
+  10
+  16,R,D,X
+   1,J
+  12,R,X
+   8,R,J
+  24,D,X
+   4,Z
+  12,R,J
+  14,R
+  23,R,J
+   5,R,J
+   1,K
+   8,L,K
+   5,K
+   2,G
+   3,J,G
    1,R,J
-  35,R,X
-  61,R,C
-   8,L,J
-  11,R,K
-  12,D,G
-   1,D
-   1,R,D,J
-  10,R,D,X
-   1,L,J
- 119,R,K
-  35,D,X
-  11,R
-   3,R,J
-  75,D,X
-  34,L,D,C
-  69,R
-  36,D,G
-  23,R,Z
+   1,L,K,G
+  15,R,D,X
+  79,R,J
+   4,R
+  36,D,X
+   4,R
+   1,R,J
+  15,D,X
+  56
+  15,L,D,X
+  22,D
+  15,D,X
+  10,L,D,C
+  18,R,J
+  40,D,G
+  15,R,Z
+   9
   23,L,J
   10,R,K
   15,R,J,G
@@ -306,15 +335,20 @@ console load StrawberryJam2021/3-Advanced/Viv
 
 #lvl_viv8
   12,R,D,X
+   2,R,D,X
+   1,R,J
+   6,R,D,X
    1,R,J
    7,R
-   5,R,J
-  10,R,Z
-  20,R,J
-  89,R,D,X
    1,R,J
-  21,R,D,X
-  29,D,C
+  18,R,K,G
+  15,R,D,X
+  76,R
+   5,R,J
+  15,R,D,X
+   2,R
+  15,D,X
+  14,D
  103,R,J
   10,L,K
   44,R,J
@@ -336,10 +370,10 @@ console load StrawberryJam2021/3-Advanced/Viv
 #lvl_vivEnd
   14,R,Z
    1,R,J
-  15,R,D,X
-   4,L
+  15,R,D,C
+   3,L
+   1,R
   28,L,J
-   4,X
- 135,R,X
+ 139,R,X
 
-ChapterTime: 1:46.267(6251)
+ChapterTime: 1:41.235(5955)
