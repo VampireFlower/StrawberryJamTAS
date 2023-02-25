@@ -1,4 +1,4 @@
-RecordCount: 4084
+RecordCount: 4321
 
 console load StrawberryJam2021/1-Beginner/HankyMueller
    1
@@ -10,80 +10,83 @@ console load StrawberryJam2021/1-Beginner/HankyMueller
    0
 
 #lvl_Intro A
-  14,Z
+   6,L,D,X
    1,L,J
    7,L
-  10,L,J
+  12,L,J
   15,L,D,X
-   2,L
+   1,L,J
+   5,L
    3,L,J
-   5,L
-   2,L,J
-   5,L
-   1,L,J
-   1,L
-   6,L,J
-   1,L
-   1,L,J
   11,L
+   1,L,J
+   1,L,K,G
+   9,L
+   1,L,J
+   1,L,K,G
+   9,L
+   1,L,J
+   3,L
   40
 
 #lvl_Intro B
-   3,L
+   2,L
    1,L,J
-  14,L
-  19,L,J
-   5,J
+   9,L
+  12,L,J
+   7,L
   12,U,X
-   8,L,J
+   4,R,J
+   4,J
   15,U,X
-  10,R
-   1,R,G
-  44,R,D
+  11,R,G
+  41,R,D
+   1,D
+   1,R,D
+   1,D
    1,R,J
-   1,R
   21,L
    1,L,J
   14,L
    2,L,J
-   9,L
-  15,L
-   6
-  16,L
-   9,L,J
-   1,L,K,G
-   2,L,J,G
-  11,L
+   7,L
    1,L,J
-  14,L
+  30,L
    1,L,J
-  14,L
-   1,L,J
-   6,J
-   5,L,J
-  14,L,U,X
-   3,L,K,G
-  10,L,J,G
-   3,L,J
-  15,U,X
+   1,J
+   4,L,J
+   5,L
+   2,L,J
    1,L,K,G
    1,L,J,G
-  10,L
+   9,L
    1,L,J
   14,L
    1,L,J
+  14,L
+   2,J
+  12,L,J
+  14,L,U,X
+  11,L,J,G
+   2
+  15,U,X
    5,L
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+  13,L
+   1,L,J
+   3,L
   40
 
 #lvl_Double Vision
-   7,L,D,X
-   1,L,J
+   6,L,D,X
+   2,L,J
   13,L
   11
-  15,L,U,X
-  20,L
-  21,R,D
-  18,R
+  34,L,U,X
+  26,R,D
+  13,R
   38,L
    5
    5,R
@@ -447,4 +450,4 @@ endstunpause
   10,R,X
  135
 
-ChapterTime: 1:07.388(3964)
+ChapterTime: 1:06.929(3937)
