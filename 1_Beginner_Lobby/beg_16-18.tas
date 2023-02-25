@@ -15,28 +15,32 @@ console load StrawberryJam2021/0-Lobbies/1-Beginner 2732 1440
    5,R,D,J
   15,D,X
   15,D,C
-   2,L,D
-  15,L,X
- 115,L
-  19,L,D
-  11,L,U,Z
-   1,L,K
-Repeat 4
+***S
+  15,L,Z
+ 126,F,266.174
+  12,L
+   5,U,X
+   2,L,U,K
    1,L,J
    1,L,K
-Endrepeat
-  17,L,K
-   3,L
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+  12,L,J
+   1,J
   14,L,U,X
    9,L,J,G
-   2,L,K,G
+   1,L,K,G
+   2,R,K
+   1,L,K
    7,L
-   1,L,J
-   8,L,U,X
-   1,L,J,G
-   8,L
-   2
-  14,U,X
+   7,L,J
+   9,L,X
+   6,L
+  11,U,X
   15,U,C
   14,L,U,X
    2,K
@@ -57,4 +61,4 @@ Endrepeat
    2
    4,L
    1,N
-#0:07.429(437)
+#0:07.276(428)
