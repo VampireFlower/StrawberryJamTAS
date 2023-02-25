@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 1984
+RecordCount: 2129
 
 console load StrawberryJam2021/5-Grandmaster/tobyaaa
    1
@@ -200,21 +200,31 @@ EndRepeat
   14,R,Z
   10,R,J
   10,R,D,X
-   9,R,J
-AutoInput, 2
-   1,S,N
-  10,O
-StartAutoInput
-  11,R,J
-   1,R,Z
-SkipAutoInput, 3
-  14,R,Z
-  17,R,D
-EndAutoInput
-   8,R,D
-  12,J
+   4,R,J
+   5,R
+  14,D,X
+   1,J
+   8,L,D
+  17,D
+  34,G
+   3,R,J
+  15,R
+   6,R,D
+  13,R
+   2,R
+  15,R,D,X
+  16,L,J
+  10,J
+   2,L,J
+   3,J
+  33,R,U,X
+   9,R,J,G
+   1,R,K,G
+   7,R
+   3,R,J
+   9,J
   15,U,X
-   8,J
+   8,R,J
   40
 
 #lvl_Phil
@@ -346,4 +356,4 @@ EndRepeat
   87,U,X
   55,L
 
-ChapterTime: 1:01.795(3635)
+ChapterTime: 1:00.639(3567)
