@@ -1,4 +1,4 @@
-RecordCount: 5136
+RecordCount: 5148
 
 console load StrawberryJam2021/1-Beginner/HankyMueller
    1
@@ -126,7 +126,7 @@ EndStunPause
   69,O
 
 #spinner
-   2
+   1
 
    6,R,Z
   40
@@ -225,14 +225,16 @@ EndRepeat
   21,L
    1,L,D,K
    2,L,J,G
-   7,L
-   6,L,J
+   5,L
+   3,L,J
+   3,R,J
   14,R
+   2,R,D
   40
 
 #lvl_Stepping Stone
-  21,R
-  16,D
+  14,R,D
+   6,D
   14,L,D,X
    2,R,J
   16,R
@@ -367,5 +369,4 @@ endstunpause
  158
   10,R,X
  135
-
-ChapterTime: 0:59.976(3528)
+ChapterTime: 0:59.670(3510)
