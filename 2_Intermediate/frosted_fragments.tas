@@ -1,4 +1,4 @@
-RecordCount: 2136
+RecordCount: 1745
 
 console load StrawberryJam2021/2-Intermediate/Dooshii
    1
@@ -10,95 +10,80 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
    8,R,Z
    1,R,J
    7,R
-   5,R,J
+   6,R,J
   14,R,D,X
    1,R,J
-   1,L
   15,R,D,X
-   1,R,D
-  13,L,D,C
+  12,L,D,C
    1,R,J
-   7,R,D
-   7,R,J
-   2,R,K,G
-   2,R
-   2,L
+   7,R
+   6,R,J
+   7,R,K,G
   15,R,D,X
   15,R,C
   11,L,D,X
    1,R,J
-   7,R,D
+   7,R
    6,R,J
-   2,R,K,G
-  40,R,J,G
-  18,R,U,X
+  39,R,K,G
+  20,R,U,X
+  16,R,U,C
+  12,R,Z
+  10,R,J
    4,R
-  14,R,U,X
-   1,R,J,G
-  13,R,Z
-   7,R,J
-   2,R,K,G
-   4,L,D
-   2,R
+   4,R,J
   15,R,X
-   1,R
-  15,R,C
-   2,R
-  33,L,D
-   4,L,D
+  17,R,C
+  37,L
   14,L,Z
    1,R,J
    6,R,D,X
    1,R,J,G
   12,R,D
    6,R,J
-  15,R,D,X
-   9,R,D
-  15,R,J
-  12,U,Z
+  23,R,D,X
+   7,R,J
+   8,R
+  13,U,X
    1,R,J
-   7,R,D
-  14,R,Z
+   7,R
+   6,R,Z
+   1,R,J
+   7,R
    1,R,J
   14,R,D,X
    1,R,J
-   7,R,D,X
+   6,R,D,X
   40
 #level_A1.5v2
    3
   12,R,J
   11,U,X
   38,R,J
-   6,R,K,G
-   1,R,J,G
-  20,R,K,G
-  19,R
+   1,R,K,G
+   4,L,K
+  23,R,J,G
+  16,R
   15,R,Z
   15,R,U,X
   15,R,U,C
-  15,R,X
-  30,R
-  10,D
-   5,L,X
-  19,L,J
+  41,R,X
+  11
    3,L
-  15,L,U,X
-  29,L,D
-   5,D
-   3
-  13,J
+  13,L,J
+  43,L,U,X
+   4,J,G
+   8,L,J
+  13,K,G
+  13,J,G
    5,K
-   6,L,J,G
-   4,K
-  12,L,J,G
-   5,L,K,G
-  12,R,J
-  13,U,Z
+  13,L,J,G
+  12,R,K
+  15,U,X
   40
 #level_3v2
-   5
-   1,J
-  68
+   1
+  72,O
   10,R,J
   13,R,U,X
    9,U,C
@@ -126,7 +111,7 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
   15,R,X
   12,R,U,C
   15,U,X
-  16,R
+  15,R
   15,U,X
    8,L,J,G
    1,L
@@ -258,6 +243,9 @@ endrepeat
    3,L,J,G
    5,R,J,G
    7,R
+#spinner cycle
+   2
+#####
    1,R,J
    7,U,X
   40
@@ -294,7 +282,6 @@ EndStunPause
    7,R,D
    3,R
    1,L
-   0,R
   14,R,X
   30,R,J
   14,R,X
@@ -707,4 +694,4 @@ endrepeat
    9,R
   14,R,U,X
  135,D
-ChapterTime: 2:00.802(7106)
+ChapterTime: 2:00.547(7091)8
