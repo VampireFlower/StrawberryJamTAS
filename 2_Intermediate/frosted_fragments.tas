@@ -1,4 +1,4 @@
-RecordCount: 2426
+RecordCount: 2524
 
 console load StrawberryJam2021/2-Intermediate/Dooshii
    1
@@ -302,36 +302,37 @@ EndStunPause
    1,R,J,G
    8,R,K,G
   14,R,Z
+
   11,U,C
-   7,R
-  15,R,U,Z
-   6,R
-   4,J
-   8,L,K,G
-   1,J
-   9,R
+
+   4,R
+   7,R,Z
    1,R,J
-   9,R
-   1,J
-  26,R,J
-   3,R,K,G
-   8,R,U,G
-  11,J,G
-   1,L,J
-   1,K
-  16,R,K
-   1,J
-  14,R,J
- 140,R,G
-   1
-   1,J
-   1,R,K,G
-   1,R,J,G
-   4,L,J
-   1,L
-  16,L,J
+   7,R
   15,U,X
-   7,L
+   2,U
+  10,R,J
+  11,R
+   1,R,G
+  19,L,D
+  15,L,X
+   4,L
+  10,R,X
+   7,R,J
+  15,U,Z
+  14,L
+  12,L,J,G
+  70,L,G
+  24,L,D
+  16,L
+  20,L,J,G
+   1,L,K,G
+   1,L,J,G
+   7,L,K,G
+  16,L
+   5,L,J
+  12,U,X
+   3,L
   15,R,X
    1,R,G
   12,R,J,G
@@ -354,6 +355,7 @@ EndStunPause
    1,R,J
   10,R,D,X
   40
+
 #level_reboundv2
    4,R,D,X
    3,R,J
@@ -396,6 +398,7 @@ EndStunPause
   14,R,D,X
    1,R,J
   40
+
 #level_A9v2
    7,R
    8,R,J
@@ -480,6 +483,7 @@ EndStunPause
    7,L
   11,U,X
   40
+
 #lvl_a_10v2
    1,R,J
   10,R
@@ -577,17 +581,14 @@ endrepeat
    3,R
    7,L
    8,R
-  10,R,Z
-   1,R,J
-   7,R
   11,R,Z
-   2,R,J
-   3,R
-  11,R,D,X
-  30,L
-   4,L,Z
+   5,R,J
+  11,R
+  15,R,X
+   4,R
+  12,L,Z
    1,L,J
-  13,L,D
+  20,L
   15,R,C
   15,R,X
   33,R
@@ -605,6 +606,7 @@ endrepeat
    2,R,K,G
   14,R,D,X
   40
+
 #level_downoveblockv2
    1,R,J
   14,R,D,X
@@ -645,11 +647,10 @@ endrepeat
   35,L,J,G
   15,L,U,X
   37,L
-   5,R
+  10,R
   15,L,X
-  15,L,Z
-  14,D
-   7,L,D
+  18,L,D
+   1,L
   12,L,Z
    1,L,J
   14,L
@@ -685,4 +686,5 @@ endrepeat
    9,R
   14,R,U,X
  135,D
-ChapterTime: 2:00.088(7064)
+
+ChapterTime: 1:59.544(7032)
