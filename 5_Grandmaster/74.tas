@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 1478
+RecordCount: 1536
 
 console load StrawberryJam2021/5-Grandmaster/fishtank
    1
@@ -390,8 +390,7 @@ EndRepeat
    1,R,K
    7,R,J
    3,L,J
-   1,L,K
-   1,L,K
+   2,L,K
    1,L,J
   21,L,K
    9,R,J
@@ -457,36 +456,25 @@ EndRepeat
    1,D,J
    8,L,J
   26
-   1,L,D
-   9,L
-   8,U
-   2,L,U
-   4,L
-   2,R,U
-  29,U
+   1,R,D
   11,F,75
-   7,F,72.132
-   2,F,299.499
-   1,F,314
-   6,F,299.499
-   6,F,91
-  10,F,89.99
-  16,F,60
-  17,F,45
-  12,L,J
-   3,R,K
-  12,K
-   8,R,J
-   1,K
-  13,L,K
-   2,L,J
-  12,L,K,G
-Repeat 5
-   1,J
-   1,K
- EndRepeat
-   7,R,J
-   1,R,J,G
+  11,F,15
+   9,F,4.503
+   6,F,359.9
+   1,F,359
+   2,F,352.37
+   7,F,315.037
+   2,F,252.193
+  11,F,312
+   8,F,355.165
+   1,F,355.725
+  41,F,18.818
+   5,F,17.643
+   5,F,357
+  11,U
+   1,R,J
+   2,R,K
+   3,R
    2,R,K,G
    6,R
    6,R,J,G
@@ -494,30 +482,27 @@ Repeat 5
    2,R,K,G
   13,R
    1,R,J
-  21,R
-   1,R,J
-   7,R
+  16,R
   40
 
 #lvl_The End of TIMELINE
-   7,R
+   5,R
    1,R,J
   14,R
    7,R,J
-  29,R
+  30,R
   21,R,J
   22,R
    1,R,J
    1,R,K
    1,R,J
-  15,R,K
+  16,R,K
    5,R,J,G
-   5,R,K,G
-  11,R,J,G
+   4,R,K,G
+  12,R,J,G
   10,L,D,X
-   7,L,J
+   8,L,J
   15,L,U,X
  141
 
-ChapterTime: 1:20.461(4733)
-
+ChapterTime: 1:19.084(4652)
