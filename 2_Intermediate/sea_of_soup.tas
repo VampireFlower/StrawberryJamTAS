@@ -1,4 +1,4 @@
-RecordCount: 1265
+RecordCount: 1274
 
 console load StrawberryJam2021/2-Intermediate/SpoopySoup
    1
@@ -225,7 +225,8 @@ endRepeat
 stunpause 
    4,D
 endstunpause
-  17,D
+  10,D
+   6,R,D
   44,R,U,X
    6,R,D
    7,L,D
@@ -246,7 +247,9 @@ endRepeat
   18,R,D
   46,L,D,X
   11,D
-  47,R,D
+  48,R,D
    4,X
- 135
+ 136
+
+
 ChapterTime: 0:55.879(3287)
