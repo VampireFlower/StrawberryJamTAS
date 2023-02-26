@@ -1,4 +1,4 @@
-RecordCount: 2099
+RecordCount: 2350
 
 console load StrawberryJam2021/3-Advanced/Meario
    1
@@ -15,33 +15,39 @@ console load StrawberryJam2021/3-Advanced/Meario
    1,R,J
   14,J
   16,L,U,X
-   9,R,G
+   4,R,G
+   1,R,J,G
+   1,R
   10,R,X
-   4,R,J
-  22,R,K
-  17,R,X
-   4,R,J
-   3,R,K
-  14,L,X
+   8,R,J
+   9,R,K
+   7,R
+   9,R,J,G
+  11,R,X
+   4,J
+   4,K
+  13,L,X
    5,R,J
-  14,R,X
-   4,R,J
-  12,R,K
-  12,R
+  14,R,Z
+   8,R,J
+  23,R,K
    5,R,U,X
   40
 
-#lvl_a-01
-  10,R
-  11,R,U,Z
-   1,R,J,G
-   8,R
-   1
+#lvl_a-02
+   9,R,U,X
    3,R
-  12,R,U,Z
-   3,K
-  10,R
-   1,G
+   6,R,C
+   1,J,G
+   2,R,J
+   1,R
+   7
+   1,R,J
+   1,L,J
+  11,R,U,Z
+   1,J
+   7
+   4,G
   21,D
    5
    4,L
@@ -59,22 +65,28 @@ console load StrawberryJam2021/3-Advanced/Meario
   19,L,U,Z
    8,L
   11,L,U,X
-   6,L,J
-   1,L,K
-  15,U,X
-  14,R,C
-  15,L,D,G
-   1,K
-   1,J,G
-   6
-   8,R,D,X
-  24,R,D
-  16,R
+   5,J
+   2,L,J
+   6,J
+   3,R,J
+  14,R,Z
+  10,L,G
+   4,J,G
+   2,J
+   1,L,K,G
+   2,J,G
+  15,R,D,X
+   5,D
+  14,R,D
+   1,R
+  10
+   3,R
+   1
   16,U,X
   12,R,J
-  10,R
-   1,R,J
    8,R
+   1,R,J
+  10,R
    1,G
    5,R,D
   16,D
@@ -126,30 +138,27 @@ console load StrawberryJam2021/3-Advanced/Meario
    1,R,J
   11,R,X
    4,R,J
-  32,R,K
-  20,R,U,X
-   8,L,J
-   1,L,K
-   8,K
-  12,L
-  10,L,J
-   1,R,J
-  16,R
-   1,G
-   4,X
-  15,D
+  24,R,K
+   7,R
+  21,R,U,X
+   4,R,J
+   2,R,K
+   1,L,J
+   5,L
+   1,L,J
+   8,L
+   1,L,J
+   1,L
   10,R,X
    4,R,J
    1,R,K
-  18,R
-   3,R,D
-  21,R,X
-   7,R,Z
-   3,R,J
-   2,R,K,G
-  18,R
+  35,R
+  14,R,X
+   7,R,J,G
+  21,R
    1,R,J
-  11,R,D,X
+   1,R
+  14,R,D,X
    1,R,J
    1,R
   40
@@ -502,4 +511,4 @@ console load StrawberryJam2021/3-Advanced/Meario
   14,R,U,X
  135,D
 
-ChapterTime: 1:11.485(4205)
+ChapterTime: 1:10.703(4159)
