@@ -1,4 +1,4 @@
-RecordCount: 1065
+RecordCount: 1108
 
 console load StrawberryJam2021/4-Expert/KAERRA
    1
@@ -339,7 +339,6 @@ console load StrawberryJam2021/4-Expert/KAERRA
    7,R,J
    1,J
   40
-
 #lvl_a06b
    5,J
    1,K
@@ -386,14 +385,17 @@ console load StrawberryJam2021/4-Expert/KAERRA
   26,R,D
    2,R,J
   32,R
-  10,R,X
-  28,R,J
+  10,R,Z
+   2,R,J
+   1,L,K,G
+   9,R,K
+  12,R
   14,R,Z
    1,R,J
-  12,R
-  18,D,X
-  10,D,C
-  15,D,X
+  11,R,D
+  18,D,C
+  11,D,X
+  15,D,C
   13,R,D
   20,R,X
    6
@@ -467,7 +469,6 @@ console load StrawberryJam2021/4-Expert/KAERRA
    1,R,J
    1,R
   40
-
 #lvl_end
    6,R
    1,R,J
@@ -480,4 +481,4 @@ console load StrawberryJam2021/4-Expert/KAERRA
    1,N
   82
 
-ChapterTime: 1:11.876(4228)
+ChapterTime: 1:11.808(4224)
