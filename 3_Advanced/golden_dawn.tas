@@ -1,4 +1,4 @@
-RecordCount: 424
+RecordCount: 544
 
 console load StrawberryJam2021/3-Advanced/Maladroit
    1
@@ -183,16 +183,20 @@ console load StrawberryJam2021/3-Advanced/Maladroit
   33,L,Z
    1,R,J
   34,R
- 170
+ 146
    1,R,J
   16
   20,R
-  15,R,U,Z
-  20,R
-  21,R,D,X
-   2,G
+   7,R,U,Z
+   8,R,J
+  21,R
+  24,R,D,X
+   3,G
    6,R,J,G
-   8,R
+   5,R
+#wait for liftboost
+#to end
+   4
    6,R,Z
    1,R,J
    7,R
@@ -268,7 +272,6 @@ console load StrawberryJam2021/3-Advanced/Maladroit
   51,L,G
   59,L,D,G
    5,R,J,G
-
   39,R,G
   37,L,D,G
   29,R,D,G
@@ -285,19 +288,19 @@ console load StrawberryJam2021/3-Advanced/Maladroit
   27,R
   15,R,D,X
    6,R
-  33,L
+   5,R
+  18,D,X
   14,L,Z
    1,R,J
-   7,R
-   2,R,J
    6,R,D,X
-   1,L,J,G
-  25,R,J
+   1,R,J,G
+   1,R,K,G
+  28,R,J,G
   13,K,G
-  12,J,G
-   7,L,K
-  27,R
-  13,U,X
+  14,J
+   7,L,J
+  30,R
+  16,U,X
   30,G
    1,D
   12
@@ -383,4 +386,4 @@ console load StrawberryJam2021/3-Advanced/Maladroit
    1,L,J,G
   93,L
 
-ChapterTime: 1:26.666(5098)
+ChapterTime: 1:26.190(5070)
