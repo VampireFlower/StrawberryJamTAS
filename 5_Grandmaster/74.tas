@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 2437
+RecordCount: 3416
 
 console load StrawberryJam2021/5-Grandmaster/fishtank
    1
@@ -360,176 +360,220 @@ EndRepeat
    1
    1,R
    1,R,J,G
-  36,R,K,G
-   3
-   1,J
-  19,L,J
-  13
-  47,R,G
-   3,J,G
-   9
-  20,L,J
-   4,L
-   5,R,K
-   5,R,J
-  21,R,K
-  12,R
-  13,R,J,G
-  18,R
-  21,R,D
-   1,R,J
+  24,R,K,G
   13,R
-   7
-  11,R,J,G
+  11,R,J
   18,R
-  13,R,D
-   7,D
-  27,R,J
+  26,G
+   4,J,G
+   1,R
+  11,L
+  35,L,J,G
+   4,K,G
+   8,R,K
+   1,J
+   2,K
    1,R,K
-  10,R,J
-   9,R
-   9
-  31,D
-  23,F,113
-  16,R
-  24,F,58
-   7,L,U
-  15,U
-   1,R,U,J
-   1,R,U,K
-   1,R,U,J
-   1,R,J
+   1,R
+  18,R,J
+   4,R
+   2,R,J
    8,R
+   1,R,J,G
+   8,R,K,G
+   1,R
+   1,R,J
+   1,R,J
+   1,R,J
+   1,R,J
+   1,J
+  31,R
+   1,R
+   1,R
+   2,R,J,G
+   1
+   1,J
+  16,R,J
+   4,R,K,G
+   1,R
+  24,R
+  12,R,D
+   1,D
+   1,R,J
+  21,R,K
+   4,R,J
+   5,R,K
+   1,R
+   8,R,J
+  10,R,D
+  29,D
+   5,F,122
+   1,F,121
+   1,F,120
+   1,F,119
+   5,F,116
+  12,F,115
+  13,R
+   3,F,58
+  21,F,60
+  19,U
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   9,R,J,G
   40
 
 
- #lvl_Swimming
-   2
-  16,R
+#lvl_Swimming
+   3,R,J
    1,R,J
-  13,R
-  41,F,171
-  15,R
-  13,R,D
-  12,R
-   8,R,J
-   7,R,U
+   9,R
+   4,J
+  10
+   8,R
+  25,F,180
+   9,F,130
+   3,R
+   6,D
+  19,R,D
+  10,R
+  11,R,J
    1,R,K
-   7,R,J
-   3,L,J
+   1,R,J
+   1,R,K
+   1,R,J
+   1,L,K
+   1,L,J
+   1,R,K
+   5,L,K
    2,L,K
    1,L,J
-  21,L,K
-   9,R,J
-   1,R,U
-   4,U
-   2,R,U
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   4,L,J
+   1,K
+  12,R,J
+   7,R,K
+   1,K
+   1,J
+   1,K
+   1,J
    1,R,K
    1,R,J
-   9,R,K
-  24,R
-
+   1,R,K
    1,R,J
-  24,R
-  30,R,J
-   5
-  16,L
-  23,F,129
-   4
-  11,L,D
-  16,F,260
-  27,L,D
-  10,L,J
-  24,U,J
-   4,L
-   6,J
+   1,R,K
+   6,R,J
+   1,R,K,G
+   8
+  14,R,D
+   1,J
+   1,K
+   7,R,J
    6,R
-   5,F,86
-  14,L
-   5,L,D
-   5,R
-   5
-   6,D
-   6,R,D
-   5,R
+  12
+  14,L,D
+  20,R,D
+   9,L,D
+  21,F,237
+   5,F,235
+  19,F,212
+   1,L,J
+   5,L,K
+   7,K
+  20,U
+   4,L,U
+   1,J
+  11,R,J
+  22,F,228
+   7,D
+  12,R,D
+   3,R
    1,R,J
    1,R,K
    1,R,J
-   5,R,K
-  16,R
+   1,R,K
+   1,R,J
+   1,R,K
+  12,R,D
    1,R,J
    2,R
-   1,R,J
-   2,R
+   1,J
   40
 
 #lvl_Passenger
-   3,R
-   1,R,J
-   2,R
-  10
-   8,L
-  12,R,J
-   4,K
-   3,R,K
-   5,R,J,G
-  11,R
-   7,L
-  16,R,J
+   5
+  10,R,D
+  12,R,D,J
+   1,R,K,G
    1,K
-  18,L,K
-   8,L,J,G
-  12,K,G
-   1,D,J
-   8,L,J
+  10
+   9
+   1,R
+   1
+  16,R,J
+   1,L,K,G
+   4,R,K
+   6,L,K
+  12,L,J,G
+   1,L,K,G
+   5,R,K
+   5,K
+   1,L,K
+   1,L,D,J
+   5,L,J
   26
    1,R,D
-  11,F,75
-  11,F,15
-   9,F,4.503
-   6,F,359.9
-   1,F,359
-   2,F,352.37
-   7,F,315.037
-   2,F,252.193
-  11,F,312
-   8,F,355.165
-   1,F,355.725
-  41,F,18.818
-   5,F,17.643
-   5,F,357
-  11,U
-   1,R,J
-   2,R,K
-   3,R
-   2,R,K,G
-   6,R
-   6,R,J,G
-   2,J
-   2,R,K,G
-  13,R
-   1,R,J
-  16,R
-  40
-
-#lvl_The End of TIMELINE
-   5,R
-   1,R,J
-  14,R
-   7,R,J
-  30,R
-  21,R,J
-  22,R
+  34,F,6
+   9,F,359.9
+   1,F,351
+  16,F,271
+  11,F,315
+   1,F,25
+  59,F,19
+   5,L,U
+  12,U
    1,R,J
    1,R,K
    1,R,J
-  16,R,K
-   5,R,J,G
-   4,R,K,G
-  12,R,J,G
-  10,L,D,X
-   8,L,J
-  15,L,U,X
- 141
+   3,R,J
+   3,R,K,G
+   4,R
+   6,R,J,G
+   2,R,K,G
+  11,R
+   1,R,J
+  14,R
+  40
 
-ChapterTime: 1:16.245(4485)
+#lvl_The End of TIMELINE
+   7,R
+   1,R,J
+  14,R
+   6,R,J
+   1,R
+   5,R,J
+  19,R,D
+   1,R,J
+  18,R,K
+  21,R,D
+   1,R,J
+   1,R,K
+   8,R,J
+   1,J
+  14,R,J
+   1,R,K,G
+   4,R,J,G
+   4,R,K,G
+   4,R,J,G
+   9
+  10,L,D,X
+   9,L,J
+  15,L,U,X
+ 137
+
+ChapterTime: 1:14.239(4367)
