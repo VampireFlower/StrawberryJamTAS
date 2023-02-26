@@ -1,38 +1,273 @@
-RecordCount: 101
+# StrawberryJam2021
+# https://gamebanana.com/mods/424541
+
+RecordCount: 1751
 
 console load StrawberryJam2021/3-Advanced/Citrea
    1
 
 #Start
  190
-
-#lvl_intro
-  10,R,D,X
-   1,L,J
-   4,L
-   1
   15,D,X
    1
-  15,D,X
+  12,R,X
+   1,R,J
+   3
+  15,D,Z
    1
-  15,D,X
-  14,R,D,C
-   1,J
+  14,R,D,X
+   2,R,J
    6,R,D,X
    1,S
-   1,D,J
-  34
-   1,R,J
-   2,R
+   1,D,O
+  34,O
+   5,R
 
-#lvl_a-1
   40
-   6,R
-   7,R,D,X
-   1,J
-   6
+#lvl_a-1
+   5,R
    1,R,J
+   5,R,D,X
+   1,R,J
+   7,R
+   6,R,J
+   8,R
+  14,U,X
+   2,R
+  14,R,J
+  14,R
+  14,U,X
+   1,L
+   1,J
+   1,L,K,G
+   3,R,K
+   5,R
    2,R,K
-  14,R,U,X
+  21,R,D
+   5,L,Z
+   1,R,J
+   7,R
+   7,R,J
+  14,R,D,X
+  16,R
+   5,R,J
+  15,R
+   5
 
-ChapterTime: 
+  40
+#lvl_a-2
+  10,R,Z
+   1,R,J
+   4,R
+   5,R,J
+   4,J
+
+  13,R,X
+   9,J
+   2
+  14,R,Z
+   1,L,J
+   3,L
+   2,J
+  10,L,J
+   9,L
+  14,L,X
+   2,L
+  10,L,J
+   8,L
+  14,L,U,Z
+   7
+   3,L
+   4,D,X
+  33,R,J
+  40
+
+#lvl_a-3
+#probably so much timesave here
+  10,R,D,J
+   5,R
+   5,R,J
+   8,R,K,G
+  14,R,X
+  10,R
+  14,R,D,X
+  30,R,J
+  17,R,X
+   6,R
+  15,L,D,X
+   9,L,D
+  14,L,Z
+  11,L,J
+   5,L
+   1,L,J
+  24,L,D
+   6,L,Z
+   1,R,J
+  12,R,D
+  20,R,D,J
+  14,U,X
+   1,L
+   1,K,G
+   3,R,K
+   7,R
+   4,X
+  10,R,J
+  40
+
+#lvl_a-4
+   4,R
+  19,U,X
+  13,R,J
+  26,R
+  10,R,D
+   4,L,Z
+   1,R,J
+   7,R
+   8,R,D,J
+   5,R
+   5,R,J
+  10,U,X
+  13,R,J
+  10,L,Z
+   6,R,J
+   2,R
+stunpause
+SkipInput,3,1
+  14,R,D,X
+   1,R,D
+endstunpause
+   1,R,J
+  14,R,D,X
+  11,R
+   1
+   3,R,J
+  40
+
+#lvl_bhop
+   7,R,J
+   2,R
+  12,R,D,X
+   1,L,K,G
+  18,R,K
+   6,R,K
+   6,R
+   1,R,J
+   1,R
+  40
+
+#lvl_a-5
+  20,R,D
+   1,D
+  12,R,D
+  15,D,X
+   3,R,D
+   8,D
+#2f for better spinner cycle
+   2,D
+   5,R,Z
+   1,R,J
+   3
+   4,R
+   1,J
+   1,R,D
+  49,R,D
+   3,R
+  14,R,D,X
+   1,R,D
+   1,R,J
+   2,D
+  18,R,D
+  13,R,D,X
+   1,L,K,G
+   1,L,J,G
+  40,R,D
+stunpause
+   1,R,D
+   1,R,J
+endstunpause
+   4,R,J
+   5,R
+   2,R,J
+   3,K,G
+   1,L,K
+   9,K
+  11,R,U,Z
+  40
+
+#lvl_a-6
+   3,R,U,Z
+   1,L
+   1,L,K,G
+   1,R,K,G
+   6,L,K
+   2,R,K
+   1,J
+  11,R,J
+  14,L,U,X
+   1,K
+  16,R,J
+  16,L,K
+  11,R,J
+   5,R
+   1,R,J
+  15,R
+  18,R,D
+  16,U,X
+  12,R,J
+  24,R,D
+   2,R
+  13,R,X
+   6,R,J
+   3,R
+  14,R,U,Z
+   1,R,K,G
+  10,R
+  10,R,J
+   7,R
+   7,R,J
+  14,R,U,X
+   6,R,K,G
+  40
+
+#lvl_epilogue
+   9,R,K
+  11,R,D,X
+   1,S
+   1,D,J
+  17,O
+ 207,O
+
+#lvl_heart
+  10,L,D,X
+   4,L,J
+   3,L,K,G
+   7,L,D,X
+   1,S
+   1,D,J
+  34,O
+   7,L,G
+   6,L,K,G
+  12,L
+  93,D
+  16,R
+  18,L,G
+   4,L,U,G
+   1,L,J,G
+   6,K,G
+   8,R
+   5,L,Z
+   1,L,J
+   4,L
+   1,L,J
+   8,L,K,G
+  10,L
+  15,L,U,X
+ 136,D
+   1
+#0:41.174(2422)
+
+
+
+
+
+ 
