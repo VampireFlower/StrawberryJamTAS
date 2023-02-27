@@ -1,4 +1,4 @@
-RecordCount: 1900
+RecordCount: 1988
 
 console load StrawberryJam2021/3-Advanced/Indecx
    1
@@ -21,16 +21,20 @@ console load StrawberryJam2021/3-Advanced/Indecx
    2,R,K,G
    2,R
   37,L,D
-  13
+   5
+   5
+   1
+   2,R
   15,U,X
   10,R
   14,R,Z
    1,R,J
   14,R,D,X
-   1,J
   40
+
 #lvl_3
-  11,R,D,X
+   1,R,K
+  10,R,D,X
    2,J
    3
    3,J
@@ -58,7 +62,6 @@ console load StrawberryJam2021/3-Advanced/Indecx
    4,R,J
    4,J
   10,R,D,X
- 
   40
 
 #lvl_4
@@ -81,7 +84,6 @@ console load StrawberryJam2021/3-Advanced/Indecx
   15,R,D,X
    1,R,J
    7,R,K,G
-
   40
 
 #lvl_55
@@ -113,8 +115,8 @@ console load StrawberryJam2021/3-Advanced/Indecx
    3,R,J,G
   11,R
    3,R,J
-
   40
+
 #lvl_6
    7,R,J
   15,R,D,X
@@ -130,7 +132,6 @@ console load StrawberryJam2021/3-Advanced/Indecx
    7,R
    1,R,J
    7,R,D,X
-
   40
 
 #lvl_7
@@ -160,6 +161,7 @@ console load StrawberryJam2021/3-Advanced/Indecx
    1,R,J,G
   12,R
   40
+
 #lvl_8
    1,R,J
   18,R,D
@@ -196,10 +198,9 @@ console load StrawberryJam2021/3-Advanced/Indecx
    4,R,D
   15,R,U,X
    4,R
-
   40
-#lvl_9
 
+#lvl_9
    3,R
    3,R,J,G
    8,L
@@ -285,4 +286,4 @@ console load StrawberryJam2021/3-Advanced/Indecx
   14,R,D,X
    9,R,J
  149,R,U,X
-ChapterTime: 0:45.509(2677)
+ChapterTime: 0:45.492(2676)
