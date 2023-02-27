@@ -1,4 +1,4 @@
-RecordCount: 1364
+RecordCount: 1440
 
 console load StrawberryJam2021/2-Intermediate/Liero
    1
@@ -355,11 +355,10 @@ EndStunPause
    1
   72,O
    1,L,J
-   1,K
-   1,L
+   2,L
   15,L,D,X
-  21,R,D
-  74,D
-   6,D,X
+  22,R,D
+  73,D
+   5,D,X
  135
-ChapterTime: 1:00.078(3534)
+ChapterTime: 1:00.061(3533)
