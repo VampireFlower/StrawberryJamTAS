@@ -1,52 +1,55 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 1887
+RecordCount: 1975
 
 console load StrawberryJam2021/3-Advanced/Citrea
    1
 
 #spinner
-   1
+   2
 
 #Start
  190
   15,D,X
    1
-  12,R,X
+  11,R,X
    1,R,J
-   3
+   3,R
+   1
   15,D,Z
    1
-  14,R,D,X
-   2,R,J
-   6,R,D,X
+  13,R,D,X
+   1,R,K
+   2,R,J,G
+   7,R,D,X
    1,S
    1,D,O
   34,O
-   5,R
+   1,R
+   1,R
+   1,R
   40
 
 #lvl_a-1
-   5,R
+   4,R
    1,R,J
    5,R,D,X
    1,R,J
    7,R
-   6,R,J
-   8,R
-  14,U,X
-   2,R
-  14,R,J
-  14,R
+   5,R,J
+   7,R
+  16,U,X
+  16,R,J
+  12,R
   14,U,X
    1,L
    1,J
    1,L,K,G
-   3,R,K
-   5,R
    2,R,K
-  21,R,D
+   5,R
+   1,R,J
+  23,R,D
    5,L,Z
    1,R,J
    7,R
@@ -54,10 +57,11 @@ console load StrawberryJam2021/3-Advanced/Citrea
   14,R,D,X
   16,R
    5,R,J
-  15,R
+  14,R
    5
-
+   1,R
   40
+
 #lvl_a-2
   10,R,Z
    1,R,J
@@ -268,4 +272,4 @@ endstunpause
  136,D
    1
 
-ChapterTime: 0:41.123(2419)
+ChapterTime: 0:41.072(2416)
