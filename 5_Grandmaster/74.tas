@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 2037
+RecordCount: 2190
 
 console load StrawberryJam2021/5-Grandmaster/fishtank
    1
@@ -555,47 +555,43 @@ EndRepeat
   16,F,271
   11,F,315
    1,F,25
-  59,F,19
-   5,L,U
-  12,U
-   1,R,J
-   1,R,K
-   1,R,J
-   3,R,J
+  60,F,19.7
+  18,U
+   1,L,U
+   1,J
+   1,K
+   4,R,J
    3,R,K,G
    4,R
-   6,R,J,G
-   2,R,K,G
-  11,R
+   5,R,J,G
+   1,R,K
+   2,R,J,G
+  19,R
    1,R,J
-  14,R
+   3,R
   40
-#1:09.139(4067)
+#1:09.088(4064)
 
 #lvl_The End of TIMELINE
-   7,R
-   1,R,J
-  14,R
-   6,R,J
-   1,R
+  11,R
    5,R,J
+  24,R
+  22,R,J
   19,R,D
    1,R,J
-  18,R,K
-  21,R,D
-   1,R,J
    1,R,K
-   8,R,J
+  19,R,J
    1,J
-  14,R,J
+   2,R,J
    1,R,K,G
-   4,R,J,G
-   4,R,K,G
-   4,R,J,G
-   9
+   3,R,J,G
+   5,R,K,G
+   3,R,J,G
+  10
   10,L,D,X
    9,L,J
-  15,L,U,X
- 137
+  16,L,U,X
+ 136
 
-ChapterTime: 1:14.069(4357)
+
+ChapterTime: 1:13.797(4341)
