@@ -1,4 +1,4 @@
-RecordCount: 394
+RecordCount: 523
 
 console load StrawberryJam2021/4-Expert/fonda1515
    1
@@ -242,9 +242,25 @@ endrepeat
    4,Z
    1,R,J
    6,R
- 100,R,J
-
-
+   6,R,J
+   6,R
+  15,R,X
+  42,R
+  15,R,D,X
+   9,R
+  12,L,X
+  23,R
+  13,U,X
+  74,R,J
+  15,D,X
+   6,R,D
+  15,R,U,Z
+   8,R,J
+  45,R
+  18,R
+   6,L
+  15,U,Z
+   2,R,J
 
 
 
