@@ -1,19 +1,23 @@
-console wipdebug
+# Leave lobby before running
+# Otherwise the map won't get cleared
+console wipedebug
 console load StrawberryJam2021/0-Lobbies/1-Beginner 912 664
    1
 
 #Start
   36
-  12,R,Z
+   4,R,Z
    1,R,J
-   3,R
-   1,R,K
-   5,R
-  11,R,U,X
+  12,R
+   1,R,J
+   1,J
+  12,R,U,X
    1,R,J,G
+   2,R
+   1
    1,R
    1
-   6,R
+   3,R
    1,R,K
    3,R,J
    4,R
@@ -22,8 +26,8 @@ console load StrawberryJam2021/0-Lobbies/1-Beginner 912 664
    5,R
    1,R,D
    7,J
-   5,R,J
-   2,J
+   3,R,J
+   4,J
   18,U,X
    5,L,J
   12,R,J
@@ -40,5 +44,12 @@ console load StrawberryJam2021/0-Lobbies/1-Beginner 912 664
    8,R,J
    2,R
    1,X
-#0:02.975(175)
-#+50f to direct
+#0:02.941(173)
+#+50f to direct (not sure if this is accurate now)
+
+# Uncomment to warp to spawn
+# bench to check if the bench
+# was unlocked
+
+# Set, Player.Position, 333, 32
+
