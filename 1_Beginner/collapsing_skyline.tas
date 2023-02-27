@@ -1,13 +1,10 @@
-RecordCount: 953
+RecordCount: 1364
 
 console load StrawberryJam2021/1-Beginner/hyperlife
    1
 
 #Start
  190
-
-#Spinner Cycle
-   1
 
 #lvl_a-01
    2,L
@@ -65,29 +62,32 @@ console load StrawberryJam2021/1-Beginner/hyperlife
    5,D
   23,R,D
    2,R,J
-  34,R
-   5
-   7,U,G
+  24,R
+   9,L
+   5,R
+   1,D,J
+   2
+   3,J,G
    1,K
-   7,L,K
-   2,L
-   5,R,D,X
-   1,J
-   7,R,K,G
-   4,R,D
-   5,L,D
-  15,R,D,X
-   5,D
-  15,R,X
-  21,L,D
-   6,D
+   1
+   6,U,X
+   1,L,J
+   2,K,G
+   3
+   4,R
+   5,D,J
+  10
+   1,R
+   7
+  29,D
   15,R,Z
-   6
-  12,R,D
+   3
+  16,R
    4,Z
    1,R,J
    3,R
   43
+
 #lvl_a-04
    7,R,D
   14,R,D,X
@@ -127,29 +127,33 @@ console load StrawberryJam2021/1-Beginner/hyperlife
 
 #lvl_a-03
    8,R
-  11,R,Z
+  14,R,Z
    1,R,J
-   7,R
+  14,R,V
    1,R,J
-  14,R,D,X
-   8,R,K
-   3,R
-  14,U,X
+  13,R,U,Z
    1,L
-   1,J,G
-   4
-   3,R
-   4,Z
-   1,R,J
-   7,R
-   8,R,D,J
-   7,R
-  15,R,D,X
-   7,R,J
+   4,J,G
+   1,R
+   1,L,K,G
+   1,R,K
+   7
    2,J
-   3
+   3,R,J
+   6,R,Z
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+  14,R,D,J
+  15,R,D,X
+   6,R,J
+   4,J
+   2
   15,R,Z
-  12,R,D
+   9,R
+   2
+   1,R
    4,Z
    1,R,J
    4,R
@@ -203,30 +207,36 @@ console load StrawberryJam2021/1-Beginner/hyperlife
   14,R
    1,R,D
    4,Z
-   1,R,J
-   1,R
+   2,R,J
   40
 
 #lvl_a-06
-   8,R
    1,R,J
-  10,L,D,X
-   1,R,J
-   7,R
+   1,R
+   4,R,J
+   3,J
+   1
+   1,J
+   3
+  15,L,D,X
+   4,Z
    2,R,J
-Stunpause
-   3,R,J
-Skipinput 3 1
-   5,R,D,X
-Endstunpause
-  10,R,D,X
-   1,R,D
-  14,R,C
-  11,R,J,G
+   9,R,D
+   1,D
+   2,R,D
+   1,D
+   1,L,J
+   2,J
+   1
+  15,R,D,X
+   2,R,J
+  15,R
+   1,R,J
   40
 
 #lvl_a-07
-   2,R,J
-  15,R,X
- 134
-ChapterTime: 0:27.625(1625)
+   1,R,J
+  15,R,U,X
+ 135
+
+ChapterTime: 0:26.843(1579)
