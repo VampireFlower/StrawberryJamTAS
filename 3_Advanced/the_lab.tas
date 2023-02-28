@@ -1,4 +1,4 @@
-RecordCount: 3153
+RecordCount: 3255
 
 console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1
@@ -127,39 +127,36 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
   15,R,D,X
   14,D
   15,L,X
-  18,L,C
-  10,L
-   1
-   1,L
-  15,U,X
    5,L
-  32,L,J
+  18,L,C
+   3,L
+   3
+  14,U,X
+  35,L,J
   15,L,X
-  10,L
-   4,L,Z
+   9,L
+   6,L,Z
    1,L,J
    7,L
-   1,L,J
-   3,L
+   3,L,J
    5,L,D,X
-   1,L,K,G
+   1,L,J,G
   11,L
    1,L,J
-   4,L
+   3,L
   40
 
 #lvl_hub (0)
 #routes tested (keep
 #this updated):
 #- middle, right, left
-  10,L
-   7,L,J
-  10,L
-   3,L,J
-   1,L
+  11,L
+   6,L,J
+   9,L
+   5,L,J
 
 #lvl_evade-01-Quantum
-   5,L
+   5,L,J
   15,L,D,X
   18,R,D
    5,R
@@ -738,15 +735,14 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1,R
   18,R,D,X
   18,R,D,C
-   1,L
+   1
   13,R,D,X
    1,R,J
    1,R
   15,R,D,X
-  45,R,D
-   9,D
-   1,R
-   3
+  42,R,D
+  12,D
+   4
 
 #lvl_start-00-Radley
    1,J
@@ -793,4 +789,4 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1,R,K,G
   37,R
 
-ChapterTime: 1:42.884(6052)
+ChapterTime: 1:42.799(6047)
