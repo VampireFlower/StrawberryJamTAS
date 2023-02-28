@@ -1,16 +1,71 @@
-RecordCount:
+RecordCount: 163
 
 console load StrawberryJam2021/4-Expert/powerav
    1
 
 #Start
 #lvl_a-1
-   1,J
+   6,R
+   8,R,J
+  14,R,Z
+   4,R,J
+   7,R,K,G
+   9,R,D,X
+   1,L
+   9,R
+  15,R,X
+  14,R
+   9,R,D
+  10,R,J
+  14,R,U,X
+  35,R,G
+   6,D,G
+   1,R
+   6,R,D
+   6,R
+  14,R,X
+  12,R,J
+  21,R,J,G
+   1,R,D
+  24,J
+  15,U,X
+   9,R,J
+  15
+  24,D
+  11,J
+  15,R,U,X
+  22,R
+  12,R,D
+   4,R,Z
+   1,R,J
+  12,R
+  14,R,Z
+   2,R,J
+   4,R
+   1,R,G
+   8,R,J,G
+  15,U,X
+  15,R
+   7
+  14,R,Z
+   2,R,J
+   1,R,K,G
+   1,R,J,G
+   7,R,K,G
+  11,R,D,X
+   4,R,J
+  15,R,U,X
+  22,R
+   7,R,D
+  14,R,Z
+   1,R,J
+   5,R,Z
+  40
 
-
-
-
-
-
+#lvl_a-2
+   9,R,Z
+  22,R,J
+  10,U,X
+ 100,R,J
 
 ChapterTime: 
