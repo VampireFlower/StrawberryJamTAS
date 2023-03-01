@@ -1,4 +1,4 @@
-RecordCount: 1501
+RecordCount: 1597
 
 console load StrawberryJam2021/2-Intermediate/SpoopySoup
    1
@@ -18,7 +18,6 @@ console load StrawberryJam2021/2-Intermediate/SpoopySoup
    1,R,D,J
    9,R
    7,R,J,G
-
 #+2f
 #  23,R,X
 #  12,L,D,C
@@ -91,10 +90,10 @@ endRepeat
    9,R,Z
   18,R,J
   43
-   3,R
+   7,R,Z
+   1,R,J
+  14,R,K,G
    9,R,Z
-  12,R,J
-  10,R,Z
   19,R,J
    9,R,X
    7,R,J
@@ -126,6 +125,24 @@ endRepeat
   16,R,D,C
   41
   28,R
+#dcb loses time somehow
+#  14,R,Z
+#   1,R,J
+#   1,R,J
+#   3,R
+#   1
+#   5,R
+#   1,R,D,J
+#  18,R,J
+#   3,R
+#   1,R,J
+#  14,R
+#   1,R,D
+#   1,R,J,G
+#   1,R,K,G
+#   9,R
+#  20,R,J
+ ##
   14,R,Z
    1,R,J
    3,R
@@ -160,10 +177,13 @@ endRepeat
   12,R,Z
   20,R,J
    9,R,Z
-  17,R,J
-   5,R,D
-   2,L,D
-  17,D
+  14,R,J
+   3,R
+   1,R,J
+   5,R
+   1,L,D
+   3,R,D
+  13,D
   16,D,C
   15,R,D,X
   11,R,C
@@ -238,6 +258,7 @@ endRepeat
 #lvl_soup-7
   34,R,D
   26,R,C
+
   19,U,X
    1,J
   13
@@ -256,11 +277,11 @@ endRepeat
    3
    1,D
    1,R,D
-   2,D
+   3,D
 stunpause 
    4,D
 endstunpause
-  11,D
+  10,D
    6,R,D
   44,R,U,X
    6,R,D
@@ -287,4 +308,4 @@ endRepeat
  135
 
 
-ChapterTime: 0:55.845(3285)
+ChapterTime: 0:55.777(3281)
