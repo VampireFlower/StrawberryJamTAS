@@ -1,4 +1,4 @@
-RecordCount: 1334
+RecordCount: 1482
 
 console load StrawberryJam2021/2-Intermediate/GlowWoomii
    1
@@ -221,53 +221,55 @@ console load StrawberryJam2021/2-Intermediate/GlowWoomii
   14,L,U,X
    7,L,J,G
    7,L
-  23
-   4,J
-  15,R,J
+   5
+   4,Z
+   1,L,J
+   7,L
+  18,L,J
+  45,R,U,X
+  10,R,C
+  13,R,J
   15,U,X
-   3,R,J,G
-   9,R
-   4,R,Z
-   1,R,J
+   8,R
+   7,R,J,G
    7,R
+  14,R,D,X
+   1,L,J
+  14,L,D,X
    1,R,J
-   9,R,J
-   6,R,D,X
-   3,R,J,G
-   5,R
-   2,R,J,G
+   7,R,D,X
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+  15,R,K,G
    5,R
    3,R,J
-   2,R
-   4,R,J
-   9,R,D,X
-   3,R,J,G
-   6,R
+  12,R
+   1,R,J
+   1,R
   40
 
-#lvl_r8
-  11,R
-   3,R,J
-  11,R,K,G
-   7,R,G
-   1,R
-  12,R,U,Z
-  36,L,U,X
-   7,R,C
-  16,R,G
-  17,R,J,G
-  32,D,X
-   6,R,C
-  12,R,G
+#lvl_r8 
+   4
+   9,R
+   7,R,J
+stunpause 
+   2,R,J
+   8,R
+skipinput 3 1
+   6,R,U,Z
+endstunpause
+   7,R,U
+   8,R,G
   14,R,J,G
-  12,R,G
-  21,R,J,G
-  29,G
-   1
-   1,J
-   1,R,K,G
-  10,L,K
-   4,L
+  10,R,G
+  10,R,J,G
+  10,R
+  27,R,G
+   1,J,G
+   1,K,G
+   1,R,J,G
+  16,L,J
   56,R,X
   15,R,D,C
    4,R,D
@@ -276,47 +278,38 @@ console load StrawberryJam2021/2-Intermediate/GlowWoomii
    1,S
    1,D,J
   69,O
-  12,R,Z
+  10,L,Z
    1,L,J
-   7,L
-   3,L,J
-   3,L
-   9,L,D,X
-   1,L,J,G
-   9,L
+   8,L
+   1,L,J
+   8,L,D,X
   40
 
-#lvl_rhub(3)
-   2
-   3,L,J
-   8,L,D,X
-   2,L,J,G
-  20,L
-  10,L,J
-  15,L,D,X
-   8,L
-   2,L,J
-  24,L
-   1,L,J
-  14,L,D,X
-   1,R,J
-  15,R,D,X
-  28,D
-   9,L,D
-   2,D
-   6,L,Z
+#lvl_rhub (3)
+   6,L,D,X
    1,L,J
    7,L
+   7,L,J
+  15,L,D,X
    1,L,J
-  14,L,D,X
-   1,L,J
-  13,L,D,X
-   2,L
-  38,R,D,X
-  10,Z
+  15,L,D,X
+  20,L,D
+  27,R,D
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
    2,R,J
-  10,R,D
-  39,D
+  12,R
+  36,L,D,X
+   4,Z
+   1,L,J
+   7,L
+   4,L,J
+  15,L,D,X
+  13,L,D
+  20,R,D
  172,U,X
   12,L,U,C
   40
@@ -414,6 +407,6 @@ console load StrawberryJam2021/2-Intermediate/GlowWoomii
    1,L,J
   44,L
 
-ChapterTime: 1:13.219(4307)
+ChapterTime: 1:12.505(4265)
 
 
