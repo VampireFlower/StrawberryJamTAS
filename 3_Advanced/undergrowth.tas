@@ -1,4 +1,4 @@
-RecordCount: 3463
+RecordCount: 3464
 
 console load StrawberryJam2021/3-Advanced/Nic
    1
@@ -86,7 +86,7 @@ console load StrawberryJam2021/3-Advanced/Nic
    7,R,Z
    1,L,J
    1,L
-StunPause Simulate
+StunPause
    3,L
   20,L,J
 SkipInput,3,1
