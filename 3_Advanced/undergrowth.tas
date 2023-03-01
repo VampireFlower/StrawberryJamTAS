@@ -1,23 +1,26 @@
-RecordCount: 3434
+RecordCount: 3463
 
 console load StrawberryJam2021/3-Advanced/Nic
    1
 
 #Start
  106
-
 #lvl_01-a
   10,R,X
-  13,R,J
-   4,L,K
-  10,R,X
-   4,R,J
-  13,R,K,G
+   5,R,J
+  12,R,U,X
+   9,R,K,G
+   2,R,J,G
+   7,R
+   2,J
+   4,K
   10,R,X
    8,R,J
-   5,J
-  16,U,X
+   2,J
+  15,U,X
    2,R,J,G
+   1
+   3,R,J,G
    8,R
    8,R,Z
    1,L,J
@@ -83,7 +86,7 @@ console load StrawberryJam2021/3-Advanced/Nic
    7,R,Z
    1,L,J
    1,L
-StunPause
+StunPause Simulate
    3,L
   20,L,J
 SkipInput,3,1
@@ -612,4 +615,4 @@ EndRepeat
   13,R,J
   14,R,U,X
  135
-ChapterTime: 1:34.384(5552)
+ChapterTime: 1:34.333(5549)
