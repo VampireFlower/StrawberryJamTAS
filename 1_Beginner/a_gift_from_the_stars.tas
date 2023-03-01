@@ -1,4 +1,4 @@
-RecordCount: 5728
+RecordCount: 5793
 
 console load StrawberryJam2021/1-Beginner/HankyMueller
    1
@@ -42,21 +42,21 @@ endrepeat
    4,L
   15,L,U,X
   22,L
-  12,K,G
+   2,L,K,G
+   2,R,K
+   1,L,K
+   4,K
+   3
    3,J,G
    6,L,J
-   1,L
-   1
-   1,L,K,G
+   2,L
    1,L,J,G
-   6,L
-   1,L,J
-   4,L
-   1,L,J
-  14,L
+   1,L,K,G
+   9,L
    1,L,J
   14,L
-  14,L,J
+  25,L,J
+   2,L
   14,L,U,X
   11,L,J,G
    2
@@ -127,10 +127,6 @@ endrepeat
    1,S
    1,D,J
   69,O
-
-#spinner
-   1
-
    6,R,Z
   40
 
@@ -258,6 +254,12 @@ EndRepeat
    5
    1,K
    8
+
+### [Staircase]
+### Spinner Cycle
+   2
+###
+
    7,R,D,X
    1,R,J
    7,R
@@ -344,7 +346,7 @@ EndRepeat
   17,L
   39,R,D
    4,R,Z
-   1,J
+   1,R,J
    4,R
 stunpause
    6,R
@@ -373,4 +375,4 @@ endstunpause
  158
   10,R,X
  135
-ChapterTime: 0:58.565(3445)
+ChapterTime: 0:58.514(3442)
