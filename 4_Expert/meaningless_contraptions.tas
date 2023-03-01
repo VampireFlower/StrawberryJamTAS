@@ -1,9 +1,9 @@
-RecordCount: 163
-
+RecordCount:238
 console load StrawberryJam2021/4-Expert/powerav
    1
 
 #Start
+
 #lvl_a-1
    6,R
    8,R,J
@@ -63,9 +63,26 @@ console load StrawberryJam2021/4-Expert/powerav
   40
 
 #lvl_a-2
-   9,R,Z
-  22,R,J
+   5,R,Z
+   1,R,J
+   7,R
+  16,R,J
+   1,J
+  15,U,X
+  94,R,J
+  15,R,Z
+   1,R,J
+  14,R,U,X
+   8,R,K,G
+   7,R
+  11,R,Z
+   1,R,J
+   6,R
+  13,R,J
   10,U,X
- 100,R,J
+  21,D,G
+
+
+
 
 ChapterTime: 
