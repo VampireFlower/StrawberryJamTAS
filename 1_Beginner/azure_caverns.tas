@@ -1,4 +1,4 @@
-RecordCount: 1205
+RecordCount: 1218
 
 console load StrawberryJam2021/1-Beginner/cellularAutomaton
    1
@@ -25,7 +25,7 @@ console load StrawberryJam2021/1-Beginner/cellularAutomaton
   40
 
 #lvl_02
-  11,L,J
+  11,J
   10,L,Z
    4,R,J
    5,R
@@ -34,7 +34,7 @@ console load StrawberryJam2021/1-Beginner/cellularAutomaton
    1,R,J
   25,R,K
   15,U,X
-   3
+   2
    2,R
   35,L,J
    2,J
@@ -161,4 +161,4 @@ console load StrawberryJam2021/1-Beginner/cellularAutomaton
   49,L,J,G
    1,L,Z
   18,R,J
-ChapterTime: 0:21.267(1251)
+ChapterTime: 0:21.250(1250)
