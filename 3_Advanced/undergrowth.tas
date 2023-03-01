@@ -1,4 +1,4 @@
-RecordCount: 3511
+RecordCount: 3637
 
 console load StrawberryJam2021/3-Advanced/Nic
    1
@@ -426,43 +426,36 @@ EndRepeat
    6,K
    1,J,G
    6,L,J
-   6,R,J
+   5,R,J
   12,K,G
   12,L,J
-   6,K,G
-   1,J
-  18,L,J
-  11,R,K
-  26,R,D
-   1,R
-  10,R,X
-   7,R,J
-  10,R,Z
-   2,R,J,G
-  12,R,D
-   1,R,D,J
-   1,R
-  12,R,U,Z
-   1,R,K,G
-   8,R,K
-   1,R
-   6,R,D
-   2,R,K
+   7,K,G
+   5,J
+   3,L,K,G
+   1,L
+   2,K,G
+  12,R,J
+  19,R,D
+   6,D
   14,R,D,X
-   3,R
    1,R,J
-   7,R,D,X
+   7,R,U,X
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+  11,R,K,G
+  12,R
+  10,R,J
+   3,R,K,G
+  17,R,D,X
+   1,R,J
+   5,R
   40
 
 #lvl_06-b
-   4,R,D,X
-   1,R,J
-   7,R
-   8,R,J
-  19,R
-  15,R,X
-  12,R
-  10,R,C
+
+   4,R
+  42,R,J
    8,R,K
   12,J,G
   13,L,K
@@ -483,9 +476,10 @@ EndRepeat
   10,R,K
   15,L
   21,L,D,X
-  26,R,J
+  23,R,J
   20,L
-  45,D
+  48,D
+
   18,L
    3,L,J,G
    7,L
@@ -507,7 +501,7 @@ EndRepeat
    8,L,J
   12,U,X
    5,L,J
- 117
+ 124
   10,D,J
   15,U,Z
   18,R,J
@@ -599,13 +593,12 @@ EndRepeat
   14,U,X
    7,J
   40
-
 #lvl_08-a
   11
-  12,R,K,G
-  12,J
-  12,K
-  11,J
+  14,U,X
+  14,J
+   1,K
+   7,R
    1,R,K
    3,R
   12,L,Z
@@ -616,4 +609,4 @@ EndRepeat
   13,R,J
   14,R,U,X
  135
-ChapterTime: 1:34.299(5547)
+ChapterTime: 1:33.534(5502)
