@@ -1,4 +1,4 @@
-RecordCount: 4664
+RecordCount: 4735
 
 console load StrawberryJam2021/3-Advanced/TiltTheStars
    1
@@ -7,9 +7,6 @@ console load StrawberryJam2021/3-Advanced/TiltTheStars
  114
 
 #lvl_intro_v1
-#Spinner cycle
-   0
-#----
    4,Z
   21,R,J
   18,U,X
@@ -231,39 +228,38 @@ console load StrawberryJam2021/3-Advanced/TiltTheStars
    2,R,J
    7,R,D
   15,D
+### spinner cycle
+   1
+###
   18,R,U,X
-#set,Invincible,false
-  11,U,C
-  36,R,J
-   5,R,U,X
+  12,U,Z
+  33,R,J
+   2,R
+   1
    8,L
-
-#StunPauseMode simulate
+#stunpausemode simulate
 StunPause
    9,L
-SkipInput 3 1
+SkipInput,3,1
   17,L,U,X
-SkipInput 3
+SkipInput,3
    3
-SkipInput 3 1
-  15,L,C
+SkipInput,3,1
+  15,L,U,C
+   9,L
    9
-SkipInput 3 1
-  14,L,Z
-   1,R,J
-SkipInput 3 1
-  15,D,X
-  15,D
+   1,J
+  23
    5,L
-  11
-   1,L
-SkipInput 3 1
-  12,L,Z
+   9
+   3,L
+SkipInput,3,1
+  11,L,Z
    1,L,J
 EndStunPause
-  28,L,J
+  30,L,J
   15,U,X
-   7,L
+   6,L
  103,U,X
   40
 
@@ -896,4 +892,4 @@ EndRepeat
   25,L
   69,X
 
-ChapterTime: 2:27.645(8685)
+ChapterTime: 2:26.982(8646)
