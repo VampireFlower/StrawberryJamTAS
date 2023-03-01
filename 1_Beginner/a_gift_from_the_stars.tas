@@ -1,4 +1,4 @@
-RecordCount: 5543
+RecordCount: 5728
 
 console load StrawberryJam2021/1-Beginner/HankyMueller
    1
@@ -6,91 +6,47 @@ console load StrawberryJam2021/1-Beginner/HankyMueller
 #Start
   69
 
-#spinner cycle
-   0
-
 #lvl_Intro A
-
-#################
-
-#   5,L
-#   1,L,J
-#  14,L
-#   1,L,J
-#  14,L
-#   1,L,J
-#  14,L
-#   1,L,J
-#  14,L
-#   1,L,J
-#  18,L
-#   1,L,J
-#  14,L
-#   1,L,J
-#  18,L
-#   2,L,J
-#   9,L
-#   1,L,J
-#   5,L
-#   4,Z
-#   1,J
-#   6,L
-#   1,L
-#   1,L,J
-#   1,L,K,G
-#   3,L
-#   1
-#   5,L
-#   1,L,J
-#   1,L,K,G
-#   9,L
-#   4,L,J
-#  40
-
-#lvl_Intro B
-#   4,L,J
-#   1,J
-#   8,L
-#  15,L,U,X
-#  99,L
-
-#################
-
-
-   6,L,D,X
-   1,L,J
-   7,L
-  12,L,J
-  15,L,D,X
-   1,L,J
    5,L
-   3,L,J
-  11,L
+repeat,5
    1,L,J
-   1,L,K,G
-   9,L
+  14,L
+endrepeat
+   4,L
    1,L,J
-   1,L,K,G
-   9,L
+  14,L
    1,L,J
+   1,L
+  10,L,D,X
+   1,L,J
+   1,L
+   2,L,J
+   5,L
+   2,L,J
    3,L
+   6,L,D,X
+   1,L,J,G
+   9,L
+   1,L,J
+   1,L,K,G
+   1,L
+   1
+   4,L
+   1,L,J
+   4,L
+   2,L,J
   40
 
 #lvl_Intro B
-  11,L
-   1,L,J
-StunPause
-  10,L,J
-   7,L
-   3
-   1
-EndStunPause
-   1,J
-  20,L,J
-   5,K,G
-   2,J,G
    7,L,J
-   1,J
+   4,L
+  15,L,U,X
+  22,L
+  12,K,G
+   3,J,G
+   6,L,J
+   1,L
+   1
    1,L,K,G
    1,L,J,G
    6,L
@@ -417,4 +373,4 @@ endstunpause
  158
   10,R,X
  135
-ChapterTime: 0:59.466(3498)
+ChapterTime: 0:58.565(3445)
