@@ -1,4 +1,4 @@
-RecordCount: 4618
+RecordCount: 4661
 
 console load StrawberryJam2021/3-Advanced/TiltTheStars
    1
@@ -232,28 +232,31 @@ console load StrawberryJam2021/3-Advanced/TiltTheStars
    7,R,D
   15,D
   18,R,U,X
+#set,Invincible,false
   11,U,C
-   7,R,J
-StunPauseMode Input
-StunPause
-  29,R,J
-SkipInput 3 1
+  36,R,J
    5,R,U,X
-  17,L
+   8,L
+
+#StunPauseMode simulate
+StunPause
+   9,L
 SkipInput 3 1
   17,L,U,X
 SkipInput 3
-   3,L
+   3
 SkipInput 3 1
   15,L,C
    9
 SkipInput 3 1
-  15,L,Z
+  14,L,Z
+   1,R,J
 SkipInput 3 1
   15,D,X
   15,D
    5,L
-  12
+  11
+   1,L
 SkipInput 3 1
   12,L,Z
    1,L,J
@@ -893,4 +896,5 @@ EndRepeat
   25,L
   69,X
 
-ChapterTime: 2:31.385(8905)
+#(8905)
+ChapterTime: 2:27.645(8685)
