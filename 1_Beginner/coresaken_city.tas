@@ -207,22 +207,20 @@ console load StrawberryJam2021/1-Beginner/voliver9
    9,L
   11,L,X
   15,L,J,G
-   1,K
-   1,J
-  19,L,J
-   6,L
-   1,K,G
+  11,K,G
    1,R,K,G
-  12,L,J,G
-  17,L,U,G
-   3,L
-  11,L,J,G
-   5,L
-   9,L,J
-  16,L,D,X
-  15,D,C
-   4,R,D
-   3,R,J
+   1,L,K,G
+  17,L,J,G
+  11,L,U,G
+   4,L
+  24,L,J,G
+  14,L,D,X
+   1,L,J
+  15,D,X
+   1,D
+   2,R,D
+   2,R,D,J
+   3,R
   15,D,X
   26,D
    2,R,D
@@ -345,4 +343,4 @@ console load StrawberryJam2021/1-Beginner/voliver9
   11,R,J
    3
  139,U,X
-ChapterTime: 0:38.522(2266)
+ChapterTime: 0:38.233(2249)
