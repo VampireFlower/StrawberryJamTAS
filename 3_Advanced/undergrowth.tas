@@ -1,76 +1,80 @@
-RecordCount: 3637
+RecordCount: 3823
 
 console load StrawberryJam2021/3-Advanced/Nic
    1
 
 #Start
  106
+#stun
+   2
+#
 #lvl_01-a
   10,R,X
-   5,R,J
+   1,R,J
+   1,J
+   1,R,J
+   2,R
   12,R,U,X
-   9,R,K,G
-   2,R,J,G
-   7,R
-   2,J
-   4,K
+   1,R,K,G
+   3,K
+   3,K
+   7
+   1,J
+   6,R,K,G
   10,R,X
-   8,R,J
-   2,J
-  15,U,X
-   2,R,J,G
-   1
-   3,R,J,G
-   8,R
+   5,R,J
+   5,J
+   1,J
+  16,U,X
+   1,K,G
+   1,K
+   1,R,J,G
+   1,R,K,G
+   7,R
    8,R,Z
    1,L,J
   10,L
   26,L,J,G
-  14,K
-   1,J,G
-   5,J
-   1,L,J
-   1,R,G
-  11,J
-   2,L,J
-   1,K,G
-   3,L,K
-   6,K
-   1,L,K
-   1,R,K
-   1,L,K
-  14,L,J,G
    4,K,G
-   1,R,K
-  14,R,J
-  16,U,X
+   2,R,K
    1,J
-   2,K,G
-  22,L,J
-   1,K,G
-   3,L,K
-   5,K
-   1,L,K
-   1,R,K
-  12,R,J
-  12,L,K
-  12,L,J,G
-   1,K,G
-   3,L,K
-   5,K
-   1,L,K
-   1,R,K
-   1,L,K
-  12,R,J
-  13,L,K
-  12,L,J,G
-  12,R,K
-  12,L,J
-  12,R,K
-  12,L,J
-  12,R,K
-  10,L,J
+   7,R,J
    9,L,K,G
+   1,J
+   1,R,K
+  11,L,K
+  12,J,G
+  12,K,G
+   2,J,G
+   1,R,J
+  14,R,K
+  15,U,C
+   3,R,J
+  20,R
+   8,J
+   3,R,J
+   1,J
+   1,K
+   2,J,G
+  10,L,J
+  15,U,X
+  18,J
+  11,K,G
+   1,R,K
+   8,J
+   1,J,G
+   1,K,G
+   5
+   2,R
+   1,L
+  12,L,J
+   7,K,G
+  12,R,J
+  15,U,Z
+   9,R
+   1,L
+  14,U,X
+  14,J
   43
 
 #lvl_02-a
@@ -609,4 +613,4 @@ EndRepeat
   13,R,J
   14,R,U,X
  135
-ChapterTime: 1:33.534(5502)
+ChapterTime: 1:33.177(5481)
