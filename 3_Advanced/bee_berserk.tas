@@ -1,4 +1,4 @@
-RecordCount: 4735
+RecordCount: 4782
 
 console load StrawberryJam2021/3-Advanced/TiltTheStars
    1
@@ -497,13 +497,24 @@ EndRepeat
  237,U,G
    7,R,G
    2,G
-  41,R,G
- 200,G
    7,R,G
-  30,G
-  35,R,G
+  10,G
+   5,D,G
+  10,U,G
+  30,R,G
+ 180,G
+   7,R,G
   27,G
-   2,R,G
+  35,R,G
+   1,U,G
+   1,G
+   1,U,G
+   1,G
+   1,U,G
+   1,G
+   3,U,G
+  20,G
+   1,R,G
    3,L,K,G
    1,J
   12,R,K
@@ -892,4 +903,4 @@ EndRepeat
   25,L
   69,X
 
-ChapterTime: 2:26.982(8646)
+ChapterTime: 2:26.965(8645)
