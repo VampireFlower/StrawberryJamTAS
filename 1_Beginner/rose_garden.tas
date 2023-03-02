@@ -1,4 +1,4 @@
-RecordCount: 1313
+RecordCount: 1595
 
 console load StrawberryJam2021/1-Beginner/Quinnigan
    1
@@ -12,57 +12,45 @@ console load StrawberryJam2021/1-Beginner/Quinnigan
    3,R
    1,R,J,G
    3,R
-   9,R
-   1
    7,R
+   2,R,J
+  14,R,D,X
    1,R,J
    1,R,K
    1,R,J
    1,R,K
    1,R,J
-   1,J
-   3,R,J
+   1,R,K
+   1,R,J
    1,R
-   5,R
   10,R,D,X
   40
 
 #lvl_q01
    4,R,D,X
-   5,R,J
-   5,R
-  16,R,X
-   7,U,C
-  13,U,G
-  12,J,X,G
-  34,R,J,G
-   4,J,G
-   2,L,J,G
-   1,L,D
-   9,L
-   4,J
-   8,U,Z
-  10,U,G
-  35,R,J,G
-  37,R,U,X,G
-   7,R,J,G
-   1,R,D,J
-   2,R,J
-   1,R
-   6,R,Z
-   1,R,J
-   6,R
-   2,R,J
-   1,R
-   5,R,D,X
+   4,R,J
+  14,R,Z
+   4,R,J
+   8,U,C
+  35,R,U,G
+  42,R,J,X,G
+  17,J,C,G
+  25,R,J,G
+  12,R,X,G
+   1,L
    1,R,J,G
-   8,R
+  11,R
+  10,R,Z
+   1,R,J
+   1,L,J
+   4,R,K,G
+   8,R,D,X
   40
 
 #lvl_q02
-   3,R
+   6,R,D,X
    1,R,J
-  14,R,X
+  13,R,D,X
   13,R,G
    1,R,J,G
   10,R,J,G
@@ -125,14 +113,14 @@ console load StrawberryJam2021/1-Beginner/Quinnigan
   40
 
 #lvl_q04
-   1,R
-   4,R,J
-   1,R
-   1,L
-   1,L,J
-   6,L
-  54,L,D,G
-  26,R,D,G
+   3,R,J
+   3,L,J
+  11,R,D,X
+  13,R,G
+  20,L,D,G
+   3,L,G
+   8,R,G
+   7,G
   35,U,X,G
   43,R,D,G
   17,D,G
@@ -149,8 +137,7 @@ console load StrawberryJam2021/1-Beginner/Quinnigan
   11,R,U,X,G
    1
    5,R,J,G
-   8,L,G
-   1,L,G
+   9,L,G
   14,R,Z
   10,L,G
   80,R,D
@@ -342,26 +329,26 @@ console load StrawberryJam2021/1-Beginner/Quinnigan
    1,R
    9,R,D,X
   13,R,G
-   1,L,J,G
-  11,L,G
-   1,D
-   4
-   3,L
-  14,L,D,X
-  22,G
-  40,X,G
-  40,C,G
-  30,X,G
-  12,R,X,G
-  18,U,C
+   1,R,J,G
+   7,R,G
+   6,R
+   5,D,X
+  10
+  24,G
+  42,X,G
+  42,C,G
+  25,X,G
+  17,L,X,G
+  16,U,C
   23,G
   40,X,G
   40,C,G
-  38,X,G
-   1,D
-  10
-   6,J
-  17,U,X
- 136
+  10,X,G
+  24,L,X,G
+   1,R,J
+   7,R
+   8,J
+  15,U,X
+ 135
 
-ChapterTime: 1:25.748(5044)
+ChapterTime: 1:24.371(4963)
