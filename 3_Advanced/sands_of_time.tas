@@ -385,21 +385,24 @@ console load StrawberryJam2021/3-Advanced/astraxel
   15,U,X
 #Couldn't find a way to ignore
 #this time crystal
-  17,L,J
+  16,L,J
    7,L
    1,L,J,G
-  11,L
+   1,L,K,G
+  10,L
    1,L,J
   14,L
    1,L,J
   14,L
-  20,L,J
+  12,L,J
+   3,L,K,G
+   1,L
    4,L,K,G
    5,R,K
   21,R,J
    1,K,G
-   3,R,K
-   2,R
+   1,R,K
+   4,R
    6,J,G
    1,L,J
    6,L
@@ -475,4 +478,4 @@ console load StrawberryJam2021/3-Advanced/astraxel
   16,U,X
  135
 
-ChapterTime: 1:07.864(3992)
+ChapterTime: 1:07.779(3987)
