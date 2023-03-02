@@ -6,9 +6,6 @@ console load StrawberryJam2021/3-Advanced/Nic
 #Start
  106
 
-#spinner cycle
-   0
-
 #lvl_01-a
   10,R,X
    1,R,J
@@ -17,67 +14,84 @@ console load StrawberryJam2021/3-Advanced/Nic
    2,R
   12,R,U,X
    1,R,K,G
-   3,K
-   3,K
-   7
-   1,J
-   6,R,K,G
+   6,K
+   6
+#+1f 6f bhop subpixel
+   2,J
+   1,K
+   5,R,J,G
+   1,R
   10,R,X
-   5,R,J
-   5,J
-   1,J
-  16,U,X
-   1,K,G
-   1,K
-   1,R,J,G
-   1,R,K,G
-   7,R
-   8,R,Z
-   1,L,J
-  10,L
-  26,L,J,G
+  11,R,J
+  16,U,Z
    4,K,G
-   2,R,K
-   1,J
-   7,R,J
-   9,L,K,G
-   1,J
-   1,R,K
-  11,L,K
-  12,J,G
-  12,K,G
-   2,J,G
-   1,R,J
-  14,R,K
-  15,U,C
-   3,R,J
-  20,R
-   8,J
-   3,R,J
-   1,J
-   1,K
-   2,J,G
-  10,L,J
-  15,U,X
-  18,J
-  11,K,G
-   1,R,K
-   8,J
-   1,J,G
+   5,R
+   1
+   1,R
+   7,R,Z
+   1,L,J
+   8,L
+  26,L,J
    1,K,G
-   5
-   2,R
+   1,R,K
+   1,L,K
+   1,J,G
+   1,R,J
+   8,L,J
+   1,K,G
+   6,L,K
+   1,R,K
+   1,L,K
+  12,J
+   1,K,G
+   5,L,K
+   3,K
+   1,L,K
+   1,R,K
+   1,L,K
+  13,L,J,G
+   1,K,G
+   4,L,K
+   1,R,K
+   1,J
+  12,R,K
+  16,U,X
+  24,L,J
+  10,K,G
+   1,R,K
+  12,R,J
+   5,K,G
+   1,L,K
+  12,L,J
+  12,K,G
+   7,J,G
+   1,R,J
+   1,K
+   6,R,K
+   2,J,G
+   1,R
+   1
+   1,R
+   2
+   1,R
    1,L
   12,L,J
-   7,K,G
+   6,K,G
+   1
    9,R,J
    2
   15,U,Z
    3,R,J,G
    5,R
    2,L
+
+### 02-a Spinner Cycle
+   1
+###
+
+   1,L,J
   14,U,X
-  14,J
+  13,J
   43
 
 #lvl_02-a
@@ -671,6 +685,6 @@ EndRepeat
   14,R,U,X
  135
 
-ChapterTime: 1:31.596(5388)
+ChapterTime: 1:31.494(5382)
 
 
