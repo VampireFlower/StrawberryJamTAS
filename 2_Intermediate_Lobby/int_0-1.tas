@@ -3,24 +3,15 @@ console load StrawberryJam2021/0-Lobbies/2-Intermediate
 
 #Start
  190
-   4,Z
+   9,R,Z
    1,R,J
-  15,R
-   1,R,J
-   1,R,K,G
-   1
-   1,R,J,G
-  11,R
-   1
-  11,R,D,X
-  10,R,J
-  15,R
+  12,R
+   7,R,J
+  15,R,D,X
+   2,R,J
+  18,R
   14,R,Z
-   1,R,J
-  10,R,D,X
-   1,R,J
-   4
-  10,R,D,Z
-  15,R,D
+   7,R,J
+  27,R,D,C
    1,X
-#0:01.921(113)
+#0:01.717(101)

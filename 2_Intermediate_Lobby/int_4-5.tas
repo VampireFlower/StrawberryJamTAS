@@ -3,26 +3,21 @@ console load StrawberryJam2021/0-Lobbies/2-Intermediate 5528 1304
 
 #Start
   36
-
-   4,L,Z
-   5,L,J
-  10,L,K,G
-   8,L,J,G
-   9,L
-
-# would probably be faster if we regain the dash here
-   4,L,Z
-   1,L,J
-  14,L,D
-  29,D
-  41,L,D
-   4,L,Z
+   2,L,J
+  11,L,X
+  12,L,J
+   4,L,K,G
+  10,L,Z
+   5,J
+  15,L,D,X
+  32,R,D
+  33,L,D
+   6,L,D,X
    1,L,J
    7,L
-   2,L,J
-  10,L,D,X
-  14,L
+   1,L,J
+  15,L,D,X
+   9,L
    1,X
-
-#0:02.584(152)
+#0:02.533(149)
    
