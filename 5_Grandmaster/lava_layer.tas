@@ -1,13 +1,11 @@
-# StrawberryJam2021
-# https://gamebanana.com/mods/424541
-
-RecordCount: 2129
+RecordCount: 4249
 
 console load StrawberryJam2021/5-Grandmaster/tobyaaa
    1
 
 #Start
  190
+
 #lvl_Bill
    1,S,N
    1,D,J
@@ -20,283 +18,359 @@ console load StrawberryJam2021/5-Grandmaster/tobyaaa
    1,R,J
   14,R,D,X
    6,R,J
-  40
+  43
 
 #lvl_Carol
+   2,R,J
+   3,R
+   1,R,J,G
+   3,R
+   1,R,N
    3
-   4,R
-   2,R,K
-   9,R
-   1,X
+   5
+   4,Z
    1,R,J
-   8,R
-  10,R
-  10,L,D,X
-   6,R,J
+  14
+  14,L,Z
+   3,R,J
   15,R,D,X
-   1,R,J
-  15,R,D
-   6,D
-   2
-   6,R,Z
+   1,R,D,J
+  12,R
+   5,R,D
+   7,R
+   5,R,X
    1,R,J,G
    1,J
-   1,R,J
-   6,R
-  16,L,D
-   4,L,J,G
-   8,L,G
-   1
-   8,J
-   6,R,J
-  16,R,Z
-  22,R,V
-  11,R,X
-   1,R,J
-  13,R
-  15,R,Z
-  17,L,D
-   1,L
-   6,L,J
-   1,L
-  14,U,X
-   7,R,J
+   3,R,J
    1,R
-   1,R,K,G
+  23
+   4
+   3,L,J
+   1,L
+   1,J,G
+   2
+   1,J
+   9,K
+   4,R,K
+  14,R,Z
+   1,R,J
+  12,R,D,X
+   4,R,J
+   4,R
+   1,R,J
+   5,R
+  15,R,Z
+  10,U,X
+   1,R,J
+   2,J
+   4,R,J
+   2,R
+   1,R,J,G
    7,R
-   7,R,Z
+   4,Z
+   4,R,J
+   1,R
    1,R,J
-   6,R
-   1,R,J
-   5,R,D,X
-  40
+   2,J
+   1
+   1,J
+  43
 
 #lvl_Fred
-   3
-   8,R
-   3
-   8,R,U,Z
-  23,R,J,G
-  11,R
-  15,D,X
-   3,R,J
-   7,J
-  15,U,X
-   8,L
-  22,R,J
-   1,R,K,G
-  11,R,J,G
-   1,R
-   5,R,J
-  14,R
+   1
+   7,R
+   4,R,D
+  12,R,J
+   2,R,K,G
+  27,R,J,G
+   3,R
+  15,R,X
+  18,R
+   1,L,J
+  10,J
+   6
+  12,U,X
+  15,R,J
+  24,R,K,G
+   9,R
    1,R,J,G
-   1,R,K,G
-  14,R
-   4,R,J
+  27,R,K,G
+  10,R,D
+  12,D
+   2,L,D
+  24,L
+   1,D
+   1,L
+  45
+   1,L
+   1,L,D,J
+   2,L
+  13,R,D,X
+  18,R,J
    1,R
-   1,R,J
-  16,R,D
-  26,L,D
-  15,L,D,X
-  68
-   9,R,D,X
-  31,R,J
-  27,R,U,Z
-  25,R,V
-   1,R,J,G
-  11,R
-   4,R,Z
-   1,R,J
+   2,R,J
+   2,R
+  15,R,U,X
+  15,R,Z
+  12,R
+   2,R,J
+   5,R,Z
+   2,R,J
    7,R
    1,R,J
-   2,R
-  40
+   8,R,D,X
+  43
 
 #lvl_Jeremy
-   3
-  12,L
-   1,X
-Repeat 4
+   6,R,D,X
+   1,N
    1,J
-  14
-EndRepeat
-  28,R,U,J,G
-  28,U,G
-   5,G
-  15,K,G
-   7,R,K
-   1,K
-   7,U,G
-Repeat 17
-   1,D,G
-   2,U,G
-EndRepeat
-  26,R,K,G
-   3,R
-  20,U,X
-  33,R,J
-  25,L
-  10,L,K,G
-  19,U,X
-  32,L,J
-  16,G
-  45,U,G
-   3,J,G
-   1,R,K
-  28,R
-  14
-   6,R
-  10,L,X
-  10,L,J
-  16,L,G
-  15,D,G
-  10,U,G
-  12,L,J,G
-   7,K,G
-   5,R,K
-   6,J,G
-   1,L
-  18,L,K
-   1,L,J,G
-   8,L
-  15,U,X
-   5,R
-   3,R,K,G
-   3,R,J,G
-  18,R
-  18,R,Z
-   4,R,J
-   2,R
-   2
+ 101
+   8,R
   13,R,J
-  26,R,U,X
-   4,R,Z
+   9,K,G
+   1,K
+   1,L,K
+   2,K
+   1,R,K
+  14,J
+   8,K,G
+   1,L,K
+   1,R,K
+  13,R,J,G
+  21,R,K,G
+   3,R
+  15,U,Z
+   5,R
+  48,R,J
+   2,J
+   1,L,K,G
+  15,K
+   4,L,K
+  27,L
+   4,L,J,G
+   7,J
+  15,U,X
+   3
+  32,L,J
+  36,G
+  12,J,G
+   7,K,G
+   2,R,J
+  21,R
+   1,R,D
+  10,R,Z
+   1,L,J
+   6,L
+  12,L,J
+   7,L
+  32,G
+  13,D,G
+   5,G
+   1,D,G
+   9,G
+   1,J,G
+   7,L,J
+   1,J
+   1,R,J
+  15,U,X
+  16,L,J
+   2,J
+   1,R,K,G
+   1,J,G
+   1
+   1,L
+  15,R,K,G
+   1,R,J,G
+   1,R,K,G
+   5,R
+   2,R,K
+   1,R
+   2,R,K
+   6,R
+   4,Z
+   1,R,J
+   4,R
+   2,R,D
+   1,R,D,J
+   7,R
+   2,R,D,J
+   2,R
+  11,L,J,G
+  15,R,U,X
+   9,R
+   4,Z
    1,R,J
    7,R
    1,R,J
-   2,R
-  40
+   1,R
+  43
 
 #lvl_Kathy
-   3
+   1,R
   15,D,X
-   6,R,Z
-   2,R,J
-  13,R,D
-   2,R,J
-  15,R
-   6,J,G
-  21,U,G
-   3,J,G
-   5,K,G
-   2,R,K
-  32,R,U,X
+  24
+   8,R,Z
    1,R,J
-   1,R
-  10,R,J
-   1,R
-   9,R,K
-  19,R,U,X
-  14,R,Z
-  10,R,J
-  10,R,D,X
-   4,R,J
-   5,R
-  14,D,X
-   1,J
-   8,L,D
-  17,D
-  34,G
-   3,R,J
-  15,R
-   6,R,D
-  13,R
-   2,R
-  15,R,D,X
-  16,L,J
-  10,J
-   2,L,J
-   3,J
-  33,R,U,X
-   9,R,J,G
-   1,R,K,G
    7,R
-   3,R,J
+   1,R,D,J
+   8,R
+  13,R,Z
+   4,J,G
+   1
+   4,J,G
+   7,R,J
+   6,R,J
+  14,R,X
+   2,R,J,G
+   1
+  15,R,J,G
+   4,R
+  15,R,U,X
+   6,R
+   1
+   1,R,J,G
+   2,R,K,G
+   2,K
+#waiting for block to move up
+#might be possible to skip
+   8
+  14,L,D,X
+   1,R,J
+   5,R,D,X
+   1,R,J,G
+  14,R
+   1,R,J
+StunPause
+   1,R,J
+   6,R
+   1,R,J
+  13,R
+SkipInput,3,1
+   4,R,Z
+EndStunPause
+  11,R,Z
+  18
+   3,L,J
    9,J
   15,U,X
-   8,R,J
-  40
+   1,L
+   6,R,J
+   1,K
+  43
 
 #lvl_Phil
-   3
-  11,R
-   9,R,X
+   4,J,G
+   3,L,J
+  12
+  14,R,C
    2,R,J
    8,R
    8,R,J
-   3,R
-   4
-  28,R,Z
-  18,L,J
-   2,L
-   1,L,J
-  11,L
-   2,R,J
-   1,R
-   7,R,J
-  14,R
-   4,R,D,J
-   1,R
-   8,R,J
-  11,R,D
-  19,Z
-  20,U,X
-  17,R,C
-   6,L
-  31,L,U,X
-  21,R
-  21,R,J
-  33,R
-   5,R,J,G
-   1,R,K,G
-  23,R,J,G
-  49,R,D
-  11,D
-   2,R
    6
+   1,R
+  15,R,Z
+  13,R
+  12,L,J
+   7,J
+   1,L,J
+   7,J
+  10,R
+   3,R,D
+   4,R,D,J
+   5,R
+   3,R,J
+   3,R
+   1,R,J
+   8,R
+  15,R,Z
+   3,R
+  18,R
+  15,L,U,X
+  25,R
+   3,R,D
+   9,R,J
+  18,R
+  12,R,D
+   5,R,J
+   5,R
+  10,R,J
+   5,R
+   3
+   1,D
+   5,J,G
+   6,R,J
+  18,R
+   5,R,D
+  34,R
+  13,D
   38,R
-   2,R,D
-   2,R,J,G
-   2,R,K,G
-  63,R,D
-  16,U,X
-  23,R,Z
-  40
+   8
+   9,R,J
+  18,R
+  14,D
+   1,L,D
+  28,R
+  15,R,U,Z
+#potential for a cycle skip
+#   9
+#  15,R,Z
+#   5
+#   7,L,X
+#   1,R,J
+#   1,R
+#   2
+#  43
 
 #lvl_Susan
-   3
+#   1,R
+#  22,D
+#   2,R,D
+#   5,R
+#   3,R,J
+#   5,R
+#   3,R,J
+#  10,R
+#  27,L
+#   7,L,D
+#  22,R,D
+#  15,R,Z
+#  14
+#   1,R
+#   4,X
+#   1,R,J
+#  21,R
+#   5,R,J
+#  10,L,D,X
+#  15,R,J
+#  13,J
+# 200
+##
+   2,R
+   7
+  15,R,Z
+   3,R
+   2
+  43
+
+#lvl_Susan
 Repeat 12
    1,L
    1,R
 EndRepeat
-   9,J
-   1,R,J
-   8,J
-   3,R,J
-   7,J
-   2,R
-   2
-   1,R
-   5
+  23,J
+   4,R,J
+  11
    1,D
    1
-   2,R,D
-  22,R,D
+  24,R,D
   18,L,D
   17,D
   15,U,X
-  25,R,U,G
-  41,R,J,G
+  13,R
+  12,G
+   2,R,J,G
+  39,G
    5,R
   21,D
    3
@@ -310,50 +384,48 @@ EndRepeat
    1,L,J
   62,L
   15,L,X
-  70,L,U,G
+   2,L
+  68,U,G
    1,J,G
    1,R
   14,D
   22,L,D
-   1,G
-Repeat 5
-   1,G
-   3
-EndRepeat
-  21,J,G
-   1,R
-   1
-   1,R
-   1
-   2,R
-   5
-  18,R,D
-  10,J
-   7,L,J
-  20,R,J
-   6
+  11,G
+  10,J,G
+   2,R,J
+   1,L,K,G
+   1,R,K
+   6,K
+  18
+   9,D
+  12,R,D
+   9,L,J
+   2
    1,L
+  18
+   1,J
+  11
+   1,R
+   1
+   1,R
+   1
    1,J
    1,L,K,G
-   3,R,K
-   8,R
+   9,R
   15,D,X
   70,L,D
-  10,D
-   1,R,D
-Repeat 13
-   1,R,D
-   1,D
-EndRepeat
-  83,R,D
-   4,R,X
+  50,R,D
+   6,D
+  64,R,D
+   4,X
+#-1f possible with a rounding error
+#might be able to manip earlier
    4,R,J
-  40
+  43,J
 
 #lvl_Todd
-   3,J
    7,R,J
-  87,U,X
-  55,L
+   7,U,X
+ 135
 
-ChapterTime: 1:00.639(3567)
+ChapterTime: 0:58.140(3420)
