@@ -1,4 +1,4 @@
-RecordCount: 2381
+RecordCount: 2626
 
 console load StrawberryJam2021/3-Advanced/galaksyz
    1
@@ -15,44 +15,46 @@ console load StrawberryJam2021/3-Advanced/galaksyz
   40
 
 #lvl_a_01-Gala
-  11,R,U,X
+  12,R,U,C
+   1,R,J,G
+   1,R
+   1,R,K,G
+   1,R,J,G
+   1,R
+   2,R,K,G
+   7,R
+   4,R,J
+   7,R,U,X
+   1,R,J,G
+   1,R,K,G
+   1,R,K
    1,R,J,G
    2,R,K,G
+   5,R
+   1,R,J
+   1,J
+   1
+   1,R
+  15,R,D,X
+  10,D
+  23,R,D,X
+   4,R,J
+   5,R
+  17,R,Z
+  11,R,X
+  11,R,C
+  19,R,X
+  15,R,C
+  16,R,X
+   7,R,D,C
+   1,R,J
+   1,R,K,G
+   1,R
    1,R,J,G
    4,R,K,G
-   7,R
-   1,R,J
-  10,R,U,X
-   4,R,J,G
-   1,R,K,G
-   7,R
-   5,R,D,J
-  23,R,D
-  15,D,C
-  10,R,D
-  15,R,Z
-   5,R
-   4,R,Z
-   1,R,J
-   7,R
-  12,J
-  17,U,X
-  19,L,C
-  12,R,X
-  26,R,C
-   8,D
-   5,R,D
-  52,R,X
-  15,R,C
-  15,R,X
-  11,R,D,C
-   1,R,J
-   2,R,K,G
+   1,R
    1,R,J,G
-   1,R,K,G
-   8,R,U,X
-   1,R,J,G
-  21,R
+  23,R
   14,R,D,C
   32,R,J
   36,R,X
@@ -70,20 +72,21 @@ console load StrawberryJam2021/3-Advanced/galaksyz
   11,R,X
   13,R,D,C
   41,R,J
-  19,R,U,Z
+   1,R
+  17,R,U,Z
    1,R,K,G
-   2,L,K
+   1,L,K
    2,R,K
    1,J,G
    6,R
    1,L
-   2,R
-   5,R,Z
+   3,R
+   6,R,Z
    1,R,J
    2,R,K,G
    1,R,J,G
    7,R,K,G
-   7,R
+   7,R,K
   40
 
 #lvl_a_02-Gala
@@ -468,4 +471,4 @@ console load StrawberryJam2021/3-Advanced/galaksyz
   14,R,X
  135,D
 
-ChapterTime: 1:27.108(5124)
+ChapterTime: 1:25.323(5019)
