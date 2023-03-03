@@ -3,40 +3,52 @@ console load StrawberryJam2021/0-Lobbies/2-Intermediate 5152 1576
 
 #Start
   36
-
-  14,R,X
-   9,R,J
-   7,R,K,G
+   4,Z
+   1,R,J
+   4,R
+   1,R,K
+   2,R
+   7,R,J
+   9,R,K,G
   10,R,X
-  10,R,J
-  15,U,X
-  27,L,J
-   5,L
-  10,J
-  10,L,U,X
+   7,R,J
+   2,J
+   1,R,J
+  14,U,X
+  30,L,J
+   1,J
+   5,R,K
+   2,R
+  12,L,U,X
    1,L,J,G
-  11,L
-   4,L,Z
-   2,L,J
-  10,L
-   4,L,Z
-   1,L,J
-   7,L
-   4,L,J
-  15,L,D,X
+   1,L
    1
-   4,L,J
-   5,L
-  10,L,D,X
-  14,L,D
-  27,D
-  24,L,D
-  10,R,D,X
-   1,L,J
+   7,L
+   4,Z
+   3,L,J
+   3,L
+   1,L,K
+   1,L
+   1,L,K
    4,L
-  14,L,D,X
+   4,Z
+   1,L,J
    6,L
    5,L,J
-  21,L
+  16,L,D,X
+   4,L,J
+   5,L
+  22,L,D,X
+  28,D
+   4,L,D
+   1,D
+  21,L,D
+  12,R,D,X
+   3,L,J
+  17,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  16,L,D,C
    1,X
-#0:04.981(293)
+#0:04.845(285)
