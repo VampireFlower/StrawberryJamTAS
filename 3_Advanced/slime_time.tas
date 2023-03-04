@@ -1,4 +1,4 @@
-RecordCount: 2923
+RecordCount: 2963
 
 console load StrawberryJam2021/3-Advanced/galaksyz
    1
@@ -246,16 +246,23 @@ console load StrawberryJam2021/3-Advanced/galaksyz
   40
 
 #lvl_a_05-TiltTheStars
-  21,D
-   2,R,D
-   1,N
-   1,L,J
+   3,L,D
    2
-  15,D,X
-   7,R,D
-   3,D
-   8,R,J,Z
-  32,R
+   7,D
+   1,D
+   3,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R,D
+   2,L,D
+   1,D,N
+   1,L
+  12,D
+   8,R,D
+   4,R,Z
+   3,R,J
+  33,R,C
   14,R,D,X
   42,R,J
   18,R,X
@@ -480,4 +487,4 @@ console load StrawberryJam2021/3-Advanced/galaksyz
   14,R,X
  135,D
 
-ChapterTime: 1:25.306(5018)
+ChapterTime: 1:25.221(5013)
