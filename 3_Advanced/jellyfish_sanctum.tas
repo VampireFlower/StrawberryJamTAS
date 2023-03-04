@@ -1,4 +1,4 @@
-RecordCount: 2262
+RecordCount: 2263
 
 console load StrawberryJam2021/3-Advanced/BlueXans
    1
@@ -7,8 +7,6 @@ console load StrawberryJam2021/3-Advanced/BlueXans
   76
 
 #lvl_intro
-
-   1,J
   25,U,X
   12,J
   14,U,X
@@ -246,4 +244,4 @@ console load StrawberryJam2021/3-Advanced/BlueXans
   13,R,U,X
  135
 
-ChapterTime: 0:52.887(3111)
+ChapterTime: 0:52.870(3110)
