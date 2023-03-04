@@ -1,4 +1,4 @@
-RecordCount: 1911
+RecordCount: 1991
 
 console load StrawberryJam2021/3-Advanced/BlueXans
    1
@@ -33,33 +33,36 @@ console load StrawberryJam2021/3-Advanced/BlueXans
    7,R,J
   13,R
   14,R,Z
-  92,R,U,J,G
-   1,L
-  42,R,D
-AutoInput, 2
-   1,S,N
-  10,O
-StartAutoInput
-  20,R,D
-   2,R
-   1,R,J
-   1,R,K
-EndAutoInput
-  13,R,J
-  38,R,U,X
-   7,R,Z
-   1,R,J
-   6,R
+   7,R,K
+  65,R,D,G
+  27,D,G
+   6,R,D,G
+   5,D,G
+   1
+   8,U,C
+  13,L
+  59,R,D
+  10,R,Z
+   8,R,K
+  15,R,D,X
+   1,R
+   4,R
   40
 
 #lvl_2
+#lvl_2
   15,R,U,X
-  15,R
+  15,L
+   1,L
+   9,J,G
+   1,L,J,G
+   1,L,J,G
+   1,L,G
+  24,L,J,G
    1
-  10,J,G
-  26,L,J,G
+   7,R
+   4,R
    1
-  12,R
   12,L,D,X
    5,R,J,G
   27,R,G
@@ -88,7 +91,6 @@ EndAutoInput
   14,U,X
   10,L,J
   40
-
 #lvl_3
    1,R,J
   10,R,K
@@ -249,4 +251,4 @@ EndAutoInput
    2,R,K,G
  148,R,U,X
 
-ChapterTime: 0:56.542(3326)
+ChapterTime: 0:54.332(3196)
