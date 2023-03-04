@@ -1,5 +1,5 @@
 #By Kataiser
-RecordCount: 2306
+RecordCount: 2547
 
 console load StrawberryJam2021/3-Advanced/Worldwaker2
    1
@@ -203,52 +203,67 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
    1,L,K,G
    6,L,K
   14,U,Z
-  17,J
-  22,R,J,G
-  10,L,J,G
-  12,L,K,G
-  12,J,G
-   1,K,G
-   1,R,J
-  12,R,K
+   8,J
+   1,R,K,G
+  11,R,K
+  12,R,J,G
+   7,R
+  15,U,X
+  18,R,J
+   1,R,K,G
+   2,L,K
+   1,R,J,G
+   1,R,K,G
+   1,J
   40
 
 #lvl_6
-  11,R
-  10,L,X
-   8,R,J
-  14,U,X
-  18,R,U,G
-StunPause, Input
-SkipInput, 3, 1
-  44,R,U,G
-  10,J,G
-   6,R,J,G
-   1,R
-SkipInput, 3, 1
-  10,R,X
-  10,R,J
-EndStunPause
-   1,R,J
-  23,R,J,G
-   3,G
+   1,R,J,G
+   3,R,K,G
+  15,R,J,G
+   2,R,K,G
+   6,R,X
+   6,R,J
+   4,R
    1
-  15,L,U,X
-  38,L,G
-   1,K,G
-   2
+   2,K
+   1
+   1,L,J
+  13,U,X
+  12,R,J
+   1,R,K,G
+   1,R,K
+   1,R,J,G
+   1,R,K,G
+   7,R
+  10,R,X
+   4,R,J
+   1,K
+   1,J
+  10,L,J
+  13,R,Z
+   1,L,J
+   1
+   9,L,D,X
+   1,R,J
+   3,R
+   9,R,D
+   4,R,J
+   5,J
+   1
+  15,U,X
+  56,L,U,G
    1,L,J,G
    3,R,J
-   3,L,J
+   1,L
+   1,L,K,G
    7,L
-  16,L,J
-   1,J
+  17,L,J
   10,U,X
  172,R,G
   15,R,D,G
-   2,G
-   1,R,J,G
-   1,J,G
+   2,R,G
+   2,R,J,G
   21,L,K,G
    1,L
   14,U,X
@@ -305,10 +320,9 @@ EndStunPause
    1,L,D
    7,R,D
    1,R
-   5,R,D,J
+   6,R,D,J
 StunPause
 SkipInput, 3, 1
-   1,R,D,J
 SkipInput, 3, 1
   15,R,D,X
    9,L,D
@@ -325,44 +339,46 @@ SkipInput, 3, 1
    1,R,G
 SkipInput, 3, 1
   15,R,Z
-  12,R
+   9,R
+EndStunPause
+   5,R,D
+   5,R
+   7,R,D,J
    7
-   1,L
-EndStunPause
-   1,S,N
-   3
-  10,O
-   2,L
-StunPause
-   7,L
-EndStunPause
-   7,R,D
-  17,R,D,X
-   5,R,J
-  15,R,D,X
-  29,R,D
-   1,R,J
-   6,R,U,X
+   2,R
+   5
+   4,L
+   8
+  21,R,Z
+   4,L,D
+  56,R,D
+   2,R,J
+  10,R,Z
+   2,R,J
+   2,R,K,G
+   5,R
+   9,R,U,X
   43
 
 #lvl_7
-   1,R,U,X
-  15,G
-   6,R,G
-  39,R,J,G
-   7,R,K,G
-   1
-  10,R,X
+   8,R,U,X
+  11,R,J,G
+  14,R
+  14,R,U,X
+   1,R,J,G
+  10,R
+  10,L,X
    9,L,J
-  33,L,J,G
+  30,L,J,G
    1,K,G
    7,K
-   3,R,K
+   4,R,K
   12,L,J,G
-  12,K,G
+  11,K,G
    4,J,G
-   5,R,J
-   3,R
+   6,R,J
+   2
+   1,R
   15,L,Z
   10
    7,L,D
@@ -414,7 +430,7 @@ EndStunPause
    1,R,K,G
   29,R
 #key cycle
-  72
+  77
    1,L,J
    1,L,K
   10,L
@@ -577,4 +593,4 @@ EndStunPause
    1,L
    2,R
   47
-ChapterTime: 2:00.224(7072)
+ChapterTime: 1:51.299(6547)
