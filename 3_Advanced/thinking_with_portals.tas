@@ -1,4 +1,4 @@
-RecordCount: 2169
+RecordCount: 2240
 
 console load StrawberryJam2021/3-Advanced/sp1029
    1
@@ -39,23 +39,23 @@ console load StrawberryJam2021/3-Advanced/sp1029
   21,R,D,G
    1,R
    7,D,X
-   8,L,J
+   7,L,J
    5,J
+   1,L,J
   21,R,J,G
    1,L
-   4,R
+   3,R
   17,U,X
   22,R,G
    7,R,J
   14,R,Z
   19,R,J,G
   16,R,D,G
-   2,L,D,G
+   1,L,D,G
    1,L
-   9,L,D
-   1,L,K
-   7,L,D
-  12,R,D
+  10,L,D
+  10,L
+   9,R,D
   15,D,X
    3,L
    2
@@ -75,9 +75,10 @@ console load StrawberryJam2021/3-Advanced/sp1029
    6,R
    7,R,Z
    3,L,J
-  21,L,G
-  45,R,D,G
-  16,D,G
+  15,L,G
+   6,R,G
+  44,R,D,G
+  12,D,G
   12,G
    5,R,G
    3,R
@@ -208,8 +209,7 @@ console load StrawberryJam2021/3-Advanced/sp1029
    4,L,D
   10,L,D,X
    1,L,J
-  18,L,G
-   3,L,G
+  21,L,G
    5,L
   16,L,U,C
   30,L,D,G
@@ -279,10 +279,7 @@ console load StrawberryJam2021/3-Advanced/sp1029
    1,R,J
    5,R,D,X
    1,R,J,G
-   1,R
-   1,R
-   1,R
-  10,R
+  13,R
   43
 
 #lvl_a-11
@@ -293,8 +290,7 @@ console load StrawberryJam2021/3-Advanced/sp1029
   42,L,D
   10,R,D,X
    7,L,J
-  28,L,D
-   4,L,D
+  32,L,D
   15,R,D,X
   11,D
    1,R,J
@@ -347,53 +343,12 @@ console load StrawberryJam2021/3-Advanced/sp1029
   15,R,D
   19,D
   27,U,Z
-  15,U,C
- 100
-  10,R,J,G
-   2,R
-   2,R,K,G
-   7,R,G
-   2,R,J
-  15,R,D,X
-  12,R
-  15,D,X
- 100,D
-  14,R
-   5,R,J
-  15,R,U,Z
- 100,R
-  49,R,U,X
-   2,R,J
-  15,R,D,C
-  12,R,D,X
-  15,D,C
- 100,D
-
-#lvl_a-13
-#way faster if box is on a good cycle
-#   9,R,D,X
-#  10,R,J
-#  25,R,U,X
-#   4,L,J
-#  17,U,X
-# 122
-##
-#0:54.026(3178)
-
-#0:54.502(3206)
-   7,R,D,X
-  10,R,J
-  16,R,U,Z
-   6
-  12,R,D
-  17,D
-   1
-  27,U,X
-   6,U,C
- 136
-  40
+  19,U,C
+ 124
+ 
 
 
-ChapterTime: 0:56.236(3308)
+
+ChapterTime: 0:56.117(3301)
 
    
