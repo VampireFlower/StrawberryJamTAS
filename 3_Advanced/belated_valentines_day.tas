@@ -1,13 +1,377 @@
-RecordCount:
-
+RecordCount: 4700
+#drafted by Shin#1224
 console load StrawberryJam2021/3-Advanced/Roborb
    1
+ 189
+#1-intro
+   7,L,D,X
+   1,R,J
+   8,R
+   6,R,J
+   2,R
+   2
+   4,R
+   4,R,J
+   5,U,X
+  13
+   4,R
+   5,R,U,X
+  10,R
+   5,R,U,X
+  34,R,D
+   4,R,Z
+   1,R,J
+   5,R
+  40
 
-#Start
- 190
+#1-a
 
-#lvl_1-intro
+   1,R,D
+   7,R,J
+   5,R,Z
+  11,R
+  26,D
+   3,L,D
+   6,R,U,X
+  21,R,J
+   5,R,U,X
+  32,R
+   5,U,X
+  12,R,J
+   5,R,Z
+  10,R
+  14,R,D,X
+   1,R,J
+   2,R
+  40
+#1-b
+
+   5,R
+  12,R,J
+   4,R
+   5,R,D,X
+  17,R
+   5,R,U,X
+  23,R,J
+  14,R,D,X
+  19,R,J
+  10,R
+   1,R,J
+   5,R,Z
+  25,L,D
+   4,L,J
+   5,R,D,X
+   9,R
+  17,R,J
+  10,R
+   5,U,X
+  12
+   5,L
+   5,R,U,X
+  14,R,J
+   5,R,X
+  21,R,D
+   1,R,J
+  14,R,D,X
+   1,R,J
+  40
+
+#1-c
+
+   1,R
+   1,R,K
+   6,R
+   8,R,J
+   1,R
+   7,R,J
+   5,R,U,Z
+  17,R
+   6,L,U,X
+  15,L
+  16,R,K
+   5,U,X
+  15,R
+  10,L,Z
+  20,R,J
+   5,U,X
+  14,L
+   1,K
+   9,R,K
+  38,R,D
+   5,R,Z
+  16,R
+   4,R,Z
+   1,R,J
+   5,R
+  40
+ 
+#1-e
+
+   1,R
+  11,R,J
+   5,R,D,X
+  26,R,J
+   5,U,X
+  18,L
+   5,R,U,X
+  11,R,J
+   5,R,U,X
+  18,R
+   2
+   5,R,Z
+  21,L
+   5,U,X
+  13,R
+   2,K
+  15,R,K
+   5,L,U,Z
+  12,L
+   1,R,G
    1,J
+   6,R,J
+   5,U,X
+  11
+  13,R,J
+   5,R,D,X
+  10,R,J
+   3,R,K,G
+   8,R
+  40
+
+#1-f
+   5,R,D,X
+   5,R
+  11,R,J
+   5,R,D,X
+  10,R
+   5,R,Z
+  19,R,J
+   5,R,U,X
+  30,R,J
+   5,R,X
+  30,R,J
+  11,L,J
+  23,R
+   5,R,U,X
+  18,R
+   4,R,D,K,G
+   8,R,D
+   4,R,Z
+  13,R,J
+   5,R,U,X
+  15,R,J
+   5,U,X
+  11
+   7,L,J
+   5,U,X
+  17,R,J
+   5,R,X
+  21,R,D
+   5,R,Z
+   9,R
+   1,R,J
+   5,R,D,X
+   1,R
+  
+  40
+
+#1-g
+   2,R
+   1,R,J
+   7,R
+   1,R,J
+   5,R
+   7,R
+   5,R,U,X
+  13,R
+   5,R,D,X
+   9,R
+   1,L,J
+   5,R,D,X
+   9,R
+  18,R,J
+   7,R
+   5,R,U,X
+  13,R
+   5,L,U,X
+  13,L
+  10,L,Z
+  31,R,J
+   5,U,Z
+   7
+   1,K
+  14,L,K
+  13,L
+   4,R
+   7,R
+  10,R,D
+   8,R
+   5,L,D,X
+   5,L
+  28,R,J
+   5,R,U,X
+  27,R,J
+   5,R,U,X
+  18,R
+   5,R,Z
+   6,R
+   1,R,J,G
+   9,R
+   4,R,Z
+   1,R,J
+   5,R
+  40
+
+#1-h
+
+   2,R
+  17,R,J
+   6,R,X
+   1,R,J,G
+  10,R
+  11,R,J
+   7,R
+   8,R,J
+   5,U,X
+   2,L
+   5,U,Z
+  18,L
+   5,U,X
+  12,L
+   1,K
+  11,L,K
+  40
+
+#2-a
+  14,J
+   5,L,J
+  10,L,Z
+   7,R,J
+   5,R,U,X
+  26,R,D
+   4,D
+  20,R
+   5,R,U,X
+  32,R
+   5,R,U,X
+  10,R
+   5,R,X
+  32,R,J
+   1
+   1,R
+   1,L
+   3,L
+   5,R,U,X
+  19,R
+   5,R,Z
+  22,R
+   5,R,X
+  21,R,D
+   4,R,Z
+   1,R,J
+   6,R
+   2,R,J
+  40
+
+#2-b
+
+  14,R,J
+   5,U,X
+   7
+   5,R,J
+  14,J
+   4,R,J
+   5,R,U,X
+  22,R,D
+   5,R,U,X
+  32,R,J
+   5,R,J,Z
+  22,R
+  13,L
+  11,R,J
+   5,R,X
+  15,R,D
+  11,D
+   5,L,D,X
+   6,L
+  27,R,J
+   5,R,U,X
+  32,R,J
+   5,U,X
+  15,L
+  14,L,J
+  12,L
+   5,U,X
+  16,R
+   5,U,Z
+   4
+  23,L,J
+   5,L
+   5,R,U,Z
+  16,R
+   5,R,U,X
+  29,R
+   7,L,Z
+   1,R,J
+   7,R
+   1,R,J
+   5,R
+  40
+
+#2-c
+
+   9,R
+   8,R,J
+   5,U,Z
+  12
+   1,J
+  27,L,J
+   5,R,X
+  14,R
+   5,R,D,X
+   9,R
+  15,R,J
+  10,R
+   5,R,U,X
+  17,R
+   5,R,U,Z
+  11,R
+   5,U,X
+   2
+   1,J
+  28,L,J
+   5,R,X
+  11,R
+   5,R,D,X
+   9,R
+  18,R,J
+   5,R,U,X
+  29,R
+   5,R,U,X
+  11,R
+   5,R,X
+  17,R
+   5,R,U,X
+  10,R
+   5,R,Z
+   6,R
+   1,R,J,G
+  10,R
+   1,R,J
+   5,R,D,X
+   1,R,J
+   1,R
+  40
+
+#2-d
+   6,R
+   6,R,J
+  12,R
+  10,R,Z
+   9,R
+ 134
+
+ChapterTime: 0:54.434(3202)
 
 
 
@@ -15,4 +379,3 @@ console load StrawberryJam2021/3-Advanced/Roborb
 
 
 
-ChapterTime: 
