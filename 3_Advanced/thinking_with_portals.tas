@@ -1,4 +1,4 @@
-RecordCount: 2240
+RecordCount: 2320
 
 console load StrawberryJam2021/3-Advanced/sp1029
    1
@@ -140,27 +140,30 @@ console load StrawberryJam2021/3-Advanced/sp1029
    1,R,J
   14,R,D,X
    9,R,J
-  14,U,X
-   4,R,J
+  12,U,X
+   7,R,J
   43
 
 #lvl_a-07
-  13,R,J
+  10,R,J
+   1,R,K,G
   14,R,X
-  17,R,K
-  15,U,X
+  16,R,K
+  15,U,Z
    1,L,K,G
+   1,L,K
    7,L
-   6,L,K
-   6,D,X
+   1,L,K
+   5,L
+   5,D,X
+   5
    6,R
-   6
   10,R,D,X
    5,L,J
    5,L,U,Z
-  39,L,D,G
-  29,R,D,G
-   5,R,G
+  38,L,D,G
+  31,R,D,G
+   4,R,G
    9,R
   15,R,Z
   20,L,D
@@ -341,7 +344,7 @@ console load StrawberryJam2021/3-Advanced/sp1029
    6,R,J
   15,R,U,X
   15,R,D
-  19,D
+  20,D
   27,U,Z
   19,U,C
  124
@@ -349,6 +352,8 @@ console load StrawberryJam2021/3-Advanced/sp1029
 
 
 
-ChapterTime: 0:56.117(3301)
+ChapterTime: 0:56.083(3299)
+
+
 
    
