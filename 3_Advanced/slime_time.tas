@@ -1,4 +1,4 @@
-RecordCount: 2963
+RecordCount: 2967
 
 console load StrawberryJam2021/3-Advanced/galaksyz
    1
@@ -258,10 +258,8 @@ console load StrawberryJam2021/3-Advanced/galaksyz
    2,L,D
    1,D,N
    1,L
-  12,D
-   8,R,D
-   4,R,Z
-   3,R,J
+  10,D
+  12,R,D,X
   33,R,C
   14,R,D,X
   42,R,J
@@ -487,4 +485,4 @@ console load StrawberryJam2021/3-Advanced/galaksyz
   14,R,X
  135,D
 
-ChapterTime: 1:25.221(5013)
+ChapterTime: 1:25.136(5008)
