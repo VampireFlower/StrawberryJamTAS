@@ -1,4 +1,4 @@
-RecordCount: 6079
+RecordCount: 6298
 
 console load StrawberryJam2021/3-Advanced/TiltTheStars
    1
@@ -69,7 +69,6 @@ console load StrawberryJam2021/3-Advanced/TiltTheStars
    1,R
    1,R,J
    5,R
-
   11,R,J
    1,R
   14,R,U,X
@@ -158,43 +157,65 @@ console load StrawberryJam2021/3-Advanced/TiltTheStars
    2,R,K
   20,R,J
    2,J
-repeat 4
-   4,K,G
-   7,J,G
-endrepeat
-  12,R,K,G
-   1,R,J,G
-   3,L,J
+  12,K,G
+  12,J,G
+   7,K,G
+   1,J,G
    1,L,J
    1,R,K,G
    1,R,J,G
-  20,R,K,G
-   4,J,G
-   6,K,G
-   2,L,K
-  27,L,J
-  12,L,K,G
-   1,J,G
-   1,K
-   6,J
-   8,R,J
-   1,K,G
-   2,L,K
+   2,J
+   1,L,J
+   2,J
+   1,R,J
+   1,J
+   1,R,J
+   1,R,K,G
    1,R,J,G
+   8,R,K,G
+   1,J,G
+   1,L,J
+   1,R,K,G
+   1,R,J,G
+   2,J
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+  18,R,J,G
+   2,R,K,G
+   1,L,K
+   1,R,K
+   1,J
+   2,K,G
+  24,L,K
+   1,K
+  12,J,G
+   1,L,K,G
+   5,K,G
+   1,R,K
+   1,L,K
+   1,J
+   1,K
+   8,R,K
+   5,K
+   1,J,G
+   2,L,J
+   1,R,K,G
+   1,L,K
+   4,R,K
+   5,J,G
    1,L,J
    4,R,J
-   4,K,G
+   1,K,G
    1,L,K
-   5,R,K
-   1,J,G
-   1,L,J
-   2,R,J
-  12,R,K,G
-repeat 6
-   4,J,G
-   7,K,G
+   2,R,K
+  12,R,J,G
+repeat 3
+  11,K,G
+  11,J,G
 endrepeat
-   6,J
+   6,K
   74,R,X
   15,D,C
   11,D
@@ -245,7 +266,7 @@ endrepeat
 Repeat 8
    8
    4,J
-  EndRepeat
+EndRepeat
    7
    1,J
    2,R,J
@@ -259,15 +280,12 @@ Repeat 8
    2,J,G
   12,R,J
    7,R
-
-
    7,R,Z
    1,R,J
    4,R
    2
    1,R,K
   13,R,D,X
-#0:37.672(2216)
   40
 
 #lvl_a-04
@@ -281,23 +299,19 @@ Repeat 8
   23,R,K,G
   15,R,D,X
    8,R
-   1,R,J
-  14,R
-   1,R,J
-  49,R
-   1,R,J
+  12,R,J
    7,R
-   1,R,J
-   7,R
-   4,R,K
-   5,R
+  40
+
+#lvl_a-05
    3,R,J
-  17,R,D
-   1,L,D
-   7,R,D
-  10,L,D,X
-  37,R,J
-  14,R,U,X
+  15,R,D,X
+   1,R,J
+   7,R
+   5,R,J
+  25,R,D
+  23,R
+  19,R,U,X
   43,L,C
   46,R,K
   30,R,U,X
@@ -320,8 +334,6 @@ Repeat 8
   12,R
    2,R,J
    2,R
-#0:47.311(2783)
-#0:47.464(2792)
   40
 
 #lvl_a-06
@@ -457,36 +469,30 @@ Repeat 8
    7,R,G
   27,G
   35,R,G
-   1,U,G
-   1,G
-   1,U,G
-   1,G
-   1,U,G
-   1,G
+  18,G
    3,U,G
-  20,G
-   1,R,G
-   3,L,K,G
+   2,G
    1,J
-  12,R,K
-   7,R
-   3
+   2
+   1,K
+   2,J,G
+  12,R,J
+   8,R
+   2,R,J
    4,R,Z
    2,R,J
-   1,R
+   8,R
+   1,R,J
+  11,R,D,X
    1,R,J
    6,R
-   1,R,J
-  10,R,D,X
-   1,R,J
-   5,R
-   2
+   1
    1,R,J
    2,J
    5,R,D,X
    1,R,J,G
-   3
-   8,R
+   4
+   7,R
    1,R,J
    5,R,D,X
   40
@@ -854,4 +860,4 @@ Repeat 8
   25,L
   69,X
 
-ChapterTime: 2:11.002(7706)
+ChapterTime: 2:10.526(7678)
