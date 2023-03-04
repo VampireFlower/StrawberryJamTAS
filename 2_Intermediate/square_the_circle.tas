@@ -1,4 +1,4 @@
-RecordCount: 7541
+RecordCount: 7605
 
 console load StrawberryJam2021/2-Intermediate/bryse0n
    1
@@ -449,8 +449,7 @@ Endstunpause
    4,R
    5,R,Z
    1,L,J
-   1
-   1
+   2
    1,J
    1,L
    8,L,J
@@ -700,10 +699,10 @@ Endstunpause
    1,S
    1,D,J
   69,O
-   2,R,K
-  10,L,D,C
+   1,R,K
+  11,L,D,C
    2,K
-   4
+   3,K
    6,R,U,C
    1,K
   16
@@ -719,7 +718,9 @@ Endstunpause
    3,L,K
   16,L
    8,R,D,X
- 117,R,U,C
+  91,R,U,C
+  15,R,X
+  14,R,D
    5,L,X
   22,L
   20,L,G
@@ -818,4 +819,4 @@ Endstunpause
 #lvl_outro
   42,R,D
  139,D,X
-ChapterTime: 1:50.262(6486)
+ChapterTime: 1:50.245(6485)
