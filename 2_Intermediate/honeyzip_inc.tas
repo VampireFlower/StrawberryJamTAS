@@ -1,4 +1,4 @@
-RecordCount: 1852
+RecordCount: 1946
 
 console load StrawberryJam2021/2-Intermediate/GlowWoomii
    1
@@ -328,38 +328,34 @@ console load StrawberryJam2021/2-Intermediate/GlowWoomii
    1,S
    1,D,J
   69,O
-  10,L,Z
    1,L,J
-   8,L
+   1,L
+  14,L,D,X
+   1,N
+   3,L,J
+  14,L,Z
    1,L,J
-   8,L,D,X
+   6,L,D,X
   40
 
 #lvl_rhub (3)
-   6,L,D,X
+  11,L,J
+   1,L
+  18,L,D,X
    1,L,J
-   7,L
-   7,L,J
-  15,L,D,X
+  63,L,D,X
    1,L,J
-  15,L,D,X
-  20,L,D
-  27,R,D
-   6,R,Z
+  14,L,D,X
+   2,L,J
+  11,L
+  37,R,D,X
+   4,Z
    1,R,J
    7,R
-   1,R,J
-  14,R,D,X
-   2,R,J
-  12,R
-  36,L,D,X
-   4,Z
-   1,L,J
-   7,L
-   4,L,J
-  15,L,D,X
-  13,L,D
-  20,R,D
+   4,R,J
+  15,R,D,X
+  13,R,D
+  20,L,D
  172,U,X
   12,L,U,C
   40
@@ -455,4 +451,4 @@ console load StrawberryJam2021/2-Intermediate/GlowWoomii
    1,L,J
   58,L
 
-ChapterTime: 1:08.068(4004)
+ChapterTime: 1:07.966(3998)
