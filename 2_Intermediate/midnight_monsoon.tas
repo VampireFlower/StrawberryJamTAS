@@ -1,4 +1,4 @@
-RecordCount: 1125
+RecordCount: 1127
 
 console load StrawberryJam2021/2-Intermediate/Luma
    1
@@ -24,7 +24,6 @@ console load StrawberryJam2021/2-Intermediate/Luma
   15,R
    6,R,J
   16,R
-
    1,R,J
    5,R
    1
@@ -51,8 +50,7 @@ console load StrawberryJam2021/2-Intermediate/Luma
    8,R,J
    1,R,K,G
    8,R,K
-  11,R,K,G
-  10,R,K,G
+  21,R,K,G
    1,R
   13,U,X
   17,R,G
@@ -90,8 +88,7 @@ console load StrawberryJam2021/2-Intermediate/Luma
    4,R,J,G
    1,R
    1,R,J
-   4,R
-  12,R
+  16,R
    1,R,J
    4,R
   40
@@ -169,7 +166,6 @@ console load StrawberryJam2021/2-Intermediate/Luma
    7,L
    7,L,J
   14,U,X
-
   14,G
   23,R,G
    1,D
@@ -196,48 +192,47 @@ console load StrawberryJam2021/2-Intermediate/Luma
   39,R,G
   19,R,D,G
    9,D,G
-  50,R,G
-   1,R,J,G
+  49,R,G
+   1,L
+   6,J,G
+  14,R,X
+  37,D,G
+  12,R,J,G
    1,R
-  20,R,U,X
-  21,R,U,G
-  14,L
-  10
-   4,R
-  10,R,J
-   5,R
-  16,R,J
-  15,R,G
-   6,L,G
-   1,R
-  24,L
-   1,L,J
-  34,L
-   6
-   5,L
-   5,R,X
-
-  31,R,G
-   1,R
-  10,R,U,X
-  61,R,D,G
-  38,R,G
+   8,R,U,X,G
+  17,R,G
+   8,R,J,G
+   6,R
+  15,R,Z
+  25,D
+   9,L,D
+   6,R
+  35,R,G
+   2,R,J,G
+   8,R,G
    1,R,J,G
   14,R,G
-   7,R,J,G
-  15,R,G
+   2,R,J,G
+   9,R,G
+   2,R,J,G
+  10,R,G
    7,R
    1,R,J
-  14,R
-   1,R,J
+   1,R
    1
-   6,R
-   1,R,J,G
-  13,R
+   5,R
+   3
+   8,R
    1,R,J
-  12,R,J,G
-  20,R,J,G
-  20,R,D,G
+   3,R
+   1,R,J,G
+   1,R,K,G
+  14,R
+  13,R,G
+   1,R,J,G
+   5,R,G
+   1,R,J,G
+  15,R,D,G
   37,R,X
   15,U,C
    1,R
@@ -312,17 +307,11 @@ console load StrawberryJam2021/2-Intermediate/Luma
  150,D
   10
   14,R,U,Z
-#spinner cycle?
-   3
-#
-
   15,R,D,V
   13,D
   60,R,D
    9,D
-   1,D,AU
-   4,D,AU
-  10,D,AU
+  15,D,AU
   10,R,D,AU
    6,D,AU
    1,R,D,AU
@@ -537,5 +526,5 @@ console load StrawberryJam2021/2-Intermediate/Luma
    1,R,K,G
   75,L,J
 
-ChapterTime: 1:40.266(5898)
+ChapterTime: 1:37.733(5749)
 
