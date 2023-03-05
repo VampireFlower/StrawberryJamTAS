@@ -1,4 +1,4 @@
-RecordCount: 2637
+RecordCount: 2677
 
 console load StrawberryJam2021/1-Beginner/voliver9
    1
@@ -7,58 +7,67 @@ console load StrawberryJam2021/1-Beginner/voliver9
   99
 
 #lvl_a-01
-   6,L,D,Z
+   5,L,Z
    1,R,J
-   4
-   3,R
-   1,R,J
-  15,R,D,X
-  12,R
+   8
+  11,D
+  10,R,D
+  10,R,D,X
+   8,R,J
+   4,K,G
+   7,R
    1,G
-  28,K
-  10,G
-  12,J,G
-   3,R
-   4,R,Z
+  12,K
+   1,J,G
+   1,K
+   6,L,K
+   7,R,Z
+   3,R,K,G
+   1,R
    1,R,J
    1,R,K
    1,R,J
-   1,K
-   7,R
-  12,R,J
+   1,R,K
+   6,R,D
+   4,R,J
+   4,R
+   1,L
+   1,J,G
   15,R,D,X
-   4,R,J,G
-   2,R
+   3,R,J
+   5,R
+   1,R,J
    6,R,U,X
   40
 
 #lvl_a-02
    7,R,U,X
    1,L
-   6,K,G
-   2
-   2,R
-   2,J,G
-   3,R,J
-   1,J
-   1,R,J
-   1,L,J
-   1,R,J
-  14,R,K,G
-   2,J,G
-   3,R,J
-   1,J
-   1,R,J
-   1,L,J
-   1,R,J
-  13,R,K,G
-   1,R,J,G
+   9,J,G
+   1,R
+   1,K,G
+   3,R,K
+   3,K
+   1,R,K
+   1,L,K
+   1,R,K
+  13,R,J,G
+   1,K,G
+   3,R,K
+   1,K
+   1,R,K
+   1,L,K
+   1,R,K
+  13,R,J,G
    1,R,K,G
+   1,R,J,G
    5,R
-   2,R,J
-   7,R
-  19,R,J
-  20,R,Z
+   1,R,J
+   5,R
+   3
+  17,R,J
+   2,J
+  20,R,X
    5
   14,R,D,X
    3,L,J
@@ -70,6 +79,8 @@ console load StrawberryJam2021/1-Beginner/voliver9
   13,L,U,X
    8,L,J,G
   40
+
+#lvl_a-03
    7,L
    1,G
   15,K
@@ -344,4 +355,4 @@ console load StrawberryJam2021/1-Beginner/voliver9
    3
  139,U,X
 
-ChapterTime: 0:37.842(2226)
+ChapterTime: 0:37.757(2221)
