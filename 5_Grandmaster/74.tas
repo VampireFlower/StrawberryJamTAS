@@ -1,4 +1,4 @@
-RecordCount: 2632
+RecordCount: 2674
 
 console load StrawberryJam2021/5-Grandmaster/fishtank
    1
@@ -276,13 +276,17 @@ EndRepeat
    1,J,G
    1,R,J,G
   22,R,K
-  11,R,J
-  60,D
-  22,R,D
+   8,R,J
+   1,R
+   6,J
+  56,D
+  19,R,D
    1,R,J
   22,R,D
-   2,D
-   2,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R,D
    1,R,J
    1,R,K,G
   12,R,J,G
@@ -302,7 +306,7 @@ EndRepeat
    1,R,J,G
   10,R
   40
-#0:31.450(1850)
+#0:31.399(1847)
 
 #lvl_Nakaniwa Adventure
    4,R
@@ -329,7 +333,7 @@ EndRepeat
   32,R
    1,R,D,J
   40
-#0:37.893(2229)
+#0:37.842(2226)
 
 #lvl_Sewers
    9,R,D,J
@@ -428,7 +432,7 @@ EndRepeat
    1,R,K
    9,R,J,G
   40
-#0:53.975(3175)
+#0:53.924(3172)
 
 #lvl_Swimming
    4,R,J
@@ -552,7 +556,7 @@ EndRepeat
    1,R,J
    3,R
   40
-#1:07.983(3999)
+#1:07.932(3996)
 
 #lvl_The End of TIMELINE
   11,R
@@ -575,4 +579,4 @@ EndRepeat
   16,L,U,X
  136
 
-ChapterTime: 1:12.692(4276)
+ChapterTime: 1:12.641(4273)
