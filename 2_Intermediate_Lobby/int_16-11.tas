@@ -1,0 +1,62 @@
+console load StrawberryJam2021/0-Lobbies/2-Intermediate 2160 1264
+   1
+
+#Start
+  36
+   7,R,J
+  12,R,Z
+   4,R,J
+   9,R,D,X
+   1,R,J
+   7,R
+#Probably slow
+  14,R,J
+  16,R,U,X
+   7,R,J,G
+   7,R
+
+##Tried to Delayed ultra
+#   6,R,Z
+#   1,R,J
+#   7,R
+#   3,R,J
+#   8,R,D,X
+#   1,R,J,G
+#   3,R
+#   2,R
+#   4,R
+#   1,R,J
+#  27,R,D,X
+#   1,R,J
+##  14,R,D,X
+#  14,R
+##Couldn't keep the speed after that
+#Repeat 5
+#   1,R,J
+#  14,R,D,X
+#EndRepeat
+##1f slower
+
+   1,R
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  12,R,D,X
+Repeat 8
+  14,R,D,X
+   1,R,J
+EndRepeat
+  13,R,D,X
+   3,R,J
+   7,R,D,X
+   1,R,J,G
+  11,R
+   1,R,J
+   2,R
+  15,R,D,X
+  12,L,D
+   1,N
+#0:04.505(265)
