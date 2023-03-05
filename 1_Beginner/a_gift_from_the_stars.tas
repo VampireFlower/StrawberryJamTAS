@@ -1,13 +1,10 @@
-RecordCount: 6148
+RecordCount: 6158
 
 console load StrawberryJam2021/1-Beginner/HankyMueller
    1
 
 #Start
   69
-
-#spinner cycle
-   2
 
 #lvl_Intro A
    5,L
@@ -129,6 +126,8 @@ endrepeat
    1,S
    1,D,J
   69,O
+#spinner cycle (Staircase)
+   2
    4,Z
    1,R,J
   40
@@ -370,7 +369,10 @@ endstunpause
    8,L,J
   23,L
    1,N
- 158
+ 154
+
+#lvl_End Cabin
+   4
   10,R,X
  135
 
