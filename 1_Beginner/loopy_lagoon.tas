@@ -1,5 +1,5 @@
 #V
-RecordCount: 5070
+RecordCount: 5875
 console load StrawberryJam2021/1-Beginner/coffe
    1
 
@@ -22,7 +22,7 @@ console load StrawberryJam2021/1-Beginner/coffe
   40
 
 #lvl_c-02
-   7,R,J
+   7,R,K
   15,R,D,X
   10,R,J
   15,R,U,X
@@ -40,13 +40,14 @@ console load StrawberryJam2021/1-Beginner/coffe
 
 #lvl_c-03 
   20,L
-  12,U,G
+   1,G
+   3,J,G
+   8,L,G
    1,R,J
-   1,R,K
-   5,U,X
-  36,R,K
-  17,R,C
-  15,R,X
+  20,R,K
+  18,R,U,C
+  17,R,X
+  15,R,C
   40,R
    9,R,K
   16,R
@@ -60,36 +61,26 @@ console load StrawberryJam2021/1-Beginner/coffe
    1,K
    5,R,K
   11,R
-  15,R,X
-  17,R,D
-  14,R,X
-  15,R,D,C
-  11,R,D
-   6,R,D,X
-   1,R,K
+  32,R,X
+  14,R,C
+  19,R,D,X
+  14,R,D,C
+   1,R,J
    1,R
-   1,R,K
-   1,K
-   1
-   1,K
+   2
+   5,R,D,C
   40
 
 #lvl_c-04
-   2
-   1,K
-   3
-   1,R
-   1
-   1,R
-   4,Z
+   5,R,D,C
    1,R,J
-   6,R
-   4,R,J
-   9,R
-  20,R,Z
+   7,R
    4,R,K
-  15,R,X
-   8,R,D
+   5,R
+   4,R,K
+   1,R
+  25,R,V
+  23,R,X
   16,R,Z
   15,D,X
   13,R,D
@@ -107,44 +98,52 @@ console load StrawberryJam2021/1-Beginner/coffe
   40
 
 #lvl_c-05
-   3,R,J
-   8,R,K,G
-   8,R
-   4
-   8,L,Z
    1,R,J
-   4,R
-  11,R,J
-  16,R
-  15,R,U,C
-  12,R
-  25,R,X
-  10,L
-  12,G
-   2,U,G
-   1,J,G
-   2,R,J
-  38,R,K
-   1,G
-   2,J,G
-   4
-   1,R
-   1,R,J
-   6,R
-   5,R,J
-  28,R,D
-  15,R,X
-  15,R,Z
-  10,R,D
-  10,D
-   2,J
-   3
-  11,R
-  14,L,D,X
-   1,R,J
-  15,R,D,X
-   4,R,J
    2,R
+   8,R,K,G
+   5,R
+   1,R,K
+   1,R
+   1,R,K
+   1,R,J
+   3
+  10,L,D,X
+   1,R,J
+   1,R,K,G
+   7,R
+   7,R,K
+  14,R
+  15,R,U,C
+  13,R
+   5
+   8,R,D
+  10,L,C
+  26,R,K
+   3,R
+  26,R,U,C
+   1,R,G
+   1,J,G
+   1,L,J
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   5,R
+   1
+   3,R
+   2,R,K
+   1,K
+   2,R,K
+  27,R
+  15,R,X
+  25,R,C
+  10
+   2,J
+  10,R
+  13,L,D,X
+   2,R,J
+  16,R,D,C
+   4,R,K
+   1,R
   40
 
 #lvl_c-06
@@ -158,95 +157,103 @@ console load StrawberryJam2021/1-Beginner/coffe
    5,R,J
   10,R
   30,R,D,X
-  18,L,Z
-  24,R
-  11,U,Z
-  19,R,J
-  35,R
-  11,R,D
+  18,L,C
+  22,R
+   8,U,V
+  60,R,K
+   3,R,D
+   4,R
    2,R,J
-   5,R,Z
-   1,R,J
-   6,R
-   1,R,D,J
+  10,R,X
+   5,R,K
   40
 
 #lvl_c-07
-   1,J
-   1,R,J
-   1
-   5,R
-  11,R,J,G
-   1
-  15,U,X
-   3,R,J,G
-   2
-   1,K,G
-   1,J,G
-   7,R
-   4,R,Z
+   5,R,K
+  16,U,X
+   8,R,K
+   9,R
+   3,R,K
+   1,R
+   1,R,K
+   4,D,X
    1,R,J
    6,R
-   4,R,J
-  10,U,X
-   3,R,J
-  16,L,C
+   6,K
+  14,R,U,C
+  16,L,X
   24,R
   14,R,U,X
-  15,L,C
-   5,L
+  20,L,C
   16,L,U,X
   17,L,U,C
   42,R
-  15,R,Z
-   4,R,D
+  19,R,C
   15,R,D,X
-   7,R
-  14
-  14,R,X
-  20,J
-   3,R,J
-   8,R,Z
+  15,D,C
+   2,L,K
+   8,R,D,X
+   3,R,K
+   2,K
+   1,R,K
+   1,K
+   3,R
+   1,R,K
+   1,R
+   1,J
+  19,R,J
+   7,R,Z
    1,R,J
    6,R
    1,R,J
   40
 
 #lvl_c-08
-   5,R,J
+   7,R,J
+   2,J
+  10,R,D,X
+   1,L,K
+   3,L
+   1,L,K
+   1,L
+   1
+   1,L,J
+  10,R,X
+   3,R,K
+   7,K
+   8,R
+   6,R
+   1,R,K
+   1,R
+   6,R,V
+   2,R,K
+   1,R,J,G
    9,R
-  14,L
-   3,J
-  23,R,J
-  10,R,Z
-   1,R,J
-   3,R,K,G
-   1,R,J,G
-   5,R
-   2,R,J
-   7,R,K,G
-  19,R,D
-   1,R,J
-   5,R
-  23,R,J
-   1,R,G
-   6,R,J
-  10,R,Z
-   8,R,J
-  13,L,K,G
-  15,D,X
-   9,L,D
-  18,L,Z
-  41,R,D
-   2,R
-   1,D
-   3,R,D
-   1,R,J,G
-  12,R
-   4,D,Z
    1,R,J
    2,R,K,G
-   1,K
+   1,R
+   5,R,J,G
+  13,R
+   1,R,D
+   1,D
+   3,R,D
+   1,R,J
+   5,R
+  17,R,J
+   2,R,K,G
+   6,R
+   1,R,K
+   2,R
+   2,R,K
+   5,R
+   5,L,D,X
+  53,R
+   1,R,K,G
+   5
+   8,R
+   4,D,X
+   1,R,J
+   3,R,K,G
    9,R,J,G
   40
 
@@ -273,7 +280,6 @@ console load StrawberryJam2021/1-Beginner/coffe
   40
 
 #lvl_c-10
-
   12
   19,U,X
   18,L,C
@@ -298,9 +304,8 @@ console load StrawberryJam2021/1-Beginner/coffe
 
 #lvl_c-11
   10
-  15,R,Z
-   6,R
-  10,R,Z
+  21,R,Z
+  10,R,V
    1,R,J
    4,R
    1,R,J
@@ -471,8 +476,8 @@ console load StrawberryJam2021/1-Beginner/coffe
   12,L,Z
    3,R,J
   13,R,X
-   2,R,J,G
-  14,R
+   7,R,K,G
+   9,R
   18,L,U,X
   41,R
    8,R,Z
@@ -586,7 +591,6 @@ console load StrawberryJam2021/1-Beginner/coffe
    9,R,D,X
   40
 
-
 #lvl_c-17
    2,R
    1,R,J
@@ -599,6 +603,5 @@ console load StrawberryJam2021/1-Beginner/coffe
    1,R,K,G
    7,R
   13,R,U,X
- 135
-
-ChapterTime: 1:25.561(5033)
+ 135,R
+ChapterTime: 1:24.150(4950)
