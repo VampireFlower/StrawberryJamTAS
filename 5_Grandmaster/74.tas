@@ -1,4 +1,4 @@
-RecordCount: 2841
+RecordCount: 2988
 
 console load StrawberryJam2021/5-Grandmaster/fishtank
    1
@@ -130,46 +130,60 @@ console load StrawberryJam2021/5-Grandmaster/fishtank
    1,R,J
    2,R
   40
-#0:13.022(766)
 
-#lvl_Bad Reception
+#lvl_Calling (Bad Reception)
   21,R
    6,R,J
    1,R,K,G
-   6,R,J,G
-   5,R
-   3,J
+   1,R,J,G
+   1,J
+   2,R,J
+   3,R
+   1
+   1,R
+   1,R,J
+   1,R
+   2,R,J
+   1,R
    1,R,K,G
    1,R,J,G
-  18,R
-   7,R,D
+   9,R
    1,R,J
-  17,R
+   8,R
+   1,R,J
+  19,R,D
+   1,R
    1,R,J
   14,R
+   2,R,J
+   5,R
+   3,R,J
+   2,R
    1,R,J
-  20,R
-  21,R,J
-   4,K,G
+   6,R
+  20,R,J
+   3,K,G
    1,L,K
    1,K
   12,J
   12,R,K
   12,J
   12,K
-   9,J
+   1,R,J,G
+   1,J
+   1,L,J
+   1,J
+   1,L,J
+   5,J
    1,R,K,G
-  12,R
-   1,R,D,J
-   4,R,D
-   1,R,D,J
-   4,R,D
-   1,R,D,J
-   4,R,D
-   1,R,D,J
-   4,R,D
-   1,R,D,J
-   1,R,D
+   2,R
+   1
+   5,R
+repeat,4
+   2,R,D,J
+   3,R
+endrepeat
+   2,R,J
   40
 
 #lvl_Ventilation Ducts
@@ -591,4 +605,4 @@ EndRepeat
   16,L,U,X
  136
 
-ChapterTime: 1:12.012(4236)
+ChapterTime: 1:11.825(4225)
