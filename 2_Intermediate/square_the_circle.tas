@@ -1,4 +1,4 @@
-RecordCount: 7773
+RecordCount: 7790
 
 console load StrawberryJam2021/2-Intermediate/bryse0n
    1
@@ -188,8 +188,7 @@ console load StrawberryJam2021/2-Intermediate/bryse0n
    1,R
   16,L,D
    8,D
-   4,R,D
-   1,R,D
+   5,R,D
    3,D
   15,R,D,X
   11,R,J
@@ -225,17 +224,14 @@ console load StrawberryJam2021/2-Intermediate/bryse0n
   11,R,J
    3
    5,L,X
-   1,L,J,G
-   1,L,K,G
    1,R,K
-   3,K
-  43,R,J
-  11
-  32,R,U,X
-   1,J
-   6,L,J
-   2,L
-   1
+  12,R,J
+  22,R
+  17,R,X
+   7,R,D,C
+  15,U,Z
+   5,L
+  17,L,J,G
   15,R,U,X
   42,R,D
   67,R,U,C
@@ -294,8 +290,7 @@ console load StrawberryJam2021/2-Intermediate/bryse0n
    2,R
   14,R,U,X
    1,J,G
-   7,R
-   3,R
+  10,R
    1,L
   15,R,D
   45,L,C
@@ -424,8 +419,7 @@ console load StrawberryJam2021/2-Intermediate/bryse0n
   13,R,J
    5,R,D,X
    8,R
-  46
-  11
+  57
    5,R,Z
    1,R,J
    8
@@ -435,19 +429,15 @@ Stunpause
   15,L,J
    5,L
 Endstunpause
-   2,L
-   7,L
+   9,L
    1
    1,L
    1
    1,L
    1,R,J
-   1,R
-   1,R
-   1,R
+   3,R
    1,R,J
-   1,R
-   4,R
+   5,R
    5,R,Z
    1,L,J
    2
@@ -456,8 +446,7 @@ Endstunpause
    8,L,J
    4,L,K,G
   15,L,U,C
-  25,L,D
-   1,L,D
+  26,L,D
    1,L
    5,L,Z
    1,L,J
@@ -649,17 +638,10 @@ Endstunpause
    2,R
    3
    1,R
-  15
-   2
+  17
    3,R
-   1
-   2
-   1
-   2
-   1
-  11,R
-   1,R
-   1,R
+   7
+  13,R
    4,R,K
    3,R
    5,L,C
@@ -713,8 +695,7 @@ Endstunpause
   69,O
    1,R,K
   11,L,D,C
-   2,K
-   3,K
+   5,K
    6,R,U,C
    1,K
   16
@@ -778,8 +759,7 @@ Endstunpause
    6
    4,D,X
    1,R,J
-  22,R,D
-  16,R,D
+  38,R,D
   15,L,D,C
    4,R,D,X
    1,R,K
@@ -831,4 +811,4 @@ Endstunpause
 #lvl_outro
   42,R,D
  139,D,X
-ChapterTime: 1:50.092(6476)
+ChapterTime: 1:49.888(6464)
