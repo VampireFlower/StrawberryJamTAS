@@ -1,4 +1,4 @@
-RecordCount: 3125
+RecordCount: 3191
 
 console load StrawberryJam2021/5-Grandmaster/Dav
    1
@@ -782,31 +782,26 @@ EndRepeat
   10,R
   37,R,D,X
    1,R,J
-   2,R,K,G
-   6,R
-  36,R,D,X
-  15,R
-  12,R,J
- 180,R,D
-  21,D
-  36,R,D
-  14,Z
-  42,L,J
-  15,L,X
- 160,L
- 120,L,D
-  54,D
-   8,R,Z
-   1,L,J
-   7,L
-   6,L,J
-  12,L,D,X
-   1,L,J,G
-  12,L
-   1,L,J
-  15,L,X
-  14,D,C
- 160
+  11,R,K,G
+  15,R,D,X
+   3,R
+ 184,R,D
+  15,D
+  15,R,Z
+ 200,L,D
+  20,D
+ 121,L,D
+   4,L,Z
+   2,L,J
+   8,L
+   4,L,J
+  15,D,X
+   2,R
+   1
+   2,L
+   1
+   1,L
+ 152
    5,L
   14,R,Z
    1,L,J
@@ -831,4 +826,4 @@ EndRepeat
   14,L,U,X
  135
 
-ChapterTime: 4:22.633(15449)
+ChapterTime: 4:19.828(15284)
