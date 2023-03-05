@@ -409,9 +409,6 @@ console load StrawberryJam2021/2-Intermediate/bryse0n
    1,R,K
    7,R,J,G
   10,R,V
-#lightning
-   0
-#
   63,R,C
    1,K,G
    1,J,G
@@ -419,7 +416,8 @@ console load StrawberryJam2021/2-Intermediate/bryse0n
   13,R,J
    5,R,D,X
    8,R
-  57
+  46
+  11
    5,R,Z
    1,R,J
    8
@@ -686,7 +684,6 @@ Endstunpause
    4,R,J
    9,R,U,C
   27,U,X
-#1:31.307(5371)
   40
 
 #lvl_a_10
@@ -711,9 +708,7 @@ Endstunpause
    3,L,K
   16,L
    8,R,D,X
-  91,R,U,C
-  15,R,X
-  14,R,D
+ 117,R,U,C
    5,L,X
   22,L
   20,L,G
