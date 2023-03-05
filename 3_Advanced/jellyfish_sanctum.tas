@@ -1,4 +1,4 @@
-RecordCount: 2727
+RecordCount: 2828
 
 console load StrawberryJam2021/3-Advanced/BlueXans
    1
@@ -116,14 +116,16 @@ console load StrawberryJam2021/3-Advanced/BlueXans
    2,R,Z
    1,R,J
    7,R
-  11,R,J
+   2,R,J
+   1,J
+   8,R,J
    9,R,K,G
-   1,R
-   7,R,J
-   4,J
+   5,R
+   2
+   1,R,J
   14,R,Z
    1,R,J
-  18,R,D,X,G
+  19,R,D,X,G
   15,R,J,G
    1,L,J
   12,R,J
@@ -243,4 +245,4 @@ console load StrawberryJam2021/3-Advanced/BlueXans
  132,D
    3
 
-ChapterTime: 0:51.629(3037)
+ChapterTime: 0:51.578(3034)
