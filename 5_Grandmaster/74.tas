@@ -1,4 +1,4 @@
-RecordCount: 2674
+RecordCount: 2710
 
 console load StrawberryJam2021/5-Grandmaster/fishtank
    1
@@ -275,12 +275,20 @@ EndRepeat
    1,L,K,G
    1,J,G
    1,R,J,G
-  22,R,K
-   8,R,J
+  14,R,K
+  21,R,D
+   6,D
+#Comment by Rhuan:
+#205 Spike Fall Clip.
+#It might be possible to optimize this further.
+   3,D
+   3
+  25,D
+   8,R
+   6,R,D
    1,R
-   6,J
-  56,D
-  19,R,D
+   1
+   4,D
    1,R,J
   22,R,D
    1,D
@@ -306,7 +314,7 @@ EndRepeat
    1,R,J,G
   10,R
   40
-#0:31.399(1847)
+#0:31.059(1827)
 
 #lvl_Nakaniwa Adventure
    4,R
@@ -333,7 +341,7 @@ EndRepeat
   32,R
    1,R,D,J
   40
-#0:37.842(2226)
+#0:37.502(2206)
 
 #lvl_Sewers
    9,R,D,J
@@ -432,7 +440,7 @@ EndRepeat
    1,R,K
    9,R,J,G
   40
-#0:53.924(3172)
+#0:53.584(3152)
 
 #lvl_Swimming
    4,R,J
@@ -511,7 +519,7 @@ EndRepeat
    2,R
    1,J
   40
-#1:01.863(3639)
+#1:01.472(3616)
 
 #lvl_Passenger
    5
@@ -556,7 +564,7 @@ EndRepeat
    1,R,J
    3,R
   40
-#1:07.932(3996)
+#1:07.592(3976)
 
 #lvl_The End of TIMELINE
   11,R
@@ -579,4 +587,4 @@ EndRepeat
   16,L,U,X
  136
 
-ChapterTime: 1:12.641(4273)
+ChapterTime: 1:12.301(4253)
