@@ -1,4 +1,4 @@
-RecordCount: 2710
+RecordCount: 2841
 
 console load StrawberryJam2021/5-Grandmaster/fishtank
    1
@@ -171,7 +171,6 @@ console load StrawberryJam2021/5-Grandmaster/fishtank
    1,R,D,J
    1,R,D
   40
-#0:17.765(1045)
 
 #lvl_Ventilation Ducts
    3,R,D
@@ -223,72 +222,78 @@ console load StrawberryJam2021/5-Grandmaster/fishtank
   12,R,J
    1,R,K
    8,R,J
-  20,R
-   1,R,D,J
-   4,R
+  16,R
+   1,D
+   2,R
+   2,R,D,J
+   7,R
+   3,R,D,J
+   1,L,J
+   1,K
+   1,J,G
+   5
+   1
+   1
+   2,R
    1,R,J
-   4,R
-   2,R,J
-   5,R
-   1,R,J
-   1,J
-   1,R,J
-   3,R
+   2,R
    1,R,J,G
    1,R,K,G
-  10,R
+   9,R
    1,R,J
    2,R
   40
-#0:24.378(1434)
 
 #lvl_Attic
   12,R
-  20,R,J
-   6,K,G
-   1,R,K
+   4,R,J
+   1,J
    9,R,J
+   1,R,K,G
+   3,R,J,G
+  10,K,G
+   2,R,K
    7,R
-   2,R,G
+   1,R,G
    1
-   1,K
+   1,J
+   1,K,G
    5,L,K
    1,J
    1,K
-   4,L,K
-   2,R,K
-  14,R
-   5,J
-  27,R,K
+   2,L,K
+   4,K
+   7,R
+   8,R,J
+   5,L,J
+   9,R,K
+  17,L,K
   12,R,J
-  10,K,G
+   9,K,G
    1,R,J,G
    1,J,G
    3,L,J,G
    6,R,J,G
-   2,J,G
-Repeat,6
-   1,K,G
-   1,R,K,G
-EndRepeat
-   1,R,K,G
-   1,L,K,G
    1,J,G
-   1,R,J,G
-  14,R,K
-  21,R,D
-   6,D
-#Comment by Rhuan:
-#205 Spike Fall Clip.
-#It might be possible to optimize this further.
-   3,D
-   3
-  25,D
-   8,R
-   6,R,D
-   1,R
+   2,K,G
+Repeat,3
+   1,R,K
+   1,K
+EndRepeat
+  15,R,J
+  23,R,D
+   2
+  13,D
+   5,L
+   5,D
+   2
+   2,D
    1
-   4,D
+   1,D
+   1
+   8,R,D
+   6,R,D
+   5,D
    1,R,J
   22,R,D
    1,D
@@ -314,7 +319,6 @@ EndRepeat
    1,R,J,G
   10,R
   40
-#0:31.059(1827)
 
 #lvl_Nakaniwa Adventure
    4,R
@@ -587,4 +591,4 @@ EndRepeat
   16,L,U,X
  136
 
-ChapterTime: 1:12.301(4253)
+ChapterTime: 1:12.012(4236)
