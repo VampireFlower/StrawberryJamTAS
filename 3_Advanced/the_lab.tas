@@ -1,4 +1,4 @@
-RecordCount: 3703
+RecordCount: 3783
 
 console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1
@@ -184,7 +184,6 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
 #lvl_evade-02-TiltTheStars
    1,L
   10,L,J,G
-
   15,L,D,X
    9,D
    1,L,D
@@ -392,7 +391,10 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1,R,J
    6,R,D,X
    1,R,K,G
-  16,R
+   9,R
+
+#lvl_move-01-TiltTheStars
+   7,R
    1,R,J
    5,R
    1,R,J
