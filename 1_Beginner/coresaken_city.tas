@@ -1,4 +1,4 @@
-RecordCount: 2677
+RecordCount: 2691
 
 console load StrawberryJam2021/1-Beginner/voliver9
    1
@@ -34,40 +34,32 @@ console load StrawberryJam2021/1-Beginner/voliver9
    1,L
    1,J,G
   15,R,D,X
-   3,R,J
-   5,R
-   1,R,J
-   6,R,U,X
+   9,R,J
+   7,R,U,Z
   40
 
 #lvl_a-02
-   7,R,U,X
+   6,R,U,X
    1,L
-   9,J,G
-   1,R
-   1,K,G
-   3,R,K
-   3,K
-   1,R,K
-   1,L,K
-   1,R,K
-  13,R,J,G
-   1,K,G
-   3,R,K
-   1,K
-   1,R,K
-   1,L,K
-   1,R,K
-  13,R,J,G
-   1,R,K,G
-   1,R,J,G
-   5,R
-   1,R,J
-   5,R
-   3
-  17,R,J
+   7,J,G
    2,J
-  20,R,X
+   2,R,J
+  12,K,G
+   2,J,G
+   3,R,J
+   5,J
+   1,R,J
+   1,L,J
+   1,R,J
+  13,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,K
+   5,R
+   2,R,J
+   7,R
+  19,R,J
+  20,R,Z
    5
   14,R,D,X
    3,L,J
@@ -355,4 +347,4 @@ console load StrawberryJam2021/1-Beginner/voliver9
    3
  139,U,X
 
-ChapterTime: 0:37.757(2221)
+ChapterTime: 0:37.689(2217)
