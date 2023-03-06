@@ -1,4 +1,4 @@
-RecordCount: 6158
+RecordCount: 6875
 
 console load StrawberryJam2021/1-Beginner/HankyMueller
    1
@@ -12,23 +12,24 @@ repeat,5
    1,L,J
   14,L
 endrepeat
-   4,L
+   7,L
+   8,L,J
+  14,L,D,X
    1,L,J
-  14,L
+   1,L
    2,L,J
-  11,L,D,X
-   1,L,J
-   3,L
-   1,L,J
-   3,L
+   5,L
    2,L,J
    3,L
    6,L,D,X
    1,L,J,G
-   9,L
+   8,L
    1,L,J
-   1,L,K,G
-  11,L
+   1,L,K
+   1,L,J,G
+   8,L
+   1,L,J
+   2,L
    2,L,J
   40
 
@@ -36,8 +37,7 @@ endrepeat
    7,L,J
    4,L
   15,L,U,X
-   2
-  20,L
+  22,L
    2,L,K,G
    2,R,K
    1,L,K
@@ -127,7 +127,7 @@ endrepeat
    1,D,J
   69,O
 #spinner cycle (Staircase)
-   2
+   0
    4,Z
    1,R,J
   40
@@ -199,54 +199,69 @@ endrepeat
    1,L,J
    2,L,K,G
   11,L
-   1,L,D,J
-   3,L
+   1,L,J
+   2,L
+   1
    1,J,G
-   6,L
-  10,R
+   5
+  11,R
    1,R,J
   18,R
    1,R,J
-  14,R
+   5,R
+   3,R,J
+  12,R
    1,R,J
-  19,R
-   2
-   9,R,J
+   1,K
+   9,R,K
    6,R
+   2,R,K
+   1,R
+   1,R,K
+   7,R
    1,R,J,G
    1,R,K,G
   23,R,D
    1,R,J
   14,R
-   4,R,J
-  24,R,D
-  13,L,D
-   5,L,D,X
-   1,J
+   3,R,J
+   9,R
+   1,R,J
+  15,R,D
+  10,L,D
+   1,D
+   7,L,D,X
+   1,L,J
    7,L
    5,L,D
-  23,L,J
-  18,L
+  12,L,J
+   5,L
+   2,L,J
+   1,L
+   4,L,J
+  16,L
    2,L,D,K
    1,L,J,G
    5,L
-   2,L,J
-   4,R,J
-  14,R
+   1,L,J
+   5,J
+   6
+   7,R
    2,R,D
   40
 
 #lvl_Stepping Stone
-  14,R,D
-   6,D
-  14,L,D,X
+  12,R,D
+  10,L,D
+  12,L,D,X
    1,R,J
   10,R
-   9,R,J
-  27,R
-  14,R,X
-   2,J
    8,R,J
+   6,R
+   4,R,J
+  17,R
+  14,R,X
+   9,R,J
    1,R,K,G
   16,R,D
   37,L,D
@@ -261,23 +276,32 @@ endrepeat
    1,R,J
    7,R
    6,R,J
-   2,R,K,G
-  19,R
-  20,R,J
-   6,R,K,G
-   5,R
-   1,R,J
-  11,R
+   1,R,K,G
+   1,R
+   1
+   7,R
+   2,R,K
+   8,R
+  21,R,J
+   1,R,K,G
+   2,K
+   1,L,K
    1,R,J,G
    1,R,K,G
-  13,R
+   7,R
+   8,R
+   1,R,J,G
+   1,R,K,G
+   1,R
+   1
+   9,R
    1,R,J
   14,R
-   1,R,J
+   2,R,J
    5,R
-   1,R,J
-  16,R
-   2,R,D
+   2,R,J
+  13,R
+   5,R,D
   22,D
   40
 
@@ -290,23 +314,25 @@ endrepeat
    7,K,G
    2,R,J,G
    1,K
-   1,J,G
-   8,L,J
-  16,L,J
+   2,J,G
+   7,L,J
+  11,L,J
+   1,L
+   3,L,J
    4,L
   15,L,Z
-   7,L
+  10,L
   15,L,X
-   2,L
+   0,L
   18,L,U,Z
   15,L,D,X
   26,L,D
-  14,L,D,X
+  13,L,D,X
    1,J
-   5,L
-   2
+   7,L
    1,L,J
-   8
+   1,L
+   7
    7,L,D,X
    8,L,J
    9,L,U,Z
@@ -319,32 +345,42 @@ endrepeat
 
 #lvl_Seeded Berry
   15,L,D,X
-   6,L,J
-   5,L
    2,L,J
-  19,L,D
-   9,D,X
+   3,L
+   1,L,J,G
+   6,L
+   2,L,J
+  10,L
+   8,L,D
+   2,R,D
+   3,L,D
   43
 
 #lvl_Staircase
-  10,L,D
+   9,L,D
   14,L,D,X
    2,L,J
    9,L
-  43,R,D
+   8,R,D
+   2,D
+   2,R,D
+   2,D
+   8,R,D
+   1,D
+  20,R,D
   14,R,D,X
    1,R,J
    7,R
    1,L,J
    6,R,J
-   3,R
-  22,L
-   5,L,J
-  17,L
+   1,R
+  27,L
+   2,L,J
+  15,L
   39,R,D
-   4,R,Z
+   6,R,D,X
    1,R,J
-   4,R
+   2,R
 stunpause
    6,R
 skipinput 3 1
@@ -359,15 +395,17 @@ endstunpause
   72,O
    5,R
    1,R,J
-  17,R,D
-  13,L,D
-  10,L,D,X
+  16,R,D
+  11,L,D
+  14,L,D,X
    5,L,J
   15,L,D,X
    1,L,J
   18,L
-   8,L,J
-  23,L
+   6,L,J
+   9,L
+   2,L,J
+  11,L
    1,N
  154
 
@@ -376,4 +414,5 @@ endstunpause
   10,R,X
  135
 
-ChapterTime: 0:58.310(3430)
+
+ChapterTime: 0:57.970(3410)
