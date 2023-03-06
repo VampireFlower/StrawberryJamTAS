@@ -1,4 +1,4 @@
-RecordCount:
+RecordCount: 619
 
 console load StrawberryJam2021/3-Advanced/Tortoise
    1
@@ -10,12 +10,115 @@ console load StrawberryJam2021/3-Advanced/Tortoise
    1,S
    1,D,J
   34
-   1,J
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  15,R,D,X
+   6,R
+  29,R,D
+  18,D,X
 
+#lvl_1
+   9,R,J
+   1,R,K,G
+   6,L,K
+   1,K
+  15,U,Z
+   2,R
+  21,R,J
+   1,K
+   9,R,K
+   1,R
+   9,R,J,G
+  11,K,G
+   1,L,K
+   1,K
+  37,L,J
+   1
+   1,L,J,G
+   1,L,K,G
+   9,L
+   2
+   1,L
+  14,R,D,X
+   8,R,J
+  15,R,D
+   1
+  25,D
+  11,R,D
+   1,R,G
+   3,R,J,G
+   6,R
+   2
+  11,R,U,Z
+   1,L,J,G
+   3,R,J
+   5,R
+   3,R,J
+  11,R,K
+   1,R
+   1,J,G
+   2,L,J
+  21,L,K
+   1,K
+   1,J,G
+   2,R,J
+  10,R,K
+   1,R,J,G
+   3,L,J
+   5,R,J
+   1,R,K,G
+   5,R
+   1,R,J
+   6,R
+#spinner cycle
+   2
+#----
+  15,D,X
 
-
-
-
-
-
-ChapterTime: 
+#lvl_2
+   1,K
+#This stun doesn't currently
+#save time, but should be
+#able to if the extra jump
+#can be removed. Intended
+#route not fully drafted but
+#can reference video here:
+#https://discord.com/channels/403698615446536203/1074148152317321316/1079990477710954497
+Stunpause
+   2
+SkipAutoInput,3,1
+   5,R,D,X
+   1,K,G
+   1,L
+   4,L,D
+   3,L
+   1,L,D,K
+   1,L
+   1,L
+   1,L
+   1,L
+   1,L,D
+   4,D
+   1,L
+   1
+   2,L
+   3,D
+   3,D,K
+   2,L
+   5
+   2,L
+   3
+   4,R
+   3,R,D
+SkipAutoInput,3,1
+   6,R,D,X
+Endstunpause
+   9,R,D,X
+   3,R,D
+   4,Z
+   4,R,J
+   7,R
+  15,D,X
+#.768
