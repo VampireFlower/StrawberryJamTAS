@@ -1,4 +1,4 @@
-RecordCount: 8627
+RecordCount: 8629
 
 console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    1
@@ -1615,7 +1615,8 @@ endstunpause
   12,R,U,Z
    1,L,U
    4,J,G
-   3,R,J
+   2,R,J
+   1,J
   11,U,X
   15,U,C
   10,R
