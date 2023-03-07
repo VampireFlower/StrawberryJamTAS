@@ -1,4 +1,4 @@
-RecordCount: 1773
+RecordCount: 1838
 
 console load StrawberryJam2021/4-Expert/powerav
    1
@@ -527,28 +527,34 @@ console load StrawberryJam2021/4-Expert/powerav
   15,U,C
   19,D
    4,D
-  71,R
-  39,D
-   5,R,D
-   9,D
-  18,L,X
-  15,R,C
-  18,R,X
+  19,R
+   3,R,D
+  49,R
+  30,D
+   1,L,D
+   1,D
+  19,R,D
+   7,D
+  18,R,U,X
   15,U,C
-   2,R
   15,R,U,X
-  28,R
-  41,R,X
+  22,R
+  15,R,C
+  26,R,D,G
+   1,R,G
   12,R,J,G
-
-#go over the gate
-  86,R,G
-   1,R
-   1,R,J,G
-  11,R,K,G
-  31,R,D
-   9,D
-  11,R,D
+   3,R,K,G
+  91,R,G
+   1,R,U,G
+   1,R,G
+   2,R,J,G
+  33,R,D
+   3,D
+   1,L,D
+   1,D
+   1,L,D
+   2,D
+  12,R,D
   10,R,Z
    5,R,J
    8,U,X
@@ -696,5 +702,5 @@ console load StrawberryJam2021/4-Expert/powerav
   16,U,X
  135
 
-ChapterTime: 2:06.905(7465)
+ChapterTime: 2:06.480(7440)
 
