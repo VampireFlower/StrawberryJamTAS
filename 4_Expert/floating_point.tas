@@ -1,4 +1,4 @@
-RecordCount: 1193
+RecordCount: 1277
 
 console load StrawberryJam2021/4-Expert/KAERRA
    1
@@ -93,12 +93,13 @@ console load StrawberryJam2021/4-Expert/KAERRA
    5,R,X
   19,R,J,G
   15,D,X
-  10,R,D
-   4,D
+   9,R,D
+   3,D
+   3
   11,L,D,X
   16,R,J
-  32,L,J
-   6,J
+  31,L,J
+   7,J
   10,L,Z
   14,R,J
   15,R,U,Z
@@ -243,7 +244,7 @@ console load StrawberryJam2021/4-Expert/KAERRA
    1,R,J,G
   12,R
   15,D,X
-   8,R,D
+   9,R,D
   11,L,D,X
   12,R,J
   30,L,J
@@ -256,7 +257,8 @@ console load StrawberryJam2021/4-Expert/KAERRA
    9,R,J
   12,R
   15,D,X
-  17,R
+  10,R,D
+   7,R
    9,R,J,G
    7,R,K,G
    5,R
@@ -288,60 +290,40 @@ console load StrawberryJam2021/4-Expert/KAERRA
   14,R,X
   11,L,J
   10,L,D
-#  20,D
-#   7,L,D
-#  31,D,X
-
-#unintentionally using a bug here
-#idk how to avoid it
-#needs to be fixed later
-  25,D
+  32,D
+   7,L,D
   15,D,X
-   8,R,D
-   1,J,G
-   5,R
-   1,R,J
-   1,R
-   1,R,J
-   1
-  15,L,D
-  14,D,X
+  13,D
   15,L,C
   14,L,X
-#should be possible if bug gets patched
-#  18,D,C
-#  10,R,D
-#   1,R,J,G
-#   7,R,K,G
-#   5,R
-#   8,R,J
-#  15,R,D,X
-# 500,R
-##
-  31,D,C
-  14,L,D
-  13,L,Z
-  15,U,X
-   9,R
-  14,R,Z
-   8,R,J
-  13,R,D
-  14,D,X
-  15,R,C
-   3,R
-   9
-   1
-   5
-  25,R
+  18,D,C
+   6,R,D
+   1,D
+   4,R
    1,R,J,G
-   4,R,K,G
-   6,R
-  15,R,U,X
-  11,R
+   7,R,K,G
+   5,R
+   5,R,J
+   3,R
+  15,R,D,X
+  45,R
+   9
+   8,R
+   1
+   8,R
+   1,R,J,G
+   7,R,K,G
+   9,L,K
+   1,J
+   9,R,J
+   7,R
+   3,R,J
+   4,R
    4,X
    7,R,J
    1,J
   40
+
 #lvl_a06b
    5,J
    1,K
@@ -352,7 +334,6 @@ console load StrawberryJam2021/4-Expert/KAERRA
    7,L,K,G
   16,U,X
   40
-
 
 #lvl_a07
    8
@@ -426,8 +407,7 @@ console load StrawberryJam2021/4-Expert/KAERRA
   17,D,X
    8,L,D
   11,L,Z
-#getting the bug here again
-#unable to reach the green switch
+
    1,L,J
    8,L
   26,D,X
@@ -472,6 +452,7 @@ console load StrawberryJam2021/4-Expert/KAERRA
    1,R,J
    1,R
   40
+
 #lvl_end
    6,R
    1,R,J
@@ -484,4 +465,4 @@ console load StrawberryJam2021/4-Expert/KAERRA
    1,N
   82
 
-ChapterTime: 1:11.723(4219)
+ChapterTime: 1:10.890(4170)
