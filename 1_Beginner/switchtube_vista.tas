@@ -1,5 +1,4 @@
-#A
-RecordCount: 4224
+RecordCount: 5801
 
 console load StrawberryJam2021/1-Beginner/Flagpole1up
    1
@@ -15,51 +14,60 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    3,J
    6,R,U,X
   59
-   4,Z
+   2,R,D
+   4,R,Z
    1,R,J
-  13,R
-   4,Z
+  10,R
    1,R,J
-   4,R
+   9,R,D,X
   40
 
 #lvl_a02
-#there's probably a dultra strat here
-   2,R
-   5,R,J
-   9,R,D,X
+   5,R
+   3,R,J
+   7,R,D,X
    1,R,J,G
-  11,R
+   8,R
+   1,R,J
+   2,R
    6,R,K
    9,R
    2,R,K
   15,R,X
-  10,L,Z
-   2,L,J
-   1,L
+  13,L,Z
    4,L,J
   11,L,U,X
   12,L,J,G
    5,L
-   7,L,J
+   4,L,J
+   1
+   1,J
    1,L,K,G
-   7,L
-  13,U,X
-  49
-   5,L,J
-  12,L,K
+   1,R
+   6,L
+  14,U,Z
+  47
+   5,L,K
+  12,L,J
    5,L
-   1,L,J
-  11,K,G
-   5,J,G
+   2,L,K,G
+   1,R,K
+   1,L,K
+   6,K
+   3,J,G
    1,K
-   1,J,G
-  11,R,J
-  14,R,X
-  10,R,J,G
-  25,R
-  11,R,D
-  13,D
+   2,J,G
+  14,R,J
+  12,R,X
+  11,R,J,G
+  18,R
+   8,R,D
+   1,D
+   8,R,D
+   8,D
+   2,R,D
+   1,D
+   1,R,D
   10,R,D,X
    5,R,J
   12,R,D,X
@@ -70,57 +78,60 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    1,R,J
    5,R,K,G
    2,R,J,G
-  10,R,K,G
-   6,R,K
+  16,R,K,G
   14,R,U,X
-  34
-#buffered pipe jump would require slowing down for bhop
+  33
+   1,R,J
   15,R,D,X
    5,R,D
-   4,R,Z
+   5,L,Z
    1,R,J
    7,R
    5,R,J
-   7,R
+   6,R
   12,R,J,G
    5,R
-  10,R,J
-  10,R,X
-  44
+   5,R,J
+  14,R,Z
+  43
    4,R,Z
    1,R,J
   16,R
-   4,R,Z
    1,R,J
-   1,R
+   5,R,D,X
   40
 
 #lvl_a04
-#questionable, doesn't land cb
-   5,R
-   3,R,J
-   2,K,G
-  15,R,X
+   2,R
+   5,R,J
+   1,R,K,G
+   2,R
+   5,R,D,X
+   6
    1,D
- 115
+ 114
    1,R,J
    3,R,K
   12,R,D,X
  128
   13,R,U,X
-  12,R
-   3
-  17,D
-  15,R,U,X
- 166
-   1,R,G
-  12,L,J
-   2,L
-  11,R,Z
-   4,L,J
-   7,L,U,X
-  12,L,J,G
-  14,L
+  12
+   9,R,D
+   2,D
+   9,R,D
+  14,R,U,X
+ 167
+   3,J
+   5,R,K
+   6,L,K
+   1,L
+  12,R,Z,G
+   3,L,J
+   8,L,U,X
+  10,L,J,G
+   3,L
+   1
+  10,L
    1,L,K
   14,L,D,X
    1,L,K
@@ -139,14 +150,18 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    6,R
    5,R,J
   14,R,U,X
-  14,R,J,G
-   8,K,G
+   1,R,J,G
+  12,R,K,G
+   1,R
+  11,K,G
+   1,L,K
    1,J
-  12,L,K
+   1,K
+  10,L,K
    1,J
-  12,R,K
-  11,R,J,G
-  40
+  10,R,J
+   9,K,G
+  40,K
 
 #lvl_a05
    4,R,K,G
@@ -163,20 +178,25 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    1,R,J
    4,J
    1
-   6,J,G
+   2,R,J,G
+   1,K
+   2,J,G
    3,L,J
-  15,L,U,X
- 127
+  14,L,U,X
+ 128
    1,R,J
   10,R,K
-   4,J,G
-   5,L,J
-  15,L,U,X
- 106
+   1,J,G
+   1,K
+   1,J
+   3,L,J
+   1,J
+  14,L,U,X
+ 108
    1,R,J
   12,R,K
-   3,R
-  13,U,X
+   2,R
+  14,U,X
   40
 
 #lvl_a06
@@ -187,10 +207,10 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    7,L
    8,L,U,X
   38
-   1,J,G
-   8,R,K
-   4,L,K
-   2,L
+   2,J,G
+   1
+   6,R,K
+   6,L,K
   10,R,Z
   12,L,J
    1,L
@@ -199,14 +219,14 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    1
    2,L
    1,L,J,G
-   3,R,J
-   6,L,J
-   3,L,K,G
+   2,R,J
+   3,J
+   3,L,J
+   4,L,K,G
    5,L
    6,L,J
    8,L
-   1,K
-   1,K
+   2,K
    9,L,K
   13,L
    1,L,K,G
@@ -216,9 +236,9 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    6,L
   12,L,J
    5,L
-   6,L,J
+   4,L,J
   15,L,X
-   5,L
+   6,L
   46
    1,R,J
   12,R,K
@@ -237,16 +257,17 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   12,R,J
    2
   10,L,Z
-   9,R,J
-  14,R,U,X
-   1,R,J,G
+   8,R,J
    1,R
-  17,L
+  14,R,U,X
+   1,J,G
+  10
    3,L,D
-   5,D
+  13,D
    7,R,D
-   2,D
-   4,Z
+   1,D
+   1,R,D
+   4,R,Z
    1,R,J
    4,R,D
   40
@@ -256,79 +277,82 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   14,R,D,X
    1,R,J
   15,R,D
-  15,R,X
-  24
-  12,J
-   4
-  11,L,Z
+   9,R,X
+  29
+   3,J
+   6,L,K
+   6,R,K
+  10,L,Z
    1,R,J
   20,R,D
-   5,R
+   4,R
+   1
    1,R,D
    1,D
   15,R,U,Z
-   2,R
+   3
    1,R
+   4
    1,R
-   5
-   1,R
-Repeat,5
+Repeat,4
    1,L,J,G
    1,R,J,G
 EndRepeat
+   1,L,J
   12,R,K
    5,R
   10,R,J
-   6,R,K,G
-   3,L,K
-   4,R,K
+   1,K,G
+   1,L,K
+  14,R,J,G
+   1,R,K,G
    1,R,J,G
-   5,R,K,G
-   5,R
-   2,R,K
+   6,R
+   3,R,J
    1,R
-   1,R,K
-   7,R
+   1,R,J
+   3,R
    9,R,J
    5,R
   10,R,J
-   7,R
-   1,R
-   1,D
-  10,L,D
-   1,D
-   9,D
+   8,R
+   1,R,D
+  11,L,D
+   2,D
+   1,L,D
+   6,D
   12,J,G
   12,K,G
   14,R,U,X
   81
-#another questionable section
    1,R,K
-   1,R,J
-  13,R,J
+   4,R,J
+   5,R
+   5,R,J
    5,R,U,Z
   40
 
 #lvl_a08
-#smart use of bino int storage could maybe save time on exit
-  13,R
-   1
-   3,R
-  16,R,J
-  16,R,U,X
-   1,L,K,G
-   2,R,D
-   1,D
-   6,R
-   1,R,J
-   3,R
-   5,R
-   5,L
-   2,L,D
-   1,L,D
+  12,R
    1,L
+   1,J
+   2,K,G
+   8,R,K
+   3,R
+   1
+  16,R,U,Z
+   1
+   1,R
+   1
+   1,J
+   1,R
+   5
+   5,R
+   7,L,D
+   1,L
+   3,D
    1,R,D,X
-  35
+  31
    1,R,J
   12,R,K
   13,U,X
@@ -336,9 +360,9 @@ EndRepeat
   11,R,D
   14,R,D,X
   30
-   1,L,J,G
-  12,L,K,G
-   4,L,J,G
+   5,L,J,G
+  12,K,G
+   1
    1,L,K,G
    2,R,K
    1,K
@@ -348,25 +372,22 @@ EndRepeat
    1,K
    1,R,K
    1,K
-   1,R,J
-  13,J
-   2,R,J
+  15,R,J
   15,U,C
-   5,R
-  36,R,D
+   8,R
+  33,R,D
   15,R,X
   29
    1,R,J
    1,R,K
-   1,R,K
+   1,R
   14,R,D,X
    1,R,J
-   1,R
-   3,R
+   4,R
    5,R,U,Z
   40
 
-#lvl_a09(0)
+#lvl_a09 (1)
    8,R,U,X
    2,R
   14,R,D,X
@@ -378,106 +399,115 @@ EndRepeat
  155
 
 #lvl_a09_b
-   4,L,Z
-   8,L,J
-   5,L
+  11,L,Z
+   3,L,J
+   1,L
    2,L,J
-   5,L
-   4,L,Z
+   1,L
    1,L,J
-   6,L
-   7,L,J
-  12,U,X
+   5,L
+   8,L,J
+  14,L,U,X
   56
    1,R,J
   12,R,K
    1,R
   13,U,X
   15
-   4,L
-   1,L,D
-   3,L,D
-   2,L
-   4,R,Z
-   1,R,J
-   6,R
-   8,R,J
-#climb feels bad
-  12,K,G
+   1
+   8,D
+  10,R,X
+  12,R,J
+  11,K,G
+   1,L,K
+   1,J
+   8,L,J
+   2,J
+   1,L,J
+   2,K,G
+   1,L,K
+   1,R,K
+   1,L
+   7,J
+   1
+   1,K
+   7,L,K
+   3,L
    1,J,G
-  11,L,J
-   1,K,G
-   3,L,K
-   5,K
-   1,L,K
-   1,R,K
-   1,L,K
+  10,L,J
+   1,R,J
+   1,L,K,G
+   1,L,J,G
+   6,L,J
+   1,L,K,G
   11,L,J,G
-   8,L
-  10,L,J,G
-   1,K,G
-   1,R,K
-  10,L,K
-  12,L
-  12,L,J,G
   15,L,X
    1,L
-  83
-   1,L,G
+  84
+   1,L,K,G
    4,J,G
    8,R,J
    2
    5,R,X
-   3,R,J,G
-  18,R
-   6,R,D
+   2,R,J,G
+   6,R
+   1,R,J
+  17,R,D
    4,R,Z
    3,R,J
    9,R
-   1,N
+   1,L,N
  155
 
-#lvl_a09(1)
-  15,L,D,X
-   9,D,C
-   6,R,J
-   7,R
+#lvl_a09 (2)
+  10,L,X
+   3,J
+   2
+  11,D,C
+   4,R
+   2,R,J
   10,R,X
    5,R,J
-  12,R,U,X
-  34
+  13,R,U,X
+  33
    1,L,G
-  11,R
+   6,R
+   1
+   4,R
   11,D
    8,R,D,X
   26
    1,L,G
   11
   25,D
-   7,R,D
-   2,D
+   8,R,D
    9,R,Z
   40
 
 #lvl_a10
    6,R,Z
   14,R,X
-  73
+  72
    5,R,J
-  12,R,K
-  18,U,X
-  12,R
-  12,R,X
-  39
+  11,R,K
+   5,K
+  17,U,X
+   1,R
+  15,R,D,C
+   1,R
+  38
+   1
   14,U,X
   15,R
    2,D
    3,R,D
-  24,D
+  20,D
+   4,R,D
   15,R,Z
    6,R
   10,U,X
-  67
+  65
+   1
    7,R,Z
    1,R,J
   29,R
@@ -485,159 +515,159 @@ EndRepeat
    5,D
   15,U,Z
    1,R
-  15,R,J
-   9,R
-##alternate pipe entry strats, both +1f
-#   8,R,J
-#  15,R,U,X
-#   3,R
-#  15,D,X
-#  22,R,D
-#   9,R,X
-# 107
-
-#   5,R,J
-#  12,R,U,X
-#   9,R
-#  15,D,X
-#  22,R,D
-#  10,R,X
-# 106
-   5,R,J
-  12,R,U,X
-  18,R
-   7,D
-  19,R,D
-   5,R,D,X
- 106
-   3,J
+  11,R,J
+   8,R
+  17,R,U,X
+   1,R
+   1
+  16,R
+  26,R,D
+   1,R,D,X
+ 109
+   3
    5,U,X
   40
 
-#lvl_a11(0)
+#lvl_a11(1)
   15,L
    1,J
   14,L,J
    8,L
-   3,J
+   2,L,J
   15,U,X
    5
   15,L,J
-  12,K,G
-  12,R,J
+   3
+   7,J,G
+   1
+   1,L,K,G
+   9,K
+   1,R,K
+   1,L,K
+   1,J
+   2,K,G
+  12,R,K
    5,R
-   6,R,J
-  12,K,G
-   3,R,J,G
+   2,R,K
+   1,R,J,G
+   1,R,K,G
    5,R
+   1,R,K
+   1,R
+  10
+   1,J
    7,R,J
-   9,R
-  12,R,J
-  15,U,X
+   4,J
+   2
+  15,U,Z
    3,L
   15,L,J
-   8,L
-   5,L,J
+   9,L
   15,U,X
-   6,R
-   3,R,J
+   4,R
    2,J
-  12,K,G
-  12,J,G
-  10,K,G
+   3,L,J
+   8,J
+  17,R,K,G
   40
 
 #lvl_a12
-#questionable start
    1,R,J,G
-  10,R
-   4,R,Z
+   8,R
+   2
+   6,R,Z
    1,R,J
    7,R
-   7,R,J
-   1,J
-   4,R,J
-   5,R
-   6,R,J,G
-   7,R
-   7,R,D,X
-  13,R
-   3,R,J,G
-   5,R
+  11,R,D,J
+   8,K
+  11,R,D,X
    4
-   1,L,J
-  15,L,U,X
-   4,L
-  31
+   6,R
+  14,L,U,X
+  37
+   1
   12,K
-  18,U,X
-  16
-  13,L,D
-   1,L
-   3,L,J,G
-   5,L
-  10,L,J
-   5,L
-   1,L,J
-  12,L
-  13,L,X
-  67
-   3,L,J
-  18,U,X
-  14
-   8,R,D,X
-  67
-   1,L,G
-  12,L,J
-   8,L,K,G
-  14,L,X
-  92
+  19,U,X
+  15
   12,L,D
-   3,D
-   7,L,Z
+   1
+   1,L,D
+   1,L,J,G
+   1,L,K,G
+   5,L
+   1,L,K
+  10,L
+   1,J
+  15,L,X
+   6,L
+  64
+   1,R,G
+   1,R,J
+   1,J
+   1,R,J
+  19,U,X
+   2,R,D
+   2,D
+   1,R,D
+  15,D
+   1,R,D,X
+  66
+   1,L,G
+   1,R,J
+   5,J
+   5,L,J
+   1,L,K,G
+   1,L,J,G
+   6,L
+   2,L,J
+   3,L
+  14,L,U,X
+  85
+  12,L,D
+   2,D
+   1,L,D
+   7,L,U,Z
   40
 
-#lvl_a13(0)
-   8,L,Z
-   9,L,U,X
-   3,L,J,G
-   8,L
+#lvl_a13(1)
+   7,L,Z
+   1,R
+   1,K
+   2,J,G
+   9,L,J
   15,L,U,X
-  15,R
-   4,R,D
-   7,R,J
+  19,R,D
+   4,R,J
+   3
   10,L,D,X
-  12,L,J
-   2,L
-   9,U,X
-   1,L
-   6,L,J
-   2,L
-   6,L,U,X
-  15,L
-  14,L,D
-  10,R,J
+  10,J
+   4
+  14,L,U,X
+   4,L
+   5,L,U,X
+  29,L,D
+   9,R,J
    2,J
+   1,R,J
   15,U,X
+   1,R
   15,L
-  14,L,D
+  13,L,D
    1,L,J
    1,L
   15,L,D,X
-   2,L
-   1,N
+   1,L
+   1,L,N
  155
 
 #lvl_a13_b
-#left route spends way too much time in pipes to ever be viable
-  12,R,J
-   9,R,Z
-   1,R,J
-   7,R
-   1,R,J
-   3,R
-   9,D,X
-  22
+   7,R,J
+   8,R,Z
+   2,R,J
+   2,R,K,G
+  14,R
+   7,D,X
+  21
   13,L
   15,L,U,X
   15
@@ -648,120 +678,90 @@ EndRepeat
   15,R,X
   12,L
    2
-  20,D
-   6,L,U,Z
+  16,D
+   5,L
+   5,L,U,X
    7,L
    6
-   5,R
-  13,R,D
-  11,D
-##frameties
-#  24,L,D
-#  14,L,D,X
-#   1,L,J
-#   7
-#   1,N
-# 155
-  30,L,D
-  15,L,X
-   1,L
+  18,R,D
+  40,L,D
+   5,L,D,X
+   1,L,J
+   7,L
    1,N
  155
 
-#lvl_a13(1)
-  11,R
-  11,D
-  11,R,D
-  15,R,X
-   5,D,C
-   1,R,J
-   3,R
-  11
-  12,R,J
-   4,R
-  12,J,G
-   9,K,G
-  12,R,J,G
-   5,R
-  10,R,J
-   5,R
-   9,R,J,G
-  12,R,X
-  77
-  14,U,X
-  15
-  20,D
+#lvl_a13(2)
+  10
+  23,R,D
+  11,R,X
+  13,R,J
+   2,R,K,G
+   2,K
+   1,R,K
+   9,K
+  20,R,U,X
+  83
+   1,R,G
+  15,D,X
+   3,D
    6,R,D
    6,R
   10,R,X
-   7,R,J,G
-  12,R
+   5,R,J,G
+   7,R
+   1,R,J
+   9,R,D,X
   40
 
-#lvl_a11(1)
-   4,R,Z
-   1,R,J
-   3
-   4,R
+#lvl_a11(2)
+   3,R,D
    1,R,J
    1,R
    1
-   6,R,D,X
+   9,R,D,X
   31
-   5,R,J
-  10,R,K
-   1,K
-   1,R,K
-   5,R
-   6,R,J
-  10,R,K,G
-   9,R
-   2,R,J
-   5,R
-  18,R,U,Z
+   5,R,K
+  11,R,J
    2,R
-  15,R,X
+   1
+   3,R
    6,R,J
-  63
-##intended-ish route loses 6f
-#  15,R,D
-#   4,R,Z
-#   1,R,J
-#   5,R
-#  40
-#
-#   5,R
-#   8,R,D,X
-#   9,R,J
-#   4,R
-#   1,J
-#   7,R,J
-#  12,K,G
-#  11,J,G
-#  12,L,K,G
-#  15,U,X
-#  16,R
-#  32,R,D
-
-  15,R,D
-   4,R,J
-   8,R
-   7,R,U,Z
+   1,R,K,G
+   1,R,J,G
+  10,R
+   1
+   1,R
+   1
+  15,R,U,X
+   1,L
+   5,J,G
+   8,R,J
+  15,R,X
+   2,R
+  59
+   1,R,J
+   2,R,K
+  11,D
+  13,R,Z
   40
 
 #lvl_a14_Outro
-   5,R,U,Z
+   7
+   6,L,J,G
    1,J
-   2,L,K,G
-  13,K
-   1,J
-  13,R,K
-   2,R,J
-  13,R
-  14,R,U,Z
-  14,R
-   8,R,D
-   8,D
+   5,L,J
+   5,K
+   2,J
+  12,R,J
+   1,R,K
+   5,R
+   2,R,K
+   5,R
+  13,R,U,Z
+  15,R
+  12,R,D
+   4,D
    2
    2,D
    3
@@ -769,11 +769,11 @@ EndRepeat
    4,R,Z
    1,R,J
    6,R
-  12,R,J
+   9,R,D,J
+   3,J
   14,R,U,X
-   1,R,J,G
-   8,J
-   1,R,K,G
+   5,J,G
+   5,R,J
    7,R
    4,R,Z
    1,R,J
@@ -784,15 +784,8 @@ EndRepeat
   14,R
    1,R,J
   14,R,D,X
-  10,R,K
-  55,R,X
-  11,R
-  27,R,X
-  30,R
-  33,R,D
-   1,R,J
-   8,R
-  19,R,D,X
-  32
+   9,R,K
+  13,R,X
+ 135
 
-ChapterTime: 2:08.231(7543)
+ChapterTime: 2:03.811(7283)
