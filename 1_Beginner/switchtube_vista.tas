@@ -1,4 +1,4 @@
-RecordCount: 3889
+RecordCount: 3916
 
 console load StrawberryJam2021/1-Beginner/Flagpole1up
    1
@@ -156,23 +156,20 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    1,J,G
    6,L,J
   10,R,X
-  12,R,J
-   1,R
-   3,R,J,G
-  11,R,Z
+   4,R,J
+  12,K,G
+  10,R,X
+   3,R,K
+   1,L,K
+   6,R,J,G
+   1,J
    1,R,J
-   3,R,K,G
+   4,J
    1
-   6,R,K,G
-   1,K
-   1,R,K
-   4,K
-   1
-   3,J,G
+   6,J,G
    3,L,J
   15,L,U,X
-   2,L
- 128
+ 127
    1,R,J
   10,R,K
    4,J,G
@@ -788,4 +785,4 @@ EndRepeat
   19,R,D,X
   32
 
-ChapterTime: 2:10.526(7678)
+ChapterTime: 2:10.492(7676)
