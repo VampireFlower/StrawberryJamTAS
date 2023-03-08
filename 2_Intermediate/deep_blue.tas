@@ -1,4 +1,4 @@
-RecordCount: 283
+RecordCount: 398
 
 console load StrawberryJam2021/2-Intermediate/Emik
    1
@@ -67,22 +67,18 @@ console load StrawberryJam2021/2-Intermediate/Emik
   11,R,D,X
   17,L,J
   15,L,U,Z
-   4,R,J
-   9,R,K
-   5,R
-   2,R,J
-  10,R,D
-   7,R,J,G
-   8,R
-  35,R,U,G
-   1,J,G
-   1,R,K,G
-   1,R,J,G
+   4,L,J
+   3,L,K
+  14,L,U,X
+   1,L,J,G
+   7,L,J
+   5,L
    2,L,J
-   2,L
+  10,L
+   3
   14,L,D,X
-   1,J
-  18,D,C
+   1,R,J
+  18,D,X
    1,L,D
   15,L,Z
    4,L,J
@@ -149,8 +145,9 @@ console load StrawberryJam2021/2-Intermediate/Emik
   15,L,D
   52,L,X
    4,R,G
-  22,R,U,Z
-  64,D,X
+  18,R,U,Z
+   4,R,J
+  63,D,X
    2,L,J
    1,R,K,G
    8,L,K
@@ -273,27 +270,25 @@ console load StrawberryJam2021/2-Intermediate/Emik
   40
 
 #lvl_a_07
-   4,L
-   3,L,J
+   6,L
+   1,L,J
   18,L,X
    4,L,J
-   2,L,K
-  32,L,G
-  15,L
-  16,L,Z
-   4,L,J
    3,L,K
-  15,U,X
-  14,L
-   2
-#improvable
-   2,L,J,G
-   2,L
-  11
+  35,L,D,G
+   4,L
+   7
+  10,L,U,Z
+   4,L,J
+   4,L,K
+   6,L
+  12,L,U,X
+   1,J,G
+   7,L
+   5,R,J
    1,J
-   8,R,J
-   4,R
-  50,U,G
+   1,R,J
+  54,U,G
   34,L,J
   35,L,X
    4,L,J
@@ -334,28 +329,34 @@ console load StrawberryJam2021/2-Intermediate/Emik
   15
    1,R,G
    5,G
-   8,D,G
-  22,G
-   1,J,G
+  10,D,G
+   2,G
+   1
+   1,J
    1,R,K,G
-  16,L,K
-  20,G
-   6,D,G
-  13,G
-  38,R,J
-  38,G
-  15,D,X
-  41,R,G
-  28,L,D,X
-  36,G
+  30,L,G
+  10,L,D,G
+   1,L
+  15,L,Z
+  23
+   2,R,D
+   1,R,G
+   1,R,J,G
+   5,R
+   8,D
+  15,L,D,X
+  13,L,D
+  34,L,G
    1
    1,J
    1,K,G
    1,L,J,G
-  10,R,J
-  90,G
+   4,R,J
+   8,R,G
+  90,U,G
    2,L,J
- 164,L,J,G
+ 150,L,J,G
+  14,L,D,G
    1,R
  141,L,X
    4,L,J
@@ -376,5 +377,4 @@ console load StrawberryJam2021/2-Intermediate/Emik
   14,L,X
  135
 
-ChapterTime: 1:11.553(4209)
-
+ChapterTime: 1:08.544(4032)
