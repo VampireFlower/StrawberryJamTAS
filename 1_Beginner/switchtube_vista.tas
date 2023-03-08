@@ -1,4 +1,4 @@
-RecordCount: 4022
+RecordCount: 4106
 
 console load StrawberryJam2021/1-Beginner/Flagpole1up
    1
@@ -304,39 +304,34 @@ EndRepeat
   12,J,G
   12,K,G
   14,R,U,X
-  82
+  81
 #another questionable section
-   4,R,Z
+   1,R,K
    1,R,J
-   2,R
-   1
-   7,R
-#0:48.671(2863)
+  13,R,J
+   5,R,U,Z
   40
 
 #lvl_a08
 #smart use of bino int storage could maybe save time on exit
-   1,R
-   4,R,J
-  11,R,X
-   9,R,J
-   1,J
-   2,R,J
-   5,R
-   2,R,J
-  12,L,K
-   1,L
-  15,U,X
+  13,R
    1
    3,R
-   1
-  15,R
-   1
-   7,D
-#cornerslip here would be sick
+  16,R,J
+  16,R,U,X
+   1,L,K,G
+   2,R,D
+   1,D
+   6,R
+   1,R,J
+   3,R
+   5,R
    5,L
+   2,L,D
+   1,L,D
+   1,L
    1,R,D,X
-  36
+  35
    1,R,J
   12,R,K
   13,U,X
@@ -803,4 +798,4 @@ EndRepeat
   19,R,D,X
   32
 
-ChapterTime: 2:10.220(7660)
+ChapterTime: 2:09.999(7647)
