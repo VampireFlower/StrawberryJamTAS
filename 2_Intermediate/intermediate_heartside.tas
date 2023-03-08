@@ -1,4 +1,4 @@
-RecordCount: 5369
+RecordCount: 5605
 
 console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1
@@ -564,24 +564,27 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
   40
 
 #lvl_cp2-3-glowwoomii
-   9,R,D,X
-   1,R,J,N
-   9,R,D,X
+   8,R,D,X
    1,R,J
    7,R
-   3,R,J
+   1,R,J
+  14,R,D,X
+   5,R,J
   15,R,D,X
+   1,R
+   1,D
+  12,R,J
    7,R
-   2,R,D
-  20,R,D,J
-  22,R,G
-   1,R,J,G
-  10,R,J
-  12,R,G
+  21,R,G
   11,R,J,G
-  15,U,X
-  10,L,J,G
-   8,L,G
+   6,R,G
+  16,R,J,G
+  15,U,Z
+   3,L,J,G
+   1
+   1,J,G
+   7
+   1,G
    9,L,K,G
    7,L
    8
@@ -605,33 +608,34 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1,J
   12,K,G
    8,R,K
-#restart is slower
-#but keycycle is better
-#116f instead of 140f (17f save)
-#  96,O
-#   7,U,X
+#retry reaches the door 7f later
+#but with a different key cycle
+#   1,S
+#   1,D,J
+#  69,O
+#  10,L,Z
+#   2,L,J
+#  10,L,K,G
+#   3,L
+#   6,L,J,G
+#  11,U,X
 #  47,U,C
-   1,S
-   1,D,J
-  69,O
-  10,L,Z
-   2,L,J
-  10,L,K,G
-   3,L
-   6,L,J,G
-  11,U,X
+  96,O
+   7,U,X
   47,U,C
   15,R,U,X
   22,R
   15,R,D
   15
   15,R,D
-  15
+  14
+#Spinner cycle
+   1
   14,R,D
    9,R,D,J
    1,K,G
    3,L,K
-  22,U,X
+  22,U,Z
   40
 
 #lvl_cp2-4-ice
@@ -1070,6 +1074,7 @@ EndRepeat
   40
 
 #lvl_cp3-5-RG2 
+
    1,R
    9,R,J
    7,R
@@ -1531,4 +1536,4 @@ EndRepeat
   16,R,U,X
  135,R
 
-ChapterTime: 4:41.384(16552)
+ChapterTime: 4:41.112(16536)
