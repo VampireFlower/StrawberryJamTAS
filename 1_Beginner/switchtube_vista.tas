@@ -1,4 +1,4 @@
-RecordCount: 3795
+RecordCount: 3797
 
 console load StrawberryJam2021/1-Beginner/Flagpole1up
    1
@@ -68,10 +68,11 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    3,R,D,X
    1,R,J
    5,R,K,G
-  12,R,J,G
-   6,R
+   2,R,J,G
+  10,R,K,G
+   6,R,K
   14,R,U,X
-  35
+  34
 #buffered pipe jump would require slowing down for bhop
   15,R,D,X
    5,R,D
@@ -786,4 +787,4 @@ EndRepeat
   19,R,D,X
   32
 
-ChapterTime: 2:10.577(7681)
+ChapterTime: 2:10.560(7680)
