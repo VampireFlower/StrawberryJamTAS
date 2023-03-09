@@ -1,4 +1,4 @@
-RecordCount: 6217
+RecordCount: 6246
 
 console load StrawberryJam2021/5-Grandmaster/Dav
    1
@@ -236,50 +236,103 @@ console load StrawberryJam2021/5-Grandmaster/Dav
    1,G
   34,R,J,G
   20,L
-  73
-   9,R
-  38,L,G
-   1
-   1,J
-   1,L,K,G
-  20,R,K
-  15,U,X
-   8,R,J
-  30,L,X
-  23,R,C
-  23,L
-  10
-  27,J
-  15,L,U,X
-  50,R
-  20,L
-  12,U,X
-  54,R,J
-   1,K
-  25,R,K
+  14
+   4,L,J
+   3,L
+   8,R
+   2
+   2,R,D
+StunPause
+   3,R,D
+   2,R
    1,G
-   4,L,J,G
-  75,L,G
-   1
-   1,J
-   1,L,K,G
-  50,R,K
- 200,L,G
-  16,J,G
-  36,L,U,X
- 327,L,C,G
+   1,R,D,X
+EndStunPause
+   4,R,D,X
+StunPause
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   6,R
+EndStunPause
+   1,S,N
+  10,J
+   1,R,J
+   1,R
+StunPause
+   1,R
+   6,R,D,J
+   1,R
+EndStunPause
+   1,R,J
+StunPause
+  13,R,J
+   7,R,K,G
+   1,R
+EndStunPause
+   6,R
+   2,R,J
+   7,R,U,Z
+StunPause
+   5,R,U,Z
+EndStunPause
+   4,R,U,Z
+StunPause
+   1,R,U,Z
+   7,R,J,G
+EndStunPause
+   3,R,J,G
+StunPause
+  12,R,J,G
+EndStunPause
+  10,R,J,G
+StunPause
+   5,R,J,G
+   1,R,U,Z
+EndStunPause
+   3,R,U,Z
+StunPause
+  10,R,U,Z
+EndStunPause
+   9,R
+   1,L
+   7,L,J,G
+  12,L,K,G
    4,J,G
-   1,K
-   1,L,J,G
-  24,R,J,G
-   3,R,K
-  11,R,Z
+   2,R
+   1,J
+  13,L,J
+   6,L,U,G
+  10,J,G
+   2,R
+   1,J
+  12,L,J
+   9,L,J
+  14,R,D
+   1,R,D
+  57,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   7,R,K,G
+   2,R
+StunPause
+  10,R
+   1,R,Z
+EndStunPause
+   4,R,Z
+StunPause
+  18,R,Z
+EndStunPause
+  32,R,D
+   3,R,J
+   5,R,Z
    1,R,J
    7,R
    1,R,J
- 
   14,R,U,X
-  76,R,J,G
+  77,R,J,G
 
 #lvl_big-2
    1
@@ -338,11 +391,16 @@ console load StrawberryJam2021/5-Grandmaster/Dav
   20,R
   12,R
    4,R,U,Z
+   2,R,U,Z
 StunPause
-   6,R,U,Z
-   1,R,J,G
-   3,R,K,G
+   3,R,U,Z
 EndStunPause
+StunPause
+   1,R,U,Z
+   1,R,J,G
+   2,R,K,G
+EndStunPause
+   1,R,K,G
   14,R,J
   12,R,K,G
    3,R,J,G
@@ -460,7 +518,7 @@ endrepeat
   16,L,J
   62
 #lvl_chill-0 (1)
-   2
+   0
 #spinner cycle
    1
   16,R,J
@@ -754,13 +812,10 @@ EndRepeat
   20,L,D,X
    4,L
   14,R,Z
-   2,L,J
-   2,R,J
+   3,L,J
    1,R
-   2,R,J
-   1,R
-   1,R,J
-   5,R
+   4,L,J
+   4,R
   14,R,Z
    1,L,J
    8,L,D,X
@@ -840,4 +895,4 @@ EndRepeat
   14,L,U,X
  135
 
-ChapterTime: 3:54.651(13803)
+ChapterTime: 3:52.254(13662)
