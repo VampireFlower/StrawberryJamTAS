@@ -1,7 +1,7 @@
 #draft: psyGamer
 #improvement: EllaTAS
 
-RecordCount: 5235
+RecordCount: 6585
 
 console load StrawberryJam2021/1-Beginner/mosscairn
    1
@@ -123,6 +123,7 @@ console load StrawberryJam2021/1-Beginner/mosscairn
   40
 
 #lvl_a-03
+   4,X
    1,S,N
    1,D,J
   69,O
@@ -178,18 +179,18 @@ console load StrawberryJam2021/1-Beginner/mosscairn
   40
 
 #lvl_a-05
-#global cycle
    2,R
-  15,D,X
+   6,R,D,X
+   1,J
+   8
+#global cycle
+   1
    4,Z
    1,R,J
-   3,R
-   1,R,K
-   3,R
-   3,R,J
-  13,R,D,X
-   3,R,J
-  12,R
+  15,R,D
+   4,Z
+   4,L,J
+  10
   14,L,Z
    1,R,J
   19,R,D,X
@@ -209,25 +210,26 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    1,R,J
    1,R
   15,R,D,X
-  14,R,D
-  10,R,Z
+  11,R,D
+   3,R
+  11,R,X
+   4,R,J
+   9,L,K,G
+   5,R,K
+   2,J,G
    5,R,J
-   5,U,X
-  11,R,J
-   8,R
-   2,R,J
+   1,R
+   8,R,Z
+   1,R,J
    6,R
-  10,R,Z
-   5,R,J
-  11,U,Z
    3,R,J
+  11,U,X
+   2,R,J
   11,R
    4,Z
    1,R,J
-   3,R
-   1,R,K
-   3,R
-   3,R,D,J
+   6,R
+   4,R,D,J
   40
 
 #lvl_a-07b
@@ -243,10 +245,13 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    2,R,J,G
    7,R
    2,R,K
-  16,R
+  10,R
+   1
+   5,R
   11,R,U,Z
    4,J
-   5
+   4
+   1,R
    1,R,K
    1,R
    1,R,K
@@ -255,13 +260,14 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    6,R
    1,R,J
    3,R
-   6,R,D,X
+   5,R,D,X
   40
 
 #lvl_a-08
-   7,R,D,X
+   8,R
    1,R,J
-  20,R
+   4,R
+  15,R
    5,R,Z
    1,R,J
    7,R
@@ -283,7 +289,9 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    8,L,J
   13,U,X
    1,J
-  19,R,D
+  15,R,D
+   2,L,D
+   2,R,D
    7,L,D,X
    1,R,J
    7,R
@@ -327,7 +335,9 @@ console load StrawberryJam2021/1-Beginner/mosscairn
   12,R,J
    7,R
   14,R,U,Z
-   8,R,J,G
+   1,R,J,G
+   3,R
+   4,R,J,G
    7,R
    6,R,Z
    1,R,J
@@ -361,14 +371,15 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    1
    1,K
    3,K,G
-  13,L
-  14,L,Z
+   9,L
+   5,L,K
+  13,L,Z
    1,L,J
-   8,L
-  12,L,J
+   7,L
+  11,L,J
   14,U,Z
-   4,J
-   5,L,J
+   3,L,J
+   6,R,J
   40
 
 #lvl_b-00
@@ -382,8 +393,10 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    1,S,N
    1,D,J
   34
-  11,R
-  47,L
+  10,R
+  15,L,X
+#can add 3 dashes
+  36
   13,U,X
   23,R,J
    1,R,K,G
@@ -407,44 +420,50 @@ console load StrawberryJam2021/1-Beginner/mosscairn
   12,L,U,X
    1,L,J,G
    7,L
-  12,L
+   4
+   8,L
   15,U,X
    1,L,J,G
-   1,R
-   6,L
-  10,L,J
-  13,L,Z
-   1,L,J
    7,L
-   7,L,J
+  10,L,J
   12,L,Z
    1,L,J
    7,L
    5,L,J
+   2,L
+  12,L,Z
+   1,L,J
+   6,L
+   6,L,D,J
    5,L,U,X
   40
 
 #lvl_b-01
   11,L
-  15,U,Z
-   9,L,J
-   1,L,K,G
-   7,L
-   7,L,K
-   2,L
-  18,L,X
-   5
+  15,U,X
+   2,L,J
+   2,J
+   1,L,J
    4,L
-  24,L,Z
+   1,L,K,G
    1,L,J,G
-   2,L,K,G
-  13,L
+   5,L
+   2,L,K
+   1,L
+#sloooooooooow
+  34,L
+  15,L,Z
+   3,L
+  15,L,X
+   7,L
    2,L
   22,L,Z
    5,R,V
    1,L,J
-   2,L
-   2,L,K
+   1,L
+   1,L,K
+   1,L
+   1,L,K
    5,L
    4,Z
    1,L,J
@@ -457,7 +476,7 @@ console load StrawberryJam2021/1-Beginner/mosscairn
   30,L,D
    1,L,J
   22,L,D
-   4,L,Z
+   4,Z
    2,L,J
    8,L
    1,L,J
@@ -465,9 +484,8 @@ console load StrawberryJam2021/1-Beginner/mosscairn
 
 #lvl_b-03
 #global cycle
-  15,D,C
-   3
-   5,L,Z
+   1,L
+   6,R,D,X
    1,L,J
    5,L
    2,L,K
@@ -475,64 +493,67 @@ console load StrawberryJam2021/1-Beginner/mosscairn
   15,L,D,X
    8,L,U,Z
    1,R,J,G
-   3,L,J
-  21,L,D
-   5,L,D,X
+   6,L,J
+   5,L
+   6,L,K
+#hwat
+   3,L
+   8
+   4,Z
    1,L,J
-   2,L,K,G
-   3,L,J,G
-   4,L
+   1,L,K,G
+   1,K
+   4
+   2,L
   43
 
 #lvl_b-04
-   4,L
-   1,L,J
-   5,L,K,G
-  14,U,X
-   6,L
-  14,U,X
-   1,L,J
-  15,L,C
-  10,G
-   1,J,G
-   1,K,G
-   1,J,G
-   3,K,G
-   7,L
-  14,R,X
-   1,J
-  13,L,C
-   2,L,J
-  15,U,X
-   1,R,J,G
-   7,R
-   2
-  14,R,X
    2,L
-  10
+  10,L,X
+   5,L,J
+  15,U,X
+  15,L,C
+  12,L,X
+   1,R,J
+   2,J
+  15,U,X
+   8,L,J,G
+   8,G
+   1,L,J,G
+   7,R,U,X
+   2,L,J
+   9,L
+  14,U,Z
+   1,R
+   1,R,J,G
+   7,L
+#global cycle
+  15,D,X
+  14,R,Z
+   1,R,J
+   5,R,D,X
+  12,L
   14,U,X
   43
 
 #lvl_b-05
-#global cycle
-   1
   18,R,J
-  11,L,K
-   2,L
+   1,L,K
+  12,L,J
    7,L,X
    8,L
-  10,L,C
+  11,L,C
    1,L,J,G
    7,L
-   3
+   2
+   1,K
+   4
    1,L
-   3
-   6,R,Z
-   3,L,J
+   5,R,Z
+   4,L,J
    4,L
-  43,G
-   3,D,G
-   1,G
+  42,G
+   4,D,G
    8,L,Z
    1,L,J
    1,L,K,G
@@ -575,7 +596,8 @@ console load StrawberryJam2021/1-Beginner/mosscairn
   13,R,D
    2,L,D
    9,R,D
-   1
+#global cycle
+   5
    4,X
    6,R,J
    7,R
@@ -813,94 +835,103 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    2,R,K,G
    2,R,J,G
    1,R,K,G
-   7,R
-   5,R,D,X
-   2,R,J,G
-   2,R,K,G
-   1,R,J,G
-   7,R
+  12,R,D,X
+   1,R,J
+   4,R
+   5,R,D,J
   40
 
 #lvl_c-04
-   1,R
-   2,R,K
-   4,R
-  16,R,J
-  15,U,X
-  16,U,Z
-   2,J
-  11,L
-#ugh
-  15,D,X
-  15,D,C
-  10,U,X
+  10,R,J
+  15,R,U,X
+  11,U,C
+   1,J
+   1,R,K,G
+   7,R
+  10,R,C
+   4,L,J
+   2,R,J
+   5,L,J
+  15,L,U,Z
+  17,R,U,X
   40
 
 #lvl_c-05
-   2
-   9,R
-  10,L,X
-   9,R,J
-   1,R
-  15,R,U,X
-  15,R,U,C
-   1,R
-   3,R,J,G
-   7,R
-  15,D,X
-  15,D,C
-   9,R,J
-  15,U,Z
-  15,L,U,C
-  10,L
-  30,U,G
-  29,R,J
-   7,R
-   2,R,J
-  15,R,D,X
-  15,D,C
-  10
-  13,L,D,X
-   2,R,J
-   5,L,D,X
+   1
+  11,K
+  14,U,X
+  16,J
+  10,R,X
    1,R,J
-   3,R
+   4,R
+  15,R,U,X
+  11,R,Z
+   1,R,J,G
+   1,R
+   2,R,J,G
+   7,R
+   2,L,J
+  13,R,Z
+   1,J,G
+   6,R,J
+   1,L,J
+   2,J
+  13,G
+   2,U,G
+   2,G
+   1,D,G
+   1,G
+   1
+   1,L
+   1
+   1,L
+   1,K
+   1,L,J,G
+  14,U,X
+  15,R,J
+   1,R,K,G
+  10,R,J,G
+   5,R
    1,R,K
-  11,R,J
-  15,U,Z
-   4,C
-   5
-   6,R
-   5,U,X
+   8,R
+   2
+   1,R,D,J
+   1
+   2,R
+  14,R,D,X
+  23,R,J
+  15,R,U,X
+  11,R,U,Z
+   1,L,J,G
+   7,R
+   5,R
+  12,R,U,X
   40
 
 #lvl_c-06
-   5,R,J
-   8,R
-   4,R,K
-   1,R
-   4
-  15,D,C
-  11
-   1,N
-   8,L,J
-   3,L
+   9,R
+   1,J,G
+   6,R
+   1,L,N
+  10,L,J
   15,U,X
   29,R,Z
   41
-   3,L
-  15,L,U,X
+   2,L
+  16,L,U,X
   20,L,C
   41
    8,R
   25,R,X
   23,R,Z
-  37
+  38
   16,L,U,X
   16,L,U,C
-  15,U,X
-  15,L,Z
-  14,L,D
+   1
+   8,L,U,X
+   4,J
+   3
+  25,L,X
   40
   14,U,X
    6,L,J
@@ -908,38 +939,32 @@ console load StrawberryJam2021/1-Beginner/mosscairn
   11,R,U,X
    1,R,J,G
    3
-   9,R
+   6,R
+   1,R,K
+   2,R
    1,J
   15,R,U,X
    8,U,C
  357
 
 #lvl_end
-   1
-  10,L
-   6,L,D,X
-   4,L,J
-   5,L,K,G
-   2,L
-   7,L,J,G
-   2,L
+  11,L
+   7,L,D,X
+   3,L,J
+   7,L,K,G
+   9,L,J,G
    1,L,K,G
   11,L,U,X
-   1,L,J,G
-  11,L
+   4,L,J,G
+   7,L
    1,L,J
-   3,L,K,G
   14,L,D,X
    1,S,N
    1,D,J
   34
    1,L,J
-  32,L,U,X
-  38,R,D,C
-   4,R,Z
-   1,R,J
-  29,R
-   1,R,J
-  44,R
+  34,L,U,X
+   1,K
+ 110,R,D,X
 
-ChapterTime: 2:05.970(7410)
+ChapterTime: 2:04.542(7326)
