@@ -1,4 +1,4 @@
-RecordCount: 1913
+RecordCount: 1940
 
 console load StrawberryJam2021/2-Intermediate/SpoopySoup
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/2-Intermediate/SpoopySoup
  190
 
 #spinner cycle
-   2
+   1
 
 #lvl_soup-1
    5,R,Z
@@ -166,13 +166,10 @@ console load StrawberryJam2021/2-Intermediate/SpoopySoup
   11,R,C
    3,R,J,G
    5,R
-   2,R,J
-   7,R
-   2,R,J,G
-   1
-   2,R
-   5,R,J,G
-  15,R,K,G
+   3,R,J
+   6,R
+   9,R,J,G
+  14,R,K,G
   38
   15,R,X
   29,R,D
@@ -289,5 +286,4 @@ endRepeat
    4,X
  135
 
-
-ChapterTime: 0:54.944(3232)
+ChapterTime: 0:54.893(3229)
