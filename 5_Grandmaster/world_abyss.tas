@@ -1,4 +1,4 @@
-RecordCount: 7097
+RecordCount: 7411
 
 console load StrawberryJam2021/5-Grandmaster/Dav
    1
@@ -6,56 +6,61 @@ console load StrawberryJam2021/5-Grandmaster/Dav
 #Start
  190
 
-#lvl_a-intro (0)
-   1
-#spinner cycle
-  10,L,Z
-   1,R,J
-   7,R
-   2,R,D,J
+### spinner cycle
+   0
+###
+
+#lvl_a-intro
+   2,L,J
   13,R,D,X
-   2,R,J,G
-  12,R
-   7,R,J
-   3,J
-   9,R,D,X
-   2,R,J,G
-  13,R
-  18,R,J
-  15,U,X
-  24,R,J
-  28,R
-  19,R,D
-   4,R
-  18,R,Z
-  15,R,U,X
-   7
-  17,R
-   9,L,Z
-   1,R,J
-   7,R
+   2,R,J
+  11,R,D,X
+   1,R,J,G
+   1,R,K
    6,R,J
-   1,R
-  31,R,J
-  40,R,X
-   3,R,D
-  22,R,X
+   5,R
+   2,R,J
+   6,R
+   4
+   1,R,J
+  14,R
+  18,R,J
+  12,U,X
+  49,R,J
+  20,R,D
+   4,R
+   1,D
+   1
+  16,R,Z
+  39,R,U,X
+  14,R,D,C
+  38,R,J
+  15,R,X
+  28,R,D
+  15,R,X
   15,R,Z
-  62,R,D
+  60,R,D
+#teleports 3 frames after
+#touching orange line
+#resets position but not subpixel
+   3,R,D
 
 #lvl_big-1
-  60,R
-  35,R,D
-   5,L,Z
+  59,R
+  16,R,D
+   1,R
+  13,R,D
+   3,R
+   1,R,D
+   1,R
+   4,R,Z
    1,R,J
-   7,R
-   1,R,J
-   2,R
+   6,R
+   3,R,J
    1,R,K,G
-  12,R
-   2,R,J
-   7,R,K,G
-  32,U,X
+  19,R,J,G
+  11,U,X
+  18
   11,L,D,C
    2,R,G
   15
@@ -904,4 +909,4 @@ EndRepeat
   14,L,U,X
  135
 
-ChapterTime: 3:40.881(12993)
+ChapterTime: 3:40.320(12960)
