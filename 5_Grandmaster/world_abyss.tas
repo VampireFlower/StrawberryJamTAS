@@ -1,4 +1,4 @@
-RecordCount: 7411
+RecordCount: 7561
 
 console load StrawberryJam2021/5-Grandmaster/Dav
    1
@@ -6,7 +6,8 @@ console load StrawberryJam2021/5-Grandmaster/Dav
 #Start
  190
 
-### spinner cycle
+
+### spinner cycle [chill-0 (0)]
    0
 ###
 
@@ -309,35 +310,40 @@ StunPause
 EndStunPause
    9,R
    1,L
-   7,L,J,G
-  12,L,K,G
-   4,J,G
-   2,R
+  15,L,J,G
+   6,K,G
+   1,R,K
+   1,L,K
+   1,L,J,G
+   5,R,J
+   6,J
+   6
+   1,R
+   1,L,J,G
+   3,R,J
+   1,L,J
+   4,J
+   1,L,J
    1,J
-  13,L,J
-   6,L,U,G
-  10,J,G
-   2,R
-   1,J
-  12,L,J
-   9,L,J
-  14,R,D
-   1,R,D
-  57,G
+   1,K,G
+   7
+   1,R
+  10,L,J
+   5,L
+  23,R,D
+  25,R,G
+   3,U,G
+   3,R
    1,R,J,G
    1,R,K,G
    1,R,J,G
-   7,R,K,G
-   2,R
-StunPause
-  10,R
-   1,R,Z
-EndStunPause
-   4,R,Z
-StunPause
-  18,R,Z
-EndStunPause
-  32,R,D
+   1,R,K,G
+   1,R,J,G
+  31,R,D
+  29,R,Z
+   4,R,D
+#lazy resync
+  12,R,X
    3,R,J
    5,R,Z
    1,R,J
@@ -348,7 +354,13 @@ EndStunPause
 
 #lvl_big-2
    1
-  12,J
+
+#bad spinner cycle spot
+### spinner cycle [big-2]
+   1
+###
+
+  12,K
   10,L,Z
    1,R,J
    7,R
@@ -531,8 +543,10 @@ endrepeat
   62
 #lvl_chill-0 (1)
    1
+
 #spinner cycle
    1
+
   16,R,J
   15,U,X
    4,R
@@ -909,4 +923,4 @@ EndRepeat
   14,L,U,X
  135
 
-ChapterTime: 3:40.320(12960)
+ChapterTime: 3:37.209(12777)
