@@ -1,4 +1,4 @@
-RecordCount: 1476
+RecordCount: 1736
 
 console load StrawberryJam2021/1-Beginner/joltik
    1
@@ -112,49 +112,57 @@ console load StrawberryJam2021/1-Beginner/joltik
    7,R
   15,U,C
    1,L
-   3,L,K,G
+   1,L,J,G
+   6,R,J
+   2,R
+   1,L,J,G
+   1,L
+   3
    2,L
-   5,L,K,G
-   7,L
-   4,Z
-   4,L,K
-   6,L,D,X
-   1,R,K
-   7,R
-  10,R,D,K
-   4,R
-repeat 5
+   2
+   2,L
+   2
+   1,R,D,J
+   1,L,J
+   1,R,J
+   3,L,J
+   2,R,J,G
    1,J
-   1,K
-endrepeat
-   5,L,Z
    1,L,K,G
-   9,L,J,G
-   5,L
+   3,K
+   1,L,K
+Repeat,5
+   1,K
+   1,L,K
+EndRepeat
+   3,J
+   4,L,K,G
+   1,L
+   7,R
+   1,L
+  20
+   8,J
+   1,J
+  10,K,G
    1,L,K
    5,L
-  12
-   9,J
-   1,K
-  14,L,K
-   4,K
-  14,L,U,X
-   3,L,K,G
+  11,L,U,X
+   3,L,J,G
    7,L
-  13,L,D,J
-  12,U,X
+  14,L,D,J
+  11,U,X
   40
 
 #lvl_a_03
-   1,L
+   2,L
    1,R,J,G
    1,R,K,G
-   1,R,J,G
-   7,R
-  14,R,X
-   6
+   2,R,J,G
+   5,R
+  10,R,X
+  10,R
   15,U,Z
-  26,L,J,X
+  26,L,X
    3
   14,L,U,C
    7,L,K,G
@@ -370,7 +378,7 @@ endrepeat
    8,D,X
   15,R,C
 #spinner cycle
-   2
+   0
 #
   15,D,X
    7,R,D
@@ -498,4 +506,4 @@ endstunpause
   15,J
  153,U,C
 
-ChapterTime: 1:09.547(4091)
+ChapterTime: 1:09.241(4073)
