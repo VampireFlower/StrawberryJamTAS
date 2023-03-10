@@ -1,4 +1,4 @@
-RecordCount: 1840
+RecordCount: 2044
 
 console load StrawberryJam2021/4-Expert/Appels
    1
@@ -110,21 +110,21 @@ endRepeat
    7,R
   12,R,J
   13,R,G
-  13,X,G
-  13,R,G
+  13,R,X,G
+   8,R,G
    1,L
-   9,R
+   2,R,D
+  12,R,D,X
+   6,R,J
   14,R,D,X
-   1,R,J
-  14,R,D,X
-  18,R,J
-  40,R,U,X
-   5,L,K
-  10,L,J
+  10,R,J
+  41,R,U,X
+   5,L,J
+  16,L,K
   14,U,X
-  30,L,G
-  10,X,G
-  14,L,G
+  28,L,G
+  18,X,G
+   4,L,G
    1,L
   14,U,X
   28,G
@@ -135,10 +135,11 @@ endRepeat
   15,L,U,X
   19,R,G
    1,R,X,G
-   9,G
-  16,L,G
+  10,R,G
+  10,R,G
+   5,G
    1,L
-  42,R,X
+  37,R,X
    5,R,K
   10,R,J
   13,R,G
@@ -175,8 +176,7 @@ endRepeat
    1,R
   40,U,X
    7,R,Z
-   4,R,J
-  10,R
+  14,R,J
    8,R,U,X
   27,R,G
    5,R,X,G
@@ -184,7 +184,7 @@ endRepeat
    5,L,C,G
    4,R,G
    1,L
-  40,L,X
+  37,L,X
    3,R,J
    2,R
    1,R,K
@@ -209,15 +209,14 @@ endRepeat
   22,X,G
    1,L,D
   57,L,U,X
-   5,R,J
+   5,J
    3,K
-  17,L,G
-  13,X,G
-  10,L,X,G
-  21,L,C,G
+  17,G
+  23,X,G
+   8,C,G
+  12,L,C,G
    1,R
-   6,L
-  94,L,X
+  97,L,X
    1,L,K
   14,L,D,X
    1,L,J
@@ -229,52 +228,56 @@ endRepeat
 #lvl_a03
    9,L,D,X
    1,L,J
-  11,L,D,X
-  11,L,J
+  14,L,D,X
+   7,L,J
   14,L,G
-  21,L,X,G
+  16,L,X,G
+   5,X,G
    1,L
-  16,L,D
+  12,L,D
   14,L,X
   27,L,G
-  15,L,X,G
+  14,L,X,G
    1,R
-  19,G
+  15,L,G
+   4,R,G
    1,X,G
-  18,R,X,G
+  15,R,X,G
    1,L
-  23,R
+  26,R,J
   15,U,X
-  30,L,G
-  15,L,X,G
+  31,L,G
+  12,L,X,G
    1,R
   14,L,D
-  14,R,D
-  35,U,X
+  10,R,D
+   3,L,D
+   1,R
+  38,U,X
    7,L,Z
   16,L,J
   15,L,G
   21,L,X,G
    1,L
-  15,R
+  14,R,D
   15,G
   25,X,G
    1,R
-  20,L,J
-  13,G
-  12,X,G
-  19,L,X,G
+  18,L,J
+  15,R,G
+  15,X,G
+  15,L,X,G
    1,L
-  65,L,X
+  66,L,X
    1,L,J
   14,L,D,X
    1,L,J
-   8,L,D,X
+   9,L,D,X
   40
 
 #lvl_a04
-   6,L,D,X
-   9,L,J
+   4,L,D,X
+  11,L,J
   31,L,X
    5,L,K
   10,L,J
@@ -626,4 +629,9 @@ endRepeat
  140
 
 
-ChapterTime: 2:14.997(7941)
+ChapterTime: 2:14.470(7910)
+#2:14.997(7941)
+#2:14.674(7922)
+#2:14.623(7919)
+#2:14.555(7915)
+#2:14.470(7910)
