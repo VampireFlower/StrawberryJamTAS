@@ -1,4 +1,4 @@
-RecordCount: 7561
+RecordCount: 7710
 
 console load StrawberryJam2021/5-Grandmaster/Dav
    1
@@ -6,9 +6,8 @@ console load StrawberryJam2021/5-Grandmaster/Dav
 #Start
  190
 
-
 ### spinner cycle [chill-0 (0)]
-   0
+   1
 ###
 
 #lvl_a-intro
@@ -216,25 +215,28 @@ console load StrawberryJam2021/5-Grandmaster/Dav
    1,R,K
    1,R,J
    1,R,K
-   1,R,J
-   8,R,K,G
+   2,R,J
+   4,R,K
+   1,K
+   2
    9,R,U,X
    1,R,J,G
-  11,R
-   1,R,J
-  18,R
+  10,R
+  21,R,J
    9,R,U,X
 
 #lvl_chill-0 (0)
-   4,R
-  13,R,J,G
+   5,R,U,X
+   8,R,J,G
    4,R,K,G
-  15,R
-  50,L,J
-  30,U,X
-  12,R
-   2,R
-  14
+   2,R,J,G
+  11,R
+  12,R,J
+  15,L,U,X
+  10,L
+  10
+   1,L
+  61
   15,X
   12,R
   11
@@ -344,6 +346,7 @@ EndStunPause
    4,R,D
 #lazy resync
   12,R,X
+
    3,R,J
    5,R,Z
    1,R,J
@@ -360,7 +363,7 @@ EndStunPause
    1
 ###
 
-  12,K
+  12,J
   10,L,Z
    1,R,J
    7,R
@@ -414,8 +417,7 @@ EndStunPause
    2,R,J
   20,R
   12,R
-   4,R,U,Z
-   2,R,U,Z
+   6,R,U,Z
 StunPause
    3,R,U,Z
 EndStunPause
@@ -501,10 +503,10 @@ EndStunPause
   27,L,J
    6,L,G
    3,U,G
-repeat,30
+Repeat 30
    1,D,G
    1,U,G
-endrepeat
+EndRepeat
    1
    5,L,X
    2,L,J,G
@@ -544,8 +546,9 @@ endrepeat
 #lvl_chill-0 (1)
    1
 
-#spinner cycle
+### spinner cycle [big-3]
    1
+###
 
   16,R,J
   15,U,X
@@ -586,77 +589,101 @@ endrepeat
   12,L,J,G
    4,L,K,G
    7,L
-   4,Z
-   6,L,J
-   8,L,K,G
-  66,L
+   5,L,Z
+   5,L,J
+   1,L,K,G
+   6,L
+   7,L,K
+  59,L,D
 
 #lvl_big-3
    1
    5,L,J
-   8,L
+   7,L
   10,R,Z
   27,L,J
-  31,L,U,X
+  15,L,U,X
+  16,L
    1,L,J,G
    3,L,K,G
-   8,L
-   4,Z
-   1,L,J
    7,L
-  10,L,J
-  16,L,D,X
+   4,L,Z
    1,L,J
-  50,R,J
-  30,R,D,X
-  28,D,C
+   6,L
+   9,L,J
+  16,L,D,X
+   1,J
+   8,L,J
+   4,L
+   3
+   3,L,J
+  13,D
+  15,R,D,X
+   6,D
+  19,L
+  27,D,C
+   1,D
   18,R,U,X
   23,L,U,C
-  21,L,X
+  15,L,X
+   6,L
+  19,D
+   4,L
+  15,U,X
+   9
+  15,R,U,C
+   6,R
   24
-  24,U,X
-  20,R,U,C
-  25
-  80,L,G
-  18,X
-  18,U,C
-  40,U,X
+  86,L,G
+   4,X
+  14,R
+  18,U,X
+  26,U,C
+  14
   18,L
   17,R,X
    4,Z
   35,R,J
   15,U,X
-  60,L,J,G
-   8,U,X
+  32,L,J
+  11,G
+  11,U,X
   35,R,J
-  16,U,X
-  21,R
-  18,R,Z
-  20
-  12,U,X
-  10,L,J
-  32,L,G
-  24,R,J
-  12,U,X
-  55,L,J
   15,U,X
-  16,R,C
-  18,R,J
-  10,U,X
-  41,L
-  14,R,Z
-   4,R,J
-   7,R,K
+  20,R
+  15,R,Z
+   1,R
+  21
+  12,U,X
+   9,L,J
+  11,L
+  16,U,G
+  22,R,J
+   9,U,X
+  20,L,J
+  25,L
+   6
   15,U,X
-  12,L,J,G
-  12,L,K,G
-   8,L,J,G
-   2,L,K,G
+  15,R,C
+   8,R,J
+   1,R,K
+   8,R
+  15,U,X
+   2
+  42,L
+  15,R,Z
+   8,L,J
+   1,R,K
+  15,L,K
+  15,U,X
+  10,L,J,G
+   1,L
+   7,L,K,G
    7,L
    4,Z
    1,L,J
-  15,L
-Repeat,3
+  16,L
+Repeat 3
    1,L,J
    1,L,K
 EndRepeat
@@ -671,21 +698,23 @@ EndRepeat
    1,L,J
   15,L,D,X
   12,L,J
-   3,L,D
-  29,D
+   5,L,D
+  27,D
   15,L,D
-  10,X
+  10,L,X
    6,L,J
    1,J
    3
-  21,L,U,X
+  14,L,U,X
+   7,R
   15,L,U,C
   10,J,G
    7,R,J
   10,L,Z
    5,R,J
    6,R
-  39,R,U,X
+  15,R,U,X
+  24,R
    5,L
    5
    1,L
@@ -706,16 +735,18 @@ EndRepeat
    3
   15,U,X
   20,L
-  10
-  18,Z
-  33,L
-  15,U,X
-  20,R
+   7
+   3,D
+  15,L,Z
+  36,L
+  18,U,X
+  17,R
   15
   15,U,X
-  33,R
+  22,R
+  12,L
   15,U,X
-  24
+  23
    4,L
   14,R,D,X
    4,L,J
@@ -869,7 +900,7 @@ EndStunPause
   54,D
   24,L,D
    8,L,D,X
-Repeat, 4
+Repeat 4
    1,R,J
    1,R,K
 EndRepeat
@@ -923,4 +954,4 @@ EndRepeat
   14,L,U,X
  135
 
-ChapterTime: 3:37.209(12777)
+ChapterTime: 3:36.597(12741)
