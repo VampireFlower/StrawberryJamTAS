@@ -1,4 +1,4 @@
-RecordCount: 1923
+RecordCount: 1930
 
 console load StrawberryJam2021/1-Beginner/joltik
    1
@@ -433,11 +433,11 @@ endstunpause
 #lvl_a_07
    3
   11,R
-  12,R,D,X
-   1,R,K
+  10,R,D,X
+   3,R,K
    2,R
-  13,R,U,X
-   1,K,G
+  11,R,U,X
+   2,K,G
    7,R
   10,R,K
    2,R
@@ -445,6 +445,9 @@ endstunpause
   12,L,K,G
    2,L,J,G
    7,L
+#+1f doesn't land enough left
+   1,L
+###
   21,L,K
   14,U,Z
   11,K
