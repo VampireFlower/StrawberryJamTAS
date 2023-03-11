@@ -1,4 +1,4 @@
-RecordCount: 1179
+RecordCount: 1257
 
 console load StrawberryJam2021/4-Expert/Jackal
    1
@@ -182,25 +182,29 @@ console load StrawberryJam2021/4-Expert/Jackal
    6
    6,R
   10,L,Z
-  32,R,J
-  15,R,X
-  36,L
-  17,R
+  10,R,J
+  16,R
+  13,R,X
+   1,R,J,G
+  34,R
   40
 
 #lvl_a10
-  10,R
-  13,R,X
-   1,R,J,G
+   7,R,D
+  10,R,Z
   11,R
-  14,R,Z
-  34,R,J
+   7,R,J
+  10,R,Z
+   1,R,J
+   7,R
+  20,R,J
+  19,R
   10,R,K,G
   14,R,Z
-  12,R,J
-   8,R
-  16,U,X
-  26,R
+  13,R,J
+   4,R,J
+  15,U,X
+  25,R
   14,R,Z
   32,R,J
    7,R,D
@@ -312,4 +316,4 @@ console load StrawberryJam2021/4-Expert/Jackal
   14,R,U,X
  136
 
-ChapterTime: 1:00.282(3546)
+ChapterTime: 1:00.010(3530)
