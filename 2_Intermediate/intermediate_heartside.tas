@@ -1,4 +1,4 @@
-RecordCount: 5626
+RecordCount: 5734
 
 console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1
@@ -500,12 +500,15 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
   13,U,X
   12,L,J
   20,L
-  14,L,Z
+   2,L
+   1,L,N
+   1,L,J
+   2,L
+  14,L,D,X
    1,R,J
-   5,R,D
-   1,D
-   6,R,D
-  21,R,D,J
+  12,R,D
+  17,R,D,J
+   4,R
   14,R,Z
   24,R,X
   15,R,C
@@ -564,20 +567,15 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
   40
 
 #lvl_cp2-3-glowwoomii
-   8,R,D,X
    1,R,J
-   7,R
-   1,R,J
-  14,R,D,X
-   5,R,J
-  15,R,D,X
-   1,R
-   1,D
-  12,R,J
-   7,R
-  21,R,G
+  14,R
+  10,R,J
+  19,R,D,X
+   3,R
+  15,R,D,J
+  18,R,G
   11,R,J,G
-   6,R,G
+   7,R,G
   16,R,J,G
   15,U,Z
    3,L,J,G
@@ -628,7 +626,7 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
   15,R,D
   15
   15,R,D
-  14
+  17
 #Spinner cycle
    1
   14,R,D
