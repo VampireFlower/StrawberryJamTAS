@@ -1,0 +1,31 @@
+console load StrawberryJam2021/0-Lobbies/3-Advanced -568 -888
+   1
+
+#Start
+  36
+   1,L,J
+  14,R,D,X
+   1,R,J
+  24,R,D,X
+   4,R,J
+  15,R,D,X
+   3,R,J
+  32,R,D,X
+   7,L,D
+  16,R,D
+  11,R,Z
+   1,R,J
+   4,R
+   1,R,K
+   2,R
+   3,R,J
+   1,J
+  13,R,U,Z
+   1,L
+   4,J,G
+   1,R,J
+   1,L,K,G
+   6,L,J,G
+   5,L
+   1,X
+#0:02.618(154)
