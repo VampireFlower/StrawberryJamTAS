@@ -1,4 +1,4 @@
-RecordCount: 1305
+RecordCount: 1373
 
 console load StrawberryJam2021/2-Intermediate/LegS
    1
@@ -54,34 +54,26 @@ console load StrawberryJam2021/2-Intermediate/LegS
    7,R
   19,R,J
   13,R,U,Z
-  21,R,G
-   1,L
-   8,R
-   1,R,J
-   3,R,D
-   9,D
-   2,R
-   4,L,Z
+  23,R,G
+   1,D
+  16,R
+   6,R,D
+  10,L,X
+  12,L,J
+  13,L,G
+  15,L,J,G
+   1,R
+  15,L,Z
    1,L,J
-   6,L
-  12,L,J
-StunPause
-  13,L,J
-SkipAutoInput,3,1
-  10,L,U,Z
-EndStunPause
-   3,L,U,Z
-   3,L
-   1,L,J,G
-   3,L
-   7
-  11,U,X
-  12,L,J
+   1,K
+  15,U,X
+   1,J
+   7,L,J
   40
 
 #lvl_LegS-B1
   11,L
-  10,L,D,X
+  13,L,D,X
    1,L,J
    4,L,K,G
    8,L,U,X
@@ -211,6 +203,8 @@ EndStunPause
    1,S
    1,D,O
   34
+#spinner cycle
+   1
    7,J
    9,R,J
   15,U,X
@@ -297,4 +291,4 @@ EndStunPause
   14,U,X
  135
 
-ChapterTime: 0:54.502(3206)
+ChapterTime: 0:52.802(3106)
