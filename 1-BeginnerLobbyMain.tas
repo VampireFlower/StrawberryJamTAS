@@ -1,0 +1,123 @@
+#This file was made based off the files in the BL folder.
+Unsafe
+#This will wipe the debug save!
+#Uncomment at your own peril.
+console clrsav
+console load StrawberryJam2021/0-Lobbies/1-Beginner
+EnforceMaingame
+   1
+
+#Start
+Read,1_Beginner_Lobby/beg_0-1,Start
+Read,EnterLevel,Start
+Read,1_Beginner/loopy_lagoon,Start
+  92
+
+Read,1_Beginner_Lobby/beg_1-11,Start
+Read,EnterLevel,Start
+Read,1_Beginner/forest_path,Start
+  92
+
+Read,1_Beginner_Lobby/beg_11-12,Start
+Read,EnterLevel,Start
+Read,1_Beginner/azure_caverns,Start
+  92
+
+Read,1_Beginner_Lobby/beg_12-10,Start
+Read,EnterLevel,Start
+Read,1_Beginner/if_my_driveway,Start
+  92
+
+Read,1_Beginner_Lobby/beg_10-9,Start
+Read,EnterLevel,Start
+Read,1_Beginner/treehive,Start
+  92
+
+Read,1_Beginner_Lobby/beg_9-8,Start
+Read,EnterLevel,Start
+Read,1_Beginner/rose_garden,Start
+  92
+
+Read,1_Beginner_Lobby/beg_8-2,Start
+Read,EnterLevel,Start
+Read,1_Beginner/collapsing_skyline,Start
+  92
+
+Read,1_Beginner_Lobby/beg_2-3,Start
+Read,EnterLevel,Start
+Read,1_Beginner/over_the_city,Start
+  92
+
+Read,1_Beginner_Lobby/beg_3-4,Start
+Read,EnterLevel,Start
+Read,1_Beginner/switchtube_vista,Start
+  92
+
+Read,1_Beginner_Lobby/beg_4-5,Start
+Read,EnterLevel,Start
+Read,1_Beginner/a_gift_from_the_stars,Start
+  92
+
+Read,1_Beginner_Lobby/beg_5-6,Start
+Read,EnterLevel,Start
+Read,1_Beginner/troposphere,Start
+  92
+
+Read,1_Beginner_Lobby/beg_6-7,Start
+Read,EnterLevel,Start
+Read,1_Beginner/potential_for_anything,Start
+  92
+
+Read,1_Beginner_Lobby/beg_7-13,Start
+Read,EnterLevel,Start
+Read,1_Beginner/the_squeeze,Start
+  92
+
+Read,1_Beginner_Lobby/beg_13-14,Start
+Read,EnterLevel,Start
+Read,1_Beginner/strawberry_orchard,Start
+  92
+
+Read,1_Beginner_Lobby/beg_14-15,Start
+Read,EnterLevel,Start
+Read,1_Beginner/paint,Start
+  92
+
+Read,1_Beginner_Lobby/beg_15-16,Start
+Read,EnterLevel,Start
+Read,1_Beginner/coresaken_city,Start
+  92
+
+Read,1_Beginner_Lobby/beg_16-17,Start
+Read,EnterLevel,Start
+Read,1_Beginner/dropzle,Start
+  92
+
+Read,1_Beginner_Lobby/beg_17-18,Start
+Read,EnterLevel,Start
+Read,1_Beginner/soap,Start
+  92
+
+Read,1_Beginner_Lobby/beg_18-19,Start
+Read,EnterLevel,Start
+Read,1_Beginner/seeing_is_believing,Start
+  92
+
+Read,1_Beginner_Lobby/beg_19-20,Start
+Read,EnterLevel,Start
+Read,1_Beginner/cassette_cliffs,Start
+  92
+
+Read,1_Beginner_Lobby/beg_20-21,Start
+Read,EnterLevel,Start
+Read,1_Beginner/midnight_spire,Start
+  92
+
+Read,1_Beginner_Lobby/beg_21-F,Start
+Read,1_Beginner_Lobby/beg_F-D,Start
+Read,1_Beginner_Lobby/beg_D-22,Start
+Read,EnterHeartSide,Start
+Read,1_Beginner/beginner_heartside,Start
+  61
+   1,O
+FileTime: 29:12.462(103086)
