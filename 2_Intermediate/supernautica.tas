@@ -1,4 +1,4 @@
-RecordCount: 1475
+RecordCount: 1480
 
 console load StrawberryJam2021/2-Intermediate/LegS
    1
@@ -88,8 +88,8 @@ console load StrawberryJam2021/2-Intermediate/LegS
 #lvl_LegS-3
    3,L,D,X
    1,L,J
-   6,L,D,X
-  52
+   6,L,U,X
+  50
    7,R,Z
    1,L,J
    5
@@ -283,4 +283,4 @@ console load StrawberryJam2021/2-Intermediate/LegS
   14,U,X
  135
 
-ChapterTime: 0:51.884(3052)
+ChapterTime: 0:51.850(3050)
