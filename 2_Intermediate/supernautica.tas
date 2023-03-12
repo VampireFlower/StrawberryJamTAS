@@ -1,4 +1,4 @@
-RecordCount: 1466
+RecordCount: 1475
 
 console load StrawberryJam2021/2-Intermediate/LegS
    1
@@ -50,6 +50,7 @@ console load StrawberryJam2021/2-Intermediate/LegS
   40
 
 #lvl_LegS-2
+
    1,R,J
    7,R
    8,R,J
@@ -195,7 +196,6 @@ console load StrawberryJam2021/2-Intermediate/LegS
   14,U,X
   40
 
-
 #lvl_LegS-6
    6
    5,R
@@ -206,7 +206,7 @@ console load StrawberryJam2021/2-Intermediate/LegS
    1,D,O
   34
 #Spinner cycle
-   1
+   0
    7,J
    9,R,J
   15,U,X
@@ -283,4 +283,4 @@ console load StrawberryJam2021/2-Intermediate/LegS
   14,U,X
  135
 
-ChapterTime: 0:51.901(3053)
+ChapterTime: 0:51.884(3052)
