@@ -1,4 +1,4 @@
-RecordCount: 8756
+RecordCount: 9019
 
 console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    1
@@ -557,54 +557,48 @@ AnalogMode,Precise
   14,R,Z
    1,R,J
    6,R
-  14,R,J
-   7,R,D,X
-   2,R,J,G
-   1,J
-   1,R,J
-   9,R
-   2,R,J
-  15,R,D,X
-   2,R
-   1,R,J
-   1,R,K
-   4,R
-   1
+  11,R,J
+  14,R,Z
+   4,R,J
+   7,R,K,G
+   5
+  15,D,X
    1,R
+   2,D
+   5,R,Z
+   1,R,J
    1,R,K
-   4,R
-   6,R,D,J
-   5,R
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
    2,R,K
+   8,R,J,G
+   6,R
+   3,R,K
+   4,R,J,G
    1,R
-   3,R,J
-   2,R
   13,R,U,X
    1,R,J,G
   12,R
    1,R,J
   14,R
-   1,R,J
-  14,R
    2,R,J
+   1,R
+   2
+   9,R,X
   40
 
 #lvl_cp3_14_heartside_asterisk
-   4,R
-   6,R,D,X
-   1,R,J,G
-   2,R
-   1
+   5,R,X
+  10,R,J,G
    5,R
+   4,R,K
+   2,R
    1,R,K
-   3,R
-   9,R,D,J
    5,R
-   1,R,K
-   2,R
-   1,R,K
-   2,R
-  11,R,U,X
+  13,R,U,X
   18,R,J,G
   53,R,X
    4,R,J
@@ -916,7 +910,7 @@ AnalogMode,Precise
    2,J
   10,R,J
 # spinner cycle (0-2)
-   0
+   2
 # -------------
    1,K
    1,R,J,G
@@ -2042,6 +2036,14 @@ endrepeat
   15,R,D,X
   10,R,D
   13,R,D,C
- 135
+  13
+  14,R,D
+  32,L,D
+   9,L,U
+Repeat 33
+   1,L,J
+   1,L,K
+EndRepeat
+   1
 
-ChapterTime: 4:34.040(16120)
+ChapterTime: 4:33.989(16117)
