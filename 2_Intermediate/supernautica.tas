@@ -1,11 +1,12 @@
-RecordCount: 1480
+RecordCount: 1762
 
 console load StrawberryJam2021/2-Intermediate/LegS
    1
 
+#Start
 #lvl_LegS-0
-  15,D,X
-  29
+   4,D,X
+  40
    7,L,Z
    1,R,J
    1
@@ -50,7 +51,6 @@ console load StrawberryJam2021/2-Intermediate/LegS
   40
 
 #lvl_LegS-2
-
    1,R,J
    7,R
    8,R,J
@@ -110,37 +110,45 @@ console load StrawberryJam2021/2-Intermediate/LegS
    6,L
   11,L,J
   14,L,U,Z
- 140
-   9,L,J
-   5,L,K,G
+ 139
+   1,L,J
+   8,L,K
+   6,L,J,G
   14,U,X
   11,L,J
   40
 
 #lvl_LegS-4
-   4
-   7,R
-   6,R,D,X
+   5,J
+   6
+   4,R,Z
    1,R,J
-   7,R
-  20,R,J
+   5,R
+   2,R,K
+  18,R,J
   12,U,X
   38
    7,R,Z
   29,R,J
-  21,R,U,J,G
-   1,L
-   7
-  16,R,D
-  12,R,X
-  71,R,G
-  12,R,J,G
-   3,R,K,G
-  12,L,J
-   7,J
-   5,R,X
+  13,R,G
+   5,R,U,J,G
+   3,R,U,G
+   6,L
+  18,R,D
+  11,R,X
+  63,R,G
    1,R,J,G
-  75,R,U,J,G
+   1,R
+   1,R,J
+   7,R
+   1,G
+   1,R,J
+   2
+   7,J,G
+  12,L,K
+   7,K
+   5,R,X
+  76,R,U,J,G
   16,R
    2,R,K,G
   12,J,G
@@ -205,48 +213,39 @@ console load StrawberryJam2021/2-Intermediate/LegS
    1,S
    1,D,O
   34
-#Spinner cycle
+# Spinner unload cycle
    0
-   7,J
+   5,J,AR
    9,R,J
   15,U,X
    5,R
   49,R,U,G
-   1,D
+   1,R,D
    6,R
    1,S
-   1,O
-   8
-  10,J
-   2
-  21,R,G
+   9,O
+  12,J
+  22,R,G
    1,D
    4,R
-   8
-   1,S
-   1,O
-   8
-   8,U,X
-  15,G
-  18,R,G
-   1,R,D
-  10,R
-   1
-   1,S
-   1,O
-   8
-   5,R,J
-  14,L,D,Z
+   6
    1,S
    9,O
-   2,R,J
-   6,R,D,Z
+  11,U,X
+  21,R,G
+   1,R,D
+  25,R
+  14,L,Z
+   1,S
+   9,O
+   3,R,J
+   5,R,D,Z
   13,R,G
    1,S
    9,O
-  50,R,J,G
-   5,G
-   2,D,G
+  57,R,J,G
+   1,R,U,G
+   1
    7,R
   14,R,U,Z
   21,R,G
@@ -265,8 +264,8 @@ console load StrawberryJam2021/2-Intermediate/LegS
    6,D
   16,U,X
   30,U,G
-  27,R,U,G
-  10,U,G
+  28,R,U,G
+   8,U,G
   40
 
 #lvl_LegS-7
@@ -275,12 +274,12 @@ console load StrawberryJam2021/2-Intermediate/LegS
    8,L,D,X
    1,R,J
    7,R
-   8,R,K,G
-   7,R,J,G
+   8,R,J
+   7,R,K,G
   12,R
-  17,R,Z
-   7,R
+  15,R,Z
+   9,R
   14,U,X
  135
 
-ChapterTime: 0:51.850(3050)
+ChapterTime: 0:51.527(3031)
