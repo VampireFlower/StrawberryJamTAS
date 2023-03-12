@@ -1,0 +1,50 @@
+console load StrawberryJam2021/0-Lobbies/4-Expert 2920 -936
+   1
+
+#Start
+  36
+   1,R,J
+   1,R
+   9,R,D,X
+   7,R,J
+   6,R
+   8,R,J
+  13,R,Z
+   1,R,J
+   2,R,K,G
+   1
+   1,R,J,G
+   4,R
+   1,R,J,G
+   5,R
+   9,R,J,G
+#  refresh dash
+#  17,R,D,X
+#   1,R,J
+#  15,R,D,X
+  15,R,D,X
+   1,R,J
+   1,R
+# doesn't get speed boost
+  24,R,D,X
+   1,R,J
+   1,R
+   1,R,K,G
+  18,R
+  15,D,X
+   8,R,D
+  13,R,Z
+   1,L,J
+   1,L
+  15,L,D,X
+   1,L
+   1,L,D
+   6,L
+   3,L,D
+   8,L
+   1,L,J
+  14,L,D,X
+   1,L,J
+  15,D,X
+   1,N
+#0:03.536(208)
