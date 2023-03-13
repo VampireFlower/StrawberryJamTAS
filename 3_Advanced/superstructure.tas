@@ -1,4 +1,4 @@
-RecordCount: 3235
+RecordCount: 3256
 
 console load StrawberryJam2021/3-Advanced/Goldian
    1
@@ -6,7 +6,7 @@ console load StrawberryJam2021/3-Advanced/Goldian
 #Start
  190
 #spinner cycle
-   2
+   3
 #lvl_start
    4,R,D,X
    1,R,J
@@ -40,12 +40,13 @@ console load StrawberryJam2021/3-Advanced/Goldian
   12,R,J
    2,R
   15,U,X
-   5
+   1
+   2,R
    1,R,J
   13,R,G
    8,R,J,G
    5,L,J,G
-   6,L,G
+   7,L,G
    8,R,J,G
    5,R,G
    9,R,J,G
@@ -53,7 +54,8 @@ console load StrawberryJam2021/3-Advanced/Goldian
    6,R,J,G
    5,R
    1,R,J
-  34,R
+   2
+  32,R
    1,R,J,G
    1,R,K,G
    5,R
@@ -73,11 +75,11 @@ console load StrawberryJam2021/3-Advanced/Goldian
    4,R
    4,R,D,X
    1,R,J
+   1
   40
 
-
 #lvl_goldian-1
-   7,R
+   6,R
   11,R,J
   10,R,Z
    1,R,J
