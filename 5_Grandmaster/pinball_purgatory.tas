@@ -161,18 +161,25 @@ console load StrawberryJam2021/5-Grandmaster/maya
   14,L,U,X
   19,R
   15,R,D,X
-  33,R,J
+  19,R,J
+   2,R
+   3,R,J
+   7,R
   18,R,X
-  13,R,Z
-   2,R,J
+  12,R,Z
+   3,R,J
   15,R,D,X
-  14,R,J
-  10,J
+  11,R,J
+   7,R
+   2,R,J
+   3
+   1,R
   17,L
-  21,L,D,X
-  15,L,J
+  22,L,D,X
+  16,L,J
   14,L,U,X
-  31,L,J,G
+  20,L,J,G
+   7,L
   15,L,U,X
   17,R
   14,R,U,X
@@ -736,4 +743,4 @@ console load StrawberryJam2021/5-Grandmaster/maya
    4,X
  135,D
 
-ChapterTime: 2:39.579(9387)
+ChapterTime: 2:39.511(9383)
