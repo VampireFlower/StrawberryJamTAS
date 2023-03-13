@@ -1,4 +1,4 @@
-RecordCount: 3074
+RecordCount: 3143
 
 console load StrawberryJam2021/3-Advanced/MousseMoose
    1
@@ -402,55 +402,39 @@ endrepeat
 
 #lvl_b2
    9,D
-   1,R
-  15,D,X
-  15,D,C
-   6,L,D,X
+  14,R,Z
+  10,L,J
+   1,J
+  14,L,U,X
+   1,J,G
+   1,L,J
+   2,J
+   1,L,J
+   3,J
+   1,R,J
+  31,R,D
+   4,R,C
+   4,R,J
+   9,R
+   1,R,K
+   9,R
+  16,R,D
+  12,R,D,X
    1,R,J
    7,R
-   7,R,J
-   2,R
-   9,R,J,G
-  12,R,K,G
-  11,R,J,G
-  13,R,K,G
-   4,R
-  14,U,X
-   9,J
-  44,L
-   7,D
-  23
-   4,L,J
-  19,L
-   6,L,J
-  24,L
-   1,L,J
-  14,L
-   1,L,J
-  14,L
-  11,L,J
-  15,L,U,X
-  17,L
-  15,R,X
-  24,R,D
-  15,R,X
-  15,D,C
-  11,R,D
-  14,R,Z
-   1,R,J
-  14,R,D,X
-  15,R,J
+  19,R,J
 
 #lvl_b3
-  15,L,D,X
-  14,L,Z
-   1
-  15,D,Z
-   4,L
-  14,U,C
-  23,L
-  14,U,X
-  21,L
+  13,L,D,X
+   3,L,J
+   1,L
+   3,L,K
+   3,L
+  15,U,C
+   1,L
+  16,L
+  15,U,X
+  19,L
   10,J
   14,L,U,X
   15,D,X
@@ -460,7 +444,8 @@ endrepeat
   15,D,X
   10,L,Z
   10,L
-  19,D
+  17,D
+   2,L
    8,R,Z
    1,L,J
    6,L
@@ -542,7 +527,9 @@ endrepeat
    9,R,D
   30,R,X
   15,L
-  14
+  11
+   2,L
+   1
   15,L,D,X
   14,R,C
    1,R,J
@@ -554,7 +541,8 @@ endrepeat
    3,L
   18,L,J
   29,L,Z
-   7,L
+   4,L
+   3
   14,L,Z
   14,L,J
   15,L,U,X
@@ -566,6 +554,8 @@ endrepeat
    1,L,J
    8,L
   42,L,D,X
+# use floor under spinner on left
+# side -> demo could work?
   48,R,D
   11,R,D,X
   20,R,J
@@ -573,7 +563,7 @@ endrepeat
   30
   15,L,X
   20,R
-  42
+  43
    4,L
   10,R,X
   12,L,J
@@ -639,6 +629,5 @@ endrepeat
    4,R,J
   15,R,K
  140,R,X
-   
 
-ChapterTime: 2:06.174(7422)
+ChapterTime: 2:01.193(7129)
