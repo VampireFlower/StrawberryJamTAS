@@ -1,22 +1,23 @@
-RecordCount: 3065
+RecordCount: 3235
 
 console load StrawberryJam2021/3-Advanced/Goldian
    1
 
 #Start
  190
-
+#spinner cycle
+   2
 #lvl_start
    4,R,D,X
    1,R,J
    7,R
-  10,R,J
-  15,R,U,X
-   9,R
-  14,U,X
-  15,R
+   5,R,J
+  15,U,X
+  13,R,J
+  11,R
+   1,R,J
    6,R,Z
-   1,J
+   1,R,J
    7,R
    1,R,J
   14,R,D,X
@@ -108,16 +109,15 @@ console load StrawberryJam2021/3-Advanced/Goldian
    1,R,K,G
   11,R,K
    9,R
-  14,U,X
+  13,U,X
    4,J
-   3,R,J
-  14,R
+   4,R,J
+  11,R
    6,R,Z
    1,R,J
    7,R
    3,R,J
-  14,R,D,X
-   1,R
+  15,R,D,X
    4,R,J
   40
 
@@ -162,7 +162,6 @@ console load StrawberryJam2021/3-Advanced/Goldian
    5,R,D,X
   40
 
-
 #lvl_goldian-3
    8,R,D,X
    1,R,J
@@ -177,9 +176,9 @@ console load StrawberryJam2021/3-Advanced/Goldian
   19,R,J,G
    8,R,G
    1,D
-  10,U,X
+  11,U,X
   15,G
-  28,R,G
+  26,R,G
   14,R
    6,R,D
   12,D
@@ -205,9 +204,7 @@ console load StrawberryJam2021/3-Advanced/Goldian
   13,R,D,X
   10,R,J
   12,R
-  12,R,J
-   5,R
-   8,R,K
+  25,R,K
    1,J
   11,R,J
    5,R
@@ -231,8 +228,6 @@ console load StrawberryJam2021/3-Advanced/Goldian
    1,R,J
   13,R,D,X
   40
-
-
 #lvl_goldian-4
    1,R,D,X
    1,R,J
@@ -289,9 +284,8 @@ console load StrawberryJam2021/3-Advanced/Goldian
    8
   26,R,D
   14,R,Z
-   5,R,J
-   6,R
-  15,R,D,X
+   8,R,J
+  16,R,D,X
    1,R,J
   14,R,D,X
    1,R,J
@@ -347,7 +341,6 @@ console load StrawberryJam2021/3-Advanced/Goldian
    1,R,J
    9,R,D,X
   40
-
 
 #lvl_goldian-5
    4,R,D,X
@@ -493,39 +486,31 @@ console load StrawberryJam2021/3-Advanced/Goldian
    7,R
   11,R,J
   17,R
-  14,R,U,Z
-   7,R,J
-   6,L,J
+  22,R,U,Z
+   4
    1,K
   11,L,K
    5,L
    8,L,J
   12,R,K
   12,R
-   6,R,Z
+  10,R,Z
    1,R,J
-   7,R
-   1,R,J
-   5,R,D,X
+   5,R
   40
 
 
 #lvl_goldian-7
-   3,R,D,X
-   1,R,J
-   6,R
-  15,R,D,X
-   1,R
+   2,R
+   2,R,J
+  18,R,D,X
   11,R,J
   15,R,D,X
-   4,R
-  15,R,D
-   5,R
-   1,R,D
-   7,R
-  14,U,X
-  16,R,J
-   9,R
+  25,R
+   3,R,D
+   8,R
+  13,U,Z
+  26,R,J
   15,R,X
   18,R,D
   13,D
@@ -535,38 +520,37 @@ EndStunPause
    2,R,D
   40
 
-
 #lvl_end
-   7,R,D
-  10,R,D,X
+  10,R,D
+  14,R,D,X
    1,R,J
-   4,R
-  15,R,D,X
-   2,R
+  16,R,D,X
    1,R,J
    1,R
-  15,R,D,X
-   3,R
-Repeat,2
+  18,R,D,X
+Repeat,3
    1,R,J
   14,R
 EndRepeat
-Repeat,9
+Repeat,6
    1,R,J
   14,R,D,X
 EndRepeat
-   9,R,J
-   7,R,D,X
-   1,R,J,G
-  14,R
    1,R,J
+  12,R,D,X
+   1,R,J
+   7,R
+   5,R,J
   14,R,D,X
    1,R,J
   14,R,D,X
-   2,R,J
-  11,R,U,Z
-   1,L,J,G
-   3,R,J,G
+   1,R,J
+  14,R,D,X
+   1,R,J
+   7,R
+   8,R,J
+   1,L,K,G
+   6,R,J
    7,R
    7,R,J
   10,R,X
@@ -574,4 +558,4 @@ EndRepeat
   10,R,U,X
  135
 
-ChapterTime: 1:20.954(4762)
+ChapterTime: 1:20.529(4737)
