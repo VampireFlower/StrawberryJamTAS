@@ -1,4 +1,4 @@
-RecordCount: 2947
+RecordCount: 3017
 
 console load StrawberryJam2021/4-Expert/Appels
    1
@@ -473,18 +473,21 @@ endRepeat
   35,R,C
    5,L,K
   18,L,G
-  10,G
-  39,C,G
-  16,R,J
-  21,L,G
-  18,L
+   7,R,G
+  30,R,C,G
+   9,C,G
+  13,R,J
+  21,L,D,G
+   1,L
+  18,L,D
   51,L,X
    5,R,J
-   9,K
-  17,L,G
-  28,X,G
+   7,K
+   2,R,K
+  17,L,J,G
+  31,X,G
    1,D
-  55,U,X
+  53,U,X
    1,R,J
   11,U,C
   40
@@ -760,5 +763,5 @@ endRepeat
 
 
 
-ChapterTime: 2:10.237(7661)
+ChapterTime: 2:10.169(7657)
 
