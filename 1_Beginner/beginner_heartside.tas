@@ -1,4 +1,4 @@
-RecordCount: 9019
+RecordCount: 9175
 
 console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    1
@@ -1311,43 +1311,50 @@ endstunpause
   13,R,K,G
    6,R,D,X
    1,R,J,G
-  16,R
-   4,R,J
-   1,J
-  15,R,D,X
-   8,R,D
-   1,D
-  11,R,D
-   6,R
+  17,R
+   1,R,J
+   2,R
+  14,R,U,X
+   1,R,J,G
+   9,R,J
+   5,J
+   3
+   3,R
+  15,D,X
+   2,R
+   9,R,D
+   5,R
+  13,R,Z
+   2
    1,L,J,G
-   3,R,J
-   4,J
-  13,R,X
-  13,R,J
-  15,U,X
-  25,L
-  15,U,X
-
-   9,L
-   1,J
-   1,K,G
+   1,L,K,G
    1,L,J,G
-   6,R,J
-  31,R
-   6,R,D,J
+   4,K
+   2,R,K
+  14,R,U,Z
+   5,R,K,G
+   9,R
+   1,R,J
+   3,R
+   8
+   9,R,U,X
   40
 
 #lvl_cp5_06_heartside_CoupCritik1
-   2,R,J
-  14,R,U,X
-   9,R
+   2,R,U,X
+   1,L,U,X
+   1,J,G
+   4,J
+   9,R,J
+   6,R
    1,R,K,G
   22,R,J,G
   11,R
   10,R,D
    2,D
    8,R,D
-   5,R
+   4,R
+   1,R,D
    7,R,J
    1,K
    5,R,K
@@ -1358,7 +1365,7 @@ endstunpause
    1,J
    1,R,J
    9,R
-   1,R,K
+   1,R,J
    3,R
   12,R,J
    1,L,J
@@ -2046,4 +2053,4 @@ Repeat 33
 EndRepeat
    1
 
-ChapterTime: 4:33.989(16117)
+ChapterTime: 4:33.156(16068)
