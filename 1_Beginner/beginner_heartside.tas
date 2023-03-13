@@ -1,4 +1,4 @@
-RecordCount: 9175
+RecordCount: 9214
 
 console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    1
@@ -1333,28 +1333,31 @@ endstunpause
    2,R,K
   14,R,U,Z
    5,R,K,G
-   9,R
+   5,R
+   2,R,J
+   1,R
    1,R,J
-   3,R
-   8
+   6,R
+   6
    9,R,U,X
   40
 
 #lvl_cp5_06_heartside_CoupCritik1
    2,R,U,X
    1,L,U,X
-   1,J,G
-   4,J
-   9,R,J
-   6,R
+   5,J,G
+  10,R,J
+   1
+   3,R
    1,R,K,G
-  22,R,J,G
-  11,R
-  10,R,D
-   2,D
-   8,R,D
-   4,R
-   1,R,D
+  20,R,J,G
+  14,R
+   5,R,D
+   3,D
+   3,R,D
+   1
+   1,D
+  11,R,D
    7,R,J
    1,K
    5,R,K
@@ -2053,4 +2056,4 @@ Repeat 33
 EndRepeat
    1
 
-ChapterTime: 4:33.156(16068)
+ChapterTime: 4:33.139(16067)
