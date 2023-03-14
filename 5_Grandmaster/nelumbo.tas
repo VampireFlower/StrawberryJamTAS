@@ -1,4 +1,4 @@
-RecordCount: 1336
+RecordCount: 1368
 #by Topaz
 console load StrawberryJam2021/5-Grandmaster/tofu
    1
@@ -30,13 +30,13 @@ console load StrawberryJam2021/5-Grandmaster/tofu
   16,R,D,X
    3,R,J
   14,R,U,X
-  70,R,U,G
-  69,R,G
+  81,R,U,G
+  48,R,G
    1,L
-   7,R,J
-  14,U,X
+   9,R
    9,R,J
-  11,K
+  14,U,X
+  16,R,J
   40
 
 #lvl_Veranda
@@ -53,10 +53,8 @@ stunpause
    4,R,U,X
    1,L,J,G
   10,R
-   1
-   1
 endstunpause
-   4
+   6
    1,L,J
    7,L
   15,U,X
@@ -187,16 +185,16 @@ endstunpause
    6,R
   14,L,Z
    1,R,J
-  15,R,D,X,P
+  15,R,D,X
    3,R,J
    8,R
   40
 
 #lvl_Opulence
-   1,R,J
-  16,R
-   1,R,J
-   2,R
+   3,R,J
+   5,R
+  11,R,K
+   3,R,J
   14,L,Z
    1,R,J
   13,R,X
@@ -368,4 +366,4 @@ endstunpause
    1,R,J
   12,R,U,X
  135
-ChapterTime: 1:05.773(3869)
+ChapterTime: 1:05.569(3857)
