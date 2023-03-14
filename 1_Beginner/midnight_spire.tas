@@ -1,4 +1,4 @@
-RecordCount: 2157
+RecordCount: 2244
 
 console load StrawberryJam2021/1-Beginner/joltik
    1
@@ -449,12 +449,10 @@ endstunpause
   10,R,K
    2,R
   15,U,C
-  12,L,K,G
-   2,L,J,G
+  11,L,K,G
+   1,L,J,G
+   2,R,J
    7,L
-#+1f doesn't land enough left
-   1,L
-###
   21,L,K
   14,U,Z
   11,K
@@ -481,4 +479,4 @@ endstunpause
   15,J
  153,U,C
 
-ChapterTime: 1:05.484(3852)
+ChapterTime: 1:05.467(3851)
