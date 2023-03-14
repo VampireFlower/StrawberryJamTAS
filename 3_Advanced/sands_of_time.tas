@@ -1,4 +1,4 @@
-RecordCount: 2782
+RecordCount: 2940
 
 console load StrawberryJam2021/3-Advanced/astraxel
    1
@@ -367,70 +367,53 @@ console load StrawberryJam2021/3-Advanced/astraxel
    7,R,D,X
    1,R,J,G
   14,R
-  10
-   4,R
-  24
-  14,R,Z
+  23,R
+  70,D
+   6,R
    1,L,J
-   7,L
-   6,L,D,J
-  10,L,J
-  22,L
-   1,G
-   3,R,J
-   3,R
-  12,R,D,X
-  25,R,J
-  15,U,X
-#Couldn't find a way to ignore
-#this time crystal
-  16,L,J
-   7,L
+   6,L,D,X
+   2,L
    1,L,J,G
-   1,L,K,G
-  10,L
+  11,L
+   9,L,D,X
+   1,R,J
+   6,R
+  19,R,J
+  15,U,X
+  16,L,J
+   7,L,Z
    1,L,J
-  14,L
+   7,L
    1,L,J
-  14,L
-  12,L,J
-   3,L,K,G
-   1,L
-   4,L,K,G
-   5,R,K
-  21,R,J
-   1,K,G
-   1,R,K
-   4,R
-   6,J,G
+  11,R,J
+  14,U,X
+   8,L,J
+  27,R,K
+   5,L
+  17,L,X
+  18,U,C
+   8,U,X
+   7,R,J
+  18,R,X
+  10,R,D,C
+   7,R,J
+   2,R
+   3,R,J
+   8,R,Z
+   1,R,J
+   6,R
+   3,R,J
+  15,U,X
+  16,L,J,G
+   7,L,Z
    1,L,J
    6,L
-   7,L,J
-  19,L,U,Z
-   9,U,X
-   5,R,J
-  11,R
-   3
-  14,R,D,X
-   7,R,J
-   3,R
-   2,R,J
-   5,R
-   1,R,K,G
-  10,R
-   5,R,J
-  15,R
-   9,U,X
-  27,L,J
-   7,L,D,X
-   1,L,J
-   7,L
-   3,L,J
-  16,L
-  20,L,J,G
-  13,U,X
-  31,R,J
-  17,R,U,X
+  11,L,J
+  12,L,D,X
+  15,L,J
+  17,U,X
+  32,R,J
+  19,R,U,X
   15,R,C
   11,R
   40
@@ -477,4 +460,4 @@ console load StrawberryJam2021/3-Advanced/astraxel
   16,U,X
  135
 
-ChapterTime: 1:07.728(3984)
+ChapterTime: 1:06.844(3932)
