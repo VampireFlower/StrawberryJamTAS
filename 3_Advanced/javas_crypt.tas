@@ -1,12 +1,15 @@
-RecordCount: 2403
+RecordCount: 2470
 
 console load StrawberryJam2021/3-Advanced/Tortoise
    1
 
 #Start
- 300
+#lvl_0b
+ 146
+  40
 
 #lvl_0
+ 114
    1,S
    1,D,J
   34
@@ -79,32 +82,32 @@ console load StrawberryJam2021/3-Advanced/Tortoise
 #vamp's idea in the video was to overclock here and then somehow land crounched in the 1 tile gap on the left of the falling block
 #I could not get this to happen and decided to leave this for later(or never look at it again)
 #Vamps video: https://discord.com/channels/403698615446536203/1074148152317321316/1079990477710954497
-   2,L
-   3,L,K
-   1,R,J
-  12,R,K,G
-   7,J,G
-   2,L,J
-   6,L,K
-   4,L,J,G
-   4,L,K,G
-   4,L,J,G
+#   2,L
+   4,L,K
+  14,R,U,X
+   1,J
+   6,L,J
    1,L,K,G
-   5,L
-   5,L,J
-   7,L
-   6,R
-   5,L,K
-  10,L
+   6,L,J,G
+   5,L,K,G
+   6,L,J,G
+   6,L
+   1,L,J
+   2,L
+   1,L,J
+   8,L
+   1,L,J
+  12,L
   13,L,U,Z
    1,R,J,G
-  10,L,K
-   3,L
-   1,R,J
-   4,R,K
-   7,R
+  12,L,J
+   2,K,G
+   1,J
    1,K
-   1
+   1,R,K
+   5,R
+   5,R,J
+   1,R
    4,R,Z
    1,R,J
    6,R
@@ -148,6 +151,7 @@ console load StrawberryJam2021/3-Advanced/Tortoise
    1,L,J
   13,L,D
   21,D,X
+
 #lvl_3
    3
    1,J
@@ -185,7 +189,6 @@ console load StrawberryJam2021/3-Advanced/Tortoise
    1,L,J
    7,L
   19,R
-
   15,R,Z
   14
   10,R,D,X
@@ -271,11 +274,11 @@ console load StrawberryJam2021/3-Advanced/Tortoise
    6,R,J
   15,R,D,X
    4
+
 #lvl_4
    4,R,J
    9,R,D
    8,D
-
   15,U,C
    8,L,J
    7,R,J
@@ -415,6 +418,7 @@ endRepeat
    7,R
    2,R,J
   18,R,D,X
+
 #lvl_5
    1,J
    1,L,K
@@ -440,7 +444,10 @@ endRepeat
    7,L
    1,L,J
    2,L
+
+#203
   43
+
 #lvl_6
   12,L
    3,L,J
@@ -466,4 +473,5 @@ endRepeat
    5,J
    4,R,X
  135
-ChapterTime: 0:59.653(3509)
+
+ChapterTime: 0:59.449(3497)
