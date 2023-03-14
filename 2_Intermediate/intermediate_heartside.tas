@@ -1,4 +1,4 @@
-RecordCount: 5734
+RecordCount: 6062
 
 console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1
@@ -419,7 +419,7 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    2,R,K,G
   16,R
   16,R,J
-  40
+  43
 
 #lvl_cp2-1-SpoopySoup
    2,R
@@ -663,8 +663,38 @@ EndStunPause
    1,R,J
   20,R,K
   15,U,X
+#removing stunpause loses 3f
+#  15,R,U,C
+#   8,R
+#  15,R,X
+#   6,R
+#  15,R,D,X
+#   3,R
+#  13,R,D
+#   1,R
+#  18,R,Z
+#   6,J
+#   2,R,J
+#   2,K
+#  10,R,K
+#  18,R,U,X
+#  15,U,C
+#   2
+#  14,R,J
+#   5,L,J
+#   2,J
+#   3,K
+#   2
+#   3
+#  15,L,X
+#   9,L,D
+#  10,L,Z
+#  10,L,J
+#  15,L,U,X
+#   9,L
+#   3
+#------------
   17,R,U,Z
-#stunpausing save ~20f
 StunPause
    4,R
 SkipInput,3,1
@@ -679,6 +709,7 @@ EndStunPause
    1,K
   12,R,J
   10,R
+#------------
   16
   12,J
  125,U,X
@@ -1367,16 +1398,17 @@ EndRepeat
   15,D,X
   12,L,D
   25,L,X
-  86,R,C
+  85,R,C
   15,U,X
-  14,R,C
-  17,L
-  47,R
+  15,R,C
+  18,L
+   6
+  36,R
+  24,R,J
   14,R,X
-  38,R,D,G
-  20,R,U,G
-  10,L,U,G
-  32,L,D,G
+  19,R,D,G
+  48,L,D,G
+  16,L,G
   30,R,X,G
   16,U,C,G
   33,R
