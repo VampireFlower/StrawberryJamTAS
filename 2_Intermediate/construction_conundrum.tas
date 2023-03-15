@@ -1,7 +1,8 @@
-RecordCount: 4011
+RecordCount: 4305
 
 console load StrawberryJam2021/2-Intermediate/thebreadstick1
    1
+
 #Start
   91
 
@@ -232,92 +233,122 @@ EndRepeat
    9,L,D
   24,R,D
    6,R
-  14,R,Z
+  13,R,Z
    1,R,J
-   6,R
+   7,R
   40
 
 #lvl_a-005 (0)
+   1,R,N
+   1,R,J
    2,R
-   1,X
-   3,R,J
-   7,R,D,X
+   6,R,D,X
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+  11,R,J,G
+   5,R
+   4,R,J
+  15,U,Z
+   2,R
+   1,J,G
+   4,R,J,G
+   1,L,J,G
+   6,R,J,G
+   2,R,K,G
+   1,L,K,G
+   1,R,K,G
+   1,L,K,G
+   1,R,K,G
+   1,L,K,G
+   1,R,K,G
+   1,L,K,G
+   1,R,K,G
+   2,L,K,G
+   1,R,K,G
+   5,J,G
+   1
+   6,R
+   8,R,Z
    1,R,J
    7,R
-   5,R,J
-   1,R
-  40,R,J
-  16,R,X
-  32,L,J
-  15,L,U,X
-  11,L,J
-  15,L,X
-  10,L,J
-   1,R,K
-   1,R
-   8,R,J
-   6,R
-  15,U,X
-   1,R
-   9,R,J
-  13,L,J
-  14,R,U,X
+   8,R,D,J
+   3,R
+   1,L
+   3,J,G
    1,R,J,G
-  13,R
-  10,R,D,X
-  11,R,J
-  13,U,X
-  15,R,J
-  12,K,G
-   6,L,J
-  15,L,X
-  21,L
-   4,L,D,X
-   9,L,J
-   7,L
-   2,R,J
-   8,R
-   7,J
-   3,L,J
-   7,L
-   1,G
-   4,J
-   6,L,J
   15,U,X
-  16,L,J
-   8,R,K
-  15,R,X
-   9,R,J
-   1,R,K
-  20,R
-  14,U,X
-  11,J
-  10,R,Z
-   5,R,J
-   7,U,X
-   1
-   7,J,G
-  15,U,X
-   1,R
-   9
-   2,L,J
-  11,R,Z
-   1,L,J
-   4,L,K,G
-  29,L
-   8,L,U,Z
-   1,R,J,G
-   1,L,J
+   8,L,J,G
+   7,L
+   2,J
+   2
+   5,L,X
+  10,L,J,G
+   3,L
+  15,L,D,X
+   6,L,J
    5,L
-  11,L,U,X
+   2,L,J
+  15,L,U,X
+   2
+   4,L
+   7
+  10,J
+   5,L
+  12,U,X
+   1,R,J
+  18,R
+   8,R,J,G
+   5,R
+   2,R,J
+  18,R,D
+   4,R,J
+  12,U,X
+   8,R,J
+  11,R
+  13,R,X
+   2,L,J
+  15,U,X
+   5,R,J,G
+   2,R
+   1,K,G
+   6,R
+   1,L
+  19,L,J
+   2,L
+   1,L,J
+
+  15,U,X
+   3,L
+   1,L,J,G
+   7,L
+   7,R,Z
+   1,L,J
+  12,L,D
+   2,L,J
+   1,R,J
+   2,K,G
+   1,L,K,G
+  12,L,U,X
    1,K
    7,R,J,G
   11,R
-  21,R,U,X
-  10,R,D,C
-  12
-   5,L
-  13,R,D,X
+   2,R,J
+  14,U,Z
+   1,L
+   1,J,G
+   5,R
+  11,D,X
+   1,J
+  13
+   4,X
+  13,D,X
+   2
+   1,J
+   7,L,D
+   5,D
+  14,R,D,X
    5,L,J
   15,L,D,X
    1,L,J
@@ -341,95 +372,89 @@ EndRepeat
    1,R,K,G
    4,L,K
    7,K
-  18,U,X
-  12,J,G
-   6,K,G
-   6,L
-   1
-   5,D,X
-  36
-   5,D,X
+  15,U,X
+   3,L
   12
-   1,J
+  12,L,J,G
+   1,L,K,G
    9,L
+  17,D,X
+   1,L,J
+   3,L,D
+   3,D
+   1,L,D
+   2,D
   15,D,X
   28,L,D
    9,L,X
    1,L,J,G
    1,L,K,G
-   3,L,K
+  14,L,G
+   4,L,D,G
+   1,L
+   1,J,G
+   1,K,G
+   1,J,G
    7,L
-   7,L,Z
-   1,L,J
-   7,L
-   1,L,J
-  16,L,D,X
-   3,L,J
-   2,L,K,G
-   7,L
+   2,R,D,J
+
+  15,L,D,X
+   3,R,J
   40
 
 #lvl_a-007
-   7,L
-  15,L,J
-   5,L
-   1,L,J
-   9,L
-  10,D,X
-  24,J
-  15,U,X
-  10,J
-  18,U,J,X
-   1,J
-   8,R,J
-   1,R,K,G
+   1,R,J
+   4,R
+   1,L
+   2,L,J
+  16,L,U,X
+   2,R
+  15,L,X
+  12,L
+  12,D,X
+   1,R
+  23
+   1,R
+  24,U,X
+  15,U,C
+   1
+   8,R
    1,R,J,G
-  42,R,J
-  40,R,K
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   6,R,J
-   5,R
-   3,R,J
+   6,R,K,G
+  22,R
+   4,R,D
+   4,R,Z
+   9,R,J
    3,R
-  16,R,J
-   3
-  12,J
-   6
-   1,R
-   1,R,D,J
-  12,R,J
-   1,R
-# climb sequence from https://pastebin.com/QFz3qjmp
-   1,J,G
-# changed bc subpixel madness
-   3,R,J
-   6,J
+  10,R,Z
    1,R,J
-   1,L,J
-   1,R,J
+   7,R
+  10,R,J
+  15,U,X
+   5
+  19,R,J
   13,R,K,G
-   1,J,G
-   3,R,J
-   5,J
-   1,R,J
-   1,L,J
-   1,R,J
-  14,R,K,G
-   2,J,G
-  10,L,J
-   3,R,J
-   1,R,K,G
-Repeat, 5
-   1,L,K
-   1,K
-EndRepeat
-  14,J
-   3
+  13,R,J,G
+  13,R,K,G
+   1,J
+   2,K,G
+   6,L,K,G
+   5,R,K,G
+   1,R,J,G
+   1,L,J,G
+   1,R,J,G
+   1,L,J,G
+   1,R,J,G
+   1,L,J,G
+   1,R,J,G
+   1,L,J,G
+   1,R,J,G
+   1,L,J,G
+   1,R,J,G
+   1,L,J,G
+  12,K
+   6,J
   15,D,X
-# note: i wasn't sure how to optimise this, there is probably free timesave here
   32,D
   11,L,D,X
    1,L,J
@@ -725,4 +750,4 @@ EndRepeat
   13,L,U,X
  135
 
-ChapterTime: 1:44.533(6149)
+ChapterTime: 1:40.606(5918)
