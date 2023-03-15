@@ -1,4 +1,4 @@
-RecordCount: 3907
+RecordCount: 3985
 console load StrawberryJam2021/4-Expert/spirialis
    1
 
@@ -197,6 +197,7 @@ endrepeat
    9,R,D,J,G
   13,R,D,X,G
   40
+
 #lvl_3-2
   30,R,G
    1,K,G
@@ -263,25 +264,27 @@ endrepeat
    1,R
    1,R,J,G
    8,R
-   3,R,G
+   4,R,G
    2,R,J,G
    5,R,G
 #scaling up left block is eighth pixel precise. didn't manage
-  13,R,J,G
+  12,R,J,G
    1,K,G
-  24,R,K,G
-   2,J,G
-  15,U,Z,G
-   5,R,G
-  10,J,G
-  15,L,J,G
-   2,L,G
+   1,J,G
+  22,R,J,G
+  14,U,Z,G
+   6,R,G
+   6,J,G
+  10,L,J,G
+  10,L,G
    9,R,Z,G
    1,R,J,G
    7,R,G
   10,R,J,G
    6,R,U,Z
   40
+
+#lvl_6
    9,R,U,Z
   13,R,D,X
    2,R,G
@@ -340,7 +343,7 @@ endrepeat
    1,R
    5
    1,D,G
-  10,R,Z,G
+   4,R,Z,G
    1,R,Z
    1,R,J
    1,R,K
@@ -434,7 +437,6 @@ endrepeat
 
 #lvl_8
    8,R,J,G
-
   10,R,Z,G
    5,R,J,G
   12,U,X,G
@@ -543,4 +545,4 @@ endrepeat
   14,R,U,X
  135
 
-ChapterTime: 1:08.170(4010)
+ChapterTime: 1:08.000(4000)
