@@ -1,4 +1,4 @@
-RecordCount: 3157
+RecordCount: 3391
 
 console load StrawberryJam2021/5-Grandmaster/xlibiza
    1
@@ -232,7 +232,7 @@ EndStunPause
   15,R,D,X
    1,R,J
   43
-   
+
 #lvl_a-03
    2,R,J
    1,R,K,G
@@ -241,63 +241,60 @@ EndStunPause
   21,R,J
   13,U,X
   10,R,C
-   2,R,J,G
-  10,R,K,G
+  12,R,J,G
   18,R
    8,R,D
-  18,D,Z
-  15,L,X
+  18,D,X
+  14,L,C
+   1
   15,L,D,C
   18,L,X
   15,R,C
   15,D,X
-   4,R,D,C
-   2,R,J
-   8,R
-  22,R,J
-  10,U,X
-  32,R,J
-  26
-   1,F,35.771
-  21,F,29.582
-  12,F,32.999
-   1,F,38.313
-  11,F,98
-  11,F,157.999
-  10,F,179.994
-   7,F,160
+   7,R,Z
+   1,R,J
+   7,R
+  21,R,J
+   9,U,X
+  31,R,J
+  27,R,U
+  12,F,23.125
+   1,F,23.235
+  18,F,33.056
+   1,F,38.038
+  11,F,96
+  11,F,158
+  10,F,180
+   7,F,162.03
   13,R,Z
-  24,R,X
-  14,R,U,C
-  30,D
-  32,R,D
-  10,R,X
-  21,L,J
-   3,J
-  15,U,X
+  15,R,X
+   6,L,D,C
+   1,R,J
+  29,D
+  16,R,X
+   2,R,J
+  15,R,Z
+  15,R,U,X
+  10,R
+   9
    2,L
-  14,L,X
-  12,R,J
-  18,R
-  14,R,X
-  26
-   1,R,D
-   1,F,134.502
-   1,F,139.833
-  28,F,173.363
-   1,F,168.366
-   5,F,155.68
-   1,F,152.658
-  11,F,93
-  11,F,33
-  14,F,10
-  14,U,X
-  46,D
-  15,R,D,X
-   3
-  20,R,D,X
-  29,R,C
-  17,R,D,X
+   9,L,J
+   1,L
+  11,R,D,X
+  22,L,J
+  15,L,U,X
+   7,L
+  27,R,D
+  28,F,130.892
+   1,F,127.433
+  12,F,98.753
+  18,U,X
+  40,D
+   2,R,D
+  18,R,D,X
+  19,R,D,C
+  29,R,X
+  17,R,D,C
   38,R,J
   13,R,Z
    1,R,J
@@ -339,7 +336,7 @@ EndStunPause
   15,R,X
   12,R,Z
 #spinner cycle
-   1
+   2
   15,D,X
   18,R,Z
   15,R,X
@@ -1048,4 +1045,4 @@ EndStunPause
   27,U,X
  122,D
 
-ChapterTime: 3:02.767(10751)
+ChapterTime: 3:01.696(10688)

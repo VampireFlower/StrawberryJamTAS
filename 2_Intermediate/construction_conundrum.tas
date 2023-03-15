@@ -1,4 +1,4 @@
-RecordCount: 3387
+RecordCount: 3490
 
 console load StrawberryJam2021/2-Intermediate/thebreadstick1
    1
@@ -9,16 +9,15 @@ console load StrawberryJam2021/2-Intermediate/thebreadstick1
 #lvl_a-001
    6,R,Z
    1,R,J
-   7,R
+   3,R
+   1,R,J
+   3,R
   13,R,J
   20,R,K,G
   15,U,X
-   2
-   1,L,J,G
-   6,J
-   6
-   5,L
-   4,L,X
+   1
+  14,L,J,G
+   4,X
    1,L,J
    3,J
    1,L,J
@@ -42,16 +41,17 @@ console load StrawberryJam2021/2-Intermediate/thebreadstick1
    5,L,J
   13,R,U,X
   12,L
-  12,R,K,G
-   2,R,J,G
-   8,R
+   2
+  12,R,J,G
+   1,R,K,G
+   7,R
   17,D,X
    1,R,J
    9,R
   15,D,X
-   5,R,D
-   3,D
-   1
+   4,R,D
+   4,D
+   1,R
    7,R,D
    5,L,X
    4,L,J
@@ -72,10 +72,9 @@ console load StrawberryJam2021/2-Intermediate/thebreadstick1
    5,J,G
   14,R,U,X
    1,K,G
-   2,R,K,G
+   2,R,K
    8,R,D
-   1,L,D
-  19,L,D
+  20,L,D
   14,R,D
    4,R,Z
    1,R,J
@@ -464,26 +463,18 @@ EndRepeat
   12
   30,D
   29,R,D
-  13,R,Z
+  14,R,Z
    1,R,J
-  15,R,D,X
-  15,R
-# this is also probably suboptimal
-  12,R,J
-  14,U,X
+  26,R,D,X
   14,R,J
-  13,R,U,X
-  12,J,G
-   3,L,K
-   2,R,J
-   2,L,K
-   2,R,J
-   2,L,K
-   2,R,J
-   2,L,K
+  11,K,G
+  15,U,X
+  15,U,C
+  16,J
+   1,K
    2,R,J
    1,R,K,G
-   4,R
+   5,R
   40
 
 #lvl_a-008
@@ -751,7 +742,7 @@ EndRepeat
   13,L,D
   14,L,Z
    1,L,J
-  14,L,U,X
- 134
+  13,L,U,X
+ 135
 
-ChapterTime: 1:46.114(6242)
+ChapterTime: 1:45.859(6227)
