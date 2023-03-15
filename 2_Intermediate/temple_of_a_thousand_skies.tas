@@ -1,4 +1,4 @@
-RecordCount: 2248
+RecordCount: 2252
 
 console load StrawberryJam2021/2-Intermediate/Ice
    1
@@ -172,7 +172,8 @@ console load StrawberryJam2021/2-Intermediate/Ice
    1,K,G
    1,R,K
    6,L,J,G
-  17,L,U,X
+  16,L,U,X
+   1
   15,U,C
   17,R
    8
