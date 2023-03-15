@@ -1,4 +1,4 @@
-RecordCount: 3772
+RecordCount: 3968
 
 console load StrawberryJam2021/2-Intermediate/thebreadstick1
    1
@@ -62,7 +62,6 @@ console load StrawberryJam2021/2-Intermediate/thebreadstick1
    3,R,K,G
    7,R,U,X
   40
-
 #lvl_a-002
    7,R,U,X
    5,J,G
@@ -95,15 +94,18 @@ console load StrawberryJam2021/2-Intermediate/thebreadstick1
    9,R
   15,D,X
   14,R
-  15,R,U,Z
-   9,R
+  13,R,U,Z
+   1,R,J
+   5,R
+   1,R,J
+   2,R
    4,J
    2,R,J
   15,U,X
    6
-   7
+   6
   12,J,G
-   2,K,G
+   3,K,G
    7,R
   17,D,X
    1,R,J
@@ -349,11 +351,10 @@ EndRepeat
   36
    5,D,X
   12
-  10,L
+   1,J
+   9,L
   15,D,X
-  14,L,D
-   6,D
-  12,L,D
+  28,L,D
    9,L,X
    1,L,J,G
    1,L,K,G
@@ -363,9 +364,7 @@ EndRepeat
    1,L,J
    7,L
    1,L,J
-  15,L,D,X
-# this doesn't get an ultra but is somehow still the fastest i could find
-   1,L
+  16,L,D,X
    3,L,J
    2,L,K,G
    7,L
@@ -442,14 +441,14 @@ EndRepeat
   10,U,X
   18,R,J
    6,R,K,G
-  12,R,J,G
+  10,R,J,G
+   8,R
   15,R,U,Z
-   4,R,J
-   3,L,J
   11,L,K,G
-   5,J,G
-   8,L
-   7,L,J
+   2,L
+   1,L,J,G
+   7,L
+   8,L,J
    6,L,X
   30,L,J,G
   11,L,D
@@ -459,7 +458,8 @@ EndRepeat
   14
    5,D,X
   12
-  30,D
+   1,J
+  25,D
   29,R,D
   14,R,Z
    1,R,J
@@ -578,7 +578,6 @@ EndRepeat
   21,R
   13,R,D
   40
-
 #lvl_a-005 (1)
    2,R,D
    7,D
@@ -640,21 +639,18 @@ EndRepeat
    6,D
    9,L,Z
    1,R,J
-   8,R,D
-  50,L,D
-  15,L,X
-  19,L,D
-  15,L,X
-  22,L,D
-   3,L,J
-  13,U,X
-   8
-   6,U,X
-  12
+   7,R,D
+  34,L,D
+  25,L,D,X
+  15,L,C
+  38,L
+   7,L,J
+  21,L,U,X
+  19,U,C
    9,R,D
   15,R,D,X
   15,D,C
-   5,R,D
+   6,R,D
   40
 
 #lvl_a-012
@@ -662,22 +658,17 @@ EndRepeat
    6,D
    4,R,Z
    1,R,J
-  11,L,D
+   4,R,D
+   7,D
   15,D,X
-   5,L
-   5,R
-  10
-  10,R,Z
-   1,L,J
-   4,L
-  15,L,D,X
-   1,L,J
    6,L
-  15,D,X
-   8,L,D
-   5,D
+  13,R
+   5,R,Z
+   1,L,J
+  14,L,D
+  14,D
    1,L,D
-   5,D
+  23,D
   15,R,D,X
   13,R
   11,R
@@ -717,15 +708,14 @@ EndRepeat
    1,R,J
    7,R
   40
-
 #lvl_a-013
    1,R,J
-  14,R,D,X
+  11,R,D,X
    1,R,J
    7,R
-   4,R,J
-  15,U,X
-   3
+   8,R,J
+  14,U,X
+
    6,J
   15,D,X
   11,L,D,C
@@ -743,4 +733,4 @@ EndRepeat
   13,L,U,X
  135
 
-ChapterTime: 1:45.094(6182)
+ChapterTime: 1:44.618(6154)
