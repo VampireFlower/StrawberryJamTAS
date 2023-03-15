@@ -1,4 +1,4 @@
-RecordCount: 7181
+RecordCount: 7604
 
 console load StrawberryJam2021/1-Beginner/HankyMueller
    1
@@ -128,7 +128,7 @@ endrepeat
    1,D,J
   69,O
 #spinner cycle (Staircase)
-   0
+   1
    4,Z
    1,R,J
   40
@@ -330,7 +330,6 @@ endrepeat
   15,L,Z
   10,L
   15,L,X
-   0,L
   18,L,U,Z
   15,L,D,X
   26,L,D
@@ -364,14 +363,14 @@ endrepeat
   43
 
 #lvl_Staircase
-   9,L,D
-  14,L,D,X
-   2,L,J
-   9,L
-   8,R,D
-   2,D
+  14,L,D
+   6,L,D,X
+   4,L,J
+   5,L
+   1,L,J
+  12,L,D
    2,R,D
-   2,D
+   3,D
    8,R,D
    1,D
   20,R,D
@@ -381,7 +380,8 @@ endrepeat
    1,L,J
    6,R,J
    1,R
-  27,L
+  22
+   5,L
    2,L,J
   15,L
   39,R,D
