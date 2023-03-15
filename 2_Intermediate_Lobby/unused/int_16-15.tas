@@ -11,32 +11,29 @@ console load StrawberryJam2021/0-Lobbies/2-Intermediate 2160 1264
   15,R
   21,R,D
    1,D
-   4,R,D
+   6,R,D
+  11,R,D,X
+   1,R,J
+   4,R
   14,R,D,X
    1,R,J
-  14,R,D,X
-   1,R,J
-   3,R
-   1,R,K
-   1,R
-   2
-   1,R,J
-   2,J
-   2,R,K,G
-   1,R
-   8,R,D,X
-   1,R,J,G
-   1
-  13,R
-   1,R,J
-   1,J
-  16,R,D,X
-   1,D
-  12,R,U,Z
-   1,R,J,G
-  13,R
-   3,R,D,J
+   5,R,D,X
+   3,R,J,G
    5,R
+   1,R,K
+  10,R
+   2,R,J
+   5,R
+  19,R,D,X
+   1,R,J
+  11,R,U,Z
+   1,R,J,G
+   5,R
+   1,R,K
+   6,R
+   3,R,D,J
+   6,R
+   1,R,K
    8,R,U,X
    5,J,G
    1
@@ -63,4 +60,4 @@ console load StrawberryJam2021/0-Lobbies/2-Intermediate 2160 1264
    1,L,J,G
   12,L
    1,X
-#0:04.420(260)
+#0:04.403(259)
