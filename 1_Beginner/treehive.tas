@@ -1,4 +1,4 @@
-RecordCount: 2947
+RecordCount: 2958
 
 console load StrawberryJam2021/1-Beginner/skeleton
    1
@@ -326,9 +326,11 @@ console load StrawberryJam2021/1-Beginner/skeleton
    1,R,J
   14,R,D,X
    1,R,J
-  14,R,D,X
-  15,R,J
-  61,U,X
+  10,R,D,X
+   1,R,J
+   7,R
+  11,R,J
+  59,U,X
    5,L,D
   14,L,D,X
    1,L,J
@@ -349,4 +351,4 @@ console load StrawberryJam2021/1-Beginner/skeleton
   18,U,X
  135
 
-ChapterTime: 1:04.396(3788)
+ChapterTime: 1:04.362(3786)
