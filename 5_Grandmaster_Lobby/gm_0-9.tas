@@ -1,0 +1,36 @@
+console load StrawberryJam2021/0-Lobbies/5-Grandmaster
+   1
+
+#Start
+ 190
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   5,R,J
+   1,J
+  15,U,Z
+  18,L,J
+  26
+   1,R,U
+  56,F,359.675
+   1,F,4.076
+  62,F,23.28,0.69
+   1,F,0,0.69
+   8,R
+  12,R,Z
+   1,R,J
+   2,R
+  14,R,D,X
+   5,R,J
+  11,R,D,X
+   5,R,J
+   2,R,K,G
+  14,R,D,X
+   8,R,J
+   1,R
+   2,R,K
+   2,R
+   1,R,N
+#0:04.794(282)
