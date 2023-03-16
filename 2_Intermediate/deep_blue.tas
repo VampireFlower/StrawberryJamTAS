@@ -1,4 +1,4 @@
-RecordCount: 398
+RecordCount: 717
 
 console load StrawberryJam2021/2-Intermediate/Emik
    1
@@ -94,38 +94,45 @@ console load StrawberryJam2021/2-Intermediate/Emik
   15,L,D
   26,L,U,Z
   10,L,J
-  10,L
+   7,L
+   2
+#Spinner cycle
+   0
    6,L,Z
    1,L,J
    4,L
   40
 
 #lvl_a_04
+
    3,L
    1,L,D,J
    1,J
   15,L,D,X
    3,R,J
-  30,R
-   1,D
-   1,G
-  20,G
-   9,G
-   1,J,G
+   7
+   1,J
+  19
+   1,R
+  33,G
+   1,D,G
+   1
+   1,J
    1,R,K,G
-   1,R,J,G
-  25,D
-  27,L,D
-  16,L,Z
-   4,L,J
-   3,L,K
-  37,U,X
-  13,L,U,C
-  60,L,G
-   1,L
-   5,R
-  18
-  11,D
+  14,L,U,X
+  14,L,G
+StunPause
+  10,L,G
+EndStunpause
+   8,L,J,G
+   1,R,J
+   2,L,J
+   1,L,K,G
+   2,R,K
+   1,K
+   1,L,J,G
+  18,L
+  20,D
   15,L,Z
    3,L,J
   22,L,Z
@@ -256,14 +263,19 @@ console load StrawberryJam2021/2-Intermediate/Emik
    3
   25,R,U,X
    5,J,G
+
   34,L
-   9,L,D
-   4,D
-   3
-  36,L,J,G
-  30,L,X
+   6,L,D
    6,D
-  19,L,D
+   4
+   5,L,X
+  12,L,J,G
+   5,L
+   1,L,J
+  13,L
+  31,L,D
+
+
    4,L,Z
    1,L,J
    3,L
@@ -288,6 +300,8 @@ console load StrawberryJam2021/2-Intermediate/Emik
    5,R,J
    1,J
    1,R,J
+
+
   54,U,G
   34,L,J
   35,L,X
@@ -311,26 +325,28 @@ console load StrawberryJam2021/2-Intermediate/Emik
   38,U,X
   10,L,D,C
    3,L,J
-   1,L,K,G
-  10,L
-   2,L,J
-   6,L
-   9,L,D,X
-   1,L,J,G
-  16,L
-   5,L,J
-  13,L,D,X
+   3,L,K,G
+  14,L,D,X
    1,L,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  12,L,D,X
+   1,L,J
+   2,L,J
   40
 
 #lvl_a_08
-   7,L,J
-  14,L
-  15
+   3,L,J
+  14,L,Z
+   1,L,J
+  18,L,D
    1,R,G
-   5,G
-  10,D,G
-   2,G
+   8
+   1,R
+   1
+   7,G
    1
    1,J
    1,R,K,G
@@ -353,28 +369,30 @@ console load StrawberryJam2021/2-Intermediate/Emik
    1,L,J,G
    4,R,J
    8,R,G
-  90,U,G
+  82,U,G
    2,L,J
- 150,L,J,G
-  14,L,D,G
+ 135,L,J,G
+   5,L,D,G
    1,R
- 141,L,X
+  15,L
+  15,L,X
+ 129,L
    4,L,J
-   2,L,K
-  12,L,D,X
+   1,L,K
+  13,L,D,X
   40
 
 #lvl_a_09
-   3,L,D
-   2,D
-   1,L,D
-   1,L,D,J
-   1
-   1,L
-  15,L,D,X
-   8,D
+   2,L,D,X
    1,L,J
-  14,L,X
- 135
+   2
+   2,L
+  15,L,D,X
+   6,D
+   2,L,D
+   1,L,J
+  12,L,X
 
-ChapterTime: 1:08.544(4032)
+  45,L,J
+  90,G
+ChapterTime: 1:06.623(3919)
