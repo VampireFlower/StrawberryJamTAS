@@ -1,4 +1,4 @@
-RecordCount: 1757
+RecordCount: 2120
 
 console load StrawberryJam2021/2-Intermediate/Luma
    1
@@ -152,32 +152,41 @@ console load StrawberryJam2021/2-Intermediate/Luma
    1,L
    1,D
    8
-  30,R
-  16,R,U,X
-  12,L,J,G
-   1,K
-   2,J,G
-   2,R,J,G
-  35,R,K,G
-  10,R,J
-   5,R
-   2,R,J
-  12,R,D
-  24,D
-   6,L,D
-   2,J
-  25,R,K
-  15,R,X
-  25,R
-  15,R,U,Z
   28,R
-  12,R,J
-   1
-  15,U,X
+  26,R,J
+   6,U,X
+  40,R,J
+  10,R,K
+  18,R
+  22,L,D
+  24,R
+   3,L
+   3
+  17,R
+   6,R,D
+   1,R
+   7,D
    2
-  36,R,G
+   3,R,D
+  12,R,J
+   6,R
+   1,R,J
+  16,R
+  15,R,U,X
+   3,R
+   1,R,J,G
+   5,R,K,G
+   9,R
+  15,U,X
+   4
+   1,R
+  13,G
+  20,R,G
+   2,G
+   2,R,G
+   1,G
    1,R,G
-   2,R,D
+   1,R,D
   15,U,X
    1,R
   25,R,J
@@ -218,34 +227,40 @@ console load StrawberryJam2021/2-Intermediate/Luma
    6,R
   15,R,Z
   25,D
-   9,L,D
-   6,R
+   1,R,D
+   8,D
+   7,R
   35,R,G
    2,R,J,G
-   8,R,G
+  10,R,G
    1,R,J,G
   14,R,G
-   2,R,J,G
-   9,R,G
-   2,R,J,G
-  10,R,G
-   7,R
-   1,R,J
+   1,R,J,G
+   3,R,G
    1,R
-   1
-   5,R
    3
-   8,R
+   9,R
+   4,D
+   5,R
    1,R,J
-   3,R
+   1,R,K,G
+   2,R,J,G
+   2,R
+   1
+   1,R
+   2
+   5,R
    1,R,J,G
    1,R,K,G
-  14,R
-  13,R,G
-   1,R,J,G
-   5,R,G
-   1,R,J,G
-  15,R,D,G
+  11,R
+   1,R,J
+   5,R
+   6,R,J,G
+   5,R
+   5,R,J
+  13,G
+  11,R,G
+   5,R,D,G
   25,R,X
   15,R,U,C
    5,R,G
@@ -314,7 +329,7 @@ console load StrawberryJam2021/2-Intermediate/Luma
   10
   14,R,U,Z
 #spinner unload cycle
-   5
+   0
   15,R,D,V
   13,D
   60,R,D
@@ -334,9 +349,9 @@ console load StrawberryJam2021/2-Intermediate/Luma
 #lvl_5
    6,J
   20,R,U,X
-  23,R
+  32,R
   15,R,D,X
-   4,D
+   2,D
   32,R,X
   15,U,C
    4,R
@@ -380,26 +395,29 @@ console load StrawberryJam2021/2-Intermediate/Luma
    1,G
    3,G
    2,L
-  27,R
-   1,R,J
-   3,J
+  24,R
   12,R,J
+   5,R
+   5,R,J
+   5,R
+   1,R,J,G
    1,R,K,G
-   2,R,J,G
-  10,R
-   1,R,J
+  19,R
    1
    1,R
-   1
-  11,R
-   1,R,J
-   3,R
+   2,R,J
    1,R,K,G
    1,R,J,G
-   5,R
-   3,R,J
+   1,R
+   1,R
+   2
+   1
+   1,R
+   1,J
+   2,R,J
    1,R,K,G
-  13,R
+   1,R,J,G
+  11,R
   40
 
 #lvl_6
@@ -540,4 +558,4 @@ console load StrawberryJam2021/2-Intermediate/Luma
    1,R,K,G
   75,L,J
 
-ChapterTime: 1:32.089(5417)
+ChapterTime: 1:32.497(5441)
