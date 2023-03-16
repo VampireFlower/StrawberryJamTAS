@@ -1,4 +1,4 @@
-RecordCount: 2613
+RecordCount: 2623
 
 console load StrawberryJam2021/1-Beginner/Eclipse
    1
@@ -357,9 +357,10 @@ console load StrawberryJam2021/1-Beginner/Eclipse
   14,R,U,X
   41
    1,R
-  39,R,U,Z
+  35,R,U,Z
+   4,L,J
   15,U,X
-  14,L,U,C
+  13,L,U,C
    4,L,J
    1,L,K
   12,L,U,X
@@ -460,4 +461,4 @@ console load StrawberryJam2021/1-Beginner/Eclipse
   15,U,C
  135
 
-ChapterTime: 1:48.205
+ChapterTime: 1:48.188(6364)
