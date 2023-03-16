@@ -1,4 +1,4 @@
-RecordCount:
+RecordCount: 1476
 
 console load StrawberryJam2021/5-Grandmaster/DeathKontrol
    1
@@ -7,7 +7,627 @@ console load StrawberryJam2021/5-Grandmaster/DeathKontrol
   61
 
 #lvl_0
+  10,R,X
+   3,J
+   4,R,J
+   1,R
+  14,R,U,X
+   1,R,J,G
+   9,R
+   1,R,J
+   7,R,D,X
+   1,R,J
+  16,R
+   3,D
+  28
    1,J
+  29
+   1,O
+  27
+   6,R,Z
+   1,L,J
+   2
+   1,J
+   5
+   4,Z
+   1,R,J
+   6,R
+   1,R,J
+   1,R,K,G
+   9,R
+   4,R,J
+  40,J
+
+#lvl_1
+   9,R,J
+   1,J
+  15,R,U,X
+  16,R,U,C
+  15,R,X
+  15,R,D,C
+  15,R,D,X
+  14,R,D,C
+   1,R,J
+   9,R,D,X
+  40
+
+#lvl_2
+   5,R,D,X
+   1,R,J
+   2,R
+   8,R,U,X
+   1,R,J,G
+   6,R
+   6,R,J
+   1,R
+   4,R,D
+   1,R,J
+   1,J
+   7,R,J
+   4,R,K,G
+   5,R
+  15,D,X
+   5,R,D
+   7,R,D,C
+   2,R,J
+   5,R
+   1,R,J,G
+  10,R
+   1,R,D
+   4,R,J
+   9,K
+  15,R,Z
+  13,U,X
+  13,L,J
+  11,L
+   3,L,J
+   9,L,Z
+   2,L,J
+   1,L,K,G
+   9,L
+   1,L,J
+   5,L
+   2,L,K,G
+  12,L,D,X
+   1,L,J,G
+   1,L
+   1,L,J,G
+   1,L
+   1,L,K,G
+   4
+   7,L
+   1,L,D,J
+   2,L,K,G
+   6,L
+   3
+   2,R,J
+  14,U,X
+  40
+
+#lvl_5
+  15,L,J
+  15,L,U,X
+   9,L
+  10,D,J
+  15,U,X
+   9
+   1,L
+  10,L,J
+  15,U,X
+   8,R
+   2
+   1,R
+  10,L,X
+  11,L,J
+   1,J
+   1,L,J
+   1,J
+  15,U,X
+   5,L
+   1,R
+   1,L
+   3,R
+   6,R
+   9,R,J
+   2,J
+   1
+  15,U,X
+  10,L
+   2,L,J
+   2,J
+   2
+   2,L
+  13,L,U,Z
+   1,R
+#climb probably improvable
+#by a few frames
+#its confusing
+  10,J,G
+   2,L,J
+   1,K,G
+   3,R,K
+   8,L,K
+   8,K
+   5,J,G
+   1,R,J
+   1,L
+   4
+  11,K,G
+   1,R,K
+   1,L,K
+   6,J,G
+   6,K,G
+   1,R,K
+   3,L,K
+  11,J,G
+   1,R,J
+   1,L
+   3,K,G
+   1,R,K
+   1,L,K
+   1,L,J,G
+   6,J
+   1,L,J
+   3,J
+   1,K,G
+   1,R,K
+   7,L,K
+  11,J,G
+   1,R,J
+   1,L
+   9,K,G
+   1,R,K
+   3,L,K
+   1,J,G
+  10,L,J
+   1,R,J
+   1,L,J
+   1,L,K,G
+   1,R,K
+   6,L,K
+   1,J,G
+   1,R,J
+   6,L,J
+   7,K,G
+   1,L,K
+   1,K
+   1,L,K
+   1,R,K
+   1,L,K
+  10,J,G
+   1,R,J
+   3,L,J
+   1,K,G
+  10,L,K
+   1,R,K
+   1,L,K
+  11,J,G
+   1,R,J
+   3,L,J
+  10,K,G
+   1,J
+  24,R,K
+   9,R
+   1,G
+  10,J,G
+   2,L,J
+   1,K
+   1,J
+   1,K
+  11,L,K
+   1,J,G
+  10,L,J
+   1,R,J
+  16,U,X
+  18,R,J
+  11,K,G
+   1,L,K
+   1,R,J,G
+   1,L,J
+  10,R,J
+   6,K,G
+   1,L,K
+  12,L,J
+   1,K,G
+   2,L,K
+   5,K
+   1,L,K
+   1,K
+   1,R,K
+   1,L,K
+  13,L,J,G
+   1,K,G
+   3,L,K
+   5,K
+   1,L,K
+   1,R,K
+   1,L,K
+  13,L,J,G
+   1,K,G
+   3,L,K
+   5,K
+   1,L,K
+   1,R,K
+   1,L,K
+  13,L,J,G
+  20,R,K
+   2,K
+  10,J,G
+   1,L,J
+   1,R,J
+   2,K,G
+   1,L,K
+  12,L,J
+#overclock still worth
+#it for wallboosts?
+   9,R,K
+   7,R
+   6,L,J
+  14,R,U,X
+   9,R,J,G
+  40
+
+#lvl_6
+   3,R
+  15,R,D,X
+  50,D
+  15,R,D
+  26,D
+   5,R,D
+   1,D
+  40,R,D
+  14,R
+  11,R,D
+   1,R
+   3,R,D
+   4,L,D
+  15,L,X
+  18,L,D
+   3,R,D
+   1,L,D
+  18,R,D
+  22,L,D
+  10,L,Z
+   1,L,J
+   1,L
+   1,L,J
+   4,L
+   1
+   1,L
+   1
+  15,D,X
+   6,R
+   9,R,Z
+   1,R,J
+   6,R
+   2,R,J
+  15,R,D,X
+   8,R,D
+   5,D
+   2,R
+   1
+  15,D,X
+   6,L,D
+   4,Z
+   1,L,J
+   5,L
+   9
+  15,R,D,X
+   8,R,D
+   1,R
+   1,R,J
+   1,R
+   9,D,X
+  40
+
+#lvl_68a
+   1,R,D
+   4,L,D
+  15,L,D,X
+   2,L,D
+   1,L,J
+   1,L
+  14,L,D,X
+  12
+   1,S
+   1,D,J
+  69,O
+   4,Z
+   1,L,J
+   7,L
+   9,L,J
+  14,L,D,X
+   1,L,J
+   7,L
+   1,L,J
+  15,D,X
+   3,L,D
+  12,R,D
+   2,R
+   1,D
+   4,R,Z
+   1,R,J
+   6,R
+   5,R,D,J
+   4,R
+  14,R,D,X
+  40
+
+#lvl_2
+   1,R,D,X
+#left route has
+#not been tried
+   4,R,D
+  15,R,D,X
+   3,R
+   1
+   2,R
+   1,R,D,J
+   1
+  15,D,X
+  15,L,D
+   2,L
+   1,L,D
+   2,L
+   5,L,Z
+   2,L,J
+   1,L,K,G
+   1,L
+   1
+   7,L
+   3,L,D
+   8,L,J
+   7,J
+  14,R,D,X
+   1,L,J
+  15,L,D,X
+  11,L,D
+
+   1,L,D,J
+   3,L
+   4,L,K,G
+   3,L,J,G
+   6,L,K,G
+   5,L
+   4,L,K
+  40
+
+#lvl_3
+   3,L,K
+  15,L,D,X
+  10,L,J
+   4,L
+  15,L,D,X
+  10,L
+   3,L
+   2,L,D
+   8,L,J
+   7,L
+  14,L,U,X
+   1,R,J,G
+  42,L,J
+   2,L,D
+  10
+  15,L,X
+  11,L
+  51,L,D
+   1,L
+   8,L,X
+   1,L,J,G
+   1
+  14,L,D
+  12,D
+   5,L
+  15,L,Z
+  17,L,D
+   6,L,D,X
+  32,L
+  14,L,X
+   1,L,J,G
+   2
+  16,L,D
+   1,D
+   9,L,D
+   1,L,J,G
+   3,L
+   8
+  11,L
+  15,L,Z
+   9,L
+   4,L
+  10,L,D,X
+   5,L
+  15,L,X
+  22,L,D
+   1,L
+   1
+   8,L,D,X
+   7,L
+  15,L,X
+   8,L
+   4,Z
+   2,L,J
+   9,L
+  15,D,X
+  19,D
+  43
+
+#lvl_4
+  17,D
+   7,R,D
+   1,D
+***s
+  14,R,D,X
+   1,R,J
+   9,R,D,X
+   3,R,J
+   5,R
+   1,R,J
+   1,R
+  15,R,X
+  15,R,C
+  15,R,X
+  15,U,Z
+  15,L,X
+   1
+  15,L,C
+   2
+  15,U,Z
+  15,R,X
+   2,R
+  15,R,X
+   1,R
+  15,R,X
+   1,R
+  15,R,X
+   1,R
+  15,R,X
+   1,R
+  15,R,D,X
+  15,R,D,C
+   5,D
+   8,R,D
+  15,R,Z
+   4,R
+   1,R,J,G
+   2,L,J
+   3,R,J
+   1,R,K,G
+   2,R,J,G
+   1,J
+  10,R,J
+  12,R,K
+   2,R
+   1,L
+***s
+   1,J
+   2,K,G
+   6,R,K
+   9,R
+   1,R,J
+  21,R,D
+   3,D
+  13,R,Z
+   1,R,J,G
+  10,R
+   5
+   1,R
+   1
+   5,R,Z
+   1,R,J
+   4,R
+  13,R,J
+  14,R,D,X
+   6,R,J
+  15,R,U,Z
+   9,R
+   1,R,J
+  14,R,D,X
+   8,R,J
+  15,R,D,X
+   4,R
+   1,R,J
+   8,R
+   6,R,U,Z
+  43
+
+#lvl_4a
+   2,R,U,Z
+   1,L
+   6,J,G
+   1,R,K,G
+  11,R,D,X
+   9,R,J
+   5,R,D,X
+  12
+   1,S
+***
+   1,D,J
+  69,O
+   7,R,Z
+   1,R,J
+   9,R
+  13,R,D,X
+   3,R,J
+   2,R,K,G
+   2,R
+  14,R,U,X
+   1,R,J,G
+   7,R
+   2,R,J
+  15,U,X
+  40
+
+#lvl_3
+  18,J,G
+***
+   3,K,G
+   2
+
+
+
+   9,R,Z
+   1,R,J
+   1,R
+  43
+
+#lvl_2
+   5,R
+   3,R,J
+   1,R
+   1,R,K,G
+   1,R
+   5,R,J,G
+   7,R
+   2,R,D,J
+   5,R
+  15,R,D,X
+   7,D
+   3,R,D
+  14,L,D,X
+   4,L,J
+  15,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+   9,D,X
+#1:03.257(3721)
+
+
+
+   7,R,Z
+   1,R,J
+   2,R
+  43
+
+#lvl_2
+   1,R
+   1,R,J
+   2,R
+   1,R,J
+   9,R,U,X
+   3,R,J,G
+   9,R,D
+   1,R,J
+   1,R
+   1,R
+  15,R,D,X
+   3,D
+  14,R,D,X
+   1,L,R,J
+ 100,L,D,X
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 
 
