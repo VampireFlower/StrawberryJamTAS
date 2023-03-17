@@ -3,22 +3,23 @@ console load StrawberryJam2021/0-Lobbies/4-Expert 2664 -792
 
 #Start
   36
-   6,R,Z
+   4,R,Z
    1,R,J
    7,R
-   5,R,J
-   4,R,K,G
-  10,R,D,X
+   7,R,J
+   2,R,K,G
+  12,R,D,X
    1,R,J
-   4,R
+   2,R
   31,R,D,X
-   3,R,J
+   2,R,J
   15,R,D,X
-  15,R
+  14,R
    4,R,J
    2,R,K,G
+   1,R,J,G
+   3,R,K,G
    4,R,J,G
-   4,R,K,G
   14,R,D,X
    1,R,J
   13,R,U,X
@@ -26,4 +27,5 @@ console load StrawberryJam2021/0-Lobbies/4-Expert 2664 -792
    5,R
    1,N
 
-#0:02.261(133)
+
+#0:02.193(129)
