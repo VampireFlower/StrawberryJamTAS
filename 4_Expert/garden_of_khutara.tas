@@ -1,4 +1,4 @@
-RecordCount: 2371
+RecordCount: 2858
 
 console load StrawberryJam2021/4-Expert/DanTKO
    1
@@ -29,10 +29,9 @@ console load StrawberryJam2021/4-Expert/DanTKO
    1,R,J,G
    1,R
    5,R,U,X
-  40
+  43
 
 #lvl_DanTKO_01
-   3
    1,R,U,X
    1,R,J,G
    3,R,J
@@ -40,12 +39,13 @@ console load StrawberryJam2021/4-Expert/DanTKO
    1,R,K,G
    4,R
    6
-   1,R,J
-   1,R,K,G
-   9,R,K
+   1,R,K
+   1,R,J,G
+   2,J
+   8,R,K,G
   15,R,U,Z
-   1
-  50,R,D
+   2,L,D
+  47,R,D
    3,D
   10,R,X
    9,R,J,G
@@ -63,10 +63,9 @@ console load StrawberryJam2021/4-Expert/DanTKO
    1,R,K
    1,R,J
    5,R,J
-  40
+  43
 
 #lvl_DanTKO_02
-   3
   10,R,J
   15,R,D,X
    1,R,J
@@ -83,27 +82,27 @@ console load StrawberryJam2021/4-Expert/DanTKO
    6,L,J
   11,L
    6,L,J,G
-  31,U,G
-   5,R
-   2,R,J,G
-  27,R,U,X
-   9,R,J
-   4,L,J
-  10,K
-   9,L,U,X
+  35,U,G
+  15,R
+  10,R,Z
+   1,R,J
+   6,J
+  15,U,X
+   1,K
+   3,L,K
+  11,L,J,G
+   7,L
+   1,L,U,G
   11,J,G
-   2
-   6,L,U,G
-  10,J,G
-  12,G
+  11,G
    1,K,G
    2,R,K
-  24,R
+  28,R
   16,L,U,Z
    1,R,J
    6,R,K
    2,R,J,G
-   8,J
+   9,J
    4,R,J
    3,R,K,G
   15,R
@@ -123,10 +122,9 @@ console load StrawberryJam2021/4-Expert/DanTKO
    1,R,J
   14,R,D,X
    1,R,J
-  40
+  43
 
 #lvl_DanTKO_blueTutorial_2
-   3
    7,R
    1,R,J
    3,R
@@ -150,10 +148,9 @@ console load StrawberryJam2021/4-Expert/DanTKO
    7,R
    3,R,J
   13,R,U,Z
-  40
+  43
 
 #lvl_DanTKO_03
-   3
    1,L
    1,J,G
   15,R,D,X
@@ -163,17 +160,18 @@ console load StrawberryJam2021/4-Expert/DanTKO
    1,R,J
   28,R,D
    2,L,D
-  21,L,J,G
-   5,J
+  18,L,J,G
    1,L,J
-   4
-   3,L
-   4,R,D
+   4,L
+   6,R
+   2,D
+   2,R,D
+   1,D
+   1,R,D
    1,D
    1,R,D
    1,D
    3,R,D
-   1,R,D
    1,R,J
    1,R,K
    1,R,J
@@ -187,8 +185,8 @@ console load StrawberryJam2021/4-Expert/DanTKO
    8,R,J,G
   34,L
    6,L,D
-  15,L,J,G
-   5,G
+  14,L,J,G
+   6,G
   10,L
    2,R
   19,R,U,X
@@ -217,7 +215,7 @@ console load StrawberryJam2021/4-Expert/DanTKO
    1,R,D
    1,D
    4,R,D
-   2,D
+   2
   14,R,D,X
    1,R,J
   16,R,D,X
@@ -262,10 +260,9 @@ console load StrawberryJam2021/4-Expert/DanTKO
    1,R,J
   14,R,D,X
    1,R,J
-  40
+  43
 
 #lvl_DanTKO_05
-   3
    2,R,J
    9,R,D,X
    1,R,J
@@ -278,6 +275,52 @@ console load StrawberryJam2021/4-Expert/DanTKO
   21,R,D,X
   15,D,C
    6,R,D
+#Spikeclimb strat, +0f
+#  11,R,Z
+#  22,R,J
+#  15,U,X
+#   4,R
+#   1,L
+#  16,K,G
+#   2,L,K
+#   4,L,J,G
+#  15,L
+#   3,R
+#   6,R,K
+#  17,R,D
+#  16,L,D
+#   5,D
+#  10,L,D,X
+#  31,R,J
+#  14,U,X
+#  15,R,J
+#  25,R
+#   7,R,D
+#  10,D
+#  10,L,D,X
+#   6,R,J
+#  19,R,U,Z
+#   2,R,J,G
+#   9,R
+#   6,L,J,G
+#   7,J
+#   7,L
+#  10,L,Z
+#   5,R,J
+#   1,R
+#  27,R,J
+#   6,R,D
+#  14,R,U,Z
+#   3,J,G
+#   9,R
+#   6,R,Z
+#   1,R,J
+#   7,R
+#   1,R,J
+#  14,R,D,X
+#   1,R,J
+#  14,R,D,X
+##
   10,R,Z
   30,R,J
   14,U,X
@@ -318,10 +361,9 @@ console load StrawberryJam2021/4-Expert/DanTKO
   14,R,D,X
    1,R,J
   14,R,D,X
-  40
+  43
 
 #lvl_DanTKO_06
-   3
    1,R,J
   14,R,D,X
    6,R,J
@@ -366,10 +408,9 @@ console load StrawberryJam2021/4-Expert/DanTKO
   14,R,D,X
    1,R,J
   10,R,D,X
-  40
+  43
 
 #lvl_DanTKO_06b
-   3
    4,R,D,X
    7,R,J
    1,R,K,G
@@ -396,10 +437,9 @@ console load StrawberryJam2021/4-Expert/DanTKO
    5,R,J
    2,R,K,G
   12,R,D,X
-  40
+  43
 
 #lvl_DanTKO_07
-   3
    2,R,D,X
    1,R,J
   14,R,D,X
@@ -437,10 +477,9 @@ console load StrawberryJam2021/4-Expert/DanTKO
   15,R,J
   15,R,D,X
    5,R,J
-  40
+  43
 
 #lvl_DanTKO_08
-   3
    3,R,J
   13,R,D,X
    1,R,J
@@ -502,10 +541,9 @@ console load StrawberryJam2021/4-Expert/DanTKO
   14,R,D,X
    1,R,J
    5,R,D,X
-  40
+  43
 
 #lvl_DanTKO_09
-   3
    5,R,D,X
    1,R,J
    4,R
@@ -572,10 +610,9 @@ console load StrawberryJam2021/4-Expert/DanTKO
    3,R,K
    1,R,J,G
   10,R
-  40
+  43
 
 #lvl_DanTKO_Outro
-   3
    1,R
    4,R,J
    6,R
@@ -595,11 +632,12 @@ console load StrawberryJam2021/4-Expert/DanTKO
    2,R,D
    4,R,J
   14,R,U,X
-#lol
-Repeat 22
-   3,L
-   3,R
+Repeat 67
+   1,L
+   1,R
 endrepeat
-   3,L
+   1,L
 
-ChapterTime: 1:30.950(5350)
+
+
+ChapterTime: 1:30.763(5339)
