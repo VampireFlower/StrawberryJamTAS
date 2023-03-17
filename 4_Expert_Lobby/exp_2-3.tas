@@ -21,28 +21,16 @@ console load StrawberryJam2021/0-Lobbies/4-Expert 1976 -1616
   10,R,X
    1,R,J,G
   12,R
-   3,R,J
-   9,R,D,X
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-   1,K,G
-  10,R
-   1,L,D
-  17,R,D
+   6,R,J
    1,R
-   7,R,X
-  10,R
-   5
-   5,R
-  12,R,J,G
-   2,R,K,G
-   1,R,J,G
-   1,R,K,G
-  11,R,Z
-   1,R,J
-   6,R,K,G
-   8,R
+  14,R,J
+  10,U,X
+   1,R
+   7,R,J
+  12,R
+   4,R,Z
+   5,R,J
+   4,R,K,G
+   4,R
    1,N
-#0:03.655(215)
-
+#0:02.924(172)
