@@ -1,4 +1,4 @@
-RecordCount: 375
+RecordCount: 394
 
 console load StrawberryJam2021/5-Grandmaster/RedBatNick
    1
@@ -275,13 +275,10 @@ console load StrawberryJam2021/5-Grandmaster/RedBatNick
 stunpause
    7,R,D
   13,D
-endstunpause
-   1,S
-  10,O
+skipinput, 3,1
    5,D,X
-stunpause
   12,D
- endstunpause
+endstunpause
   12,L,D
   46,D
   40
@@ -323,11 +320,12 @@ stunpause
   36,R
    7,R,Z
    4,R,J
-   5,R,K
+   1,R,K
    5,R
-  10,R,U,Z
+   1,R,J
+  12,R,U,Z
   10,R,J,G
-  78,R
+  63,R
 #lvl_cotcs-6
    1,R
    9,L,D,C
@@ -353,4 +351,4 @@ stunpause
   11,U,C
  135
 
-ChapterTime: 0:54.808(3224)
+ChapterTime: 0:54.536(3208)
