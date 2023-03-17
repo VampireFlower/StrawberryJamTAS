@@ -1,11 +1,10 @@
-RecordCount: 2058
+RecordCount: 2467
 
 console load StrawberryJam2021/1-Beginner/asteriskblue
    1
 
 #Start
   76
-
 #lvl_a-01
    1,L,J
   14,R,D,X
@@ -172,39 +171,41 @@ console load StrawberryJam2021/1-Beginner/asteriskblue
    9,R,D
   15,R,D,X
    1,R,J
-  35,R,D,C
-  32,R,Z
-   3
+  35,R,D,X
+  31,R,Z
+   4,R,J
+   1,R,K
   10,D,X
   40
 
-#lvl_a-10
+#lvl_a-11
   14,R,D
   15,R,D,X
    1,R,J
-  23,R,D,X
-   3,R
-  37,R,U,X
-   4,R,Z
-   2,R,J
-   3,R,K,G
-   2,R,J,G
-   5,R
+  18,R,D,C
+   5,R,D
+  28,R,U,Z
+   1,R,J
+   3
    1,R,K
-   6,R
+   2,R,J,G
+   9,R,U,X
+   8,R,J,G
+   4,R
+   1
   40
 
 #lvl_a-11
-   5,R
-  18,R,J
+  15,R,D,X
+   1,R,J
+  18,R,U,X
   28,R,Z
    3
    3,R
-   1,R,J
-  11,R,U,X
-   9,R,J,G
-  16,R
-  33,R,Z
+  12,R,U,X
+   8,R,J,G
+  15,R
+  34,R,Z
    4,R,J
    2,R,K
    6,R,D,X
@@ -311,19 +312,19 @@ console load StrawberryJam2021/1-Beginner/asteriskblue
    3,R,J
    1,R
    2,R,K
-  14,R,Z
+   6,R,Z
    1,R,J
-   2,R
+   6,R
+   3,R,J
+   5,R,X
   40
 
 #lvl_a-20
-   4,R
-   2,R,J
-   5,R,K,G
-   2,R
-   1,R,J,G
+   6,R,X
+   5,R,J,G
+   1,R,K,G
    5,R
   14,R,U,X
  135
 
-ChapterTime: 0:47.243(2779)
+ChapterTime: 0:47.209(2777)
