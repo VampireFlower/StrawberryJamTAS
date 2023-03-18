@@ -67,7 +67,7 @@ EndStunPause
    2,R,J
   40
 
-#lvl_RG2-1
+#lvl_RG2-2
    1,R,J
    5,R
   15,R,D,X
@@ -81,6 +81,7 @@ EndStunPause
    5,R,J,G
   40
 
+#lvl_RG2-3
 #seems improvable, has to get an even number of dashes or the swap block wont be in the right spot
    6,R,J
   15,R,D,X
