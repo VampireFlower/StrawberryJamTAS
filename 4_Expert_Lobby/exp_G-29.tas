@@ -1,0 +1,19 @@
+console load StrawberryJam2021/0-Lobbies/4-Expert 1960 424
+   1
+
+#Start
+  36
+  10,L,D,C
+   1,L,J
+   6,L,K,G
+   8,L
+   4,L,J
+   2,L,K,G
+   4,L,J,G
+  10,L,K,G
+  30,L,D,X
+   8,L,D
+   2,L,J
+  20,L,D,X
+   1,N
+#0:01.649(97)
