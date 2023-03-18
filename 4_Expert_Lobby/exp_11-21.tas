@@ -1,0 +1,56 @@
+console load StrawberryJam2021/0-Lobbies/4-Expert 2920 -936
+   1
+
+#Start
+  36
+   1,R,J
+   1,R
+   9,R,D,X
+   7,R,J
+   4,R
+   4,R,J
+   2,R
+  15,D,X
+   1,R
+  16,R,D
+  10,D
+   5,L,D
+  16,D
+  30,L,D
+  33,D
+
+# wavedash bhop into upright cb
+# setup loses 4f, gets +20 speed and ends up losing 1f
+#  11,D
+#  14,L,D
+#  12,L,D,X
+#   1,L,J
+#   7,L
+#   1,L,J
+#  11,L,U,X
+#   1,L,K,G
+#  13,L
+#   5,L,J
+#   4,L
+#  12,L,D,X
+#   7,L,K,G
+#   7,L
+#   1,N
+#0:04.182(246)
+
+  24,L,D
+  13,L,D,X
+   1,L,J
+   4,L
+  12,L,U,X
+   1,L,K,G
+  13,L
+   1,L,J
+   3,L
+  13,L,D,X
+   3,L,J
+   1,L
+   9,L,K,G
+   7,L
+   1,N
+#0:04.165(245)
