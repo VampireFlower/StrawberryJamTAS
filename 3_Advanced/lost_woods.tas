@@ -1,49 +1,48 @@
-RecordCount: 693
+RecordCount: 760
 
 console load StrawberryJam2021/3-Advanced/Oppen
    1
 
 #Start
 #lvl_oppen_intro
-  47
+  46
 #CantPause 110f
-#so wasting 47f afk
+#so wasting 46f afk
 #to skip cutscene
    4,Z
    1,L,J
-   4,L
-   2,L,J
-   7,L
-   6,L,Z
+   2,L
+   2
+   2,J
+   7
+   7,L,Z
    1,R,J
-   5,R
-   1,R
-   3,R,J
+   6,R
+   2,R,J
    5,R,D,X
-   2,R,J,G
+   3,R,J,G
    5,R
    1,R,J,G
   12,R
-   1,R
-   1,R,J
+   2,R,J
   14,R,D,X
    1,S
    1,D,J
-  34,O
+  34
+   1,R,J
    6,R
-   2,R,J
-   3,R,K,G
-   1,R
+   1,R,J,G
+   1
   40
 
 #lvl_oppen_1a
 #key2route
-   1,R
+   1
   10,R,D,X
    1,R,J,G
   22,R,D
 #lvl_oppen_1b
-  22,R,D,J
+  21,R,D,J
   16,U,X
   35,R,J
    8,K,G
@@ -373,4 +372,4 @@ console load StrawberryJam2021/3-Advanced/Oppen
   13,L,U,Z
  135,L,G
 
-ChapterTime: 0:54.281(3193)
+ChapterTime: 0:54.213(3189)
