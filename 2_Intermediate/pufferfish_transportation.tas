@@ -1,4 +1,4 @@
-RecordCount: 2880
+RecordCount: 2984
 
 console load StrawberryJam2021/2-Intermediate/Rocketguy2
    1
@@ -86,8 +86,8 @@ EndStunPause
    6,R,J
   15,R,D,X
    5,R,D
-#Spinner Cycle
-   2
+#Spinner Cycle in RG-9
+   0
   11,L,Z
    2,R,J
    1
@@ -171,13 +171,22 @@ EndStunPause
    1,R,J
    7,R
    1,R,J
-   8,R,D,X
+   4,R,D,X
+   2,R,J
+   1,R
+   2,R,J
   40
 
 #lvl_RG2-5
-   6,R,D,X
-   4,R,J
-   4,R
+   1,R
+   9
+   1,R,N
+   1,R,J
+   1,J
+
+  11,L,Z
+   5,R,J
+   5,R
    1,R,G
    2,R,J,G
    8,R,G
@@ -221,52 +230,50 @@ EndRepeat
   40
 
 #lvl_RG2-6
-   1,R,D,X
+   1,R
    1,R,J
-   3,R
-  14,R,D,X
-  25,R,J
-   1,R,G
-   6,R,J,G
-  18,R,D
-  17,D
-  40,L,G
-   1,R,J
-  24,R,K
-  14,R
-   1,R,D
-   1,R,G
-  33,R,J,G
+  13,R,D,X
+   6,R,J
+   1,R
+  13,R,J
+   1,D
+  15,R,D
+  15,R,Z
+  60
+   4,L,J
+  10,L,D,X
+   5,L
+  12,L,D,J
+  10,K,G
+   1,R,K,G
+   1,L,K,G
+   1,J,G
+  11,R,J,G
+  12,K,G
+  11,J,G
+   1,R,J,G
+   3,K,G
+   1,L,K,G
+   1,R,K,G
+   3,J,G
+   6,L
+   4,L,J
   15,U,X
-   5
-   2,L,J,G
-   3,R
-  26,L,D
-  15,D,X
-   3,D
-  16,R,C
-  69
-   1,J
-  57
-   5,R,J
-  12,L,K,G
-  12,R,J
-  12,R,K,G
-  12,R,J,G
-  10,R,K,G
-   2,R
-   1,L,J
-   2,L
-  14,R,Z
-   1,R,J
-   9,R,D,X
+  21,R
+   4,L,Z
+   4,R,J
+  17,R,D
   40
 
 #lvl_RG2-7
-   6,R,D,X
-  16,R,J
+   7,D
+   4,R,D
+  10,R,D,X
+  12,R,J
+   8,R,X
+  15,R
   14,R,X
-  40
+  36
    5,R
   15,R,X
    2,R
@@ -279,19 +286,21 @@ EndRepeat
   19,R
   14,R,X
   42
+   1,J
   15,R,D,X
-  15,R,D
+   1,R
+  14,R,D
   30,R,J
   15,R,U,X
   18,R
-   1,R,J,G
-   1,R
-   1,R,J,G
+   2,R,J,G
    1,L
-   7,R
+   6,R
+   1,R,J
    8,R,Z
    1,R,J
-   7,R
+   6,R
+   1,R,K
    5,R,J
    2,R
   13,R,D,X
@@ -448,4 +457,4 @@ EndRepeat
   12,R,D,X
    1,R,J
   43,R
-ChapterTime: 1:19.186(4658)
+ChapterTime: 1:16.279(4487)
