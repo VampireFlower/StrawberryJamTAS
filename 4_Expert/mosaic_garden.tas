@@ -1,14 +1,11 @@
 #e so I
 
-RecordCount: 957
+RecordCount: 1196
 
 console load StrawberryJam2021/4-Expert/Scroogle
    1
-
 #Start
-
  190
-
 #intro
    8,R,J
    2,R
@@ -60,18 +57,19 @@ console load StrawberryJam2021/4-Expert/Scroogle
   12,U,X
    8,L,J
    1,L
-  14,L
-  14,L,X
-   5,L,J
+  13,L
+  14,L,Z
+   2,L,J
   14,L,U,X
-   4,J
+   7,J
   12,D
   20,R
   15,R,X
   10,D
-  14,L,D,X
-  11,R,J
-   9,R,K,G
+  12,L,Z
+  10,R,J
+   1,K,G
+   8,R,K
   10,U,X
    1,L,J
    9,J
@@ -94,7 +92,8 @@ console load StrawberryJam2021/4-Expert/Scroogle
   14,R,D,X
    3,R,J
    1,R
-   5,J
+   3,J
+   2,R,J
   18,U,X
   21,U,C
   10,L,J
@@ -117,45 +116,48 @@ console load StrawberryJam2021/4-Expert/Scroogle
    6,L,K
    1,L
   37,L,K
-   3,G
-   1,J,G
-   9,R,K
-   6,R
-  12,R,K
-  15,U,X
-   2
+   2,L,J,G
+   1
+   1,K
+   1,L,J,G
+   5,R,J
+  10,R
+
+  14,U,X
    1,L
    1,K,G
-   3,R,K
-   8,R
-   1
-   1,R,K
-  10,R,K,Z
+   2,R,K
+   7,R
+  10,R,Z
    1,R,J
    7,R
-  29,R,K
+  31,R,K
   18,R,X
    1,J
    9,R,J
-   7,R
+   6,R
   10,L,X
    1,J
   11,R,J
    1,R
-   5,R
+   1,R
    1,R,K,G
-   4,R
-   8,R,K,G
-  28,R,D
-   4,R,D
-   4,R,D
+   1,R,J,G
+   3,R
+   7,R,K,G
+   5,R
+   1,R,J
+  14,R
+   9,R,D
+   8,D
   11,L,D,X
    4,R,J
    9,R
    2,R,J
    6,J
-   1,L,K,G
-   8,L,K
+   5,L,K,G
+   1,K
+   3,R,K
   15,U,X
    1
    4,R,K
@@ -195,18 +197,22 @@ console load StrawberryJam2021/4-Expert/Scroogle
    1,R
    1,R,J
    3,J
-   9,R,K,G
+   8,R,K,G
+   1,R
   40
 
 #a-03
-   1,R
-  10,R,K
-  22,R
-  18,R,C
-  15,U,X
-  10,R,C
+  15,R,D,X
+   2,R,J
+  10,R
+   8
    1,R,J
-   8,R,G
+   3,R
+  14,R,U,X
+   1,R,K,G
+  12,R
+   1,R,J
+   7,R,G
   10,G
    1,J,G
    7,R
@@ -252,17 +258,17 @@ console load StrawberryJam2021/4-Expert/Scroogle
   21,R
   15,R,U,X
    9,R
-   1,R,K
-  14,R,Z
+   6,R,Z
+   1,R,J
+   6,R
   40
 
 #outro
-   4,R,J
-   7,R,J
-   1,R
-   3,R
+   4,R
+   2,R,J
+   9,R
    8,R,J
-  15,R,U,X
+  14,R,U,X
  135
 
-ChapterTime: 0:35.173(2069)
+ChapterTime: 0:34.612(2036)
