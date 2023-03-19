@@ -1,4 +1,4 @@
-RecordCount: 3863
+RecordCount: 3864
 
 console load StrawberryJam2021/3-Advanced/Goldian
    1
@@ -550,7 +550,7 @@ endrepeat
    3,R,J
    7,R
    9,R,J
- 100,R,U,X
+  13,R,U,X
  135
 
 ChapterTime: 1:19.016(4648)
