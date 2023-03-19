@@ -7,7 +7,7 @@ console load StrawberryJam2021/5-Grandmaster/xplosives
   99
 
 #spinner_cycle
-   2
+   0
 
 #lvl_a0
    4,R,Z
@@ -25,7 +25,8 @@ console load StrawberryJam2021/5-Grandmaster/xplosives
   12,R,J
   15,R,D,X
   46,R,J
-  34,R,U,X
+  15,R,U,X
+  19,R
   10,G
   24,U,G
    3,G
@@ -48,16 +49,18 @@ console load StrawberryJam2021/5-Grandmaster/xplosives
    1,R,J
    6,L
    6,R,D
-  17,L,D,X
+  15,L,D,X
+   2,D
   18,R,D,C
+   4,R,Z
    1,R,J
-   7,R,D,Z
+   3,R
   40
 
 #lvl_a1
-   7,R,D,X
+   4,R
    1,R,J
-   2,R
+   4,R
   14,R,D,X
    1,R,J
   16,R,D,X
@@ -118,7 +121,7 @@ EndStunPause
   11,J
    4,R
   12,R,D,X
-   1,R,K,G
+   1,R,J,G
    6
    5,R
   18,R,J
@@ -138,7 +141,7 @@ EndStunPause
   18,L,C
    9,L,D,X
 Stunpause
-   5,L
+   5,L,D,X
    2,L,J
    1,L
    5,L,J
@@ -150,27 +153,34 @@ Endstunpause
    3,R,J
   15,U,X
   35,L,J
-  22,G
+  18,G
    9,D,G
-   3,G
-   1,L,K
+   1,G
+   1,D,G
+   1,G
+   1,D,G
+   1,G
+   1,D
    1,J,G
    1,K,G
   17,R,D,X
-   1,R,J
-   4,R
-  15,R,D,X
-  17,R,D
+   2,R,J
+   3,R
+  24,R,D,X
+   2,D
+   5,R,D
   18,R
-   2,R,K,G
-   4,L,K
-   5,K
-   2,R,K
-   6,R,J,G
-   9,R,D
-   3,R,J
-   2,R
-   9,R,Z
+   1,G
+   1,R,J,G
+   3,L,J
+   4,R,J
+   2,J
+   2
+   1,K,G
+   5,R,K
+   7,R
+   1,R,J
+  10,R,Z
    1,R,J
    6,R
   40
@@ -197,12 +207,12 @@ Endstunpause
    7,R,J
   15,R,D,X
   11,R
-  13,R,C
-  45,R,G
+  14,R,C
+  37,R,U,G
    1,L
-  12,R
-  17,G
-   8,D,G
+  17,R
+  20,G
+   5,D,G
    1,R,K
   11,R,D,X
    1,R,J
@@ -227,35 +237,36 @@ Endstunpause
    7,L,U,Z
    1,R,K,G
    3,L,K
-  58,L
-  10,L,D
+  57,L
+  11,L,D
    1,G
-   1,K,G
-   6
+   3,J,G
+   8
    1,R
-   1,L
-  13,R,Z
-   1,L
-   1,K,G
-   1,J,G
+   8
+   1,J
+   5,R,Z
+   1,L,J,G
    1,L,K,G
-  11,R,J
-  19,R,D,X
-  10,R,J
-   3,R
+   6,R,K
+   5,R
+  15,R,D,X
+   3,R,J
+   6,R
   14,R,U,X
-  70,R,D,G
+  37,R,D,G
+  24,D,G
    1,L
-   9,R
-   1,R,J
-   8,R,D,X
+  11,D
+   7,R,D,X
   40
 
 #lvl_a4
    6,R,D,X
    1,R,J
+   1
   15,R,D,X
-   5,R
+   5,D
   34,G
    6,D,G
    1,R,J
@@ -291,46 +302,41 @@ Endstunpause
    3,K
   11,R,D
   15,R
-  10,L,D,X
-   7,L
+  15,L,D,X
+   2,L
    1,J
   14,R,D,X
    2,L,J
    2,L
-   5,L,D,X
-   5,R
-   7,L
+  17,L,D,X
    1,L,J
   20,L,D,X
    2
   17,G
   18,D,G
-  53,G
+  56,G
    1
-   1,K
-   4,R,K
-  13,K
-   3,R,K
-   3,K
-   2,R,K
-   1,L,J,G
-   1,K,G
-   1,L,J,G
-   1,R,J
-   5,R
+  10,K
+   8
+   1,J
+  10
+   1,J
+   3,K,G
   11,R,D,X
    1,R,J,G
-  11,R
-   6,R,J
-   8,R
-   2,R,J
-   6,R
-  13,R,U,Z
-   1,K,G
-   4,R
-   2,L
+   9
+   2,R
+   3,R,J
    5,R
-  26,R,D
+   1,R,J
+   9,R
+  14,R,U,Z
+   1,J,G
+   4,R
+   1,L
+  30,R,D
+   1
+   1,D
    5
   40
 
@@ -352,4 +358,4 @@ Endstunpause
   15,R,U,X
  135,R
 
-ChapterTime: 0:49.623(2919)
+ChapterTime: 0:49.130(2890)
