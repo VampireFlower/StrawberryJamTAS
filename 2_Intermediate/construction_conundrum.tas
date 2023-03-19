@@ -1,4 +1,4 @@
-RecordCount: 4536
+RecordCount: 4593
 
 console load StrawberryJam2021/2-Intermediate/thebreadstick1
    1
@@ -432,8 +432,7 @@ EndRepeat
    1,R,J
    7,R
   10,R,J
-  15,U,X
-   5
+  20,U,X
   19,R,J
   13,R,K,G
   13,R,J,G
@@ -476,12 +475,12 @@ EndRepeat
    7,L
    8,L,J
    6,L,X
-  30,L,J,G
-  11,L,D
-   9,L,Z
-   6
+  22,L,J,G
+  18,L,D
+  15,L,Z
+   
    1,J
-  14
+  12
    5,D,X
   12
    1,J
@@ -496,23 +495,21 @@ EndRepeat
   15,U,C
   16,J
    1,K
-   2,R,J
-   1,R,K,G
-   5,R
+   7,R
+   6,R,Z
   40
 
 #lvl_a-008
-   6,R,D,X
+   1,R,Z
    1,R,J
    7,R
    5,R,J
    4,R
   13,R,U,X
    1,R,J,G
-  32,R
-  12,R,X
-   9,R,J
-  14,U,X
+  30,R,D
+  16,R,J
+  11,U,X
   60,R
   39,R,U,X
   15,R,C
@@ -550,22 +547,33 @@ EndRepeat
   12,R,Z
    1,L,J
    7,L
-   6,L,J
-  10,L
-  13,L,U,X
-   7
-  21,L
-   1,J,G
-  14,G
-  12,J,G
-   9,K,G
-   1,L,J,G
-   1,L
-   
-   5,D,X
-  12
-  26,R,D
-   9,R,U,Z
+
+# faster if powerbox cycle is good
+#   6,L,J
+#  10,L
+#  13,L,U,X
+#   7
+#  21,L
+#   1,J,G
+# stalling for the box to be low enough
+#,G
+#  12,J,G
+#   9,K,G
+#   1,L,J,G
+#   1,L
+#   5,D,X
+#  12
+#  26,R,D
+#   9,R,U,Z
+
+   2,L,J
+  13,L
+  20,L,U,X
+   6,L,D
+  34,D
+  15,U,X
+  45,R,D
+   8,R,U,Z
    1,L,J,G
    9,K
   18,J
@@ -764,4 +772,4 @@ EndRepeat
   13,L,U,X
  135
 
-ChapterTime: 1:39.144(5832)
+ChapterTime: 1:38.906(5818)
