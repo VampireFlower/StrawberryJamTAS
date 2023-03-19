@@ -1,4 +1,4 @@
-RecordCount: 14251
+RecordCount: 14339
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -1697,45 +1697,32 @@ EndStunPause
    1,L,J,G
    4
    1,R
-   2,R,J
-  18,R
-   1,R,K,G
-   5,R,D
-   3,R,J
+   4,R,J
+  17,R
+   9,R,U,X
   40
 
 #lvl_heartside_RadleyMcTuneston
-   1,R,J
-   2,R,D
-StunPause
-   4,R,D
-EndStunPause
-   1,R,D
-   1,R,J
-   4,J
-   9
-  14,L,D,X
-  10,L,J
-  12,L,X
-  11,L,K,G
+   6,R,U,X
+   9,U,C
   14,R,D,X
-  15,R,J
-  14,R,D,X
-   9,R,J
-  12,R
-   3
-   8,L,D,X
-  14,R,D,C
-   1,L,J
-  10,L,U,C
+   8,L,J
+  15,R,Z
+   1
+  12,L,Z
+  15,U,X
+   7
+   8,R,D,X
+   1,J
+   7
   15,L,U,X
   11,R,D,C
    9
-  11,R,D,X
-   1,L,J
-   7,L,K
-  15,U,C
-  13,D,X
+  15,L,U,X
+  11,R,D,C
+  15,U,X
+  10,D,C
+   3
   15,L,U,C
   15,D,X
    5,L,D
@@ -1856,7 +1843,6 @@ EndStunPause
   14,R,U,X
    1,R,J,G
   45,R,U,G
-
   21,L,J
   24,R
   18,U,X
@@ -1909,7 +1895,6 @@ EndStunPause
  108,R
   14,L,D,X
   17,L,J
-
   15,D,X
   35,D
   14,L
@@ -2039,4 +2024,4 @@ EndStunPause
   16,L,K,G
   12,U,X
  135
-ChapterTime: 5:05.303(17959)
+ChapterTime: 5:03.892(17876)
