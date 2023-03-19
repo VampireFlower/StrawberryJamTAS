@@ -1,8 +1,7 @@
-RecordCount: 3040
+RecordCount: 3317
 
 console load StrawberryJam2021/1-Beginner/Bing_Over_Google
    1
-
 #Start
 #lvl_00- intro
    5,L,Z
@@ -10,55 +9,56 @@ console load StrawberryJam2021/1-Beginner/Bing_Over_Google
    5,L,K,G
    9,L
    1,L,J
-  12,L,D,X
-   1,L,J
-   7,L
-   2,L,J
   14,L,D,X
    1,L,J
-   6,L,D,X
+   7,L
+   1,L,J
+  14,L,D,X
+   1,L,J
   40
 
-#level_01
-   5
+#lvl_01- Crusher
+  13,L,D,X
    1,L,J
-  11,L
-   2
+   8
   14,R,Z
-#0:01.785(105)
    2,L,J
    1,R
    5,L
    1,R,J
   10,L,J
   19,L
-   1,R
+   1
   15,L,Z
-  13,L,D
-   5,D
-   5,L,D
-   1,L,J
-  10,L,D
-   6,L,Z
-   1,L,J
+  13,L
+   5
    5,L
+   1,R
+   1,J
+   7,L
+#Spinner cycle
+   0
+   4,L,Z
+   1,L,J
+   1,L
+   7
   40
 
-#level_02
-   1,L
-   1,L,N
-   1,L,J
+#lvl_02- Bait N' Switch
+   1,N
+   1,R,J
    2
-### spinner cycle
-#Set,Player.Speed.Y,-15
+   6,L,D,X
+   1,L,J
+   1,L
+   1,L,J
+   4
+   2,J
+   6,R,Z
+   1,L,J
+   1
    1,J
-###
-  14,L,D,X
-   1,L,J
-   7,R,Z
-   1,L,J
-   4,L
-   3
+   5
    1,J
    3
 
@@ -79,7 +79,7 @@ console load StrawberryJam2021/1-Beginner/Bing_Over_Google
 #   1,L
 #  15,L,J
 #  48,L,D,X
-##Set,Player.Speed.X,-1065
+#Set,Player.Speed.X,-1065
 #   1,L,D
 #   1,D
 #   1,L,D,J
@@ -88,7 +88,6 @@ console load StrawberryJam2021/1-Beginner/Bing_Over_Google
 #   5,L
 #  53,L,D,X
 #   1,L,J,G
-
 
   14,R,Z
    1,L,J
@@ -214,4 +213,4 @@ EndStunPause
    3,L
   15,R,D,X
  124,R,D
-ChapterTime: 0:19.754(1162)
+ChapterTime: 0:19.652(1156)
