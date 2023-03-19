@@ -2,6 +2,7 @@ RecordCount: 1488
 
 console load StrawberryJam2021/2-Intermediate/Liero
    1
+
 #Start
 #lvl_A00
    5,R,Z
@@ -124,6 +125,7 @@ console load StrawberryJam2021/2-Intermediate/Liero
   14,D
    8,R,D
   40
+
 #lvl_A05
   13,R,D
    8,R
@@ -163,7 +165,6 @@ console load StrawberryJam2021/2-Intermediate/Liero
   12,R,D
    2,D
   10,R,J
-
   14,R,U,Z
   12,J,G
    4,R,K,G
@@ -201,6 +202,7 @@ console load StrawberryJam2021/2-Intermediate/Liero
    9,R,D
    5,D
   40
+
 #lvl_A08
   24,R,D
    5,D
@@ -234,6 +236,7 @@ console load StrawberryJam2021/2-Intermediate/Liero
   14,L,D
   21,D
   40
+
 #lvl_A09
   25,D
    8,L,D
