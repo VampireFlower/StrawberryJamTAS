@@ -310,7 +310,6 @@ console load StrawberryJam2021/2-Intermediate/pixelator
   19,R,J
    8,R,K,G
    5,L,J
-
   40
 #lvl_lvl07
 
@@ -325,14 +324,14 @@ console load StrawberryJam2021/2-Intermediate/pixelator
    1,R,K,G
    1,L
    6,R
-   6,R,Z
+   4,R,Z
    1,R,J
    7,R
    1,R,J
-  15,R,D,X
-  14,D,Z
-  10,R,D
-  14,R,Z
+  31,R,D
+  14,R,D,X
+   1,R,J
+   5,R,D,X
    1,R,J
    7,R
   13,R,J
@@ -340,5 +339,5 @@ console load StrawberryJam2021/2-Intermediate/pixelator
   13,R,K
   14,R,U,X
  135
-#0:49.929(2937)
-#end
+
+ChapterTime: 0:49.912(2936)
