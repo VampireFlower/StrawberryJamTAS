@@ -5,22 +5,19 @@ console load StrawberryJam2021/0-Lobbies/5-Grandmaster 3896 1560
   36
    4,Z
    1,L,J
-   7,L
+  13,L
    2
-   6,L
-   1,L,J
+   1,L,D,J
   15,L,D,X
   15,D,C
-   5,L,D
-  10,R,D
-   1,R
-   5,R,D
+  12,R,D
+   9,D
   13,L,D,X
+   2,R,J
+  22,R,D,X
    3,R,J
-  22,R,D,X
-   4,R,J
-   3,R
-  22,R,D,X
-   9,R
-   1,N
-#0:02.227(131)
+   4,R
+  22,R,D,C
+   8,R
+   1,X
+#0:02.193(129)
