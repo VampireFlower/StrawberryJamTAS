@@ -1,4 +1,4 @@
-RecordCount: 460
+RecordCount: 1911
 
 console load StrawberryJam2021/5-Grandmaster/xplosives
    1
@@ -6,61 +6,49 @@ console load StrawberryJam2021/5-Grandmaster/xplosives
 #Start
   99
 
+#spinner_cycle
+   2
+
 #lvl_a0
-   4,D,X
+   4,R,Z
    1,R,J
-   4,R,D
+   5,R
    8,D
    1,R,D
-  15,D
-   4,D,X
+   6,D
+   4,R,D
+   2
+   2,R
+   4,R,Z
    1,R,J
-   7,R
+   6,R
   12,R,J
   15,R,D,X
-   6,R,J
-  26,R
-   9,R,D
-   1,L,J
-   8,K
-   7,R,K
-  15,R,U,X
-  19,R,U,G
-   2,R,K,G
-  21,R,G
-  13,R,U,G
-   1,R,J,G
-
-  11,R,Z
-   4,R,J
-  15,R,D,X
-  18,R,D
-   1,L
-   1,R
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,J,G
-  13,R,U,X
+  46,R,J
+  34,R,U,X
+  10,G
+  24,U,G
+   3,G
    2,R,J,G
-  22,R,D
-   2,L,J
-   1,R,J
-   2,R
-  16,R,Z
+   6,R,D,X
+  11,R,J,G
+  41,R
+  18,R,J
+  23,R,D,X
    3,R,J
-  11,R,K,G
+   1,L,J
+   4,J
   14,U,X
-   8,J
-  11,R
-   3,R,J
-  15,R,X
-   6,R,D
+   4,J
+   3,L,J
+   4,R,J
    7,R
-  16,L,D,X
+   4
+   4,R,Z
+   1,R,J
+   6,L
+   6,R,D
+  17,L,D,X
   18,R,D,C
    1,R,J
    7,R,D,Z
@@ -76,75 +64,292 @@ console load StrawberryJam2021/5-Grandmaster/xplosives
    2,R,J
   17,R,D,X
    1,R
-  34,R,J
-   1,L,J
-   5,R,J
-   1,K,G
-   7,R
-   1,L,G
-   5,G
-   1,R,J
-  12,R
-  15,R,U,X
-  15,R,G
-  17,R,U,G
-  17,R,D,G
-   6,L,D
-   2,L,J
-  33,L,D,X
-  40,L,G
-   5,L,D,G
-   2,L,G
+  26,R,J
+   8,R
    1,L
-   1,J
-   1,L,K,G
+   5,R
+   1,J,G
+   7
+   1,R
+   1,L
+   2
+   1,G
+   6,R,J
+   7,R
+  26,R,U,X
+   1,G
+   1
+  20,G
+  16,R,D,G
+   5,L,D
+   2,L,J
+  15,L,D,X
+  18,L,D
+  11,L
+  25,L,G
+   7,L,D,G
+  12,R,Z
+   3,J
   15,R,D,X
-   8,L,D
-  11,R,D
+  11,D
+   5,R,D
    2,R,J
    4,R
   23,R,G
    1,L
   15,R,D,X
-   1,R,J
-  10,R,J
-  15,R
-  17,R,D,X
+  11,R,J
+   4,R
+   4,R,J
+   2,R
+  20,R,D,X
    1,R,J,G
-   7,R
+   5,R
+   2
   40
 
 #lvl_a2
-   2,R
+   1,J
+   1
 StunPause
-   3,R,J
-   3,R,D
+   6,R,D
 EndStunPause
-  18,R,J
-   2,L,J
-   2,L,J
-   3,L
-  12,R,D,X
-   1,R,J,G
+   9,R,J
+  11,J
    4,R
-   1,L
-   6,R
-  15,R,J
+  12,R,D,X
+   1,R,K,G
+   6
+   5,R
+  18,R,J
   15,R,D,X
-  30,R
-  41,R,U,G
+  31,R
+  22,G
+  13,R,U,G
+   1,G
+   4,L,J
+  10,L,Z
+   1,L,J
+   7,L
+   1,L,J
+  17,L,D,X
+  20,L,J
+  18,U,X
+  18,L,C
+   9,L,D,X
+Stunpause
+   5,L
+   2,L,J
+   1,L
+   5,L,J
+   6,J
+  10,K,G
+   2,R,K
+Endstunpause
+   3,J
+   3,R,J
+  15,U,X
+  35,L,J
+  22,G
+   9,D,G
+   3,G
+   1,L,K
    1,J,G
-   4,R,J
+   1,K,G
+  17,R,D,X
+   1,R,J
+   4,R
+  15,R,D,X
+  17,R,D
+  18,R
    2,R,K,G
+   4,L,K
+   5,K
+   2,R,K
+   6,R,J,G
+   9,R,D
+   3,R,J
+   2,R
+   9,R,Z
+   1,R,J
+   6,R
+  40
+
+#lvl_a3
+   1,R,J
+  14,R,D,X
+   7,R,J
+   4,R
+  17,R,D,X
+   1,D
+  11,R,D
+  20,D,G
+   7,L
+   3
+  15,L
+  12
+   1,L
+   1,R,J
+   2,R
+  10,R,D,X
+   1,R,J
+   7,R
+   7,R,J
+  15,R,D,X
+  11,R
+  13,R,C
+  45,R,G
+   1,L
+  12,R
+  17,G
+   8,D,G
+   1,R,K
+  11,R,D,X
+   1,R,J
+   2,R
+   1
+  15,R,D,X
+  11,D
+   2,R,D
+  18,R,U,C
+  15,R,D,X
+   1
+   2,L,J
+  10,R,D,C
+   1,L,J
+   4,L
+  11,L,D,X
+   4,R,D
+   1,L
+   4,L,D
+   1,L,J
+  13,L,D
+   7,L,U,Z
+   1,R,K,G
+   3,L,K
+  58,L
+  10,L,D
+   1,G
+   1,K,G
+   6
    1,R
+   1,L
+  13,R,Z
+   1,L
+   1,K,G
+   1,J,G
+   1,L,K,G
+  11,R,J
+  19,R,D,X
+  10,R,J
+   3,R
+  14,R,U,X
+  70,R,D,G
+   1,L
+   9,R
+   1,R,J
+   8,R,D,X
+  40
+
+#lvl_a4
+   6,R,D,X
+   1,R,J
+  15,R,D,X
+   5,R
+  34,G
+   6,D,G
+   1,R,J
+   1,L
+   7
+   1,L
+   1,R,K,G
    1,R,J,G
+   1,R,K,G
+   6,R
+  14,R,D,X
+   4,R,J
+  19,R,D,X
+   6,R,J
+   6,R
+  17,L,U,X
+   1,J,G
+   7
+   2,G
+   9,L,D
+   8,G
+   5,R,U,Z
+   1,L
+   1,L,K,G
    1,L,J,G
- 100,R,J
+   1,L,K,G
+   8,R,K
+  20,R,D,X
+   6,R,J
+  17,R,D,X
+   4,R
+   1,G
+   3,K
+  11,R,D
+  15,R
+  10,L,D,X
+   7,L
+   1,J
+  14,R,D,X
+   2,L,J
+   2,L
+   5,L,D,X
+   5,R
+   7,L
+   1,L,J
+  20,L,D,X
+   2
+  17,G
+  18,D,G
+  53,G
+   1
+   1,K
+   4,R,K
+  13,K
+   3,R,K
+   3,K
+   2,R,K
+   1,L,J,G
+   1,K,G
+   1,L,J,G
+   1,R,J
+   5,R
+  11,R,D,X
+   1,R,J,G
+  11,R
+   6,R,J
+   8,R
+   2,R,J
+   6,R
+  13,R,U,Z
+   1,K,G
+   4,R
+   2,L
+   5,R
+  26,R,D
+   5
+  40
 
+#lvl_a5
+   1,L
+  15,R,Z
+  15,L,D,X
+  14,L
+   9,D
+   2
+   3,D
+   5,L,D
+   7,L,Z
+   1,R,J
+   6,R
+   1,R,J
+  17,R,D,X
+  12,R,J
+  15,R,U,X
+ 135,R
 
-
-
-
-
-
-ChapterTime: 
+ChapterTime: 0:49.623(2919)
