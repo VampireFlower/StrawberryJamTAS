@@ -1,4 +1,4 @@
-RecordCount: 3929
+RecordCount: 3951
 
 console load StrawberryJam2021/2-Intermediate/Dooshii
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
  106
 
 #Spinner Cycle
-   1
+   0
 #lvl_a1
    4,R,Z
    1,R,J
@@ -260,14 +260,15 @@ EndRepeat
    3,L
    1,R
    1,R,J
-   8,R
-  20,R,G
+   2,R,G
+   1,R,J,G
+  21,G
   12,R,J,G
    1,K
    1,R,J,G
-  12,L,J
+  13,L,J
   15,U,Z
-  12,R
+  10,R
    1,R,J,G
    1
    1,R,J,G
@@ -725,4 +726,4 @@ EndStunPause
   14,R,U,X
  135,D
 
-ChapterTime: 1:47.151(6303)
+ChapterTime: 1:47.049(6297)
