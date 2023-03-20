@@ -5,19 +5,14 @@ console hearts 29
 
 #Start
   36
-   4,Z
-   7,R,J
-   1,R,K,G
-  22,R
-  40,L,D
-  39,D
-   2,R
-   2
-  40,D
-   1,L
+   7,R,X
+   3,R,J
+  25,R,D
+  17,L,D
+Repeat 82
+   1,D
    1,L,D
-  45,L,D
-  18,D
+EndRepeat
   41,L,D
    1,S
    1,D,O
@@ -29,21 +24,22 @@ console hearts 29
   59,L,D
    2,D
   14,L,D,X
-   1,J
-   1,L,J
-   6,U,C
-   9,R,J
-   1,L,K,G
-   5,L,J,G
-   7,L
-   4,X
-  12,L,J
+   2,L,J
+   5,U,X
+   9,L,J
+   2,R,J
+   1,L
    3,L,K,G
    7,L
-  14,L,Z
-   1,L,J
+   4,X
+  11,L,J
+   1,L,K,G
+   2,R,K
+   1,K
+   7,L
+  15,L,Z
   15,D,X
-   2,L,D
+   1,L,D
    2,L,J
   17,L,D,X
    4,L,D,J
@@ -56,13 +52,13 @@ console hearts 29
    1,L,K,G
    1,L,J,G
    4,L,K,G
-   7,L
+   3
+   4,L
    4,Z
    1,L,J
-   6,L
-   1
+   7,L
    2,L,D,J
-   2,L,K,G
+   1,L,K,G
    7,L
   15,D,X
   18,D
@@ -82,9 +78,13 @@ console hearts 29
    3,R,J
   14,R,D,X
    1,R,J
-  19,R,D,X
-   8,R
- 507
+  17,R,D,X
+   2,D
+   1,R,J
+   8,R,D,X
+   1,L,J
+ 399,L
+  60
    9,L,Z
    1,R,J
    9,R
@@ -115,4 +115,4 @@ console hearts 29
    3,R
   32,R,J
    1,X
-#0:23.069(1357)
+#0:22.083(1299)
