@@ -1,4 +1,4 @@
-RecordCount: 3009
+RecordCount: 3280
 
 console load StrawberryJam2021/2-Intermediate/Rocketguy2
    1
@@ -85,20 +85,20 @@ EndStunPause
 #seems improvable, has to get an even number of dashes or the swap block wont be in the right spot
    6,R,J
   15,R,D,X
-   5,R,D
-#Spinner Cycle in RG-9
-   2
-  11,L,Z
-   2,R,J
+   4,R,D
+#Spinner cycle in RG2-9
    1
-   1,J
-  15,R,U,X
-   6
-   3,R
-   3
-   2,R,J
-  10,J
-  16
+   3,R,J
+   1,R,K,G
+   1,L,K
+   7,R,K
+   4,K
+  15,R,X
+  15,L,J
+   5,L
+   2
+   1,L
+   9
    1,L
    1
    2,J
@@ -170,7 +170,7 @@ EndStunPause
    1,R,J
    7,R
    1,R,J
-   4,R,D,X
+   4,R,Z
    2,R,J
    1,R
    2,R,J
@@ -181,8 +181,8 @@ EndStunPause
    9
    1,R,N
    1,R,J
-   1,J
-  11,L,Z
+   2,J
+  10,L,Z
    5,R,J
    5,R
    1,R,G
@@ -279,18 +279,18 @@ EndRepeat
  110
   15,L,U,X
   30,R
-  14,R,X
-   1,R,J
-  19,R
+  10,R,Z
+   3,R,J
+  15,R
   14,R,X
   42
    1,J
   15,R,D,X
    1,R
   14,R,D
-  30,R,J
+  31,R,J
   15,R,U,X
-  18,R
+  17,R
    2,R,J,G
    1,L
    6,R
@@ -299,26 +299,22 @@ EndRepeat
    1,R,J
    6,R
    1,R,K
-   5,R,J
-   2,R
-  13,R,D,X
-   1,R,J,G
-  11,R
+   9,R,J
+  14,R,D,X
+   1,R,J
+   8,R,D,X
   40
-
-#lvl_RG2-8
-   1,J
-   6,R,D,X
+   3,R,D,X
    1,S,N
    1,D,J
   34
-   4,R
+   1,R
    1,R,J
-   4,R
+   5,R
   18,R,X
    1,R,G
-  26,D
-   7
+  27,D
+   6
    1,R,G
    2,L,J
   13,R,U,Z
@@ -410,26 +406,26 @@ EndStunPause
   15,R,X
    8,R
    9,L
-   7,R,J
-   5,R,U,X
-  96
+  12,R,J
+   4,R,X
+  91,R
    2,R
    1,R,J
    5,R
   14,R,X
-  20
-   3
+  21
+   2,R
   10,R,X
-  25,R,J
+  26,R,J
   14,R,X
    2,R
-   7,R
+   6,R
   15,D,X
    3,D
   18,R,D
   13,R,J
   15,R,U,X
-  18,R
+  17,R
    6,R,Z
    1,R,J
    2,R
@@ -455,4 +451,4 @@ EndRepeat
   12,R,D,X
    1,R,J
   43,R
-ChapterTime: 1:16.279(4487)
+ChapterTime: 1:15.939(4467)
