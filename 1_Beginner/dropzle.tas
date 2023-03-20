@@ -1,4 +1,4 @@
-RecordCount: 362
+RecordCount: 385
 
 console load StrawberryJam2021/1-Beginner/Owen-Shirrell
    1
@@ -133,9 +133,7 @@ console load StrawberryJam2021/1-Beginner/Owen-Shirrell
    9,R,D
    1,D
    7,R,D
-   8,D
-   0,R,D
-   5,D
+  13,D
   40
 
 #lvl_07 - Ferry
@@ -146,14 +144,15 @@ console load StrawberryJam2021/1-Beginner/Owen-Shirrell
   13,R,D
   11,R,Z
    3,R,J
-  10,R
+   5,R
+   1,R,J
+   4,R
   15,R,X
   14,R,Z
-  11,R,J
-   3,R
-   1,K,G
-   1
-   2,J,G
+  12,R,J
+   2,R
+   2,K,G
+   1,J,G
    1,R,J
    4,R
   34,D,X
@@ -250,4 +249,4 @@ console load StrawberryJam2021/1-Beginner/Owen-Shirrell
   15,D,X
    2,D
  135
-ChapterTime: 0:35.768(2104)
+ChapterTime: 0:35.751(2103)
