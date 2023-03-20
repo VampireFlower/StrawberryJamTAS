@@ -1,4 +1,4 @@
-RecordCount: 385
+RecordCount: 771
 
 console load StrawberryJam2021/1-Beginner/Owen-Shirrell
    1
@@ -71,6 +71,8 @@ console load StrawberryJam2021/1-Beginner/Owen-Shirrell
 
 #lvl_05 - Symmetry
    3
+
+
   14,R,D,X
    1,R,J
   14,R,D,X
@@ -99,20 +101,17 @@ console load StrawberryJam2021/1-Beginner/Owen-Shirrell
   19,R
   22,G
    5,U,X
-  21,R,D
-   2,R
-  19,R,X
-#   1,L,J
-#  15,L
-#  11,L,D,J
-#  12,R,K,G
-#   1,R,J,G
-#   1,K
-  10,L,C
-   6,L,J
-   1,K,G
-  11,R,K
-   7,R,J,G
+   1,R,J,G
+  12,D
+   0,R,D
+  15,R,Z
+   6,R
+  15,L,D,X
+  11,L,D,J
+   1,R,K,G
+   1,R,J,G
+  11,R,K,G
+   1,J
    5,R,Z
    3,R,J
    1,R
@@ -125,15 +124,17 @@ console load StrawberryJam2021/1-Beginner/Owen-Shirrell
    1,R,D,J
    2,R
   11,D,X
-  32,L
-   9,R
+   8
+   2,L,J,G
+  14,L
+  19
+   1,R
    1
-   9,R
+   6,R
    1,R,D,J
-   9,R,D
-   1,D
-   7,R,D
-  13,D
+  12,R
+   4,R,D
+  14,D
   40
 
 #lvl_07 - Ferry
@@ -172,14 +173,15 @@ console load StrawberryJam2021/1-Beginner/Owen-Shirrell
 
 #lvl_09 - Perpendicular
    3
-  11,R,D
-  14,R,D,X
-   1,R,J
-   2,R
-   7
-  15,D,X
-  14,L,D
-   4,Z
+   2,R,D
+  15,R,Z
+  14,R
+   6,R,D
+  11,D
+   1,R,D
+   1,D
+  17,L,D
+   4,L,Z
    1,L,J
    7,L
   12,L,J
@@ -187,17 +189,17 @@ console load StrawberryJam2021/1-Beginner/Owen-Shirrell
    8,J,G
    5
    1,J
-  34,D
+  32,D
+   1,R,D
+   1,D
    4,R,D
    5,L,D,X
-   3,R,J
-   1,R
    1,R,J
-   4,R
-   1,R,J
-  17,R
-  15,U,X
-  13
+   6
+   1,J
+  10,R
+  15,R,U,Z
+  11
   17,R,D
   14,R,D,X
    1,R,J
@@ -205,35 +207,30 @@ console load StrawberryJam2021/1-Beginner/Owen-Shirrell
   11,R,J
    5,R
    3,R,J
-   3,R
-   2
+   2,R
+   3
   15,U,X
   15,U,C
   15,U,X
   15,U,C
   11,L,Z
-   1,L,J
-   7,L
-   1,R,J
+   6,L,J
+   2,L
+   2
+   1,L
    2,L,J
-   5,R
-   1,R,J
-  12,R,D
+   7,L
+  15,D,X
+  18,D
    1,L,D
-   4,R,D
-  21,D
-   2,R,D
    1,D
-   1
-   1,R,D
-  15,L,D
-   3,L
-   1,L,D
+  17,L,D
   14,L,Z
    1,L,J
-   6,L
-   3,L,J
-  19,L,D
+   7,L
+   2,L,J
+  18,L
+   1,L,D
    1,R,D
    5,D
    2,L,D
@@ -249,4 +246,4 @@ console load StrawberryJam2021/1-Beginner/Owen-Shirrell
   15,D,X
    2,D
  135
-ChapterTime: 0:35.751(2103)
+ChapterTime: 0:35.445(2085)
