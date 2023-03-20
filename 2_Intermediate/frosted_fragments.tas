@@ -1,5 +1,5 @@
-RecordCount: 3891
-
+RecordCount: 3895
+stunpausemode simulate
 console load StrawberryJam2021/2-Intermediate/Dooshii
    1
 
@@ -7,7 +7,7 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
  106
 
 #Spinner Cycle
-   2
+   0
 #lvl_a1
    4,R,Z
    1,R,J
@@ -208,7 +208,7 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
    1,R,G
    5,R,J,G
    6,R
-   3
+   2
 Repeat 17
    1,D
    1
@@ -727,4 +727,4 @@ EndStunPause
   14,R,U,X
  135,D
 
-ChapterTime: 1:47.236(6308)
+ChapterTime: 1:47.185(6305)
