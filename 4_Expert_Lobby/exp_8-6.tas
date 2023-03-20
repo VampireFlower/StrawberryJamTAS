@@ -4,8 +4,7 @@ console load StrawberryJam2021/0-Lobbies/4-Expert 3600 -904
 #Start
   36
   12,J
-  15,U,X
-   1
+  16,U,X
   18,J
   12,L,K,G
    6,L,J,G
@@ -14,9 +13,10 @@ console load StrawberryJam2021/0-Lobbies/4-Expert 3600 -904
    7,L,X
   20,L
   10,L,X
-   7,L,J
+   4,J
+   4,L,J
   15,U,Z
-   3
+   1
    7,J
    4,L,J
    1,L,K,G
@@ -27,4 +27,4 @@ console load StrawberryJam2021/0-Lobbies/4-Expert 3600 -904
    2,L,K
   15,L,D,C
    1,X
-#0:03.468(204)
+#0:03.451(203)
