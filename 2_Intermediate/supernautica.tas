@@ -1,4 +1,4 @@
-RecordCount: 1762
+RecordCount: 1774
 
 console load StrawberryJam2021/2-Intermediate/LegS
    1
@@ -43,7 +43,7 @@ console load StrawberryJam2021/2-Intermediate/LegS
   14,R,Z
    1,R,J
    7,R
-  12,R,J
+  11,R,J
    8,R
   14,R,D,X
    1,R,J
@@ -222,26 +222,24 @@ console load StrawberryJam2021/2-Intermediate/LegS
   49,R,U,G
    1,R,D
    6,R
-   1,S
+   1,S,N
    9,O
   12,J
   22,R,G
    1,D
    4,R
    6
-   1,S
-   9,O
-  11,U,X
+  10,U,Z
   21,R,G
    1,R,D
   25,R
   14,L,Z
-   1,S
+   1,S,N
    9,O
    3,R,J
    5,R,D,Z
   13,R,G
-   1,S
+   1,S,N
    9,O
   57,R,J,G
    1,R,U,G
@@ -251,13 +249,13 @@ console load StrawberryJam2021/2-Intermediate/LegS
   21,R,G
   13,R
    4,R,Z
-   1,S
+   1,S,N
    9,O
    5,R,J
   43,R,G
   12,R,D,G
    2,R,G
-   1,S
+   1,S,N
    9,O
    9,R,J,G
   29,J,G
@@ -282,4 +280,4 @@ console load StrawberryJam2021/2-Intermediate/LegS
   14,U,X
  135
 
-ChapterTime: 0:51.527(3031)
+ChapterTime: 0:51.323(3019)
