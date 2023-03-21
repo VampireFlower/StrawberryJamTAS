@@ -422,26 +422,25 @@ EndStunPause
   15,D,X
   11,R,D
   10,D
-#cornerboost here
-  13,R,J
-  15,R,U,X
-  17,R
-   6,R,Z
-   1,R,J
-   2,R
+  22,R
+  13,R,U,X
+   1,R,J,G
+   7,R
   40
 
 #lvl_RG2-End
-   5,R
-Repeat,5
+   7,R,D,X
    1,R,J
+   7,R
+   1,R,J
+Repeat 4
   14,R,D,X
-EndRepeat
    1,R,J
-   8,R,D,X
-  13,R,G
+EndRepeat
+  14,R,D,X
+  13,G
    1,R,J,G
-  10,R,G
+  11,R,G
    1,R
   26,L,D,X
   20,R,G
@@ -452,4 +451,4 @@ EndRepeat
    1,R,J
   43,R
 
-ChapterTime: 1:13.168(4304)
+ChapterTime: 1:13.066(4298)
