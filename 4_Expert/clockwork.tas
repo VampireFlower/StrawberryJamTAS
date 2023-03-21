@@ -1,4 +1,4 @@
-RecordCount: 4043
+RecordCount: 4119
 
 console load StrawberryJam2021/4-Expert/fonda1515
    1
@@ -348,7 +348,6 @@ endrepeat
 
 #lvl_a-05
   69
-  
   12,R,J
   15,U,X
   13,J
@@ -421,7 +420,8 @@ endrepeat
   32,L
    3
   15,D,X
-  15,D,C
+  10
+   1,D
   22,L
    7,L,Z
    1,R,J
@@ -433,7 +433,10 @@ endrepeat
   34
    9,R
   11,L,U,X
-  17
+  14
+   1,R
+   1
+   1,R
   24,L
   18,L,X
   18,L,C
@@ -771,12 +774,13 @@ endrepeat
  169,R,D
   15,R,X
   10,R
- 227
-  11,J
+ 200
+  16
+  18,J
   15,U,X
  300
    6,J
   15,U,X
  135
 
-ChapterTime: 3:15.517(11501)
+ChapterTime: 3:15.432(11496)
