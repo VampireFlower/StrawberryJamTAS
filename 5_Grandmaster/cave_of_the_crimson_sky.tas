@@ -1,10 +1,12 @@
-RecordCount: 418
+RecordCount: 653
 
 console load StrawberryJam2021/5-Grandmaster/RedBatNick
    1
 
 #Start
  190
+
+#lvl_cotcs-0
    4,R,Z
    1,R,J
    5,R
@@ -129,67 +131,64 @@ console load StrawberryJam2021/5-Grandmaster/RedBatNick
    2,R,D
    3
   15,U,X
-  26,R,D
-  15,D,X
-   3,L,D
-   4,R,D
-   3,D
-   6,R,D
+  24,R,D
+  14,L,D
+  12,R,D
+   2,R
+  15,R,Z
+   5,L,J
+   2,L
+   9,R,K
+  32,R,D
    9,R,X
-   5,J
-   4,L,K
-   8,R,K
-   7,R,K
-  27,R,D
-   1,R,J
-  11,R
-   4,X
-   5,R,J
-   8,J
-   3
-   3,K
-  14,R,K
-  17,R,U,X
-  21,R,C
+  12,R,J,G
+   8,L,K
+   4,L,J
+  10,R,J
+  15,R,U,X
+  22,R,C
    8,R,D,X
-  40
+  43
 
 #lvl_cotcs-3
-   3
-   7
-  14,R,D,X
-   1,R,J
-   7,R,U,X
+   7,R,D,C
+   7,R,D,X
+   9,R,J
    9,R,C
   12,R,K,G
    5,R
-  28,R,J
-  23,R,U,J,X
-  15,L,U,C
-  23,R
+  29,R,J
+  22,R,U,X
+  18,L,U,C
+  20,R
   41,R,U,Z
-  13,D
-   1,R,D
-   4,R
-  11,R
-  40,R,U,Z
-   2
+   4,D
+  14,L,D
+   3,D
+   1,L,D
+   3
    1,J
-  12,L,K
-   3,L,K
-   1,L,K
-  20,R,U,X
-  16,R
-  13,L,D
-   1,D
-   1,R,K
-  11,R
-  38,R,U,Z
-   3,R,D
-   6,D
-   3
-   3
-  12,R,U,X
+   5,R,J
+   6,R
+   8,R,J
+   3,R
+   1
+   1,R
+   1
+  18,R,U,Z
+  15,R,U,C
+#-13f if possible
+#  36,R
+#  50,R,U,Z
+##
+  21,R,D
+  14,L,D
+   3,R,J
+   8,R
+  15,R,U,Z
+  27,R,D
+  12,L,D
+  13,R,U,X
   25,L,U,C
   12,R,J
    7,R
@@ -250,7 +249,6 @@ console load StrawberryJam2021/5-Grandmaster/RedBatNick
    4,R,Z
    1,R,K
   12,R,D
-#0:32.708(1924)
   40
 
 #lvl_cotcs-4
@@ -272,16 +270,17 @@ console load StrawberryJam2021/5-Grandmaster/RedBatNick
    8,R
   16,L,D
   13,R,D
-stunpause
+stunpause 
    7,R,D
-  13,D
-skipinput, 3,1
-   5,D,X
-  12,D
- endstunpause
-  12,L,D
-  46,D
+  17,D
+   7,L,D
+   2,D
+endstunpause
+  10,D
+   6,L,D
+  41,D
   40
+
 #lvl_cotcs-5
   38,R,D
   16,R,Z
@@ -316,7 +315,6 @@ skipinput, 3,1
   15,R,D,C
   12,R,D
   15,R,U,C
-
   34,R,D
   17,R,Z
    1,R,J
@@ -326,6 +324,14 @@ skipinput, 3,1
   65,R
 
 #lvl_cotcs-6
+#can start earlier 
+#but i couldnt save time with it
+#   6,L,D,C
+#   1,R,J
+#   7,R
+#   3,R,J
+#  15,R,D,X
+##
    1,R
    9,L,D,C
    1,R,J
@@ -350,4 +356,4 @@ skipinput, 3,1
   11,U,C
  135
 
-ChapterTime: 0:54.417(3201)
+ChapterTime: 0:53.924(3172)
