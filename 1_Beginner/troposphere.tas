@@ -1,4 +1,4 @@
-RecordCount: 2885
+RecordCount: 3108
 
 console load StrawberryJam2021/1-Beginner/Eclipse
    1
@@ -113,48 +113,53 @@ console load StrawberryJam2021/1-Beginner/Eclipse
 
 #lvl_a_03
   15,R
-  24,R,X
-   1,R,N
-   1,R,J
+  15,R,X
+   3
+   1,N
+   1,L,J
    2
-  10,L,D,X
-  12,L,J
-  18,U,X
-   9,U,C
-  40
-  20,R
+   1,L
+  10,R,D,X
+   2,L,J
+   4,J
+  15,L,U,X
+   6
+  12,U,X
+  41
+  19,R
   20,R,U,X
-   1,L,G
+   4,L,G
   12,L,J,G
   12,L,K,G
-   5,L,J,G
   10,L,X
    8,L,J
-  23,L,K
-  27,U,X
-  21,R,U,Z
+  22,L,K
+  15,U,X
+   1,L
+  10
+   4,R
+  19,R,U,Z
    7,R,J
-  14,R,K
-   4,K
-  30,R,U,X
+   1,R
+  18,R,K
+  29,R,U,X
    4,L,J
-  15,L,K
+  17,L,K
   12,L,J,G
-   6,L,K,G
+   4,L,K,G
   14,L,Z
    8,L,J
   29,L,K
-  14,U,X
-   8,L
-  15,U,C
+  18,U,X
    3,L
-  41
+  15,U,C
+  45
   18,U,X
   15,R,C
   20,R,Z
-   7,R,J
-   3,R,K
-  18,U,X
+   4,R,J
+   9,R,K
+  15,U,X
   18,U,C
   16,L,X
    4,L,J
@@ -461,4 +466,4 @@ console load StrawberryJam2021/1-Beginner/Eclipse
   15,U,C
  135
 
-ChapterTime: 1:46.063(6239)
+ChapterTime: 1:45.944(6232)
