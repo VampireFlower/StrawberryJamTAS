@@ -1,4 +1,4 @@
-RecordCount: 145
+RecordCount: 172
 
 console load StrawberryJam2021/4-Expert/Stotch
    1
@@ -277,16 +277,17 @@ console load StrawberryJam2021/4-Expert/Stotch
    1,R
   15,R,Z
   20,L,D
-  42,D
+  41,D
+   1
   15,U,X
-   3,R
-  15,R,U,X
-   9,D
+  11,R,U,C
+  15,L,D
   15,R,D,X
    6,R,D
-  15,D,X
-  22
-   1,L,G
+  11,D,X
+   5,R
+   8
+  14,L,G
    9,U,X
    6,R
   15,R,U,X
@@ -299,10 +300,11 @@ console load StrawberryJam2021/4-Expert/Stotch
   15,U,X
    3,R
   15,R,Z
-  18,R,D
+  10,R,D
+   6,D
   15,R,D,X
-  18,D
-   8,R,D
+  15,D
+  11,R,D
   15,R,D,X
    8,D,C
   12,R
@@ -326,4 +328,4 @@ console load StrawberryJam2021/4-Expert/Stotch
   19,R,U,X
  135,R
 
-ChapterTime: 1:12.114(4242)
+ChapterTime: 1:12.063(4239)
