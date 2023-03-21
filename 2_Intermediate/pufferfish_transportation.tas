@@ -1,14 +1,16 @@
-RecordCount: 4327
+RecordCount: 4907
 
 console load StrawberryJam2021/2-Intermediate/Rocketguy2
    1
 
 #Start
   76
-#Spinner cycle
-   0
+  
+#Spinner Cycle RG2-1
+   2
 
 #lvl_RG2-0
+#waiting for ability to pause
    2
    6,L,Z
    1,R,J
@@ -54,77 +56,65 @@ console load StrawberryJam2021/2-Intermediate/Rocketguy2
    1,R,K,G
    1,R,J,G
    1,R,K,G
-   1,J,G
-  23
+   1,R,J,G
+   1,K,G
    4,R,D
+  15,D
+   6
+   2,R
    8,R,U,Z
 StunPause
-   3,R,U,Z
-   4,R,J
-   1,J
+   2
+   2,J
+   2,R,J
 EndStunPause
    5,R,J
-   8,R
-  15,R,D,X
-   2,R,D
+   3,R
+   1
+  16,R,D,X
    1,R,J
   40
 
 #lvl_RG2-2
-   6,R,J
-  18,R,D,X
-   1,R,J
+   3,R,J
+   1,R
+  15,R,D,X
+   1,D
    5,R,D,C
-   1,J
-   1,R,J
-StunPause
-   4,R,J
-EndStunPause
-   1,R,J
-   4,R
-   6,R,D,X
-   3,R,J,G
+  12,J
   40
 
 #lvl_RG2-3
-#seems improvable, has to get an even number of dashes or the swap block wont be in the right spot
-   2,R,J
-   4,R
-  15,R,D,X
-   2,R,D
-#Spinner cycle in RG2-9
-   0
    3,R,J
-   1,R,K,G
-   1,L,K
-   7,R,K
-   4,K
+   1,J
+  16,R,D,X
+   1,R,J,G
+   1,L,J
+   7,R,J
+   4,J
   15,R,X
-  15,L,J
-   5,L
    2
-   1,L
-   9
-   1,L
-   1
-   2,J
-  12,R,J
+  11,J
+   7,L
+   3,J
+  10
+   2,L,J
+  13,R,J
   15,U,X
   15,J
-  25,R,D
-   1,R
-   9
-   1,R
-   6,L
-   7,L,J
-   8,L
-   2,L,J
-   9,L
+  32,R
+   1
+  12,L
+   1
+   1,L
+  20,L
   14,L,X
   12,L,J
-   3,L
+   1,L
   14,L,U,X
    1,L,J,G
+   1
+   1,L,K,G
    7,L
    2,L,J
   14,U,X
@@ -364,7 +354,13 @@ EndRepeat
   15,R,X
   61,R
   15,R,U,X
-  19,R
+  15,R
+#jank spinner cycle setup
+   4
+
+#Spinner Cycle RG2-9
+   0
+
    6,L,Z
    1,R,J
    7,R
@@ -454,4 +450,4 @@ EndRepeat
    1,R,J
   43,R
 
-ChapterTime: 1:11.808(4224)
+ChapterTime: 1:10.890(4170)
