@@ -1,4 +1,4 @@
-RecordCount: 2244
+RecordCount: 2662
 
 console load StrawberryJam2021/1-Beginner/joltik
    1
@@ -117,33 +117,29 @@ console load StrawberryJam2021/1-Beginner/joltik
    1,R
   15,U,X
    2,R,J,G
-   7,R
-  15,U,C
-   1,L
-   1,L,J,G
-   6,R,J
-   2,R
-   1,L,J,G
-   1,L
+   7
+  15,U,X
+   1,L,K,G
+   1
+   2,L,J,G
+   3,J
+   2,R,J
+   2,J
+   5,L
    3
-   2,L
-   2
-   2,L
-   2
+   1,R
    1,R,D,J
-   1,L,J
+   2,L,J
    1,R,J
-   3,L,J
-   2,R,J,G
-   1,J
+   2,L,J
+   2,R,J
+   1,L,J
    1,L,K,G
    3,K
+Repeat,5
    1,L,K
-Repeat,4
    1,K
-   1,L,K
 EndRepeat
-   1,K
    9,J
   15,D,X
    3,L
@@ -479,4 +475,4 @@ endstunpause
   15,J
  153,U,C
 
-ChapterTime: 1:05.467(3851)
+ChapterTime: 1:05.416(3848)
