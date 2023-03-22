@@ -1,4 +1,4 @@
-RecordCount: 4303
+RecordCount: 4384
 
 console load StrawberryJam2021/2-Intermediate/Dooshii
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
  106
 
 #Spinner Cycle
-   0
+   1
 #lvl_a1
    4,R,Z
    1,R,J
@@ -64,7 +64,6 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
    1,R,J
    9,R,D,X
   40
-
 #lvl_a1.5v2
    5,R,D,X
    1,R,J
@@ -103,8 +102,7 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
    1,R
    8,R,D
    4,R
-   1,R,D
-   1,R,D
+   2,R,D
    1,R,J,G
   15,R,K,G
    3,J,G
@@ -131,10 +129,10 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
   10,L,Z
    1,R,J
   25,R,D
-  17,D
-   3,R
+  15,D
+   5,R
   14,R,Z
-  22,R
+  21,R
   15,R,X
   24,R,C
   14,U,X
@@ -156,7 +154,7 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
    6,R,D,X
   40
 
-#lvl_a4v2
+#lvl_a4v2 (1)
    8,R,D,X
    1,R,J
   12,R,D,X
@@ -169,15 +167,12 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
    3,L
   15,L,U,X
    1,L
-   9,R,U,X
-  27,R
-  14,R,X
+  36,R,U,X
+  14,R,C
    8,L
-  15,L,D,X
-   3,L,D
+  18,L,D,X
   12,R,D,C
-  15,D,X
-   1,D
+  16,D,X
   14,R,D,C
    4,R,J
   15,R,Z
@@ -243,34 +238,32 @@ EndRepeat
    8,L,K,G
   40
 
-#lvl_a4v2
+#lvl_a4v2 (2)
    5,L,J
    8,U,Z
    6,L,J
   11,L
    4,L,J
-  15,U,X
-   6,R,K,G
-   7,R
-   2,R,J
-   6,U,X
+  14,U,X
+  11,L,J
   40
-
 #lvl_a6v2
-  14,L,J
+  11
+   9,J,G
   15,L,X
    3,L
    1,R
-   1,R,J
-   2,R,G
-   1,R,J,G
-  21,G
+   3,R,J
+   1,R,K,G
+   8,G
+  10,J,G
+   3,G
   12,R,J,G
    1,K
    1,R,J,G
   13,L,J
   15,U,Z
-  10,R
+   5,R
    1,R,J,G
    1
    1,R,J,G
@@ -395,16 +388,15 @@ EndRepeat
   10,R,K,G
   11,R,X
   27,R
-  15,R,U,Z
-   2,R
-   7,R,J,G
-   4,R,K,G
-   7,R
+  17,R,U,Z
+   8,R,J,G
+  10,R
   15,R,U,X
    7,L
-  52,R,D
-  10,L,D
-  11,L,D,X
+  44,R,D
+  18,D
+   2,L,D
+   7,L,D,X
   15,L,C
   25,L,D
    9,D
@@ -441,8 +433,7 @@ EndRepeat
    2,L
    3,R
    7,R,J,G
-  15,R,U,X
-   1,R
+  16,R,U,X
   10,R,C
   27,L
   25
@@ -505,10 +496,6 @@ EndRepeat
   10,L
   11,U,X
    8,L
-#spinner cycle
-   0
-##
-
   11,R,U,C
 StunPause 
    4,R,U,C
@@ -739,4 +726,4 @@ EndStunPause
   14,R,U,X
  135,D
 
-ChapterTime: 1:44.720(6160)
+ChapterTime: 1:44.567(6151)
