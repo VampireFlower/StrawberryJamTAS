@@ -1,4 +1,4 @@
-RecordCount: 4113
+RecordCount: 4252
 
 console load StrawberryJam2021/2-Intermediate/Dooshii
    1
@@ -6,8 +6,6 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
 #Start
  106
 
-#Spinner Cycle
-   0
 #lvl_a1
    4,R,Z
    1,R,J
@@ -64,6 +62,7 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
    1,R,J
    9,R,D,X
   40
+
 #lvl_a1.5v2
    5,R,D,X
    1,R,J
@@ -154,6 +153,7 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
    1,R,J
    5,R,D,X
   40
+
 #lvl_a4v2
    9,R,D,X
    1,R,J
@@ -294,6 +294,7 @@ EndRepeat
    1,J
    2,R
   40
+
 #lvl_pushupv2
    5,R
   15,R,J
@@ -318,9 +319,7 @@ EndRepeat
    4,R
   10,R,X
    6,R,J
-   
   15,U,X
-  
   10,R,J
   11,R
    1,G
@@ -418,14 +417,15 @@ EndRepeat
    9,R,Z
    1,R,J
    6,R
-   3,R,J
+   2,R,J
+   1,R
    5,R,D,X
-   1,R,K,G
-  12,R
+   1,R,J,G
+  11,R
    4,R,J
   40
 
-#lvl_a9v2
+#lvl_a9v2 
   12,R,J
   11,U,X
    3,R,J
@@ -440,13 +440,20 @@ EndRepeat
   10,R,C
   27,L
   25
-  15,R,X
-  15,R,C
-  10,R,D
-  17,D
-  16,R
-  12,R,K,G
-   8,R,J,G
+  19,R,U,X
+  15,R,D,C
+   2,R
+  13,R,D
+  20,R
+#+1f  could maybe be faster?
+#   4,J,G
+#   2,K
+#  11,L,K
+#   1,L,J,G
+#  53,L,K,G
+##
+  12,J,G
+   7,K,G
   51,L,D
   14,L,U,X
    1,L,J,G
@@ -466,7 +473,6 @@ EndRepeat
   11,U,C
    4,L
   13,L,Z
-
    1,L,J
    4,L
    1
@@ -493,6 +499,10 @@ EndRepeat
   10,L
   11,U,X
    8,L
+#spinner cycle
+   0
+##
+
   11,R,U,C
 StunPause 
    4,R,U,C
@@ -520,7 +530,6 @@ EndStunPause
    1,R,J
   10,R
    4,R,Z
-
    1,R,J
    7,R
   12,R,J
@@ -626,22 +635,14 @@ EndStunPause
    1,R,J
   15,R,X
    4,R
-  13,L,Z
-   3,L,J
-  11,L,D,X
-  15,R,C
+  16,R,D,X
+   2,R,J
+   7,K
+  10,R,X
+  26,R,J
+  12,R,D
   15,R,X
-  33,R,D
-   8,D
-  11,R,X
-   6,L
-   9,R,U,Z
-   4,R,J,G
-   3,R
-  10,R,Z
-   1,R,J
-  18,R,D
-  14,R,Z
+   4,R,Z
    1,R,J
    7,R
    4,R,J
@@ -732,4 +733,4 @@ EndStunPause
   14,R,U,X
  135,D
 
-ChapterTime: 1:46.471(6263)
+ChapterTime: 1:45.179(6187)
