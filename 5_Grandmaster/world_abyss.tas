@@ -1,4 +1,4 @@
-RecordCount: 9365
+RecordCount: 10120
 
 console load StrawberryJam2021/5-Grandmaster/Dav
    1
@@ -76,16 +76,20 @@ console load StrawberryJam2021/5-Grandmaster/Dav
   60,L,J,G
    1
    8,J
-  79,L,G
-   5
+  36,L,G
+   2,D,G
+   2,G
+  36,L,G
   22,L,U,X
-  18,R,C
-   4,Z
-  58,R,J
-  45,R,U,X
-  47,R,U,C
-   1,R,J,G
-   7,R
+  14,R,C
+   5,R,J
+   6,R,Z
+  21,R,J
+  33,R
+   4,R,D
+  36,R,U,X
+  48,R,U,C
+   1,R,D
    4,R,D,X
    1,R,J
    6,R
@@ -261,56 +265,58 @@ console load StrawberryJam2021/5-Grandmaster/Dav
    5,R,J,G
   17,R
    1,L,J,G
-  24,J
+  22,J
    7
-   8,R
-  11
-   3,D
-   6,L,D
    1,R
-   1,R,D
+   1
    1,R
-   1,R,D
+   2,R,D
+   2,R
+   2,R,D
+   3,R
+   8,L
+   9,L,D
+   4,R
    4,R,Z
-StunPause
    1,R,J
    1,R,K,G
    1,R,J,G
+stunpause
    1,R,K,G
    1,R,J,G
-   7,R
-   1,R,D,J
-   3,J
-   3,R,D,J
+   6,R
+   1
+   7,R,D,J
+endstunpause
    1,R
-EndStunPause
+stunpause
+   6,R
+   3
    1,R
-StunPause
-   3,R
+   2,J,G
+   2,J
    2,R,J
-   5,R
-   5,J,G
-   1,R,J,G
-EndStunPause
-   7,R,G
+endstunpause
+   7,R
   10,R,U,Z
-StunPause
-SkipInput,3,2
+stunpause
+skipinput,3,2
    7,R,U,Z
    2,R,J,G
    4,R,K,G
-EndStunPause
-   6,R,K,G
-StunPause
-   8,R,K,G
-EndStunPause
-   3,R,K,G
-  10,R
-Stunpause
-SkipInput,3,1
+endstunpause
+   6,R,K
+stunpause
+   8,R,K
+endstunpause
+   4,R,J
+   1,R,J
+   8,R
+stunpause
+skipinput,3,1
   13,R,U,Z
-EndStunPause
-   2,R
+endstunpause
+   2
    1,L,K,G
   12,L,J,G
    7,K,G
@@ -354,15 +360,13 @@ EndStunPause
    1,R,J
   14,R,U,X
   76,R,J,G
-
-#lvl_big-2
    1
 
-#bad spinner cycle spot
+#lvl_big-2
+
 ### spinner cycle [big-2]
    1
 ###
-
 
   10,J
    2
@@ -560,9 +564,9 @@ EndRepeat
    9,L
    4,L,Z
   16,L,J
-  62
+  63
+
 #lvl_chill-0 (1)
-   1
 ### spinner cycle [big-3]
    2
 ###
@@ -737,58 +741,58 @@ EndRepeat
    1,J,G
   11,R,K
   25,L,D,X
-  20,R,C
-  10,L
+  15,R,C
+   5,R
+   6,J
+   9
    1,J
-   5,L
-   3
-   2,J
-   5
-  11,R,Z
-   1,L,J
-   6,L
-   1,L,J
-   2,L
-  13,L,D,X
-StunPause
-   2,L,D,X
-   1,L,J
+   2
    7,R
-   2,L
-EndStunPause
-  17,L
-   6,L,U,X
-   1,R,J,G
-StunPause
-   8,L
-EndStunPause
-  10,L
-   3
-   1,L
-   4,L,U,Z
-StunPause
-   7,L,U,Z
-   2,L,J,G
-   3,L,K,G
-   1,L,J,G
-EndStunPause
-  50,L,J
-  11,K
-   4,J,G
-   2,R,J
-   2,L,J
-   6,L,K,G
-   7,L
-###spinner cycle last stun
-   1,R,J
-   1,R
-###
-  13,L,D,X
-   1,R,J
-   1,R
+   6,R,Z
+   1,L,J
+   4,L
+   4,L,J
   14,L,D,X
+stunpause
+   2,L,D
+   1,L,D,J
+   9,L,D
+endstunpause
+  12,L,D
+   1,L
+   1,L,D
+   2,L
+   5,L,U,X
+   1,R,J,G
+   2,L
+stunpause
+   5,L
+   1,L,J
+endstunpause
+  13,L
+   5,L,U,Z
+stunpause
+#dropping the cb here
+#saves 1f lol
+   7,L,U,Z
+   1,L,J,G
+   1
+   1,L,J,G
+endstunpause
+  42,L,J
+   1,K,G
+   1,R,K
+   1,L,K
+   7,L,J,G
+   2,J
+   1,L,J
+   7,L
+#spinner cycle
+   2
+#
+  14,L,Z
    1,R,J
-  14,R,D,X
+  14,R,Z
    1,L,J
    6,L,D,X
    1,L,J,G
@@ -892,44 +896,62 @@ EndStunPause
    2,L,K,G
    1,L
   19,L,K
-   9,L,J
-  43,L
-   4,Z
+   8,L,J
+  38,L
+   4,L,D
+   5,L,Z
    2,L,J
-   2,L,K,G
-  11,L
-  12,L,J
-  20,L,D,X
-   1
-   4,L
-  14,R,Z
-   3,L,J
-   1,R
+   1,L,K,G
+   9,L
+   2,L,J
+  15,L,D,X
    4,L,J
-   4,R
-  14,R,Z
+   3,J
    1,L,J
-   8,L,D,X
+  15,L,D,X
+   4,R,J
+   4
+  10,R,D,X
+   1,J,G
+   6
+   2,R
+   2,R,J
+   8,L
+   1,L,G
+   1,L
+   1,L,G
+   1
+   5,L,D,X
    1,L,J,G
    1,L,K,G
    1,L,J,G
-   7,L
-   4,L,J
+   1,L,K,G
+   1,L,J,G
    6,L
-   8,L,J
-  10,L
-  18,L,D
-  10,L
+   1,S
+   1,C
+  10,L,J
+   1,L
+   2,L,J
+   6,L
+   1,L,J
+   1,L
+   1,L,J
+  37,L,D
 StunPause
-   8,L
    1,L,D
+   1,D
 EndStunPause
-  14,L,D
+   1,D
+   4
+   1,D
+   1
   15,L,Z
- 120,D
+ 128,D
+   3,D
 
 #lvl_a-intro (1)
-  54,D
+  53,D
   24,L,D
    8,L,D,X
 Repeat 4
@@ -986,4 +1008,4 @@ EndRepeat
   14,L,U,X
  135
 
-ChapterTime: 3:23.371(11963)
+ChapterTime: 3:20.549(11797)
