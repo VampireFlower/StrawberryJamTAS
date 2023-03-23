@@ -1,11 +1,10 @@
-RecordCount: 2830
+RecordCount: 2840
 
 console load StrawberryJam2021/1-Beginner/Circumplex
    1
 
 #Start
  104
-
 #lvl_01
    7,L,Z
    1,R,J
@@ -106,7 +105,6 @@ console load StrawberryJam2021/1-Beginner/Circumplex
    7,R,Z
    1,R,J
   40
-
 #lvl_04 
    6,R
    1,R,J
@@ -353,10 +351,10 @@ console load StrawberryJam2021/1-Beginner/Circumplex
    1,R,J
    4,L,J
    9,L,K,G
-   7,L,J,G
+   6,L,J,G
   14,U,X
 ### spinner cycle
-   2
+   0
 ###
   18,U,C
   22,R
@@ -519,4 +517,4 @@ endStunPause
   10
   83,R
  
-ChapterTime: 1:29.369(5257)
+ChapterTime: 1:29.318(5254)
