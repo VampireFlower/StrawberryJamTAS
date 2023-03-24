@@ -1,4 +1,4 @@
-RecordCount: 1935
+RecordCount: 2104
 
 console load StrawberryJam2021/4-Expert/Yoshachobi7
    1
@@ -7,28 +7,29 @@ console load StrawberryJam2021/4-Expert/Yoshachobi7
  190
 
 #lvl_a0
-   2,J
-   3,L,J
-  15,U,X
-   1,L
+   5,L,J
+  14,U,X
+   1,R
   17,R
   15,R,D,X
-   1,R
-  22,R,J
-  26,R,D
+  25,R,J
+  24,R,D
   14,R,Z
    1,R,J
   14,R,D,X
   12,R,G
    6,R
-  34,R,J,G
+  35,R,J,G
    1,R,J
   15,R,X
-  35,R
+  32,R
   15,R,D,X
+
    2,D
-   3
-   7,L,Z
+   1
+   1,D
+   1
+   7,L,D,X
    1,R,J
    6,R
    6,R,J
@@ -58,7 +59,7 @@ console load StrawberryJam2021/4-Expert/Yoshachobi7
    4,J,G
    1
    6,R
-   6,R,Z
+   6,R,D,X
    1,R,J
    6,R
    1,R,J
@@ -68,20 +69,20 @@ console load StrawberryJam2021/4-Expert/Yoshachobi7
    1,R,J,G
   12,R
    1,R,J
-  12,R,D,X
+  10,R,D,X
   40
 
 #lvl_a1
-   2,R,D,X
+   4,R,D,X
    1,R,J
-  14,R,D,X
+  11,R,D,X
   11,R,J
   14,L,J
   14,L
   20,R,J
   35,R,G
-   4,R
-   8,L
+   3,R
+   9,L
   10,L,D,X
   10,R,J
   17,R,U,X
@@ -96,8 +97,11 @@ console load StrawberryJam2021/4-Expert/Yoshachobi7
   14,R,U,Z
   30,R
   12,R,G
-  10,R
-  13,L,D
+   8,R
+   1
+   1,R
+   9,L,D
+   5,L
    8,L,Z
   27,R
   35,R,G
@@ -594,4 +598,4 @@ console load StrawberryJam2021/4-Expert/Yoshachobi7
   14,R,U,X
  135,D
 
-ChapterTime: 1:51.554(6562)
+ChapterTime: 1:51.469(6557)
