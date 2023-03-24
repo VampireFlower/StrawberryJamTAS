@@ -133,72 +133,73 @@ console load StrawberryJam2021/3-Advanced/Julia
   15,L,X
   15,D,C
   15,R
-  41,R,J
-  13,U,X
+  22,R,J
+  14,R,U,X
   15,G
   25,R,G
-  24,R
-  46,D
-  15,L,U,X
-  18,L
+   1,R
+  30
+  14,D
+  22,L
   15,L,X
-  16,R
-  15
-  16,R,K
+   9,L
+   2,L,J,G
+  15,L
+  28
+   1,J
+  13,R,J
   15,U,X
-   3,R
-  10,R,J
-   8,R
-  39,R,J
-   7,R,D
+   2,R
+   5,R,J
+  39,R
+   5
+  15,R,X
   15,R,Z
   13,R
   10,R,U,X
-  92,R,U,G
-  23,R,D,G
+  80,R,U,G
+  25,R,D,G
   27,D,G
    1,R,D,G
-  50,R,U,G
+  19,R,U,G
+   1,R,D,G
+  30,R,U,G
    7,R
   14,U,X
-  20,R,G
+  21,R,G
   15,U,X
   12,R
-   3,R,J
+   2,R,J
+   3,J
    6,R,Z
-   3,R,J
+   2,R,J
    2,R,K,G
    6,R
-   1,R,J,G
-  10,R
-  61
-   1,R
-   1,R,J
-   6,R,Z
-   1,R,J
-   6,R
-   1
-   1,R,J
-   1,J
-   1
-   1,R
-   1,R,J,G
-   1,R
-   3
-  10,R,Z
-   1,R,J
+   2,R,J,G
    7,R
+  61
+#lvl_a-05intro
+   6,R,K
+   1,R,J
+   4,R
+   3
+   1,R,K,G
+   4,R
    1,R,J,G
-   6,R,D,X
+   3,R
+  14,R,D,X
    1,S
-  10,D,J
-  25
-   4,R,J
-   5,R
-  15,R,D,X
+   1,D,J
+  34
+   5,R,J
+   3,R
+  14,R,D,X
   64
 #lvl_a-05
-  15,R,J
+   1,D,X
+#looses a frame over 15,R,J to align spinner cycle
+  11,R,J
+   5,R
   11,R,D,X
    4,R,J
    4,R,K
@@ -316,4 +317,4 @@ endStunpause
    7,R
   13,R,U,X
  135
-ChapterTime: 1:03.750(3750)
+ChapterTime: 1:02.883(3699)
