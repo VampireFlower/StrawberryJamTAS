@@ -202,7 +202,7 @@ console load StrawberryJam2021/3-Advanced/Julia
   64
 #lvl_a-05
    1,D,X
-#loose a frame over 14,R,J
+#loose a frame over 14,R,J for spinner cycle
   13,R,J
    2,R
   11,R,D,X
