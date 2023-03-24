@@ -1,4 +1,4 @@
-RecordCount: 1744
+RecordCount: 2257
 
 #console wipedebug
 
@@ -22,6 +22,7 @@ console load StrawberryJam2021/4-Expert/rdoggo8
   40
 
 #lvl_a-02
+
   11,K
    8,R,Z
    1,R,J
@@ -323,42 +324,43 @@ console load StrawberryJam2021/4-Expert/rdoggo8
   40
 
 #lvl_a-08
-   9,R,U,X
-   3,R,J,G
-   7,R
-  21,R,J,G
-   7,R
-  26,R,U
-  44,R,U,G
-   9,D
-  12,U,X
-  46,R,U,G
-   3,D
-   6,R,D
-  12,U,X
-  20,R,G
-   2,G
-  12,D
-   2,D
-   3,L,D
-   5,U,X
-  30,R,G
-   3,R,G
-  10
-  10,R,U,X
-   5,U,C
-  23,R,G
-   2,G
-   2,G
-  13,D
-   9,U,X
-  13,R,G
-  15,R,G
-   9,G
-   1,D
+   8,R,U,X
    1,J,G
-  12,J
-   1,K,G
+   7,R
+   4,R,Z
+   1,R,J
+   1
+  11,R
+  13,G
+   8,R,J,G
+   9,R,G
+  16,R,U,J,G
+   7,R
+  14,U,X
+  43,R,G
+   3,D
+   4,R
+   1
+   1,R
+  12,U,X
+  33,R,G
+  11,D
+   1,R
+   9,U,X
+  26,R,G
+   3,R,G
+   1,R
+  12,R,U,Z
+   6
+   5,U,X
+  27,R,G
+  10
+  11,U,X
+  30,R,G
+   1,L
+  10,R,J,G
+   1
+   1,J,G
    7
   15,U,X
    1,J,G
@@ -386,45 +388,49 @@ console load StrawberryJam2021/4-Expert/rdoggo8
    5,R,X
   33,R,G
    4,R,J,G
-  45,R,K,G
+  44,R,K,G
   16,R,D,G
-   2,R
-  17,L,D
-   4,L
-  19,L,X
-  13,U,C
+   2,D,G
+   1,R
+  18,L,D
+   3,L
+  15,L,X
+   4
+  13,U,X
   35,G
-  11,D
+   5,D
+   6,R
   10,U,X
-  24,G
-   1,L
-  16,R,X
-  10
-  14,U,X
-   8
+  13,G
+  15,R,G
+   1,R
+  15,R,X
+   9,U,C
+   1
    5,R,X
-  38,R,G
+  37,R,G
   14,R,D,G
    1,R
   13,L,D
-  22,L,X
-#you can probably make this cycle earlier
-#by throwing the jelly differently
-#dont want to deal with this rn
-  77,R,G
-  12
+  21,L,Z
+   4,R,G
   20,R,X
    4,R,J
    1,R,K
-  35,R,K,G
+  13,G
+   2,R,K,G
+  19,R,G
    1,R
-  12,L,D
-   5,R,D
-  27,R,D,G
-  21,R,U,X
-  58,R,G
+  25,R,D,G
+  11,R,G
+   7,R
+  14,R,U,Z
+  45,R,U,G
+   3,R,G
+   2,R,U,G
    1,L
-  23,R,D,X
+  15,R,D,X
+   5,R,D
    2,R,J
    7,R,Z
    1,R,J
@@ -581,26 +587,33 @@ console load StrawberryJam2021/4-Expert/rdoggo8
   15,R,D,X
   19,R,J
   31,R,D,X
-  95,R,D
+  84,R,D
+  11,R
   42,R,Z
    4,R,J
-  10,R,K
+   5,R,K
+   4,R
   15,R,D,X
   14,R,J
-  16,R,D,X
-   1,R,J
-  27,R
-  14,R,U,X
-  41,R
-  40,R,G
+  15,R,D,X
+   1,R
+  24,R,J
+  15,R,D,X
+   2,R
+  34
+   3,R
+  43,R,U,G
    1,L
-  65,R,D,X
-  10,D
-   4,Z
+  15,R,D,X
+  45,R,D
+   8,D
+   8
+   4,R,Z
    1,R,J
-   7,R
-   6,R,J
-  16,R,U,X
+   6,R
+   4,R,J
+  15,R,U,X
+   4,R
  135
 
-ChapterTime: 1:54.427(6731)
+ChapterTime: 1:51.469(6557)
