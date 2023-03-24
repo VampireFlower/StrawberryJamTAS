@@ -1,4 +1,4 @@
-RecordCount: 7828
+RecordCount: 8008
 
 console load StrawberryJam2021/1-Beginner/coffe
    1
@@ -455,35 +455,34 @@ console load StrawberryJam2021/1-Beginner/coffe
 
 #lvl_c-15
    5,R
-   1,R,J
-  10,R,D,X
    2,R,J
+   5,R
+   1,R,J
+   5,R
+   4,R,J
+   3,R
+  10
    1,R
-   1,R,K,G
-  10,R
-   1,L,J
-  20,D
-   1
-   1,R
-   1
+  12
    1,D
-   6,R,D
-   1,R,G
+   5,R,D
+   1,G
   14,R,J,G
-   7,U,X
-  33,R,J
+   8,U,X
+  28,R,J
+   2,J
    1,R
-   1,R,G
-  18,L,J
-   2,K,G
-   1
-   2,J,G
-   1,R
-   1
-  20,R,J
-   1,K
    3,R,J
-   4,R
+   1,G
+   1,L,J
+  16,L,K
+   1,L,J,G
+   2,J
+   1,K
+   2,J,G
+  18,R,J
+   1,K
+   7,R,J
   18,L,X
   40,R,D
    1,G
@@ -596,4 +595,4 @@ console load StrawberryJam2021/1-Beginner/coffe
   12,R,U,X
  135,R
 
-ChapterTime: 1:23.130(4890)
+ChapterTime: 1:23.011(4883)
