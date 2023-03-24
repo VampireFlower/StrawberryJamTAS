@@ -5,8 +5,23 @@ console load StrawberryJam2021/3-Advanced/Julia
 
 #Start
   69
-#spinner cycle
-   1
+
+
+#  14,R,Z
+#  15,R,J
+#  15,R,D,X
+#   1,R,J
+#  11,R,D,X
+#   1,S
+#   1,D,J
+#  34
+#  11,R,J
+#  40
+#   1,R,J
+#  15,R,D,X
+# 100,R,J
+
+
 #lvl_a-01
   14,R,Z
    1,R,J
@@ -16,7 +31,8 @@ console load StrawberryJam2021/3-Advanced/Julia
    1,R,J
    9,R,D,X
    1,S
-  35,D,J
+   1,D,J
+  34
    1,R,K
   12,R
   40
@@ -24,6 +40,7 @@ console load StrawberryJam2021/3-Advanced/Julia
    6,R
    1,R,J
   10,R
+#0:02.499(147)
    7,U,X
   13,G
    9,U,G
@@ -175,71 +192,88 @@ console load StrawberryJam2021/3-Advanced/Julia
   14,U,X
   21,R,G
   15,U,X
-  11,R
-   3,R,J
-   2,R
-   6,R,Z
+   8,R
+   3
+### spinner cycle [a-07]
+   0
+###
+   1,L,J
+   2,L
+  10,R,Z
    2,R,J
-   3,R,K,G
-   5,R
-   2,R,J,G
-   7,R
+   4,R,K,G
+   3,R
+   5,R,D,X
+   1,R,J,G
+   9,R
   61
+
 #lvl_a-05intro
+   1,R
+   5,R,D,J
+   3,R
+   6,R,D,X
+   2,R,J,G
    6,R
    1,R,J
-   4,R
-   3
-   1,R,K,G
-   4,R
-   1,R,J,G
-   3,R
-  14,R,D,X
-   1,S
-   1,D,J
-  34
-   5,R,J
-   3,R
-  14,R,D,X
-  64
-#lvl_a-05
-   1,D,X
-  14,R,J
-  11,R,D,X
+   2,R
+   1,R,J
+   8,R,D,J,X
+   1,J,S
+   1,D,J,O
+  34,J
+   1,R,D,J
+   7,R
    4,R,J
-   4,R,K
-  16,U,X
-  21,G
-   1,L,D,G
-   6,U,X
-  22,G
-  20
-   8,R
-   6,R,D
-   3,D
-  10,R,X
-  13,R,J
-  15,R,X
-   4
-  15,D,X
-   6,R,D
+   1,R
+  64
+
+#lvl_a-05
+   9,R
+   1,R,D
+   2,R
+   6,R,J
+   5,U,X
+  12
+  13,G
+   8,G
+   1,L
+   6,R,U,X
+  13,L,G
+   8,L,G
+   1,L
   15,R,D,X
-   7,R,D
-   2,D
    1,L,J
-  13
-  13,L,D,X
-  20,R
+   9,R,X
+  12,R,J
+  15,R
+  15,D,X
+   1,D
+   6,R,D
+   2,R
+  15,D,X
+   9,R,D
+   6
+   4,R
+   1,J,G
+   4
+   1,L
+  13,R,D,X
+   5,R,J
   10,U,X
-  12,G
-  12,R,G
-   8,U,X
-  22,G
-   1,L,G
-   4,X
-  35,R,X
+  13,G
+  11,R,G
+   1,R
+   5,U,X
+  13,G
+   8,R,G
+   1,L
+   6,R
+   8,R,X
+  25
   18,L,D,C
-  18,D,X
+  14,D,X
+   4,D
   11,R,D
   18,R,X
   10,R,D,C
@@ -260,8 +294,9 @@ console load StrawberryJam2021/3-Advanced/Julia
    6,R
    1,R,J
    9,R,K,G
-#lvl_a-07
   40
+
+#lvl_a-07
   14,R,D,X
   30,R,J
   18,R,U,X
@@ -314,6 +349,7 @@ endStunpause
    1,R,J
    7,R,D,X
   40
+
 #lvl_a-06
    7,R,D,X
    1,R,J
@@ -324,4 +360,4 @@ endStunpause
    7,R
   13,R,U,X
  135
-ChapterTime: 1:02.220(3660)
+ChapterTime: 1:01.251(3603)
