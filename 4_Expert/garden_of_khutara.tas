@@ -1,4 +1,4 @@
-RecordCount: 4548
+RecordCount: 6039
 
 console load StrawberryJam2021/4-Expert/DanTKO
    1
@@ -132,79 +132,20 @@ console load StrawberryJam2021/4-Expert/DanTKO
    5,R,K
    3,K
    1,R,K
-   1,K
-   1,R,K
-   1,K
-   1,R,K
-   1
    1,R
-   6,L
-   1,R,J,G
-   1,L,J
-   1,R,J
-   6,J
-   1
-  14,R,Z
-   5,R,J
-  15,R,D,X
-   2,R
-   9,R,D
-   1,R,J
-   4,R,D,X
-   1,R,J
-   3,R
-   1,R,K
-   3,R
-   6,R,J
-  43
-
-#lvl_DanTKO_blueTutorial_2
-   6,R,J
-  15,R,D,X
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   2,R,J
-   9,R
-   1,R,K
-   2,R
-   1
-  14,R,U,X
-   1,R,J,G
-   1
-  20,R,D
-   2,R
-   1,R,D
-   1,R
-   1,R,D
-  10,R,J,G
-   5,R
-   1,R,K,G
-   7,R
-   1,R,J
-   6,R,D,X
-   1,R,J
-   5,R
-   1,R,J
-   1,R
-  43
-
-#lvl_DanTKO_03
-   6,R
-   1,R,K
-   1,R
-   1,R,K
-   5,R
-  15,R,D,J
-  14,R,U,X
-   3,R,J,G
    2
-   3,R
-   1,K
-  20
-  13,D
-   4,R,D
+   1,R
+  12,R,X
+  12,R,J,G
+   7,R
+   5,R,D
+  15,D
+   1,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R
+   1,D
    1,R,J
    1,R,K
    1,R,J
@@ -213,19 +154,72 @@ console load StrawberryJam2021/4-Expert/DanTKO
    1,R,K
    1,R,J
    2,R,K
-   3,R
-  13,R,U,X
    1,R,J,G
-   7,J
+   9,R
+   7,R,J
+  43
+
+#lvl_DanTKO_blueTutorial_2
+   5,R,J
+  15,R,D,X
    1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   6,R,D,X
+   1,R,J
+   1
+   1,K
+   1,R
+   1,R,K
+   4,R
+   1,R,J
+   2,R,K
+  14,R,U,X
+  11,R,J,G
+  10,R,D
+   1,D
+  13,R,D
+   3,R,J
+   2,R,K,G
+   7,R,D,X
+   3,R,J
+   4,R
+  43
+
+#lvl_DanTKO_03
+   2,R,K
+   3,R
+  10,R,D,J
    2,J
+   7
+  14,R,U,X
+   1,J,G
+   2,R,J
+   3
+   4,R
+  13
+  17,D
+   4,R,D
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   2,R
+   1
+  14,R,U,X
+   1,R,J,G
+   8,J
+   2,R,J
   24,L,D
    1,R,D
    1,D
    1,R
-   9,L
-   1
-   1,L,G
+  11,L
   13,J,G
   17,R
    3,R,J,G
@@ -263,17 +257,19 @@ console load StrawberryJam2021/4-Expert/DanTKO
   10,R,J
    1,R
   10,R,K
+   6,R
+   2
    1,R
-   8,R,K
    8,U,X
   11,R,J
-  13,R
+  11,R
+   1,K
+   1
    6,R,Z
    1,R,J
-   5,R
-   1,R,J
-   1,R,K,G
-   1,R
+   4,R
+   2,R,J
+   2,R,K,G
   14,R,D,X
    1,R,J
   11,R,D,X
@@ -282,24 +278,22 @@ console load StrawberryJam2021/4-Expert/DanTKO
   43
 
 #lvl_DanTKO_04
-   3,R
-  10,R,J
-   9,U,X
-   9,R,J
-  15,R
+   1
+   2,R
+   2,R,J
+   1,R
+   6,R,K,G
+  14,R,U,X
+  12,R,J,G
+   7,R
   14,R,Z
-  56,R,J
-  11,U,X
+  55,R,J
+  10,U,X
   13,R,J
    4,R
    1,R,K,G
-   5,R,D
-   2,R,J
-   2,D
-  19,R,D
-   1,R
-   1,R,D
-   1,R
+  27,R,D
+   3,R
    8,R,Z
    1,R,J
    6,R
@@ -309,98 +303,67 @@ console load StrawberryJam2021/4-Expert/DanTKO
   40
 
 #lvl_DanTKO_05
-   3
-   2,R
-   9,R,D,X
    1,R,J
-   7,R
+   1,R
+   2,R,K
+  14,R,D,X
    1,R,J
-  10,R,D,X
+  12,R,D,X
    8,R,J
   15,R,D,X
-   5,R
-  21,R,D,X
-  15,D,C
-   6,R,D
-#Spikeclimb strat, +0f
-#  11,R,Z
-#  22,R,J
-#  15,U,X
-#   4,R
-#   1,L
-#  16,K,G
-#   2,L,K
-#   4,L,J,G
-#  15,L
-#   3,R
-#   6,R,K
-#  17,R,D
-#  16,L,D
-#   5,D
-#  10,L,D,X
-#  31,R,J
-#  14,U,X
-#  15,R,J
-#  25,R
-#   7,R,D
-#  10,D
-#  10,L,D,X
-#   6,R,J
-#  19,R,U,Z
-#   2,R,J,G
-#   9,R
-#   6,L,J,G
-#   7,J
-#   7,L
-#  10,L,Z
-#   5,R,J
-#   1,R
-#  27,R,J
-#   6,R,D
-#  14,R,U,Z
-#   3,J,G
-#   9,R
-#   6,R,Z
-#   1,R,J
-#   7,R
-#   1,R,J
-#  14,R,D,X
-#   1,R,J
-#  14,R,D,X
-##
-  10,R,Z
-  30,R,J
-  14,U,X
-  11,L,J
-  24,L
-   8,R,J
-  18,R
-   3,R,D
-   0,D
-  16,L,D
-  13,L,D,X
-  31,R,J
-  14,U,X
-  15,R,J
-  25,R
-   7,R,D
-  10,D
+   7
+   3,D
+  13,R,D
+  13,R
   10,L,D,X
-   6,R,J
-  19,R,U,Z
-   2,R,J,G
+  29,R,J
+  12,U,X
+  12,L,J
+   4,L
+   1,L,J,G
+  10,L
+   4
+   4,R,J
    9,R
+   1,R,K
+   6,R
+  15,L,D
+   6,D
+   1,L,D
+  10,L,D,X
+  28,R,J
+   3,J
+   2,R,J
+  10,U,X
+  16,R,J
+  12,R
+   1,R,K
+  13,R
+   5,R,D
+   6,D
+  10,L,D,X
+   4,R,J
+   1,R
+  20,R,U,Z
+   1,R,J,G
+   1,R,K,G
+   4,R
+   4,L
    6,L,J,G
-   6,J
-   7,L
-  10,L,Z
-   5,R,J
-   1,R
-  25,R,J
-   1,R,D
-   1,R
-   4,R,D
+   2,J
+   4,L,J
+   1
+   2,L
+   4
+  10,L,D,X
+   8,R,J
    2,R
+   2,R,K
+   1,R
+   1,R,K
+  21,R
+   3,R,D
+   1,R
   14,R,U,Z
    1,R,J,G
    1,L,J
@@ -412,303 +375,328 @@ console load StrawberryJam2021/4-Expert/DanTKO
   14,R,D,X
    1,R,J
   14,R,D,X
-   1,R,J
   43
 
 #lvl_DanTKO_06
+   1,R,J
   14,R,D,X
-   6,R,J
+   5,R,J
   18,R,D,X
-   8,R,J
-   2,R
-   1
-  10,R
-   4,R,J,G
+   2,R,J
+   5,R
+   2,R,K
+   5,R
+   2,R,J,G
+   5,R
+   3,R,J,G
   15,R,D,X
-   1,R,J
-   2
-   3,R
-   1,R,J
-   8,R
-   1,L
-   5,J,G
-  18,R,U,X
+   4,R
+   4,R,D
+   5,R,D,J
+   4,R
+  17,R,U,X
+   1,J
    5,U,C
-   9,J
-   2
-   8,R,X
+   7,J
+   3
+   7,R,X
    3,R,J,G
   10,R
+# reverse hyper into downdash?
   15,D,X
    1,L,J
-  27,D
+   4,J
+   1,L,J
+  15,D,X
    2,R,D
    1,D
    1,R,D
    1,D
    1,R,D
    1,D
-   2,R,D
-   4,R,Z
+   1,R,D
+   1,D
+   2,R
+   5,R,Z
    1,R,J
    7,R
-   1,R,J
-   6,R
-   1,R,J
-   2,R
-  15,U,X
-   3
-   7,L
-  10,L,D,X
-  17,R,J
-  12,R,D,X
+   9,R,J
+   5,R
+   3,R,K
+   4,R
+   1
+  14,R,U,X
    1,R,J,G
-   6,R
+   1
+   4,R
+   2,R,K
    1,R,J,G
   23,R,D
    1,R,J
-   7,R
+   9,R,D,X
    1,R,J
-   7,R
+   4,R
    1,R,J
-   1,R
+  11,R,D,X
+   1,R,J
   43
 
 #lvl_DanTKO_06b
-   1
+   4,R
+   1,R,J
+   4,R,D,X
+   1,R,J
    5,R
    1,R,J
-   3,R
-   1,R,J,G
-  14,R
-   1,R,J
-   1,J
-   4,R,J
-   9,R,D,X
+  11,R,K,G
+   1
+  15,R,D,X
+   6,R,J
+   5,R,D,X
    1,R,J,G
   13,R
    1,R,J
   14,R,D,X
-   3,R,J
-   5,R
-   2
-  10,R,J
-   8,R,D,X
-   1,R,J,G
-   2
-   9,R
-   3,R,J
-   1,R,K,G
-  12,R,D,X
-  43
-
-#lvl_DanTKO_07
-   2,R,D,X
    1,R,J
-  14,R,D,X
+  13,R,D,X
    1,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-  14,R,J
-   2,R
-  15,R,D,X
-   2,R
-  26,R,D
-  21,R
-  15,R,D,X
-   8,R,D
-   2,L,D
-  14,R,X
-  30,R,J,G
-  13,L
-  10,L,Z
-   5,R,J
-   5,R
-   1,J
-   1,R,J
-   6,R
-  14,R,U,X
-   2,R,J,G
-   3
-   4,R
-  10,R,Z
-   1,R,J
+   4
    1,R
-   2,R,J
-  28,R,D
-   1,D
-  14,R,D,X
-  10,R,J
-   5
-  15,U,X
-  10,L,J,G
-   2,R
-  15,R,J,G
-  10,R,D,X
-  15,R,J
-  15,R,D,X
-   5,R,J
-  43
-
-#lvl_DanTKO_08
-   3,R,J
-  13,R,D,X
    1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   8,R,K
-  15,R,D,X
-  10,R
-  15,R,D
-  15,R,Z
-   2,G
-   8,J,G
-   4,G
-  43,R,J,G
-   8,D
-   1,R,D
-   2,D
-  10,R,Z
-  28,R,J
-  14,U,X
-  13,R,J
-   9,R,D,X
+   4,R
+   5,R,D,X
    1,R,J,G
-  17,R
-  13,R,D,X
-   1,R,J
-  33,R
-  17,R,X
-  14,U,C
-  15,L,J
-  15,L
-   1,K
-  25,L,K
-  16,J
-   5,R,J
-  38,R,K,G
-  10,L,D
-  11,L,D,X
-  22,R,J
-  16,R,U,X
-   7,L
-  21,R,U,X
-  12,L
-  10,L,D,X
-   5,R,J
-   3,R
-   9,L
-   3
-   4,L,D
-  16,R,D,X
+   9,R
    1,R,J
    6,R,D,X
    1,R,J
-   7,R
+   5,R
+   1,R,J
+  43
+
+#lvl_DanTKO_07
+   1
+  13,R
+  23,R,D,J
+   1,R
+   1,R,K
+   2,R
+  14,R,Z
+   6,R,J,G
+   1,R
+   8,R,K
+   1,R
+  10,R,J
+   5,R
+   3,R,K
+   5,R,K,G
+  20,R
+   1
+  29,R
+   6,R,J,G
+  15,U,X
+  10,L,J,G
+   2,R
+   1,R,J,G
+   8,R
+   1,R,K
+  13,R,Z
+   1,R,J
+   6,R
+   7,R,J
+  15,R,D,X
+   4,R,J
+  43
+
+#lvl_DanTKO_08
+   1,R,J
+   2,R
+  13,R,D,X
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J,G
+   7,R,K
+  15,R,D,X
+  11
+  19,R
+   2
+  15,U,X
+   1,L
+   6,R,J
+  12,R
+   2,R,K
+  19,R,D
+   2,D
+   1
+   1,R,D
+   1
+  10,R,Z
+  24,R,J
+   1,J
+   1,R,J
+   1,J
+  10,U,X
+   8,R,J
+   6,R
+  15,R,X
+  10,R
+  14,R,D,C
+   5,R,J
+   1,R
+   2,R,K
+   6,R
+   1
+  14,R,U,Z
+   1,R,J,G
+   3
+   2,K
+   1,J
+   8,L,J
+   5,L
+   7,L,K
+   2,K
+   1,L
+   1
+   2,J
+   1,R,J
+  10,J
+   1,R,J
+  14,R,K,G
+  28,R,D
+  10,L,D,X
+  21,R,J
+  14,R,U,Z
+   1,R,J,G
+   7,L
+  18,R,U,X
+  14,L
+  10,L,D,X
+   5,R,J
+   1,R
+   3
+   1,K
+   1
+   1,K
+   2
+   2,R,D
+   3,D
+   8,R,D
+  14,R,D,X
    1,R,J
   14,R,D,X
    1,R,J
-   5,R,D,X
+   7,R
+   1,R,J
+   7,R,D,X
   43
 
 #lvl_DanTKO_09
    5,R,D,X
    1,R,J
-   4,R
+   2,R
   14,R,D,X
    1,R,J
+   1,R
   18,U,C
-  28,L,G
-   7,D,G
+   9,L,G
+   1,L,D,G
+   1,L,G
+   1,L,D,G
+   3
+   2,L
+   6,L,G
+   1
+   1,J
+   1,K,G
+   1
+   9,R,X
    1,J,G
-   1,L,K,G
-   1,L,J,G
-   2,R
-   1,R,J,G
-  12,R
-   8
-   2,R,J
-   4,R
-   8,R,J
-  12,R,U,Z
-   8,R,J,G
-   9,L
+   8,R
+   1
+  11,R
+   1,R,J
+  10,R
+  13,R,U,Z
+   6,R,J,G
+  10,L
   12,L,D,X
    5,R,J
-   5,R
   20,R,D,X
-  17,R,J
-  13,L
-  10,L,D,X
+  19,R,J
+   8,L
+  14,L,Z
    3,R,J
    1,R
   10,R,J
-  22,R
-  15,R,X
-   7,R,J,G
-  17,R
-  18,R,X
-  14,L
-  12,L,D
-  11,R,U,Z
-   1,R,J,G
-   4,R
-  17,L
-   1,R,J
-  10,R
+  19,R,D
    1
-   9,R
-   2
+  17,R,X
+   8,R,J,G
+  12,R,D,X
+   8,R,J,G
    1,R
-  10,R,Z
-   7,R,J
-   7,R,K,G
-  15,U,X
-   5,L
-  25,L,J,G
-  24,R,X
-  11,R,C
-   8,R,J
-   2,R,K,G
+   5
+  15,R,D,X
+  11,R,D
+   3,R
+   1,R,D
+  19,R,D,J
+   1,R,K,G
+   1,L,K
+   4,R,J,G
+   4,J
+   1,R,J
+   1,J
+   2,R,J
+   1,L,J
+   8,K,G
+   2,R,K
+   5,L,X
+  14,L,J,G
+   2,R
+  14,R,D,X
+   3,R,J,G
   11,R
-  18,R,D,X
+  14,R,X
+   8,R,J
+   6,R,K,G
+   1,K
+  20,R,D,X
+   1,R
    1,R,J
    1,R,K
    1,R,J
-   3,R,K
+   4,R,K
    1,R,J,G
-  10,R
+   7,R
   43
 
 #lvl_DanTKO_Outro
-   1,R
-   4,R,J
-   6,R
-  20,R,D,X
-   2,R,J
-   1,R
-   9,R,D,X
-   2,R,J,G
-   6,R
-   1,R,J
-   2,R
+   4,R
    7,R,J
-  10,R,D,X
-   4,R,J,G
+  20,R,D,X
+   5,R,D,J
+   1,J
+   9,R,D,X
+   1,R,J,G
    1
-  20,R
-   2,R,D,J
-   1,R,K,G
-   6,R
+   8,R
+   1,R,K
+   7,R
+   3,R,J
+   2,R,K,G
+   3,R
+  15,R,D,X
+   8,R,D,J
+   4,R
   14,R,U,X
+
 Repeat 67
    1,L
    1,R
 EndRepeat
    1,L
 
-ChapterTime: 1:26.071(5063)
-
+ChapterTime: 1:18.880(4640)
