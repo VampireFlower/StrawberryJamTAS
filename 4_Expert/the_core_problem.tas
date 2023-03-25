@@ -1,4 +1,4 @@
-RecordCount: 1462
+RecordCount: 1687
 
 console load StrawberryJam2021/4-Expert/Banana23
    1
@@ -46,8 +46,7 @@ console load StrawberryJam2021/4-Expert/Banana23
   19,R,C
   17,R,X
   11,R,D,C
-   1,R,J
-   3,R,J
+   4,R,J
    9,R,K,G
   40
 
@@ -76,21 +75,19 @@ console load StrawberryJam2021/4-Expert/Banana23
   15,L,C
    2
   16,L,D
-  15,L,Z
-  14,L,U,X
+  16,L,Z
+  14,L,U,V
   20,L,C
-  14,U,X
-   5,L,J
-  39,L
-   1,L,G
-   1
-   1,J
-  15
-  14,L,Z
-   1,R,J,G
-   9,L,J
-   6,L
-  25,L,J
+  11,L,D
+  15,L,Z
+   7,L
+  11
+   2,L,D
+   1,R,D
+   2,K,G
+  19,L,J
+  15,L,U,X
+  28,L
   19,L,X
   13,U,C
    1,L,J
@@ -99,8 +96,9 @@ console load StrawberryJam2021/4-Expert/Banana23
   17,D
   15,U,X
   15,L,C
-  30,L,D
-   2,L
+  12,L,X
+  15,D,C
+  10,L,D
   14,L,Z
    1,L,J,G
    3,J
@@ -209,14 +207,14 @@ console load StrawberryJam2021/4-Expert/Banana23
   10
    2,R
    2,R,G
-  11,R,D
-   6,R,G
+  12,R,D
+   5,R,G
    1,R
    1,R,J,G
    1,R,K,G
    1,R,J,G
    1,R,K,G
-  13,R,D,X
+  12,R,D,X
   12,U,Z
   34,R
   15,U,X
@@ -336,11 +334,17 @@ console load StrawberryJam2021/4-Expert/Banana23
   12,U,X
   19,R,J
   15,R,D,X
-  15,R,U,Z
-  10,R,G
-  16,D,G
-  16,G
-  10,L,Z
+   1,R
+   6,R,C
+  11,J,G
+   7
+   1,G
+   9,R,D
+  11,D
+   7,L,D
+   1,D
+   2,L,D
+   9,L,Z
   13,R,C
   24,R,J,G
   10,U,X
@@ -431,8 +435,7 @@ console load StrawberryJam2021/4-Expert/Banana23
   15,U,X
   15,U,C
   10
-   1,R
-   5,R
+   6,R
    3
    9,J,G
    8,L,K
@@ -508,9 +511,9 @@ console load StrawberryJam2021/4-Expert/Banana23
   15,R,X
    6,R,D
   23,L,D
-  30,L,G
+  27,L,G
    5,L,J,G
-  13,U,X
+  13,U,Z
   17,R,J
    6,U,X
   11,R,J
@@ -522,7 +525,7 @@ console load StrawberryJam2021/4-Expert/Banana23
   21,R
   22,R,X
 #spinner cycle
-   1
+   0
 ##
   13,R,C
    3,R,G
@@ -530,70 +533,32 @@ console load StrawberryJam2021/4-Expert/Banana23
   10,L,Z
    5
   13,R,X
-  21,R,J,G
-#cuts 20 pauses but softlocks 
-#  20,R,J
-#stunpause
-#   2,R,J
-#skipinput 3 1
-#  15,R,X
-#   2,R
-#skipinput 3 1
-#  15,R,Z
-#   1,R
-#skipinput 3 1
-#  14,R,U,Z
-#   2,J,G
-#endstunpause
-#   3,J,G
-#   4,K,G
-#   2,R,K
-#   6,R
-#   7,R,J,G
-#   4,R
-#  10,R,D,X
-#   6,R,J
-#   5,R,D,X
-#   1,R,J,G
-#   6,R
-#  40
-#   5,R
-#   2,R,J
-#   2,R
-#  14,R,X
-#   3,R,J,G
-#  14,R,D,X
-#   1,R,J
+  12,R,J,G
+  22,R
+   9,R,X
 stunpause
-  18,R,J
-skipinput 3 1
-  15,R,X
-   3,R
-skipinput 3 1
-   9,R,C
-skipinput 3 1
-   9,R
-skipinput 3 1
-  15,L,X
-skipinput 3 1
-  15,R,U,C
-skipinput 3 1
-   8,R,U,X
-endstunpause
-  24
-   2,R
-   3,R,J,G
-   3,R
-   2
-  10,R
-   3
-   1,R
-   1,R,D,J
-   1,R,K,G
-   1,R,J,G
   11,R
+skipinput 3 1
+  11,R,C
+skipinput 3 1
+  10,R
+skipinput 3 1
+   8,R,D,X
+   3,K,G
+   2,R,K
+   1,L,K
+   1,R,K
+skipinput 3 1
+  11,U,X
+endstunpause
+   6
+   6,R,U,X
+   1,R,J,G
+   1,J
    1,R,J
-   6,R
+  14,R
+   1,R,J
+   9,R
    1,R,J,G
    7,R
   40
@@ -623,4 +588,4 @@ endstunpause
   34,D,X
  138
 
-ChapterTime: 1:56.535(6855)
+ChapterTime: 1:52.744(6632)
