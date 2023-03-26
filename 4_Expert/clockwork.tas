@@ -560,7 +560,6 @@ endrepeat
   15,R,D
   12,L,D
   12,L,X
-
   17,R
   15,R,D,X
    8,R
@@ -718,7 +717,6 @@ endrepeat
   23,U,X
   20,R,J
   24,R,X
-
   22,L
   16,L,U,X
    5
@@ -727,7 +725,6 @@ endrepeat
   15,U,X
   12,U,C
   50
-  
   10,L,X
   24,R,J
   14,R,X

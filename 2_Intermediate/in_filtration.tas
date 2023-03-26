@@ -2,8 +2,10 @@ RecordCount: 5278
 
 console load StrawberryJam2021/2-Intermediate/Jems
    1
+
 #Start
   82
+
 #lvl_btd-00
    5,R
    1,R,J
@@ -215,6 +217,7 @@ console load StrawberryJam2021/2-Intermediate/Jems
   14,R
    1,R,J
   40
+
 #lvl_btd-06
    9,R,J
   20,R,D
@@ -804,6 +807,7 @@ console load StrawberryJam2021/2-Intermediate/Jems
    1,R,J
   13,R
   40
+
 #lvl_btd-42
 #this strat may not actually save time compared to a fast version of the normal route
    1,R
@@ -901,6 +905,7 @@ console load StrawberryJam2021/2-Intermediate/Jems
    3,R
    6,R,D,J
   40
+
 #lvl_gg
    1,R
   12,R,D,J

@@ -5,6 +5,7 @@ console load StrawberryJam2021/1-Beginner/Eclipse
 
 #Start
  190
+
 #lvl_a_01
    1,L,J
   10,R,D,X
@@ -109,6 +110,7 @@ console load StrawberryJam2021/1-Beginner/Eclipse
   14,R,X
  116
   40
+
 #lvl_a_03
   15,R
   17,R,X
@@ -324,7 +326,6 @@ console load StrawberryJam2021/1-Beginner/Eclipse
    7,R,J
   15,U,X
   19,J
-#1:06.028(3884)
   41
    9,L
   26,L,X
@@ -349,7 +350,6 @@ console load StrawberryJam2021/1-Beginner/Eclipse
    6,L,J
    2,L,K
   32,U,X
-#1:11.162(4186)
   21,R,U,C
    4,R,J
    4,R,K

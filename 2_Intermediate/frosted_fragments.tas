@@ -8,6 +8,7 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
 
 #Spinner Cycle
    0
+
 #lvl_a1
    4,R,Z
    1,R,J
@@ -64,6 +65,7 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
    1,R,J
    9,R,D,X
   40
+
 #lvl_a1.5v2
    5,R,D,X
    1,R,J
@@ -186,8 +188,6 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
    6,R,D,X
   40
 
-
-
 #lvl_a5_
    1,R,D,J
    3,R
@@ -243,8 +243,6 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
    8,L,K,G
   40
 
-
-
 #lvl_a4v2 (2)
    5,L,J
    9,U,X
@@ -256,7 +254,6 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
   40
 
 #lvl_a6v2
-
   11
    9,J,G
   15,L,Z
@@ -321,7 +318,6 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
    5,R,K,G
    5,R
    8,R,J
-
   11,U,C
    4,R
   10,R,X

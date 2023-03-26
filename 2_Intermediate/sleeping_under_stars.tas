@@ -2,12 +2,14 @@ RecordCount: 4365
 
 console load StrawberryJam2021/2-Intermediate/Arphimigon
    1
+
 #Start
  100
+
 #spinner cycle
    1
-#lvl_a_01 (a)
 
+#lvl_a_01 (a)
   14,R,Z
    1,R,J
   14,R,D,J,X

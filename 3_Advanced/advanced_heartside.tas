@@ -34,13 +34,9 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
   40
 
 #lvl_heartside_oppen_a
-
 #   4,R
 #   7,R,J
 # 100,R,D,X
-
-
-
 
    4,R
    3,R,J
@@ -583,7 +579,6 @@ EndStunPause
    1
    2,R
   15,R,U,Z
-
    7,L,K,G
   18,U,X
   13,L,C
@@ -667,7 +662,6 @@ EndStunPause
   12,R
    1,R,J
   40
-
 
 #lvl_heartside_maladroit
   14,R

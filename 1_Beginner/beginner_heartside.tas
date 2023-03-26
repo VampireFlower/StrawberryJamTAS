@@ -533,7 +533,6 @@ AnalogMode,Precise
    2
    2,R,D
 
-
 #lvl_cp2_15_heartside_frozenflygone_d
    2,D
   10,R,U,Z
@@ -549,7 +548,6 @@ AnalogMode,Precise
    8,R,K
    1,R,J,G
    1,R,K,G
-
    9,R
    1,J
    1,R
@@ -563,7 +561,6 @@ AnalogMode,Precise
    2,R,J,G
   14,R
    3,R,J
-
 
 #lvl_cp3_checkpoint
   13,R,J
@@ -878,6 +875,7 @@ AnalogMode,Precise
    3,R,J,G
    7,R,K,G
   43,K
+
 #lvl_cp4_checkpoint
    4,R,K
    4,R,J,G

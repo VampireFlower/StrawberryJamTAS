@@ -3,6 +3,7 @@ console load StrawberryJam2021/2-Intermediate/pixelator
 
 #Start
  190
+
 #lvl_lvl00
   15,R,J
    2,J
@@ -99,8 +100,8 @@ console load StrawberryJam2021/2-Intermediate/pixelator
   12,R,J
   12,U,X
   40
-#lvl_lvl02
 
+#lvl_lvl02
    6,R
    8,L,J
   10,J
@@ -150,8 +151,8 @@ console load StrawberryJam2021/2-Intermediate/pixelator
   12,L,J
    2,L,K,G
   15,U,X
-
   40
+
 #lvl_lvl03
   20,L,J
    2,L,K,G
@@ -173,10 +174,9 @@ console load StrawberryJam2021/2-Intermediate/pixelator
   13,L
    6,L,J
   15,U,X
-
   40
-#lvl_lvl04
 
+#lvl_lvl04
   18,K
    6,J,G
    1,R,J
@@ -207,8 +207,8 @@ console load StrawberryJam2021/2-Intermediate/pixelator
   10,L,K,G
   10,L,J,G
   11,R,K
-
   40
+
 #lvl_lvl05
   11,R
   12,R,K,G
@@ -259,8 +259,8 @@ console load StrawberryJam2021/2-Intermediate/pixelator
   15,U,Z
   18,R,J
   40
-#lvl_lvl06
 
+#lvl_lvl06
    2
    6,J,G
    7,K
@@ -326,8 +326,8 @@ console load StrawberryJam2021/2-Intermediate/pixelator
    8,R,K,G
    5,L,J
   40
-#lvl_lvl07
 
+#lvl_lvl07
    9,R
    1,R,K,G
    8,R,J,G

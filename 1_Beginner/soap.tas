@@ -5,6 +5,7 @@ console load StrawberryJam2021/1-Beginner/Circumplex
 
 #Start
  104
+
 #lvl_01
    7,L,Z
    1,R,J
@@ -105,6 +106,7 @@ console load StrawberryJam2021/1-Beginner/Circumplex
    7,R,Z
    1,R,J
   40
+
 #lvl_04 
    6,R
    1,R,J
@@ -323,9 +325,9 @@ console load StrawberryJam2021/1-Beginner/Circumplex
   10,L,X
   12,L,J
   15,U,X
-
    8,R,J
   40
+
 #lvl_09
    2,L
    4,R
@@ -517,5 +519,5 @@ endStunPause
    1,K,G
   10
   83,R
- 
+
 ChapterTime: 1:29.267(5251)

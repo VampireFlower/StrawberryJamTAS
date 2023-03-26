@@ -106,7 +106,6 @@ console load StrawberryJam2021/2-Intermediate/Emik
   40
 
 #lvl_a_04
-
    3,L
    1,L,D,J
    1,J
@@ -265,7 +264,6 @@ EndStunpause
    3
   25,R,U,X
    5,J,G
-
   34,L
    6,L,D
    6,D
@@ -276,8 +274,6 @@ EndStunpause
    1,L,J
   13,L
   31,L,D
-
-
    4,L,Z
    1,L,J
    3,L
@@ -302,8 +298,6 @@ EndStunpause
    5,R,J
    1,J
    1,R,J
-
-
   54,U,G
   34,L,J
   35,L,X

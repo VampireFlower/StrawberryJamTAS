@@ -61,6 +61,7 @@ console load StrawberryJam2021/2-Intermediate/thebreadstick1
    3,R,K,G
    7,R,U,X
   40
+
 #lvl_a-002
    7,R,U,X
    5,J,G
@@ -92,7 +93,6 @@ console load StrawberryJam2021/2-Intermediate/thebreadstick1
    3,R,K,G
    9,R
   15,D,X
-
    4,L,D
   15,R,Z
    1
@@ -320,7 +320,6 @@ EndRepeat
   19,L,J
    2,L
    1,L,J
-
   15,U,X
    3,L
    1,L,J,G
@@ -399,7 +398,6 @@ EndRepeat
    1,J,G
    7,L
    2,R,D,J
-
   15,L,D,X
    3,R,J
   40
@@ -478,7 +476,6 @@ EndRepeat
   22,L,J,G
   18,L,D
   15,L,Z
-   
    1,J
   12
    5,D,X
@@ -591,7 +588,6 @@ EndRepeat
    6,R
    1,R,J
    8,R
-
   14,R,X
    1,R,K,G
   12,R
@@ -647,7 +643,6 @@ EndRepeat
   18,R,X
    6,D
   10,R
-   
   14,R,U,X
    7,D
    1,R,J,G
@@ -699,7 +694,6 @@ EndRepeat
    5,L
   15,L,C
   39,L
- 
    7,J
   21,L,U,X
   19,U,C

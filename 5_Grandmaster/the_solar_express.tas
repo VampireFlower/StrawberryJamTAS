@@ -608,10 +608,8 @@ endrepeat
   10,L,Z
    5,L,J
    5,U,X
-
   80,U,G
    1,R
-
   10,R,D,X
    1,L,J
    4,L
@@ -951,7 +949,6 @@ Endrepeat
    6,R,D,X
   43
 
-
 #lvl_Spectacle
    2,R
    1,S
@@ -963,7 +960,6 @@ Endrepeat
    4,L,K,G
    1,D
   10,U,X
-
   17,L,G
    5,R,G
   12,K,G
@@ -1156,7 +1152,6 @@ Endrepeat
   12,R,K,G
    3,D
    6,U,X
-
   30,G
    5,L,G
    1,L
