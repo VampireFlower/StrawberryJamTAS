@@ -1,7 +1,7 @@
 #draft: psyGamer
 #improvement: EllaTAS
 
-RecordCount: 6608
+RecordCount: 6771
 
 console load StrawberryJam2021/1-Beginner/mosscairn
    1
@@ -138,36 +138,36 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    5,R
    1,R,K
    4,R
-   7
+   8
    5,L,Z
    1,R,J
-   7,R
+   3,R
+   1,R,K
+   3,R
    1,R,J
-   4,R,K,G
+   3,R,K,G
   11,R,D,X
-   7,R,J
+   2,R,J
    6,R,K,G
    6,R,J,G
-   9,R,K,G
+   3,R,K,G
+   3,K
+   1,R,J,G
+   4,J
   15,R,U,X
-   7,R
+   6,R
   40
 
 #lvl_a-04a
-   6,R,D,X
+  14,R,D,X
    1,R,J
-  25,R,D
+  15,R,D,X
    4,R
+   2,R,D
    1,D
-  16,R,X
-   3,R
-   1
-   6,R
-   2
-   1,R
-   1
-   1,R
-   1
+   4,R,D
+   5,R,D,X
+  16,R
   22,R,Z
    1,R,J,G
    2,L,J
@@ -179,18 +179,17 @@ console load StrawberryJam2021/1-Beginner/mosscairn
   40
 
 #lvl_a-05
-   2,R
-   6,R,D,X
-   1,J
-   8
-#global cycle
-   1
-   4,Z
+#global cycle +4f
+   3,R
+   9,L,D,X
    1,R,J
-  15,R,D
+   8
+  10,R,D,X
+   5,R,J
+  15,R,D,X
    4,Z
-   4,L,J
-  10
+   2,L,J
+   9
   14,L,Z
    1,R,J
   19,R,D,X
@@ -483,8 +482,7 @@ console load StrawberryJam2021/1-Beginner/mosscairn
   40
 
 #lvl_b-03
-#global cycle
-   1,L
+   2,L
    6,R,D,X
    1,L,J
    5,L
@@ -497,32 +495,29 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    5,L
    6,L,K
 #hwat
-   3,L
-   8
+  11,L
    4,Z
    1,L,J
-   1,L,K,G
-   1,K
-   4
-   2,L
+   6,L
   43
 
 #lvl_b-04
-   2,L
+   1
+   3,R,J
   10,L,X
-   5,L,J
+   5,J
   15,U,X
-  15,L,C
+  14,L,C
+   1,L,J
   12,L,X
-   1,R,J
-   2,J
-  15,U,X
-   8,L,J,G
+   3,R,J
+  16,U,X
+   6,L,J,G
    8,G
    1,L,J,G
    7,R,U,X
-   2,L,J
-   9,L
+   1,L,J
+  10,L
   14,U,Z
    1,R
    1,R,J,G
@@ -544,11 +539,11 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    8,L
   11,L,C
    1,L,J,G
-   7,L
-   2
-   1,K
+   8,L
+   1
+   1,L,K
    4
-   1,L
+   1
    5,R,Z
    4,L,J
    4,L
@@ -971,4 +966,4 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    1,K
  110,R,D,X
 
-ChapterTime: 2:04.491(7323)
+ChapterTime: 2:04.372(7316)
