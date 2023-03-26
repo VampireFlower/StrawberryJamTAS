@@ -1,4 +1,4 @@
-RecordCount: 2458
+RecordCount: 2496
 
 console load StrawberryJam2021/4-Expert/Banana23
    1
@@ -450,75 +450,34 @@ console load StrawberryJam2021/4-Expert/Banana23
    7,R
   14,U,G
   11,G
-
-#-60f unsycned
-#  15,R,X
-#  15,D,C
-#   1,R
-#   2
-#   8,R,D
-#   1
-#   3
-#   1,D
-#stunpause simulate
-#   2,D
-#   1
-#   1,D
-#   1
-#   1,D
-#   2,L
-#skipinput 3 1
-#   4,L,Z
-#   1,R,J
-#   1,R
-#endstunpause 
-#   1,S
-#  10,J
-#   1,R,J
-#   1,R
-#stunpause
-#   2,R
-#   4,R,D
-#   1,R,D
-#endstunpause  
-#   2,R,D,J
-#   5,R
-#   1,R,J
-#   3,R
-#   1,R,D
-#   1,R
-#   1,R,J
-#   2,R
-#   1,R,J,G
-#   6,R
-#  40
-  21,L,X
-# spinner cycle 1
+   2
+#spinner cycle
+   0
+##
+  15,R,X
+  15,D,C
+   6,D
+   1,R
+   2
+   7,R,D
    1
-###
-  33,R,C
-  15,D,X
-   8,R,D
-   4,R
-   3,D
-   4
-stunpause
+   1
+stunpause 
+   1
    3
-   1,L,D
    3,L
 skipinput 3 1
-   4,L,Z
+   4,Z
    1,R,J
    1,R
-endstunpause 
+endstunpause
    1,S
   10,J
    1,R,J
    1,R
 stunpause
-   2,R
-   5,R,D
-endstunpause  
+   6,R,D
+endstunpause
    2,R,D,J
    5,R
    1,R,J
@@ -587,7 +546,7 @@ endstunpause
   21,R
   22,R,X
 #spinner cycle 2
-   1
+   0
 ##
   13,R,C
    3,R,G
@@ -665,4 +624,4 @@ endstunpause
   34,D,X
  138
 
-ChapterTime: 1:43.802(6106)
+ChapterTime: 1:42.969(6057)
