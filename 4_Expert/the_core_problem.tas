@@ -1,11 +1,10 @@
-RecordCount: 2388
+RecordCount: 2398
 
 console load StrawberryJam2021/4-Expert/Banana23
    1
 
 #Start
  190
-
 #lvl_a-01
   11,L,Z
    1,R,J
@@ -133,8 +132,8 @@ console load StrawberryJam2021/4-Expert/Banana23
   11,R,X
   40,R,J,G
   16,R,Z
-  10,U,X
-  11,R,J
+  11,U,X
+  10,R,J
   11,R,X
    7,R,J,G
   29,R
@@ -482,10 +481,10 @@ console load StrawberryJam2021/4-Expert/Banana23
   15,D,X
    8,R,D
    4,R
-   1,D
+   3,D
+   4
 stunpause
-   2,D
-   7
+   3
    1,L,D
    3,L
 skipinput 3 1
@@ -596,7 +595,6 @@ endstunpause
 #   9,U,X
 #   endstunpause
 # 500
-
 stunpause
   11,R
 skipinput 3 1
@@ -649,4 +647,4 @@ endstunpause
   34,D,X
  138
 
-ChapterTime: 1:45.638(6214)
+ChapterTime: 1:45.077(6181)
