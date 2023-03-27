@@ -1,7 +1,8 @@
-RecordCount: 748
+RecordCount: 841
 
 console load StrawberryJam2021/2-Intermediate/Emik
    1
+
 #Start
  190
 
@@ -14,8 +15,8 @@ console load StrawberryJam2021/2-Intermediate/Emik
    4,L,J
    3,L,K,G
    2,L
-   8,L,J,G
-  13,L,K,G
+   9,L,J,G
+  12,L,K,G
    5,J,G
    6,L,Z
    1,L,J
@@ -100,6 +101,7 @@ console load StrawberryJam2021/2-Intermediate/Emik
    2
 #Spinner cycle
    0
+##
    6,L,Z
    1,L,J
    4,L
@@ -187,10 +189,11 @@ EndStunpause
    7,K
   19,L,U,X
    4,L,J
-   5,L,K
-  19,L,X
-  11,R
-   3,L
+   4,L,Z
+   2,L,J
+  10,R,J
+  13,R
+   6,L,D
   12,L,X
   12,L,J,G
    4,L
@@ -205,18 +208,12 @@ EndStunpause
    3,L
   12,L,K,G
    8,L
-   4,L,J
-   1,L
-  19,L,D,X
-   4,Z
+   2,L
    1,L,J
-   1,L
+  17,L,D,X
   40
-
-#lvl_a_06
-   8,L
    1,L,J
-  11,L,X
+  18,L,D,X
    4,L,J
   10,L,K
   18,L
@@ -230,6 +227,7 @@ EndStunpause
   20,R
    6,D
   34,G
+#liftboosted super on top?
    1,J,G
    1,K,G
    1,R,J,G
@@ -319,6 +317,8 @@ EndStunpause
    5,L,J
   22,L,K
   38,U,X
+#theres no way gultra chain is the fastest
+#but i cant find anything better
   10,L,D,C
    3,L,J
    3,L,K,G
@@ -390,4 +390,5 @@ EndStunpause
   12,L,X
   45,L,J
   90,G
-ChapterTime: 1:06.521(3913)
+
+ChapterTime: 1:06.334(3902)
