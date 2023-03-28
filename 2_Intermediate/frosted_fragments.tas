@@ -1,4 +1,4 @@
-RecordCount: 4723
+RecordCount: 4779
 
 console load StrawberryJam2021/2-Intermediate/Dooshii
    1
@@ -570,24 +570,21 @@ EndStunPause
    6,R,J,G
   15,R,X
   15,R,C
-   8,R,D
-  12,D
-   2,R,D
-  10,R,Z
-   8,R,J
-   
-  13,R
-  14,R,U,Z
-   4,L
-  15,R,C
-  11,R
-  14,R,Z
-   3,R,J
-  15,R,D,X
-  30,R
+  22,R,D
+   4,R,Z
+  10,R,J
+  12,R
+  18,R,C
+   1
   15,R,X
-  15,R,C
-   3,R
+   5
+  13,R,D,X
+   2,R,J
+   
+  17,R,D,X
+  31,R
+  15,R,X
+  18,R,C
   11
   15,L,D,X
   10,D
@@ -728,4 +725,4 @@ EndStunPause
   14,R,U,X
  135,D
 
-ChapterTime: 1:43.972(6116)
+ChapterTime: 1:43.819(6107)
