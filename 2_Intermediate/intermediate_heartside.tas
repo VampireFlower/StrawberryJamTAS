@@ -1,4 +1,4 @@
-RecordCount: 6115
+RecordCount: 7006
 
 console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1
@@ -797,6 +797,9 @@ EndStunPause
   15
   15,D,X
   14
+#cp3-5 lightning cycle
+   2
+##
    7,R
    1,R,J
   11,L,D,X
@@ -874,35 +877,43 @@ EndStunPause
    1,R,J
    6,R,D
   29,L,D
-  16,L,Z
-   2,R,K,G
-   7,R
-   6,L
-  13,L,Z
-   1,R,J
-  21,R,D
-  42,R,D,J
-  14,R,U,Z
-   1,J
-   1,L,K,G
-  13,L
-   6,L,J
+
   15,L,Z
-   9,R,D
+   1,R
+   2,J,G
+   2
+   3,L
+   8,R
+   1,R
+  14,R,Z
+  38,R,J
+  15,R,U,X
+   1,R
+   3
+   1,L,J,G
+   3,L,K,G
+  13,L
+   3,L,J
+   4,L
+  15,L,Z
+   9,R
    2,R,J
-  32,R,Z
-   1,R,J
-   3,R
-  15,R,K,G
-  10,R,Z
-   5,R,J
-   9,U,X
+  31,R,Z
+  10,L,D,X
+   6,R,J
+   1,R,K,G
+  14,R,U,X
+   1,J,G
+   1
+   1,L,J
+  10,U,X
   43
 
 #lvl_cp3-2-LegS
-   7,L,J
-   4,R,K
-  12,R,Z
+   2,J
+   5,R,J
+   4,R,K,G
+   9,R,Z
    1,R,J
    7,R
   16,R,J
@@ -1046,60 +1057,75 @@ EndRepeat
    1,R,J
   16,R,D
   12,L,D,X
-   3,R,J
+   1,R,J
+   2,R
   14,R,D,X
    1,L,J,G
   16,R,D
-  10,L,D
-  21,L
+   9,L,D
+   3,L
+   1,L,D
+  17,L
+   1,L,D
   15,R,Z
-   7,U,X
-  36,R,J
-  15,U,X
-   5,L
-   8,R
-  15,U,X
- 107,D
-   6,R,D
-  15,R,U,X
-  18,R,U,C
-  15,R,U,Z
-  20,L,D
-  34,D
-   6
-   4,X
-  23,R
-  15,U,X
-  76,R,U,G
-   3,J,G
-   3,K,G
-  13,R,K
-  15,R,X
-  25,R,D
-  10,D,X
-  28,L
-  15,U,X
-  18,L
-  22,U,X
-   0,L
-  27,R,U,C
-   9,R,Z
-   8,R,J,G
-   6,R
-   4,R,J
-  14,R,U,Z
-   1,R,J,G
+   5,U,X
+  14,R,J
    5,R
+  15,R,U,Z
+   2
+   1,R
+   8,L,U,X
+   2,R
+StunPause
+  17,R
+ SkipInput,3,1
+   8,R,U,X
+SkipInput,3,1
+  10,R,U,X
+   4,R
+SkipInput,3,1
+  13,R,D,C
+EndStunPause
+   2,R,D,C
+  19,R
   15,R,Z
-   3
-  11,R,J
-  10,R,Z
+  27,R
+   9,R,D
+   1,D
+   5
+   5,D,X
+  23,L
+  15,U,X
+   6,L
+  15,U,X
+   9,L
+  20,U,X
+  10,R
+  15,R,X
+  10,R
+  15,U,Z
+   2,R
+   6,R,J
+   8,J
+   1
+   1,R
+   8,R,K
+   8,R,Z
    1,R,J,G
-  28,D
-  16,R,D
+   8,R,K,G
+   3,R
+  15,R,D,X
+  18,R,D
+   4,L,D
+   4,D
+   5,R,D
+   2,R
+   1,R,D
+   1,R
    4,R,Z
    1,R,J
-   6,R
+   5,R
+   1,R,J
   40
 
 #lvl_cp3-5-RG2 
@@ -1568,4 +1594,4 @@ EndRepeat
   16,R,U,X
  135,R
 
-ChapterTime: 4:40.551(16503)
+ChapterTime: 4:39.140(16420)
