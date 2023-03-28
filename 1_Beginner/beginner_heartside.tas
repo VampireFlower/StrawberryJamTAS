@@ -1,4 +1,4 @@
-RecordCount: 9680
+RecordCount: 9793
 
 console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    1
@@ -186,38 +186,37 @@ AnalogMode,Precise
    8,R,D,X
 # movement seems weird
    1,R,J
-   5,R
-  14,R,X
+   2,R
+  15,R,D,X
+   2,R
    1,R,J,G
    1,R,K,G
    7,R
-   2,R,G
-   1,R,J,G
-  12,R,D,X
-  24,R,J,G
+   5,R,D
+  15,R,D,G
+   1,R,G
+   3,R,J,G
+   9,J
+  14,U,X
+   9,L,J
+  14,L,X
+   1,R,J
+   5,J
   15,U,X
-   9,U,C
-   4,L,J
-   8,L
-   1,L,K
-   1,K
-   3
-   7,J
-  16,U,X
+   2
   21,R,J
   15,R,U,Z
-   2,L
-   5,L,J,G
-   2,L
+   3,L
+   6,L,J,G
    1,L,K,G
    4,R,K
    7,L,K
    7,L
    8,L,J
-  15,U,X
+  16,U,X
   15,U,C
   18,L,J
-  11,L,K,G
+  10,L,K,G
   40
 
 #lvl_cp1_18_heartside_Eclipse
@@ -609,15 +608,21 @@ AnalogMode,Precise
    6,R,K
    5,R
    1,R,K
+   3,R
+   2,R,K
    2,R
-   1,R,K
-   4,R
   18,R,U,X
   20,R,Z
    4,R,J
-  29,R,K
-  18,R,X
-  31,R,C
+  11,R,K
+   5,R
+   1,R,J
+   1,R,J
+   5,R
+   6,L,D,X
+   7,R,J
+  10,R
+  29,R,C
    4,R,J
   27,R,K
   14,R,Z
@@ -897,7 +902,7 @@ AnalogMode,Precise
    2,J
   10,R,J
 # spinner cycle (0-2)
-   1
+   2
 # -------------
    1,K
    1,R,J,G
@@ -2057,4 +2062,4 @@ Repeat 33
 EndRepeat
    1
 
-ChapterTime: 4:32.306(16018)
+ChapterTime: 4:32.153(16009)
