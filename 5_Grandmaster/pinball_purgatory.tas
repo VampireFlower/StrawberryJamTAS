@@ -1,10 +1,10 @@
-RecordCount: 2540
+RecordCount: 2597
 
 console load StrawberryJam2021/5-Grandmaster/maya
    1
 
 #Start
- 190
+ 192
 
 #lvl_Insert Coin
    4,R,Z
@@ -176,11 +176,14 @@ console load StrawberryJam2021/5-Grandmaster/maya
    1,R
   17,L
   22,L,D,X
-  16,L,J
-  14,L,U,X
-  20,L,J,G
+  19,L,J
+  12,L,U,X
+   1,L,J,G
+   2,L,K,G
+  10,L,J,G
    7,L
-  15,L,U,X
+   2,L
+  14,L,U,X
   17,R
   14,R,U,X
    5,L
@@ -721,4 +724,4 @@ EndStunPause
    4,X
  135,D
 
-ChapterTime: 2:35.822(9166)
+ChapterTime: 2:35.771(9163)
