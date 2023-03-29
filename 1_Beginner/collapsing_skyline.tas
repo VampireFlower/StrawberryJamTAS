@@ -1,4 +1,4 @@
-RecordCount: 2020
+RecordCount: 2060
 
 console load StrawberryJam2021/1-Beginner/hyperlife
    1
@@ -203,23 +203,28 @@ console load StrawberryJam2021/1-Beginner/hyperlife
    1,R,J
   13,R,Z
    1,R,J
-   8,R
-  13,R,Z
-   2,R,J
-   1,R,K,G
+   5,R
+   3
+   9,R,Z
+   4,R,J,G
    7,R
-  11,R,D,J
-   2,R
-   5,R,K,G
-   5,L,K
+   2,L
+   1,R,D,J
+  11,J
+   1
+   2,R,K,G
+   1,K
    1,R,K
+   1,K
+   4,L,K
+   2,R,K
    1,J,G
    1,L,J
    5,L,J
-  14,R,J
+   5,R,J
+   7,R
   15,R,Z
-  14,R
-   1,R,D
+  15,R
    4,Z
    2,R,J
   40
@@ -234,11 +239,12 @@ console load StrawberryJam2021/1-Beginner/hyperlife
    1,R,J
    1,R
    1,R,J
-   5,R
    1
+   5,R
    5,R,D
    1,L,J
-   3,R,J
+   2,R,J
+   1,J
   15,R,D,X
    2,R,J
   15,R
@@ -249,4 +255,4 @@ console load StrawberryJam2021/1-Beginner/hyperlife
   13,R,U,X
  135
 
-ChapterTime: 0:25.857(1521)
+ChapterTime: 0:25.806(1518)
