@@ -1,10 +1,14 @@
-RecordCount: 2622
+RecordCount: 2820
 
 console load StrawberryJam2021/5-Grandmaster/maya
    1
 
 #Start
  190
+
+#Spinner Cycle
+   0
+
 #lvl_Insert Coin
    4,R,Z
    1,R,J
@@ -357,71 +361,65 @@ console load StrawberryJam2021/5-Grandmaster/maya
   15,D,X
   17,D
    8,R,D
-  11,D
-   2,R,D
+  10,D
+   2,L,D
   15,R,D,X
-  32,R,D
+  35,R,D
+  29,D
   15,D,X
-   8,D
-  15,R
-  15,R,D,X
-  11,L,D
-  15,L,Z
+   6,L,D
+   8,R,Z
   24,R
   15,D,X
-   4,D
-   6,L,D
-  10,L,Z
-  32,L,J
-   9,L,D
-  15,L,X
-  12,R,D
-   7,L,D
-   8,D
-  10,L
-  15,L,Z
-  17,L
    9,D
-  21,L,D
-  18,L,X
-  18,R
-   1,S
-  10,O
-   1,R
-   4,R,D,X
+  10,L,Z
+  16,L,J
+   2,L
+  12,L,J
+   9,L,D
+   3,L
+  15,L,X
+  14
+   2,L
+  16
+   2,R
+  15,L,Z
+  46,D
+   6,R
+  10,R,D,X
+   5,R,J
+   7,R,D,X
 StunPause
-  26,R,D
+   8,R,D
 EndStunPause
-  32,R,J
-  15,R,U,X
-  26,R,D
-   4,R,Z
+  11,R,J
+   9,R
+  14,R,Z
    1,R,J
-   8,R
-   1,R,J
-   1,R
   14,R,D,X
    1,R,J
-   5,R,D,X
+  12,R,D,X
   40
 
 #lvl_Symbiosis
-   5,R
+   2,R,D,X
    5,R,J
   14,R,X
    1,R,N
    1,R,J
    2,R
-  14,R,D,X
-   1,L,J
+  10,R,D,X
+   5,R,J
   27,U,X
-   4,L
-  17,L,U,X
-  18,R
+  10,L
+  10,L,X
+  17,R
   15,R,D,X
-  35,R
+  14,R
+   7
+  26,R
   22,U,X
-  23,R
+  17,R
   17,R,D,X
   75,R,J
   25,L,U,X
@@ -429,54 +427,55 @@ EndStunPause
   15,U,X
   20,R
    5
-   4,D
+   4,R,D
   13,R
   20
   12,R,U,X
   17,L
   19,L,D,X
-  21,L,J
-  17,L
+  22,L,J
+  18,L
   36,L,X
   17,L
   12,L,X
-  20,L
-   2,R
-  24
+  23,L
+  25
   15,R,U,X
-   8,R
-  24,L
+  32,L
    8,U,X
-  26,L
-  16,R
-   9,L,U,X
+  32,L
   30,R
-   7,D,X
-  45
-  11,L,X
+   8,D,X
+  46
+  18,R
+  13,L,D,X
   23,R
   28,R,U,X
-  28
-  16,R
-  21,L,U,X
-  57,R
-  10,D,X
+  34
   10,R
-  12
+  21,L,U,X
+  47,R
+  10,D,X
+  22,R
   15,L,U,X
-  13,J
-   6
-  11,R
-  15,R,U,X
-  13,R
-   8,L
-  23,R
-  10,R,Z
+  11
+   4,L
+#  19,R
+#  15,R,U,X
+#  10
+#  33,R
+#  14,R,Z
+#   1,R,J
+#  14,R,D,X
+#   1,R,J
+#  11,R,D,X
+  57,R
+  24,R,U,X
+   6,R,Z
    1,R,J
-   4,R
+   7,R
+   1,R,J
   14,R,D,X
-   1,R,J
-   9,R,D,X
   40
 
 #lvl_Haste
@@ -723,4 +722,4 @@ EndStunPause
    4,X
  135,D
 
-ChapterTime: 2:35.720(9160)
+ChapterTime: 2:32.269(8957)
