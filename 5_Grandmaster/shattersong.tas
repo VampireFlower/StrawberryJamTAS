@@ -6,7 +6,7 @@
 #- intermission rooms
 #- reduce stun pauses
 
-RecordCount: 3633
+RecordCount: 3909
 
 console load StrawberryJam2021/5-Grandmaster/Hydro
    1
@@ -322,30 +322,42 @@ EndStunPause
   10,L,D,X
    4,R,J
   10,L,D,X
-  20,R,J
-   2,R
-  14,R,X
-   3,L,J,G
-   7,R
+   7,R,J
+   1,R
+   3,R,K
+  13,R
+  12,R,U,X
+   1,L
+   1,J,G
+   4
+   1,R
+   1
+   1,R
   15,D,X
   15,D,C
   15,D,X
-  15,D,C
-  11,R
-  14,R,Z
-  25,R,J
-  14,R,D,X
+  10,R,Z
+   1,L,J
+   4,L
+   7,L,D,X
    1,R,J
-  14,R,D,X
+   2
+   6,R
    1,R,J
    5,R,D,X
+  12,R,J
+  21,R
+  14,R,D,X
+   1,R,J
+   9,R,D,X
   40
 
 #lvl_B3
-   9,R
+   5,R
    1,R,J
   15,R,D,X
-  15,D,C
+  15,R,C
+  11
   15,L,D,X
    1,R,J
   10,R,X
@@ -364,7 +376,7 @@ EndStunPause
    2
    2,R
 #this is so close
-#I can't even believe
+#I don't believe
   10,R,D,X
    6,R,J
 StunPause
@@ -407,51 +419,50 @@ EndStunPause
 
 #lvl_Welcome Again
   11,R,D
-  15,D
+   7,D
+   7,R,D
+   1,D
 
 #lvl_Final Movement
-  15,D,X
-  15,D,C
-  15,D,X
-  15,D,C
-   4,Z
-   1,R,J
-   7,R
-   1,R,J
+   1,R,D
+  13,R,D,X
+   2,R,J
    6,R,K,G
   15,R,D,X
-  21,R,D,J
-#top gap?
-   1,K,G
-   4,R,K
-  15,R,Z
-   9,R,J,G
-   3,L,J
-   1,R,K,G
-   7,R
-   7,R,J
-   6,R,Z
+   9,R,J
+  14,R,U,X
+   8,R,J,G
+  11,R,K,G
+   1
+  11,R,J,G
+   8
+   1,R,K
+   2
+  35,R,Z
+   1
+   1,J,G
    1,R,J
-   3,R
-   2,R,K
+   7,R
+   7,R,Z
+   1,R,J
+   2,R
   40
 
 #lvl_SHATTER
-   3,R
+   5,R
    1,R,J
-  15,R,D,X
+  14,R,D,X
    1,R,J
   12,R
    1,R,J
-   8,R,D,X
+   7,R,D,X
    2,R,J
    2,R,K,G
    2,R,J,G
    2,R,K,G
    2,R,J,G
   21,R
-   1,R,J
-   8,R
+   9,R,J
 #bruh
   30,R,U,X
 Repeat 45
@@ -459,4 +470,4 @@ Repeat 45
    1,L,D
 Endrepeat
 
-ChapterTime: 1:03.036(3708)
+ChapterTime: 1:02.900(3700)
