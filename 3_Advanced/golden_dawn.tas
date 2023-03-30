@@ -28,8 +28,7 @@ console load StrawberryJam2021/3-Advanced/Maladroit
   17,R,J,G
   28,R,G
    1,L
-   9,R
-   8,R
+  17,R
    5,R,J
   14,R,U,X
   17,R,G
@@ -44,8 +43,7 @@ console load StrawberryJam2021/3-Advanced/Maladroit
    1,R
   27,L
   13,L,D
-   4
-  13
+  17
   14,L,Z
    1,R,J
    6,R,D,X
@@ -121,9 +119,7 @@ console load StrawberryJam2021/3-Advanced/Maladroit
   14,R
    1,J,G
    7
-   1,G
-  14,G
-  22,G
+  37,G
   28,R,D
    3
    2,R
@@ -207,8 +203,6 @@ console load StrawberryJam2021/3-Advanced/Maladroit
    3,G
    6,R,J,G
    5,R
-#wait for liftboost
-#to end
    4
    6,R,Z
    1,R,J
@@ -217,16 +211,16 @@ console load StrawberryJam2021/3-Advanced/Maladroit
   40
 
 #lvl_Brys2-2-2
-  14,R,D,X
-   1,R,J
+  13,R,D,X
+   2,R,J
    3,R,K,G
    8,R
   15,U,X
-   6,L
+   5,L
   27,R
   34,R,U,X
   23,L
-  15,L,X
+  14,L,X
   55,R
   36,R,G
    1,R
@@ -254,7 +248,7 @@ console load StrawberryJam2021/3-Advanced/Maladroit
    1,L
   50,R,U,X
    6,R,D
-  20,R,X
+  19,R,X
   10,R,Z
    1,R,J
    4,R
@@ -262,9 +256,11 @@ console load StrawberryJam2021/3-Advanced/Maladroit
   40
 
 #lvl_A6
-  28,R
-  27,R,X
-  26
+  29,R
+  16,R,X,G
+   1,R,J,G
+  14,R
+  20
   14,L,Z
    1,R,J
    7,R
@@ -278,12 +274,15 @@ console load StrawberryJam2021/3-Advanced/Maladroit
   27,R,X
   14
   15,U,X
- 107,U,G
-  10,L,J,G
+  50,U,G
+  10,L,U,G
+   6,D,G
+  36,U,G
+   6,L,J,G
    1,L
-  21,L,U,X
-  51,L,G
-  59,L,D,G
+  20,L,U,X
+  52,L,G
+  56,L,D,G
    5,R,J,G
   39,R,G
   37,L,D,G
@@ -300,8 +299,7 @@ console load StrawberryJam2021/3-Advanced/Maladroit
    9,L,D
   27,R
   15,R,D,X
-   6,R
-   5,R
+  11,R
   18,D,X
   14,L,Z
    1,R,J
@@ -311,16 +309,16 @@ console load StrawberryJam2021/3-Advanced/Maladroit
   28,R,J,G
   13,K,G
   14,J
-   7,L,J
-  30,R
+   5,L,J
+  29,R
   16,U,X
-  30,G
+  29,G
    1,D
   12
    5,U,X
   24,R,G
    1,L
-  16,R
+  13,R
    4,R,X
   12,R,J
    3,R,K,G
@@ -399,4 +397,4 @@ console load StrawberryJam2021/3-Advanced/Maladroit
    1,L,J,G
   93,L
 
-ChapterTime: 1:24.949(4997)
+ChapterTime: 1:24.558(4974)
