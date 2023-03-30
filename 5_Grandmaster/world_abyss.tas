@@ -1,4 +1,4 @@
-RecordCount: 12071
+RecordCount: 12397
 
 console load StrawberryJam2021/5-Grandmaster/Dav
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/5-Grandmaster/Dav
  190
 
 ### spinner cycle [chill-0 (0)]
-   2
+   0
 ###
 
 #lvl_a-intro
@@ -205,18 +205,25 @@ console load StrawberryJam2021/5-Grandmaster/Dav
   21,L
   10,U,X
   26,R,J
-  60,L,G
-  10,U,X
-  35,R,J
+  35,L,G
+   7,L,K,G
+   2,R,J
+  14,U,X
+  25,R,J
   21,R,X
-  25,R,U,C
+  27,R,U,C
+   1,L,G
+   4,R
+   7,G
   10,L,Z
-   4,L,J
-  21,L,K
-  15,U,X
-   4,L
-  58
-  10,Z
+   1,L,J
+  24,L,K
+  33,U,G
+  16,R
+   4
+   2,R
+  11
+  10,L,Z
    6,R,J
   12,R,U,X
    1,R,J,G
@@ -570,23 +577,34 @@ EndRepeat
   63
 #lvl_chill-0 (1)
 ### spinner cycle [big-3]
-   1
+   0
 ###
-  16,R,J
-  15,U,X
-   4,R
-  25,R,J,O
-   8,K,G
-   1,L,K
-  14,R,J,G
-   1,R,K,G
-   7,R,J,G
+
+#new -2
+   4,R,J
+  12,R,K,G
+  17,U,X
+  25,R,J
+  12,R,K,G
+   9,R,J,G
    7,R
-  15,U,X
-  18,U,C
-  20,L
-  23,L,G
-   3,R,J
+   8,R,J
+   3,R,K,G
+   0,R
+  16,U,X
+  15,L,U,C
+   7,R
+   1,L
+   1,R
+   1,L
+   1,R
+   5
+   1,G
+   9,R,J,G
+   9,R
+   1
+   4,J
+   7
   15,L,X
   17,R
   15,U,X
@@ -886,22 +904,24 @@ endstunpause
    9
    1,J
    3
-   4,L,Z
+
+#new -22
+Set Invincible False
+   4,R,Z
 StunPause
-   1,L,Z
    1,R,J
 EndStunPause
-   3
+   4,R,J
 StunPause
-  20,R,J
-   1,R,U,Z
+  18,R,J
 EndStunPause
+   1,R,J
   34,R,U,Z
   15,U,X
    5,L
    2
-   1,L
-  15
+   2,L
+  16
    1,J
    5,L
    3
@@ -913,9 +933,9 @@ EndStunPause
    6,L
    1,L,J
   15,L,D,X
-   3,L,D
+   2,L,D
 StunPause
-  13,L,D
+  14,L,D
 EndStunPause
    2,L,D
    4,L
@@ -934,16 +954,11 @@ EndStunPause
   18,L,Z
   36,L,J
    2,R,J
-### 1 frame slower for
-### better spinner loads
-   5,L,K,G
-   3,L
+   7,L,K,G
    1,L,J,G
    3,R,J
    1,L,J
-   4,J
-   1
-###
+   5,J
    1,L,K,G
    7,L,J,G
    5,L
@@ -1043,4 +1058,4 @@ EndRepeat
  135
 
 
-ChapterTime: 3:14.905(11465)
+ChapterTime: 3:14.157(11421)
