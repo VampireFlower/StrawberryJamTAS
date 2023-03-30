@@ -1,4 +1,4 @@
-RecordCount: 2670
+RecordCount: 2684
 
 console load StrawberryJam2021/2-Intermediate/Luma
    1
@@ -453,16 +453,17 @@ console load StrawberryJam2021/2-Intermediate/Luma
   14,R,X
   56,R,U,G
    1,R
-  12,R,U,X
-  35,R,G
+
+  13,R,U,X
+  33,R,U,G
  106,L,U,G
   19,R,J,G
   19,L,K,G
   19,R,J,G
-   9,L,K,G
+   8,L,K,G
    1,L
-  22,R,D
-  42,D
+  25,R,D
+  39,D
  107,R,X
   19,R,D,C
    1,R,J
@@ -573,4 +574,4 @@ console load StrawberryJam2021/2-Intermediate/Luma
    1,R,K,G
   75,L,J
 
-ChapterTime: 1:32.242(5426)
+ChapterTime: 1:32.208(5424)
