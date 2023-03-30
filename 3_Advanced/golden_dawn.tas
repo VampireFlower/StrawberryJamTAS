@@ -1,4 +1,4 @@
-RecordCount: 963
+RecordCount: 1187
 
 console load StrawberryJam2021/3-Advanced/Maladroit
    1
@@ -259,30 +259,32 @@ console load StrawberryJam2021/3-Advanced/Maladroit
   29,R
   16,R,X,G
    1,R,J,G
-  14,R
-  20
-  14,L,Z
+  16,R
+  14,L,D,X
    1,R,J
-   7,R
-   3,R,J
-  15,R,D,X
+   7,R,D,X
+   1,R,J,G
+   1,R,K,G
+   3,R
+   6
    1,R,J
-  21,R,D,X
+  30,R,D,X
   36,R
-  22,R,D
+  21,R,D
   15,R,Z
-  27,R,X
-  14
+  28,R,X
+  15
   15,U,X
-  50,U,G
-  10,L,U,G
-   6,D,G
-  36,U,G
-   6,L,J,G
+  53,U,G
+  11,L,U,G
+  48,U,G
+   6,R,J,G
    1,L
-  20,L,U,X
+  18,L,U,X
   52,L,G
-  56,L,D,G
+  19,L,D,G
+  10,L,G
+  31,L,D,G
    5,R,J,G
   39,R,G
   37,L,D,G
@@ -295,8 +297,8 @@ console load StrawberryJam2021/3-Advanced/Maladroit
   14,L,Z
    2,L,J
   32,L,D,X
-  15,L
-   9,L,D
+  18,L
+   6,L,D
   27,R
   15,R,D,X
   11,R
@@ -306,10 +308,11 @@ console load StrawberryJam2021/3-Advanced/Maladroit
    6,R,D,X
    1,R,J,G
    1,R,K,G
-  28,R,J,G
+  24,R,J,G
+   4,J
   13,K,G
   14,J
-   5,L,J
+   2,L,J
   29,R
   16,U,X
   29,G
@@ -318,11 +321,12 @@ console load StrawberryJam2021/3-Advanced/Maladroit
    5,U,X
   24,R,G
    1,L
-  13,R
+  15,R
    4,R,X
-  12,R,J
-   3,R,K,G
-   7,R
+  11,R,J
+   4,R,K,G
+   6,R
+   1
    6,R,Z
    1,R,J
    2,R
@@ -388,13 +392,6 @@ console load StrawberryJam2021/3-Advanced/Maladroit
   10,L,Z
    5,L,J
   24,L,D,X
-  14,L,J
-   5,L,D,X
-   1,L,J,G
-   1,L,K,G
-   2,L,J,G
-   7,L
-   1,L,J,G
-  93,L
+ 135
 
-ChapterTime: 1:24.558(4974)
+ChapterTime: 1:24.490(4970)
