@@ -1,4 +1,4 @@
-RecordCount: 2992
+RecordCount: 3992
 
 console load StrawberryJam2021/5-Grandmaster/maya
    1
@@ -7,19 +7,15 @@ console load StrawberryJam2021/5-Grandmaster/maya
  190
 
 #Spinner Cycle
-   0
+   1
 
 #lvl_Insert Coin
-   4,R,Z
-   1,R,J
-   7,R
-   2,R,J
-   1,R
-  14,R,U,X
-   1,R,K,G
-   8,R
-   4,R,J
-  21,R,D,X
+  11,R,X
+   5,R,J
+  14,R,U,Z
+   1,R,J,G
+  18
+   9,D
    1,N
    1,S
    1,D,J
@@ -381,23 +377,31 @@ console load StrawberryJam2021/5-Grandmaster/maya
   10,D
    2,L,D
   15,R,D,X
-  35,R,D
-  29,D
-  15,D,X
-   6,L,D
-   8,R,Z
-  24,R
-  15,D,X
-   9,D
-  10,L,Z
-  16,L,J
-   2,L
-  12,L,J
-   9,L,D
-   3,L
+  36,R,D
+  15,D
+  13,R
+  15,R,D,X
+  15,R,C
+   2,R
+  12
+   3,D
+   2,R,D
+   2,D
+   1,L
+   1,D
+   3
+   5,L
+   4
+   1,D
+   1,R
+  14,L,Z
+  11,L,J
+  16,L
+  10,L,D
   15,L,X
-  14
    2,L
+  13
+   1,D
   16
    2,R
   15,L,Z
@@ -488,47 +492,58 @@ EndStunPause
 #  11,R,D,X
   57,R
   24,R,U,X
-   6,R,Z
+   7,R,Z
    1,R,J
-   7,R
+   6,R
    1,R,J
   14,R,D,X
   40
 
 #lvl_Haste
-   7,R,J
-  18,R
-  10,R,Z
-   1,R,J,G
-   2,R,K,G
-   1,R,J,G
-   7,R
-   1,J
-   1,R
-  21,R,D,X
-  26,R,J
-  12,R,U,Z
-  13
-   8,R,X
-  15,L
-   9,L,X
-  34,L
-  32,R
-  13,R,Z
-   3,R,J
-  16,R,D,X
+   4,R,J
+   9,R
+   2,R,J
    4,R
-  38,R,J
-   6,D
-  14,L,D,X
-  22,R
-  18,R,D,X
-  12,R,U,C
-  13
-  17,R
-  20,R,D,X
-  22,R,J
-   5,R
+  14,R,X
+   1,R,J,G
+   1,R,K,G
+   4,R
+   1
+   2,R
+   1,R,J
+  15,R,D,X
+   6,R,D
+   7,R,J
+   6,R
+   2,R,J
+   2,R
+   1,R,J
+  14,R,U,Z
+  14
+   8,R,X
+   4,R
+   9
+  10,L,X
+  20,L
+   1
+  19,L
+  31,R
+  14,R,Z
+   4,R,J
+  15,R,D,X
+   1,R,D,J
+  37,R,J
+   6,R,D
+  10,R
+  18,R,X
+   7,R
+   1
+  12,R,U,X
+  19,L
+  11,R
+  15,R,D,X
+   6,R,D
+  27,R,J
   14,R,U,X
   21,L
   14,L,U,X
@@ -539,40 +554,45 @@ EndStunPause
    1
    1,R,K,G
    1,R,J,G
-   3,J
+   1,J
+   1,R,J
   15,R,D,X
+   2,R
   12,R,J
-   6,R
+   4,R
   14,R,D,X
    1,R,J,G
-   7
-   1,R,J
-   1,J
-  12,R,D,X
-  37,R,D
-  12,R,U,Z
+   7,R
+   1,D,J
+   1,R
+  13,R,D,X
+  36,R,D
+  11,R,U,Z
   14,L
    6,U,X
   16
    7,U,X
-  31,L
+  30,L
   17,R
    8,R,D,X
   21,R
-   4,R,D
-  13,R,U,Z
+   5,R,D
+  12,R,U,X
   17,L
-   9,L,U,X
-  27,L
+   8,L,U,X
+  18,L
+   1
+   1,L
+  11,L,U,X
   17,R
    8,R,D,X
    7,R
   10,R,D,X
   78,R
   16,R,U,X
-   4,R,K,G
-   6,R
-   1
+   1,R,J,G
+   2,L,J
+   7,R
    6,R,Z
    1,R,J
    7,R
@@ -585,11 +605,14 @@ EndStunPause
 #lvl_Recoil
    4,R,D,X
    1,R,J
-   7,R
-   7,R,J
-   9,U,X
+   1,J
+   1,R,J
+   1,R
+   1,R,J
+  14,R,U,X
   15
-   2,L,J
+   1,R,J
+   1,J
   28,U,X
   38,L
   12,D
@@ -706,21 +729,24 @@ EndStunPause
   14,R,Z
    3,R,J
   16,R,D,X
-  11,R,J
+  12,R,J
    5,R
-   6,R,J
-   8,U,X
-   7
-  30,R,D
-   2,D
-   1,R,D
-   6
-   7,L,Z
-  24,R
-   8,R,D,X
-  17,R
+   7,R,J
+   1,R
+   1,R,J
+   2,R
+  15,R,U,X
+   9,R
+  10
+   7,L,D
+   7,L
+  12,R
+  21,R,X
+  11
   15,R,X
-  36,R
+  11,R
+   1
+  24,R
    8,U,X
    8
   18,R
@@ -734,7 +760,8 @@ EndStunPause
    1,L
   16,R,X
   18,D
-   4
+   2
+   2,D
   23,L
    9,U,X
   17,L
@@ -752,4 +779,4 @@ EndStunPause
    4,X
  135,D
 
-ChapterTime: 2:30.671(8863)
+ChapterTime: 2:30.127(8831)
