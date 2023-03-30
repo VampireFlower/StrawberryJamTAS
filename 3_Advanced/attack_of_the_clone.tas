@@ -1,4 +1,4 @@
-RecordCount: 1986
+RecordCount: 2605
 
 console load StrawberryJam2021/3-Advanced/pugroy
    1
@@ -288,16 +288,184 @@ console load StrawberryJam2021/3-Advanced/pugroy
   15,R,D,C
   12,R,D,X
   40
-
 #lvl_BR-04
    3,R,D,X
-   2,R
+   7,R
+   9,L,Z
    1,R,J
+   8,R
+  12,R,J
+   8,R
+  12,R,U,X
+  39,R,D,G
+  30,L,D,G
+  10,L,U,X
+
+  31,L,D,G
+   1,L
+  31,D
+  22,R,D
+  10,D
+   1,L,D
+  14,L
+  19,L,Z
+   8,U,X
+  15,L,J
+  59,L
+   8,J
+  15,U,Z
+  42,D,G
+  31,R,D,G
+   1,R
+   9,R,D
+  14,R,D,X
+  24,R,K
+  15,R,U,X
+  14,R,Z
+   1,R,J
+  13,R,D,X
+   1,R,K,G
+   1,R
   10,R,D,X
- 100,R,J
+  40
+#lvl_BR-07
+   7,R,D,X
+   1,R,J
+  12,R,D,X
+   1,R,J
+  31,R,D
+  15,R,X
+  18,D
+   7,L,D
+  29,L,Z
+  15,U,X
+  10,R,Z
+  37,L,J
+  28,L,X
+  11,R,D
+  29,R,Z
+  18,U,X
+  10,L,Z
+  38,R,J
+  15,R,X
+  25,L,D
+  16,L,Z
+  17,R
+   1,K
+  35,L,J
+  16,L,U,C
+  15,L,U,Z
+   1,R,K,G
+  10,R,J,G
+   2
+   1,R,K,G
+   7,R
+   6,R,Z
+   1,R,K
+   7,R
+   1,R,J
+  11,R,D,X
+   1,R,J
+   7,R
+   1,R,K
+  40
 
+#lvl_BR-05
+   3,R
+  12,R,D,X
+   3,R,J
+  10,R,U,X
+  19,R,J,G
+  19,R,G
+  14,R,U,X
+  28,R,J,G
+   1,R
+  38,D
+   5,L,X
+   1,J
+   1,L,K,G
+  10,R
+  16,R,U,X
+  11,R
+  24,R,U,X
+  16,U,C
+   2,R,J
+  15,R,J,G
+  18,R,G
+   1,R
+  15,R,D
+  12,D
+   6,L,D
+   6,D
+  14,R,D,X
+  21,R,J
+  15,R,U,X
+  16,R,U,C
+  37,R,J,G
+  14,R,U,X
+  22,J,G
+   2,R
+  17,D,X
+   4,L,D
+   2,D
+  11,L,D
+   1,L,J,G
+  14,L
+   2,L,J
+  16,L
+   3,L,J,G
+  13,L
+   5,R
+   4,R,K,G
+  16,R
+   2,R,K
+  15,R
+   1,R,K,G
+   5,R
+   1,R,K
+   9,R
+   4,R,K
+  20,R
+  15,R,C
+  16,U,X
+  15,R,J
+  22,R,J,G
+   2,R
+  15,R,X
+  12,R,U,C
+  21,R,G
+   2,R
+  10,R,D
+  29,L,D
+  48,G
+  21,R,J
+  15,R
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   6,R,D,X
+  40
 
+#lvl_BR-Outro
+   4,R,D,X
+   1,R,J
+   7,R
+   4,R,J
+   5,R,D,X
+   2,R,J,G
+  17,R
+   1,R,J
+   9,R,U,X
+   1,R,K,G
+  17,R
+   2,R,K
+  10,R,D,X
+   2,R,K,G
+  13,R
+   1,R,K
+   9,R
+  14,R,X
+ 135
 
-
-   
-  10
+ChapterTime: 1:12.335(4255)
