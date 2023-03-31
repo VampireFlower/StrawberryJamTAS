@@ -1,4 +1,4 @@
-RecordCount: 2605
+RecordCount: 2670
 
 console load StrawberryJam2021/3-Advanced/pugroy
    1
@@ -312,21 +312,21 @@ console load StrawberryJam2021/3-Advanced/pugroy
    8,U,X
   15,L,J
   59,L
-   8,J
-  15,U,Z
-  42,D,G
-  31,R,D,G
+   7,J
+  15,U,X
+   5,D,C
+  32,D,G
+  28,R,D,G
    1,R
-   9,R,D
+  12,R,D
   14,R,D,X
   24,R,K
   15,R,U,X
   14,R,Z
    1,R,J
-  13,R,D,X
-   1,R,K,G
-   1,R
-  10,R,D,X
+  17,R,D,X
+   1,R,J
+   7,R,D,X
   40
 #lvl_BR-07
    7,R,D,X
@@ -457,15 +457,14 @@ console load StrawberryJam2021/3-Advanced/pugroy
   17,R
    1,R,J
    9,R,U,X
-   1,R,K,G
-  17,R
-   2,R,K
-  10,R,D,X
-   2,R,K,G
-  13,R
-   1,R,K
-   9,R
+   7,R,K,G
+   3,R
+  15,R,D,X
+   1,R,J
+  14,R
+   2,R,J
+   6,R
   14,R,X
  135
 
-ChapterTime: 1:12.335(4255)
+ChapterTime: 1:12.063(4239)
