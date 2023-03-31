@@ -1,4 +1,4 @@
-RecordCount: 2894
+RecordCount: 2951
 
 console load StrawberryJam2021/1-Beginner/voliver9
    1
@@ -339,13 +339,13 @@ console load StrawberryJam2021/1-Beginner/voliver9
   15,R,D,X
   18,R,D
    3,R
-   3,L
-   1,K
-   1,J,G
-   7,R,U,X
+   1
    1,L,J,G
-  11,R,J
-   3
- 139,U,X
+   1,K,G
+   1,J,G
+   7,R,U,Z
+   1,L,J,G
+  14,R,J
+ 139,L,X
 
-ChapterTime: 0:37.264(2192)
+ChapterTime: 0:37.247(2191)
