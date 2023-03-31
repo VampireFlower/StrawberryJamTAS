@@ -4,6 +4,9 @@ console load StrawberryJam2021/5-Grandmaster/alisticious
 #Start
   86
 
+#SpinnerCycle
+   1
+
 #lvl_a-00
   10,L,Z
    5,R,J
@@ -528,14 +531,13 @@ console load StrawberryJam2021/5-Grandmaster/alisticious
 #lvl_a-06
   17,U
    1
-   4,R,X
-   1,R,U
-  15,U
-StunPause
-   2,U
-   2,L,J
-EndStunPause
-  16,L,J
+   5,R,U,X
+  10,U
+   7,L,U
+Stunpause
+   1,L,J
+EndStunpause
+  17,L,J
    5,L,U,X
    2,U
    2
@@ -595,4 +597,4 @@ EndStunPause
   31
    8,L,D,C
   64,D
-ChapterTime: 0:51.952(3056)
+ChapterTime: 0:51.782(3046)
