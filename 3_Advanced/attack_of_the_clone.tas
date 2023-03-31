@@ -1,4 +1,4 @@
-RecordCount: 3705
+RecordCount: 3736
 
 console load StrawberryJam2021/3-Advanced/pugroy
    1
@@ -311,11 +311,11 @@ console load StrawberryJam2021/3-Advanced/pugroy
    5,L
   15,L,D,X
   12,L,D
-  11,L
-  15,U,X
-  10
-  27,G
-   5,D,G
+  15,L
+  10,U,Z
+  10,J
+   5,D,X
+  29,D,G
   28,R,D,G
    1,R
    8,D
@@ -540,4 +540,4 @@ console load StrawberryJam2021/3-Advanced/pugroy
   15,R,D,X
  135
 
-ChapterTime: 1:07.728(3984)
+ChapterTime: 1:07.694(3982)
