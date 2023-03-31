@@ -1,4 +1,4 @@
-RecordCount: 3657
+RecordCount: 3705
 
 console load StrawberryJam2021/3-Advanced/pugroy
    1
@@ -493,6 +493,29 @@ console load StrawberryJam2021/3-Advanced/pugroy
    4,R
    1
    1,R
+#frame ties
+#   8,R,Z
+#  10,R,J
+#  15,R,D,X
+#   1,R,J
+#   7,R
+#  40
+#   1
+#   6,R
+#   5,R,D,J
+#   5,R,D,X
+#   5,R,J,G
+#   5,R
+#   2,R,J
+#   7,R
+#   7,R,J
+#  15,R,D,X
+#   1,R,J
+#   8,R
+#  14,R,X
+##
+
+
   10,R,Z
    2,R,J
    6,R
