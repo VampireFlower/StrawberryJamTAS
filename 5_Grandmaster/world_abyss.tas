@@ -1,4 +1,4 @@
-RecordCount: 12399
+RecordCount: 12480
 
 console load StrawberryJam2021/5-Grandmaster/Dav
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/5-Grandmaster/Dav
  190
 
 ### spinner cycle [chill-0 (0)]
-   1
+   0
 ###
 
 #lvl_a-intro
@@ -216,44 +216,54 @@ console load StrawberryJam2021/5-Grandmaster/Dav
   10,L,Z
    1,L,J
   24,L,K
-  33,U,G
-  16,R
-   4
+  32,U,G
+   6,G
+   5,U,G
+   4,K,G
+  12
+   9,L,Z
+   1,R,J
+   4,R
+   7,R,J
    2,R
-  11
-  10,L,Z
-   6,R,J
-  12,R,U,X
-   1,R,J,G
-  10,R
-   5,R,J
-  16,R,D,X
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
+   4,R,K,G
+  14,R,D,X
    2,R,J
-   4,R,K
-   1,K
-   2
-   9,R,U,X
+  15,R,D,X
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   4,R,J,G
+   1,R
+   7,R,K,G
+   5,R,D,X
    1,R,J,G
-  10,R
-  21,R,J
-   9,R,U,X
+   1,R
+   8,R,K,G
+   7,R
+   1,R,J
+   4,R
+  10,R,J
+   8,R,U,X
 
 #lvl_chill-0 (0)
-   5,R,U,X
+   6,R,U,X
    8,R,J,G
-   4,R,K,G
-   2,R,J,G
-  11,R
-  12,R,J
+   1,R,K,G
+   1,R
+   5,R,J,G
+  12,R
+  11,R,J
   15,L,U,X
-  10,L
-  10
+  13,L
+  31
    1,L
-  61
+   1
+   1,L
+   1
+   1,L
+  34
   15,X
   12,R
   11
@@ -1056,4 +1066,4 @@ EndRepeat
  135
 
 
-ChapterTime: 3:14.055(11415)
+ChapterTime: 3:13.902(11406)
