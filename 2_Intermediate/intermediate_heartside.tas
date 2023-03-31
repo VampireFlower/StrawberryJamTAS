@@ -121,7 +121,7 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
   10,L,Z
    4,R,J
    3,R,J
-#StunPause
+StunPause
    7,R,J
 SkipInput,3,1
   15,R,D,X
@@ -129,7 +129,7 @@ SkipInput,3,1
    6,L,D
 SkipInput,3,1
   11,D,C
-#EndStunPause
+EndStunPause
    4,D
    8,R
   47,R,D,X
