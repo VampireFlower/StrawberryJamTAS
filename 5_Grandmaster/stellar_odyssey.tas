@@ -1,11 +1,14 @@
-RecordCount: 2435
+RecordCount: 2726
 
 console load StrawberryJam2021/5-Grandmaster/Ecl1psed
    1
 
 #Start
   92
-   2
+
+#Spinner cycle
+   0
+
 #lvl_a-00-start
   12,L,Z
    1,R,J
@@ -246,7 +249,6 @@ EndRepeat
    2,R
   15,L,U,X
    7,R
-
   10,R,X
    1,L,J
    4,R,J
@@ -282,15 +284,15 @@ EndRepeat
   13,R
   20,R,Z
   40
-#lvl_a-03b
 
+#lvl_a-03b
   10,L,D,X
   21,R,J
   15,U,X
    9,R,J
   40
-#lvl_a-04
 
+#lvl_a-04
    1,R,J,G
    3,L,J,G
    7,J,G
@@ -398,89 +400,70 @@ EndRepeat
    8
    1,J
    7,R,J
-   4,J
-  16,U,X
-  15,R,U,C
- 136
-  15,L
-  10,R,X
-  25,R,J
-   4,R
-  15,R,U,X
-  17
-   3,L
-  22
-  15,U,X
-  14,D
-  30,R,D
-StunPause
-   3,R,D
-   5,R
-   3
-   5,D
-   1,L,D
    1,J
-   1,L,J,G
-   4,R
+   5
+   4,J
+  18,U,X
+  15,U,C
+  25,R
+   2,R,D
+   8,D
+   3
+   4,L,D
+   1,L
+   3,R,D
+   4,D,X
    1,R,J
-   3,L,J
-EndStunPause
-  12,L,J
-  20,L,K,G
-  27,L,G
-  17
-  20,G
-   6
-  25,G
-   1,J,G
-   1,K,G
-   1,J,G
-   1,K,G
-   8,K,G
-  23,R,K
-  14,R,X
-   9,J
-   8,L
-   1,L,J
-  12,L
-   6,L,Z
-   1,R,J
-   4,R
-  10,R,J
-  15,R,D
-   6,L,D
-  15,R,U,X
-  18,R,D
-   6,R,Z
-   1,R,J
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
    7,R
+   7,R,J
+   2,R
+   4,R,D,X
+StunPause
+  11,R,D,X
+   3,R
+EndStunPause
+   5,R
+StunPause
+   2,R
+EndStunPause
+   7,R
+   1,R,J
+   5,R,D,X
+  21,R,K,G
+   4,R
+   3,D,J
   40
 
-#lvl_a-05
-   1,R,J
-  13,R,D,X
-   8,R,J
-   9,R
-  18,L,D,X
-  10,R,D,C
-  20,R,J
-  15,U,X
-  15,R,U,C
-   9,L,J
+#lvl_a-5
+   2,R,J
+StunPause
+   8,R
+EndStunPause
+   3,R
+   2,L
+  16,R,U,X
+   1,L,J
+   9,L
   10,R,Z
-  12,L,J
-   4,R,J
-  18,L,X
+  16,L,J
+  17,L,X
    6,R
-  15,R,D,C
-  15,R,U,X
+  15,R,D,X
+  15,R,U,C
   40,R,D
-  22,L,D
+  17,L,D
+   5,L
   14,L,Z
    1,L,J
    1,L
    5,L,J
-  14,L
+  10,L
+   2
+   2,L
   18,R,D,X
   15,D,C
    3,R,D
@@ -502,8 +485,7 @@ EndStunPause
   12,L,D,X
    4,R,J
   17,R,D,J,X
-   1,J
-   4,J
+   5,J
    8,R
   15,R,Z
    1,L
@@ -700,4 +682,5 @@ EndStunPause
   14,J
   15,U,X
  138,R
-ChapterTime: 2:01.431(7143)
+
+ChapterTime: 1:51.945(6585)
