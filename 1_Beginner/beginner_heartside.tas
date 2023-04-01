@@ -1,4 +1,4 @@
-RecordCount: 9793
+RecordCount: 9978
 
 console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    1
@@ -12,8 +12,8 @@ console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
   15,U,X
    1,R
   15,R,U,C
-   6,R,X
-   1,L,J
+   6,R,Z
+   2,L,J
    1,L,K
    1,L,J
    1,L,K
@@ -22,18 +22,15 @@ console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    1,L,J
    1,L,K
    1,L,J
-   1,L,K
-   7,L,U,X
-   7,L,J,G
-  13,L,K,G
+   9,L,K
+  12,L,U,X
    4,L,J,G
-   1,L
    3,L,K,G
-   5,L,D
-   3,L
-   7,L,D
-   2,D
-   1,L,D
+   2,L
+   1,L,J,G
+   1,J
+   1,L,J
+  18,L
   15,D,X
   15,D,C
   15,D,X
@@ -279,8 +276,7 @@ AnalogMode,Precise
    8,L,J
   14,L,K
   75,L,X
-   3
-   1
+   4
   15,R,D,C
    1,R
   31,R,U,Z
@@ -417,16 +413,18 @@ AnalogMode,Precise
    7,R
    3,R,K
    7
+
+   1,D
+   1,R,D
+   1,D
+   1,R,D
    4,D
-   1
-   5,D
-   2,L,D
-   1,L,G
-   1,L
-   1,L,G
-  16,L
-   7,R,J,G
-   3,J
+   3
+   1,G
+  17,L
+   1,R,K,G
+   7,R,K
+   2,K
   10,R,D,X
   28,R,J
   15,R,U,Z
@@ -616,8 +614,7 @@ AnalogMode,Precise
    4,R,J
   11,R,K
    5,R
-   1,R,J
-   1,R,J
+   2,R,J
    5,R
    6,L,D,X
    7,R,J
@@ -627,24 +624,26 @@ AnalogMode,Precise
   27,R,K
   14,R,Z
    4,R,J
-   4,R,K,G
-   7,R
+   1,R,K,G
+   4,K,G
+   5,R,D,X
+   5,R,J,G
+   5,R
+   1,R,J
+   3,R
    3,R,J
-   1,R
-   6,R,D,X
-   3,R,J,G
-   7,R
-   2,R,K
+   3,R
   40
 
 #lvl_cp3_13_heartside_skeleton
-   4,R
-   7,R,J
    2,R
+   1,R,J
+   7,R
+   4,R,J
   15,R,D,X
    8,R,J
    2,R
-  96,R,Z
+  97,R,Z
    4,R,J
    8,R,K
    3,R
@@ -902,7 +901,7 @@ AnalogMode,Precise
    2,J
   10,R,J
 # spinner cycle (0-2)
-   2
+   1
 # -------------
    1,K
    1,R,J,G
@@ -965,11 +964,11 @@ AnalogMode,Precise
    2,R,K
   19,R,D
    2,L,D
-stunpause
+StunPause
    7,L,D
    7,D
   10,R,D
-endstunpause
+EndStunPause
    7,R,D
    1,D
    1,R,J
@@ -1154,8 +1153,7 @@ endstunpause
   13,R,G
    1,R,J,G
    6,R,G
-  16,R,J,G
-  27,R,J,G
+  43,R,J,G
    1,R
   15,R,U,X
   14,R,Z
@@ -1178,8 +1176,7 @@ endstunpause
   13,R,G
   28,R,D,G
    4,D,G
-  28,R,G
-   6,R,G
+  34,R,G
 # can be further left?
 # or skip pipes?
    1,R
@@ -1203,8 +1200,7 @@ endstunpause
    4,R,D
   15,R,U,X
    5,R,C
-  69
-  10
+  79
    5,R,X
   11,R,J
   21,R,J,G
@@ -1220,7 +1216,11 @@ endstunpause
    1,R,J
   15,R,D,X
   13,R,J
-  55,R,D,X
+   6,R,D,X
+  40
+
+#lvl_cp4_08_heartside_quinnigan
+   9,R,D,X
    1,L,J
    3,R,J
   17,L,J
@@ -1243,8 +1243,7 @@ endstunpause
    2,R
   15,R,Z
   17,R,D
-  11,R
-  17,R
+  28,R
   15,R,U,X
    1,R
   12,R,C
@@ -1252,8 +1251,7 @@ endstunpause
    5,R
    1,R,K
   21,R,J,G
-  13,R
-  23,R
+  36,R
   15,R,X
    1,R
   15,U,C
@@ -1488,16 +1486,14 @@ endstunpause
    1,R,K
    3,R
   15,R,U,C
-   7
-  59
+  66
    1,R,J
   10,R,K
    2,R,J,G
    1,K
    4,J
   14,L,U,X
-  14
-  71
+  85
    1,L,G
   12,L,K
    1,J
@@ -1515,8 +1511,7 @@ endstunpause
    4
   43,R,D
    5,R,X
-   5
- 155
+ 160
    2,L
    1,L,J
    2,J
@@ -1526,14 +1521,12 @@ endstunpause
    9,R
 # down right?
   10,R,Z
-  19
-  96
+ 115
    1,L,J
    1,L,K
   18,L,D
   14,L,X
-   7
-  28
+  35
    5,L,J
   36,L,K
    6,L,J,G
@@ -1545,8 +1538,7 @@ endstunpause
   18,U,X
    6,L
   16,R,U,C
-  15
- 103
+ 118
    1,R,J
   13,R,K
   15,R,U,X
@@ -1597,8 +1589,7 @@ endstunpause
   12,L
   15,R
   15,R,X
-  14,R
-  12,R
+  26,R
   15,U,X
   12,R,C
   20,R
@@ -1625,8 +1616,7 @@ endstunpause
    3,J
    1,K
    3,R,K
-  20,R,D
-  47,R,D
+  67,R,D
   15,R,X
    2,R
   15,R,C
@@ -1697,8 +1687,7 @@ endstunpause
    4,R,J
   16,R
   13,D,X
-   2,R
-  10,R
+  12,R
   34,L,D
   15,L,Z
   13,D,X
@@ -1812,10 +1801,10 @@ endstunpause
   10,L,D,X
    1,L,K,G
    4,L
-repeat, 2
+Repeat 2
   15,L,X
   15,L,C
-endrepeat
+EndRepeat
    4,K,G
   15,U,X
   12,L
@@ -2062,4 +2051,4 @@ Repeat 33
 EndRepeat
    1
 
-ChapterTime: 4:32.153(16009)
+ChapterTime: 4:32.051(16003)
