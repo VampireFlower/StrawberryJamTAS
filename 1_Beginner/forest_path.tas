@@ -1,4 +1,4 @@
-RecordCount: 2551
+RecordCount: 2642
 
 console load StrawberryJam2021/1-Beginner/asteriskblue
    1
@@ -171,18 +171,18 @@ console load StrawberryJam2021/1-Beginner/asteriskblue
    9,R,D
   15,R,D,X
    1,R,J
-  35,R,D,X
+  39,R,D,X
   31,R,Z
-   4,R,J
-   1,R,K
-  10,D,X
+   6,R,D,X
   40
 
 #lvl_a-11
-  14,R,D
+  11,R,D
+   1,R
+   1,R,D
   15,R,D,X
-   1,R,J
-  23,R,D,C
+  13,R,D
+   6,R
   28,R,U,Z
    4,R,J
    1,R,K
@@ -324,4 +324,4 @@ console load StrawberryJam2021/1-Beginner/asteriskblue
   14,R,U,X
  135
 
-ChapterTime: 0:47.175(2775)
+ChapterTime: 0:47.039(2767)
