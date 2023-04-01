@@ -1,4 +1,4 @@
-RecordCount: 3023
+RecordCount: 3207
 
 console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
    1
@@ -16,14 +16,15 @@ console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
    1,R,K
   21,R,J
   19,R,D,X
-  28
-   2,J
-   5,L,D,Z
+  27
+   3,J
+   5,D,X
 
 #lvl_a-02intro
- 117
+ 111
   60
-   2,R,J
+   1,R,J
+   3,R
   14,R,D,X
    1,R,J
    9,R,D,X
@@ -131,9 +132,9 @@ EndRepeat
    2,R,J
   38,R,D,X
    3,R
-  13,D
-   4,L,D
-  12,L,Z
+  15,D
+   2,R,D
+  13,L,Z
    1,L,J,G
    9,L,K,G
   19,L
@@ -172,31 +173,33 @@ EndStunPause
    2
 StunPause
    3,R,D
-   5,R
-   1,R,D
+   3,R
+   2
+   1,D
 SkipInput,3,1
    4,Z
    1,R,J
-  10,L,D
-SkipInput,3,1
-   5,D,X
-EndStunPause
-  10,D,X
-   5,L,D
-   2,D
-StunPause
-  10,L,D
-  10,D
    6,R,D
+   4,R,D
+SkipInput,3,1
+   4,D,X
 EndStunPause
-   8,R,D
+  11,D,X
+   5,L,D
+   2,L,D
+   1,D
+StunPause
+   6,D
+  11,L,D
+   7,R,D
+EndStunPause
+   9,R,D
    1,R,J
    1,R,K
-   1,R,J
-   8,R
+   3,R,J
+   5,R
    2,R,J
-   1,R
-   4,L
+  10,R
    7,L,Z
    1,R,J
    6,R
@@ -437,7 +440,7 @@ EndStunPause
 
 #lvl_a-07
    6,R,D,X
-  13,R,G
+  13,R,G,N
    1,L,J,G
   14,L,G
    1,R,J,G
@@ -496,9 +499,8 @@ EndStunPause
    5,U,C
   27,G
    1,D
- 100,R,G
-   3,R,U,G
-  54,R,G
+  12,R,U,G
+ 145,R,G
    2,R,U,G
    1
   20,D,G
@@ -516,7 +518,7 @@ EndStunPause
    9,R,D,X
   40
 
-#lvl_a-07
+#lvl_a-08
    5,R,D,X
    1,R,J
   16,R,D,X
@@ -524,17 +526,17 @@ EndStunPause
   14,R
    1,R,J
   14,R,D,X
-StunPause
    1,R,J
+StunPause
 SkipInput,3,1
   13,R,D,X
    1,R,J
   19,L,D,G
    8,R,D
    2,L,D
-   5,R,D
+   6,R,D
 EndStunPause
-   5,R,D
+   4,R,D
    8,D
    3,L,D
   24,D
@@ -561,5 +563,4 @@ EndStunPause
    1,R
    6,L,D
  135,R,D
-
-ChapterTime: 1:44.533(6149)
+ChapterTime: 1:44.176(6128)
