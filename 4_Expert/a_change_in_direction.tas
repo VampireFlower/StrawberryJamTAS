@@ -1,4 +1,4 @@
-RecordCount:
+RecordCount: 3443
 
 console load StrawberryJam2021/4-Expert/Agent
    1
@@ -6,13 +6,405 @@ console load StrawberryJam2021/4-Expert/Agent
 #Start
   96
 
+
 #lvl_Agent_00
+   2,R,J
+  10,R,Z
+   5,R,J
+  14,R,D,X
+   1,R,J
+   1,R
+   2,R,J
+   5,R
+  11,L,X
+  27,R,J
+  14,U,X
+  11,R,J
+  28,R
+   1
+   8,R,D
+   5,D
+   4
+  11,L,X
+  27,R,J
+  14,U,X
+   7,J
+  14,R,J
+   1,R,K,G
+   7,R
+  10,R,Z
+  10,R,J
+  15,R,D,X
+   1,L,J
+  13,L
+  14,L,Z
+   1,R,J
+   5,R,D,X
+   3,R,J,G
+   5,R
+   7,R,J
+   2,J
+   7,K
+   2,R,K
+  10,R,D,X
+  22,R,J
+  14,U,X
+   5,J
+   5
+   4,J
+   8
+   8,L
+  17,L,D
+  15,L,X
+  11
+   4,R
+   2,R,J
+   5,R
+   2,R,J
+  12
+# could get more speed maybe but have to slow down anyway
+  14,L,D,X
+   1,R,J
+   7,R,D,X
+   1,R,J,G
+   6,R
+   2,R,J
+   3,R
+  12,R,K
+   5,R
+   3,R,J
+   3,R,K,G
+   6,J,G
+  18
+  11,D
+  12,L,D,X
+  21,R,J
+  14,U,X
+  16,L,J
+  24,L
+   8,L,D
+   7,L,D,X
+   1,L,J
+   9,L
+  27,L,J
+  14,U,X
+  12,J
+   2
+   9,L
+  13,U,X
+  40
+
+
+#lvl_Agent_00a
+
+  12,R,J
+   2,R,J
+   1,R
+   7,R,J
+  14,R,Z
+   1,R,J
+# sloppy dultras
+  10,R,D,X
+   1,R,J
+  12,R
+   3,R,J
+   1,R
+   5,R,D,X
+   1,R,J,G
+   9
+  40
+
+
+#lvl_Agent_01
+   3
+   3,R,J
+   5,R,D,X
+   2,R,J,G
+  12,R
+   2,R,J
+   9,R,D,X
+   2,R,J,G
+  17,R
+   8,R,J
+  11,R
+  15,U,X
+  10,L
+   9,R,Z
+   1,L,J
+   8,L
+   1,L,J
+  16,R
+  12,R,J
+   1,R
+  15,R,U,X
+   1,R
+  14,R,Z
    1,J
+  14,D,X
+  80
+   1,R,J
+   2,R
+ 115
+# lots of waiting but idk what else
+# also didn't test many but this seems to reduce pauses
+  10,L,D,X
+   1,R,K
+   7,R
+   5,R,J
+   6,R
+   7,R,J
+StunPause
+  12,R
+SkipInput,3,1
+  13,R,U,Z
+EndStunPause
+   1,L,J,G
+  11,R,J
+  23,R
+   4,R,Z
+   1,R,J
+   7,R
+  40
 
 
+#lvl_Agent_02
+   5,R,J
+   8,R,D,X
+   1,R,J,G
+  13,R
+  12,R,J
+   7,R
+   4,R,J
+  17,U,X
+# had to lose few frames hitting second block or block wouldn't change directions
+   7,L,J
+  15,L
+   5
+  11,L,D,X
+  24,R,J
+   3,R
+  17,U,X
+  11,R,J
+  13,R,Z
+  10,L,J
+   4,L
+  18,D,X
+  15,D,X
+   3,D
+  25
+   5,R
+  14,L,Z
+   1,R,J
+   8,R,D,X
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+  10,R
+  10,R,J
+   2,R
+  14,R,D,X
+   6,D
+   2,J
+   5,R,U,Z
+  40
 
 
+#lvl_Agent_03
+
+# going around seems to save ~50 compared to stun
+   5,R,U,Z
+  12,J,G
+   2,R
+  18,U,X
+  15,R,U,Z
+   1,R
+  15,R,D,X
+  11,R
+  20
+   5,L,J
+   7
+  14,R,Z
+  14,L,J
+  13,L
+  20
+   4,L
+  11
+   1,R,J
+   9,R
+  12,L,D,X
+   1,R,J
+  12,R,K,G
+   9,R
+  18,R,U,X
+   1,R
+  12,L,J
+   5,L
+  10,L,J
+  15,L,U,X
+   7
+  15,L,Z
+  17
+  11,R,D,X
+   1,L,J
+  11,L
+  12,L,J
+   9,L
+  10,L,J
+   7,L
+  14,U,X
+  10,L,J
+   8,L
+   2,L,J
+   9,L
+  14,L,D,X
+  25,L,J
+  16,U,X
+  16,L,J
+   7,L
+   1,L,J
+   3,L
+   7,L,J
+   6,L,Z
+   1,L,J
+   7,L
+   2,L,J
+  11,L,D,X
+  40
 
 
+#lvl_Agent_04
+   3,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  27,L,U,X
+   4,L,J
+   8,L,K
+  11,L,D,X
+   1,L,J
+   7,L
+  12,L,J
+   6,L
+  27,L,U,X
+   4,R,Z
+   6,R,J
+  35,R,D
+  22,D,Z
+  20,U,X
+   9,L
+  21,U,Z
+   6
+  14,U,X
+  11,R
+  14,U,X
+   7,R,J
+  40
 
-ChapterTime: 
+
+#lvl_Agent_05
+  11,R
+  11,R,D,X
+   3,R,J
+  10,R,K,G
+   7,R,D,X
+   1,R,J,G
+  12,R
+  11,R,J
+   5,R
+   4,R,J
+  17,U,X
+   9,L,J
+  14,L,Z
+ 193
+   9,L,D,X
+   1,R,J
+   7,R
+StunPause
+   1,R,J
+SkipInput,3,1
+   8,R,D,X
+EndStunPause
+   2,R,D,X
+StunPause
+   1,R,D,X
+EndStunPause
+StunPause
+   2,R,D,X
+EndStunPause
+   1,R,D,X
+  12,L
+   4,R,Z
+  13,R,J
+  12,R
+   4,R,Z
+   4,R,J
+  11,R,K,G
+   5,R
+  40
+
+
+#lvl_Agent_06
+  10,R,D,X
+   6,R,J
+  11,R,D,X
+   1,R,J
+   7,R
+   5,R,J
+   5,R
+  14,R,U,Z
+  13,R
+   1,L,K
+  10,R,K
+  14,R,X
+   1,L,J
+   4,J
+   5
+  10,J
+   5
+  11,L,X
+   4,L,J
+  12,L,K
+  14,L,D,X
+   1,L,J
+  14,D,X
+  10
+   6,L
+  21,D
+   5,R,D,X
+   1,R,J
+   7,R
+   5,R,J
+# nightmare of a hitstun
+StunPause
+SkipInput,3,1
+  11,R,D,X
+EndStunPause
+   1,R,D,X
+StunPause
+   2,R,D,X
+EndStunPause
+   3,R,D
+StunPause
+   1,R,D
+EndStunPause
+  10,R,D
+   5,R,J
+  11,R,D,X
+   1,L,J,G
+   3,R,J,G
+  10,R,U,Z
+   5,R,J,G
+   0,R
+  40
+
+
+#lvl_Agent_07
+   3,R,J
+   5,R
+   6,R,J
+  14,L,U,Z
+  50,R,J
+  85
+
+ChapterTime: 1:00.979(3587)
