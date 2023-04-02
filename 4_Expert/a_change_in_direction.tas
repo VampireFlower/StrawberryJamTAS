@@ -1,4 +1,4 @@
-RecordCount: 4242
+RecordCount: 4440
 
 console load StrawberryJam2021/4-Expert/Agent
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/4-Expert/Agent
   96
 
 #spinner cycle 1
-   2
+   1
 
 #lvl_Agent_00
    2,R,J
@@ -28,14 +28,16 @@ console load StrawberryJam2021/4-Expert/Agent
    5,D
    4
   11,L,X
+#-1f
   27,R,J
-  14,U,X
-   7,J
-  14,R,J
-   1,R,K,G
+  15,U,Z
+   2,J
+  16,R,J
+   2,R,K,G
    7,R
   10,R,Z
-  10,R,J
+   9,R,J
+   1,J
   15,R,D,X
    1,L,J
   13,L
@@ -50,49 +52,49 @@ console load StrawberryJam2021/4-Expert/Agent
    2,R,K
   10,R,D,X
   22,R,J
-  14,U,X
-   5,J
-   5
-   4,J
-   8
-   8,L
-  17,L,D
-  15,L,X
-  11
-   4,R
-   2,R,J
-   5,R
-   2,R,J
-  12
-# could get more speed maybe but have to slow down anyway
-  14,L,D,X
-   1,R,J
-   7,R,D,X
-   1,R,J,G
-   6,R
-   2,R,J
-   3,R
-  12,R,K
-   5,R
-   3,R,J
-   3,R,K,G
-   6,J,G
-  18
-  11,D
-  12,L,D,X
-  21,R,J
-  14,U,X
-  16,L,J
-  24,L
-   8,L,D
-   7,L,D,X
-   1,L,J
-   9,L
-  27,L,J
-  14,U,X
-  12,J
+  15,U,X
+  50,J
+  17,L
    2
-   9,L
+   7,L
+  11
+   4,L
+   1,L,J
+  14,L,Z
+   1,R,J
+   8,R,D,X
+   1,R,K,G
+   2,R,J,G
+   4,R
+   4
+   1,L,D,J
+  15,J
+   1,R,J
+   5,J
+   3
+   5,K,G
+   1
+   7,J,G
+   8
+  14,R,D,X
+   6,D
+   3,R,D
+   5,R
+   3,R,D
+  13,R,J
+   5,J
+  14,U,X
+  22,L,J
+  15,L,D,X
+  11,R,D
+   4,Z
+   1,L,J
+   5,L
+  30,L,J
+  14,U,Z
+  18,L,J
+   2,L,K,G
+   7,R
   13,U,X
   40
 
@@ -418,5 +420,5 @@ EndStunPause
    1,R,J
   50,R
 
-ChapterTime: 0:59.908(3524)
+ChapterTime: 0:59.857(3521)
 
