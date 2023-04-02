@@ -1,4 +1,4 @@
-RecordCount: 1419
+RecordCount: 1606
 
 console load StrawberryJam2021/3-Advanced/Maladroit
    1
@@ -6,17 +6,19 @@ console load StrawberryJam2021/3-Advanced/Maladroit
 #Start
   69
 
+#Lightning Cycle
+   0
+
 #lvl_A0
    5,R,D,X
    1,R,J
    7,R
-   1,R,J
-   5,R,K,G
-   7,R
-   4,R,J
+   8,R,K,G
+   4,R,J,G
+   2,R
   14,R,D,X
    1,R,J
-  12,R,D,X
+  14,R,D,X
    3,L,J
   15,D,X
    3,L
@@ -146,43 +148,32 @@ console load StrawberryJam2021/3-Advanced/Maladroit
   19,L,J
   15,L,D,X
   25,R
-  94,R,U,G
-   1,R,G
+  96,R,U,G
    1,L
-   5,R
-  14,R,U,X
-   5,R,J,G
-   7,R
-  11,R,Z
-   2,R,J
-   5,R,K,G
    4,R
+  15,R,U,X
+   3,R,J,G
+   7,R
+   5,L,Z
+   1,R,J
+   6,R
+   1,R,J
+   8,R,K,G
+   1,K
   40
 
 #lvl_A5
-   1,R
-   1
-   5,R,D,X
-   3,R,J,G
-   1,R,K,G
-  12,R
-   1,R,J
-#cb off the block 
-#but doesnt activate
-#   1,R
-#   6,R,D,X
-#   1,R,J,G
-#  10,R
-#   2,L
-#   1,R,J
-  14,R
-   6,D,X
-   1,L,J,G
-   7,L
-   1,L,G
-  37,R,D
-   2
-  51,D,X
+   1,K
+   6,R,D,X
+   2,R,J,G
+   2,R,K,G
+  16,R
+   1,G
+  79,R,J,G
+   3,R,J
+  15,D,X
+  25,D
+  12,R,D
    9,L
   48,L,G
   25,D,G
@@ -193,7 +184,7 @@ console load StrawberryJam2021/3-Advanced/Maladroit
   33,L,Z
    1,R,J
   34,R
- 132
+  87
    1,R,J
    5
    3,J
@@ -257,78 +248,46 @@ console load StrawberryJam2021/3-Advanced/Maladroit
   40
 
 #lvl_A6
-  29,R
+  25,R
+   3,R,D
   15,R,X
-   3,R,G
-   1,R,J,G
-  16,R
-  14,L,D,X
+  17,R
+  14,L,Z
    1,R,J
    7,R,D,X
    1,R,J,G
    1,R,K,G
-   3,R
-   6
+   9,R
    1,R,J
-  30,R,D,X
-  36,R
-  21,R,D
-  15,R,Z
-  28,R,X
-  15
-  15,U,X
-  53,U,G
-  11,L,U,G
-  48,U,G
-   6,R,J,G
-   1,L
-  18,L,U,X
-  52,L,G
-  19,L,D,G
-  10,L,G
-  31,L,D,G
-   5,R,J,G
-  39,R,G
-  37,L,D,G
-  29,R,D,G
-  17,L,U,G
-  22,U,G
-  24,L,G
-   7,U,G
-   1,R
-  14,L,Z
-   2,L,J
-  32,L,D,X
-  18,L
-   6,L,D
-  27,R
   15,R,D,X
-  11,R
-  18,D,X
-  14,L,Z
-   1,R,J
-   6,R,D,X
-   1,R,J,G
-   1,R,K,G
-  24,R,J,G
-   4,J
-  13,K,G
-  14,J
-   2,L,J
-  29,R
-  16,U,X
-  29,G
-   1,D
-  12
-   5,U,X
-  24,R,G
+   2,R
+  14,R,D
+  10,L
+   7,D,X
+StunPause
+   8,D,X
+   5,L,D
+  26,R,D
+EndStunPause
+   3,R,D
+StunPause
+   5,R
+SkipInput 3 1
+  15,R,Z
+  19,R,D
+EndStunPause
+  14,R,D
+  18,R
+  14,U,X
+  36,R,G
    1,L
-  15,R
-   4,R,X
-  11,R,J
-   4,R,K,G
-   6,R
-   1
+  15,R,U,X
+   9,R
+   6,R,J
+   7,R,K,G
+   2,R
+   1,R,J,G
+   7,R
    6,R,Z
    1,R,J
    2,R
@@ -382,18 +341,24 @@ console load StrawberryJam2021/3-Advanced/Maladroit
    1,R
   11,R,J,G
    1,R,K,G
-   1,R,J,G
-   4,R
-   5,R,J,G
-   8,R
+   2,R,J,G
+   3,R
+   4,R,J,G
+   7,R
   10,R,X
    5,R,J
   15,U,X
    3,L,J,G
-   9,L
+   7,L
   10,L,Z
    5,L,J
-  24,L,D,X
- 135
+  29,L,D,X
+  10,L,J
+   1,L,K,G
+  10,L,J,G
+   1,L,K,G
+  21,L
+  53,L,D,X
+  23,L,D
 
-ChapterTime: 1:23.555(4915)
+ChapterTime: 1:18.557(4621)
