@@ -1,4 +1,4 @@
-RecordCount: 3651
+RecordCount: 6574
 
 console load StrawberryJam2021/5-Grandmaster/math
    1
@@ -586,15 +586,17 @@ console load StrawberryJam2021/5-Grandmaster/math
  304
 
 #lvl_2501M
-  10,L
-   5,J,G
-   3,L
-   1,L,N
-   3
-   4,X
+***s
+#BIS messes up wind OoO
+#in next room
+  10,R
+   5,J
+   5,L,X
    6,R,J
-   7,R
-   4,R,J
+   6,R
+   1
+   1,R,J
+   3,J
   13,K
   15,R,U,Z
    4,R
@@ -605,7 +607,7 @@ console load StrawberryJam2021/5-Grandmaster/math
   13,L,D
    7,D
    2
-   1,R,D
+   1,D
    1
    1,R
    2
@@ -722,78 +724,513 @@ console load StrawberryJam2021/5-Grandmaster/math
   27,L,X
   18,U,C
   15,U,X
+***s
+#set bis
+#Set,Lookout[2501M:4586].interacting,false
    1
  306
 
 #lvl_3000M-00
-***s
-  11
-   8,L,U,X
-   2,L,J,G
-   5,L
-   1,L,J
-   7
+  59
+   4,L,Z
+   3,L,J
    1,L
-   1,L,N
-   2,R,J
-   1,R
-   5,R,X
-   1,J,G
-   7
-   9,L,J
-  15,U,X
+   2,L
+   1,L,J
+   2,L
+   2
+   1
+   1,R,N
+   1,L,J
+   2
+  10,R,X
+   6,J
+  19,U,X
    1,R
    6,L,U,X
   19,R
   14,U,Z
    1,L
    6,R,U,X
-   9,L
-  15,U,X
+  10
+  14,U,X
   15,U,C
-   7,L,Z
-   9,L,J
-   8,L
+  10
+   1,J
+   5,R,J
+   1,J
+  14,L,D,C
    5,L,J
+   1,L
+   2,L,J
+   5,L
+   5,L,K
    5,L
    2,L,J
    1,L
+   7,L,D,J
+   5,L
+   1,L,J
+   1,L
+  12,L
+   1,L
+  11,L,J
+   1,L,K,G
+   9,L
+   3,L,J
+   5,L
+   3,L,J
+   6,L
+   1,L,J,G
+   7,L
+   8,L,J
+  15,U,X
+  17,L,J
+  27,R,K
+   9,J,G
+   1,K,G
+   1,R
+   1
+   1,R
+   2
+   1,R
+   1,L
+  13,L,J
+   2,J
+  15,U,X
+   5,L
+   5,L,J
+  13,R,J
+   3,K,G
+   1,L,K
+   1,R,K
+   2,J,G
+   1,L,J
+   8,L,K,G
+   2,L,J,G
+   7,L
+   1,J
+  10
+   1,L
+   3
+   3
+   3,R
+   1,L
+   1,J
+   1,K,G
+   1,R,K
+   1,L,K
+   1,L,J,G
+   2,R,J
+   1,L,J
+   1,K
+  11,J
+   9,R,J
+   6,R,K
+  14,U,X
+   1
+   6,L,U,C
+  20,R
+   4
+  14,R,Z
+   1,R,J
+   5,R
+   3,R,J
+  11,R,D,X
   20,R,J
+   1,R
+   2,R,K,G
+   7,R
+   6,R,J
+   8,R
+   7,R,J
+   5,R,D
+  20,D
+  13,R,D,C
+  33,R,J
+  11,R,X
+  14,L
+  15,U,X
+  17,J
+ 155
+  40
+
+
+#-1f maybe
+#Invoke,Player.MoveH,-3.5
+#  11
+#  15,U,X
+#   7,R
+#   2,J,G
+#   7,R
+
+#lvl_3000M-01
+  10,R
+   6,J
+   1,L,J
+   1,L
+  15,U,X
+  10,R
+#2:25.129(8537)
+
+
+#-2f precise y subpixel
+#Invoke,Player.MoveV,-0.1
+#  10,R,Z
+#   3,R,J
+#   1,R
+#   1,R,J
+#   1,R,N
+#   1,R,J
+#   2,R
+#  10,R,X
+#   1,L,J
+#  12,J
+#  15,U,X
+# 100,R
+#2:26.132(8596)
 
 
 
+#   4,R,Z
+#   3,R,J
+#   5,R
+#   2
+#   1,N
+#  27,L,J
+#  15,U,X
+#  10,R
+#2:26.166(8598)
+Set,Lookout[3000M-01:8506].interacting,true
+
+
+  13,R,J
+   1,J
+   1,R,J
+   2,J
+   1,R,J
+  15,U,X
+  10,R
+#2:25.809(8577)
+   1,L,J
+   5,R,J
+   1,J
+   2,R,J
+   8,R
+   1,R,J
+   7,R
+   9,L,D
+   3,D
+   4,R,D
+  19,R,Z
+   4
+AnalogMode,Square
+  27,F,40.8
+AnalogMode,Precise
+   5,F,0
+  53,F,53.45
+   5,F,90
+  20,F,109.35
+   1,F,120
+   3,F,30
+   8,F,18
+  15,F,90
+   1,F,93
+   9,F,180
+  11,D
+  15,R,D
+   1,L,D
+   2,L
+   3,L,D
+  14,L
+  13,L,D
+   1,L
+   1,L,G
+   8,D
+   2,L,D
+   2,D
+   7,R,D
+   5,R
+   7,L
+   6,L,D
+  15,L,Z
+  44,R
+   1,R,G
+  38,R,G
+  30,L
+   1,J,G
+   1
+   1,L
+   1
+   1,L
+   3
+   1,L
+   1,R
+   7,R,J
+   5,R
+   3,J
+   1,R,J
+  14,R,Z
+   3,L,J
+  34,R,U,X
+   1,J,G
+   1,L,J
+   1,R,K,G
+   1,K
+  20,D
+  11,R,D
+   1,D
+   1,R,D
+   1,G
+  14,R,J
+   8,U,C
+  51,R,J
+  13,L,D
+   2,R,D
+   1,R
+   2
+   1,R
+  10,L,X
+  11,R,J
+  14,R
+   1,D
+  17,R,D
+  17,R,Z
+  21,D,X
+   8,R,D
+  16,R,U,Z
+   3
+  12,J
+   1,L,K,G
+   1,R,K
+   3,K
+   1,J
+   1,R
+  32,R
+  23,R,U,Z
+  23,R,U,C
+  15,L,X
+  15,U,C
+  27,R
+  26,R,Z
+  15,R,V
+
+Invoke,Player.MoveV,-3
+
+  35,R,D
+#2:41.551(9503)
+  15,U,X
+  17,R
+  17,U,X
+ 109
+  40
+Set,Invincible,false
+
+#lvl_3000M-02
+  10,R
+   1,R,J,G
+   2
+  14,R,J,G
+  18,U,X
+   2
+   7,L,U,C
+  18,R
+   1
+  15,U,X
+  11
+  37,L,U,X
+  18,R
+  15,U,X
+   7,R
+   1
+  15,R
+   3,R,D
+   5,D
+   1
+   2,R
+   6,R,C
+  25,R
+  24,R,U,Z
+   8,R,G
+   3,R
+   1
+   1,R,G
+  14,R,J,G
+   9,L,J
+   1,L,G
+   1,R
+  15,R,U,Z
+   5,R
+  15,R,D,X
+  10,R
+   1,R,G
+   1,J,G
+   1,L,J
+   9,R,K,G
+   5
+  15,R,D
+   8,D
+   2,L,D
+  19,R
+   6,U,Z
+  12,R,J
+   1,R
+  10,L,J
+   1,L
+   1,L,J
+   1,L
+   2,R
+   2,R,J,G
+   8,R
+  19,D
+  14,R
+  29,R,X
+  15,U,C
+   8,R
+   2
+  14,R,Z
+   5,R,J
+  15,R,D,X
+  34,R,J
+  23,R,X
+   6
+   1,J
+   1
+   3,J
+   7,R,J
+   4,R,K
+   2,K
+  38,R,K
+   1,R,D
+   4,R
+   9,R,D
+   1,R
+   1,R,D
+  26,R,Z
+   1,R,J,G
+  10,R,K,G
+  10,R,J,G
+   5,R
+   1,R,J
+   1,R
+   2,R,J
+   1,R
+   1,J,G
+  10,R,J
+   1,L,J
+   1,K
+  11,J
+   1,K
+   2,J,G
+  14,R,J
+  12,L,K
+   1,J
+   2,K,G
+  10,R,K
+   7,J,G
+   5,L,J
+  11,K,G
+   1,R,K
+   1,J
+   2,K,G
+  14,L,K
+   3,J,G
+   1,R,J
+   1,L,J
+  10,K,G
+   2,R,K
+   2,R,J,G
+   1,J
+   6,R,J
+  10,R
+   7,R,J
+  15,R,U,X
+  17,R
+  14,R,D,X
+   1,R,J
+  10,L,X
+   9,R,J
+   4
+  16,R,Z
+   1,J,G
+   1,L,J
+  11,R,K,G
+   6,R
+   2,R,J
+   4,R
+  20,R,J
+  28,R,U,X
+   9,J,G
+   1,L,J
+   1,R,J
+   2,K,G
+   1,L,K
+   1,R,K
+   1,J,G
+   1,L,J
+   3,R,J
+  12,R,K,G
+  13,J,G
+  10,K,G
+   7,R
+   1,J
+   3,R,J
+   3,J
+   2
+  37,R,U,X
+   3,R,J
+  11,J
+  34,R,U,X
+   9,R,J
+  11,R
+   2
+  14,R,X
+   5,L,J
+   1,J
+   3
+  33,R,U,X
+
+#  10,R,J
+#   3,R
+# 100,R,U,X
+
+  12,R,J
+  34,R,U,X
+
+#Invoke,Player.MoveV,0.4
+#   8,L,Z
+#   1,R,J
+#   1,R
+#   1
+#   4,R
+#   1,R,D
+#  12,R,D,J
+#   9,U,X
+#   1,L,J
+#  11,L
+#   1,R
+# 100,L,J
 
 
 
+Invoke,Player.MoveV,-0.4
+  12,R,Z
+   3,R,J
+  14,R,U,X
+   1,J
+   2,K,G
+   8,L,K
+   7,L
+#3:06.898(10994)
+   5,J
+   7,L,J
+Invoke,Player.MoveH,-0.931
+  15,U,X
+   7,L
+  32,R,J
+   3,K,G
+ 100,R
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2000
-
-
+1000,R
 ChapterTime: 
