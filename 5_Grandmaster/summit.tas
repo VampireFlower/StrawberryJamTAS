@@ -1,4 +1,4 @@
-RecordCount: 6574
+RecordCount: 6700
 
 console load StrawberryJam2021/5-Grandmaster/math
    1
@@ -586,7 +586,6 @@ console load StrawberryJam2021/5-Grandmaster/math
  304
 
 #lvl_2501M
-***s
 #BIS messes up wind OoO
 #in next room
   10,R
@@ -724,7 +723,6 @@ console load StrawberryJam2021/5-Grandmaster/math
   27,L,X
   18,U,C
   15,U,X
-***s
 #set bis
 #Set,Lookout[2501M:4586].interacting,false
    1
@@ -1227,10 +1225,46 @@ Invoke,Player.MoveV,-0.4
 Invoke,Player.MoveH,-0.931
   15,U,X
    7,L
-  32,R,J
-   3,K,G
- 100,R
 
-
-1000,R
-ChapterTime: 
+#I continued from here
+   1,J
+  31,R,J
+   3,R,K,G
+   9,R
+   1,R,J
+  16,R,U,X
+  11,K,G
+   1,R,J,G
+   2
+   1,R
+   1
+   5
+   7,L,J
+  10,R,X
+   1,R,J
+  11,J
+  14,R,U,X
+   9,J,G
+   1,R,K,G
+   7,R
+   7,L,J
+  10,R,X
+   6,R,J
+  22,R,U,X
+   4,R,J,G
+   7,R
+   2,R,J
+  21,R,U,X
+   1,R,J,G
+   2,R,K,G
+   7,R
+   1,R,J
+  16,R,U,X
+   2,R,J,G
+   7,R
+   3,R,J
+  11,R,X
+   7,R,J
+  12,U,X
+ 135
+ChapterTime: 3:13.987(11411)
