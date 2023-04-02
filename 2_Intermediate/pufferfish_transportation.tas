@@ -1,4 +1,4 @@
-RecordCount: 4907
+RecordCount: 5029
 
 console load StrawberryJam2021/2-Intermediate/Rocketguy2
    1
@@ -157,7 +157,7 @@ EndStunPause
   31,R
   15,R,D,X
    6,R
- 170
+ 169
    1,R,K
    3,R,J
    3,R
@@ -254,17 +254,20 @@ EndRepeat
   21,R
    4,L,Z
    4,R,J
-  17,R,D
+  16,R,D
+   1,R
   40
 
-#lvl_RG2-7
-   5,D
-   6,R,D
-  10,R,D,X
-  12,R,J
-  19,R
-  15,R,X
-  35,R
+#lvl_RG2-7  
+  10,D
+   4
+   3,D
+   4,Z
+   1,R,J
+   6,R
+   9,R,J
+  16,R
+  51,R,X
    1,R,J
    1,R,K
   14,R
@@ -272,14 +275,15 @@ EndRepeat
  100
   15,L,U,X
   23,R
-   5,R,D
-   1
+   4,R,D
+   1,R
+   1,D
    4,R,Z
    1,R,J
    6,R
   13,R,J
   15,R,D,X
-  41
+  40
 
 # 110
 #  15,L,U,X
@@ -289,13 +293,23 @@ EndRepeat
 #  15,R
 #  14,R,X
 #  42
+
    1,J
   15,R,D,X
-   6,R,D
-   9,R
+   3,R,D
+   4,R
+   1,R,D
+   8,R
   31,R,J
   15,R,U,X
-  17,R
+  16,R
+#   1,J
+#  15,R,D,X
+#   6,R,D
+#   9,R
+#  31,R,J
+#  15,R,U,X
+#  17,R
    2,R,J,G
    1,L
    6,R
@@ -405,7 +419,7 @@ EndStunPause
   17,J
    1,R,J
   18,R,U,Z
-  94,R
+  93,R
    1,R,J
    4,R,Z
    4,R,J
@@ -450,4 +464,4 @@ EndRepeat
    1,R,J
   43,R
 
-ChapterTime: 1:10.890(4170)
+ChapterTime: 1:10.873(4169)
