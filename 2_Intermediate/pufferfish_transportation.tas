@@ -1,4 +1,4 @@
-RecordCount: 5041
+RecordCount: 5052
 
 console load StrawberryJam2021/2-Intermediate/Rocketguy2
    1
@@ -266,8 +266,8 @@ EndRepeat
    1,R,J
    6,R
    9,R,J
-  16,R
-  51,R,X
+  17,R
+  49,R,X
    1,R,J
    1,R,K
   14,R
@@ -296,8 +296,8 @@ EndRepeat
   15,R,D,X
    3,R,D
    4,R
-   1,R,D
-   8,R
+   2,R,D
+   7,R
   31,R,J
   15,R,U,X
   16,R
@@ -311,15 +311,13 @@ EndRepeat
    2,R,J,G
    1,L
    6,R
-   8,R,Z
+   4,R,Z
    1,R,J
-   3,R
-   1,R,J
-   3,R
+   6,R
   12,R,J
   15,R,D,X
    1,R,J
-   5,R,D,X
+   8,R,D,X
   40
 
 #lvl_RG2-8
@@ -462,4 +460,4 @@ EndRepeat
    1,R,J
   43,R
 
-ChapterTime: 1:10.873(4169)
+ChapterTime: 1:10.822(4166)
