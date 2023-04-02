@@ -1,4 +1,4 @@
-RecordCount: 7499
+RecordCount: 7535
 
 console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1
@@ -626,7 +626,6 @@ EndStunPause
    1,R,J
    5,R,D,X
   40
-
 #lvl_cp2-3-glowwoomii
    1,R,J
   14,R
@@ -862,7 +861,7 @@ EndStunPause
   15,D,X
   14
 #cp3-5 lightning cycle
-   1
+   0
 ##
    7,R
    1,R,J
@@ -1034,12 +1033,16 @@ EndRepeat
    1,K
   13,L,K
    5,R,U,X
-  81,R,U,G
+  76,R,U,G
    1,R
    3,D
    1,R,D
-  27,D
+  10,D
    1,R,D
+   5,D
+
+   7,R,D
+   8,D
 Repeat 2
   20,D
   20
@@ -1675,4 +1678,4 @@ EndRepeat
   16,R,U,X
  135,R
 
-ChapterTime: 4:38.630(16390)
+ChapterTime: 4:38.579(16387)
