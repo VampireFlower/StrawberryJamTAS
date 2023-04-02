@@ -1,4 +1,4 @@
-RecordCount: 1763
+RecordCount: 1774
 
 #bottlenecks in each room can depend on
 #theo in the clear pipe or Madeline,
@@ -67,17 +67,14 @@ console load StrawberryJam2021/1-Beginner/Jadeturtle
    2,R,J
   40,R,X
    1,R,J
-  12,R,D,C
+  13,R,D,X
    3,R,J
    8,R,U,X
   27,R,J,G
    1,R
    1,K
+  15,L,D
   11,D
-  11,L,D
-   3,D
-   1,L,D
-   1,D
    9,R,Z
    4,R,J
   21,R
@@ -117,8 +114,8 @@ console load StrawberryJam2021/1-Beginner/Jadeturtle
   28,R
   11,U,C
   14,R,J
-   5,R
-   4
+   6,R
+   3
    1,R
    1
 ##madeline here
@@ -461,26 +458,15 @@ console load StrawberryJam2021/1-Beginner/Jadeturtle
    4,R,J
   10,R
   54,L,D,X
-repeat, 6
+Repeat 6
    2,R
    2,L
-endrepeat
+EndRepeat
    5,L,J
-repeat, 9
+Repeat 9
    3,R,J
    3,L,J
-endrepeat
+EndRepeat
    2,R,J
 
 ChapterTime: 1:13.066(4298)
-
-
-
-
-
-
-
-
-
-
-
