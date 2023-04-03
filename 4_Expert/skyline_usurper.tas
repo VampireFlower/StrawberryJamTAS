@@ -1,4 +1,4 @@
-RecordCount: 3652
+RecordCount: 3817
 
 console load StrawberryJam2021/4-Expert/Appels
    1
@@ -16,24 +16,27 @@ console load StrawberryJam2021/4-Expert/Appels
    6,R
    1,R,N
    3,R,J
-  35,R,U,X
+  14,R,U,X
+  20
    5,R,J
   10,R,K
-  58,R,X
+  14,R,X
+  43
    1,R,J
    7,R,Z
   11,R,J
    4,R
    1,R,J
    1,R
-   2,R,J
-   8,R
+   1,R,J
+   9,R
    4,Z
    1,R,J
    6,R
    8,R,J
    2,J
-  35,R,U,Z
+  13,R,U,Z
+  21
    7,R,V
   10,R,J
    1,R,D
@@ -41,15 +44,15 @@ console load StrawberryJam2021/4-Expert/Appels
   13,R,D
   10,R,Z
    5,R,J
-  55,R,U,X
+  12,R,U,X
+  43
   14,R,D,C
    1,R,J
    6,R,D,X
    1,R,J
    7,R
    1,R,J
-   6,R,D,X
--
+   5,R,D,X
   40
 
 #lvl_INTRO2
@@ -59,18 +62,19 @@ console load StrawberryJam2021/4-Expert/Appels
   10,L,J
   23,G
    5,L,G
-  27,X,G
+  28,X,G
   28,C,G
-  26,X,G
+  27,X,G
    4,R,X,G
    1,R
    1,R,K,G
    9
    1,L
   33
-   5,L,J
-  12,R,J
-  36,U,Z
+   4,L,J
+  13,R,J
+  14,U,Z
+  22
    5,J
   12,K
   14,U,X
@@ -99,7 +103,7 @@ console load StrawberryJam2021/4-Expert/Appels
    1,R,J
    7,R
    2,R,J
-  26,R,X
+  25,R,X
    5,R,K
   13,R,J
   14,R,U,Z
@@ -121,7 +125,8 @@ console load StrawberryJam2021/4-Expert/Appels
    6,R,J
   14,R,D,X
   10,R,J
-  41,R,U,X
+  13,R,U,X
+  27
    5,L,J
   16,L,K
   14,U,X
@@ -140,23 +145,26 @@ console load StrawberryJam2021/4-Expert/Appels
   12,L,J
   15,L,U,X
   19,R,G
-  27,R,X,G
+  14,R,X,G
+   2,X,G
+  11,R,X,G
    1,L
-  33,R,X
+   7,R,X
+  24
    5,R,K
    7,R,J
    4,L,J
   13,L,G
   17,L,X,G
    1,R
-  46,U,X
+  15,U,X
+  30
    5,R,J
    3,R,K
   14,U,X
    1,J
   12,R,J
   40
-
 #lvl_a01b
    2,R,K
    9,R
@@ -178,7 +186,8 @@ console load StrawberryJam2021/4-Expert/Appels
   11,R,J
   21,R,G
    1,R
-  40,U,X
+  12,U,X
+  28
    7,R,Z
   14,R,J
    8,R,U,X
@@ -188,14 +197,16 @@ console load StrawberryJam2021/4-Expert/Appels
    8,R,K,G
   12,L,K,G
    1,L
-  38,L,X
+  11,L,X
+  26
    1,R,J
    2,R
    1,R,K
   14,R,G
   41,R,J,G
    1,R
-  46,R,U,X
+  16,R,U,X
+  30
    3,L
    1,L,J
   34,L,J,G
@@ -203,14 +214,16 @@ console load StrawberryJam2021/4-Expert/Appels
   13,C,G
    1,R
    5,R
-  43,R,D,X
+   8,R,D,X
+  34
    1,L,K
    1,L,J
   13,L,U,X
   22,L,J,G
   19,X,G
    1,L
-  50,L,D,X
+   9,L,D,X
+  40
    1,R,K
    4,L,K
    1,L,J
@@ -218,7 +231,8 @@ console load StrawberryJam2021/4-Expert/Appels
   23,L,X,G
    7,L,C,G
    1,R
-  96,L,X
+  14,L,X
+  81
    1,L,J
    1,L,K
   14,L,D,X
@@ -256,7 +270,8 @@ console load StrawberryJam2021/4-Expert/Appels
   10,R,D
    3,L,D
    1,R
-  38,U,X
+  15,U,X
+  22
    7,L,Z
   16,L,J
   15,L,G
@@ -268,11 +283,12 @@ console load StrawberryJam2021/4-Expert/Appels
    1,R
   22,L,J
    2,R,J
-  15,R,G
-  15,X,G
+  13,R,G
+  16,X,G
   14,L,X,G
    1,L
-  64,L,X
+   5,L,X
+  59
    1,L,J
   14,L,D,X
    1,L,J
@@ -282,9 +298,11 @@ console load StrawberryJam2021/4-Expert/Appels
 #lvl_a04
    4,L,D,X
    1,L,J
-  36,L,U,X
+  14,L,U,X
+  21
    5,L,K
-  10,L,J
+   7,L,J
+   3,L
   14,L,X
   23,L,D,G
    1,L
@@ -295,7 +313,8 @@ console load StrawberryJam2021/4-Expert/Appels
    4,X,G
    1,L
   14,R
-  29,R,X
+   9,R,X
+  19
    1,R,J
    4,R
    1,R,K
@@ -319,7 +338,8 @@ console load StrawberryJam2021/4-Expert/Appels
   20,L,X,G
    1,R
    5,L
-  85,L,X
+  15,L,X
+  69
    7,R,C
    9,R,J
   20,R,G
@@ -331,7 +351,8 @@ console load StrawberryJam2021/4-Expert/Appels
   15,L,X,G
    1,L
    2,L,D
-  45,L,J,X
+  13,L,J,X
+  62
    2,L,J
    7
    7,L
@@ -348,7 +369,6 @@ endrepeat
    1,L,J
   13,L,D,X
   40
-
 #lvl_a05
    1,L,D,X
    1,L,J
@@ -363,13 +383,15 @@ endrepeat
    4,L,G
   19,L,X,G
    1,R
-  32,L,X
+   5,L,X
+  26
   13,D,C
   13,G
   10,L,X,G
   10,X,G
    1,L
-  96,U,X
+  14,U,X
+  80
    5,R,J
    1,R,K
   14,U,X
@@ -377,7 +399,8 @@ endrepeat
   15,G
   15,R,X,G
    1,R
-  46,R,D,X
+  10,R,D,X
+  35
    5,L,K
    7,L,J
    5,R,J
@@ -389,7 +412,8 @@ endrepeat
   26,L,D,G
   25,L,X,G
    1,L
-  32,L,X
+  13,L,X
+  18
    4,K
   12,U,X
   10,G
@@ -411,7 +435,8 @@ endrepeat
   11,U,X
   24,R,G
    1,R
-  44,L,X
+  12,L,X
+  32
   11,L,D
    1
 Repeat 3
@@ -442,16 +467,16 @@ endRepeat
    1,J,G
   19,L,J,G
    1,R
-  39,R,Z
+  38,R,Z
    5,L,K
    3,L,J
-   1,L
-  14,L,J
+   8,L
+   6,L,J
   15,L,U,X
   24,R,G
-  27,X,G
+  28,X,G
   15,L,C,G
-  18,C,G
+  20,C,G
    1,L
   10,R,D
   20,L,D
@@ -473,7 +498,7 @@ endRepeat
   27,R,X,G
   10,L,D,G
   14,D
-  35,R,X
+  33,R,X
    1,L,J
    1,L,K
   18,L,K,G
@@ -482,11 +507,11 @@ endRepeat
   16,R,G
    7,L,G
    1,D
-  35,R,X
+  34,R,X
    5,R,J
    1,R,K
-  29,L,K,G
-  66,L,C,G
+  28,L,K,G
+  67,L,C,G
    3,G
    1,L,G
    4,G
@@ -494,7 +519,7 @@ endRepeat
    2,R,D
    2,D
    1,L,G
-   1
+   2
 repeat 3
    1,G
    1,L
@@ -506,17 +531,17 @@ endrepeat
    1,J
   35,D,G
    6,R,G
-   2,D,G
+   2,G
    2,C,G
   30,L,G
    2,L,C,G
    1,R
   10,L
-  52,L,U,X
+  15,L,U,X
+  38
    1,R,J
   11,U,C
   40
-
 #lvl_a07
    9,R
    2,L
@@ -527,7 +552,7 @@ endrepeat
    1,R,J
    7,R
    3,R,J
-  28,R,U,X
+   6,R,U,X
 #no bino storage
 #   1,R,K
 #   1,R,J
@@ -659,6 +684,7 @@ endrepeat
 #   5,R,K
 #  10,U,X
 # 136
+  21
    1,R,K
    4,J
   14,R,D,X
@@ -674,14 +700,17 @@ endrepeat
   13,G
   21,R,X,G
    1,D
-  48,U,X
-  12,R,D
+  12,U,X
+  37
+  11,R,D
    7,R,X
   34,R,D,G
    1,R
    5,R,D
-  32,D,X
-  28,U,C
+  10,D,X
+  22
+   5,U,C
+  23
    6,R,Z
   15,R,J
    7,J
@@ -708,7 +737,8 @@ endrepeat
    1,R
    4,L,D
   22,D
-  38,L,X
+   7,L,X
+  30
    5,R,J
    7,R,K
   14,R,X
@@ -728,10 +758,12 @@ endrepeat
    5,R,J
    3,R,K,G
   25,R,D
-  40,L,X
+  13,L,X
+  26
    5,R,K
   10,R,J
-  45,R,X
+  14,R,X
+  30
    5,K
    1,L,J
    1,J
@@ -741,8 +773,9 @@ endrepeat
   19,X,G
    1,R
   45,R,D
-  50,R,X
-  27,R,U,C
+  15,R,X
+  34
+  26,R,U,C
    5,R,J
    9,R,K
   19,R,G
@@ -762,7 +795,6 @@ endrepeat
    1,R,J
    5,R,D,X
   40
-
 #lvl_a08outro
   15,R,J
    3,R
@@ -788,5 +820,4 @@ endrepeat
   12,U,X
  135
 
-ChapterTime: 2:09.744(7632)
-
+ChapterTime: 2:09.795(7635)
