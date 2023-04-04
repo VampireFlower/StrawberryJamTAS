@@ -1,4 +1,4 @@
-RecordCount: 3378
+RecordCount: 3673
 
 console load StrawberryJam2021/1-Beginner/joltik
    1
@@ -140,31 +140,34 @@ EndRepeat
    9,J
   15,D,X
    3,L
-   3
-   9,J
-   1,K
-  18,L,K
-  13,L,U,X
-   3,L,K,G
-   7,L
-  14,L,D,J
-  12,U,Z
+   4
+   5,R
+   8,J
+   1,L,J
+   1,K,G
+  21,L,K
+   1,L,J,G
+   6,L,K,G
+  10,L,X
+   8,L,J
+  13,U,X
+   1,J
   40
 
 #lvl_a_03
    1,L
    1,R,J,G
    1,R,K,G
-   1,R,J,G
-   7,R
+   6,R,J,G
+   2,R
   14,R,X
    6
   15,U,Z
-  26,L,J,X
-   3
-  14,L,U,C
-   7,L,K,G
-   5,L
+  27,L,X
+  12,L,J
+   6,L,X
+   3,L,K,G
+   7,L
   15,U,X
    3,L
    7,L,D,X
@@ -176,23 +179,18 @@ EndRepeat
    3,J
   25,L,K
   15,D,X
-   8
-   8,L,K
-  12,K
-  15,D,X
-   1
-   3,L
-  10,L,X
-   7,R,J
-   1,R,K,G
-   1,R
-  11,R,Z
-   1,K,G
    2
-   5
-   7,R
-  15,R,D,X
-   6,D
+   9,L
+   1
+   9,L,K
+   8,J,G
+  12,R,J
+   1,R,K,G
+   3,R,J,G
+  13,R,X
+   4,R,J
+   1,J
+  24,R,D,X
   15,R,C
    4,R
   14,U,X
@@ -204,37 +202,44 @@ EndRepeat
    1,R,J,G
   28,R,D
   15,R,X
-  12,R
-   4,Z
+  10,R,D,C
+   3,R,J
+   3,J
    1,R,J
-   6,R
-   5
-  15,U,X
-  12
-   6,R
+   1,J
+  15,U,Z
+   1,R
+   3,L,J
+   8,L
+   1,L,J
+   3,L
+   5,L
+   1,L,K
+   3,L
   10,R,X
-   8,L,K
-   5,L,J,G
+   3,L,J
+   6,L
+  5,L,J,G
    5,J
    8,J
   14,R,U,C
    6,J,G
    5
    1,K
-   2
-   8,R
-   4
-  10,L,X
-   9,L,K
-   5,L
-  19,L,D,X
+   2,R
+  13,R,Z
    1,L,K
-  11,L,D,X
-  13,L,K
-   1,L,J,G
-   2,L
-   2,L,K,G
-   7,L
+   3
+   1,L
+  16,L,K
+  18,L,D,X
+   1,L
+   5,L,D
+   8,L,D,J
+   5,L
+   2,L,J
+   3,K,G
+   1,R,K
   15,U,X
   16,R,C
   10,U,X
@@ -250,43 +255,42 @@ EndRepeat
    6,U,X
   10,R,J
   19,J
-   1,L
-  20,R
+  19,R
    1,R,D
    5,R,D,K
    3,K
-   1,L,J,G
-   3,R,J
-   3,R,J
-   8,J
+   6,J
    1,R,J
-   1,J
+   5,J
    1,R,J
-   1,J
-   1,R,J
-   1,J
-   5,K
-   3,L,K
   15,U,X
-  25,L
-   4,L,J
-  16,R,J
-  15,D,X
+   2,L
+  10,L,J
+  11,L
+   8,L,J
+   3,L
+  15,U,X
+  10,L
+  11,R
+   1
   10,L,C
   20,R,K
   15,U,C
-  18,K
-   5,J
+  16,K
+   4,J
    6,L
    1,R
-  15,R,J
+  16,R,J
    1,L,K,G
-  10,K
-   2
-   6,J,G
-  21,L,K,G
+  12,K
+   2,J,G
+   1
+   1,J
+   1
+   1,K
+  18,L,J,G
   15,L,X
-  12,R,J
+  12,J
   17,U,C
   15,U,X
   14,U,C
@@ -326,7 +330,7 @@ EndRepeat
   15,R,Z
    1,R
   15,R,D,X
-   7,R,D,C
+   7,R,C
   12,R,D,X
   18,D,C
   23,D,X
@@ -357,7 +361,7 @@ EndRepeat
   13,U,C
 
 #Spinner Cycle
-   1
+   0
 ##
   16,L,X
   15,D,C
@@ -428,39 +432,40 @@ endstunpause
   16,U,X
    4,J
   17,R
-  14,U,X
-  40
+   5,R,J,G
+  14,R,U,X
+   1,R,J,G
+   1,K
+  43
 
 #lvl_a_07
-   3
-  11,R
-  10,R,D,X
-   3,R,K
+   7,R,J,G
    2,R
-  11,R,U,X
-   2,K,G
-   7,R
-  10,R,K
-   2,R
+  11,K,G
+  12,R,J,G
+   4,K,G
+   1,L,K
   15,U,C
-  11,L,K,G
-   1,L,J,G
-   2,R,J
+   1,L,K,G
+   4,R,K
+   7,L,K
    7,L
   21,L,K
   14,U,Z
-  11,K
-   4
+  15,K
    1,L,J,G
-   8,L
-   7,L,J
+   7,L
+   9,L,D,J
   12,R,K,G
-   5,J,G
+   1,J,G
+   1,K
    5,R,Z
    1,R,K
-   7,R
+   6,R
    1,R,J
-   3,R,K,G
+   1,R
+   1,R,K,G
+   1,R
   16,J,G
   25,U,C
    7,L
@@ -474,4 +479,4 @@ endstunpause
   18,U,C
  135
 
-ChapterTime: 1:03.614(3742)
+ChapterTime: 1:02.577(3681)
