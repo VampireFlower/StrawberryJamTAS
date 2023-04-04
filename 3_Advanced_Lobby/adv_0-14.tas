@@ -11,22 +11,21 @@ console load StrawberryJam2021/0-Lobbies/3-Advanced
   15,L,J
   12,L,Z
    3,L,J
-  15,L,D,X
-  34,L,D
-   2,L
-   5,L,J
-  15,L,D,X
-   2,L
-   8
-   4,R
-  11,R
-   2,R,G
-   1,D,G
+  17,L,D,X
+   4,R,D
+  30,L,D
+   4,L,J
+  16,L,D,C
+   3
+  13,R,D
+   2,D
+   1,R,D
+   2
+   4,G
+   1
    1,J
-   1,R,K,G
-   1,R,J,G
-  15,L,D,X
-  20,L,D
+   1,K,G
+  35,L,D,X
    1,L
    1,L,N
-#0:03.060(180)
+#0:03.009(177)
