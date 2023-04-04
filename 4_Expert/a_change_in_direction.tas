@@ -1,4 +1,4 @@
-RecordCount: 5087
+RecordCount: 5149
 
 console load StrawberryJam2021/4-Expert/Agent
    1
@@ -123,7 +123,7 @@ console load StrawberryJam2021/4-Expert/Agent
   40
 
 
-##lvl_Agent_01
+#lvl_Agent_01
    2,R
    3,R,J
    5,R,D,X
@@ -134,68 +134,70 @@ console load StrawberryJam2021/4-Expert/Agent
    9,R,D,X
    1,R,J,G
   17,R
-   5,R,J
-   5,R
-   1,R,J
+
+#trying coins
+  11,R,J
+   4,R
+  13,U,X
+  10,L,J
+  16,L,D,X
    4,L,J
-  20,U,X
-   4,L
-   1,L
-   9,R,Z
-   1,L,J
-   6,L
-   1,L,J
-  14,R,J
-  15,U,X
-  10,R
-  19,R,Z
-  20
-   4,L
-   4
-   2,L
-  66
-   1,R,J
-   2,R
- 115
-# lots of waiting but idk what else
-# also didn't test many but this seems to reduce pauses
-  10,L,D,X
-   1,R,K
-   7,R
-   5,R,J
-   6,R
    7,R,J
- 
-StunPause 
-  12,R
-SkipInput,3,1
-  11,R,U,Z
-EndStunPause
-   2,R
-   1,L,J,G
-  10,R,J
-   5,R
-   1,R,J
-  17,R
-   4,R,Z
-   1,R,J
-   7,R
-  40
-
-
-#lvl_Agent_02
-   5,R,J
-   8,R,D,X
-   1,R,J,G
   13,R
   12,R,J
+   2
+  14,U,X
+  14,R,J
+  14,R,Z
+   3,R,J
+  14,D,X
+   1
+  12,L,D,X
+   1,R,J
    7,R
+  12,R,D,J
+   5,R
    4,R,J
+   9,U,X
+   5,L,J
+  14,U,X
+  40,D
+  15,L,D
+  10,L,Z
+  18,R,J
+  14,R,U,X
+  11,R
+   3,G
+   4,L,J
+  31,L,D
+  14,L,X
+   4
+   1,L
+  14,L,D,X
+   1,R,J
+   5,R,D,X
+   2,R,J,G
+  14,R
+  12,R,J
+   5,R
+   3,R,J
+  12,R,D,X
+   4,R,J,G
+   3,R
+  40
+
+#lvl_Agent_02
+  12,R
+   1,R,J
+   9,J
+   2,R,J
+   2,R
   17,U,X
-# had to lose few frames hitting second block or block wouldn't change directions
-   7,L,J
-  15,L
-   5
+# loses several frames to prevent block collision
+   9,L,J
+   8,L
+   5,L,J
+  14,J
   11,L,D,X
   24,R,J
    3,R
@@ -211,8 +213,10 @@ EndStunPause
    9,L,D
    1,L,J
    3,L,D
-  14,D
-   4,L,D
+   5,D
+   1,L,D
+   9,D
+   3,L,D
    3,R
    1,R,D
    4,R,Z
@@ -431,5 +435,5 @@ EndStunPause
   14,L,U,X
  125
 
-ChapterTime: 0:58.565(3445)
+ChapterTime: 0:56.457(3321)
 
