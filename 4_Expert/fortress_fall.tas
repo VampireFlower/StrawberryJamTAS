@@ -1,15 +1,12 @@
-               # StrawberryJam2021
-# https://gamebanana.com/mods/424541
-
-RecordCount: 1428
+RecordCount: 1443
 
 console load StrawberryJam2021/4-Expert/Aspar
    1
 
 #Start
+ 111
 
 #lvl_00-intro
- 111
    6,L,Z
    1,R,J
    7,R
@@ -56,16 +53,16 @@ console load StrawberryJam2021/4-Expert/Aspar
    9,R,J
    1,R
   17,R,J
+   6,R,Z
    1,R,J
-  17,R,Z
+  10,R
    1,R,J
   14,R,D,X
-   1,R,J
-   5,R,D,X
   40
 
 #lvl_00-intro-cutscene
-   9,R,D,X
+   1,R,J
+  14,R,D,X
    1,R,J
   14,R,D,X
    1,R,J
@@ -73,7 +70,7 @@ console load StrawberryJam2021/4-Expert/Aspar
    1,R,J
   13,R,D,X
    2,R,J
-  10,R,D,X
+   8,R,D,X
    1,R,J
   40
 
@@ -134,7 +131,6 @@ console load StrawberryJam2021/4-Expert/Aspar
   40
 
 #lvl_03
-
   35,R,J
    2,U,G
    1
@@ -542,4 +538,5 @@ console load StrawberryJam2021/4-Expert/Aspar
   10
   12,L,U,X
  135
-ChapterTime: 1:29.964(5292)
+
+ChapterTime: 1:29.913(5289)
