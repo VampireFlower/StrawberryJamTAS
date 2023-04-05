@@ -1,4 +1,4 @@
-RecordCount: 6522
+RecordCount: 6603
 
 console load StrawberryJam2021/4-Expert/Agent
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/4-Expert/Agent
   96
 
 #spinner cycle 1
-   0
+   1
 
 #lvl_Agent_00
    2,R,J
@@ -100,39 +100,38 @@ console load StrawberryJam2021/4-Expert/Agent
    4,L
   18,L,J
    5,L,K,G
-   2
-   5,R
+   1
+   6,R
   13,U,X
   40
 
 #lvl_Agent_00a
-  14,R,J
    1,R
-   7,R,J
+  21,R,J
   10,R,Z
    1,R,J
-   7,R
-   5,R,J
-   3,R
-  14,R,D,X
-   3,R,J
-   1,R,K,G
-   5,R
-   2,L
-   2,R
+   2
+   4,R
+  12,R,J
+  15,R,D,X
+   1,R,D,J
+   2,R,K,G
+   1,K
+   2,R,K
+   8,R,X
   40
 
 #lvl_Agent_01
-   2,R
-   3,R,J
-   5,R,D,X
+   5,R,X
    1,R,J,G
-  11,R
-  26,R,J
-   6,R
+  10,R
+  19,R,J
+   1,R
+   6,R,K
+   5,R
   15,R,U,X
-  17,R
-   1,R,J
+  15,R
+   1,R,D,J
    2,R
   10,L,X
   17,L,J
@@ -394,4 +393,4 @@ EndStunPause
   14,L,U,X
  125
 
-ChapterTime: 0:51.969(3057)
+ChapterTime: 0:51.918(3054)
