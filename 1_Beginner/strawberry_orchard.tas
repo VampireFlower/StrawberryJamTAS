@@ -1,4 +1,4 @@
-RecordCount: 1774
+RecordCount: 1851
 
 #bottlenecks in each room can depend on
 #theo in the clear pipe or Madeline,
@@ -58,7 +58,6 @@ console load StrawberryJam2021/1-Beginner/Jadeturtle
   40
 
 #lvl_a-01z
-#theo here
    2,R,J,G
    5,R,G
    1,R,J,G
@@ -66,51 +65,49 @@ console load StrawberryJam2021/1-Beginner/Jadeturtle
    6,R,J,G
    2,R,J
   40,R,X
-   1,R,J
-  13,R,D,X
-   3,R,J
-   8,R,U,X
-  27,R,J,G
    1,R
-   1,K
-  15,L,D
-  11,D
-   9,R,Z
-   4,R,J
-  21,R
-  18,R,U,X
-  14,R,Z
+   4,R,Z
+   1,R,J
+  26,R,D,G
+   1,G
+   4
+  10,R,D,X
+   6,R,J
+  14,R
+  15,R,X
+  15,U,C
+   7
+   5,R,X
+  32,R,D,G
+   1,R,J,G
+   1,R,J
+  14,L,D,X
    1,R,J
    5,R,D,X
+   1,R,J,G
+  14,R
+   1,R,J
+   8,R,D,X
   13,R,G
    1,R,J,G
-  14,R,G
-  11,R,J,G
-  22,R,G
+   5,R,J,G
+  18,R,G
    1,R,J,G
   14,R,G
    1,R,J,G
-   7,R,G
-   1,R
-  12,R,D,X
-   2,R,J
-   1,R
-   5,R,D,X
+   3,R,G
+ 
   40
 
 #lvl_a-02y
-   9,R
-   1,R,J
-   9,R,D,X
-  13,R,G
-  33,R,J,G
+  11,R,G
+  39,R,J,G
    1,R
-  12,R,U,X
-  14,R,J,G
-  78,R,D,G
+  14,R,U,X
+  99,R,D,G
    1,R
-   4,R,D
-  20,R,D,X
+   5,R,D
+  19,R,D,X
   28,R
   11,U,C
   14,R,J
@@ -469,4 +466,4 @@ Repeat 9
 EndRepeat
    2,R,J
 
-ChapterTime: 1:13.066(4298)
+ChapterTime: 1:12.879(4287)
