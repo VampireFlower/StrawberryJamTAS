@@ -1,4 +1,4 @@
-RecordCount: 4111
+RecordCount: 4303
 
 console load StrawberryJam2021/1-Beginner/joltik
    1
@@ -254,15 +254,16 @@ EndRepeat
   17,R,J
    6,U,X
   10,R,J
-  19,J
-  19,R
+  14,J
+   1,R,J
+  18,R
    1,R,D
-   5,R,D,K
-   3,K
+   9,R,D,K
    6,J
    1,R,J
-   5,J
+   4,J
    1,R,J
+   1,J
   15,U,X
    2,L
   10,L,J
@@ -361,7 +362,7 @@ EndRepeat
   13,U,C
 
 #Spinner Cycle
-   0
+   2
 ##
   16,L,X
   15,D,C
@@ -373,11 +374,12 @@ EndRepeat
    1,R
    8,R,J
    8,R
-   8
-   5,R
+   6
+   8,R
   18,R,J
-  10,L,K
-  14,L,J
+   4,L,K
+   5,L,J
+  13,L,K
   15,U,X
    2
   40
@@ -484,4 +486,4 @@ endstunpause
   18,U,C
  135
 
-ChapterTime: 1:02.509(3677)
+ChapterTime: 1:02.458(3674)
