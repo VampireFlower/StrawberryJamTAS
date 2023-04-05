@@ -1,4 +1,4 @@
-RecordCount: 6700
+RecordCount: 6836
 
 console load StrawberryJam2021/5-Grandmaster/math
    1
@@ -718,13 +718,13 @@ console load StrawberryJam2021/5-Grandmaster/math
   27,U,C
   15,R,X
    7,R
-#set,Player.Position.X,6059
+
 #   1
   27,L,X
   18,U,C
   15,U,X
 #set bis
-#Set,Lookout[2501M:4586].interacting,false
+
    1
  306
 
@@ -855,7 +855,6 @@ console load StrawberryJam2021/5-Grandmaster/math
 
 
 #-1f maybe
-#Invoke,Player.MoveH,-3.5
 #  11
 #  15,U,X
 #   7,R
@@ -869,80 +868,56 @@ console load StrawberryJam2021/5-Grandmaster/math
    1,L
   15,U,X
   10,R
-#2:25.129(8537)
-
-
-#-2f precise y subpixel
-#Invoke,Player.MoveV,-0.1
-#  10,R,Z
-#   3,R,J
-#   1,R
-#   1,R,J
-#   1,R,N
-#   1,R,J
-#   2,R
-#  10,R,X
-#   1,L,J
-#  12,J
-#  15,U,X
-# 100,R
-#2:26.132(8596)
-
-
-
-#   4,R,Z
-#   3,R,J
-#   5,R
-#   2
-#   1,N
-#  27,L,J
-#  15,U,X
-#  10,R
-#2:26.166(8598)
-Set,Lookout[3000M-01:8506].interacting,true
-
-
-  13,R,J
+   2,R,J
+  20,R,X
+   1,R,N
+   1,R,J
+  10,R
    1,J
-   1,R,J
-   2,J
-   1,R,J
+   6,L,J
+  16,L
   15,U,X
   10,R
+  10
 #2:25.809(8577)
-   1,L,J
-   5,R,J
+   4,J
+   3,R,J
    1,J
    2,R,J
-   8,R
-   1,R,J
-   7,R
-   9,L,D
-   3,D
+   9,R
+   3
+   5,D
    4,R,D
-  19,R,Z
-   4
+   1,J
+   4,R
+  15,D
+   3,R,D
+   2,D
+   2,R
+   2
+   5,R
+  48,R,Z
 AnalogMode,Square
-  27,F,40.8
+  11,F,23
 AnalogMode,Precise
-   5,F,0
   53,F,53.45
    5,F,90
-  20,F,109.35
+  21,F,120
    1,F,120
    3,F,30
    8,F,18
   15,F,90
    1,F,93
    9,F,180
-  11,D
-  15,R,D
+   2,D
+   3,R,D
+   9,D
+  10,R,D
    1,L,D
    2,L
-   3,L,D
-  14,L
-  13,L,D
-   1,L
+   2,L,D
+  18,L
+  10,L,D
    1,L,G
    8,D
    2,L,D
@@ -950,41 +925,42 @@ AnalogMode,Precise
    7,R,D
    5,R
    7,L
-   6,L,D
+   7,L,D
   15,L,Z
   44,R
    1,R,G
-  38,R,G
+  37,R,G
   30,L
-   1,J,G
+   3,J,G
    1
    1,L
    1
    1,L
    3
-   1,L
+   3,L
    1,R
-   7,R,J
+   8,R,J
    5,R
    3,J
    1,R,J
   14,R,Z
    3,L,J
-  34,R,U,X
+  35,R,U,X
    1,J,G
    1,L,J
-   1,R,K,G
+   2,R,K,G
    1,K
   20,D
   11,R,D
    1,D
-   1,R,D
+   2,R,D
    1,G
   14,R,J
    8,U,C
   51,R,J
-  13,L,D
-   2,R,D
+   1,R
+  14,L
+   5
    1,R
    2
    1,R
@@ -993,7 +969,7 @@ AnalogMode,Precise
   14,R
    1,D
   17,R,D
-  17,R,Z
+  18,R,Z
   21,D,X
    8,R,D
   16,R,U,Z
@@ -1006,26 +982,21 @@ AnalogMode,Precise
    1,R
   32,R
   23,R,U,Z
-  23,R,U,C
+  24,R,U,C
   15,L,X
   15,U,C
   27,R
   26,R,Z
   15,R,V
-
-Invoke,Player.MoveV,-3
-
   35,R,D
-#2:41.551(9503)
   15,U,X
   17,R
   17,U,X
  109
   40
-Set,Invincible,false
 
 #lvl_3000M-02
-  10,R
+  11,R
    1,R,J,G
    2
   14,R,J,G
@@ -1195,50 +1166,35 @@ Set,Invincible,false
   12,R,J
   34,R,U,X
 
-#Invoke,Player.MoveV,0.4
-#   8,L,Z
-#   1,R,J
-#   1,R
-#   1
-#   4,R
-#   1,R,D
-#  12,R,D,J
-#   9,U,X
-#   1,L,J
-#  11,L
-#   1,R
-# 100,L,J
-
-
-
-Invoke,Player.MoveV,-0.4
   12,R,Z
    3,R,J
   14,R,U,X
    1,J
    2,K,G
-   8,L,K
-   7,L
-#3:06.898(10994)
-   5,J
-   7,L,J
-Invoke,Player.MoveH,-0.931
+   9,L,K
+   6
+   3,L
+   3,J
+   3,L,J
+   3,J
+   3,L,J
   15,U,X
-   7,L
+   8,L
 
 #I continued from here
    1,J
-  31,R,J
+  32,R,J
    3,R,K,G
    9,R
    1,R,J
-  16,R,U,X
-  11,K,G
+  17,R,U,X
+
+  10,K,G
    1,R,J,G
    2
    1,R
-   1
-   5
+   2,R
+   3
    7,L,J
   10,R,X
    1,R,J
@@ -1267,4 +1223,4 @@ Invoke,Player.MoveH,-0.931
    7,R,J
   12,U,X
  135
-ChapterTime: 3:13.987(11411)
+ChapterTime: 3:15.551(11503)
