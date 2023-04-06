@@ -1,5 +1,5 @@
-RecordCount: 4470
-
+RecordCount: 4514
+stunpausemode simulate
 console load StrawberryJam2021/5-Grandmaster/xlibiza
    1
 
@@ -948,7 +948,6 @@ EndStunPause
    3,R,K,G
    8,R,D,X
   43
-
 #lvl_a-10
    6,R,D,X
    1,R,J
@@ -1013,13 +1012,13 @@ EndStunPause
   12,L,J,G
    1,L,K,G
    7,L
-  10,L,X
-  14,R,J
-   2,R,K,G
-   1,R
-  10,R,X
-   6,R,J
-  12,U,X
+   4,L,X
+   7,R,J
+   4,J
+   7
+   3,R,J
+   8,R,K,G
+  14,R,U,X
  135,D
 
-ChapterTime: 2:45.342(9726)
+ChapterTime: 2:45.257(9721)
