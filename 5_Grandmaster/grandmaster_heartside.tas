@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 17710
+RecordCount: 17714
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
 #start
@@ -1967,11 +1967,12 @@ endstunpause
    1,L,J
    7,L
    1,L,J
-  14,L,J
-   5,L,U,Z
-  10
-   5,U,X
-  14
+  13,L,J
+   1,J
+  15,L,U,Z
+  15,U,X
+   2,R
+   2,R
   51,L
   14,J,G
    4,K,G
