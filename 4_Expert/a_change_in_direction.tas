@@ -1,4 +1,4 @@
-RecordCount: 8676
+RecordCount: 9056
 
 console load StrawberryJam2021/4-Expert/Agent
    1
@@ -397,55 +397,50 @@ endstunpause
 
 #lvl_Agent_06
    3
-  11,R,D,X
-   1,R,J
-   7,R
-   5,R,J
-   6,R
-  14,R,U,Z
-  11,L
-   8,L,J
-   4,R,J
-   2,R
-  14,R,X
-   1,L,J
-   4,J
-   5
-  10,J
-   5
-  11,L,X
-   4,L,J
-   1,K
-  11,L,K
-  14,L,D,X
-   1,L,J
-  14,D,X
-  15,L
-   1
-  20,D
-   5,R,D,X
-   1,R,J
-   7,R
+  10,R,D,X
+   9,L,J
+  15,U,Z
+   1,R,J,G
+# could get bino storage
+  34,R
    3,R,J
-StunPause
-   2,R,J
-SkipInput,3,1
-  11,R,D,X
-EndStunPause
+  30,R
+   4,J
+   2,R
+   9
+   4,L
+   1
+   1,L
+   1
+   2,L
+   9
+   1,R
+   2
+  10,L,X
+   1,R,J
+   2,J
+   1,R,J
+   1,J
+  15,R,D,X
+   1,R,D,J
+  14,R,D,X
+stunpause
    1,R,D,X
-StunPause
-   4,R,D
-EndStunPause
-  12,R,D
-  13,R
+   3,R,J,G
+endstunpause
+   2,R,J,G
+  25,R,D,X
+   1,R,J
   12,R,U,Z
-   5,R,J,G
+   1,R,J,G
+   2,R
   40
 
 #lvl_Agent_07
-   5,R
-   9,R,J
-  14,L,U,X
- 125
+   1,R
+   1
+  11,R,U,X
+  35,R
+  90,D
 
-ChapterTime: 0:51.816(3048)
+ChapterTime: 0:50.167(2951)
