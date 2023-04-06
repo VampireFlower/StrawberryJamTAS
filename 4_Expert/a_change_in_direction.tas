@@ -1,4 +1,4 @@
-RecordCount: 6603
+RecordCount: 8676
 
 console load StrawberryJam2021/4-Expert/Agent
    1
@@ -106,6 +106,8 @@ console load StrawberryJam2021/4-Expert/Agent
   40
 
 #lvl_Agent_00a
+# Retry possible but loses at
+# least 4f - Marlin
    1,R
   21,R,J
   10,R,Z
@@ -167,6 +169,7 @@ endstunpause
 #in the next room doesnt
 #work, maybe a camera trigger
 #or something? - Marlin
+
 #lvl_Agent_02
    1,R,J
    8,R,D,X
@@ -229,6 +232,41 @@ endstunpause
    9,R,J
    9,L,J
   15,L,X
+# Skipping coin is possible
+# but about 14f slower - Marlin
+#  25,R
+#   6,R,J
+#  14,J
+#  15,U,X
+#  10,L
+#   6,R,D,X
+#   1,L,J
+#   7,L
+#  18,L,J
+#   2,J
+#   1
+#   1,L,K
+#   1
+#   1,L
+#  10,R,U,Z
+#   1,L,U
+#   8,J,G
+#  18,R,J
+#   1,L,K,G
+#  10,J,G
+#   3,L,J
+#   4,L,K,G
+#   6,L
+#   1,L,K
+#   1,L
+#   5,L,J
+#   2,L
+#   7,L,Z
+#   1,L,J
+#   6,L
+#   1,L,J
+#   2,L
+#  12,L,D,X
   17,R
    1
    5,R
@@ -240,7 +278,6 @@ endstunpause
   14,L,D,X
   22,L,J
    1,L
-#Test if coin skippable (probably not)
   15,U,X
    1,L
   15,L,J
@@ -261,27 +298,35 @@ endstunpause
    1,L,J
   27,L,U,X
    4,L,J
-   8,L,K
-  11,L,D,X
+   4,L,Z
    1,L,J
-   7,L
-  12,L,J
-   6,L
+  10,L
+   5,L,D,X
+   1,L,J
+   3,L
+   1,L,K
+   3,L
+  17,L,J
   27,L,U,X
    4,R,Z
-   6,R,J
-  35,R,D
-  22,D,Z
+   5,R,J
+   2,R
+   1,R,K
+  15,R,D
+  23,D
+   1,R,D
+   7,R
+   3
   20,U,X
    9,L
   21,U,Z
    6
-  14,U,X
-   8,R
-   2
-#spinner cycle
-   0
   15,U,X
+   7,R
+   3
+#spinner cycle
+   1
+  14,U,X
    7,R,J
   40
 
@@ -291,62 +336,72 @@ endstunpause
    3,R,J
   10,R,K,G
    7,R,D,X
-   1,R,J,G
-  12,R
-  11,R,J
+   1,R,K,G
+   8,R
+   1,R,K
+   3,R
+  12,R,D,J
    5,R
-   4,R,J
+   1,R,J
+   2,J
   18,U,X
-  10
-   1,L,G
-   7,L,J,G
-   5,L,Z
+   6,L,J
+   9,L,Z
    1,L,J
-   7,L
+   9,L
+   6,L,Z
    1,L,J
    4,L
-  14,L,D,X
-   1,L,J
-   1,L
-   8,L,J
-  19,L,U,X
+   1,J
+   9,L,J
+  10,L
+  16,L,X
+   5,L,J
    4,L,Z
-   6,L,J
-   1,L
   12,L,J
-  18,L
-  14,R,Z
-   5,R,J
-   8,R
+   1,L
+   7,L,K
+   3,L
+  11
+  12,R,D,X
+   3,R,J
+  11,R,Z
+   1,R,J
+   4,R
+  11,R,J
+  11,R,D
+  15,R,D,X
+   3,R,D
+   3,R
+   1,R,D
    4,R,J
-   5,R
-   0,R,J
-  23,R
-  14,R,Z
-  16,R
+  15,L,X
+   3
    4,R,Z
-   4,R,J
-   7,R
-  15,D,X
-   5,L,Z
+   2,R,J
+   2,R
+   2,R,K
+   1
+   3,R,D
+   3,R,J
+   1,R
+  11,R,D,X
+   1
+   1,L,J,G
+  25,R,J
+  18,R,D,X
    1,R,J
-   7,R
-  12,R,J
-   5,R
-  14,R,D,X
-   5,R
-   1,R,J
-  12,R,U,X
+  12,R,U,Z
    3,R,J,G
   40
 
 #lvl_Agent_06
-   2,R,J
-  10,R,D,X
+   3
+  11,R,D,X
    1,R,J
    7,R
    5,R,J
-   7,R
+   6,R
   14,R,U,Z
   11,L
    8,L,J
@@ -393,4 +448,4 @@ EndStunPause
   14,L,U,X
  125
 
-ChapterTime: 0:51.918(3054)
+ChapterTime: 0:51.816(3048)
