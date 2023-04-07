@@ -1,4 +1,5 @@
-RecordCount: 950
+RecordCount: 1206
+#draft had 0
 
 console load StrawberryJam2021/2-Intermediate/Emik
    1
@@ -39,15 +40,18 @@ console load StrawberryJam2021/2-Intermediate/Emik
   15,L
   25,L,U,X
    4,L,J
-   4,L
+   1,L,K
+   2,L
   38,D,X
   19,L,Z
    4,L,J
-   6,L,K
-  24,L,D,X
+   1,L,K
+   2,L
+  21,L,D,X
+   4,L,D
    1,L,J
    9,L
-  20,L,U,Z
+  21,L,U,Z
    4,L,J
    1,L,K
   12,L,D,X
@@ -60,12 +64,13 @@ console load StrawberryJam2021/2-Intermediate/Emik
   15,L,U,X
    4,R,J
    1,R,K
-   3,L,K
+   1,L,K
+   2,K
   21,R,G
    1,R
   16,L
   36,L,X
-  14,G
+  11,G
    1,J,G
   11,R,D,X
   17,L,J
@@ -74,16 +79,12 @@ console load StrawberryJam2021/2-Intermediate/Emik
    3,L,K
   14,L,U,X
    1,L,J,G
-   7,L,J
-   5,L
-   2,L,J
-  10,L
-   3
-  14,L,D,X
-   1,R,J
+   8,L,J
+  19,L
+   1,L,J
   18,D,X
    1,L,D
-  15,L,Z
+  19,L,Z
    4,L,J
    1,L,K
   20,L,X
@@ -91,16 +92,24 @@ console load StrawberryJam2021/2-Intermediate/Emik
    1,L,K
    3,L
   24,U,X
-  44,L,D
-   4,D
-   4,L,J
-  15,L,D
-  26,L,U,Z
-  10,L,J
-   7,L
+  43,L,D
+   1,L
    2
+   1,D
+   1,L
+   3,L,J
+  15,L
+  15,L,U,Z
+   7,L
+   1,R
+   1,J
+   2,K,G
+   6,L,K
+   5,L
+   1,L,J
+   4,L
 #Spinner cycle
-   0
+   1
 ##
    6,L,Z
    1,L,J
@@ -138,54 +147,67 @@ EndStunpause
   20,D
   15,L,Z
    6,L,J
-  17,L,Z
+  15,L,Z
+   2
    3,R,J
    9,R
-  26,G
-   7,D,G
+  23,G
+   6,D,G
+   3,G
+   1,D,G
    1,J,G
    1,K,G
    1,R,J,G
    2,L,J
    1,L,K,G
-  22,L,D
+  23,L,D
   40
 
 #lvl_a_05
-  15,L,D
+  10,L,D
+   4
   52,L,X
    4,R,G
   18,R,U,Z
    4,R,J
-  63,D,X
+  25,D,X
+  37,L,D
    2,L,J
    1,R,K,G
    8,L,K
   15,U,X
-  11,R,G
-   7,R,J,G
-   6,R
-  36,U,G
+   1,R,J,G
+   7,R
+   1,R,G
+   1,R,J,G
+   2,L,J
+   4,R,J
+   7,R
+  35,U,G
    1
    1,J
    1,R,K,G
    6,L,K
    5,L
-   8
+   4
+   4,K
    3,R,J
   13,L,U,X
    1,L,J,G
-  17,R,D
+  17,R
    8,L,D
    1,L
-   4,L,D
-   8,L,J
+   1,L,J
+   4,L,K
+   6,L
   10,R,Z
    1,L,J
    4,L
   15,L,D,X
-  23,D
-   8,L,J
+  24,D
+   4,L,J
+   3,J
+   1,L,J
    7,K
   19,L,U,X
    4,L,J
@@ -212,6 +234,8 @@ EndStunpause
    1,L,J
   17,L,D,X
   40
+
+#lvl_a_06
    1,L,J
   18,L,D,X
    4,L,J
@@ -390,4 +414,4 @@ EndStunpause
   45,L,J
   90,G
 
-ChapterTime: 1:06.249(3897)
+ChapterTime: 1:05.943(3879)
