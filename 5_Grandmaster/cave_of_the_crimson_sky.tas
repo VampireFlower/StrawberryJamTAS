@@ -1,4 +1,4 @@
-RecordCount: 995
+RecordCount: 1280
 
 console load StrawberryJam2021/5-Grandmaster/RedBatNick
    1
@@ -169,13 +169,19 @@ console load StrawberryJam2021/5-Grandmaster/RedBatNick
 #  36,R
 #  50,R,U,Z
 ##
-  21,R,D
-  14,L,D
+  20,R,D
+  10,D
+   4,L,D
+   1,R,J
+   6,R
    3,R,J
-   8,R
   15,R,U,Z
-  27,R,D
-  12,L,D
+  26,R,D
+   1,R
+   3,L,D
+   3,L
+   1,L,D
+   5,L
   13,R,U,X
   25,L,U,C
   12,R,J
@@ -187,8 +193,7 @@ console load StrawberryJam2021/5-Grandmaster/RedBatNick
    6,R,K
    5,R
    2,R,K
-   8,R
-   3
+  11,R
   18,L,U,X
    4,K
    5,L
@@ -212,26 +217,33 @@ console load StrawberryJam2021/5-Grandmaster/RedBatNick
   17,R,D
   14,L
    9,L,D
-  17,R,D
-  20,R,U,X
-  14,R,D
-   8,D
-   2,R,D
-   8,L
-   4
-  17,U,X
-  13,R,K
+  11,R,D
+  15,R,Z
    8,R
-  45,R,K
-  15,R,U,X
-  38,R
-  17,R,D
-   4,K,G
-   3,R,K
-   1,K
-   1,R,J,G
-  14,R,K,G
-  24,R,J,G
+  10,D
+   7,L
+   5
+   2,L
+   1
+  17,U,X
+  12,R,K
+   8,R
+  10,R,J
+  26,R
+   3,R,D
+  15,R,Z
+  47,R
+   2
+   7,R,J,G
+   4,R,J
+   1,J
+   2,R,J
+   2,R,K,G
+   1,K,G
+  14,R,K
+   4,R,J,G
+  10,R,K,G
+   7,R
    4,R,Z
    1,R,J
   12,R
@@ -271,30 +283,24 @@ endstunpause
   15,U,C
   24,R
    2,R,D
-  17,R,U,Z
+  15,R,U,Z
+   2,R
    1,J
-   2,R,J
-  14,R
-  11,R,K
-   3
+  13
+  16,R,K
   15,L,C
-  23,R,D
-  11,R
-  16,R,Z
-  11,R,U,V
-  18,R,D,C
-  15,L,U,X
-  26,D
-  11,R,D
-   1,R
-   1,R,D
-   4,Z
-  14,R,J
+  34,R,D
+  15,R,Z
+  19,R
+  18,L,X
+  15,R,C
+  13,R
+  15,R,U,Z
+   4,R
   15,U,C
-   5,R
+   4,R
   15,R,D,X
-  18,R
-   3
+  21,R
   13,U,X
   15,R,D,C
   12,R,D
@@ -331,4 +337,4 @@ endstunpause
   27,U,X
  120,D
 
-ChapterTime: 0:53.482(3146)
+ChapterTime: 0:52.785(3105)
