@@ -1,4 +1,4 @@
-RecordCount: 9056
+RecordCount: 9058
 
 console load StrawberryJam2021/4-Expert/Agent
    1
@@ -441,6 +441,6 @@ endstunpause
    1
   11,R,U,X
   35,R
-  90,D
+ 100,D
 
 ChapterTime: 0:50.167(2951)
