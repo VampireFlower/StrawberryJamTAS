@@ -1,4 +1,4 @@
-RecordCount: 1373
+RecordCount: 1616
 
 console load StrawberryJam2021/2-Intermediate/Evilleafy
    1
@@ -104,30 +104,39 @@ console load StrawberryJam2021/2-Intermediate/Evilleafy
    1,R,J
    3,J
    1,R,J
-  25,R,K,G
-  19,R,X
-  16,R,C
-  21,R,U,X
-   1,K
-   8,L,K
-  14,U,X
-  15,L,J
-  34,L
+   1,R,K,G
+  24,R,J,G
+  18,R,X
+   6,R
+  15,R,U,X
+   6,R
+  15,U,X
+   5,R
+   3,J
+   8,L,J
+   1,J
+  37,L,J
   19,L,X
   21,L,D,C
-   8,L
-  10,R,J
-  14,D,X
-  30,R,J
+   6,L
+   2
+   9,R,J
+  14,D,Z
+  26,R,J
+   2,J
   15,R,D,X
-   9,R
-   3,R,J,G
-   5,L,J
+  11,R
+   2,R,J,G
+   4,L,J
+   1,J
    1,R,K,G
    1,R,J,G
-   5,R,K,G
-  11,R
-  19,U
+   2,R,K,G
+  13,R
+   7,L,U
+   4,L
+   1,L,U
+   5,U
   12,L,J,G
    3,L,K,G
    4,R,K
@@ -154,16 +163,14 @@ console load StrawberryJam2021/2-Intermediate/Evilleafy
    1,L,J
    2,L
   14,L,J
-  14,U,X
-  10,L,J
-  49,L
-  20,L,X
-  15,L,D,C
-  24,L
-  12,L,J,G
-  11,L,K,G
+   8,U,X
+  70,L,J
+  15,L,D,Z
+  14,L
+  15,L,D,X
+  15,L
    1,L,J,G
-   1,J
+   1,J,G
    4,R,J,G
    1,L,K,G
    1,L,J,G
@@ -171,12 +178,13 @@ console load StrawberryJam2021/2-Intermediate/Evilleafy
   21,L
    9,U
    5,L,U
-   5,U
-   6,L,U
+   2,U
+   3
+   6,L
   12,L,J,G
   13,L,K,G
   15,L,D,X
-   9,L
+   6,L
    2,L,J,G
    2,J
    4,R,J
@@ -184,12 +192,12 @@ console load StrawberryJam2021/2-Intermediate/Evilleafy
    1,L,J,G
    1,L,K,G
   13,L,J,G
-  37,L,C
+  36,L,C
   15,L,U,X
   14,U,C
   13,L,J
    6,R,J
-   9,R,K,G
+   7,R,K,G
   40
 
 #lvl_Evilleafy-04
@@ -208,11 +216,13 @@ console load StrawberryJam2021/2-Intermediate/Evilleafy
    6,U,X
   46,R,J
   15,R,X
-  35,R,D
-  15,R,Z
+  31,R,D
+   1,L,D
+  10,R,D
+  15,R,X
   15,R,C
-  24,R,D
-   4,Z
+  15,R,D
+   6,R,D,X
    4,R,J
    4,R,K,G
    7,R
@@ -222,30 +232,36 @@ console load StrawberryJam2021/2-Intermediate/Evilleafy
 #lvl_Evilleafy-08b
    2,R,J
    4,R
-  16,R,D,X
-   9,R,J
+  15,R,D,X
+   9,R,D,J
    8,R
-  11,R,J
-  15,U,X
-  13,L,J
-   7,L
-  21,L,D,X
-  15,D
-  17,R,X
-  20,R,C
-  17,R,X
-  14,D,C
+   5,R,J
+   7,J
+  13,U,X
+  16,L,J
+  15,L,D,X
+   5,L,D
+   8,D
+   3
+   1,L
+   4
+  15,R,X
+   1,R
+  18,R,C
+   2,R
+  15,R,X
+   2,R
+  14,D,Z
   20,R,J
    7,R,K,G
    1,K
    4,L,K
    1,R,J,G
    1,R,K,G
-   1,R,J,G
-   4,R,K,G
-  32,R
-  13,R,D
-   5,D
+   7,R,J,G
+  27,R,U
+  16,R,D
+   4,D
    4,Z
   10,R,J
    3,R,K,G
@@ -311,4 +327,4 @@ console load StrawberryJam2021/2-Intermediate/Evilleafy
   15,L,D,X
  135
 
-ChapterTime: 0:51.629(3037)
+ChapterTime: 0:50.864(2992)
