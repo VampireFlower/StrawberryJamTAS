@@ -1,4 +1,4 @@
-RecordCount: 4622
+RecordCount: 4929
 
 console load StrawberryJam2021/5-Grandmaster/xlibiza
    1
@@ -681,22 +681,28 @@ SkipInput 3 1
    9,R,U,X
 EndStunPause
   34,R,C
-  22,R,D,X
-   1,R
+  15,R,D,X
+   4,R
+   4
    6,L,Z
    1,R,J
-   1
-   6,R
+   7,R
    3,R,J
-   1,R
+   1
   15,R,D,X
    7,R,D
    1,R,J,G
   11,R
-  34,R,J
+  17,R,J
+   1,R
+   5,R,J
+   1,R
+   1,R,J
+   7,R
   15,R,X
-   6,R
-   2,R,J
+   7,R
+   1,R,J
+   1,R
    5,R,Z
    8,R,J
    4,R
@@ -715,21 +721,15 @@ EndStunPause
    2,R,K
   11,R,U,Z
    4,R,J
-   7,R,K
-  15,L,U,X
-   4,R,J
-   2,R,K
-  16,R,D,X
-   4,R,J
-   1,R,K
-  13,R,Z
+   9,R,K
+  12,R,X
    4,R,J
    7,R,K
-  19,R
-  22,R,U,Z
-  17,D,X
+  18,R
+  23,R,U,Z
+  18,D,X
    1,R,D
-  18,R,D,C
+  18,R,D,X
    4,R,J
    7,R,Z
   18,R,J
@@ -741,17 +741,15 @@ EndStunPause
   16,L,J
   20,L,X
    7,L,J
-   4,Z
-  14,L,J
-  20,L,U,Z
-   1,L,J
-   3
-  12,L,D,X
-   1,R,J
-   3
-   2,R,J
-  14,U,Z
-  12,L,J
+   4,L,Z
+  16,L,J
+   2,L
+   2,L,J
+   4,J
+  23,L,U,Z
+   4,R,J
+  10,U,X
+   9,L,J
    9,U,X
   10,R,J
   14,R,Z
@@ -953,6 +951,7 @@ EndStunPause
    3,R,K,G
    8,R,D,X
   43
+
 #lvl_a-10
    6,R,D,X
    1,R,J
@@ -1026,4 +1025,4 @@ EndStunPause
   14,R,U,X
  135,D
 
-ChapterTime: 2:45.257(9721)
+ChapterTime: 2:44.662(9686)
