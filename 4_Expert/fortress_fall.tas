@@ -1,11 +1,10 @@
-RecordCount: 2129
+RecordCount: 2430
 
 console load StrawberryJam2021/4-Expert/Aspar
    1
 
 #Start
   61
-
 #lvl_00-intro
    6,L,Z
    1,R,J
@@ -102,14 +101,16 @@ endrepeat
   16,U,X
   35,L,J
   18,R,J
-  14,R,U,Z
-   1,J
-   6,R,J
+  13,R,U,Z
+   1,L
+   7,J,G
+   1,R,J
+   2,R
+  31,R
+   4,R,D
    1,R
-   2,J
-  40,R,J
   19,R,K,G
-   8,J
+   7,J
    1,K
   24,R,K
    1,J
@@ -156,32 +157,34 @@ endrepeat
   20,U,C
   17,U,X
   18,R,J
-   8,K,G
-   2
-   5,L
-#-1f with 6f bhop
-   5,L,Z
-   1,R,J
+   1,R,K,G
+   3,L,K
+   4,R,K
    7,R
+   8,R,J
+   8,R,U,Z
   40
 
 #lvl_05-hub
- 
-   4,R,J
+   5,R
+   1,L
+   5,K,G
+   2,R,K
   14,U,X
-   1,J
-  13,L,J
-  11,L
-   2,L,K,G
-   9,L
-   4,L,J
+   1,L,U
+   1,K,G
+   4,L
+   2
+   1,R
+   5,R,J
   13,U,X
   40
+
 #lvl_06-crossroad
-   5
-   1,J
-  13,L,J
-  13,L,U,X
+   7,J
+   2,L,J
+   3,J
+  14,U,X
 
 #generic spring hit 
   12,R,J
@@ -235,7 +238,8 @@ endrepeat
    9,K
   61,D
    6,D
-   8,R,D
+   7,R,D
+   1,R
   15,R,Z
    4,R,J
   15,R,Z
@@ -268,7 +272,7 @@ endrepeat
   15,L,X
   22,D
    5,R,D
-   1,D
+   1
   48,R,J
   11,K,G
    1,L,K
@@ -317,75 +321,83 @@ endrepeat
    1,L,J
    1,K
   11,R,K
-  16,L,J
-   1,K,G
-   5,L,K
-   1,L
-   1,R
-  18,L,X
-  15,L,C
-  15,L,D
-  23,D
-  30,L,D
-  10,L,D,X
-  29,R,J
-  44,R,K,G
-  10,J,G
+   2,J,G
    1,L,J
-  15,R,K,G
-  10,R,J,G
-   5,R
-   2,R,J
+  12,L,K
+   6,L,X
+   1,K,G
+  13,L,K
    1,R
+  15,L,X
+  71,L,D
+   4,L
+   1,L,J
+  14,R,D,X
+  20,R,J
+   5,R
+  35,R,K,G
+   1,J,G
+   1,L,J
+   4,R,K,G
+   6,R
+   1,R,K
+   3,R
+  12,R,J,G
+   8,R
    1,R,J
   13,R
   24,R,J
   15,U,X
-   8,R
-   6,J,G
-   1,L,J
+   5,R
+   1,J,G
+   5,R,J
+   1,R
+   1,L
    1,K
-  24,R,K
+  22,R,K
+   2,K
   11,J,G
    1,L,J
   12,R,K,G
    3,R
    4
-   8,L,Z
+   7,L,Z
    1,R,J
-   7,R
+   6,R
    1,R,J
    5,R,D,X
   40
 
 #lvl_09
-   8,R
-  30,R,J
+   7,R
+  29,R,J
   20,L
-  10,L,D
+  14,L,D
    3,D
-   6,L,D
+   3,L,D
    7,L,J
    1,L
-  26,L,K
+  25,L,K
    1,G
-  10,L,K,G
-  15,L,X
-   8,L,J
-  27,D
-   7,R,D
-  14,L,D,X
-   1,R,J
-  15,R,D,X
-   1,R
-  36,R,J
-   4,R,D
-  10,R
-  15,R,U,X
-   2,R
-  11,R
+   1,K,G
+   1,L,K
    1,R,K
-   6,R
+  15,L,X
+   5,L,D
+
+  28,L,D
+  13,L
+   4,L,D
+  14,R,D,X
+   1,R,J
+  16,R,D,X
+  36,R,J
+   8,R
+   6,R,D
+  15,R,U,X
+   4,R
+   1,R,K
+   5,R
    4,R,J,G
    1,R
   13,R,K
@@ -393,13 +405,11 @@ endrepeat
   49,R,J
    1,K
   25,R,K
+   1,R,J,G
+   7,R,K,G
+   8,R
   10,R,J,G
-   2
-  10,R
-   8,R,J,G
-   1,R
-  12,R,K
-  13,R,D
+  23,R,D
    5,R,Z
    1,R,J
    4,R
@@ -506,4 +516,4 @@ endrepeat
   15,L,U,X
  135
 
-ChapterTime: 1:19.577(4681)
+ChapterTime: 1:18.625(4625)
