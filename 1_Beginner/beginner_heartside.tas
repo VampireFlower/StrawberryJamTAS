@@ -1,4 +1,4 @@
-RecordCount: 9985
+RecordCount: 10162
 
 console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    1
@@ -347,24 +347,23 @@ AnalogMode,Precise
   12,R,K,G
   12,R,J,G
   12,R,K,G
-  11,R,J,G
-   1,R
+   9,R,J,G
+   3,R
    1,R,K,G
    1,J
    6,L
-  14,L,Z
-  10,L,J
-  13,L,Z
+   6,L,Z
    1,L,J
-   6,L
-   2,L,J
-   2,L,K,G
-  15,L,J,G
-  14,U,X
+   4,L
+  14,L,J
+  15,L,D,X
+   3,L,J
+   1,L,K,G
+  14,L,J,G
+  15,U,X
   21,R,J
-  14,U,X
-   8,R,J
-   4,R
+  15,U,X
+  11,J
   13,R,Z
    4,R,J
    3,R,K,G
@@ -901,7 +900,7 @@ AnalogMode,Precise
    2,J
   10,R,J
 # spinner cycle (0-2)
-   1
+   2
 # -------------
    1,K
    1,R,J,G
@@ -974,93 +973,23 @@ EndStunPause
    1,R,J
   14,R
    1,R,J
-  25,R
-   1
-   2,R
-   3,R,J
-   1,R,K,G
-##
-#   1,R,J,G
-#  14,R
-#   1,R,J
-#  18,R
-#  19,U,X
-#  20,R,J
-#  30,R,U,Z
-#   1,J
-#   2,R
-#  10,L
-#   1,R
-#  18,L,D
-#   7,L
-#  25,L,J
-#  19,L,U,Z
-#   1,R
-#   1,R,J,G
-#   2,L,J
-#   7,R,J
-#   3,R
-#   1,R,K,G
-#   1,R,J,G
-#   9,R
-#   1,R,J
-#  13,R
-#   1
-#   1,R,J
-#   1,R
-#   1,R,K,G
-#   3,R,J,G
-#   5,R
-#   3,R,K
-#   1,R
-#   1,R,J
-#   3,R
-#   1,R,J,G
-#   1,K,G
-#   1,R
-#   2
-#   1,R
-#  10,L,D
-#   1,L,J
-#  20,L,D
-#   9,L,J
-#   5,L
-#   1,L,K
-#  16,L,D
-#   4,D
-#  15,D,X
-#   3
-#   9,R,D
-#   1,R
-#   1,R,J
-#  10,R,D
-#  10,L,D
-#  10,D
-#   2,L,D
-#   7,D
-#   2,L,D
-#   9,R,Z
-#  27,R,J
-#  15,U,X
-#  99,R,J
-##
-  13,R,J,G
+  17,R
+  22,R,J
+  13,U,X
+   8,R,J
+   6,R
+   6,R,J
+   1,R
   15,R,U,X
-   1,R,J,G
-   2,L,J
-   4,R,J
-   1,R,K,G
-  11,R
-   1,R,J
-   3,R
-   1,R,J,G
-   2,R,K,G
-   3,K
-  12,U,X
-   3,R,J
-   1,L,K,G
-  33,L,D
-  25,L,J
+   4,R
+   1,J
+   4,R
+  27,L,D
+   7,L
+  20,L,J
+   1,L
+   1,L,J
+   2,L
   19,L,U,Z
    1,R
    1,R,J,G
@@ -2052,4 +1981,4 @@ Repeat 33
 EndRepeat
    1
 
-ChapterTime: 4:32.017(16001)
+ChapterTime: 4:31.830(15990)
