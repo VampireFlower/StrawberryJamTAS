@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 642
+RecordCount: 2075
 
 console load StrawberryJam2021/5-Grandmaster/Todd
    1
@@ -10,157 +10,172 @@ console load StrawberryJam2021/5-Grandmaster/Todd
  130
 
 #lvl_1
-   9,R,Z
-   2,R,J
-   8,R
-   1,R,J
-  13,L
-  15,L,D,X
-  49,L
-  22
-   4,R,Z
-   2,R,J
-   8,R
-   1,R,J
+  11,R,Z
+   3,R,J
+   5,R
   15,R,D,X
-  10,R
-  13,R,D
-   4,R,J
-   9,L,K
-  15,U,X
-  12,R
-   2
-   1,R,J,G
-   2,L,J
-   1,J
+   6,L,D,C
+   1,L,J,G
+  14,L
+  12,L,Z
    3,L,J
-   2,J
-   1,R,K,G
-   1,R,J,G
-   1,R,K,G
-   1,R
-   1
+   9,L
+   1,L,J
+  13,L,D,X
+   1,R,J
+   1,J
+   2,R,J
+  10,R
+   1,R,J
+  14,R
+   1,R,J
    8,R
-   6,R,Z
+   3,R,K
+   3,R
+   1
+  20,R
+   1,R,D
+   8,R
+   4,R,D
+   3,R
+   2,R,J
+   1,J
+  15,U,X
+   3,R
+   1
+   1,R
+  11,R,J
+  11,R
+   4,R,Z
    1,R,J
    7,R
    1,R,J
+   3,R
   40
 
 #lvl_2
-   1,R,J
   14,R,D,X
    2,R,J
-   8,R
-   6,L,D,X
-  10,R
-  43
-   4,R,J
-  14,U,X
-  11,R,J
-  23,R,G
-   1,L
-  16,R,D,X
-   2,R,J,G
-  12,R
-   1,R,J
-  19,R
-   9,G
-  17,L
-   6,L,J
-  33,L
-   2
-   4,R,Z
-   2,R,J
-   8,R
-  28,R,J
-  13,R,X
-   3,G
-   7,R,J,G
    1,R
-   7,R,J
-  10,R,D
-   9,L,D
-  28,R,U
-   6,F,24.883
-   1,F,29.969
-  11,F,90
-  11,F,150
-  14,F,186
-  10,L,Z
-  19,L
-  15,R
-  15,L,G
-   2,D,G
-  14,R,Z
-   7,L,J,G
-  11,R
-   7,R,D
-   4,L,G
-  18,R,Z
-  10,L,J,G
-   2,L
-  29,R
-  11,L,D,G
-  30,G
-   2,U,G
-  14,R,Z
-   4,L,J,G
-  48,L
-  87
-   4,R,Z
-   1,R,J
+   1,R,K
    7,R
-   6,R,J
-  27,R,D,X
+   5,L,D,X
+  18,L,D
+   2,R,D
+   1,L,D
+  13,R,D
+   1,D
+   1
+   1,R
+   2,D
+   1,R,D
+   1,D
+   1,R,D
+   1
+   1,R
+   1
+   6,R
+   1,L,D
+   4,J
+   2,K,G
+   7,R,K
+   3,R
+   8,U,X
+   7,R,J
+  73,R,D,G
+  12,R,G
+   1,R,D,G
+   2,R,G
+   1,R,D
+   1,R,G
+   3,L,J
+   7,L,Z
+   1,L,J
+   6,L
+   1,L,J
+  14,L,Z
+   1,R,J
+   6,R,D,X
+  13,R,G
+   1,G
+   2,R,G
+   1,R,J,G
+   2,R,G
+stunpause
+   2,R,G
+   1,L
+skipinput,3,1
+   5,R,D,X
+endstunpause
+  10,R,D,X
+   2,R,D
+   6,D
+  22,R
+  11,R,D,J
+   3,R
+   2
+   1,R,K
+   1,R
+   1,R,K
+  12,R,U,X
+   1,J,G
+   9,R,J,G
+   1,J
+   1,R,J
+  22,R
   51,R,J
   14,R,U,X
    1,R,J,G
    9,R
   40
 
+***S
 #lvl_3
-StunPause
-   2,R
-   3,R,J
-EndStunPause
-   3,R,J
-   9,R
-  13,R,K
-  27,R,G
+
+   5,R
+   1,R,D
+   6,R,D,J
+   7,R
+  11,R,J
+  21,R,G
    1,L
-  11,R
+  18,R,D,X
+   3,R
 StunPause
    5,R
 SkipAutoInput,3,1
-  12,D,X
+   8,D,X
 EndStunPause
-  20,R,D
-  32,U,X
-  11,F,300
-   1,F,296.016
-   1,F,289
-   2,F,303
-   1,F,295
-   3,F,291.104
-  11,F,231
-   5,F,232.418
-   3,F,264.418
-   3,F,247.041
-  11,F,0
-  34,R,D,X
-  20,L,C
-  36,L,D,X
+***
+   7,D,X
+   8,R,D
+   3,R
+   1,R,D
+   1,R
+   5,U,X
+AnalogMode Square
+  27,F,4
+AnalogMode,Precise
+   7,F,320
+  14,F,275
+  13,F,230.9
+   7,F,270
+   7,F,276
+  25,R,D,X
+   5,D
+   4,R,D
+  15,L,C
+  39,L,D,X
   12,L,C
    1,J
   41,L
    1,J
   13,L
    1,J
-  23,L,D
-   1,J
-   9,L
-  15,L,Z
+  21,L,D
+   3,J
+   4,L
+  18,L,Z
   14,L,D
    1,J
   23,L,J
@@ -196,9 +211,9 @@ EndStunPause
    1,L,K,G
    1,L,J,G
   14,R,J
-   7,R
+   6,R
 stunpause input
-   9,R
+  10,R
 SkipAutoInput,3,1
   15,R,U,X
    6,R,D
@@ -207,15 +222,16 @@ SkipAutoInput,3,1
    1,L,K,G
    5,L,D,G
 endstunpause
+
   40,L,D,G
-***
   17,D,G
    1,D
+#0:31.756(1868)
+
   14,R,Z
    1,L,J
   14,L,D,X,G
   14,L,G
-***s
    1,L,J
    1,R,J
    3,L,J
