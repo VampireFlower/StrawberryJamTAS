@@ -1,4 +1,5 @@
-RecordCount: 3966
+#by Lmjacks & TheRoboMan
+RecordCount: 4656
 
 console load StrawberryJam2021/5-Grandmaster/DeathKontrol
    1
@@ -727,7 +728,7 @@ console load StrawberryJam2021/5-Grandmaster/DeathKontrol
    2,R,D
   40
 
-#lvl_2
+#lvl_2 (3)
    4,R,D
   16,L,D
   12,L
@@ -793,13 +794,124 @@ console load StrawberryJam2021/5-Grandmaster/DeathKontrol
 #lvl_9
   11
   14,U,X
-   4,R,J
+   4,J
+  11
+   2,R,D
+   2,L
+   2,R,D
+   1
+  14,L,D,X
+   1,R,J
+  10,R,D,X
+   1,S
+   1,D,J
+  34
+   5,R,J
+   2,R
+  17,R,D,X
+   6,R,D,J
+   6,R
+   2,K
+   1
+   1,K
+  11
+   2,R
+  13,R,U,Z
+   3,J,G
+  15,R,J
+  10,R,K,G
+   5,R
+  10,R,J
+#madge
+   4,G
+   1,R,K,G
+   2,L,K
+   5,R,K
+   3,R,J,G
+   8,R
+   1,R,K
+   9,R
+  10,R,J
+   7,R
+   4,R,K
+  27,R
+   4,Z
+   1,R,J
+   7,R
+   3,R,J
+  16,R,D,X
+   1
+   5,R,D
+   5,R,D
+  10,R,J
+   2,R
+  14,R,D,X
+   8,R,J
+  14,R,Z
+   3,R,J
+  16,R,D,X
+  13,R,J
+   2,J
+  15,R,D,X
+   1,D
+  15,R,U,X
+  15,R,C
+  15,R,X
+  18,R,Z
+  15,R,X
+  15,R,Z
+  15,R,X
+  16,R,C
+   1,R
+  15,R,U,X
+  12
+   6,R
+  15,R,X
   11,R
+   4,Z
+   1,R,J
+   2,R
+  40
 
+#lvl_10
+   2,R
+   1,R,K
+   2,R
+  17,R,J
+  19,U,X
+   7,L,J
+  14,J
+  19,U,X
+  19,J
+  15,L,U,C
+  17,U,X
+  14,R,J
+   7,J
+  22,L,U,Z
+  15,U,X
+  27,R,J
+   1,J
+  15,U,X
+   7,R,J
+   8,R
+   2,R,J
+   1,R,K,G
+   1,R,J,G
+   5,R
+   1,R,K
+   5
+   9,L
+   6
+   6,L,J
+   6,K,G
+   6,L,K
+  15,U,X
+  15,U,C
+  15,U,X
+  15,U,C
+  15,L,U,X
+  11,U,C
+ 127,D
+   9,R,D
 
-
-  
-
- 100
-
-ChapterTime: 
+ChapterTime: 1:44.533(6149)
