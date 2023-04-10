@@ -1,4 +1,4 @@
-RecordCount: 3552
+RecordCount: 3577
 
 console load StrawberryJam2021/3-Advanced/MousseMoose
    1
@@ -200,7 +200,10 @@ endrepeat
    1,K,G
   19,J,G
   47,R,J,G
-  17,R,X,G
+  16,R,X
+   1,R
+   1
+   1,G
 #slightly faster 
 #but needs extra pause?
 #   1,R,G
@@ -241,10 +244,12 @@ endrepeat
    3,L,K
    5,L
    2,L,J
-   3,L,K,G
-   8,L
+   2,L,K,G
+   5,L
+   1,L,J
+   4,L
 stunpause 
-  16,L,D
+  15,L,D
    1,L,J
 endstunpause
    2,L
@@ -254,7 +259,7 @@ endstunpause
 
 #lvl_a4
   15,D,X
-  12
+  10
   15,L,D,X
    1,L,J,G
    8,L,G
@@ -670,4 +675,4 @@ endrepeat
    5,X
  135,R,X
 
-ChapterTime: 1:55.974(6822)
+ChapterTime: 1:55.787(6811)
