@@ -1,4 +1,4 @@
-RecordCount: 3577
+RecordCount: 3578
 
 console load StrawberryJam2021/3-Advanced/MousseMoose
    1
@@ -29,7 +29,25 @@ console load StrawberryJam2021/3-Advanced/MousseMoose
   13,R
   10,R,D,X
    1,R,J
+
+# 3 versions for the
+# 3 spinner cycles
+# use whichever works
+##################
+
   19,R,D
+
+#-----------------
+
+#  20
+
+#-----------------
+
+#  19,R,D
+#   2,R,G
+
+##################
+
    1,R,G
   26,R,J
   13,R,Z
