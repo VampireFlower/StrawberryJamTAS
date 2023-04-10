@@ -1,6 +1,6 @@
 #draft: He2D, EllaTAS, abiteofdata, Lanvilla
 
-RecordCount: 22534
+RecordCount: 23436
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -366,7 +366,7 @@ EndRepeat
    1,R,J
   40
 
-#lvl_b1_15-Alisticious
+#lvl_b1_15-Alisticious-
   14,R,D,X
    1,R,D
    7,R
@@ -466,19 +466,15 @@ EndRepeat
   40
 
 #lvl_b2_14-Ecl1psed
-  10
-  12,L,J
-   2,K,G
-   1,R,K
-   1,K
+   5
+  11,L,J
+  11,R,K
    5,R,Z
-   1
-   7,R,J
-   3,R,K,G
+   4,R,J
+   4,R,K,G
    7,R
    1,R,J
-   5,R,D,X
-   9,R
+  14,R,D,X
    1,R,J
   16,R,D,X
   23,R,J
@@ -530,22 +526,32 @@ EndRepeat
    5,L,U,X
   21,L
    5,U,X
-  13,R
+  15,R
    5,R,D,X
    9
-  23,R,J
-   5,U,X
-  27
-   5,R,D,X
-   9
-   9,R,J
-  27,R,G
+  15,R,J
+  15,R,D,X
+   2,G
+   2,J,G
+   1,R,J
+   1,J
+   1,R,J
+   2,J
+   1
+   1,K,G
+  11
+   1,R
+   5,L,Z
+   1,R,J
+   6,R
+   1,R,J
+   5,R
+  13,G
+  13,R,G
    1,L
-   5,R,D,X
-  13,R,D
-  23,R,J
-   5,U,X
-   8
+  16,R,D,X
+  22,R,J
+  13,U,X
   19,L
    5,U,X
   13
@@ -554,53 +560,50 @@ EndRepeat
    5,L,D,X
    7
    8,L,J
-   5,L,D,X
-   5
+  10,L,D,X
    1,L,J,G
-   9,L,J
-  12,L
-   2,L,J,G
+  11,L,J
+  11,L
+   3,L
+   4
+   1,J
+   1,J
+   2
+  15,U,X
+  15,D,C
    1
-   5,L,X
-  28,L
-   5,L,Z
-   9
+   1,L
+   3,R,D
+   4,R,Z
    1,R,J
-   5,R,D,X
-   3
+   1,R,K,G
    1,R,J,G
    1,R,K,G
    1,R,J,G
-   6,R
+   7,R
    1,R,J
-   2,R
-   1,R,J
-   5,R,D,X
-   1
-  13,G
+   6,R,D,X
+  13,R,G
    5,R,G
-   3,R,J,G
-  40,R,U,G
-   8,R,G
- 100,R,U,J,G
-   5,R,U,G
-  21,U,G
+   2,R,J
+  46,R,U,G
+  90,R,U,J,G
+  16,R,U,G
    1,L
-   7,D
+  13,R
 
 #lvl_b3_13-TheDavSmasher
    1,R,K,G
-   1,R,K
-   9,K
-   3
+   1,R,J,G
+  10,J
    5,U,X
-   9
+  10
   10,L,J
    6,R,J
   10,L,X
-   1,L,J,G
-  22,L,K,G
-  23,R,U,X
+   7,L,J,G
+  18,L,U,X
+  18,R,U,C
    4,L,G
    5,L,D,X
   14
@@ -611,7 +614,8 @@ EndRepeat
   10,R,D
   14,G
   29,R,D
-   8,D
+   6,D
+   2
    5,L,X
   16
    5,R,Z
@@ -736,9 +740,10 @@ EndRepeat
    4,R,K,G
   10,R,J,G
    5,U,X
- 414
+ 355
 
 #lvl_c0-Divinity
+  59
    4,R,D,X
    1,R,J
    7,R
@@ -1273,25 +1278,28 @@ AnalogMode Ignore
   11,R
   17,R,U,Z
    4,R,J
-   5,R,K
+   1,R,K
+   4,R
   20,R,D,C
   15,L,D,X
-  48,R,C
+  44,R,C
   15,D,X
-  10,L,D,C
-   3,R,J
-   2,R
-  17,R,D,X
-  23,R,J
+   2,L,J
+  14,R,D,X
+   1,R,J
+  16,R,D,X
+  21,R,J
   15,U,X
-   1,R
-  22,R,J
+   1,L
+  18,R,J
+   2,L,J
+   2,R,J
   17,U,X
    7,J
   10,L,D,X
-   9,L,J
-   1,J
-  13,L,X
+   8,L,J
+   2,J
+  12,L,X
   15,R,J
   14,U,X
    8,R,J
@@ -1348,6 +1356,7 @@ AnalogMode Ignore
    6,R,G
    1
   18,R,U,Z
+
    7
   11,U,C
   13,G
@@ -1372,31 +1381,33 @@ AnalogMode Ignore
   10,K,G
    1,R,K
    1,J
-   1,K
-  13,G
-   1,R,K,G
-   8,K
-   8,L,Z
-   2,L,J,G
-   1,J
-   4,L,J
-   5,L
-   1,R
-  11,J,G
-  29,L,J
-   2,L,K,G
-   4,R,K
-   7,L,K
+   5,K
+  13,K,G
+   8,L,K
+   1,R,K
+   3,L,K
+   3,L
+   1,L,K
+   3,L
    1,L,J,G
-   7,L,K,G
-   5,L
-  10,L,K
-   3
+   7,L
+   8,R,D
+   1,L,D
+   1,D
+  10,L,J
+   1,L,K
+  11,L,J
+   8,L
+   2,L,J
+   1,L
+  14,L,X
+   5,L,J,G
+   1,L
+   4
    2,R,J
    5,R
    1,R,K
-   1,R
-   1,R,K
+   2,R
   13,R,D
    1,R,J
    6,R,K
@@ -1408,11 +1419,13 @@ AnalogMode Ignore
    6,R,K
    1,J
   17,R,J
+   7,L,J,G
    1,R,K
   17
   17,R,K
    8,R
-  16,D
+  15,D
+   1
    5,L,Z
   18,R
   13,U,X
@@ -1431,9 +1444,11 @@ AnalogMode Ignore
   13,G
   11,G
    7,L,G
-  51,R,D,G
-   1
-   7,L
+  45,R,D,G
+   2,D,G
+   4,R,D,G
+   2
+   6,L
   15,L,U,X
   20,R,D,C
    2,D
@@ -1445,7 +1460,8 @@ AnalogMode Ignore
   13,G
   30,D,G
    1,G
-   2,R,G
+   1,R,G
+   1,R,D,G
    1,R
   23,R,Z
    1,J,G
@@ -1607,16 +1623,12 @@ Set CelesteTAS.SimplifiedBackdrop true
    1,L,K,G
    1,L
    1,L,J,G
-  10,L,K,G
-   8,L
-   5,L,U,X
-  11
-  25,R
-   5,R,X
-  11,R
-   5,R,D,X
-  11,R,D
-  46,R,J
+  18,L,K,G
+  16,L,U,C
+  24,R
+  15,R,X
+  17,R,D,C
+  46,R,K
   14,R,U,X
 Set CelesteTAS.SimplifiedGraphics false
 Set CelesteTAS.SimplifiedBackdrop false
@@ -1624,21 +1636,21 @@ Set CelesteTAS.SimplifiedBackdrop false
 
 #lvl_e0-Clarity
   59
-  15,R,D,X
-   4,Z
+  13,R,Z
    1,R,J
    7,R
    3,R,J
    5,R,D,X
    3,R,J,G
    4,R
-   1,R,J,G
+   1,R,K,G
   12,R
    1,R,J
    5,R,U,X
   40
 
 #lvl_e1_06-tofu
+
    7,R
   35
    1,R,U
@@ -1650,16 +1662,16 @@ Set CelesteTAS.SimplifiedBackdrop false
    6
    1,R,N
    9,D
-  10,R,D
-  15,D,X
+   7,R,D
+   3,L,D
+  14,D,X
    1,R,J
-   2,R
-  18,R,X
-   3
+  15,R,X
+   4
    5,U,X
   13,G
-  13,D
-  16,L,X
+  14,D
+  15,L,X
    1,R,J
    5,R,U,X
   13,G
@@ -2120,13 +2132,12 @@ Set CelesteTAS.SimplifiedBackdrop false
    8,R,J
   15,R,D,X
    7,R
-   4,R,J
+   9,R,J
    5,R
-   1,R,K
-  14,R
-   1,R,J
-  22,D,X
-  83
+  15,R,D,X
+  20,R,D
+  15,R,D,X
+  64
 #spinner cycle
    0
    5,R,U,Z
@@ -2144,9 +2155,11 @@ Set CelesteTAS.SimplifiedBackdrop false
   13
    5,L,U,X
   15
-   5,R,J,Z
-  11,R,J
-  12,R
+   6,R,Z
+   1,R,J
+   4,R
+   1,R,J,G
+  14,R
    5,R,J,Z
    9,R
   10,R,J
@@ -2172,8 +2185,8 @@ Set CelesteTAS.SimplifiedBackdrop false
    1,G
   14,U,G
   17,G
-   5,R,J,X
-  26,R,J
+   4,R,X
+  27,R,J
   30,R
    5,L,Z
    9
@@ -2187,11 +2200,11 @@ Set CelesteTAS.SimplifiedBackdrop false
    1,R,J
    5,R,U,X
   13,G
-  23,R,G
-   1,R
+  19,R,G
+   4,R
    5,U,X
   10
-   5,R,X
+   6,R,X
   13,G
   22,L,G
    5,R,Z,G
@@ -2240,8 +2253,7 @@ Set CelesteTAS.SimplifiedBackdrop false
    1,L
    5,L,U,X
   10
-   5,L,X
-   2
+   7,L,X
   13,G
   25
    1,L,D
@@ -2625,4 +2637,4 @@ Repeat 34
    2,L,D
 Endrepeat
 
-ChapterTime: 7:37.623(26919)
+ChapterTime: 7:36.450(26850)
