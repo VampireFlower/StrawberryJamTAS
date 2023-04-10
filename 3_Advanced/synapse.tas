@@ -1,4 +1,4 @@
-RecordCount: 3286
+RecordCount: 3552
 
 console load StrawberryJam2021/3-Advanced/MousseMoose
    1
@@ -113,57 +113,68 @@ console load StrawberryJam2021/3-Advanced/MousseMoose
    4,R,D
   14,R,Z
    9,R
-  18,R,U,Z
-  11,R,U,X
+  18,R,U,X
+  11,R,U,Z
    1,R,J,G
-   1,R
-  42,R,J
-  19,L
-  37,L,U,J,Z
-   2,J
-  18,U,X
-  16,U,Z
-   2,R
-  35,R,J
-  14,R,D,X
-  19,R,D
-  10,L,D,X
-  22,R,J
-   3,R
-  20,R,K,G
-  11
-   2,R,D
-   1,D
-   1,L,D
-   1,D
+   2,L,J
+  26,L
+  22,G
+   5,U,G
+   1,R,J
+  25,R,K
+  21,R
+  15,R,Z
+  19
+   1,G
+  10,J,G
+   2
+   5,K,G
+   7,R
+  15,D,X
+   2
+   4,R,Z
+   1,R,J
+   7,R
    5,R,J
-  15,L,J
-   4,K,G
-  13,R,J
-   8,R,Z
-   1,R,J,G
-   1,R
-  11,R,J
-  24
-  14,D,X
-  10,R,D
-   5,D
-   1,J
-  10
-   9,R,D
-  10,R
+  14,R
+   3,R,J,G
+   6,R
+   1
+  14,R,U,Z
+   3,R,J,G
+  22,R,D
+   9,L,D
+  11,L,J
+   3,L
+   1,J,G
+   5,L,J
+   6,R,J
+  15,R,Z
+  15,D
+  11,R,D
+  11,D
   10,R,Z
-   3,R,J
-   2,R
-  12,R,J
+  13,R,J
+   4,R
   18,U,X
   15,U,C
-  26,R,X
+  15,R,X
+# this was just to get a 
+# similar sub pixel for
+# resyncing 
+   6,R
+   1
+   1,R
+   1
+   1,R
+   1
+  15,D,X
+   7
   10,R,C
   12,R,J
 
 #lvl_a3
-repeat,4
+repeat,2
   14,D,X
    1
 endrepeat
@@ -231,9 +242,9 @@ endrepeat
    5,L
    2,L,J
    3,L,K,G
-   9,L
+   8,L
 stunpause 
-  15,L,D
+  16,L,D
    1,L,J
 endstunpause
    2,L
@@ -659,4 +670,4 @@ endrepeat
    5,X
  135,R,X
 
-ChapterTime: 1:56.943(6879)
+ChapterTime: 1:55.974(6822)
