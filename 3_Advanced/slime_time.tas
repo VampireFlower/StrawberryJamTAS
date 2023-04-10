@@ -1,4 +1,4 @@
-RecordCount: 4690
+RecordCount: 4882
 
 console load StrawberryJam2021/3-Advanced/galaksyz
    1
@@ -9,8 +9,8 @@ console load StrawberryJam2021/3-Advanced/galaksyz
 #lvl_a_00-Worldwaker2
    4,R,Z
    2,R,J
-  10,R,K,G
-  10,R,J,G
+   9,R,K,G
+  11,R,J,G
  316,R,X
   40
 
@@ -33,7 +33,8 @@ console load StrawberryJam2021/3-Advanced/galaksyz
    1,R,K,G
    2,R,J,G
    7,R
-   2
+   1
+   1
   18,R,D,X
    3,D
    4,R,D
@@ -99,11 +100,11 @@ console load StrawberryJam2021/3-Advanced/galaksyz
   14,R,U,X
   15,U,C
    2,R,J,G
-   4,J,G
-   7,K,G
+   4,J
+   5,K,G
    7
    1,G
-   2,K,G
+   3,K,G
    1,J
    2,K,G
   10,L,K
@@ -111,7 +112,6 @@ console load StrawberryJam2021/3-Advanced/galaksyz
    1
   10,R,J,G
    1
-   1,R
    6,R,X
   13
    1,L,J,G
@@ -126,6 +126,7 @@ console load StrawberryJam2021/3-Advanced/galaksyz
   14,L,Z
    1,L,J
   12,L,U,Z
+
   11,R,U,X
   18,U,C
   23,R
@@ -201,12 +202,12 @@ console load StrawberryJam2021/3-Advanced/galaksyz
    6,R
   15,R,U,Z
   28,R
-   6,R,D
-   5,D
+  10,R,D
+   1,R,D
    2,R
    1,R,D
    4,R
-  16,R,U,Z
+  15,R,U,Z
   15,R,D,X
    1,R
    9,R,D
@@ -341,11 +342,13 @@ console load StrawberryJam2021/3-Advanced/galaksyz
    4,R,J
    6,R
   14,R,X
+#maybe get +40 here
    1,J,G
   12,R,J
-  22,R
-  19,R,D
-  19,R,X
+  11,R,X
+  11,R,C
+  19,R,D,X
+  19,R,C
   10,R,Z
    3,R,J
   14,R
@@ -515,4 +518,4 @@ endstunpause
   14,R,X
  135,D
 
-ChapterTime: 1:21.294(4782)
+ChapterTime: 1:21.243(4779)
