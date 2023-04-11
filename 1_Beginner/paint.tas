@@ -1,7 +1,7 @@
 #draft: psyGamer
 #improvement: EllaTAS
 
-RecordCount: 8181
+RecordCount: 8453
 
 console load StrawberryJam2021/1-Beginner/mosscairn
    1
@@ -769,7 +769,6 @@ console load StrawberryJam2021/1-Beginner/mosscairn
   33,L
 
 #lvl-c-intro
-
    4,Z
    1,L,J
    7,L
@@ -858,37 +857,46 @@ console load StrawberryJam2021/1-Beginner/mosscairn
   15,R,C
   17,R
   15,R,X
-   4,G
-   1
-   7,R,Z
+   5,R,D
+   1,R,D,G
+   6,R,Z
    1,R,J
    1,R,K
-   9,R
+   6,R
    1,R,J
+   7,R,D,X
   40
 
 #lvl_c-03
-  11,R,J
-  15,R,U,X
-  15,R,Z
-  35,R,D
-   3,R,J
-  15,R,U,X
-  12,R,Z
+   4,R
    1,R,J
-   6,R
+  24,R,D
+   1,R
+  15,R,Z
+   1,R
+  13,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   1,R
+  14,R,U,X
+   1,R,K,G
+  10,R
    1,R,J
    2,R,K,G
    2,R,J,G
    1,R,K,G
-  12,R,D,X
+   1,R
+  11,R,D,X
    1,R,J
    4,R
-   5,R,D,J
+   5,R,J
   40
 
 #lvl_c-04
-  10,R,J
+   4,R,J
+   4,J
+   1,R,J
   15,R,U,X
   11,U,C
    1,J
@@ -906,7 +914,9 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    1
   11,K
   14,U,X
-  16,J
+   4,J
+  15,R,X
+  15,L,U,C
   10,R,X
    1,R,J
    4,R
@@ -916,52 +926,49 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    1,R
    2,R,J,G
    7,R
-   2,L,J
+   1,L,J
+   1,L
   13,R,Z
    1,J,G
-   6,R,J
-   1,L,J
-   2,J
-  13,G
-   2,U,G
-   2,G
-   1,D,G
-   1,G
-   1
-   1,L
-   1
-   1,L
-   1,K
-   1,L,J,G
-  14,U,X
-  15,R,J
-   1,R,K,G
-  10,R,J,G
+   7,R,J
+   4,L,J
+   1,J
+  15,U,Z
+  12,R,J
    5,R
-   1,R,K
-   8,R
-   2
-   1,R,D,J
-   1
-   2,R
-  14,R,D,X
-  23,R,J
-  15,R,U,X
-  11,R,U,Z
-   1,L,J,G
+   1,R,K,G
+   2,R,J,G
    7,R
+   2,R,J
+  15,D,X
+   4,D,C
+   1,R,J
+   7,R
+   9,R,J
+  15,R,U,X
+   6,R,U,C
+   1,J
+   7
    5,R
   12,R,U,X
   40
 
 #lvl_c-06
-   9,R
-   1,J,G
-   6,R
+  11,R
+  15,R,Z
    1,L,N
-  10,L,J
+   3,L,J
+  10,R,D,X
+   1,R,J
+   1,L,K
+   7,L,J
+  10,R,Z
+   1,L,K
+   4
+   1,K
   15,U,X
-  29,R,Z
+  15,R,Z
+  14,R,D
   41
    2,L
   16,L,U,X
@@ -1013,4 +1020,4 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    1,K
  110,R,D,X
 
-ChapterTime: 2:01.686(7158)
+ChapterTime: 2:01.312(7136)
