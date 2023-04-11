@@ -1,4 +1,4 @@
-RecordCount: 2679
+RecordCount: 2737
 
 console load StrawberryJam2021/4-Expert/QuantumSpaceman
    1
@@ -68,14 +68,23 @@ console load StrawberryJam2021/4-Expert/QuantumSpaceman
   12,J,G
   25,R,G
   17,R
-  12,R,J
-   5,R
-  14,R,D,X
-  25,R,D
-   9
-  33,G
-  20,R,G
-  20,R,U,G
+   4,L,J
+   4,K
+   8,R,U,X
+   1,R,K,G
+  11,R,D
+   1,D
+   4,R,D
+   1,D
+   2,R,D
+   1
+   2,R
+   3,R,D
+
+  21,R
+  35,G
+  18,R,G
+  16,R,U,G
   22,R,G
   15,D
   10,L,D
@@ -86,8 +95,8 @@ console load StrawberryJam2021/4-Expert/QuantumSpaceman
    9,L
   13,R,G
   40,R,G
-  30,R,U,G
-  19,R,G
+  31,R,U,G
+  18,R,G
    1,L
    8,R
   10,R,D,X
@@ -399,13 +408,13 @@ EndStunPause
   14,R,U,X
    1,R
   14,R,D,X
- 114,R,G
+ 113,R,G
   20,R,U,G
   30,U,G
-  17,L,U,G
+  15,L,U,G
    3,L
-  13,L,D,X
-   5,R,J
+  14,L,Z
+   4,R,J
   40,R,J,G
 
 # deathwarp route
@@ -544,4 +553,4 @@ EndStunPause
 
   14,U,X
  125
-ChapterTime: 2:00.445(7085)
+ChapterTime: 2:00.292(7076)
