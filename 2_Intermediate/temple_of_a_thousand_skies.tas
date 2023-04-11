@@ -1,4 +1,4 @@
-RecordCount: 2261
+RecordCount: 2284
 
 console load StrawberryJam2021/2-Intermediate/Ice
    1
@@ -755,9 +755,8 @@ endstunpause
   18,L,J
    6,R,J
    5,D,X
-  20
-  13,J
+  11
+  17,J
   15,U,X
- 135
-
-ChapterTime: 1:59.357(7021)
+ 137
+ChapterTime: 1:59.306(7018)
