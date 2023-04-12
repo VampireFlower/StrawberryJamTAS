@@ -1,6 +1,6 @@
 #draft: He2D, EllaTAS, abiteofdata, Lanvilla
 
-RecordCount: 23845
+RecordCount: 23931
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -707,28 +707,29 @@ EndRepeat
    3
    5,R,U,X
    9
-   1,L,G
-  40,L
-  15,G
-   3,R
-  15,R,J
-   7,J
-   5,U,X
-  38
-   9,L,D
-  32,R,D
-  14,R,X
-   4,R,J
-  18,L,C
+   7,R,J
+   2,R
+  10,J
+  30
+   6,D
+  15,U,X
+   6,L
+  19
+  35,R
+   4,R,D
+   5,R
+  18,L,X
    4,R,Z
-   2,R,J
+   1,R,J
    1,R,K,G
    1,R,J,G
    1,R,K,G
-   7,R,J,G
-  15,R
+   8,R,J,G
+   8,R
+   4,R,J
+  10,R
   15,R,D,X
-  29,R
+  26,R
  349
 
 #lvl_c0-Divinity
@@ -2128,7 +2129,7 @@ Set CelesteTAS.SimplifiedBackdrop false
   15,R,D,X
   64
 #spinner cycle
-   0
+   1
    5,R,U,Z
   10
    1,L,J,G
@@ -2626,4 +2627,4 @@ Repeat 34
    2,L,D
 Endrepeat
 
-ChapterTime: 7:35.328(26784)
+ChapterTime: 7:34.767(26751)
