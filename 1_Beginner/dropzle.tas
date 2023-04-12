@@ -1,4 +1,4 @@
-RecordCount: 997
+RecordCount: 1040
 
 console load StrawberryJam2021/1-Beginner/Owen-Shirrell
    1
@@ -175,22 +175,21 @@ console load StrawberryJam2021/1-Beginner/Owen-Shirrell
   15,R,Z
   14,R
    6,R,D
-  11,D
+   8,D
    1,R,D
-   1,D
+   4,D
+ 
   17,L,D
    4,L,Z
    1,L,J
-   7,L
+   3,L
+   1,L,J
+   3,L
   12,L,J
-  12,K,G
-   8,J,G
-   5
-   1,J
-  32,D
-   1,R,D
-   3,D
-   4,R,D
+  12,L,K,G
+  11,J,G
+  15,D,C
+  20,D
    5,L,D,X
    1,L,J,G
   19,L,G
@@ -251,21 +250,22 @@ console load StrawberryJam2021/1-Beginner/Owen-Shirrell
   14,L,Z
    1,L,J
    7,L
-   1,L,J
-  18,L
+   5,L,D,J
+   2,J
+   8,D
    1,L,D
-   1,R,D
-   9,D,X
+  20,D
   40
 
 #lvl_10 - Downfall
-   8,L,D
+   7,L,D
    5,L,Z
    1,L,J
    9,L,D
   15,L,D,X
-  10,D
+   4,D
+   6,L,D
   15,D,X
    5,D
  135
-ChapterTime: 0:35.343(2079)
+ChapterTime: 0:35.292(2076)
