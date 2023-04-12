@@ -1,4 +1,4 @@
-RecordCount: 771
+RecordCount: 997
 
 console load StrawberryJam2021/1-Beginner/Owen-Shirrell
    1
@@ -189,24 +189,47 @@ console load StrawberryJam2021/1-Beginner/Owen-Shirrell
    1,J
   32,D
    1,R,D
-   1,D
+   3,D
    4,R,D
    5,L,D,X
-   1,R,J
-   6
-   1,J
-  10,R
-  15,R,U,Z
-  11
-  17,R,D
-  14,R,D,X
-   1,R,J
-   7,R
-  11,R,J
-   5,R
-   3,R,J
-   2,R
+   1,L,J,G
+  19,L,G
+   2,L
+   1
+   1,L
+   8,L,G
+   2,L,D,G
+   2,L,G
+   1,L,D,G
+   1,L,G
    3
+   2,L,D
+   1,L
+   1,J
+   1,K,G
+   1,J,G
+   4,J
+   1
+   2,R
+   1,R
+   1,R
+   1,L,K,G
+   1,R,K
+   1,K
+   1
+   1,R,K
+  10,D,X
+   1,L,D
+   1,J
+   1,L,K,G
+   1,R,K
+   5,R
+   1,R,J
+   3,R
+   1,R,J
+   7
+   2,R
+   2
   15,U,X
   15,U,C
   15,U,X
@@ -217,7 +240,9 @@ console load StrawberryJam2021/1-Beginner/Owen-Shirrell
    2
    1,L
    2,L,J
-   7,L
+   4,L
+   2
+   1,L
   15,D,X
   18,D
    1,L,D
@@ -226,22 +251,21 @@ console load StrawberryJam2021/1-Beginner/Owen-Shirrell
   14,L,Z
    1,L,J
    7,L
-   2,L,J
+   1,L,J
   18,L
    1,L,D
    1,R,D
-   5,D
-   2,L,D
+   9,D,X
   40
 
 #lvl_10 - Downfall
-   7,L,D
-   6,L,Z
+   8,L,D
+   5,L,Z
    1,L,J
-  23,L,D
-   7,D
-   2,L,D
+   9,L,D
+  15,L,D,X
+  10,D
   15,D,X
-   2,D
+   5,D
  135
-ChapterTime: 0:35.445(2085)
+ChapterTime: 0:35.343(2079)
