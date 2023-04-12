@@ -1,9 +1,8 @@
 #by Topaz, Celerity
-RecordCount: 5904
+RecordCount: 5908
 
 console load StrawberryJam2021/5-Grandmaster/Soloiini
    1
-
 #Start
 #lvl_All Aboard
    9,R,J
@@ -71,13 +70,13 @@ endrepeat
   40
 
 #lvl_Crumbling Bastions
-   3,R,D,X
+   6,R,D,X
    1,R,J
   14,R,D,X
    1,R,J
   14,R,D,X
    1,R,J
-  11,R,D,X
+   6,R,D,X
    1,R,J
    7,R
   15,R,J
@@ -1240,6 +1239,6 @@ Endrepeat
   85
   14,R,Z
    1,R,J
-  15,L,U,X
- 124
-ChapterTime: 3:30.443(12379)
+   5,L,U,X
+ 134
+ChapterTime: 3:30.409(12377)
