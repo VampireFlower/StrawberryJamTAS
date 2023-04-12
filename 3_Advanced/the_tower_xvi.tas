@@ -459,8 +459,7 @@ EndRepeat
   12,R,J
   34,R
    1,D
-   1,R,D
-   1,R,D
+   2,R,D
    1,J,G
   10,R,J
    1,L,J
@@ -489,8 +488,12 @@ EndRepeat
    7,R,J
    7,R
    1,R,J
-  14,R
-  20,R,J
+   7,R
+   2,R,J
+   1,R
+   1,R,J
+   4,R
+  19,R,J
   12,K,G
    2,J,G
    1,L,J
@@ -503,7 +506,7 @@ EndRepeat
    1,K,G
    3,L,K
   10,K,G
-  37,U,X
+  36,U,X
    6,U,C
   40
 
@@ -516,4 +519,4 @@ EndRepeat
   14,U,X
  135,R
 
-ChapterTime: 1:05.280(3840)
+ChapterTime: 1:05.263(3839)
