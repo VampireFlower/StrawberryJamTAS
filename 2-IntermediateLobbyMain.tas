@@ -11,93 +11,111 @@ EnforceMaingame
 Read,2_Intermediate_Lobby/int_0-1,Start
 Read,EnterLevel,Start
 Read,2_Intermediate/frosted_fragments,Start
-  92
+   1,O
+  32
 
 Read,2_Intermediate_Lobby/int_1-2,Start
 Read,EnterLevel,Start
 Read,2_Intermediate/low-g_botany,Start
-  92
+   1,O
+  32
 
 Read,2_Intermediate_Lobby/int_2-3,Start
 Read,EnterPostcard,Start
 Read,2_Intermediate/pointless_machines,Start
-  92
+   1,O
+  32
 
 Read,2_Intermediate_Lobby/int_3-4,Start
 Read,EnterLevel,Start
 Read,2_Intermediate/deep_blue,Start
-  92
+   1,O
+  32
 
 Read,2_Intermediate_Lobby/int_4-5,Start
 Read,EnterPostcard,Start
 Read,2_Intermediate/midnight_monsoon,Start
-  92
+   1,O
+  32
 
 Read,2_Intermediate_Lobby/int_5-6,Start
 Read,EnterLevel,Start
 Read,2_Intermediate/pufferfish_transportation,Start
-  92
+   1,O
+  32
 
 Read,2_Intermediate_Lobby/int_6-8,Start
 Read,EnterLevel,Start
 Read,2_Intermediate/supernautica,Start
-  92
+   1,O
+  32
 
 Read,2_Intermediate_Lobby/int_8-10,Start
 Read,EnterLevel,Start
 Read,2_Intermediate/honeyzip_inc,Start
-  92
+   1,O
+  32
 
 Read,2_Intermediate_Lobby/int_10-9,Start
 Read,EnterLevel,Start
 Read,2_Intermediate/fifth_dimension,Start
-  92
+   1,O
+  32
 
 Read,2_Intermediate_Lobby/int_9-7,Start
 Read,EnterLevel,Start
 Read,2_Intermediate/sleeping_under_stars,Start
-  92
+   1,O
+  32
 
 Read,2_Intermediate_Lobby/int_7-0,Start
 Read,2_Intermediate_Lobby/int_0-12,Start
 Read,EnterLevel,Start
 Read,2_Intermediate/sea_of_soup,Start
-  92
+   1,O
+  32
 
 Read,2_Intermediate_Lobby/int_12-13,Start
 Read,EnterLevel,Start
 Read,2_Intermediate/in_filtration,Start
-  92
+   1,O
+  32
 
 Read,2_Intermediate_Lobby/int_13-14,Start
 Read,EnterLevel,Start
 Read,2_Intermediate/the_tower,Start
-  92
+   1,O
+  32
 
 Read,2_Intermediate_Lobby/int_14-11,Start
 Read,EnterLevel,Start
 Read,2_Intermediate/vertigo,Start
-  92
+   1,O
+  32
 
 Read,2_Intermediate_Lobby/int_11-15,Start
 Read,EnterLevel,Start
 Read,2_Intermediate/eat_girl,Start
-  92
+   1,O
+  32
 
 Read,2_Intermediate_Lobby/int_15-16,Start
 Read,EnterLevel,Start
 Read,2_Intermediate/construction_conundrum,Start
-  92
+   1,O
+  32
 
 Read,2_Intermediate_Lobby/int_16-17,Start
 Read,EnterLevel,Start
 Read,2_Intermediate/temple_of_a_thousand_skies,Start
-  92
+   1,O
+  32
 
 Read,2_Intermediate_Lobby/int_17-18,Start
 Read,EnterLevel,Start
 Read,2_Intermediate/square_the_circle,Start
-  92
+   1,O
+  32
 
 Read,2_Intermediate_Lobby/int_18-19,Start
 Read,EnterHeartSide,Start
