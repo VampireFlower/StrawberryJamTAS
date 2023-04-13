@@ -1,4 +1,4 @@
-RecordCount: 2470
+RecordCount: 2471
 
 console load StrawberryJam2021/3-Advanced/Maladroit
    1
@@ -36,7 +36,8 @@ console load StrawberryJam2021/3-Advanced/Maladroit
   17,R,G
   34,L,G
   34,L,U,G
-  43,R,G
+   1,G
+  42,R,G
  107,R,U,G
    1,R
   21,R,U,X
