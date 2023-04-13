@@ -1,12 +1,13 @@
-RecordCount: 2272
-
-#console wipedebug
+RecordCount: 2882
 
 console load StrawberryJam2021/4-Expert/rdoggo8
    1
 
 #Start
  190
+
+# Move the silver berry out of the way
+#Set SilverBerry[a-01:1134].Position 0 0
 
 #lvl_a-01
    4,R,J
@@ -23,17 +24,15 @@ console load StrawberryJam2021/4-Expert/rdoggo8
   11,K
    8,R,Z
    1,R,J
-   6,R
-  23,R,J
-   5,U,X
-  10,R
+   7,R
+  22,R,J
+  15,U,X
   33,R,G
    1,L
    5
    5,L,U,X
   11,L
-  10,L,G
-  27,L,G
+  37,L,G
    1,R
   36,L,D
   12,D
@@ -47,15 +46,17 @@ console load StrawberryJam2021/4-Expert/rdoggo8
   41,R,G
    1,R
   21,R,D
-  15,U,X
-  21,G
+  14,U,X
+  21,L,G
    1,L
-  13
+   3
+   8,R
    9,U,X
-  21,R,G
+  22,R,G
    1,L
-  36,R
-   6,R,Z
+  32,R
+   3,R,D
+   5,R,Z
    1,R,J
    7,R
    6,R,J
@@ -182,7 +183,9 @@ console load StrawberryJam2021/4-Expert/rdoggo8
    1,R,J
   12,R,D,X
   23,R,J
-  43,U
+  16
+  15,U,X
+  12
   14,U,X
   24,R,G
    1,L
@@ -192,7 +195,7 @@ console load StrawberryJam2021/4-Expert/rdoggo8
    5,R
   40
 
-#lvl_a-06 (0)
+#lvl_a-06(0)
    1,R
    2,R,J
    9,R
@@ -218,8 +221,7 @@ console load StrawberryJam2021/4-Expert/rdoggo8
   40
 
 #lvl_a-07
-   3,R
-   4,R
+   7,R
    1,R,J
   14,R,D,C
   14,R,X
@@ -227,15 +229,16 @@ console load StrawberryJam2021/4-Expert/rdoggo8
    4,R,G
    1,R
   13,R,D
-  22,D
-  11,R,D
+  21,D
+  10,R,D
+   2,D
   15,L,X
-  29,D
-  13,L,D
+  19,R,D
+  23,L,D
   15,L,X
-  39,U,C
-   5,L
-  32,L,X
+  39,U,Z
+   4,L
+  31,L,X
    4,R,G
   25,D,X
    3,R
@@ -243,18 +246,6 @@ console load StrawberryJam2021/4-Expert/rdoggo8
   15,R,Z
   14,D
   11,R,D
-#   9,R,U,X
-#   1,J
-#   1,L,J
-#   4,L
-#  15,U,X
-#   8,L
-#  10,L
-#  25
-#  11,D
-#  24,R,D
-#  18,R,X
-#  50,R,C
   15,U,X
   18,U,C
    4,R
@@ -275,7 +266,7 @@ console load StrawberryJam2021/4-Expert/rdoggo8
    7,L
   40
 
-#lvl_a-06 (1)
+#lvl_a-06(1)
    4,L,J
   15,D,X
   15,L,C
@@ -286,78 +277,63 @@ console load StrawberryJam2021/4-Expert/rdoggo8
   14,L,J
   13,L,D,X
    1,L,J
-   8,L
-  30
-#can probably get way more speed
-   7,K
-  14,L,Z
+   7,L
+  29
+   9,J
+   8,L,Z
    1,L,J
-   5,L
-  14,L,D,X
+   2,L
+   3
+   7,L
+  14,L,Z
    1,R,J
-   7,R
-   1,R,J
-   3,R
-   5,R,D,X
+   6,R,D,X
    1,R,J,G
-  11,R
-#   9,R,J
-#   5,R
-#   2,R,J,G
-#   6,R,D,X
-#   1,R,J
-#   7,R
-#   1,R,J
-#   2,R
-#  40
+  10,R
    1,R,J
-   5,R
-   3,R,J
-   9,R,U,Z
-   3,R,J,G
+   1,R,K,G
+  11,R
+  11,R,J
    4,R,K,G
-   6,R,J,G
-   2,R
+   2,R,J,G
+   5,R
+   1
+   8,R,U,Z
   40
 
 #lvl_a-08
-   8,R,U,X
+   5,R,U,Z
+   2,R,J,G
+   9,R,X
+  16,R,G
    1,J,G
-   7,R
-   4,R,Z
-   1,R,J
-   1
-  11,R
-  13,G
-   8,R,J,G
-   9,R,G
-  16,R,U,J,G
+  12,R,J,G
+   7,R,G
    7,R
   14,U,X
-  43,R,G
-   3,D
-   4,R
+  33,R,G
+   1,R,D
+   7
+   2,R
    1
    1,R
-  12,U,X
+   9,U,X
   33,R,G
   11,D
    1,R
    9,U,X
-  26,R,G
-   3,R,G
+  30,R,G
    1,R
-  12,R,U,Z
-   6
-   5,U,X
+  11,R,U,X
+   7
+   5,U,C
   27,R,G
   10
   11,U,X
   30,R,G
    1,L
-  10,R,J,G
-   1
-   1,J,G
+  12,R,J,G
+   1,K,G
    7
   15,U,X
    1,J,G
@@ -452,19 +428,11 @@ console load StrawberryJam2021/4-Expert/rdoggo8
   25,L,G
    1,L
   15,U,X
-   8,R
-   7,R
+  15,R
    5,R,X
   30,R,G
    4,L,G
   33,U,X
-#  31,L,G
-#  14,L
-#   3,L,D
-#  15,L,Z
-#  16,L
-#   4,L,D
-#  50,L,D,X
   21,L,G
   21,L
   15,L,X
@@ -520,26 +488,26 @@ console load StrawberryJam2021/4-Expert/rdoggo8
   15,R,D,X
   15,R,C
    4,F,80
-  13,U,Z
+  13,U,X
    1,R,J
    1,R,K
-   1,R,J,G
-  11,R
-  15,D,X
-   2,R,D
+   3,R,J,G
+   6,R
    1,R,J
-   7,R,D
-  10,D,X
+   6,R
+  15,D,X
+  13,R,D,C
   40
 
 #lvl_a-12
-   5,D,X
-  12,R,D
-   4,R,Z
-   2,R,J
-   2,R
-   2,R,J
+   3,L,D
+  15,R,D
+   5,R,Z
+   1,R,J
+   1,R
+   1,R,J
    6,R
+   1
   10,R,D,X
   40,R
   38,R,U,J,G
@@ -607,10 +575,13 @@ console load StrawberryJam2021/4-Expert/rdoggo8
    8
    4,R,Z
    1,R,J
-   6,R
-   4,R,J
-  15,R,U,X
-   4,R
- 135
+   1
+   5,R
+   7,R,J
+  27,R,U,X
+  71,D
+   1,L,Z
+   1,L,J
+  50,L
 
-ChapterTime: 1:51.299(6547)
+ChapterTime: 1:50.602(6506)
