@@ -1,4 +1,4 @@
-RecordCount: 2722
+RecordCount: 2727
 
 console load StrawberryJam2021/1-Beginner/Quinnigan
    1
@@ -221,7 +221,7 @@ EndStunPause
   36,R,G
   80,R,U,X,G
   16,R,D,G
-  30,R,G
+  29,R,G
    1,R
   18,D
 # 2f faster but need to wait for the rose
@@ -233,7 +233,7 @@ EndStunPause
 #   7,R
 #   3,R,J
 #  11,R,D,X
-  33,R,D
+  32,R,D
   14,L,D,X
    1,R,J
   14,R,D,X
@@ -241,7 +241,7 @@ EndStunPause
   11,R,D,X
    9,R
   13,U,C
-  36,R
+  37,R
   50,R,G
   56,R,D,G
    6,R,G
@@ -397,4 +397,4 @@ EndStunPause
   14,U,X
  135
 
-ChapterTime: 1:16.687(4511)
+ChapterTime: 1:16.670(4510)
