@@ -1,4 +1,4 @@
-RecordCount: 6890
+RecordCount: 7050
 
 console load StrawberryJam2021/4-Expert/Vina
    1
@@ -274,53 +274,55 @@ console load StrawberryJam2021/4-Expert/Vina
    2,R,J
   15,R,D,X
   27,R
-  13,L
+   8,L
+   2
+   1,L
+   2
   15,U,X
   15,L,U,C
    7
   45,R
   15,R,U,Z
-  43,R
+  43,R,D
   19,R,D,X
-  29,R,J
-  18,U,X
-  10,R
-  14,R,X
-  16,R,J
+  26,R,J
+  15,U,X
+  11,R,C
+  12,R,J
+   3,J
+   2,R,J
   15,U,X
   12,L,C
   22,L,J
   18,U,X
   11,L
   15,L,D,X
-  53,L
+  40,L
   18,L,U,X
-  15,U,C
-  13,L
+  22,L,U,C
+  11,L
   14,L,D,X
-  20,L,J
-  19,L,U,X
-  39,R
+  18,L,J
+  20,L,U,X
+  40,R
   15,R,U,Z
    1,L
   18,L,U,C
-  18,L,X
-  48,R
-   6
-   4,R
-  12,R,D
-  19,R
-  22,R,Z
-  27,R,V
-   4,R,Z
-   3,R,J
-   8,R
-  12,R,J
-   3,R
+  17,L,X
+  56,R
+  23,R,U,X
+  42,R,U,C
+  13,R,D
+   8,R,Z
+   1,R,J
+  10,R
+   1,R,J
+   1,R,K
+  13,R,J
   15,U,X
-  12,J
-   6,R,J
-  10,R,K,G
+  13,J
+   5,R,J
+  11,K,G
   40
 
 #lvl_Vina-06
@@ -496,23 +498,6 @@ console load StrawberryJam2021/4-Expert/Vina
    2
   18,L
   21,U,X
-#...
-  #17
-  #17,U,X
-  #38,R
-#  15,U,X
-#  10,J,G
-#   6,K,G
-#  12,R,K
-#   4,L,K
-#   3,L,J
-#  16,L
-#  10,R,X
-#  26,L,J
-#console evalcs Engine.Scene.Remove(Engine.Scene.Entities.FindAll<Celeste.Mod.StrawberryJam2021.Entities.FloatingBubble>()[0]);
-#  15,L,U,X
-#  19,L,J
-#  10,R
   42,R
   22,R,Z
    4,R,V
@@ -651,7 +636,6 @@ console load StrawberryJam2021/4-Expert/Vina
   12,L,D,J
    9,U,X
    3,L,J
-
   40
 
 #lvl_Vina-09
@@ -681,4 +665,4 @@ console load StrawberryJam2021/4-Expert/Vina
   19,L,U,Z
  134
 
-ChapterTime: 1:57.929(6937)
+ChapterTime: 1:57.538(6914)
