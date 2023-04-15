@@ -1,4 +1,4 @@
-RecordCount: 3646
+RecordCount: 3742
 
 console load StrawberryJam2021/3-Advanced/MousseMoose
    1
@@ -26,48 +26,38 @@ console load StrawberryJam2021/3-Advanced/MousseMoose
   40
 
 #lvl_intro_a1
-  13,R
-  10,R,D,X
+  10,R,J
+   5,R
+   3,R,J
+  15,R,D,X
+   5,R,D
+   1,D
+   1,R,D
+  15,R,D,X
+   3,R
    1,R,J
-
-# 3 versions for the
-# 3 spinner cycles
-# use whichever works
-##################
-
-  19,R,D
-
-#-----------------
-
-#  20
-
-#-----------------
-
-#  19,R,D
-#   2,R,G
-
-##################
-
-   1,R,G
-  26,R,J
-  13,R,Z
-   2,R,J
-  12,R,D,X
-   1,R,J
-   8,R
-  18,D,X
-  20,R
-  10,R,D
-  35,L,D
-   8,D
-  33,L,D
+   5,R
+   2,R,K
+  11,R
+  15,D,X
+   3,R
+  11,R,D
+   5,R
+   3,R,D
+  20,D
+  20,L,D
+   6,D
+   1,L,D
+   2,D
+  31,L,D
    1,S
    1,D,J
   34
    5,L,Z
    6,L,J
   11,L
-  26,D,Z
+  25,D,Z
+   1,R,D
   60
 
 #lvl_a1
@@ -648,11 +638,12 @@ endrepeat
   14,R
    1,R,J
   19,R,D
-  10,R
-   4,R,J
+   5,R
+   4,R,D,J
+   3,R
    1,R,K
   14,R,J
    5,X
  135,R,X
 
-ChapterTime: 1:55.787(6811)
+ChapterTime: 1:55.192(6776)
