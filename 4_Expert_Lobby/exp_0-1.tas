@@ -3,16 +3,17 @@ console load StrawberryJam2021/0-Lobbies/4-Expert
 
 #Start
  190
-  10,L,D,X
-  10,L,J
-  11,L
+   1,R,J
+  14,L,Z
+   7,L,J
+   8,L
   14,L,Z
    1,L,J
   14,L,U,X
    3,L,J,G
   12,L,K,G
-   9,L,J,G
-   9,L,K,G
+   8,L,J,G
+  10,L,K,G
   10,L
    2
   10,L,X
@@ -20,27 +21,33 @@ console load StrawberryJam2021/0-Lobbies/4-Expert
    1,L,K,G
    2,R,K
   27,L,K
-  12,L,J,G
+  11,L,J,G
    2,K
-  15,U,X
+  16,U,X
   21,L,J
    1,L,K,G
    3,R,K
    1,R
-  12,L
-  10,L,X
-   3,J
-   3,L,J
-  14,L,U,X
-  12,L,J,G
-  10
-   2,L
-   4,L,Z
-   1,L,J
-   8,L,K,G
+   5
    6,L
+  10,L,X
+   5,L,J
+   1
+  14,L,U,X
+   2,J,G
+   1
+  10,L,K,G
+   5,L,J,G
+   1,L
+   3,L,K,G
+  10,L
    1,L,J
-   8,L
-  14,L,D,C
-   1,N
-#0:04.862(286)
+   7,L,D,X
+   1,L,J
+   7,L
+   1,L,J
+   5,L,D,X
+   1,L,J
+   6,L
+   1,L,N
+#0:04.743(279)
