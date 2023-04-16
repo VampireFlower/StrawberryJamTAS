@@ -1,4 +1,4 @@
-RecordCount: 2457
+RecordCount: 2663
 
 console load StrawberryJam2021/2-Intermediate/GlowWoomii
    1
@@ -18,7 +18,7 @@ console load StrawberryJam2021/2-Intermediate/GlowWoomii
    1,R,K,G
   20,R
    4,R,D
-   6,R,Z
+   6,R,D,X
    1,R,J
    7,R
    1,R,J
@@ -305,31 +305,27 @@ console load StrawberryJam2021/2-Intermediate/GlowWoomii
   40
 
 #lvl_rhub(3)
-  14,R,D,X
-   6,R,J
-   2,R
-   1,R,K,G
-   8,R,U,X
-   1,R,J,G
-  11,R
+   8,R,D,X
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+  11,R,J
+  15,R,X
+   5
+  14,L,Z
    1,R,J
    1,R
-  38,R,D,X
-  21,D
-   7,L,Z
-   1,L,J
-   6,L
-   1,L,J
-  14,L,D,X
-   1,L,J
-   9,R,D
-  37,R,D,X
-   6,R,Z
+  59,R,D,X
    1,R,J
-   7,R
-   2,R,J
-  28,R,D,X
-  19,L,D
+  16,R
+  37,L,D,X
+   4,Z
+   1,L,J
+   7,L
+   3,L,J
+  29,L,D,X
+  19,R,D
  172,U,X
   12,L,U,C
   40
@@ -351,6 +347,26 @@ console load StrawberryJam2021/2-Intermediate/GlowWoomii
    7,R
    5,R,J
   28,R,D,X
+#+6f bino storage
+#   1,J
+#  10
+#  12,D
+#   7,R,D
+#   1,R,D,N
+#   1,R
+#   2,R,D
+#   9,R,Z
+#   1,R,J
+#   7,R
+#  14,R,J
+#   7,R,G
+#   1,R,J,G
+#   8,R
+#   1,R,J
+#  11,R
+#  15,R,Z
+#  11,R
+###
    1,J
   10
   15,D,X
@@ -428,6 +444,6 @@ console load StrawberryJam2021/2-Intermediate/GlowWoomii
   85,R,D
    1,L,Z
    1,L,J
-  48,L
+  48
 
-ChapterTime: 1:06.181(3893)
+ChapterTime: 1:06.164(3892)
