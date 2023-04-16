@@ -1,4 +1,4 @@
-RecordCount: 3742
+RecordCount: 4189
 
 console load StrawberryJam2021/3-Advanced/MousseMoose
    1
@@ -96,70 +96,62 @@ console load StrawberryJam2021/3-Advanced/MousseMoose
   13,L,J
   14,L,Z
    1,L,J
-   7,L
-   3,L,J
-  25,L,U,X,G
+  12,L,D,X
+   1,L,J
    1
-  12,J,G
-  18
-   3,J,G
-  24,L
-   2,J
-   2
-  14,L,Z
-  10,L,J
-   1,L,K,G
-  12,L,J,G
-   8,L
-  10,L,Z
-  18,L,J
+   6,L
+   2,L,D
+   6,L,J
+   5,L
+   3,L,J
+  10,U,X
+   5,L,J
+  12,L
+   4,L,Z
+   1,L,J
+   7,L
+   1,L,J
+   4,J
 
 #lvl_a2
-  13,R,D,X
+  14,R,D,X
    1,R,J
-  32
-   4,R,D
-  14,R,Z
-   9,R
+   4,R
+  15,R,D,X
+   7,R,D
+   4,R
+   3,R,D
   18,R,U,X
-  11,R,U,Z
-   1,R,J,G
-   2,L,J
-  26,L
-  22,G
-   5,U,G
-   1,R,J
-  25,R,K
-  21,R
+   9
+  14,R,C
+   1,L,J,G
+   8,R,J
+  28,R
+   3,D
   15,R,Z
-  19
-   1,G
-  10,J,G
-   2
-   5,K,G
+   3
+   1,J,G
+  10,R
+  10,R,Z
+  11,R,J
+   4,R
+   4,R,K
+   2,R
+   4,R,J,G
    7,R
-  15,D,X
-   2
-   4,R,Z
-   1,R,J
-   7,R
-   5,R,J
-  14,R
-   3,R,J,G
-   6,R
-   1
-  14,R,U,Z
-   3,R,J,G
-  22,R,D
-   9,L,D
-  11,L,J
-   3,L
+  14,R,U,X
+   4,R,J,G
+  23,R,D
+   8,L,D
+  10,L,J
+   3,K
+
    1,J,G
    5,L,J
    6,R,J
   15,R,Z
-  15,D
-  11,R,D
+  17,D
+   9,R,D
   11,D
   10,R,Z
   12,R,J
@@ -168,29 +160,41 @@ console load StrawberryJam2021/3-Advanced/MousseMoose
   15,U,C
   15,R,X
   10,R
-  10,R,C
-  12,R,J
+  15,D,X
+
+# can probably combine
+# with next wait
+# to get in extra dash
+   5
+
+   4,R,Z
+   1,R,J
+   4,R
+   1
+   2,K
+   3,R,D,J
 
 #lvl_a3
-repeat,3
+  10,R,D,X
+   1,R,J
+   6,R,K,G
+  15,R
+
+Repeat 3
   14,D,X
    1
-endrepeat
-  11
+EndRepeat
 
-  17,L,D,X
-  15,R,D,C
-  14,R,Z
-   1,R,J
-   4,J
-  25,L
+# can probably combine
+# with previous wait
+# to get in extra dash
+  12
 
-  13
    7,L,J
-  35,R,J
+  46,R,J
   15,R,U,X
-  32,R,D
-  11,D
+  20,R
+  27
    7,R,J
   14,U,X
   11,R,J
@@ -211,9 +215,10 @@ endrepeat
   13,U,X
    1,R,J
    1,R,K,G
-   2,L,K
-   5,L
-   3,L,J
+   3,L,K
+   4,L
+   2,L
+   1,L,J
    2,L,K,G
    5,L
    1,L,J
@@ -646,4 +651,4 @@ endrepeat
    5,X
  135,R,X
 
-ChapterTime: 1:55.192(6776)
+ChapterTime: 1:51.265(6545)
