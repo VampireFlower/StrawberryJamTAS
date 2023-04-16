@@ -234,44 +234,48 @@ console load StrawberryJam2021/5-Grandmaster/alisticious
    1
    6,R
    3,R,D
-  56,L
+  55,L
+   1,L,D
    5,L,Z
-  17
+   8
+   1,U
+   1
+   1,L,D
+   6
    1,L,D
    1
-   8,R
-  13,L,Z
-   2,R,J
-   5,R,U,Z
-   7,U
-   1,R
+  11,R
+   5,U,X
    1
-  10,R
-  33,L
+  23,R
+   8
+  18,L
    5,L,U,Z
-   5,U
-   3,L
-   1
-   8,L
-   2,L,D
-  13,L
-   5,L,U,Z
+   3,U
    3
+   2,L
+   2
+   7,L
+   2,L,D
+  11,L
+   5,L,U,Z
+   2,L
    1,U
-   6
+   1
+   6,U
+   1,L
    4,L,X
    1,L,U
   13,U
-   2,R,U
-   4
-   1,J,G
-   5
-   2,L
-   5,U,X
-   1,L
-   2
    1,R,U
-  12
+   1,L,U
+   1
+   2,L,U
+   2,R,J,G
+   3
+   3,L
+   1
+  21,U,X
   40
 
 #lvl_a-04a
@@ -592,4 +596,4 @@ EndStunpause
   31
    8,L,D,C
   64,D
-ChapterTime: 0:51.680(3040)
+ChapterTime: 0:51.476(3028)
