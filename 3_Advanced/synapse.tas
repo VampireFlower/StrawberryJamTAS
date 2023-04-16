@@ -1,4 +1,4 @@
-RecordCount: 4189
+RecordCount: 4385
 
 console load StrawberryJam2021/3-Advanced/MousseMoose
    1
@@ -66,34 +66,51 @@ console load StrawberryJam2021/3-Advanced/MousseMoose
    7,R
    4,R,J
   10,R
-  14,U,X
-   2,R
+  15,U,X
+   1,R
    2,R,J
    8,R
    5
-   4,L,J
-  14,U,X
-   3
-   4,L
+   4,J
+  15,U,X
+   5,L
+   1,R,J,G
+   1,L,J
    1,J
-  24,R,J
-   3,R
-   1,R,K
-  14,K
-  14,U,X
-   3,R
-  22,R,J
+   1,L,J
+   1,J
+   1,L,J
+   1,J
+   1,L,J
+   1,J
+   1,L,J
+   1,J
+   7,R
+   2,R,J
+  13,J
+  15,U,X
+   2,R
+  21,R,J
    1,R,K,G
    5,R
-   3
-  12,L,J
-  14,U,X
-   9,L,J
-  12,L,K,G
-  12,L,J,G
-  10,L,K,G
+   1,R,K
+   1,K
+   1
+## Wait for cycles
+   7
+## 
+   8,L,J
+  13,J
+  15,U,X
+   9,L
+  12,J,G
+  12,K,G
+   1,L,J,G
+   2,R,J
+   4,J
    7,L
-  13,L,J
+   9,L,J
+   3,J
   14,L,Z
    1,L,J
   12,L,D,X
@@ -101,9 +118,8 @@ console load StrawberryJam2021/3-Advanced/MousseMoose
    1
    6,L
    2,L,D
-   6,L,J
-   5,L
-   3,L,J
+   7,L,J
+   6,L
   10,U,X
    5,L,J
   12,L
@@ -145,7 +161,6 @@ console load StrawberryJam2021/3-Advanced/MousseMoose
    8,L,D
   10,L,J
    3,K
-
    1,J,G
    5,L,J
    6,R,J
@@ -179,7 +194,6 @@ console load StrawberryJam2021/3-Advanced/MousseMoose
    1,R,J
    6,R,K,G
   15,R
-
 Repeat 3
   14,D,X
    1
@@ -203,8 +217,8 @@ EndRepeat
    1,K,G
   19,J,G
   47,R,J,G
-  16,R,X
-   1,R
+  15,R,X
+   2,R
    1
    1,G
   10,R,D,G
@@ -223,10 +237,10 @@ EndRepeat
    5,L
    1,L,J
    4,L
-stunpause 
+StunPause
   15,L,D
    1,L,J
-endstunpause
+EndStunPause
    2,L
   11,L,U,X
    2,L,J,G
@@ -391,10 +405,10 @@ endstunpause
   15,J
   16,U,X
   51,J
-repeat, 5
+Repeat 5
   14,D,X
    1
-endrepeat
+EndRepeat
    3,R
   16,R,J
   12,R,K,G
