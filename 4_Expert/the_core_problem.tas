@@ -1,4 +1,4 @@
-RecordCount: 4363
+RecordCount: 4420
 
 console load StrawberryJam2021/4-Expert/Banana23
    1
@@ -316,16 +316,23 @@ console load StrawberryJam2021/4-Expert/Banana23
    2
    2,L
    1,L,D
-  14,L
+  11,L
+   3,L,D
    1,J,G
-   1,J
-  31,R,J
+   2,L
+   1,R
+   5
+   5,R
+   1,R,K,G
+   8,R,J,G
+   7,R
    1,G
    2,J,G
    7,R
    1,G
-  22,R,J,G
-  11,R
+   3,R,J
+  16,J
+  14,R
   31,R,C
   15,D,X
    3,D
@@ -655,4 +662,4 @@ endstunpause
   34,D,X
  138
 
-ChapterTime: 1:39.824(5872)
+ChapterTime: 1:39.773(5869)
