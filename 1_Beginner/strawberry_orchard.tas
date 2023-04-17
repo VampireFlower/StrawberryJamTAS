@@ -1,4 +1,7 @@
-RecordCount: 2002
+# StrawberryJam2021
+# https://gamebanana.com/mods/424541
+
+RecordCount: 3761
 
 #bottlenecks in each room can depend on
 #theo in the clear pipe or Madeline,
@@ -101,22 +104,28 @@ console load StrawberryJam2021/1-Beginner/Jadeturtle
   40
 
 #lvl_a-02y
-  12,R,G
-  20,R,J,G
-  10,R,G
-  29,R,K,G
-  79,R,D,G
+  11,R,G
+   9,R,J,G
+   9,R,G
+   1,R,J,G
+   5,R,G
+   5,G
+  28,R,G
+  19,R,G
+   2,G
+  36,R,G
+  20,R,D,G
    1,R
-   5,R,D
-  19,R,D,X
-  28,R
+   6,R,D
+  18,R,D,X
+  29,R
   11,U,C
   14,R,J
    6,R
    3
    1,R
    1
-  16
+  15
    1,J
   10
    6,L
@@ -127,80 +136,104 @@ console load StrawberryJam2021/1-Beginner/Jadeturtle
    1,R
    1,R,J
    7,R,D,X
-  13,R,G
-  14,R,J,G
+  13,G
+  11,R,J,G
+   3,R,G
   40
 
 #lvl_a-03y
-   5,R,J,G
-   1,R
-   9,R,U,X
-  43,R,G
+   2,R,G
+   3,R,J,G
+   1,J
+   9,R,U,Z
+  38,R,G
+   1,R,D,G
    1,R
   15,R,X
-  16,R,D
-   5,R,J
-  12,L,D,X
-   2,R,J
+   6,R
+   1
    1,R
+   8
+   1,R
+   1,R,D
+   1,D
+   8,L,Z
+   1,R,J
+   6,R
+   1,R,J
    5,R,D,X
   13,R,G
-   1,R,J,G
-  11,R,G
+   1,R,J
+   7,R,G
   40
 
 #lvl_a-04z
-   3,R,G
-  24,R,J,G
-   1,R
-  15,R,X
-  27,R
+   7,R,G
+  19,R,J,G
+   1
+  15,R,D,X
+   5,R
 ##theo here, he takes ages
-  10,U,Z
-  55,R,D
-   8
-  11,D,X
-  10,R
-  13,D,X
+  10
+  15,U,Z
+   5,L,U,X
   17,R
-   7,R,X
-  35,R,D,G
-  38,R,D,G
+  15,R,D,X
+  17,R,D
+   1,R
+   6,D,X
+  39
+   6,R,D
+   2,R
+   4
+   2
+   6,R
+  14,R,X
+  25,R,G
+  32,R,G
+   6,R,G
    1,R
   15,R,X
-   9,R,D
-  13,D
+   9,R
+   5
+   7,D
+   1
    9,L,Z
    1,R,J
    6,R
    1,R,J
    5,R,D,X
-   1,R,G
-  13,R,G
-   1,R,J,G
-  10,R,G
+  13,G
+   4,R,J,G
+   4,R,G
+   1,R
+   8,R,U,X
+  13,G
   40
 
 #lvl_a-05z
-   4,R,G
+  12,R,G
   10,R,J,G
-   5,R,G
-   1,R,J,G
-  11,R,G
    1,G
-  17,R,G
-  16,L,G
-  26,R,G
-  35,L,G
-   2,L
-   3,L,K,G
-   1,J
-   5,R,J
-  13,U,X
-  28,U,J,G
+   1,R
+  14,R,U,Z
+  21,R,G
+   1,R
+   8,R,U,X
+   1,R
+   1,R,G
+  13,G
+  31,L,G
+   1,L
+   5,K
+  14,U,X
+  20,G
+   1,R,G
+   1,G
   13,R,G
    1,R
-  24,R,U,X
+  15,R,U,X
+   9,R
    4,R,Z
    1,R,J
   13,R,G
@@ -218,20 +251,32 @@ console load StrawberryJam2021/1-Beginner/Jadeturtle
   15,R,D,X
    1,R,J
    5,R,D,X
-  15,R,G
-  49,R,J,G
+  13,G
+  12,R,J,G
+   5,R,G
+   3,R,J,G
+  18,R,G
+   2,R,D,G
    1,R
-  14,R,U,X
-  31,R,J,G
+   9,R,U,Z
+  30,R,G
+   1,G
+   3,R,G
 ##theo here, by a little bit
-  33,R,G
+  38,R,D,G
    1,R
-  17,R,D
-  58,R,X
-   7,R,C
-  32,R,J,G
-   5,R,D,G
-   1,R,G
+  15,R,D,X
+   2,D
+   5,R,D
+   1,D
+  10,R
+  14,R,U,X
+  18,R
+   4
+   4,R
+   7,R,X
+  36,R,G
+   3,R,D,G
    1,R
    5,L,Z
    1,R,J
@@ -240,9 +285,7 @@ console load StrawberryJam2021/1-Beginner/Jadeturtle
    7,R,K,G
    6,R,D,X
   22,R,J,G
-   6,R,G
-   1,R,J,G
-   1,R,G
+   8,R,G
    8,R,J,G
    8,R,G
    2,R,J,G
@@ -296,151 +339,143 @@ console load StrawberryJam2021/1-Beginner/Jadeturtle
   14,R,U,X
   12,R,J,G
   28,R,D,G
-   5,R,G
-   2,R,D,G
+   2,R,G
+   6,D,G
    1,R
-   5,R,Z
+   1
+   1,L,J
+   4,R,Z
    1,R,J
-   6,R
+   7,R
    1,R,J
    5,R,K,G
-   3,R,J,G
-   2,R,J
-   5,R,D,X
-  21,R,G
    2,R,J,G
+   1,J
+   8,R,D,J,X
+  13,J,G
+   5,R,J,G
+   2,R,K,G
   40
 
 #lvl_a-09z
-  21,R,J,G
+  11,R,K,G
+  11,R,K
+  14,U,X
+  19,R,G
+  22,L,G
+  15,R,G
    1,D
   11,U,X
   25,G
-   4,R,J,G
-  22,L,G
-  16,R,G
-   1,D
-  11,U,X
-  19,U,G
-  10,L,J,G
-  30,L,G
-  19,R,G
-   9,L,G
-  28,R,G
+  29,L,G
+  18,R,G
+   1
+  12,L,U,Z
+  36,R,G
    1,R
-  15,R,X
-  10,R,D
-  12,U,C
-  13,G
-   5,G
-   3,L,G
-  11,R,G
-  26,L,G
+  14,R,U,X
+  35,R,G
+  20,L,G
    1,L
-##pipe entry can be optimized, bottlenecks are about equal
-  14,L,X
- 100
+  11,L,D,X
+   5,L
+  15,L,U,C
+  92
    7,R,D,X
    1,R,J
    7,R
    1,R,J
-   6,R,D,X
-  13,R,G
-   2,R,J,G
-  12,R,G
+   8,R,D,X
+  13,G
+   1,R,J,G
+  11,R,G
   40
-##alternative pipe entry frameties 
-#  14,L,U,X
-#   6,L
-#  94
-#   7,R,D,X
-#   1,R,J
-#   7,R
-#   1,R,J
-#   6,R,D,X
-#  13,R,G
-#   2,R,J,G
-#  12,R,G
-#  40
-##
 
 #lvl_a-11z
   10,R,G
    2,R,J,G
    8,R,G
   17,R,J,G
-   1,R
-  10,R,D
-##theo here
+   9,R
+#theo here
   25,R,X
   16
-   2,R
-   2
-   2,L,D
+   5,D
+   2,L
    1,L,K,G
    3,L,J,G
-  35,L,G
-   4,L,K,G
-   6,L,U,X
-  53,R,G
-   5
-  13,R,X
-  94,R,G
+   7
+   8,G
    1
-   2,L
-  10,R,X
-  65,R,D,G
+   1,K
+  13,J
+  12,L,J
+  49,R,G
+   2,R,D,G
+   1,R,G
+   1
+   4,L
+  15,R,X
+  10,R,U,C
+  37,R,D,G
+   1,R,G
+  47,R,D,G
+   1,D,G
+   1,R,D,G
+   1,R
+  10,R,U,Z
+  51,R,D,G
    1,R
    6,L,D,X
    1,R,J
-   7,R
-   2,R,J
-   9,R,U,X
-  22,R,G
-   1,R,J,G
-   3,R,G
-  18,R,G
+   6,R
+   1,R,J
    1,R
-  22,R,D,X
+   9,R,U,X
+  23,R,G
+   3,R,J,G
+  20,R,G
+   1,R
+   9,R,D,X
+  13,R
   14,R,Z
    1,R,J
    6,R,D,X
-  13,R,G
-   1,R,J,G
-   8,R,G
+  13,G
+   9,R,J,G
   40
 
 #lvl_a-12z
-   6,R,G
-  12,R,J,G
-   1,D
-  10,U,X
-  16,U,G
-   1,L,G
-##bottleneck is madeline, by a lot
-  13,R,G
+   2,R,J,G
+   7,R,G
+   3,R
+  10,L,Z
+   4,R,J
    1,R
-  13,U,Z
-  26,R
-  22,L
-  11,U,X
-  46,R,D
-  13,R,X
-  38,R,D,G
-  14,R,G
+  13,R,U,Z
+  23,R,G
+   1,G
+   1
+  18,L,U,X
+   5,L,D,C
+  13,R
+  20,R,X
+  13,R,C
+   1,R,J,G
+   1,J
+  25,R,J
+  49,R,J,G
    1,R
-  11,L,D,X
-   4,R
-  20,R,D,X
-   9,R
-   1,R,J
-   5
-  14,L,D,X
-   1,R,J
+  15,L,D,X
+  15,R,D,C
+  13,R,D
+   5,R,J
+  13,L,D,X
+   2,R,J
    5,R,D,X
   13,R,G
    1,R,J,G
-  12,R,G
+  10,R,G
   40
 
 #lvl_a-13z
@@ -449,20 +484,19 @@ console load StrawberryJam2021/1-Beginner/Jadeturtle
    1,S
    1,D,J
   34
+   1,R
    5,R,J
    5,R
-   4,R,J
-  10,R
+  13,R,J
   54,L,D,X
-Repeat 6
+repeat, 6
    2,R
    2,L
-EndRepeat
+endrepeat
    5,L,J
-Repeat 9
+repeat, 10
    3,R,J
    3,L,J
-EndRepeat
-   2,R,J
+endrepeat
 
-ChapterTime: 1:12.114(4242)
+ChapterTime: 1:09.972(4116)
