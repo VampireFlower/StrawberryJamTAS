@@ -1,4 +1,4 @@
-RecordCount: 15121
+RecordCount: 15207
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -8,25 +8,30 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
 
 #lvl_Start
 #spinner cycle
-   1
+   0
 #
-   7,L,D,X
+   5,L,D,X
    1,R,J
    3,R
    1,R,J
    3,R
-   3,R,J
-  19,R,D,X
-   7,R,J
+   2,R,D,J
+  15,R,D,X
+   3,R
+   5,R,J
+   2,J
   15,R,D,X
    3,R,J
-  32,R,D,X
+  27,R,D,X
+   5,R
    7,R,J
   15,R,D,X
-   3,R,J
-   1,R
-  16,R,D,X
-   7,R,J
+   2,R,J
+   2,R
+  15,R,D,X
+   2,R,J
+   3,J
+   2,R,J
    9,R,K,G
   12,R,U,X
    3,R,J,G
@@ -41,8 +46,14 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    4,R
    3,R,J
    5,R
-   2,R,J
-  10,R
+   1,J
+   1,R,J
+   2
+   1,R
+   1
+   1,R
+   2
+   3,R
   15,D,X
   11,R,D
    9,J
@@ -2053,4 +2064,4 @@ EndStunPause
   12,U,X
  135
 
-ChapterTime: 5:02.549(17797)
+ChapterTime: 5:02.447(17791)
