@@ -1,4 +1,4 @@
-RecordCount: 4498
+RecordCount: 4650
 
 console load StrawberryJam2021/3-Advanced/MousseMoose
    1
@@ -194,8 +194,8 @@ EndRepeat
    4,R,Z
    1,R,J
    4
-   1,R
-   2,R,K
+   1,R,K
+   2,R
    3,R,D,J
   10,R,D,X
    1,R,J
@@ -207,43 +207,47 @@ StunPause
 skipinput 3 1
    9,U,X
 EndStunPause
-  15
+
+  12
    3,R,J,G
    7,R
   10,R,D,X
    5,L,J
-  16,L
-  15,U,X
+   3,L
+   2,L,J
    4,L
-  26,L,J
+   1
+   6,L
+  15,U,X
+   1,L
+   2,L
+  24,L,J
+   3,L
    1,K,G
-   4,L,K
    2,K
+   4,L,K
    1,R,K
    6,L,K
    1,L,J,G
-   1,J
-Repeat 4
-   1,R,J
+Repeat 5
    1,L,J
+   1,R,J
 EndRepeat
+
    1,K
-  22,L,K
-   1
-   2
-   1,L
-   1,L,K,G
-  13,L
+  25,L,K
+   2,L
    4,L,Z
    1,L,J
    7,L
    1,L,J
-   4,L
-   3
+   5,L
+  15,L,D,X
+   2
 
 #lvl_a4
 Repeat 3
-  14,D,X
+  14,D,C
    1
 EndRepeat
    2
@@ -664,4 +668,4 @@ EndRepeat
    5,X
  135,R,X
 
-ChapterTime: 1:47.287(6311)
+ChapterTime: 1:47.236(6308)
