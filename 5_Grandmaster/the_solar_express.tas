@@ -1,5 +1,5 @@
 #by Topaz, Celerity
-RecordCount: 6314
+RecordCount: 6355
 
 console load StrawberryJam2021/5-Grandmaster/Soloiini
 #Start
@@ -1198,12 +1198,13 @@ Endrepeat
    3,R,J
    5,R,U,X
   15,R,G
-   7,G
+   6,G
    1
-   6,L
-  10,R,D,X
-   1,R,J
-   1,R
+   5,L
+   2
+   1,L,J
+  10,R,D,Z
+   2,R,J
    1,R,K,G
    1,R,J,G
    1,R
@@ -1211,24 +1212,24 @@ Endrepeat
    1,R,J,G
    1,R,J
    1,R,K,G
-   7,R,X
-  13,R,G
-   1,K,G
-  11,R,K,G
-  31,R,D,G
+   6,R,D,X
+  13,L,G
+   8,L,K,G
+   3,R,K,G
+  30,R,D,G
   40
 #lvl_Extraction
-   1,R,D,G
+   2,R,D,G
    1,R,J,G
   14,R,G
-   1,R,J,G
-  10,R,G
+   2,R,J,G
+   5,R,G
   40
   15,R,Z
   23
    3,R,J
-   7,R
+   5,R
  139,L,D,X
 
-ChapterTime: 3:28.471(12263)
+ChapterTime: 3:28.352(12256)
 
