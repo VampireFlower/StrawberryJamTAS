@@ -1,4 +1,4 @@
-RecordCount: 6969
+RecordCount: 7052
 
 console load StrawberryJam2021/5-Grandmaster/math
    1
@@ -875,25 +875,23 @@ console load StrawberryJam2021/5-Grandmaster/math
   15,U,X
   10,R
   10
+
    4,J
    3,R,J
    1,J
    2,R,J
-   9,R
-   3
-   5,D
+   6,R
+   4,R,J
+   7,R
+   5,L,D
+   1,D
+   1,R,D
+   2,L,D
+   4,D
    4,R,D
-   1,J
-   4,R
-  15,D
-   3,R,D
-   2,D
-   2,R
-   2
-   5,R
-  48,R,Z
+  49,R,Z
 AnalogMode,Square
-  11,F,23
+  11,F,22
 AnalogMode,Precise
   53,F,53.45
    5,F,90
@@ -910,13 +908,13 @@ AnalogMode,Precise
   10,R,D
    1,L,D
    2,L
-   2,L,D
+   4,L,D
   18,L
-  10,L,D
+   8,L,D
    1,L,G
    8,D
    2,L,D
-   2,D
+   3,D
    7,R,D
    5,R
    7,L
@@ -924,20 +922,26 @@ AnalogMode,Precise
   15,L,Z
   44,R
    1,R,G
-  37,R,G
+   3,R,G
+   3,U,G
+   1,G
+   1,U,G
+   1,G
+   1,U,G
+  28,G
   30,L
-   3,J,G
+   1,J,G
    1
    1,L
    1
    1,L
    3
-   3,L
+   3
+   1,L
    1,R
    8,R,J
-   5,R
-   3,J
-   1,R,J
+   3,R
+  13,R,J
   14,R,Z
    3,L,J
   35,R,U,X
@@ -1214,4 +1218,4 @@ AnalogMode,Precise
   15,R,U,X
  140,R,D
 
-ChapterTime: 3:15.364(11492)
+ChapterTime: 3:15.160(11480)
