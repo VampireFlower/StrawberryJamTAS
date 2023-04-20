@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 2501
+RecordCount: 2591
 
 console load StrawberryJam2021/5-Grandmaster/Todd
    1
@@ -17,33 +17,26 @@ console load StrawberryJam2021/5-Grandmaster/Todd
    6,L,D,C
    1,L,J,G
   14,L
-  12,L,Z
-   3,L,J
-   9,L
+   8
    1,L,J
-  13,L,D,X
-   1,R,J
-   1,J
-   2,R,J
-  10,R
-   1,R,J
-  14,R
-   1,R,J
-   8,R
-   3,R,K
-   3,R
-   1
-  20,R
-   1,R,D
-   8,R
-   4,R,D
-   3,R
-   2,R,J
-   1,J
-  15,U,X
-   3,R
-   1
+   8
+   2,R,K
    1,R
+   4
+  10,L,Z
+   1,R,J
+   6,R
+   9,R,J
+  15,R,D,X
+  18,R
+   4
+   1,R
+   3
+   3,D
+   1
+   3,L,J
+  15,U,X
+   5
   11,R,J
   11,R
    4,R,Z
@@ -128,9 +121,10 @@ endstunpause
    1,R,J,G
    9,R
   40
+#0:11.951(703)
+
 
 #lvl_3
-
    5,R
    1,R,D
    6,R,D,J
@@ -223,7 +217,6 @@ endstunpause
   40,L,D,G
   17,D,G
    1,D
-***S
   14,R,Z
    1,L,J
    8,L,D,X
@@ -270,6 +263,8 @@ endstunpause
    6,R
    9,R,J
   40
+#0:39.389(2317)
+
 
 #lvl_4
   14,R,Z
