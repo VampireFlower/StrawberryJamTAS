@@ -1,4 +1,4 @@
-RecordCount: 2447
+RecordCount: 3289
 
 console load StrawberryJam2021/4-Expert/Linj
    1
@@ -24,29 +24,35 @@ console load StrawberryJam2021/4-Expert/Linj
    1,R,J
   11,J
   11,R,U,X
-   4
-  12,R,X
-   7,R,J
-  13,R,X
+   4,L
+  12,R,Z
+   5,L,J
+   2,R,J
+  12,R,Z
+   1,R
+   1,D
+   1,R
+   1,D
    1,R,J
-   6,R
-  12,L,D,X
+  10,L,D,X
    4,R,J
-  15,R,K
-  11,R,U,X
-  12,R
-  12,R,X
+  11,R,K
    4,R
-   9,R,D,X
-   3,L
-   5
-   9,R
-  12,R,X
+  12,R,U,X
+  10,R
+  12,R,Z
+   1,D
+   1,R,J
+  11,R,D,X
+   5,L
+  13,R
+  12,R,Z
    4,J
   12,R,X
    1,R,J
    2,R
-  15,R,D,X
+  12,R,D,X
+   3,R,D
    3,R,J
    2,R
   12,R,X
@@ -55,81 +61,97 @@ console load StrawberryJam2021/4-Expert/Linj
    2,R
   12,U,X
   17,R
-   1,R,J
-  12,J
-  10,R,D,X
-   4,R,J
-   2,R,K
-  25,R,U,X
-   4,C
-   5,R,D,C
    4,J
-  10,R,K
-   1,L,K
-  15,U,Z
-  17,R,U,C
-  13,R,X
    7,R,J
-   6,R
-   4,R,K
-   2,R
-   2,J
-   4,R,J
    2,R
   10,R,D,X
    4,R,J
    2,R,K
-  25,R,U,X
+   2,R
+  12,R,U,X
+  10,R
+   4,X
+  10,R,D,X
+   4,L
+   2,L,J
+  12,U,Z
+   3,L
+  12,R,U,X
+   1,R
+   3,L
+  12,R,Z
+   1,D
+   1,L
+   4,L,J
+   2,R,J
+  10,R
+   1,J
+   7,R,J
+  10,R,D,X
+   4,R,J
+   4,R,K
+  12,R,U,X
+  11,R
   28,D,C
    4,R
-  21,R,U,X
+  12,R,U,X
+   9,R
   12,J
-  11,R,X
-   8,L,U,C
-   8,R
-   9,R,J
-  15,R,U,X
-   7,R
-   2,R,D
-  10,L,D,C
-   4,L,J
-   7,L,K
-  18,R,X
-  13,R,J
-  11,R,X
-   8,R,J
-  15,U,X
-  17,R,U,C
-  16,L,U,Z
-   8,L,J
-  11,L,K
-  12,L,D,X
-   4,R,J
-   5,R,K
-  12,U,X
+  15,R,Z
+   5,U,C
+   4,L
    3
-   7,L
+   1
+   1,L
+  12,U,X
+   2,L
+   2
+   8,R
+   5,D,J
+   5,R,J
+  12,R,U,X
+   9,R
+  12,R,Z
+   9,R,J
+   1,R
+  11,R,U,X
+   4,L
+  12,U,Z
+   3,L
+   6,R,U,X
+   9,L
+  17,L,U,Z
+   4,L,J
+  10,L,K
+   3,L
+  16,L,D,X
+   4,R
+  12,U,X
+  10
   14,D,X
    7,R
-   3
+   4
    1,R
-   1
   12,U,X
   15,R
    8,R,J
-  12,R,X
-  13,R,J
-  12,R,X
-  10,R
+  12,R,Z
+   1,R
+   1,R,J
+   1,R
   12,R,D,X
-  11,R,J
-   4,R
+  14,R,J
+  12,R,Z
+  10,R,J
+   5,R
+   1,R,J
+   9,R
   12,R,U,X
-  19,R
-  13,R,D,C
-   7,R,J
-   3,R
-  18,R,U,X
+   9,R
+  12,R,D,X
+  10,R,J
+   2,R
+  16,R,U,X
    8,J
    1,L,K
   12,K
@@ -140,25 +162,34 @@ console load StrawberryJam2021/4-Expert/Linj
    6,R
    1,J
    7,R,J
-  14,R,X
+  12,R,Z
+   1,R
+   1,D
    1,R,J
-  10,R,C
-  12,R,J
-  12,R,U,C
-   2,R
-   6,L
-  16,L,U,Z
-  23,R,U,X
-  12,R,C
-   8,R,J
+  12,R,Z
+   9,R,J
+  11,L
+  12,U,Z
+   4,L
+  15,R,U,X
+   5,R
+   4,L
+  12,R,Z
+   5,L,D,J
+   4,R,J
   11,R,X
    4,R,J
-   7,R,K
-  12,U,Z
-  14,R
-  12,R,X
-  10,L,J
-   4,L
+   1,R,K
+   2,L,K
+   3,K
+  12,U,X
+   7,R
+   5,L
+  12,R,Z
+   1,L
+   3,L,J
+   8,J
+   1
   11,R,X
   12,U,C
    8,R
@@ -174,19 +205,20 @@ console load StrawberryJam2021/4-Expert/Linj
   12,R,X
    5,L,J
    7,L
-  14,R,X
-   9,R,U,C
-  16,R,D,X
-   2,R,J
-  15,R,U,C
-   8,R
-   3,J
+  12,R,X
+  11,U,C
+   6,L
+   5
+   1,L
+  12,R,U,X
+   9,R
+   1,D
+   4,R,J
+   2,R
+   3,L
+  12,R,U,X
+  12,R
    8,R,J
-  10,R
-  10,R,J
-  25,R,U,X
-   5,R,J
-   3,J
   13,R,Z
    4,L,J
    6,L,K
@@ -206,42 +238,46 @@ console load StrawberryJam2021/4-Expert/Linj
    5,L,D
    1,L,J
   12,L,D,X
-  13,L,J
-  12,L,X
-  29,L,J
-  12,L,U,X
-  25,L
-  16,L,U,C
-   4,L,J
-  17,L,K
-  12,L,D,X
-   4,J
-   6,K
-   6,R,K
-  17,L,U,X
-   8,L,J
-  18,L,K
-  12,U,X
-  10,L
-  12,L,X
-  16,L,J
-  10,L,D,X
-   8,J
-  18,L,K
-  12,U,X
+  11,L,J
    7,L
-   3,R
+  12,L,Z
+  24,L,J
+   5,L
+  12,L,U,X
+   9,L
+   8,R
+  16,L,U,X
+   4,L,J
+  18,L,K
+  14,L,D,X
+   4
+  18,L,J
   10,L,D,X
-   4,J
-   1,K
-   8,R,K
+   4,L,J
+   4,L,K
+  11,L,U,X
+   6,R
+  12,L,U,X
+   9,L
+  14,L,D,X
+   4
+   8,L,J
   12,U,X
-  16,L
-  14,L,X
-   6,R,J
-  43,R,K
-  12,R,X
+   8
+   2,L
+  14,L,D,X
+   4,R
+   2,R
+  12,U,X
+   9,L
    5,R
+  13,L,X
+   7,R,J
+  27,R,K
+  15,R
+   1,R,D
+  12,R,X
+   4,R
    5,D,C
   22,R
   14,R,D,X
@@ -270,4 +306,4 @@ console load StrawberryJam2021/4-Expert/Linj
   13,U,X
  135
 
-ChapterTime: 0:40.188(2364)
+ChapterTime: 0:38.301(2253)
