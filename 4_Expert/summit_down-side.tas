@@ -1,4 +1,4 @@
-RecordCount: 2328
+RecordCount: 2447
 
 console load StrawberryJam2021/4-Expert/Linj
    1
@@ -21,15 +21,15 @@ console load StrawberryJam2021/4-Expert/Linj
    4,R,K
    5,R
   13,R,K
-  10,R,J
-  11,R,U,X
-   7
-  11,R,X
-   6,R
-   7,R,J
-  12,R,X
    1,R,J
-   5,R
+  11,J
+  11,R,U,X
+   4
+  12,R,X
+   7,R,J
+  13,R,X
+   1,R,J
+   6,R
   12,L,D,X
    4,R,J
   15,R,K
@@ -270,4 +270,4 @@ console load StrawberryJam2021/4-Expert/Linj
   13,U,X
  135
 
-ChapterTime: 0:40.256(2368)
+ChapterTime: 0:40.188(2364)
