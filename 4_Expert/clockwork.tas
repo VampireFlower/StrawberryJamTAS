@@ -1,4 +1,4 @@
-RecordCount: 4124
+RecordCount: 4528
 
 console load StrawberryJam2021/4-Expert/fonda1515
    1
@@ -185,56 +185,58 @@ console load StrawberryJam2021/4-Expert/fonda1515
   10,R,J,G
   15,R
    1,R,J,G
-  31,R,D
-  13,D
-  15,R,Z
-   6,R,D,X
+  40,R,D
+   2,D
+  20,R,Z
+  14,R,D,X
+   1,L,J
+   2
+   2,J
+   1
+   1,J
+   3
+  14,L,D,X
    1,R,J
-   3,R
-   1,R,J
-   3,R
-repeat 4
-   1,R,J
-  14,R
-endrepeat
-   3,R,J
-  14,R,U,X
+   5,R,D,X
+   1,R,K,G
    1,R,J,G
-   5,R
-   2,R,J
+  14,R
+   6,R,J
+   1
+  17,R
+   1,R,J
+   4,R
+  14,R,U,Z
+   1,R,K,G
+   3,R
+   3
   40
 
 #lvl_a-03
-   1,R,J
-   3,R
-   1,R,D
-   1,R,J
-   1,J
-   5
-   3,J
-   4,X
-  60,R
-   7,L,U,X
-  22,R
-  11,L,U,X
-   8,R
-  15,R,X
-   2
-   3,R
+   1,D
+   8,R,D
+   7,R,D,J
+   9
+  16,L,U,X
+   8,L,D,C
+  21,R
+   9,L,U,X
+   5,R
+  24,R,X
    7,L,Z
    1,R,J
    7,R
    3,R,D
-  24,R,D,J
-  15,R,U,X
-   6,R
+  26,R,D,J
+  19,R,U,X
    1,J
   25,R,J
    1,K
-  25,R,K
+  23,R,K
+   2,R
    1,J
-  23,R,J
-   6
+  19,R,J
+  10,R
   24,R,U,X
    4,Z
    1,R,J
@@ -247,40 +249,43 @@ endrepeat
    9,R
   12,L,X
   23,R
-  13,U,X
-  74,R,J
+  14,U,X
+  22,R,J
+   6,J
+  42
+   3
   15,D,X
    6,R,D
-  15,R,U,Z
-   8,R,J
-  63,R
-   6,L
+  12,R,U,Z
+  11,R,J
+  66,R
+   1,L
   15,U,Z
-   2,R,J
+   1,R
+   1,R,J
   11,R
    6,R,Z
    1,R,J
    7,R
-   1,J
-  14,R,D,X
+   1,R,J
+  12,R,D,X
    1,R,J
    5,R
   40
 
 #lvl_a-04
    1,R
-  10,R,J
-   7,R
-  16,U,X
+  14,R,J
+   3,J
+   1
+  15,U,X
   17,R,J
-  15,R,X
-  15,R,D,C
-  18,R
-   2,D
-   7,R,D
-   1,L,D
-   3
-  20,L,D
+  17,R,X
+  31,R,D,C
+   1,R
+   3,R,D
+  13,D
+  12,L,D
   10,L,D,X
   50,R,J
   26,R,X
@@ -779,4 +784,4 @@ endrepeat
   15,U,X
  135
 
-ChapterTime: 3:15.432(11496)
+ChapterTime: 3:14.820(11460)
