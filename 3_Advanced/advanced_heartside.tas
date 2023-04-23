@@ -1,4 +1,4 @@
-RecordCount: 15302
+RecordCount: 15394
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -328,9 +328,18 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1,R,J
   19,R,K
    3,K
-  14,L,J
-  31,R
-  15,R,X
+## This can be used
+# as +2f spinner
+# cause its cool
+#  14,L,J
+#   1,R
+#  21,R,D,X
+#  14,R,J
+#  13,U,X
+  10,L,J
+   4,L
+  20,R
+  24,R,X
   15,R,U,C
   40,R,D
   15,R,D,X
@@ -344,11 +353,9 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    7,R
   20,R,J
    6,R,K,G
-  14,U,X
-  10,L,J
-  12,L,X
-#nice level
-  10
+   8,U,X
+  11,L,J
+  14,L,U,Z
   89,R,C
   17,R,U
   11,R
@@ -2068,4 +2075,4 @@ EndStunPause
   12,U,X
  135
 
-ChapterTime: 5:01.631(17743)
+ChapterTime: 5:01.376(17728)
