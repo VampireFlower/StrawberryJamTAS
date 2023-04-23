@@ -1,0 +1,115 @@
+console wipedebug
+console hearts 18 StrawberryJam2021/5-Grandmaster
+console load StrawberryJam2021/0-Lobbies/5-Grandmaster 1056 1256
+   1
+
+#Start
+  36
+   9,L,Z
+   1,R,J
+   7,R
+   2,R,J
+  12,R,U,X
+   1,R,J,G
+   5,R
+   1,R,K
+   3,R
+   1
+   1,R,J
+   1,R,K,G
+   3
+   6,R
+   1,R,D,J
+  14,R
+   6,R,D,J
+   2,R,K,G
+   4,R
+   6,R,D,X
+   2,R,J
+   1,R
+   1,R,K
+  11,R
+   3,F,179
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+  10,R,K
+   5,R
+   2,R,J
+  14,R,U,Z
+   1,L,J,G
+  23,R,J
+   4,J
+   1,G
+   1,R,J,G
+   2,J
+   4,L,J
+   1,R,J
+   1,R,K,G
+   1
+   6,R
+   5,R,Z
+   1,R,J
+   7,R
+   2,R,J
+  12,R,U,X
+   1,S
+   1,D,J
+  34
+   1,R,K,G
+   3
+   6,R
+   2,R,J
+  13,R,U,X
+#0:04.352(256)
+  27,L,U
+AnalogMode precise
+  17,F,349.28
+  62,F,345.18
+  23,F,347.32
+  15,F,334.5
+   1,F,336
+   2,F,346,0.69
+   7,L
+   5,L,Z
+   1,L,J
+   3,L
+   1,L,K
+   3,L
+   9,L,J
+   4,J
+  14,L,X
+   2,R,J
+#release jump for
+#1f for better ypos
+#requires feather
+#resync
+  14,R,X
+   9,R,J
+   1,R,K,G
+   1,L,K
+  15,R,K
+  10,R,X
+   5,R,J
+  14,R,U,X
+#featherless not tested
+  27,R,U
+   4,F,65.155
+   1,F,64.606
+  11,F,5
+  45,F,355.877
+   1,F,352.81
+  14,F,346.248
+  20,F,310.387
+   1,F,315.654
+ 100,F,0
+   2
+  16,U,X
+   1,N
+#0:12.682(746)
