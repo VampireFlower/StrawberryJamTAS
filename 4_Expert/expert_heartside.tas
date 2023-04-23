@@ -1,11 +1,10 @@
-RecordCount: 12013
+RecordCount: 12016
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
 
 #Start
  190
-
 #lvl_a00_intro1
   10,L,Z
    2,L,J
@@ -422,13 +421,13 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    2,R,J
    3,R
    4,R,K,G
-  16,R
+  17,R
    1,R,J
-   9,R,D,X
+   8,R,D,X
   40
 
 #lvl_b01_stotch
-   9,R,D,X
+   6,R,D,X
    8,R
   14,U,X
    9,R
@@ -634,6 +633,8 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1,R,J
    3,R
   15
+
+
   15,D,C
   16,L,X
   18,L,C
@@ -997,8 +998,15 @@ EndStunPause
    5,R,K,G
    7,R
   13,R,J
+
+ 
+
   14,U,X
   44,R,J
+
+
+#169
+
 
 #lvl_c00_intro
   22,R
@@ -2028,6 +2036,7 @@ EndStunPause
   40
 
 #lvl_e01_linj
+
   12,R,X
    2,R,J
   12,R,D,C
@@ -3321,4 +3330,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 8:42.835(30755)
+ChapterTime: 8:42.784(30752)
