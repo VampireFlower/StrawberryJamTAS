@@ -1239,6 +1239,21 @@ AnalogMode Percise
    2
   18,K,G
   15,U,X
+#   1,R,J,G
+#   3,R
+#   2
+#   2,R
+#   2
+#   2,L
+#   1
+#   4,Z
+#   1,R,J
+#   1,R
+#   4,R,J
+#   3,R
+#   1,R,J
+#   1,R
+#  50,R,D,X
    1,R,J,G
    7,R
   14,R,Z
@@ -1249,6 +1264,19 @@ AnalogMode Percise
 #lvl_c03_alice
    7,R,J
   15,R,D,X
+#   3,R
+#  12,R,D,J
+#   1,R,J
+#  12,R,J
+#   3,R
+#  14,R,D,X
+#   1,R,J,G
+#  11,R
+#   5,R,J
+#   5,R,X
+#  10,R,C
+#  23,R,J
+# 540,U,X
    3,R
   12,R,D,J
   13,R,J
@@ -2249,7 +2277,6 @@ EndStunPause
   15,U,X
    1,R,J,G
    7,R
-#6:26.291(22723)
   10,R,X
   14,R,J
    1,K
