@@ -1,0 +1,191 @@
+#This file was made based off the files in the EL folder.
+Unsafe
+#This will wipe the debug save!
+#Uncomment at your own peril.
+console clrsav
+console load StrawberryJam2021/0-Lobbies/4-Expert
+EnforceMaingame
+   1
+
+#Start
+Read,4_Expert_Lobby/exp_0-1,Start
+Read,EnterLevel,Start
+Read,4_Expert/madeline_the_bubble,Start
+   1,O
+  32
+
+Read,4_Expert_Lobby/exp_1-2,Start
+Read,EnterLevel,Start
+Read,4_Expert/clockwork,Start
+   1,O
+  32
+
+Read,4_Expert_Lobby/exp_2-3,Start
+Read,EnterLevel,Start
+Read,4_Expert/ethereal_ascension,Start
+   1,O
+  32
+
+Read,4_Expert_Lobby/exp_3-4,Start
+Read,EnterLevel,Start
+Read,4_Expert/meaningless_contraptions,Start
+   1,O
+  32
+
+Read,4_Expert_Lobby/exp_4-5,Start
+Read,EnterLevel,Start
+Read,4_Expert/skyline_usurper,Start
+   1,O
+  32
+
+Read,4_Expert_Lobby/exp_5-6,Start
+Read,EnterLevel,Start
+Read,4_Expert/hypnagogia,Start
+   1,O
+  32
+
+Read,4_Expert_Lobby/exp_6-7,Start
+Read,EnterLevel,Start
+Read,4_Expert/the_core_problem,Start
+   1,O
+  32
+
+Read,4_Expert_Lobby/exp_7-8,Start
+Read,EnterLevel,Start
+Read,4_Expert/vinculum,Start
+   1,O
+  32
+
+Read,4_Expert_Lobby/exp_8-9,Start
+Read,EnterLevel,Start
+Read,4_Expert/subway_neon,Start
+   1,O
+  32
+
+Read,4_Expert_Lobby/exp_9-11,Start
+Read,EnterPostcard,Start
+Read,4_Expert/golden_alleyway,Start
+   1,O
+  32
+
+Read,4_Expert_Lobby/exp_11-13,Start
+Read,EnterLevel,Start
+Read,4_Expert/a_change_in_direction,Start
+   1,O
+  32
+
+Read,4_Expert_Lobby/exp_13-12,Start
+Read,EnterLevel,Start
+Read,4_Expert/system_invalidmap,Start
+   1,O
+  32
+
+Read,4_Expert_Lobby/exp_12-10,Start
+Read,EnterLevel,Start
+Read,4_Expert/overgrown_linn,Start
+   1,O
+  32
+
+Read,4_Expert_Lobby/exp_10-18,Start
+Read,EnterLevel,Start
+Read,4_Expert/floating_point,Start
+   1,O
+  32
+
+Read,4_Expert_Lobby/exp_18-17,Start
+Read,EnterLevel,Start
+Read,4_Expert/caper_cavortion,Start
+   1,O
+  32
+
+Read,4_Expert_Lobby/exp_17-16,Start
+Read,EnterLevel,Start
+Read,4_Expert/hydroshock,Start
+   1,O
+  32
+
+Read,4_Expert_Lobby/exp_16-22,Start
+Read,EnterLevel,Start
+Read,4_Expert/time_trouble,Start
+   1,O
+  32
+
+Read,4_Expert_Lobby/exp_22-23,Start
+Read,EnterLevel,Start
+Read,4_Expert/lunar_pagoda,Start
+   1,O
+  32
+
+Read,4_Expert_Lobby/exp_23-24,Start
+Read,EnterLevel,Start
+Read,4_Expert/plasma_reactor,Start
+   1,O
+  32
+
+Read,4_Expert_Lobby/exp_24-21,Start
+Read,EnterLevel,Start
+Read,4_Expert/narrow_hollow,Start
+   1,O
+  32
+
+Read,4_Expert_Lobby/exp_21-19,Start
+Read,EnterLevel,Start
+Read,4_Expert/storm_runner,Start
+   1,O
+  32
+
+Read,4_Expert_Lobby/exp_19-20,Start
+Read,EnterLevel,Start
+Read,4_Expert/fortress_fall,Start
+   1,O
+  32
+
+Read,4_Expert_Lobby/exp_20-25,Start
+Read,EnterLevel,Start
+Read,4_Expert/summit_down-side,Start
+   1,O
+  32
+
+Read,4_Expert_Lobby/exp_25-26,Start
+Read,EnterLevel,Start
+Read,4_Expert/psychokinetic,Start
+   1,O
+  32
+
+Read,4_Expert_Lobby/exp_26-27,Start
+Read,EnterLevel,Start
+Read,4_Expert/garden_of_khutara,Start
+   1,O
+  32
+
+Read,4_Expert_Lobby/exp_27-28,Start
+Read,EnterLevel,Start
+Read,4_Expert/polaris,Start
+   1,O
+  32
+
+Read,4_Expert_Lobby/exp_28-29,Start
+Read,EnterLevel,Start
+Read,4_Expert/chromatic_complex,Start
+   1,O
+  32
+
+Read,4_Expert_Lobby/exp_29-0,Start
+Read,4_Expert_Lobby/exp_0-14,Start
+Read,EnterLevel,Start
+Read,4_Expert/flying_battery,Start
+   1,O
+  32
+
+Read,4_Expert_Lobby/exp_14-15,Start
+Read,EnterLevel,Start
+Read,4_Expert/mosaic_garden,Start
+   1,O
+  32
+
+Read,4_Expert_Lobby/exp_15-30,Start
+Read,EnterHeartSide,Start
+Read,4_Expert/expert_heartside,Start
+  61
+   1,O
+FileTime: 51:05.661(180333)
