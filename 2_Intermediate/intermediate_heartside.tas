@@ -1,4 +1,4 @@
-RecordCount: 7562
+RecordCount: 8151
 
 console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1
@@ -139,7 +139,6 @@ EndStunPause
   15,R,D,X
   12,R,D
    1,R,J
-   0,R,K
   16,R,D
   17,R,Z
   14,R,V
@@ -156,30 +155,30 @@ EndStunPause
   14,U,X
   11,R,J
    2,J
-  22,R,Z
-  16,L,J,G
-   4,K,G
-   2
-   1,J,G
-   6,L
-   1,R
-   7,R,J
-  14,R,Z
+  15,R,Z
+   6,R
+   1
+  13,L,J,G
+   1,J
+  16,R,K
+   2,R,J,G
+   1,L
+   6,R
+  12,R,Z
    1,R,J
-   9,R,D,X
-   1,R,J
-   1,R
+   5,R
   40
 
 #lvl_cp1-2-pixelator
-   6,R
-   9,R,J
-   7,J
+   7,R
+   1,R,J
+   3,J
+  12,R,J
   14,R,U,Z
    9,R,J,G
    5,R,K,G
-   1,R
-  19,R,K
+   8,R
+  12,R,K
   14,R,U,Z
    1,R,J,G
    1,L,J,G
@@ -198,96 +197,129 @@ EndStunPause
    5,L,J,G
   25,R
   34,R,U,X
-  24,R,J,G
+  23,R,J,G
   12,R,D
-   9,D
-   4,R,D
-  10,R,J
-  49,R,D
+   1,R
+  11,R,D
+   1,R
+   4,R,J
+   5,R
+   1,R,J
+  50,R,D
   15,R,X
-   8,R,D
-   1,R,G
-   1,D
-   1,L,D
-  21,L
+   1,R
+   4
+   1,G
+   1
+  21
   15,U,X
-  14,R
+  13,R
    1,R,J,G
    4,L,J
    5,R,J
    1,R,K,G
    7,R,J,G
    9,R
-   4,R,J
-  13,L
-  34,R
-  14,R,U,Z
+   1,R,J
+   2,R
+   9,L
+   1
+   2,L
+  35,R
+  13,R,U,Z
    1,L,J,G
-   9,R,J
-   2
+  11,R,J
    1,K,G
    1,L,K
    1,R,J,G
-   5,R,K,G
+   3,R,K,G
+   2,R
    1,R,J,G
    7,R
-   6,R,Z
+   7,R,Z
    1,R,J
    7,R
-   5,R,J
+   3,R,J
+   2,R
   40
 
 #lvl_cp1-3-Evilleafy
-   1,R,J
-  14,R,D,X
-  12,R,J
-  11,U,X
-  22,R,J
-  25,R,X
-  27,R,C
-  21,R,U,X
-  15,U,C
-  23,R,J
-  15,R,X
-  21,R,U
    1,R
-   6
-  23,R,Z
-   2,R,J,G
-  12,R,U
-  26,U
-  14,D,X
-  16,R,J
-  48,R,D
+  13,R,D,X
+  10,R,J
+   3,J
+  11,U,Z
+  21,R,J
   15,R,X
-  23,R,D
-   1,R
-  15,U,C
+   9,R
+  18,R,C
+   9,R
+  15,R,U,X
+   3,R
+  13,U,X
+  24,R,J
+  15,R,X
+  24,R
+   3,U
   15,R,Z
-   4,D
-  14,R,D
-   4,L,J
-  16,L,D
-  15,R
-  15,R,D
-  29,R,U,Z
-  11,R,J
    8,R
-   8,R,J
-   4,R,K,G
-   0,R
-   2,R,J,G
-   9,R,D
-  24,D
-   9,U,X
-  11,R,J
-  17,R
+   1
+   1,R,J,G
+   1,J
+   1
+   1,R
+  15,R,U
+  14,U
+   1
+   1,R
+   1
+   4,R,U
+   9,D,X
+  25,R,J
+  37,R
+  15,R,X
+  26,R,D
+  15,U,X
   15,R,Z
-  11,R
-   9,R,J,G
-  15,R
-   8,R,J
-  37,R,D
+   9,R
+   6
+   1,R
+   1
+   3,L,J
+  16,L
+   5,R
+   1,L
+  26,R
+  15,R,U,Z
+  14,R
+  12,R,J
+   2
+   3,R
+   1,R,J
+   4,R
+   1,R,J
+   5,R
+   4,R,J,G
+  26,R,K,G
+   7,R
+  15,R,U,X
+   5,R
+   1,R,J,G
+   1,R,K,G
+   2
+   1,R
+   1
+  13,R,D
+   2,D
+   1,R,D
+   1,D
+   8,R,D
+   4,R
+   1,R,J,G
+   1,R,K,G
+   3,R
+  26,R,J,G
+  29,R,D
    2,R,J
   10,R,X
    4,R,J
@@ -635,6 +667,7 @@ EndStunPause
    1,R,J
    5,R,D,X
   40
+
 #lvl_cp2-3-glowwoomii
    1,R,J
   14,R
@@ -697,7 +730,7 @@ EndStunPause
   15,R,D
   17
 #Spinner cycle
-   1
+   2
 ##
   14,R,D
    9,R,D,J
@@ -1687,4 +1720,4 @@ EndRepeat
   16,R,U,X
  135,R
 
-ChapterTime: 4:38.477(16381)
+ChapterTime: 4:37.916(16348)
