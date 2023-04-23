@@ -1,10 +1,11 @@
-RecordCount: 12096
+RecordCount: 12315
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
 
 #Start
  190
+
 #lvl_a00_intro1
   10,L,Z
    2,L,J
@@ -633,8 +634,6 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1,R,J
    3,R
   15
-
-
   15,D,C
   16,L,X
   18,L,C
@@ -983,30 +982,23 @@ EndStunPause
    1,R
    1,R,K,G
    2,L
-  14,R,Z
+  10,R,Z
    1,R,J
-   1,R
-   8,R,D,X
-   1,R,K,G
    4,R
-   3
+   8,R,D,X
+   1,R,J,G
+   7,R
   40
 
 #lvl_b06_transition
-   5,R
+   1
+   4,R
    1,R,J
    5,R,K,G
    7,R
   13,R,J
-
- 
-
   14,U,X
   44,R,J
-
-
-#169
-
 
 #lvl_c00_intro
   22,R
@@ -1021,7 +1013,6 @@ EndStunPause
    1,R,J,G
    1,L,J
    7,L
-#slow? didnt test lol
   41,L,G
    1,L,J,G
    1,K
@@ -1032,7 +1023,8 @@ EndStunPause
    1,R,J
    1,K,G
    6,R
-   2,L
+   1,L
+   1,L
    3
    4,R,Z
    1,R,J
@@ -1084,17 +1076,20 @@ EndStunPause
   23,L,J
   14,U,X
   16,R,J
-  26,J
-#no featherline sorryyy
-#really slow
-  40,F,351
-  25,F,330
-  23,F,59
+AnalogMode Square
+  27,F,323.7
+AnalogMode Percise
+  10,F,19
+  27,F,350.943
+   1,F,347.253
+  22,F,339.702
+   1,F,342.892
+  14,F,30.5
   13,R,Z
-   1,R,J,G
-   5,R
-   5,R,J
-   5,R
+   2,R,J,G
+   6,R
+   2,R,J
+   6,R
   14,R,Z
    1,R,J,G
    2,R,J
@@ -1244,21 +1239,6 @@ EndStunPause
    2
   18,K,G
   15,U,X
-#   1,R,J,G
-#   3,R
-#   2
-#   2,R
-#   2
-#   2,L
-#   1
-#   4,Z
-#   1,R,J
-#   1,R
-#   4,R,J
-#   3,R
-#   1,R,J
-#   1,R
-#  50,R,D,X
    1,R,J,G
    7,R
   14,R,Z
@@ -1269,19 +1249,6 @@ EndStunPause
 #lvl_c03_alice
    7,R,J
   15,R,D,X
-#   3,R
-#  12,R,D,J
-#   1,R,J
-#  12,R,J
-#   3,R
-#  14,R,D,X
-#   1,R,J,G
-#  11,R
-#   5,R,J
-#   5,R,X
-#  10,R,C
-#  23,R,J
-# 540,U,X
    3,R
   12,R,D,J
   13,R,J
@@ -1544,20 +1511,15 @@ EndRepeat
   36,R,Z
 
 #lvl_d00_intro
-   1,L,J
-   4,L
-   1,J
-  11,R,K
-   6,R
-   2,R,J
-   5,R
-  13,L,Z
+   5,L,J
+  12,K,G
+  10,J,G
+  13,L,D,X
    9,R,J
   15,R,D,X
-   1
-   1,R,D,J
-   5,J
-   1,R,J
+   1,R
+   1,J
+   6,R,J
    8,R,D,X
    7,R,J,G
    5,R
@@ -1570,7 +1532,7 @@ EndRepeat
 #lvl_d01_ru
    8,R,X
    5,R,C
-  32,R,G
+  33,R,G
    4,R,J,G
    7,R,Z,G
   48,R,U,J,G
@@ -2036,7 +1998,6 @@ EndStunPause
   40
 
 #lvl_e01_linj
-
   12,R,X
    2,R,J
   12,R,D,C
@@ -2288,6 +2249,7 @@ EndStunPause
   15,U,X
    1,R,J,G
    7,R
+#6:26.291(22723)
   10,R,X
   14,R,J
    1,K
@@ -3325,9 +3287,8 @@ EndRepeat
    1,R,J
    5,R
   10,R,X
-   5,L,J
-   2,L,J
+   7,L,J
   16,U,X
  135,D
 
-ChapterTime: 8:42.767(30751)
+ChapterTime: 8:42.512(30736)
