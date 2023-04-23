@@ -1,10 +1,14 @@
-RecordCount: 2879
+RecordCount: 2902
 
 console load StrawberryJam2021/4-Expert/Cabob
    1
 
 #Start
  190
+
+# Spinner Cycle
+
+   1
 
 #lvl_a-start
   12,R
@@ -86,9 +90,9 @@ console load StrawberryJam2021/4-Expert/Cabob
 
 #lvl_a-01
    8
-   4,R,U,Z
+   6,R,U,Z
 StunPause
-   4,R,U,Z
+   2,R,U,Z
 EndStunPause
    6,J,G
    4
@@ -184,7 +188,7 @@ EndStunPause
    1,R,K
   16,R,D,X
   40
-
+ 
 #lvl_a-05
    2,R
    1,R,J
@@ -356,4 +360,4 @@ EndStunPause
  132,R,D
    3,L,D
 
-ChapterTime: 0:37.332(2196)
+ChapterTime: 0:37.162(2186)
