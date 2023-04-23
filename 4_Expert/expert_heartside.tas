@@ -1,4 +1,4 @@
-RecordCount: 12315
+RecordCount: 12556
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -2384,8 +2384,7 @@ EndStunPause
    3,R,K
   10,L,X
   11,R,J
-   5,R
-   1,R
+   6,R
    6,R,J
    9,R,D
   14,R,Z
@@ -2413,10 +2412,15 @@ EndStunPause
   10,R,D
    4,R
    7,R,X
-   1,K,G
-  11,R,K
-  24,R,D
-  14,R,X
+   1,R,J,G
+   1,J
+   4,R,J
+   5,R
+   1,R,J
+   2,R
+   4,R,J
+  11,R
+  13,R,X
    1,K,G
    5,R
    2,R,K
@@ -2429,48 +2433,42 @@ EndStunPause
    2
    4,K
    1
-   8,J,G
-  12,R,J
-  17,U,X
-   5,L
-   2
-   1,L,J,G
-   1,K
-   6,R,K
-   6,R
-   9,R,K
-   4,K
-   2,D
-  14,R,Z
-  14,R,D
-   5
-   2,R
-  14,R,Z
-   1,R
-   1,K
-   2
-  10,L
-   9
-   7,R
-  10,R,D
-   1,R,K,G
-   3,R,J,G
-   7,R
-  14,R,X
-   9,R
+   2,J,G
+  16,R,J
+   3,K
+   1
+  15,U,X
+   4,L
+   1,R,K
+  21,R
   15,R,X
-   3,R
+  19,D
+  15,R,Z
+   1,K
+  12
+   2,L
    2
-   1,R
+   2,L
+   3
+   1,D
+  12,R,D
+   2,R
+   5,R,Z
+   1,R,J,G
+   1,J
+   3,R,J
+   5,R
+  15,R,J
+   3
+  15,R,X
    6
   15,L,X
   15,U,C
    4,L
-   3,R,J
-  12,R
-   6,R,J
+   4,R,J
+  17,R
    1,J
-   2,J
+   2
   15,U,X
    1,L,K,G
   20,D
@@ -2481,7 +2479,8 @@ EndStunPause
    2,R
    2,R,J
   14,R,D,X
-   7,L,D
+   6,L,D
+   1,L
   14,R,Z
   22,D
    1
@@ -2495,8 +2494,7 @@ EndStunPause
    1,R,J,G
    5,R
    2,R,J
-   2,R
-   1,R
+   3,R
   14,U,X
    3,D
   24,R,D
@@ -2507,9 +2505,9 @@ EndStunPause
    5,L,U,X
   12
   15,U,X
-   7,L,U,G
+   7,L
    1,J,G
-   3,L,G
+   3,G
    2,R
    1,L
    1,J
@@ -3318,4 +3316,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 8:42.512(30736)
+ChapterTime: 8:42.036(30708)
