@@ -1,4 +1,4 @@
-RecordCount: 13514
+RecordCount: 13198
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -183,27 +183,28 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
   31,R,U,X
    1,R,J,G
   13,R,K,G
-  16,R
-  41
-  10,L
-  11,L,Z
+  14,R
+  40
+   1,J
+   8,L
+   2,L,J
+   5,L
+   9,L,Z
    1,R,J
-   3,R
+   6,R
    1,R,J
-   3,R
-   1,R,J
-  40,J
+  40
 
 #lvl_a03_pansear
-   1,R,J
-  10,R,X
-   7,R,J
-  14,R,X
-   7,R,J
-   5,J
-  14,R,Z
-   1,R,J
-  24,R,X
+   5,R,K,G
+   2,R
+   6,R,X
+   3,R,J,G
+   7,R
+  12,R,J
+   3,R
+  14,R,D,X
+   8,R,X
   15,D,C
   18,L,X
   27,D,C
@@ -689,7 +690,7 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
   21,R,D
   12,R,Z
 #Spinner cycle 1
-   1
+   0
 #
   45,R,X
   15,U,C
@@ -2565,7 +2566,6 @@ EndStunPause
    3,L,J
   15,L,D,X
    5,L
-   0,R
    1,L,J
   14,L,D,X
   19,L,J
@@ -2585,7 +2585,6 @@ EndStunPause
    1,R,K,G
    8,R
    4,R,J
-   0,L,J
   15,R,D,X
    2,R
    1,R,J
@@ -2628,13 +2627,17 @@ StunPause
    1,R
    2,R,J
 EndStunPause
-  27,R,J
-  16,R,K
+  23,R,J
+   2,R
+   2,R,J
+  13,R,K
+   3
   13,U,X
-  18,L,J
+  14,L,J
+   5,J
   11,R,U,Z
-   3,R,J,G
-  15,R
+   2,R,J,G
+   8
    6,R,Z
    1,R,J
    1,R,K,G
@@ -3318,4 +3321,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 8:30.391(30023)
+ChapterTime: 8:29.966(29998)
