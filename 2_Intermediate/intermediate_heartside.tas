@@ -1,4 +1,4 @@
-RecordCount: 8521
+RecordCount: 8559
 
 console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1
@@ -1295,24 +1295,24 @@ EndRepeat
    1,L,J,G
   25,L,G
   12,L,D,G
-  13,R,Z
+  12,R,Z
    1,L,J,G
-   9,R,J
-  21,R,D,X
-   1,R,J
+   1,L,K,G
+   4,R,K
+  19,R,D,X
+  11,R,D,J
    1,R
-  17,R,D,X
-   7,R,J
+   3,R,J
   40
 
 #lvl_cp4-0-Cp
-  13,R,J
-  14,U,X
-   3,R,J
-  15,L,J
-   6,L,K,G
+  11,R,J
+   9,U,X
+  19,L,J
+   1,L,K,G
    7,L
-   2,L,J
+   1,J
+   1,L,J
    2,K
   14,U,X
   18,R,J
@@ -1551,10 +1551,6 @@ EndRepeat
   18,R,X
   14,R,C
   58,R,G
-#current route is 40f faster
-#than intended (waitin jelly)
-#intended is 100f faster than 
-#spinnerstunning route
   39,R,X,G
   18,U,C,G
    1,R
@@ -1736,4 +1732,4 @@ EndRepeat
   16,R,U,X
  135,R
 
-ChapterTime: 4:36.743(16279)
+ChapterTime: 4:36.301(16253)
