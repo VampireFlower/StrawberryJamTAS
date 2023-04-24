@@ -1,11 +1,10 @@
-RecordCount: 2647
+RecordCount: 3030
 
 console load StrawberryJam2021/3-Advanced/Jolly
    1
 
 #Start
   76
-
 #lvl_a0
   10,L,X
   21,R,J
@@ -36,43 +35,43 @@ EndStunPause
   13,R,U,X
    2,R,J,G
   40
-
 #lvl_a2
    8,J
   15,U,X
    1,J,G
    7
   32,U,G
-   6,G
-  18,L,J
-#Spinner Cycle
-   2
-  15,R,X
-  15,D,C
-   1,L,J
-   6,L
-  13
-   9,R,D
-   3,D
-  15,R,Z
+   5,G
+   1
+  10,J
+   6
+  10,R
+   1,J
+  10
+   5,R
+   3
+   1,D
+  12,R,D
+  14,R,Z
+   2,R
    5
-   1,R
-  13,L
-   1,G
+   8,L
+   6,L,D
+   3,D
+   1,J
+   7
   30,U,G
-   3,R,J
-  16,R
+   5,G
    6,R,Z
    1,R,J
    7,R
    1,R,J
-  11,R,D,X
+  14,R,D,X
   40
 
 #lvl_a3
-   1,R,D,X
    1,R,J
-   7,R
+   8,R
    1,R,J
   14,R,D,X
    6,R,J
@@ -144,83 +143,52 @@ EndStunPause
   15,R,D,X
    1,R,J
   16,R
-   2
-   5,D
-   5,R,D
-  14,R,D,X
-   7,R,J
-  15,R
-   6,D
-  10,L,D,X
-  21,L,D,C
-  26,U,G
-  11,G
-   1,L,J,G
-   1,R,J
-   2,J
-  18,U,X
-  35,R
-  15,R,U,X
-   5,R
-  15,U,Z
-   1,L,J,G
-   5
-   2,L
-  10,L,Z
-  20,L,J
-  10,L,D,X
-  15,L,J
-  15,L,U,X
-   6
-   3,L
-  32,U,G
-   1
-   1,L,J,G
-   8,L,K,G
-  10,D
-  19,R,D
-  32,L,X
-  25,G
-   1
+  11,R,D
+  14,D,X
+  18
+  12,R,D,X
+   5,L,J
+  12,L
+  32,G
+   6,U,G
    1,J
-   1,L,K,G
-   6,R,K
+   1,K,G
+   1,L,J,G
+  10,R,X
+   1,L,J,G
+   4,R,J
    5,R
-   2,R,K
-   5,R,D
-   6,D
-  40,R,D
-   4,R
-  14,R,Z
-   1,R,J
-  14,R,D,X
-   1,R,J
-   2,R
+   6,R,J
+   0,R
+#0:20.672(1216)
   40
 
+
 #lvl_b2
-   5,R
-   5,R,J
-  15,U,X
-   2,R
-   8,L
-  22,U,G
-  19,G
-   7,U,G
-   1,L,J,G
-  22,L
-  13,R,D,X
-   1,R,J
+   4,R,J
    1,R
-  11,R,D,X
-   1,J
-   1,L,K,G
-  18,R,K
-   6,L
+StunPause
+   7,R
+SkipInput,3,1
+   4,R,U,Z
+EndStunPause
+  10,R,U,Z
+   4,R
+  10,R,J
+   1,R
+   2,R,J
+   4,R,K
+#Spinner Cycle
+   1
+######
+
+  39,R,X
+   8,R
   15,R,U,X
-  11,R
-  12,L
-  11,L,Z
+   3,R
+  10,R,J
+  13,L
+  10,L,Z
   12,L,J
   12,L
  134,G
@@ -239,6 +207,7 @@ EndStunPause
    1,R,J
    9,R,D,X
   40
+
 
 #lvl_b3
    4,R,D,X
@@ -662,4 +631,4 @@ EndStunPause
   15,R,U,X
  139
 
-ChapterTime: 1:48.341(6373)
+ChapterTime: 1:41.626(5978)
