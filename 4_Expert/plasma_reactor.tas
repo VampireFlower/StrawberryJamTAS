@@ -1,4 +1,4 @@
-RecordCount: 2677
+RecordCount: 3041
 
 console load StrawberryJam2021/4-Expert/hivemindsrule
    1
@@ -255,79 +255,66 @@ console load StrawberryJam2021/4-Expert/hivemindsrule
 
 #lvl_a7
    1,R,J
-   7,R
-   5,L
-   3
-   4,D
+  10,R
+   1,R,D
+   1,L
+   1
+   2,R
    2
+   1,L,D
+   3,D
    1,G
    9
   11,G
    4,R,Z
    1,R,J
    6,R
-  23,R,J
-  11,R,U,X
-   1,R,J,G
-   6,R
+  22,R,D,J
+   1,R,J
+   9,R,U,X
+  10,R,J,G
   40
 
 #lvl_a8
-  16,R,D,X
-   6,L
+   2,R,J
+   3,R
+  15,R,D,X
+  12,R,J
+   5,R
+   7,R,J
    1,R
-   4,L
-   2,L,D
-   3,D
-   4,L,D
-   2
-   1,G
-  11
-  18,G
-   3,D,G
-   1,G
-   1,D,G
-   1,G
-   1,D,G
-   1,J,G
-   1,R,K,G
-   1,L,J,G
-   3,R,J
+   1,R,J
+   3,R
+   1,R,J
    2,R
-  18,R,D,X
-   1,R
-   2
-  18,U,X
+  15,R
+  10,R,D
+   2,R
+  18,R,X
   15,R,U,C
   15,R,X
-  16,D
-   1,R,D
-   1,D
+   9,R
+   2,R,D
+   9,D
+  17
+   8,L,Z
+   4,R,J
    1,R
-   1,D
-   3,R
-   2
-   2,R
+   1,J
+   7,R
    1
-   7,L,Z
-   1,R,J
-   7,R
-   1,R,J
-   5,R
-  18,R,D,X
-  10,R,D
    1,R
-   1,R,D
-   1,R
-  11,R,X
-   6,R,J,G
-   7,R
-  37,U,G
-  12,L,J
-  15,R,Z
-  14
-   2,D
-   6,L,D
+  34,R,J
+  18,R,U,X
+   1,J
+   4,L,J
+   8,R,U,Z
+   2,R,J,G
+   4,R
+   1,R,J
+   2,J
+  18,D
+   1,L
    1,G
    9,D
    2,J
@@ -337,10 +324,9 @@ console load StrawberryJam2021/4-Expert/hivemindsrule
    1,L
    9,R,D
    1,D
-   3,L,G
+   3,L
    1,D
-   1,L,G
-   1,G
+   2,L
    1,L,J,G
    1,K,G
    1,L,J,G
@@ -352,19 +338,22 @@ console load StrawberryJam2021/4-Expert/hivemindsrule
    1,R
    7,R,U,Z
    1,L,J,G
-   6,R,J
-   5,R
    5,R,J
-   7,R
-  39,R,J
-  15,R,K
-   9,R,D,X
+  11,R
+  12,R,D,J
+   5,R
+   1,R,J
+  17,R
+  14,R,X
+   6,R,J,G
+  13,R
   40
 
 #lvl_a9
-  20,R,D
-  36,D
-  11,D,X
- 135
+   5,R
+  10,R,D
+  48,D
+  15,U,X
+ 124
 
-ChapterTime: 0:45.628(2684)
+ChapterTime: 0:44.761(2633)
