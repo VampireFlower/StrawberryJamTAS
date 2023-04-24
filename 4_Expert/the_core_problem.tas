@@ -1,4 +1,4 @@
-RecordCount: 4420
+RecordCount: 4571
 
 console load StrawberryJam2021/4-Expert/Banana23
    1
@@ -27,19 +27,19 @@ console load StrawberryJam2021/4-Expert/Banana23
 #lvl_a-02
    7,R
    6,R,J
-   4,J
+   5,J
    5
-   2,J
+   1
    1,R,J
   15,R,D,X
    1,R,D
-   1,R
-  20,R,U,Z
+   1,R,D
+  19,R,U,Z
    1,J
    9,L,J
    8,L,Z
-  16,R,J
-   3,R
+  18,R,J
+   1,R
   15,R,Z
   22,R,D
   46,R,X
@@ -69,11 +69,12 @@ console load StrawberryJam2021/4-Expert/Banana23
   54,R,X
   12,D,C
   34,R,X
-  12,U,C
-  11,R,J
-  31,R,D
-  19,R,X
-  33,R,C
+  11,U,C
+   2,L,J
+  10,R,J
+  28,R,D
+  21,R,X
+  32,R,C
   15,R,U,Z
    3
    9,D,X
@@ -86,16 +87,19 @@ console load StrawberryJam2021/4-Expert/Banana23
   20,L,C
   11,L,D
   15,L,Z
-   7,L
-  11
-   2,L,D
+   2
+   4,L
+   6
+   2,L
+   4
+   1,L,D
+   1,L
    1,R,D
    2,K,G
-  19,L,J
-  15,L,U,X
-  28,L
-  19,L,X
-  13,U,C
+  20,L,K
+  41,L,U,X
+  19,L,C
+  13,U,X
    7,L,J
    4,L
   15,L,D,X
@@ -190,8 +194,8 @@ console load StrawberryJam2021/4-Expert/Banana23
   28,R,C
   10,U,X
   26,R,J
-  20,R,X
-  20,R,C
+  21,R,X
+  19,R,C
   15,R,X
    2
    5,R
@@ -203,19 +207,39 @@ console load StrawberryJam2021/4-Expert/Banana23
 # don't uncrouch?
   27,R,X
    8,U,C
+
 ## +1f
 #  24,R,D
 #   6,R
 #  31,R,X
 #  10,U,C
+
+#+2f spends less time walking
+#  36,R,J
+#   8,D
+#   1,R,J
+#  18,R
+#   1
+#  10,R,J
+#  12,R
+#   1,R,J,G
+#   1,R,K,G
+#   1,R
+#   1,R,J,G
+#  13,R
   45,R,J
-   1
-  18,R
-  10,R,J
   10,R
+   1
+   5,R
+   1
+   2,R
+  10,R,J
+   5,R
+   2,R,J
+   3,R
    1,R,J,G
    1,R,K,G
-   3,R
+   1,R
    1,R,J,G
   13,R
   40
@@ -368,7 +392,7 @@ console load StrawberryJam2021/4-Expert/Banana23
   28,R,K,G
    4,K
   14,R,Z
-   6,R,J,G
+   6,R,J
    5,R,K,G
    8,R
    4,R,J
@@ -593,13 +617,15 @@ endstunpause
   11,R,J
   37,R,D
   13,D
-  17,R,X
-  12,U,C
-   6,R,J
-  21,R
-  22,R,X
+  15,R,X
+   9,U,Z
+   9,R,J
+   8,R
+   1,R,J
+  12,R
+  23,R,X
 #spinner cycle 2
-   1
+   2
 ##
   13,R,C
    3,R,G
@@ -662,4 +688,4 @@ endstunpause
   34,D,X
  138
 
-ChapterTime: 1:39.773(5869)
+ChapterTime: 1:39.671(5863)
