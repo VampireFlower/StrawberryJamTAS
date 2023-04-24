@@ -1,4 +1,4 @@
-RecordCount: 12616
+RecordCount: 12735
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -1204,32 +1204,40 @@ AnalogMode Percise
    9,R
    4
   15,R,X
-  19
-   1,J
-  24,D
-  10,R,D,X
-   1,R,J
-  19,R
-  14,R,Z
-  27,R,J
-  15,D,X
-   6,L,D
-  14,L,C
-   1,J,G
   18,D
-  10,L,D
-  15,L,X
-  30,D
-   5,L,D
+   1,J
+  21,D
+   3,L
+  10,R,Z
+   2,R,J
+   5,R
+  17,R,J
+  14,R,Z
+  23,R,J
+  15,D,X
+  15,L,C
+   1,G
+  18,D
+   1,L,D
+   6,L
+   1,L,D
+   1,L
+   1,L,D
+  15,L,D,X
+   3,L
+   4,L,D
+  11,D
+   1,L,D
+   1,D
   14,R,Z
    1,R,J
   16,R,D,X
-  35,R,J
+  36,R,J
   10,U,X
-  15,R,J
+  14,R,J
   37,R,D
 #doestn feel optimal
-  21,D
+  20,D
   15,L,X
   17,R,C
   12,G
@@ -1537,7 +1545,7 @@ EndRepeat
   20,L,D
   20,D
 #Lightning Cycle [d02_lethargicdoggo]
-   1
+   2
 #
   36,R,Z
 
@@ -3310,4 +3318,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 8:40.642(30626)
+ChapterTime: 8:40.285(30605)
