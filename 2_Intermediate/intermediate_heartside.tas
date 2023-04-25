@@ -1,4 +1,4 @@
-RecordCount: 8801
+RecordCount: 9108
 
 console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1
@@ -937,7 +937,7 @@ EndStunPause
   15,D,X
   14
 #cp3-5 lightning cycle
-   0
+   2
 ##
    7,R
    1,R,J
@@ -1155,37 +1155,44 @@ EndRepeat
   26,R
    5,R,D
   16,D
-  29,R
-   7,U,X
+  11,R
+  14,R,U,X
   24,R
-  23
+  24
    9,R
   30,R,J
   13,R
-  39,L
-  24,U,X
+  38,L
+  20,U,X
+   4,L
   15,U,Z
    1,R,J,G
-  13,R
-   8
+  14,R
+   5
+   1,R
+  13,L
+  26,L,J
+  24,L
+   1,L,J
    8,L
-  69,L,J
-   2,L,G
-  27,R,D
+   1,L,G
+  27,R
   15,R,U,X
   12,J,G
    1,K
    3,L,K
    2,R,K
-  64,R,D
-  31,R,X
-  14
-  11,R
-  17,R,J
+  62,R,D
+  15,R,Z
+  16,R,D
+   9
+  13,R
+  20,R,J
    7,K,G
-   4,J,G
-   4,L,J
-   8,K
+   7,J,G
+   1,L,J
+   3,K
+   6,L,K
   15,D,X
   16,L,D
    3,L
@@ -1360,14 +1367,16 @@ EndRepeat
    5
    1,L,J
    2,K,G
-   7,D
-  26,L,D
+   6,D
+  11,L,D
+   1,D
+  14,L,D
   14,L,X
-  29,L,G
-   1,L
-  13,R,D
-  19,R,D,G
-  17,R,G
+  29,L,U,G
+   1
+  14,R,D
+  21,R,D,G
+  13,R,G
    1,R,J,G
    1,K
    1,R,J,G
@@ -1377,11 +1386,12 @@ EndRepeat
    1,L,J
   11,L
    2,L,D
-   4,J,G
+   1,J,G
+   2,L,J
    1,R,J
-   9,L,J
+  10,L,J
   15,U,X
-   5,L
+   4,L
    2,R,J,G
    7,L
   12,L,Z
@@ -1417,13 +1427,19 @@ EndRepeat
    5,J
   14,L,X
   33,L,J
-   8,L,K,G
+   1,L,K,G
    5,L
-  18,L,K
-  12,L,D
-   1,R,J
-  13,R
- 125,L,Z
+   1,L,J
+  11,L,D
+   5,D
+   2,L,D
+   1,R,J,G
+   3,L,J
+   4,J
+  11
+   1,L
+  11,R
+ 124,L,Z
    4,L,J
   40
 
@@ -1748,4 +1764,4 @@ EndRepeat
   16,R,U,X
  135,R
 
-ChapterTime: 4:36.250(16250)
+ChapterTime: 4:35.876(16228)
