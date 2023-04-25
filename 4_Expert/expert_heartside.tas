@@ -1,4 +1,4 @@
-RecordCount: 13904
+RecordCount: 14084
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -41,11 +41,13 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    8,R
    1,R,J
   32,R
-#lvl_a00_intro1
+
+#lvl_a00_intro2
    1
    1,S
    1,D,J
   34
+
    4,L,D,X
    1,R,J
    7,R
@@ -70,6 +72,7 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    5,R
   14,R,D,X
   40
+
 #lvl_a01_jackal
    2,R,D
   11,R,J
@@ -114,6 +117,7 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
   69,R,D,X
    4,R,J
   40
+
 #lvl_a02_skunkynator
    1,R,J
    9,R
@@ -234,7 +238,7 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
   18,L,X
   27,D,C
   12,R
-  30,R,X
+  29,R,X
   19,D,C
   18,R,D,X
    2,R
@@ -245,9 +249,8 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    6,R
   15,R,D,X
    1,R
-  35,R,J
-   1,J
-   2,R,J
+  26,R,J
+  12,R
   23,D,X
   19,L,C
    4,L,J
@@ -255,8 +258,9 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1,R,J
    2,R
   19,R,D,X
-  31,R,J
+  30,R,J
    4,J
+   1,R,J
   14,U,X
    5,J
   18,U,X
@@ -266,15 +270,17 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
   12,R,D,C
    1,L,J
    2,L
-  28,L,D,X
-   4,L,J
+  27,L,D,X
+   4,L
    7,L,Z
-   1,L,J
+   4,L,J
    7,L
-  19,L,D,X
-  20,L,J
-  13,L
-  32,D,X
+  18,L,D,X
+  21,L,J
+   1,L
+   1,L,J
+  10,L
+  33,D,X
   10,L,D,C
    1,R,J
    4,R
@@ -719,8 +725,7 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
   21,R,D
   12,R,Z
 #Spinner cycle [b04_powerav]
-
-   0
+   2
 #
   45,R,X
   15,U,C
