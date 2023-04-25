@@ -1,4 +1,4 @@
-RecordCount: 14084
+RecordCount: 14232
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -437,31 +437,35 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
 
 #lvl_b00_intro
   10,L,D,X
-   6,R,J
-   8,R,D,X
-   2,R,J,G
-  25,R
+   2,R,J
+   4,R
+   1,R,J
+   7,R,D,X
+   1,R,J,G
+  11,R
+  14,R
    1,R,J
    1,R,K
    1,R,J
-   5,R,K,G
-   1,R,J,G
-   9,R
-   5,R,J
-   6,R,K,G
-   5,R
-  15,R,D,X
+   1,R,K
    2,R,J
-   3,R
-   4,R,K,G
-  17,R
+   5,R,D,X
+   3,R,J,G
+   5,R
    1,R,J
-   8,R,D,X
+   8,R
+   7,R,J
+  15,R,D,X
+   1,R,J
+   6,R,K,G
+  15,R
+   7,R,D,X
   40
 
 #lvl_b01_stotch
-   6,R,D,X
-   8,R
+   5,R,D,X
+   6
+   2,R
   14,U,X
    9,R
   16,R,X
@@ -724,9 +728,9 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
   19,D
   21,R,D
   12,R,Z
-#Spinner cycle [b04_powerav]
-   2
-#
+## Spinner cycle [b04_powerav]
+   0
+##
   45,R,X
   15,U,C
 #Waiting an additional frame get more distance
@@ -1598,9 +1602,9 @@ EndRepeat
   50,D
   20,L,D
   20,D
-#Lightning Cycle [d02_lethargicdoggo]
+## Lightning cycle [d02_lethargicdoggo]
    0
-#
+##
   36,R,Z
 
 #lvl_d00_intro
@@ -1910,10 +1914,10 @@ EndStunPause
   43
 
 #lvl_d04_yoshachobi7
-# Spinner cycle [f01_quantumspaceman]
-# TODO: Find a spot closer to the actual stun
+## Spinner cycle [f01_quantumspaceman]
+## TODO: Find a spot closer to the actual stun
    0
-#
+##
   14,R
    6,R,Z
    1,R,J
@@ -3367,4 +3371,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 8:27.756(29868)
+ChapterTime: 8:27.552(29856)
