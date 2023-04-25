@@ -1,4 +1,4 @@
-RecordCount: 13416
+RecordCount: 13492
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -1752,27 +1752,25 @@ EndRepeat
   28,D,G
    4,G
    1,D
-   5,R
+   5
   14,L,Z
    1,R,J
    5,R,D,X
   13,R,G
-   1,L,D,J,G
+   1,R,D,J,G
   13,R,D,X
 StunPause
    8,R,D
-   2,R,D,J
+#Could stop stun here but that
+#makes next lightning load too early
+   2,R,J
 EndStunPause
-   1,R,D,J
-   6,R
+   1,R,J
+   5,R
    1,R,J,G
-   2,R
-StunPause
-   2,R
-EndStunPause
-   6,R
-  17,R,U,Z
-   6,R,J,G
+   9,R
+  15,R,U,Z
+   7,R,J,G
    7,R,K,G
    7,R
    6,R,Z
@@ -1883,7 +1881,7 @@ EndStunPause
 #lvl_d04_yoshachobi7
 # Spinner cycle [f01_quantumspaceman]
 # TODO: Find a spot closer to the actual stun
-   2
+   0
 #
   14,R
    6,R,Z
@@ -3330,4 +3328,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 8:29.813(29989)
+ChapterTime: 8:29.541(29973)
