@@ -3,7 +3,7 @@ Unsafe
 #This will wipe the debug save!
 #Uncomment at your own peril.
 console clrsav
-console load StrawberryJam2021/0-Lobbies/2-Intermediate
+#console load StrawberryJam2021/0-Lobbies/2-Intermediate
 EnforceMaingame
    1
 
@@ -56,13 +56,12 @@ Read,2_Intermediate/pufferfish_transportation,Start
    1,O
   32
 
-Read,2_Intermediate_Lobby/int_6-8,Start
-Read,EnterLevel,Start
+Read,2_Intermediate_Lobby/int_6-8warpTo10,Start
 Read,2_Intermediate/supernautica,Start
    1,O
   32
 
-Read,2_Intermediate_Lobby/int_8-10,Start
+Read,2_Intermediate_Lobby/int_8-10fromwarp,Start
 Read,EnterLevel,Start
 Read,2_Intermediate/honeyzip_inc,Start
    1,O
