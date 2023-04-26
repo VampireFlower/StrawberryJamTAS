@@ -1,4 +1,4 @@
-RecordCount: 1461
+RecordCount: 1538
 
 console load StrawberryJam2021/4-Expert/Archire
    1
@@ -85,15 +85,18 @@ console load StrawberryJam2021/4-Expert/Archire
    7,R
    1,L,J
   14,R,J
-   8,R,Z
-  23,R,J
-  12,L,U,X
-  61,R
+  10,R,X
+  26,R,J
+   9,L,U,Z
+  28,R,D
+   4,D
+  16,R,D
   14,R,U,Z
-  34,R,D
+  29,R,D
    4,R,Z
    1,R,J
-  18,R,D
+   8,D
+  10,R,D
    4,R,Z
 
 #lvl_a-04
@@ -107,12 +110,11 @@ console load StrawberryJam2021/4-Expert/Archire
   19,R
   14,L,U,X
   18,R
-  15,L,X
-  41,R
-   9,D,X
-  24,R
-   8,L,U,Z
-  16,R
+  14,L,X
+  49,R,D
+  17,R,U,X
+   9,L,U,Z
+  14,R
   15,R,D,X
   19,R,D
    1,R,J
@@ -190,7 +192,7 @@ console load StrawberryJam2021/4-Expert/Archire
   17,R,D,X
    9,R,J
   13,R,U,X
-  24,L
+  22,L
    3
   14,L,D,X
    1,R,J
@@ -273,10 +275,9 @@ console load StrawberryJam2021/4-Expert/Archire
   39,L,J
   21,R
   11,L,U,Z
-   2,R
-   5,L
+   5,R
+   2,L
   47,R
-
   29,U,X
 
 #lvl_a-09
@@ -449,4 +450,4 @@ console load StrawberryJam2021/4-Expert/Archire
   46,L,X
   52,L,C
 
-ChapterTime: 1:08.850(4050)
+ChapterTime: 1:08.425(4025)
