@@ -1,4 +1,4 @@
-RecordCount: 2239
+RecordCount: 2259
 
 console load StrawberryJam2021/3-Advanced/Oppen
    1
@@ -228,7 +228,7 @@ console load StrawberryJam2021/3-Advanced/Oppen
    3,R
    1,R,J
   15,D,X
-  25,D
+  24,D
    1,S
    1,D,J
   69,O
@@ -433,4 +433,4 @@ console load StrawberryJam2021/3-Advanced/Oppen
   13,L,U,Z
  135,L,G
 
-ChapterTime: 0:52.411(3083)
+ChapterTime: 0:52.394(3082)
