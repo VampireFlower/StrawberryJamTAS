@@ -1,4 +1,4 @@
-RecordCount: 9108
+RecordCount: 9401
 
 console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1
@@ -1191,22 +1191,24 @@ EndRepeat
    7,K,G
    7,J,G
    1,L,J
-   3,K
-   6,L,K
+   9,L,K
   15,D,X
-  16,L,D
-   3,L
-  14,L,D
-  24,R,D
-  17,R,Z
+  10,L
+  26,L,D
+   4,L
+  15,R,D,X
+   2,R
+   2
+   4,R
    1,R,J,G
-  17,R
+   1,R,K,G
+  14,R
    1,R,J
-  10,R
+  13,R
   40
 
 #lvl_cp3-4-vitellary
-   6,R,D,X
+   7,R,D,X
    1,R,J
   16,R,D
   12,L,D,X
@@ -1445,20 +1447,23 @@ EndRepeat
 
 #lvl_cp4-2-thebreadstick1
   14,L,D,X
-   1,L,J
+   3,L,J
+  15,L,D,X
    2,L
-  17,L,D,X
-   8,L,J
-   4,L
-  15,X
-  21,U,C
+   5,L,J
+   2,L
+   6,L,X
+  11,L
+  15,U,C
+   6,L
   23,L,Z
   15,L,U,X
    9,L
-   9,L,Z
-   8,L,J,G
-  17,L,D
-  17,D,X
+  10,L,X
+   5,L,J,G
+   9,L
+  11,L,J
+  15,D,X
   14,L,D,C
    1,L,J
    3,L
@@ -1505,7 +1510,7 @@ EndRepeat
    1,R,J
    1,R,K
    2,R
-  12,R,Z
+  12,R,X
 #to gain dash ability back
 #you need to touch refill hitbox
 #before refill respawned
@@ -1764,4 +1769,4 @@ EndRepeat
   16,R,U,X
  135,R
 
-ChapterTime: 4:35.876(16228)
+ChapterTime: 4:35.655(16215)
