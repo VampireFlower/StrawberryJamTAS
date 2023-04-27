@@ -1,41 +1,40 @@
-RecordCount: 3592
+RecordCount: 3879
 
 console load StrawberryJam2021/3-Advanced/sp1029
    1
 
 #Start
 #Power Box Cycle (Next cycle should be at 65)
-  16
+  25
 
 #lvl_a-01
-   1,L,K
-   8,L,X
+  10,L,X
    1,R,J
-  20,J,G
+  20,R,J,G
    3,L,D,G
    1,L
-   3,D
-  10,R,U,X
-   5,L,D
-   6,R,D,X
+   8,R,U,X
+   6,R,D
+   6,R,Z
    1,L,J
-   6
-   1,J
+   2
+   2,J
    1
-   7,L,Z
+   1,J
+   3
+   8,L,Z
    1,R,J
    6,R
    1,R,J
-  12,R,D,X
+  10,R,D,X
    1,R,J
-   2,R
+   4,R
   13,R,D,X
-   2,R,J
-   6,R
-  15,R,D,X
-  16,R,D
-   6,R
-   4,R,X
+   1,R,J
+  19,R,D
+   4,L,D
+  17,R,D
+   4,X
    3,R,J
   40
 
@@ -71,17 +70,21 @@ console load StrawberryJam2021/3-Advanced/sp1029
 #lvl_a-04
    4,U,X
   12,R,K,G
-   6,R,Z
+   5,R,Z
    1,R,J
-   7,R
+   3,R
    1,R,J
-  10,R
-   6,R,Z
-   3,L,J
-  15,L,G
-   6,R,G
+   3,R
+   1,R,J
+  11,R
+   5,R,Z
+   1,L,J
+   2,L
+  13,L,G
+   2,L,J,G
+   6,L,G
   44,R,D,G
-  12,D,G
+  17,D,G
   13,G
    5,R,G
    1,D
@@ -99,7 +102,7 @@ console load StrawberryJam2021/3-Advanced/sp1029
   40
 
 #lvl_a-05
-  10,R,D
+  10,R
   19,D,X
   39,R,D
   14,D,X
@@ -124,28 +127,25 @@ console load StrawberryJam2021/3-Advanced/sp1029
    3,L,K
    1,D,G
    5,D
-  45,D,G
+  40,D,G
    1,L
-   4,R,D
-   1,L,D
+  10,R,D
    1,K
-  11,L,D
-   6,L,Z
-   1,R,J
-   7,R,D
-   1,R,J
-   6,R,D,X
+  11,L
+   4,R,Z
+   2,R,J
+   7,R
   40
 
 #lvl_a-06
-   8,R,D,X
+   1,R
    1,R,J
-   3,R
+  14,R,D,X
    1,R,J
-   3,R
-  15,R,J
-   8,U,X
-   7,R,J
+   7,R
+  11,R,D,J
+  10,U,X
+   6,R,J
   43
 
 #lvl_a-07
@@ -195,21 +195,21 @@ console load StrawberryJam2021/3-Advanced/sp1029
   12,D
    5,L,D
   13,R,D
-   4,D
-   2,R,D
-   3,D
-   2,R
-   7,R,K
-   2,R,J,G
-  11,R,Z
-   4,R,J
+  10,D
+   7,R,Z
+   1,R,J
+   5,R,K,G
+   3,R
+   1,R,J,G
+   5,R
+   1,R,J
    1,R
   40
 
 #lvl_a-08
-   7,R,D
-  21,R,D,G
-   5,L,D,G
+   5,R
+  19,R,D,G
+   7,L,D,G
    6,R,J,G
    2,J,G
    1,R
@@ -227,35 +227,42 @@ console load StrawberryJam2021/3-Advanced/sp1029
    5,L
   16,L,U,C
   25,L,D,G
-  35,D,G
+  32,D,G
+   3,R,D,G
+   2,D,G
    1,R
-   3,R,D
-   1,D
-   3,L,D
-  11,L
-  10,R,Z
+  12,L,D
+   1,L,J
+  14,R,D,X
   11,R,J
-   9,R
-  21,R,D,G
+   8
+  20,R,D,G
+   1,D,G
    1,R
   11,L,X
-  25,R
-  10,L,Z
+  20,R
+  14,L,Z
    1,R,J
-   7,R,D
+  10,R,D,X
    1,R,J
-   9,R,D,X
+   4,R
+   6,R,D,X
   40
 
 #lvl_a-09
-   5,R,D,X
-  11,R,J
-  18,R,D,G
-  10,D,G
+   7,R,D,X
+   8,R,J
+  13,R,D,G
+   1,G
+   1,R,G
+   4,G
+   8,D,G
    1,R
-  10,L
+   8,L
+   2,L,D
   15,L,Z
-  12,L,J
+  10,L
+   2
   15,L,D,X
    7,D
   11,R,D
@@ -355,9 +362,9 @@ console load StrawberryJam2021/3-Advanced/sp1029
   40
 
 #lvl_a-13
-#would be faster on a bad cycle
+#would be faster if you save 10f?? i think
 #not sure about the specifics
-#inputs will need to be edited
+#inputs might need to be edited
 #   4,R
 #   1,R,J
 #  10,R,D,X
@@ -369,15 +376,13 @@ console load StrawberryJam2021/3-Advanced/sp1029
 #   6,U,C
 # 135
 ##
-
    4,R
    1,R,J
    4,Z
    1,R,J
    7,R
-  10,R,J
-   7,J
-  22,R,U,Z
+  14,R,J
+  23,R,U,Z
    4,X
  135,D
 
