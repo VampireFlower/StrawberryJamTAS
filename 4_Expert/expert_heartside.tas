@@ -1,4 +1,4 @@
-RecordCount: 14923
+RecordCount: 15264
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -191,16 +191,19 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
   12,R,D
   26,R,X
    4,R,J
-   2,R,K
-   9,R
-  44,R,X
+   7,R,Z
+   7,R,J
+   1,R
+   2,R,J
+   1,R
+  39,R,Z
    4,R,J
   19,R,K
   15,R,D,X
    7,R
 #Once more time is left until the
 #cycle, a 6f bhop would save a bit of time
-   5
+   6
    2,J
    8,R,Z
    1,R,J
@@ -307,9 +310,9 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    5,U,G
   10,J,G
 #this interaction sucks
-   4,R,J
-   1,R,K,G
-   9,R
+   3,R,J
+   2,R,K,G
+   6,R
    1,R,N
    1,R,J
    2,R
@@ -321,8 +324,8 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1,R,J
   16,R,D,X
    7,R,J
-  11,R
-  19,R,U,X
+  13,R
+  20,R,U,X
    4,R,J
    7,R,Z
   26,R,J
@@ -332,7 +335,8 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
   22,L,X
    4,L,J
    7,L,Z
-  11,L,J
+  10,L,J
+   1,L
   10,L,D,X
    1,L,J
    4,L
@@ -343,31 +347,33 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    7,R,Z
    2,R,J
    9,R
-  21,R,D,X
+  20,R,D,X
   28,R,J
-  26,R,X
+  24,R,X
    4,R,J
   10,R,Z
   21,R,J
-  14,U,X
+  13,U,X
   15,R,J
   46,R,D
-   4,D
-  21
+   3,D
+  13
+   8,L
   14,R,Z
    1,R,J
   23,R,D,X
    2,R,J
    6,R,D,X
    1,L,J,G
-  53,R,D
+  45,R,D
+   9,R
    1,R,J
-   6,R,D,X
+   5,R,D,X
   40
 
 #lvl_a05_flamecrafter
    6,R,J
-   5,R
+   6,R
    9,D,X
    9,L,J
   17,U,X
@@ -735,7 +741,7 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
   21,R,D
   12,R,Z
 ## Spinner cycle [b04_powerav]
-   1
+   2
 ##
   45,R,X
   15,U,C
@@ -3384,4 +3390,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 8:25.308(29724)
+ChapterTime: 8:25.257(29721)
