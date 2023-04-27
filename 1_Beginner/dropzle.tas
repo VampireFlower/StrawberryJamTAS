@@ -1,4 +1,4 @@
-RecordCount: 1040
+RecordCount: 1094
 
 console load StrawberryJam2021/1-Beginner/Owen-Shirrell
    1
@@ -8,7 +8,6 @@ console load StrawberryJam2021/1-Beginner/Owen-Shirrell
    1,S
    1,D,J
   34
-
 #lvl_00 - Overpass
    1,L,J
   13,R,Z
@@ -22,16 +21,21 @@ console load StrawberryJam2021/1-Beginner/Owen-Shirrell
    1,L,D
    1,D
    1,L,D
-  15,R,D
-   4,R,D,X
+
+  11,R,D
+  12,R,D,X
+   2,R,J
    1,R,J
-  10,R
+  16,R,D,X
+   1,R,D
    1,R,J
-  15,R,D,X
-  14,R,D,C
+  14,R,D,X
    1,R,J
-   1,R
+   2
    8,D,X
+#0:04.811(283)
+#0:04.828(284)
+
   40
 
 #lvl_02 - Breadth
@@ -267,5 +271,6 @@ console load StrawberryJam2021/1-Beginner/Owen-Shirrell
    6,L,D
   15,D,X
    5,D
+
  135
-ChapterTime: 0:35.292(2076)
+ChapterTime: 0:35.275(2075)
