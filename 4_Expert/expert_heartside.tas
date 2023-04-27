@@ -1,4 +1,4 @@
-RecordCount: 14593
+RecordCount: 14923
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -371,33 +371,38 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    9,D,X
    9,L,J
   17,U,X
-  14,L,J
+  15,L,J
   13,L,X
-   7,R,J
+   5,R,J
   15,R,D,X
-  35,R,J
-  12,U,X
-  34,R,J
-  10,R,D,X
-   1,L,J
+  10,D,C
   13,R,J
-   6,L,J
-  10,R,X
-  14,L,J
+   6,R
+  15,R,U,X
+   9,R
+   4,L,Z
+   1,L,J
+   7,R,J
+  15,L,J
+  14,R,X
+   1,L,J
+   9,D,X
+   3,L,J
    9,L
   14,L,D,X
-  20,L,J
-  11,L
-  14,L,Z
-   8,R,J
-  14,U,X
-   6,L,J
-  14,R,J
+   1,L,J
+   9,D,C
+  11,R,J
+  11,L,J
+  15,U,X
+   9,R,J
+   8,J
+   6,R,J
   15,R,X
   15,R,C
-  15,R,D
-  15,L,D
-   2,L
+  14,R,D
+  16,L,D
+   1,L
   10,R,D,X
   20,R,J
   30,R,X
@@ -408,17 +413,18 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    4,X
   46,L,D,X
    4,R,J
-   7,R,Z
-  21,R,J
-   5,L,X
-   8,R,J
-   5,R
+   4,R,Z
+  20,R,J
+  11,R,X
+   7,R,J
   15,R,D,X
-   9,R,J
-  14,R
-  42,R,X
-  12,L,D
-   2,D
+   1,R,J
+   9,D,C
+   1,R,J
+  21,R
+  33,R,X
+  11,L,D
+   3,D
   53,D,X
   34,R,U,C
    4,L,J
@@ -3378,4 +3384,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 8:26.328(29784)
+ChapterTime: 8:25.308(29724)
