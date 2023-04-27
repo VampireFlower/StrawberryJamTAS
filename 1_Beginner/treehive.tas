@@ -5,6 +5,10 @@ console load StrawberryJam2021/1-Beginner/skeleton
 
 #Start
   91
+
+#spinner cycle
+   0
+
 #lvl_skeleton_00
   10,L,Z
    1,R,J
@@ -268,9 +272,6 @@ console load StrawberryJam2021/1-Beginner/skeleton
    1,L
   28,L,D,X
    4,R,G
-#Spinner cycle
-   0,G
-##
   21,R,X
    4,R,J
    3,R,K
