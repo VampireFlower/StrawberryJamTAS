@@ -1,4 +1,4 @@
-RecordCount: 10178
+RecordCount: 10298
 
 console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    1
@@ -1620,17 +1620,16 @@ EndStunPause
   34,L,D
   15,L,Z
   13,D,X
-   4,R
+   9,L
+   8,J,G
+   1,R,J
+  10,L,K,G
    1,J
-  10,R,J
-   8,R
-   6,R,J
-   5,R
-   2,R,K
-  10,R,D
-   1,D
-   1,R,D
-  19,L,D
+   1,K,G
+   9
+   1,R
+   1,L
+  21,L,D
   16,L,Z
    1,R,K
   17,R,D
@@ -1652,23 +1651,26 @@ EndStunPause
   11,L,J
   11,L,D,X
   11,R
-  26
-   9,L
-   1,L,D
+  24,J
+  10,L,J
+   1,J
    2,L,D,J
-   9,L,D
-  22,D
+   8,L,J
+   3,L
+   6
+   1,L
+   1
+  10,D
   15,U,X
   13,R
    1,R,J,G
    1,R,K,G
-  14,R
+  13,R
   10,R,D,J
-   2,L,J
-   1,K,G
-  13,R,K
-   7,J,G
-   2
+  11,R,K
+   1,R
+   9,J,G
+   3
    1,K
    2,J,G
   17,L,J
@@ -1980,4 +1982,4 @@ Repeat 33
 EndRepeat
    1
 
-ChapterTime: 4:31.762(15986)
+ChapterTime: 4:31.592(15976)
