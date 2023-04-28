@@ -3,28 +3,30 @@ console load StrawberryJam2021/0-Lobbies/4-Expert 2216 448
 
 #Start
   36
-   6,L,Z
-   1,L,J
-   7,L
+***s
+   4,Z
+   2,L,J
+   8,L
    1,L,J
    7,L,D,X
    1,L,J
    4,L
    1,L,J
-   1,L,K,G
-   8,L
-   2,L,J
-  13,L,Z
-   1,L,J,G
-  10,L
-   1,L,J
-   9,L,U,X
-  11,L,J,G
-   3,L,K,G
-  13,L
-  34,L,D,X
-   1,L,J
+   7,L,K,G
+   6,L,D,X
+   2,L,J,G
+   5,L
+   1,L,K
+   4,L
+   1,L
+   6,L,J
+   4,L
+   9,L,K,G
+   2,L,J,G
+   5,L,K,G
+   5,L
+  36,L,D,X
    2,L,J
   20,L,D,X
    1,N
-#0:02.380(140)
+#0:02.193(129)
