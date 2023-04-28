@@ -1,4 +1,4 @@
-RecordCount: 16000
+RecordCount: 16080
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -847,6 +847,7 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    6,L,D
    1,L
    7,D
+## Cycle in b03_banana
 StunPause
    7,R,D
    3,R
@@ -1608,10 +1609,10 @@ AnalogMode Percise
    4,D
    1,L,D
    7,D
-repeat 3
+Repeat 3
    1,D
    1,L,D
-endrepeat
+EndRepeat
    7,L,D
    1,D
    2,L,D
@@ -1640,35 +1641,42 @@ endrepeat
 #lvl_c06_fall
   50,D
   20,L,D
-  20,D
+  21,D
 ## Lightning cycle [d02_lethargicdoggo]
    0
 ##
-  36,R,Z
+  36,R,X
 
 #lvl_d00_intro
-   5,L,J
-  12,K,G
-  10,J,G
-  13,L,D,X
-   9,R,J
+  12,L,J
+   2,K,G
+   1
+  13,L,Z
+   1,R,J
+   2,J
+   2,R,J
+   1,J
+   3,R,J
   15,R,D,X
    1,R
+   1,R,J
    1,J
-   6,R,J
-   8,R,D,X
-   7,R,J,G
+   2,R,J
+   5,R
+   6,R,D,X
+   4,R,J,G
    5,R
    1,R,J
   11,R
-   7,R,J
+   6,R,J
+   1,J
    7,R,X
   40
 
 #lvl_d01_ru
    8,R,X
    5,R,C
-  33,R,G
+  32,R,G
    4,R,J,G
    7,R,Z,G
   48,R,U,J,G
@@ -1834,6 +1842,7 @@ endrepeat
   13,R,G
    1,R,D,J,G
   13,R,D,X
+## Cycle in c06_fall
 StunPause
    8,R,D
 #Could stop stun here but that
@@ -2695,6 +2704,7 @@ EndStunPause
    1,S,N
   10,J
    1,R,J
+## Cycle in d04_yoshachobi7
 StunPause
    1,R,J
    1,R
@@ -3408,4 +3418,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 8:22.809(29577)
+ChapterTime: 8:22.554(29562)
