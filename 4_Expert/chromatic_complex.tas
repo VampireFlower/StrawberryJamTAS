@@ -1,4 +1,4 @@
-RecordCount: 2187
+RecordCount: 2610
 
 console load StrawberryJam2021/4-Expert/Archire
    1
@@ -170,56 +170,59 @@ console load StrawberryJam2021/4-Expert/Archire
    1,R,J
    8,R
    1,R,G
+   9
+   5,R,G
+   5,R,X
    1,R,J,G
-   5,R
-  18
-   8,L,Z
-   1,R,J
-   7,R
+   1,R,K,G
+   1,R,J,G
+   2,R,K,G
+   9,R
    1,R,J
   15,R,D,X
    2,R
    3,R,J
-  23,R
+   4,R,J
+   7,R
+  12
   14,R,U,X
-   5,R
+   3,R
+#you can keep speed much farther but seemed like nothing to do
+   1,J
   14,R,Z
    3,R,J
   17,R,D,X
-  13,U,C
-  35,R,J
+  14,U,C
+  31,R,J
   10,L,U,Z
-  28,R
+  27,R
   15,D,X
-   5,L,D
-   1
+   6,R
   13,L,D,C
    1,R,J
    1,R
   17,R,D,X
    9,R,J
   13,R,U,X
-  22,L
-   3
+  20,L
+   6
   14,L,D,X
    1,R,J
    4,R
   24,R,D,X
-   1,R
-  32,R,J
+  30,R,J
   15,R,D,X
-  10,R
+  12,R
   16,R,D,J
    1,J
    1,R,J
    1,J
    2,R,J
-  11,R
+  10,R
+   1
   14,R,U,X
    1,R,J,G
   13,R
-#transition to a-04 gets a gultra
-#idk why that doesnt work here
    3,R,J
    1,Z
 
@@ -234,10 +237,9 @@ console load StrawberryJam2021/4-Expert/Archire
   14,R,D,X
    1,R,J
   16,R,D,X
-  36,R,J
-  17,U,X
-  17,R,J
-  14,R,X
+  25,R,J
+  21,R,U,X
+  18,R,U,C
   25,L
   16,U,X
   10,R,D,C
@@ -250,15 +252,16 @@ console load StrawberryJam2021/4-Expert/Archire
   16,R,D
   10,R,D,X
   17,R,J
-  16,L,X
-  19,R
-  14,L,D,X
+   5,R
+  19,L,X
+  14,L,D,C
    1,L,J
+   1,L
   16,L,D,X
-  15,L,J
-  36,U,X
-  41,U,Z
-  23,U,X
+  25,L,J
+  32,U,X
+  42,U,C
+  25,U,X
 
 #lvl_a-08
    6,L,Z
@@ -459,4 +462,4 @@ console load StrawberryJam2021/4-Expert/Archire
   46,L,X
   52,L,C
 
-ChapterTime: 1:07.405(3965)
+ChapterTime: 1:06.844(3932)
