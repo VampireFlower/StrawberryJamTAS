@@ -1,4 +1,4 @@
-RecordCount: 3260
+RecordCount: 3271
 
 console load StrawberryJam2021/5-Grandmaster/Ecl1psed
    1
@@ -299,14 +299,17 @@ EndRepeat
   40
 
 #lvl_a-03b
+   6,R
+   6,R,J
   10,L,D,X
    2,R,J
 StunPause
-   7,R,J
-  15,R
+   6,R,J
+  14,R
 SkipInput 3 1
-  15,R,U,Z
+  13,R,U,Z
 EndStunPause
+   2,R
   12,L,K,G
   12,L,J,G
   12,L,K,G
@@ -318,7 +321,7 @@ EndStunPause
   11,J
 #cycle
 #terrible spot
-   0
+   1
 #
   10,R,Z
    3,R,J
@@ -721,4 +724,4 @@ EndStunPause
   15,U,X
  138,R
 
-ChapterTime: 2:03.862(7286)
+ChapterTime: 2:03.675(7275)
