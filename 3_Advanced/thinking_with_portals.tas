@@ -1,4 +1,4 @@
-RecordCount: 4326
+RecordCount: 4504
 
 console load StrawberryJam2021/3-Advanced/sp1029
    1
@@ -11,7 +11,6 @@ console load StrawberryJam2021/3-Advanced/sp1029
    1,R,J
   20,R,J,G
    3,L,D,G
-
    3,L,D,G
    1,J
   12,R,U,Z
@@ -27,27 +26,28 @@ console load StrawberryJam2021/3-Advanced/sp1029
    1,R,J
   18,R,D
    5,L,D
-  17,R,D
-   4,X
-   3,R,J
+  13,R,D
+   4,R,D
+
+   4,Z
+   2,R,J
   40
 
 #lvl_a-02
-   3,R,J
-  14,R,J,G
-  10,R,G
-   1,R
-  16,D,X
-   1,R
-   1
-   6,R
-  13,U,X
-  29,R,G
-   1,R
-  18,R,U,X
+   2,R,J
+  22,R,J,G
+   1,R,J
+  15,D,X
+   1,L
+   4,R
    3,R
-  10,R,X
-  32,R,D,G
+  13,U,X
+  30,R,J,G
+   1,J
+  18,R,U,X
+   3
+  10,R,X,G
+  33,R,D,G
   21,L
    9
   19,R,G
@@ -56,7 +56,6 @@ console load StrawberryJam2021/3-Advanced/sp1029
    2,R,K
    1,J
    8,R,K,G
-
   40
 
 #lvl_a-04
@@ -76,15 +75,15 @@ console load StrawberryJam2021/3-Advanced/sp1029
    7,J,G
   23,R,D,G
   28,D,G
-  15,G
-   3,R,G
-   1,D
-  10,U,X
-  25,G
+   4,L,G
+   6,R,G
    1,R
-  15,D,X
-   4,R
-  13,R,D
+  14,U,X
+  24,G
+   1,R
+  15,R,D,X
+  16,R,D
+   3,R
    5,R,Z
    6,R,J
    1,R
@@ -93,11 +92,22 @@ console load StrawberryJam2021/3-Advanced/sp1029
   40
 
 #lvl_a-05
-#probs faster to cboost here but didn't have time
-  10,R
+   1,R,J
+   1,R,J
+   1,R
+   1,R
+   1,R
+   5,R
   19,D,X
-  39,R,D
+   3,D
+   6,R,D
+   1,D
+   9,R,D
+   1,R,J,G
+   1,R,K,G
+  15,R
   14,D,X
+   2,R,D
    8,J
   21,L,G
    1,L
@@ -112,14 +122,14 @@ console load StrawberryJam2021/3-Advanced/sp1029
    6,L
    7,L,Z
   12,R,J
-   3,R
+   4,R
   21,R,G
    1,R
   11,R,U,X
-   3,L,K
-   1,D,G
-   5,D
-  40,D,G
+   3,L,D,K
+   2,G
+   3,D
+  41,D,G
    1,L
   10,R,D
    1,K
@@ -138,13 +148,11 @@ console load StrawberryJam2021/3-Advanced/sp1029
    9,R,J
    2,J
   14,U,X
-
   43
 
 #lvl_a-07
    6,R,J
    5,R
-
    5,R,Z
    1,R,J
    6,R
@@ -361,7 +369,7 @@ console load StrawberryJam2021/3-Advanced/sp1029
 #   4,R
 #   1,R,J
 #  10,R,D,X
-#   7,R,J
+#  12,R,J
 #  15,R,U,X
 #  12,R,D
 #  25,D
@@ -374,8 +382,12 @@ console load StrawberryJam2021/3-Advanced/sp1029
    4,Z
    1,R,J
    7,R
-  10,R,J
-  25,R,U,Z
-   4,X
+#  10,R,J
+#  24,R,U,Z
+#0:50.371(2963)
+#   4,X
+   7,R,J
+  24,R,U,X
+   4,C
  135,D
-ChapterTime: 0:52.598(3094)
+ChapterTime: 0:52.428(3084)
