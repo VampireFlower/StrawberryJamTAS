@@ -1,4 +1,4 @@
-RecordCount: 16801
+RecordCount: 17100
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -230,8 +230,7 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
   12,J
   14,R,Z
    1,R,J
-  16,R,X
-   8,R,X
+  24,R,X
   15,D,C
   18,L,X
   27,D,C
@@ -1327,21 +1326,6 @@ AnalogMode Percise
 #lvl_c03_alice
    7,R,J
   15,R,D,X
-##
-#   3,R
-#  12,R,D,J
-#   1,R,J
-#  12,R,J
-#   3,R
-#  14,R,D,X
-#   1,R,J,G
-#  11,R
-#   5,R,J
-#   5,R,X
-#  10,R,C
-#  23,R,J
-# 540,U,X
-##
    3,R
   12,R,D,J
   13,R,J
@@ -1355,27 +1339,34 @@ AnalogMode Percise
   13,U,X
   24,L,J
   28,L,X
-  10,R,U,C
-  39,R,D,G
-  21,R,X
-  10,R,U,C
-  34,R,G
+  12,R,U,C
+  33,R,D,G
    1,R
-  14,L
-   4,R,J
-   1,R
-  15,R,U,X
-  32,R,D
-  38,D
+  16,R,U,X
+  14,R,Z
+  20,R,G
+   6,D,G
+   1
+  15,L
+   2
+   1,K
+   5,R,K
+   4,R
+  22,R,X
+   4,R
+  34,D,X
+   5
+   6,R
    5,U,X
-  21,L,G
-   9,U,X
   21,G
-   3,L,G
    1,L
-  15,R,D,X
-  10,R
-   3
+   9,U,X
+  21,L,G
+   2,G
+   1,L,G
+   1
+  18,R,D,X
+   8,R
    5,R,D,X
    9,R,Z
   13,R,J,G
@@ -1597,35 +1588,32 @@ EndRepeat
 #lvl_c06_fall
   50,D
   20,L,D
-  21,D
-## Lightning cycle [d02_lethargicdoggo]
+  12,D
+   2
+   1,D
+   1
+   4,D
+# Lightning cycle [d02_lethargicdoggo]
    0
 ##
-  36,R,X
-
+  36,R,Z
 #lvl_d00_intro
-  12,L,J
-   2,K,G
-   1
+   4
   13,L,Z
    1,R,J
-   2,J
+   6,R
    2,R,J
-   1,J
-   3,R,J
-  15,R,D,X
-   1,R
-   1,R,J
-   1,J
-   2,R,J
+   7,R,Z
+   3,R,K,G
    5,R
-   6,R,D,X
-   4,R,J,G
-   5,R
-   1,R,J
-  11,R
-   6,R,J
-   1,J
+   4,R,J
+   8,R
+   8,R,D,X
+   5,R,J,G
+  10,R
+# Resync into next room could be better
+   1,L,J
+   6,J
    7,R,X
   40
 
@@ -3374,4 +3362,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 8:20.412(29436)
+ChapterTime: 8:19.800(29400)
