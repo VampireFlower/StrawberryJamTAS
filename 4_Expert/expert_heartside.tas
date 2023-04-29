@@ -26,7 +26,7 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1,R,D,J
    1,R
    1
-#can get 436 but probbly doesnt matter
+# Can get 436 but probbly doesnt matter
   15,R,D,X
    5,R,D
    1,R,J
@@ -128,7 +128,7 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
   27,L,D,X
    4,R,G
   30,R,X
-#Few frames off catching next cycle
+# Few frames off catching next cycle
    5,R
   44,G
   16,D
@@ -200,8 +200,8 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
   19,R,K
   15,R,D,X
    7,R
-#Once more time is left until the
-#cycle, a 6f bhop would save a bit of time
+# Once more time is left until the
+# cycle, a 6f bhop would save a bit of time
    6
    2,J
    8,R,Z
@@ -210,6 +210,16 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
   40
 
 #lvl_a03_pansear
+## Strat for 6f bhop
+#   5,R,K,G
+#   2,R
+#   6,R,X
+#   3,R,J,G
+#   7,R
+#  12,R,J
+#   3,R
+#  14,R,D,X
+##
    1,R,K,G
    5,K
    2
@@ -221,16 +231,6 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
   14,R,Z
    1,R,J
   16,R,X
-## Strat for 6f bhop
-#   5,R,K,G
-#   2,R
-#   6,R,X
-#   3,R,J,G
-#   7,R
-#  12,R,J
-#   3,R
-#  14,R,D,X
-##
    8,R,X
   15,D,C
   18,L,X
@@ -329,8 +329,8 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
   18,L
   15,L,X
   18,L
-#Need to wait 132f after activating first block
-#for the multiboost to align
+# Need to wait 132f after activating first block
+# for the multiboost to align
    1,G
   11,L,J,G
    7,L
@@ -694,7 +694,7 @@ EndRepeat
   12,L,Z
   30,D,X
   13,R,Z
-#bruh 1
+# bruh 1
   14
   31,R,X
    1,R,J,G
@@ -714,7 +714,7 @@ EndRepeat
   22,L,D
   20,L,Z
   11,U,X
-#bruh 2
+# bruh 2
   11
   33,U,X
   15,R,U,C
@@ -738,9 +738,8 @@ EndRepeat
 ##
   45,R,X
   15,U,C
-#Waiting an additional frame get more distance
-#but doens't work due to float rounding
-#   1
+# Completly using the dash before the 6f bhop
+# might save time but doesn't work due to float rounding
    3,L
   11,R,X
    1,R,J,G
@@ -1136,61 +1135,20 @@ AnalogMode Percise
    1,F,342.892
   14,F,30.5
   13,R,Z
-
-#   2,R,J,G
-#   6,R
-#   1,R,J
-#   1,R
-#   1,R,J
-#   1,R
-#   1,R,J
-#   1,R
-#   2
-#   6,L,D,X
-#   1,R,J
-#   6,R
-#   1,R,J,G
-# 600,R
-
-#   2,R,J,G
-#   6,R
-#   1,R,J
-#   1,R
-#   1,R,J
-#   1,R
-#   1,R,J
-#   3
-#   6,L,D,X
-#   1,R,J
-#   6,R
-#   4,R,D,J
-#   6,R
-#   4
-#   1,R
-#  29,D
-#  11,L,D
-#   2,D
-#   5,R,X
-#   1,L,J,G
-# 100,R
-
    2,R,J,G
    6,R
    2,R,J
    6,R
-#could setup 6f hbhop
+# Could setup 6f hbhop
   14,R,Z
    7,R,J,G
   16,R,D
    2,L,D
-#3:01.135(10655)
   18,D
   10,L,D
    2
    1,L
    5,R,X
-#3:01.696(10688)
-
    1,L,J,G
   10,R,J
    1,J
@@ -1211,8 +1169,7 @@ AnalogMode Percise
    5,D
   15,R,D,X
   20,R,D
-## multiboost not sure
-# if this is of use
+## Multiboost, not sure if this is of use
 #   5,R,D
 #   5,R
 #   2,R
@@ -1226,6 +1183,7 @@ AnalogMode Percise
 #  15,D,X
 #  15,D
 # 100,L,D
+##
    4,R,D
    5,R
   10,R,X
@@ -1331,7 +1289,7 @@ AnalogMode Percise
   10,U,X
   14,R,J
   37,R,D
-#doestn feel optimal
+# Doesnt feel optimal
   20,D
   15,L,X
   17,R,C
@@ -1342,6 +1300,7 @@ AnalogMode Percise
    2
   18,K,G
   15,U,X
+##
 #   1,R,J,G
 #   3,R
 #   2
@@ -1357,6 +1316,7 @@ AnalogMode Percise
 #   1,R,J
 #   1,R
 #  50,R,D,X
+##
    1,R,J,G
    7,R
   14,R,Z
@@ -1367,6 +1327,7 @@ AnalogMode Percise
 #lvl_c03_alice
    7,R,J
   15,R,D,X
+##
 #   3,R
 #  12,R,D,J
 #   1,R,J
@@ -1380,6 +1341,7 @@ AnalogMode Percise
 #  10,R,C
 #  23,R,J
 # 540,U,X
+##
    3,R
   12,R,D,J
   13,R,J
@@ -1425,7 +1387,7 @@ AnalogMode Percise
    8,R,K
   17,R
   12,R,G
-#not optimised
+# Not optimised
   13,L
    5,R,X
   26,R,G
@@ -1499,7 +1461,7 @@ AnalogMode Percise
   11,U,X
  167,R,D
   21,R,X
-#wait for fibsh :3
+# Wait for fibsh :3
   10,J
   10
   10,R
@@ -1543,7 +1505,7 @@ AnalogMode Percise
   19
    5,J
  141
-#improvable probably
+# Improvable probably
   10,L,Z
    1,R,J
    5,R
@@ -1627,8 +1589,7 @@ EndRepeat
   33,R,D
    6,R
   26,L
-# can fastfall sooner
-# with better subpx
+# Can fastfall sooner with better subpx
   21,L,D
   10,D
   40
@@ -1694,7 +1655,7 @@ EndRepeat
    1,R,J,G
   22,R
   22,R,D,J
-#Frameties with grabbing jelly before bubble
+# Frameties with grabbing jelly before bubble
   23,R,U,J,G
    8,R,U,G
    1,R
@@ -1714,8 +1675,8 @@ EndRepeat
    6,R
    5,R,C
   29,R,G
-#This doesn't feel optimal but
-#it's really annoying to imporove
+# This doesn't feel optimal but
+# it's really annoying to imporove
    4,R,J,G
    2,R,K,G
   10,R,G
@@ -1742,7 +1703,7 @@ EndRepeat
    2,L
   15,R,U,X
   34,R,D
-#i did not test if this was faster
+# I did not test if this was faster
   12,R,X
   25,R,U,G
    1,R
@@ -1840,8 +1801,8 @@ EndRepeat
 ## Cycle in c06_fall
 StunPause
    8,R,D
-#Could stop stun here but that
-#makes next lightning load too early
+# Could stop stun here but that
+# makes next lightning load too early
    2,R,J
 EndStunPause
    1,R,J
@@ -2414,7 +2375,7 @@ EndStunPause
   11,R,D,K
    6
   11,D,X
-#might be possible to skip activation by going under kevin
+# Might be possible to skip activation by going under kevin
    1,L,J
    2,R
    6,L
@@ -2622,7 +2583,7 @@ EndStunPause
    1,R,J
   15,R,D,X
   15,L
-#distance might be bottleneck here not sure how cutscene works
+# Distance might be bottleneck here not sure how cutscene works
  163
   25,L
    8,R
