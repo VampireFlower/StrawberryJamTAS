@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 4138
+RecordCount: 4277
 
 console load StrawberryJam2021/5-Grandmaster/Todd
    1
@@ -408,51 +408,37 @@ endstunpause
   15,R,D,X
    1,R,J
   20,R,D,X
-   1,J
+   1,R,J
+   1,L,J
    9,R,D,X
-  13,G
- 115,L,J,G
-   1,R,U
-  11,F,52.953
-  15,R,U,X,G
+  13,R,G
+   1,R,J,G
+   1,L,J,G
+  13,R,J,G
+   2,L,J,G
+  20,R,J,G
+   5,R,D,G
    1,L
-  44,R
-   1,R,D
-  46,F,89.634
-   1,F,86.236
-  11,F,26
-  23,F,22.473
-  15,R,X
-  44,R,D
-  15,R,Z
- 260
-   8,R
-  23,L,D
-   1,J
-  12,J,G
-  27,R,J,G
-   1,D
-  15,L,U,X
-  23,R
-   6,R,Z
-   1,R,J
-   7,R
-   1,R,J
-   5,R,D,X
-  13,G
- 285,R,U,J,G
-   1,L
-  29,R,D,X
-
-#lvl_6
-  43,R,D
-   2,R,J
-   4,R,X
-StunPauseMode, input
-StunPause
+  14,R,D,X
+   7,R,J,G
    5,R
-EndStunPause
-   4,R
+   3,R,J
+   8,R
+   7,R,J
+   2,R
+  16,R,D,X
+   1,R,J
+   8,R,D,X
+  13,R,G
+  85,R,U,J,G
+   1,L
+  15,R,D,X
+  27,R
+   1,R,J
+   2,R
+  40
+  19,R,X
+   1,G
    9,R,J,G
    8,R
   15,R,Z
@@ -602,4 +588,4 @@ EndStunPause
   14,U,C
  135
 
-ChapterTime: 2:09.931(7643)
+ChapterTime: 1:55.974(6822)
