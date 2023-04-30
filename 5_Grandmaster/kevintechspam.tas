@@ -1,4 +1,4 @@
-RecordCount: 4420
+RecordCount: 4636
 
 console load StrawberryJam2021/5-Grandmaster/Todd
    1
@@ -217,54 +217,56 @@ SkipAutoInput,3,1
    8
   12,L,D,G
 EndStunPause
-  60,L,D,G
+  30,D,G
+  20,L,D,G
+  10,D,G
    1,D
-  14,R,Z
+  13,R,Z
    1,L,J
-  11,L,D,X
-  13,L,D,G
+   6,L
+   1,L,J
+   5,L,D,X
+  13,G
    8,L,J,G
    1,R,J
-  15,L,J
+  22,L,J
   14,L,U,Z
    1,L,J,G
-   1,L,K,G
-   6,L
+   9,L,K,G
+   1,K
    1,J,G
-   1
-   2,R
-   1,L,K,G
-   7,R,K
-  12,L,K
-   3,K
-   1,R,K
-   4,R,D
-# throw jelly further right for more speed?
+   5,R,J
+   6,J
+   4
+   1,L
+   1,L,J
+   7,J
+   3
+   5,R
    1
    1,R
-   8,R,D
-   1,L,D
+   3,R,D
+   1,L,J,G
+   1,L,K,G
    1,J,G
-   1,L,K,G
-  24,R,D,X
-   5,R,D,C
-  13,R,G
- 153,R,U,J,G
-   1,L
   15,R,D,X
-   2,R
-   9,R,J
-  16,U,Z
-   1,L,K,G
-   3,R,K
-   5,L,K
+  10,R,D
+   5,R,D,X
+  13,G
+  12,R,U,J,G
+  25,R,G
+  95,R,U,G
+   1,L,J
+   6,R,J
+  15,U,X
+   1,L,J,G
    7,L
    9,L,J
   15,U,Z
-   1,R,K,G
+   1,R,J,G
    7,R
 #Spinner cycle
-   0
+   1
 ##
    4,R,Z
    1,R,J
@@ -560,4 +562,4 @@ EndStunPause
   14,U,C
  135
 
-ChapterTime: 1:51.044(6532)
+ChapterTime: 1:50.381(6493)
