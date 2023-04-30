@@ -5,15 +5,16 @@ console hearts 29
 
 #Start
   36
-   4,Z
-   7,R,J
+   5,R,Z
+   6,R,J
    4,R
-   7,R,J
+   7,R,D,J
   15,R,D,X
-   5,R,J
-  16,U,Z
-   7,L,J,G
-   4,K
+   6,J
+  17,U,Z
+   2,J
+   2,R,J
+   1,J
    7,R
   14,R,U,X
    5,L
@@ -26,67 +27,75 @@ console hearts 29
   12,L
    2,L,K
    4,L
-   1,L,J
-   4,L
-  16,L,D,X
-   6,L,J
+   4,L,J
+  15,L,D,X
    1,L
-   1,S
-   1,D,O
-  34
-  70,L,D
-  13,L,D,X
-   2,L,J
-   5,U,X
-   9,L,J
-   2,R,J
-   1,L
+   4,L,J
    3,L,K,G
+   1,S
+   1,D,J
+  34
+   4,L,K
+   5,L
+  36,L,D,X
+  14,D
+   2,L,D
+   5,L
+  16,L,D,X
+   6,L,D,J
+   1,J
+   1,L,J
+   8,U,X
+   2,L,J
+   2,L,K,G
    7,L
-   4,X
-  11,L,J
-   1,L,K,G
-   2,R,K
-   1,K
-   7,L
-  15,L,Z
-  15,D,X
-   1,L,D
+  13,L,J
+   2,K,G
+   1
+  15,L,X
+  15,D,C
+   1,L
    2,L,J
   17,L,D,X
    4,L,D,J
    9,U,X
-  16,L,J
-   5,K,G
+  14,L,J
+   3,R,J
+   1,L,K,G
+   3,R,K
    1
-   1,R
-   1,L,J,G
-   1,L,K,G
-   1,L,J,G
-   4,L,K,G
-   3
-   4,L
-   4,Z
+   3,L,J,G
+   7,L
    1,L,J
-   7,L
-   2,L,D,J
-   1,L,K,G
-   7,L
+   1,L
+   5,L,Z
+   1,L,J
+   6,L
+   3,L,J
+   6,L
+   1
   15,D,X
-  18,D
+   2,R,D
+   9,D
+   3,L,D
+   1,L
+   1,D
+   2,L,D
    4,Z
    1,L,J
-   7,L
-   7,L,J
-  12,U,Z
-   5,L,J
-   4,R,J
-   5,L,J
+   6,L
+   8,L,D,J
+  11,U,X
+   6,L,J
+   2,R,J
+   3,J
+   2,L,J
+   1,L
    2,L,K,G
   19,L
-  22,D
-  13,L,D
-  14,R,D,X
+  31,D
+   5,L,D
+  13,R,D,X
    3,R,J
   14,R,D,X
    1,R,J
@@ -95,36 +104,44 @@ console hearts 29
    1,R,J
    8,R,D,X
    1,L,J
- 399,L
-  60
-   9,L,Z
+   1,L
+ 397
+  61
    1,R,J
-   9,R
+   6,R
+   6
+   1,R
+   5
+   4,Z
    1,R,J
+   1,R
    1,R,K
    1,R,J
-   7,R
-   3,R,J
-   8,R,K,G
-   3,R
+   1,R,K,G
+   1,R
+   1,R,J
+   2,R,K
+   1,R
+   4,R,J,G
+   1,R
+   6,R,K,G
+   2
   15,R,D,X
    1,R,J
    1,R,K
    1,R,J
    1,R,K
    1,R,J
+   1,R,K
+   1,R,J
    1,J
-   9,R,J
+   9,R,D,X
+   1,L,J,G
+   2,R,J
    5,R
-   6,R,D,X
-   1,R,J,G
-   1,R
-   1
-   2,K,G
+   1,R,K
    5,R
-   3,R,J
-   4,R
-   3,R
-  32,R,J
+  12,R,J
+  12,R
    1,X
-#0:20.400(1200)
+#0:19.686(1158)
