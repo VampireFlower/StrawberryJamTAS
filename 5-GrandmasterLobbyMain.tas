@@ -1,0 +1,126 @@
+#This file was made based off the files in the GL folder.
+Unsafe
+#This will wipe the debug save!
+#Uncomment at your own peril.
+console clrsav
+console load StrawberryJam2021/0-Lobbies/5-Grandmaster
+EnforceMaingame
+   1
+
+#Start
+Read,5_Grandmaster_Lobby/gm_0-18,Start
+Read,EnterLevel,Start
+Read,5_Grandmaster/flipside_cliffside,Start
+   1,O
+  32
+
+Read,5_Grandmaster_Lobby/gm_18-10,Start
+Read,EnterLevel,Start
+Read,5_Grandmaster/fractured_iridescence,Start
+   1,O
+  32
+
+Read,5_Grandmaster_Lobby/gm_10-11,Start
+Read,EnterLevel,Start
+Read,5_Grandmaster/belly_of_the_beast,Start
+   1,O
+  32
+
+Read,5_Grandmaster_Lobby/gm_11-12,Start
+Read,EnterLevel,Start
+Read,5_Grandmaster/world_abyss,Start
+   1,O
+  32
+
+Read,5_Grandmaster_Lobby/gm_12-13,Start
+Read,EnterLevel,Start
+Read,5_Grandmaster/the_solar_express,Start
+   1,O
+  32
+
+Read,5_Grandmaster_Lobby/gm_13-14,Start
+Read,EnterLevel,Start
+Read,5_Grandmaster/drifting_deep,Start
+   1,O
+  32
+
+Read,5_Grandmaster_Lobby/gm_14-15,Start
+Read,EnterLevel,Start
+Read,5_Grandmaster/summit,Start
+   1,O
+  32
+
+Read,5_Grandmaster_Lobby/gm_15-16,Start
+Read,EnterLevel,Start
+Read,5_Grandmaster/ivory,Start
+   1,O
+  32
+
+Read,5_Grandmaster_Lobby/gm_16-17,Start
+Read,EnterLevel,Start
+Read,5_Grandmaster/kevintechspam,Start
+   1,O
+  32
+
+Read,5_Grandmaster_Lobby/gm_17-0,Start
+Read,5_Grandmaster_Lobby/gm_0-2,Start
+Read,EnterLevel,Start
+Read,5_Grandmaster/lava_layer,Start
+   1,O
+  32
+
+Read,5_Grandmaster_Lobby/gm_2-3,Start
+Read,EnterLevel,Start
+Read,5_Grandmaster/superluminary,Start
+   1,O
+  32
+
+Read,5_Grandmaster_Lobby/gm_3-1,Start
+Read,EnterLevel,Start
+Read,5_Grandmaster/cave_of_the_crimson_sky,Start
+   1,O
+  32
+
+Read,5_Grandmaster_Lobby/gm_1-4,Start
+Read,EnterLevel,Start
+Read,5_Grandmaster/pinball_purgatory,Start
+   1,O
+  32
+
+Read,5_Grandmaster_Lobby/gm_4-5,Start
+Read,EnterPostcard,Start
+Read,5_Grandmaster/shattersong,Start
+   1,O
+  32
+
+Read,5_Grandmaster_Lobby/gm_5-6,Start
+Read,EnterLevel,Start
+Read,5_Grandmaster/nelumbo,Start
+   1,O
+  32
+
+Read,5_Grandmaster_Lobby/gm_6-7,Start
+Read,EnterLevel,Start
+Read,5_Grandmaster/stellar_odyssey,Start
+   1,O
+  32
+
+Read,5_Grandmaster_Lobby/gm_7-8,Start
+Read,EnterLevel,Start
+Read,5_Grandmaster/74,Start
+   1,O
+  32
+
+Read,5_Grandmaster_Lobby/gm_8-9,Start
+Read,EnterLevel,Start
+Read,5_Grandmaster/cycle_madness_b-side,Start
+   1,O
+  32
+
+Read,5_Grandmaster_Lobby/gm_9-19,Start
+Read,EnterHeartSide,Start
+Read,5_Grandmaster/grandmaster_heartside,Start
+  61
+   1,O
+
+FileTime: 40:17.791(142223)
