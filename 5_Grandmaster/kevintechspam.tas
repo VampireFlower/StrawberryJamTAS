@@ -1,4 +1,4 @@
-RecordCount: 4360
+RecordCount: 4361
 
 console load StrawberryJam2021/5-Grandmaster/Todd
    1
@@ -392,68 +392,53 @@ endstunpause
   15,U,X
    7,U,C
   97,R,D,G
-  31,R,G
-   2,G
+  12,R,G
    1,R
-   7,L
-  14,L,Z
+  15,L,Z
+  14,L,V
    1,R,J
-  21,R,G
-   1,L
-  15,R,D,X
-   1,R,J
-  20,R,D,X
-   1,R,J
-   1,L,J
-   9,R,D,X
-  13,R,G
-   1,R,J,G
-   1,L,J,G
-  13,R,J,G
-   2,L,J,G
-  20,R,J,G
-   5,R,D,G
-   1,L
-  14,R,D,X
-   7,R,J,G
-   5,R
-   3,R,J
-   8,R
-   7,R,J
    2,R
-  16,R,D,X
+   5,R,D,X
+  19,R,G
+   1,R,D,J
+  24,R,D,X
    1,R,J
-   8,R,D,X
+   7,R,D,X
+  17,R,J,G
+  66,R,U,K,G
+   1,L
+  17,R,D,X
+   6,R,D,C
   13,R,G
   85,R,U,J,G
    1,L
   15,R,D,X
-  27,R
-   1,R,J
-   2,R
+  26,R
   40
-
 #lvl_6
-  19,R,X
-   1,G
-   9,R,J,G
+   1,R,D
+   4,R,J
+   7,R,K,G
    8,R
+  11
   15,R,Z
    5,D
    1,R
   11,D
-   2,L
+   2,R
+   1
   14,L,X
    1,R,J
-   1,L
-  20,R,D,X
+   1
+  18,R,D,X
+   2,D
    1,J
   14,R,U,X
-  17,L,G
-  14,R,D,X
+  16,G
+  15,R,D,X
   11,L,D
    2,R,D
-  38,R,J
+  40,R,J
   14,R,U,X
   41,L,J
   18,U,X
@@ -585,4 +570,5 @@ endstunpause
   14,U,C
  135
 
-ChapterTime: 1:55.056(6768)
+
+ChapterTime: 1:54.257(6721)
