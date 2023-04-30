@@ -1,4 +1,4 @@
-RecordCount: 4040
+RecordCount: 4254
 
 console load StrawberryJam2021/5-Grandmaster/Ecl1psed
    1
@@ -86,101 +86,111 @@ endstunpause
 #lvl_a-02
    1,R
    2,R,J
-   5,R
-   1,R,K
-   9,R,D
+   7,R
+   2,R,K
+   6,R
    8,R,U,Z
    2,R,J,G
-   5,R
+   6,R
    8,R,K
-  13,R
+  12,R
   15,U,Z
-   3,R
-   6,L,U,X
-  11,R
-  14,R,Z
-   3,R,J
+   2,R
+   5,L,U,X
+  12,R
+  10,R,Z
+   5,R,J
   23,R,D,X
   10,L,D,C
    3,R,J
    2,R
   17,R,D,X
    1,R,J
-  12,R,D,X
+  13,R,D,X
   13,R,G
    3,R,J,G
-  19,R,G
+  18,R,G
    1,D
-  45,J,G
+  40,J,G
+   2,R,J,G
    1,R
-   1,K
-  10,K,G
-  27,G
-   1,R
-  15,D
-  10,R,D
-   5,R
-   5,R,D,X
-   1,R,J,G
-   9,R,D
-   1,R,J
-   3,R,D
-   1,L,D
-   1,R,D
-   2,L,D
-   1,R,D
-   1,R,J
-  18,R
+  10,K
    6
+   1,K
+  21,G
    1,R
-   5,L
-   5,R,J
-   7,R
+  16,D
+   9,R,D
+   6,R
+   1,R,J,G
+   4,R,K,G
+   5,R
+   1,R,K
+  11,R,D
+   1,J
+  17,R
   10,L,D,X
   20,R,J
-   6,R
-   6,J,G
-   8,R,J
+   1,R
+   1
+  15,R,D,X
+   1,R,J,G
+   1,L
+   6
+   1,R
+   2
+   2,R
+   1,L,J
+  11,R,J
    1,R,K,G
-   3,L,K,G
-   7,R,K
-  55,R,U,J,G
-   2,K,G
+   4,L,K
+   5,R,K
+  16,R,J,G
+  11,K,G
    1,L,K
-   1,R,K
+  15,R,J,G
+   5,K,G
+   4,L,K
    1,J
-  25,R,J
-  17,R,K,G
-   3,L,J
-   4,R,K
-  15,L,J
+   9,R,J
    1,K
-  32,L,U,X
+   2,L,K
+   1,J
+   2,R,J
+   1,K,G
+   1,L,K
+   1,R
+  11,J,G
+   2,L,J
+   4,L,K,G
+   8,L
+   2,L,K
+   4,L
+  18,L,U,X
   15,L,C
-  28,L
-   2,L,D
-   3,R,D
-   4,L,D
-   2,L
+  27,L,D
+   7,L
    1,L,K,G
    1,L,J,G
-   9,L,J
-  27,L,J,G
-   1,R
-  50,R,U,X,G
-   1,R
-  64,R,U,X,G
-  42,R,U,G
-  13,R,D,G
-  20,R,U,G
-  18,R,D,G
+   8,J
+  23,R,J,G
+   5,R,J
+  14,R,U,X
+  28,R,U,G
+   7,R
+  14,R,U,X
+  78,R,U,G
+  14,R,D,G
+  21,R,U,G
+  16,R,D,G
+   2,R,G
    1,D
   15,L,U,X
   17,R
    1,R,J,G
    8,R
    5
-Repeat 30
+Repeat 29
    1,D
    1
 EndRepeat
@@ -271,9 +281,9 @@ EndRepeat
    6,R
    6,R,J
   10,L,D,X
-   1,R,J
+   2,R,J
 StunPause
-   7,R,J
+   6,R,J
   14,R
 SkipInput 3 1
   13,R,U,Z
@@ -290,7 +300,7 @@ EndStunPause
   11,J
 #cycle
 #terrible spot
-   2
+   1
 #
   10,R,Z
    3,R,J
@@ -693,4 +703,4 @@ EndStunPause
   15,U,X
  138,R
 
-ChapterTime: 1:57.436(6908)
+ChapterTime: 1:56.042(6826)
