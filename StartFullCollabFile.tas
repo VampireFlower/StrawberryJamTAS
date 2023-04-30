@@ -2,6 +2,7 @@ Set,DisableScreenShake,true
 Set,DisableFlashes,true
 Set,SpeedrunClock,2
 Set,Everest.ShowModOptionsInGame,false
+Set,CollabUtils2.DisplayEndScreenForAllMaps,False
 EnforceMaingame
 Unsafe
 Add 2
