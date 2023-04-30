@@ -1,4 +1,4 @@
-RecordCount: 4254
+RecordCount: 4305
 
 console load StrawberryJam2021/5-Grandmaster/Ecl1psed
    1
@@ -300,7 +300,7 @@ EndStunPause
   11,J
 #cycle
 #terrible spot
-   1
+   2
 #
   10,R,Z
    3,R,J
@@ -398,52 +398,41 @@ EndStunPause
    8
    1,J
    7,R,J
+   1,J
+   5
    4,J
-  16,U,X
-  15,R,U,C
- 136
-  15,L
-  10,R,X
-  25,R,J
-   4,R
-  15,R,U,X
-  17
-   3,L
-  22
-  15,U,X
-  14,D
-  30,R,D
-StunPause
-   3,R,D
-   5,R
+  18,U,X
+  15,U,C
+  25,R
+   2,R,D
+   8,D
    3
-   5,D
-   1,L,D
-   1,J
-   1,L,J,G
-   4,R
+   4,L,D
+   1,L
+   3,R,D
+   4,D,X
    1,R,J
-   3,L,J
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   7,R
+   1,R,J
+   3,D
+   6,R,D
+StunPause
+  14,R,D
 EndStunPause
-  12,L,J
-  20,L,K,G
-  27,L,G
-  17
-  20,G
-   6
-  15,G
-  15,U,G
-   2
-   1,J
-  11,K,G
-   4,R,K
-  15,R,X
-  13,R,D
-   1,R,J
-  14,L,D,C
+   2,R
+   3,R,D
+   1,D
+  15,R,Z
+   5,R,D
+  10,D
+  14,L,D,X
    1,R,J
    5,R,D,X
-   1,R,J,G
+   1,R,K,G
    7,R
    1,R,K
    6,R
@@ -703,4 +692,4 @@ EndStunPause
   15,U,X
  138,R
 
-ChapterTime: 1:56.042(6826)
+ChapterTime: 1:48.358(6374)
