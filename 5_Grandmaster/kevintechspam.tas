@@ -1,4 +1,4 @@
-RecordCount: 4392
+RecordCount: 4420
 
 console load StrawberryJam2021/5-Grandmaster/Todd
    1
@@ -91,12 +91,12 @@ console load StrawberryJam2021/5-Grandmaster/Todd
    2,R,G
    1,R,J,G
    2,R,G
-stunpause
+StunPause
    2,R,G
    1,L
-skipinput,3,1
+SkipInput,3,1
    5,R,D,X
-endstunpause
+EndStunPause
   10,R,D,X
    2,R,D
    6,D
@@ -209,14 +209,14 @@ AnalogMode,Precise
    9,R
    1,K
    3,R
-stunpause input
+StunPause
    3,R
 SkipAutoInput,3,1
   15,R,U,X
    1,R
    8
   12,L,D,G
-endstunpause
+EndStunPause
   60,L,D,G
    1,D
   14,R,Z
@@ -263,6 +263,9 @@ endstunpause
   15,U,Z
    1,R,K,G
    7,R
+#Spinner cycle
+   0
+##
    4,R,Z
    1,R,J
    7,R
@@ -392,45 +395,41 @@ endstunpause
    5,R,D,X
   19,R,G
    1,R,D,J
-  24,R,D,X
+  15,R,D,X
+   9,R,D
    1,R,J
    7,R,D,X
-  17,R,J,G
-  66,R,U,K,G
-   1,L
-  17,R,D,X
-   6,R,D,C
-  13,R,G
-  85,R,U,J,G
+  13,G
+   1,R,J,G
+   6,J,G
+  40,R,J,G
+  14,R,D,G
+   7,R,J,G
+   1,R,G
    1,L
   15,R,D,X
-  26,R
-  40
-#lvl_6
-   1,R,D
-   4,R,J
-   7,R,K,G
-   8,R
-  11
-  15,R,Z
-   5,D
    1,R
-  11,D
-   2,R
-   1
-  14,L,X
    1,R,J
-   1
-  18,R,D,X
-   2,D
-   1,J
-  14,R,U,X
-  16,G
-  15,R,D,X
-  11,L,D
-   2,R,D
-  40,R,J
-  14,R,U,X
+   7,R,D,X
+  13,G
+   1,R,J,G
+   1,J,G
+   2,R,J,G
+  91,R,G
+  16,R,D,G
+   1,L
+  12,R,U,Z
+  40
+
+#lvl_6
+   2,R,U,Z
+   1,L,J,G
+  10,R,U,X
+   1,J,G
+  17,R
+   8,R,J
+   9,R,K,G
+  11,U,X
   41,L,J
   18,U,X
   34,L,J
@@ -561,4 +560,4 @@ endstunpause
   14,U,C
  135
 
-ChapterTime: 1:53.543(6679)
+ChapterTime: 1:51.044(6532)
