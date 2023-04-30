@@ -1,9 +1,9 @@
-#by Topaz, Celerity
 RecordCount: 6366
 
 console load StrawberryJam2021/5-Grandmaster/Soloiini
-#Start
    1
+
+#Start
 #lvl_All Aboard
    9,R,J
   15,R,U,X
@@ -1218,6 +1218,7 @@ Endrepeat
    3,R,K,G
   30,R,D,G
   40
+
 #lvl_Extraction
    1,R,D,G
    1,R,J,G
