@@ -1,4 +1,4 @@
-RecordCount: 6950
+RecordCount: 7480
 
 console load StrawberryJam2021/5-Grandmaster/Soloiini
    1
@@ -393,197 +393,109 @@ endrepeat
    8
    5,R,X
   31,R,G
-   4,L,J
-  11,U,X
-  26,L,G
-   1,D
-  29,R,J,G
-  15,L,K,G
+   4,L,J,G
+   1,L,K
+  12,U,X
+  19,L,G
+   1,K,G
+   2,L,K,G
+   1,L,G
+   1,J,G
+  15,R,J,G
+   1,K,G
+  14,L,K,G
   20,R,G
-   1,R
-   9,R,U,X
-  40,R,G
-  18,R,D,G
-   1,R
-  15,D
-   8,R
-   6
-   5,R,X
+  18,R
+  15,R,Z
+   3,R,D
+  23,D
+  20
+   5,L
+   7,R,X
   24,R,G
    4,R,J,G
-   3,R,K,G
-   8,R,G
+   2,R,K,G
+   9,R,G
    2,R,J,G
   20,R,G
    1,R
   15,R,U,X
    7,R,C
   34,R,X,G
-  48,R,G
+  17,R,G
+   2,R,J,G
+   3,R,G
+  11,G
    1,D
-   5,L,Z
+   5
+Repeat 32
+   2,D
+   2
+EndRepeat
+  15,L
+  10,R,X
+   1,R,J
+   5,R
+   2
+   3,K
+  11
+   5,R
+  13,L,Z
    1,L,J
-   9,R
-   3,R
-   2,R
-  14,R,Z
-   1,L,J
+   2,L
   14,L,D,X
    1,R,J
-   7,R,D,X
+  13,R,D,X
    1,R,J,G
-  17,R
+  10,R
    1,R,J
-   6,R,D,X
-  24,R,G
-  26,R,D,G
+   5,R,D,X
+  13,R,G
    1,R,J,G
-  14,R,G
-   1,R,J,G
-   8,R,G
-
-#sad
-#needs crystal on the other side
-#   7,R,G
-#   1,R
-#  11,R,D,X
-#  40
-#   3,R,D,X
-#  13,R,G
-#   1,R,J,G
-#   7,R,G
-#   1,L
-#   6,R
-#   1,R,J
-#  14,R
-#   1,R,J
-#  14,R
-#  10,R,J
-#  49,R
-#  11,R,U,Z
-#   1,L,J,G
-#  99,R,J
+   9,R,G
+   2,G
   40
 
 #lvl_Shimmering Expanse
-   1,L
-   5,R
-  15,R,J
-  17,U,X
-  14,R,J
-   4,R
-  12,R,K,G
-   6,R,J,G
-   7,R
-   3,J
-  14,R,U,X
-   5,R,J,G
-   7,R
-   4,Z
-   1,R,J
-   7,R
-   7,R,J
-  11,U,X
-   1,S
-   1,D,J
-  69,O
-   7,R,X
-  28,R,G
-   4,L,G
-   7,R,Z,G
-  30,R,J,G
-   1,R
-  11,R,X
-   4,R,J
-   6,R,K
-   6,U,X
-  34,U,G
-  14,R,G
-   1,R
-   2,L
-  14,L,Z
-   1,R,J
-   1,R
-  16,R,D,X
-   8,R,J
-  26,R,J,G
-   1,L
-   6,R,J
-  15,R,D,X
-  12,R
-  18,R,X
-   3,R
-   4
-  12,R,J,G
-  17,R,K,G
-  15,R,G
-  20,R,U,G
-   6,L,Z
-  25,L,J
-   8,U,X
-  32,L,G
-  24,R,G
-   1,D
-   3,R
-   2,R,J,G
-   4,L,J
-   4,R,J
-   5,R,U,X
-  26,R,U,G
-   4,L,G
-   7,R,Z,G
-  27,R,J,G
-   1,D
+   7,R,G
+   1,R,J,G
+   1,G
+   4,R,G
+   2,R,K,G
+   8,R,G
+  21,R,J,G
    1,J,G
-   8,R,J
-   2,L,J
-  21,L,J,G
-   1,L
-  15,U,X
-   6,R,C
-  24,R,G
-   5,R,D,J
-   3,R,D
-  10,L,U,X
-  22,L,G
-  24,R,G
-  15,R,U,X
-  19,R,G
-   6,G
-   1,D
-   8
+   1,G
+   1,R
+   1,R,K,G
+   3,R
+  12,R,U,X
+   1,R,J,G
+   1,R
+   1,R,J,G
+   1,R,K,G
+   1,R,K
+  14,R,K,G
+   2,R,G
+   8,R,J,G
+   6,R,G
+   2,R
+   3,L,J
    5,R,X
-  56,R,G
-   4,L,G
-  32,D
-  10,L,G
-   1,J,G
-   1
-  22,L,G
+   1,R,K,G
+   4,R,J,G
+  56,R,D,G
    1,D
-   2,J,G
-  25,L,J,G
-   1,D
-   2,L,J,G
-  23,G
-  84,D,G
-  16,R,D,G
-   1,R
-  15,R,D,X
-  15,R
-   1,R,D
-   6,D
-   1,L,D
-  70,D
-   7,L
-  14,L,Z
+  14,L,D,X
    1,R,J
-  12,R,D,X
+  10,R,D,X
   13,R,G
 repeat,5
    1,R,J,G
   14,R,G
 endrepeat
+   1,R,J,G
+   1,R,G
    1,D
   14,L,D,X
    1,R,J
@@ -618,14 +530,15 @@ endrepeat
    2,R,J
    5,R,D,X
   13,R,G
-   1,R,J,G
-  16,R,G
    2,R,J,G
-  13,R,G
+  14,R,G
+   1,R,J,G
+  15,R,G
+   1,G
    1,R,J
    7,R,D,X
    1,R,J
-   8,R
+   7,R
    1,R,N
    1,R,J
   15,R,X
@@ -655,32 +568,31 @@ Endrepeat
    1,R
    6,L
    3,L,J
+   1,L,K,G
   15,U,X
-   8,R,J,G
-   9,R
-   5,L,J
-   8,J
-  17,U,X
-  14,J
-   6,R,J
-  11,R,K,G
-   1,R
-   1,R,J,G
-   3,L,J
-   3,J
-   1,R,J
-   1,R,K,G
    2,R,J,G
    7,R
+   4,J
+  10,L,J
+  18,U,X
+  11,J
+   8,R,J
+   3,R,K,G
+   1,R,J,G
+   6,L,J
+   4,R,J
+   7,R
    1,R,J
+   1,R,K,G
+   5,R,J,G
+  11,R,K,G
   15,U,X
-  10,R
-   3,R,J
-   7,R,Z
-   2,R,J
+   1,R
+   2,R,J,G
+   6,R,K,G
    1,S
-   1,D,O
-  69,J
+   1,D,J
+  69,O
    7,R,X
   13,G
   40
@@ -1248,6 +1160,4 @@ Endrepeat
    4,R
  139,L,D,X
 
-ChapterTime: 3:25.479(12087)
-
-
+ChapterTime: 3:08.411(11083)
