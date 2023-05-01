@@ -1,5 +1,5 @@
 #By Kataiser
-RecordCount: 4726
+RecordCount: 4825
 
 console load StrawberryJam2021/3-Advanced/Worldwaker2
    1
@@ -220,7 +220,7 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
   12,R,J,G
    7,R
 #spinner cycle
-   0
+   1
   15,U,X
   18,R,J
    1,R,K,G
@@ -281,47 +281,34 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
    1,L
    1
    1,L,G
+  10,J,G
    1,R,J
-  26,R,K
-   6,R
-  14,R,X
-  62,R,J,G
-  15,R,D,G
-   2,D,G
-   2,D
-  10,R,X
-  11,L,J
-  43,L,U,J,G
-  37,R,U,G
-   5,U,G
-  55,L,U,G
-   2,R,U,G
-   1,R,U
+   1,R,K
+  19,R,J
+  81,R,U,J,G
+  65,L,U,G
+   8,L
+   2
   15,U,X
-  14,U,G
-   1,L,U,G
-Repeat 3
-   1,L,U,G
+  14,L,U,G
+Repeat 4
    1,U,G
+   1,L,U,G
 EndRepeat
-  22
-   2,L
+   3,J
+   7
   10,L,X
    5,R,J
-  19,R,U,J,G
-  40,U,J,G
-   3,R,U,G
-   7,U,G
-   2,D,G
-   3,R,D,G
+  56,U,J,G
+  18,R,U,J,G
    1,R
   15,R,U,X
    1,L,J,G
-   1,L,K,G
-   1,K,G
+   2,L,K,G
    1,J,G
    3,L,J
-   7,L
+   5
+   2,L
    6,R
    1,R,J
    2,R
@@ -641,4 +628,4 @@ EndStunPause
   15,R,U,X
  138,R,D
 
-ChapterTime: 1:40.980(5940)
+ChapterTime: 1:39.093(5829)
