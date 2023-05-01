@@ -1,4 +1,4 @@
-RecordCount: 3962
+RecordCount: 4178
 
 console load StrawberryJam2021/4-Expert/RedBoule
    1
@@ -12,21 +12,13 @@ console load StrawberryJam2021/4-Expert/RedBoule
 #lvl_a_01
   10,R,D,X
    4,R,J
-   3,R,K,G
-   2,K
-   1,R,K
-   1,R,J,G
-  11,R,D,X
-   1,R,J,G
-   2,J
-   1,R,J
-   2,R,K,G
-   6,R,J,G
+   5,R,K,G
+  10,R,X
+   3,R,J
+  12,R,K,G
   15,U,X
-   1,L
-  24,L,J
+  22,L,J
   15,U,X
-   2,L
   15,L,J
   14,L,Z,G
   24,L,J,G
@@ -86,45 +78,57 @@ console load StrawberryJam2021/4-Expert/RedBoule
   11,R,J,G
    5,R
   15,R,D,X
-  14,R
-  15,R,X,G
-  29,R,G
-  61,G
-  33,D
-   1,D,G
-  20,D
-   1,D,G
-  19,D
-   1,D,G
-  20,D
-  13,D,G
-   3,R,G
-   9,R,D,G
-   1,J
-   1,R,J
-   1,R,K,G
-   3,L,J,G
-   6,R,J
-  14,R,U,X
+  10,R,D
+  37,R,Z
    1,R,J,G
-   3,L,J
-   4,J
-   3,R,J
-   8,R
+  14,R
+  20,G
+   1,L,J
+  28
+  20,L
+   1,L
+  13
+   3,L
+   1
+   8,D
+   4
+   6,R
+   1,R,D,J
+   5,G
+   1,R,J,G
+  10,R,D,G
+   3,D,G
+   1,L,D,G
+   1,J,G
+   2,K,G
+   1,L,J,G
+   1,R,J
+   2,R
+   1,R
+   1
+   4,R,J
+   4,R
+  11,R,K,G
+  12,R
+  15,U,X
+  17,R
    4,R,Z
    5,R,J
-   5,R,K,G
+   1,R,K,G
+   2,K
+   2
    1,R,J,G
-   8,R
+   7,R
   40
 
 #lvl_a_04
   10,R,X
    1,R,J,G
-   3
+   1
    9,R
-   4,L,D
-  16,R,D
+   2,R,D
+   5,L,D
+  15,R,D
   10,L,Z
    1,R,J
    1,J
@@ -132,8 +136,8 @@ console load StrawberryJam2021/4-Expert/RedBoule
    1,R
    7,R,J
    1,L,K,G
-  10,R,K,G
-   4,R
+  11,R,K,G
+   3,R
    6,J
    8
   11,R,G
@@ -672,4 +676,4 @@ EndStunPause
    9,U,X
  135,L
 
-ChapterTime: 1:38.906(5818)
+ChapterTime: 1:38.396(5788)
