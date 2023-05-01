@@ -1,4 +1,4 @@
-RecordCount: 2945
+RecordCount: 3056
 
 console load StrawberryJam2021/1-Beginner/Quinnigan
    1
@@ -75,44 +75,48 @@ console load StrawberryJam2021/1-Beginner/Quinnigan
    4
    3,R
 #spinner cycle
-   1
    7,R,Z
    1,R,J,G
    6,R
   40
 
 #lvl_q06
-  12,R,J
-  14,R,D,X
-  12,G
-   1,R,G
+   4,R,J
+   2,R,K,G
+   3,R
    1,R,J,G
-   4,R,G
-StunPause
-   6,R,G
+   1,R
+   1,R
+  12,R,D,X
+  12,R,G
+   2,R,G
+   1,R,J,G
+   2,R,X,G
    1,X,G
-  17,R,X,G
+StunPause
+   1,X,G
+   1,X,G
+  16,X,G
 EndStunPause
-   4,R,X,G
-   5,R
-  20,R,Z
-  26,D
-  10
-   8,R
+   1,R,X,G
+   5,X,G
+   3
+  14,R,Z
+  10,R,D
+  22,D
+   8
+   9,R
+   3
    5,R,X
   12,G
    8,R,G
- 203,R,X,G
-   7,R,D,G
-   1,R,G
+ 224,R,X,G
+  34,R,U,G
    1,R,D,G
-  42,R,G
-   1,R,U,G
-  31,R,X,G
+  26,R,X,G
    1,L
-   9,R
+  10,R,U
   15,U,X
-   2,R
    1,R,J,G
    7,R
    4,R,Z
@@ -406,4 +410,4 @@ EndStunPause
   14,U,X
  135
 
-ChapterTime: 1:16.245(4485)
+ChapterTime: 1:15.531(4443)
