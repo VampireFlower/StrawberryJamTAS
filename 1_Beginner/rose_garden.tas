@@ -1,4 +1,4 @@
-RecordCount: 2727
+RecordCount: 2945
 
 console load StrawberryJam2021/1-Beginner/Quinnigan
    1
@@ -166,32 +166,41 @@ EndStunPause
    2,R,J
    3,R
    5,U,X
-  17,R,G
-   6,L,G
-  27,X,G
-  31,R
-   6,U,X
-  53,R,U,G
-  75,L,U,G
-  18,X,G
+  24,R,G
+   1,R,G
+   1,G
+   1,X,G
+   3,X,G
+   1,R,X,G
+  12,X,G
+  13,L,X,G
+   1,L
+   2,L
+  25
+   8,R,U,X
+  33,R,U,G
+   1,R
+   3,R,G
+   6,R,K,G
+  94,L,U,G
+   2,L,X,G
+  16,L,X,G
    5,L,U,X,G
    3,L
-  10,L,X
-   3,J,G
-  10
-  15,G
-   9,R,G
-   1,L
-   1,R
-  13,L,U,X
-   6,R
-  13,G
-  19,X,G
-   1,R
-  13,G
-  33,X,G
+  14
+   5,U,X
+  15,R,G
+   3,G
+   5,R,X,G
+  13,R,X,G
+   3,X,G
+   2,R
+  12,G
+  33,L,X,G
    3,L,X,G
-   9,L
+   1,L
+   6,R
+   2
   15,L,Z
    1,L
   62,L,G
@@ -397,4 +406,4 @@ EndStunPause
   14,U,X
  135
 
-ChapterTime: 1:16.670(4510)
+ChapterTime: 1:16.245(4485)
