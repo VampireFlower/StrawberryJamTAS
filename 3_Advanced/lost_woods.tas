@@ -1,4 +1,4 @@
-RecordCount: 2259
+RecordCount: 2316
 
 console load StrawberryJam2021/3-Advanced/Oppen
    1
@@ -129,38 +129,29 @@ console load StrawberryJam2021/3-Advanced/Oppen
    2
    1,R
    1
-  10,J
-   2
+   5,J
+   5,L,J
+   2,L
   15,R,Z
-   5,R
-  13,R,Z
-   5,R,J
-  14,R
-   3,R,D
-   1,D
-   3,R,D
-   1,D
-   4,R
-   4
-   8,D
-   2
-   1,D
-   2,R
-  15,R,Z
-   3,R
-   9
-   2,L,J
-  15,R,U,X
-   1,R,J,G
-   7,R
-   2,R,J
-  10,R,X
-  11,R,J
+   5
+  14,R,Z
+   4,R,J
    1,R
+   7,R,K
+  15,R,D,X
+   1,R,D
+  22,R
+  15,R,Z
+   1,R
+   3,R,J
+   2,L,J
+   2,R,J
+   1,R,K,G
+   3,R,J,G
+  10,R,X
+  13,R,J
   14,R,U,X
-   4,J,G
-   1
-   1,J,G
+   5,J,G
    7,R
   10,R,X
   20,L,K
@@ -222,13 +213,14 @@ console load StrawberryJam2021/3-Advanced/Oppen
   10,R,Z
    2,L,J
    8,R,U,X
-   4,R,J,G
+   5,R,J,G
    5,R
-   4,R,J
-   3,R
-   1,R,J
-  15,D,X
-  24,D
+   2,R,K
+   7,R
+  20,D
+   7,L,D
+   9,D
+   2,R,D
    1,S
    1,D,J
   69,O
@@ -433,4 +425,4 @@ console load StrawberryJam2021/3-Advanced/Oppen
   13,L,U,Z
  135,L,G
 
-ChapterTime: 0:52.394(3082)
+ChapterTime: 0:52.054(3062)
