@@ -1,4 +1,4 @@
-RecordCount: 2509
+RecordCount: 2510
 
 console load StrawberryJam2021/3-Advanced/Oppen
    1
@@ -213,24 +213,28 @@ console load StrawberryJam2021/3-Advanced/Oppen
 #lvl_oppen_1c
 #key3route
   10,R,Z
-   2,L,J
-   8,R,U,X
-   5,R,J,G
-   5,R
-   2,R,K
-   7,R
-  20,D
-   7,L,D
-   9,D
-   2,R,D
-   1,S
-   1,D,J
-  69,O
    1,R,J
-  12,R
-  10,L,D
-  21,L
-  16,L,D
+   8,K,G
+   3,R,J,G
+  15,R,X
+  13
+  12,L
+   7
+   1,D
+   7,R,D
+  10,D
+  15,L,D,X
+   5,L,D
+   1,R
+  11,R,D
+   2,D
+   1
+   5,D
+   1,L,G
+   1
+   8,L
+   9,L
+  19,L,D
    8,D
   15,R,D,X
   43,R,D
@@ -427,4 +431,4 @@ console load StrawberryJam2021/3-Advanced/Oppen
   13,L,U,Z
  135,L,G
 
-ChapterTime: 0:52.003(3059)
+ChapterTime: 0:51.221(3013)
