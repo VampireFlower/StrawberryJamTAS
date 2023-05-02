@@ -1,4 +1,4 @@
-RecordCount: 4528
+RecordCount: 4551
 
 console load StrawberryJam2021/4-Expert/fonda1515
    1
@@ -779,9 +779,15 @@ console load StrawberryJam2021/4-Expert/fonda1515
  216
   18,J
   15,U,X
- 300
-   6,J
+ 263
+  17,R
+   4
+   1,R
+   2
   15,U,X
- 135
+   1,R
+   3,L,J
+  10,J
+ 140,U,X
 
-ChapterTime: 3:14.820(11460)
+ChapterTime: 3:14.769(11457)
