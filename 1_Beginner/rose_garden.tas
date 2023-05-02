@@ -1,4 +1,4 @@
-RecordCount: 3233
+RecordCount: 3770
 
 console load StrawberryJam2021/1-Beginner/Quinnigan
    1
@@ -25,7 +25,7 @@ console load StrawberryJam2021/1-Beginner/Quinnigan
   40
 
 #lvl_q01
-   6,R,K
+   6,R,K,P
    5,R
    2,R,K
    5,U,X
@@ -119,68 +119,66 @@ EndStunPause
   15,U,X
    1,R,J,G
    7,R
-   4,R,Z
-   1,R,J
-   6,R
-   2,R,J
+  11,R,Z
+   4,R,J
   40
 
-#lvlq04
-   1,J
-   3,R,J
-  13,R,D,X
-  21,R,G
-  10
-  12,R
-   3
-  22,X,G
-  35,R,G
-  25,D,G
-  43,R,D,G
-  11,R,G
-   2,R,D,G
+#lvl_q04
+   3,R
+   2,R,J
+   7,R
+  11,R,J,X,G
+  19,R,X,G
+  20,R,X,G
+   3,R,U,G
+  32,L,D,G
+  30,R,D,G
+  14,R,U,G
+   6,R,X,G
+   6,X,G
+  30,R,X,G
+   2,R,C,G
    1,R,G
-  42,R,X,G
-   2,C,G
    1,R,G
-   1,G
-  20,R,G
+  27,R,G
    1,L
-  49,R
-   4,R,D
+  42,R,D
+   3,R
   20,R,G
   11,R,X,G
    5,R
-   8
+   6
+   2,R
   12,R,Z
   12,G
    9,R,G
-   7,L
-  19,R
-  43,R,D
-   4,R,Z
+   1,L
+  19,R,D
+  39,R,D
+   7,R,D
+   6,R,Z
    1,R,J
-  12,R
+   6,R
   40
 
 #lvl_q05
-  14,R,D,X
+   1,R
    3,R,J
-   5,R
-   2,R,J
-   3,R
+  13,R,D,X
+   8,R,J
    5,U,X
   24,R,G
    1,R,G
-   1,G
-   1,X,G
-   3,X,G
+   1,R,G
    1,R,X,G
-  12,X,G
+   5,X,G
+   1,X,G
+  10,X,G
   13,L,X,G
    1,L
    2,L
-  25
+  20
+   5,R
    8,R,U,X
   33,R,U,G
    1,R
@@ -196,67 +194,79 @@ EndStunPause
   15,R,G
    3,G
    5,R,X,G
-  13,R,X,G
-   3,X,G
+  13,X,G
+   1,X,G
    2,R
-  12,G
-  33,L,X,G
-   3,L,X,G
+   4,L,D
+  12,X,G
+  23,L,X,G
    1,L
-   6,R
-   2
+   2,R
+   6,L
   15,L,Z
    1,L
-  62,L,G
-  19,G
-  30,R,X,G
-  12,G
-  15,C,G
-  14,R,G
+  21,L,U,G
+   5,L,U,G
+  12,L,X,G
+  17,X,G
+   1,L
+   2,R
+   7,L
+   3
+   2,L
+  26,R,G
+  13,R,X,G
+   1,L
   26,R,U,X
   15,R,D,C
-  20,R
-   6,R,Z
+  18,R
+   2,R,D
+   7,R,Z
    1,R,J
-   7,R
-   1,R,J
-   6,R,D,X
+   3
+   3
+   1,L,D,J
+   8,R,D,X
   40
 
 #lvl_q03
-   8,R,D,X
-   1,R,J
-   4,R
-   1,R,J
+   1,R,D,X
+   1,J
+   1
+   8,R
+   1,R,K,G
+   1,J,G
+   8,R,J,G
    2,R
-   4,R,J
-   7,U,X
-  36,R,G
-  80,R,U,X,G
-  16,R,D,G
-  29,R,G
+   1,L,J,G
+  12,L,J,X,G
+   8,L,J,X,G
+   4,L,U,X,G
+   5,R
+  14,R,U,X,G
+   9,R,D,G
+  40,R,U,G
+  50,R,U,G
+  15,R,D,G
+   1,D,G
    1,R
-  18,D
-# 2f faster but need to wait for the rose
-#  31,R,D
-#  14,L,D,X
-#   1,R,J
-#   9,R,D,X
-#   1,R,J
-#   7,R
-#   3,R,J
-#  11,R,D,X
-  32,R,D
+   4,D
+  10,D
+  10,R,D
+  22,D
   14,L,D,X
    1,R,J
-  14,R,D,X
-   6,R,J
-  11,R,D,X
-   9,R
-  13,U,C
-  37,R
-  50,R,G
-  56,R,D,G
+  10,R,D,X
+   1,R,J
+   1,R,K,G
+  14,R,J,G
+   9,J
+  13,U,X
+   2,R
+  14,L,D,X
+  29,R
+  54,R,G
+  52,R,D,G
    6,R,G
   14,R,X,G
    1,L
@@ -380,28 +390,26 @@ EndStunPause
    1,R
    9,R,D,X
   13,R,G
-   1,R,J,G
-   7,R,G
-   6,R
-   5,D,X
+   5,R,J,G
+   3,R,J
+   4,R
+   6,D,X
+   1,R
   10
-  21,G
-  42,X,G
+  27,G
+  42,U,X,G
+  42,U,C,G
+  36,U,X,G
+   1,D
+  18,U,X
   42,C,G
-  25,X,G
-  12,L,X,G
-  14,U,C
-  23,G
-  42,X,G
-  42,C,G
-   6,X,G
-  29,L,X,G
-   1,R,J
-   5,R
-   1,R,J
-   2,R
-   9,J
-  14,U,X
+  43,X,G
+  15,C,G
+  22,R,C,G
+   9,L,J
+   7
+   7,J
+  16,U,X
  135
 
-ChapterTime: 1:14.103(4359)
+ChapterTime: 1:11.944(4232)
