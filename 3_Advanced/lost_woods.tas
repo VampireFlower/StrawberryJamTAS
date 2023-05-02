@@ -1,44 +1,42 @@
-RecordCount: 2317
+RecordCount: 2509
 
 console load StrawberryJam2021/3-Advanced/Oppen
    1
 
 #Start
 #lvl_oppen_intro (0)
-  19
-   1,R,J
-  13,L,D,X
-  11,L,J
-   7,K,G
-   1
-   8,J
-   1,R,J
-  10,L,D,X
-   5,R,J
+  32
+#Need to wait for cutscene
+  10,R,X
+   9,L,J
+   5,L
+   2,L,K
+   1,L
+  12,L,Z
+   4,R,J
+  15,R,D,X
+   2,R,J
+  10,R,K,G
   15,R,D,X
    1,R,J
-   4,R,K,G
-   1,K
-   6,R,K
-  15,R,D,X
-   1,R,J
-   6,R,D,X
+   7,R,D,X
    1,S
    1,D,J
   34
-   7,R,J
+   6,R,J
   40
 
 #lvl_oppen_1a (0)
 #key2route
-   4,R,J
-  15,R,D,X
-   5,R,J
+   2,R,J
+   2,R
+  16,R,D,X
+   3,R,J
 
 #lvl_oppen_1b
-  15,R,J
-   5,J
+  19,R,J
   15,U,X
+   4,R
    1,J,G
    6,R,J
    2,J
@@ -46,27 +44,26 @@ console load StrawberryJam2021/3-Advanced/Oppen
    1,L,J
    1,R,J
   13,R,K,G
-   8,J,G
+   3,J,G
    1,L,J
+   7,R,J
   12,R,K,G
-   1,J,G
-   2,R,J
-   4,J
+  10,J,G
+   1,L,J
+   1,R,J
+   1,R,K,G
+   1,L,K
+  10,R,K
+   3,J,G
+   1,R,J
+   1,J
    1,R,J
    1,L,J
    1,R,J
   13,R,K,G
-   1,J,G
-   1,L,J
-   6,R,J
-   1,K,G
-   9,R,K
-   1,L,K
-  32,L,J
-   3,L,K,G
-   7,L
-   3,R,J
-   8,J
+  34,L,J
+   3,R,K
+   8,K
   10,L,X
   20,R,J
   11,K,G
@@ -106,11 +103,10 @@ console load StrawberryJam2021/3-Advanced/Oppen
   26,L,J
    1,L,K
    5,L,J
-   5,L
-   1,L,J
-   4,L,K
-  27,L,D
-   6,L
+  35,L
+   6,L,D
+   1,L
+   1,L,D
   14,L,U,X
    1,J,G
    2,J
@@ -122,15 +118,16 @@ console load StrawberryJam2021/3-Advanced/Oppen
   11,L,J
    2,K,G
    4,J
-   8,R,J
+   7,R,J
+   1,R
   10,L,X
    8,R,J
    3,J
    2
    1,R
    1
-   9,J
-   1,L,J
+   9,K
+   1,L,K
    1,L
    1
   15,R,Z
@@ -430,4 +427,4 @@ console load StrawberryJam2021/3-Advanced/Oppen
   13,L,U,Z
  135,L,G
 
-ChapterTime: 0:52.037(3061)
+ChapterTime: 0:52.003(3059)
