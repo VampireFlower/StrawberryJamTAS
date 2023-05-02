@@ -1,4 +1,4 @@
-RecordCount: 2316
+RecordCount: 2317
 
 console load StrawberryJam2021/3-Advanced/Oppen
    1
@@ -129,36 +129,41 @@ console load StrawberryJam2021/3-Advanced/Oppen
    2
    1,R
    1
-   5,J
-   5,L,J
-   2,L
+   9,J
+   1,L,J
+   1,L
+   1
   15,R,Z
    5
+  10,R,D,X
+   1,R,J
+   3
+   7,R
+   1
+  14,R,D,X
+   1,R,J
+  27,R,D
   14,R,Z
-   4,R,J
+   1,R,J
+   1,K,G
+   1,L,K
+   1,R,J,G
+   3,R,K,G
    1,R
-   7,R,K
-  15,R,D,X
-   1,R,D
-  22,R
-  15,R,Z
+   1,R,J,G
+   3,R,K,G
    1,R
-   3,R,J
-   2,L,J
-   2,R,J
-   1,R,K,G
-   3,R,J,G
   10,R,X
-  13,R,J
+  12,R,J
   14,R,U,X
    5,J,G
    7,R
   10,R,X
   20,L,K
    2,K
-   4,J,G
+   6,J,G
    1,R,J
-   7,L,J
+   5,L,J
   12,L,K,G
   12,J,G
    7,K,G
@@ -425,4 +430,4 @@ console load StrawberryJam2021/3-Advanced/Oppen
   13,L,U,Z
  135,L,G
 
-ChapterTime: 0:52.054(3062)
+ChapterTime: 0:52.037(3061)
