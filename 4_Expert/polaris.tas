@@ -1,4 +1,4 @@
-RecordCount: 4212
+RecordCount: 4512
 
 console load StrawberryJam2021/4-Expert/Yoshachobi7
    1
@@ -6,6 +6,10 @@ console load StrawberryJam2021/4-Expert/Yoshachobi7
 #Start
  190
 
+
+
+###spinner cycle
+   2
 #lvl_a0
    4,L,J
    1,J
@@ -64,21 +68,23 @@ console load StrawberryJam2021/4-Expert/Yoshachobi7
    6,R
    1,R,J
    1,R
-## just gultra?
    7,R,D,X
    1,R,J,G
   12,R
    1,R,J
-  10,R,D,X
+   2,R
+   6,R,D,X
+   1,R,J,G
+   3,R
   40
 
 #lvl_a1
-   4,R,D,X
+  11,R
    1,R,J
-  11,R,D,X
-  11,R,J
-  14,L,J
-  14,L
+   5,L,J
+   9,R,X
+  13,L,J
+  15,L,X
   20,R,J
   35,R,G
    3,R
@@ -498,33 +504,47 @@ EndStunPause
    7,R,D
   10,R,D,C
    3,R,J
-  42,R,G
-   1,G
-   1
-  21,L,D
-  15,L,X
-   7,L
-  10,U,X
-  20,G
-  12,L,G
-   5,R,G
-   1
-  30,R
-   2
-   2,D
-  14,R,Z
+  20,R,J,G
+  23,R,G
+   1,R
+  10,L,X
+   4,L,J
    1,R,J
-  16,R,D,X
-   1,R,J
-   8,R,U,X
- 124,R,U,G
+   5,U,X
+  26,U,G
+   1,R
+  23,R,D
+  15,R,D,X
+  20,R
+   7,R,G
+   6,D,G
+   1,R,J,G
+   1,R,K,G
+   2,R
+   1,R,J,G
+   1,R
+   1,R,J,G
+   5,R
    1,L
+   1,R
+  13,R,G
+   1,J,G
+  93,R,U,J,G
+   1,L
+  11,R,U,Z
   40
 
 #lvl_a8
-  15,R,U,X
-  23,R,D
-  20,D
+   5,R,U,Z
+   1,L,J,G
+  10,R
+  15,D,X
+   3,R,D
+   1,D
+   1,L
+   1
+   1,L
+   2
   23,R,D
    9,D
   15,R,X
@@ -563,6 +583,7 @@ EndStunPause
   17,R
    7,R,D
   14,R,D,X
+#slower strat by 15f
   12,R,J
    5,R
    5,R,J
@@ -570,11 +591,27 @@ EndStunPause
   14,R,D,X
   21,R,J
   14,R,X
-   9,R
-  22,R,D,X
-  15,R,C
-  63,R,D
+   1,R
+  32,R,X
+  11,R,J
+  41,R,X
+  39,R,J
   15,R,U,X
- 135,D
+ 135
+#15f faster but fish cycle dependent (fish super)
+#  12,R,J
+#   5,R
+#   5,R,J
+#   5,R
+#  14,R,D,X
+#  21,R,J
+#  14,R,X
+#   9,R
+#  22,R,D,X
+#  15,R,C
+#  63,R,D
+#  15,R,U,X
+# 135,D
 
-ChapterTime: 1:47.508(6324)
+
+ChapterTime: 1:46.845(6285)
