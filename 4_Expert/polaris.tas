@@ -1,4 +1,4 @@
-RecordCount: 4512
+RecordCount: 4563
 
 console load StrawberryJam2021/4-Expert/Yoshachobi7
    1
@@ -434,10 +434,9 @@ EndStunPause
   14,R,D,X
    1,R,J
    6,R,D,X
-  40
-
+  43
 #lvl_a7
-   3
+
    8,R,D,X
    1,R,J
    8,R
@@ -532,30 +531,36 @@ EndStunPause
   93,R,U,J,G
    1,L
   11,R,U,Z
-  40
-
+  43
 #lvl_a8
-   5,R,U,Z
-   1,L,J,G
-  10,R
+   1,R,U,Z
+   1,L,U,Z
+   1,J,G
+   5
+   2,J
+   3
   15,D,X
-   3,R,D
-   1,D
-   1,L
-   1
-   1,L
-   2
-  23,R,D
-   9,D
+   3
+   2,L
+   2,R
+  19,R,D
+   2,D
+   1,R,D
   15,R,X
-   9,L,J
-   4,L
+   3
+   1,L,J
+   4,J
+   1,R,J
+   1,J
+   5,R,J
   32,R,U,X
   13,R,Z
    8,R,J
   33,R
-  21,R,J
-   9,U,X
+  13,R,J
+   1,J
+   7,R,J
+   8,U,X
   42,R,J
    3,R
   10,R,D
@@ -583,7 +588,6 @@ EndStunPause
   17,R
    7,R,D
   14,R,D,X
-#slower strat by 15f
   12,R,J
    5,R
    5,R,J
@@ -591,6 +595,7 @@ EndStunPause
   14,R,D,X
   21,R,J
   14,R,X
+#slower strat by 15f
    1,R
   32,R,X
   11,R,J
@@ -598,14 +603,7 @@ EndStunPause
   39,R,J
   15,R,U,X
  135
-#15f faster but fish cycle dependent (fish super)
-#  12,R,J
-#   5,R
-#   5,R,J
-#   5,R
-#  14,R,D,X
-#  21,R,J
-#  14,R,X
+#faster by 15f but fish cycle dependent (fish super)
 #   9,R
 #  22,R,D,X
 #  15,R,C
@@ -614,4 +612,5 @@ EndStunPause
 # 135,D
 
 
-ChapterTime: 1:46.845(6285)
+
+ChapterTime: 1:46.658(6274)
