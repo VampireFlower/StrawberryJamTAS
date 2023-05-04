@@ -22,7 +22,8 @@ console load StrawberryJam2021/0-Lobbies/4-Expert 3344 -904
    5,R,D
   12,R,D,X
    3,L,J
-  22,L,D,X
+  20,L,D,X
+   4
    1,N
    2
-#0:02.499(147)
+#0:02.533(149)
