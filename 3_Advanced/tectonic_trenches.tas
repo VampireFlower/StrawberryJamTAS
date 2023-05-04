@@ -1,4 +1,4 @@
-RecordCount: 619
+RecordCount: 875
 
 console load StrawberryJam2021/3-Advanced/Julia
    1
@@ -165,20 +165,21 @@ console load StrawberryJam2021/3-Advanced/Julia
   22,R,J
   14,R,U,X
   12,G
-  19,R,G
-   1,R
-  30
-   5,D
-  10,L,D
-   5,L
-   1,L,D
-  15,L
-  15,L,X
-   4,L
-   1
+  16,R,G
+   5,R
+  21
+  15,D
+  14,L,D
+   2,L
+   6
+   2,D
+   5,L,X
    1,L,J,G
-  15,L
-  28
+   1,J
+   6,L,J
+  11,L
+   9,R
+  27
    1,J
   13,R,J
   15,U,X
@@ -188,7 +189,8 @@ console load StrawberryJam2021/3-Advanced/Julia
    5
   15,R,X
   15,R,Z
-  13,R
+  11,R
+   2
   10,R,U,X
   80,R,U,G
   25,R,D,G
@@ -200,12 +202,12 @@ console load StrawberryJam2021/3-Advanced/Julia
    1,R,G
    7,R
   14,U,X
-  21,R,G
+  20,R,G
   15,U,X
-   8,R
-   3
-### spinner cycle [a-07]
+   9,R
    2
+### spinner cycle [a-07]
+   3
 ###
    1,L,J
    2,L
@@ -389,4 +391,4 @@ EndStunPause
   11,R,U,X
  135
 
-ChapterTime: 0:56.712(3336)
+ChapterTime: 0:56.559(3327)
