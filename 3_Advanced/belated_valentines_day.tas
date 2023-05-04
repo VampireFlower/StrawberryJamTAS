@@ -1,11 +1,10 @@
-RecordCount: 6551
+RecordCount: 6954
 
 console load StrawberryJam2021/3-Advanced/Roborb
    1
 
 #Start
  190
-
 #lvl_1-intro
    6,L,D,X
    1,R,J
@@ -54,8 +53,7 @@ console load StrawberryJam2021/3-Advanced/Roborb
   18,R,D,X
    3,R
   18,R,U,X
-   3,R
-   3,R
+   6,R
   14,R,D,X
   22,R,J
    9,R
@@ -96,17 +94,19 @@ console load StrawberryJam2021/3-Advanced/Roborb
    6
    1,R
   15,L,U,X
-   4,L
-  16,R,K
-  18,U,X
-  10,L,Z
-  20,R,J
-  15,U,X
    3,L
-   1
-   2,R,J
-  12,R
-  21,R,J
+   6,U,X
+   2,J
+  11,R,J
+   3,J
+   1,R,J
+  15,R,U,X
+  14,R,K
+  10,U,X
+   9,L
+   3,R,J
+  27,R,D
+   5,R
   18,R,U,X
   15,R,Z
    6,D
@@ -137,27 +137,30 @@ console load StrawberryJam2021/3-Advanced/Roborb
    2,L
    1,J
    8,L
-  18,U,Z
-   1,R
-  15,U,X
-   1,L
-   9,R
-  10,R,X
-   7,R,J
-   5,R,Z
-   1,R,J
-   6,R
+  18,U,X
+   1,J
+  18,R,J
+  14,R,Z
+   2,R,J
+   2,R
+   7,R,U,X
+   1,R,J,G
+   8,R
   40
 
 #lvl_1-f
-   7,R,J
-   7,R
-  15,R,D,X
    3,R
+   4,R,J
+   2,R
+   2,R,J
+   3,R
+  16,R,D,X
   15,R,Z
-   9,R
+  12,R
   15,R,U,X
-  20,R,J
+  13,R,D
+   1,R,J
+   2,R
    5,R,X
   30,R
   11,L
@@ -360,4 +363,4 @@ console load StrawberryJam2021/3-Advanced/Roborb
   12,R
   84,R,J
 
-ChapterTime: 0:52.037(3061)
+ChapterTime: 0:51.833(3049)
