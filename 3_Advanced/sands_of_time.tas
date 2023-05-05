@@ -1,4 +1,4 @@
-RecordCount: 3174
+RecordCount: 4070
 
 console load StrawberryJam2021/3-Advanced/astraxel
    1
@@ -15,76 +15,79 @@ console load StrawberryJam2021/3-Advanced/astraxel
    1,J
    1,K,G
    6,U,Z
-   9,K,G
-   1,R,J,G
-   1,L,J
-   3,R,J
-  14,R,Z
+   9,J
+   1,R,K,G
+   1,L,K
+   3,R,K
+  15,R,Z
   18,L,D
-   1,R,D
    6,L,Z
    1,R,J
    7,R
-   6,R,J
-   1,R
+   7,R,D,J
   40
 
 #lvl_a-01
-   2,R
-  15,R,D,X
-#Spinnerstun to the right ?
-#I don't see what you would do next
-   2,R,J
+   5,R,J
+   4,R
+   1
+   2,J
+   1
+   8,J
   14,U,X
-  12,L,J
-   5,J
-   3,L
-   7
-   1,L
+   5,L,J
+   8,L
+   3
    1,G
    5,J,G
-   8,U,G
-  13,G
-   1,J
-   1,K,G
-  12,J,G
-  11,R,J
-   1,L,K
-   4,L
+   7
+   9,U,G
+   5,G
+   1
+   1,J,G
+   1,L,K,G
+  15,R,K
+   6,K
+   1,L,J
+   3,L
   15,L,D,X
   14,L,D,C
-  23,L,J
-   2,J
+  24,L,J
    1,L,K,G
    1,L,J,G
   12,L
-  14,L,U,Z
-   1,L
-  12,R,J,G
-#doesn't look optimal
+  15,L,U,Z
+  11,R,J,G
    7,R
-   1,J,G
   30,U,G
-  11,L
+  12
    4,R,D,X
    1,R,J
    9,R
-  46,R,J
+  20,R,J
+  21,R
+   2,R,D
   18,R,X
   15,R,U,C
   18,R,U,X
   13,U,C
-  12,J
+   8,L,J
+   2,J
   14,U,X
-  19,L,J
-  22,L,X
-  14,L,D,C
-  35,L,D,J
-  14,L,D,X
-  33,L,J
-  15,L,X
+  17,L,J
+  18,L,X
   12,L
-   2,L,J
+  14,L,Z
+  12,L,J
+  15,L,D,X
+   6,L
+  11,L,J
+   5,L
+  29,L,J
+   1,L,D
+  14,L,X
+   1,L,J
+   1,L
    5,L,Z
    1,L,J
    6,L
@@ -92,36 +95,38 @@ console load StrawberryJam2021/3-Advanced/astraxel
   40
 
 #lvl_a-02
+   1,J
+   3,L,J
+   2,L
+   1,L,J,G
+   1
+   7,L,J,G
    4,L
-   2,L,J,G
-#maybe some strats by activating
-#this zipper for later
-  16,L,K,G
-  27,L,D,X
+   3,L,J
+  15,L,D,X
+  12,L,D
    4,L,J
+   2,J
+   1,L,J
    6,U,X
    1,J
-  13,R,D
-  14,L,D
-   1,L,D,J
+   3,R,K,G
+  19,D
+   4,L,D
    1,L,J
-  14,L,X
-   6,L
-   4,L,J
-   7,J
-   2,L,J
-  33,L,K,G
-   5,D
-   2,L,J
-   9,L
-  10,L,U,X
+   5,L
    1,L,J
-   1,L,K
    9,L
+  15,L,U,X
+  10
+   1,J
+   1,R,K,G
+   4,L,K
+   6,K
   15,U,X
+   4
   15,U,C
-   8,R
-   2
+  10,R
    1,G
    1,J
    7,R
@@ -142,44 +147,39 @@ console load StrawberryJam2021/3-Advanced/astraxel
    1,R
    1,R,K,G
    7,R
-  15,R,Z
+  15,R,X
    9,R
   24
-  20,J
-  12,K,G
-   7,J,G
-   2,R,K,G
-   4,K,G
-   2
+   9,J
+  19,K,G
+   3,J,G
+   4,R,J
   18,R,Z
-  14,U,X
-   3,R,J
+  19,U,X
   40
 
 #lvl_a-04-bis
-  11,R
-  12,J,G
-   2,K,G
-  13,L,U,X
+  18,J
+   6,R,K
+   9,L,U,X
   12,R,D
-  28,D
+  29,D
   10,R,X
    1,R,J
    5,L,J
-  11,L
-   8,K,G
-   1
+  11,L,D
+   7,K,G
+   2
    1,R,G
    9
    1,K
    1,L,J,G
   20,R
-   1,R,G
+   1,G
    1
    1,J
    1,K,G
-  14,L
-   1,L,D
+  14,L,D
    1,L
    1,L,D
    1,J
@@ -188,16 +188,17 @@ console load StrawberryJam2021/3-Advanced/astraxel
    1,R
    1,L
    1,L,J,G
-   1,R,J,G
 #Going on this zipper while  
 #saving a dash may be faster
   17,R,U,X
    1,J
-  11,U,C
+  12,U,C
 #Haven't tested the normal route in a-05
 #to the right with spinnerstun
-  13,L,J
-  12,L
+  12,L,J
+   8,L
+   2,L,J
+   3,L
    1,L,J
   15,R,K
    8,L,J,G
@@ -211,8 +212,7 @@ console load StrawberryJam2021/3-Advanced/astraxel
   11,J,G
    1
   17,U,X
-   3,R
-   1,R
+   4,R
   15,R,X
   15,R,C
   10,R
@@ -224,84 +224,78 @@ console load StrawberryJam2021/3-Advanced/astraxel
 #lvl_a-06
    8,R
    9,L,D,X
-   9,R,J,G
+   9,R,J
   12,R
    8,L
   10,R,D,X
-  12,R,J
-  13,U,X
-  10,L,J
+  11,R,J
+  11,U,X
+  10,J
+   2,R,J
+   2,R
   12,L,K
   12,R,J
-  12,L,K
-  13,R,J
+  11,L,K
+  11,R,J
    8,L,K
-   5,L
+   7,L
+   3,L,J
    2,L
-   5,L,J
-  14,L,D,X
-   1,L,D
-  17,R,D
-   7,D
-   2,L,G
-   7,D,X
-   3,L,J,G
+  15,L,D,X
+   4,R
+  16,R,D
+   2,D
+   1,R,D
+   6,D,X
+   2
+   1,L,J,G
   20,L
-   9
-   2,L
-  61
-
-#   3,L,D
-#  19,R,D
-#   1,L,D
-#   1,R,J
-#   8,D,X
-#  23,L
-#  74
-
+  74
   10,R
   10
    2,R
    5
    1,L
   24,K
-  18,R,U,X
-  19,R,U,C
-  14,U,X
+# These dashes don't feel optimal
+  15,R,U,X
+   3,R
+  15,R,U,C
+   3,R
+  15,U,X
+   3,R
+  15,R,C
    4,R
-  21,R,C
-  19,R,X
-   5,R
-  10,L
-  10,L,D
-  16,L
-   1,L,K,G
-   5,L
-   6,R
-   4,R,J
-   5,R
-   2
-   8,R
-   3,L
-   5,L,D
-   9,L
-   1,L,D
-  11,L
-  24,L,U,X
-   1,L,J
-  15,L
-  14,L,Z
+  15,R,X
+  12,R
+  16,L,D
   14,L
-   9
-  24,L
-  11
-   2,R
-   4,R,D,X
+   3,L,D
+   1,L,J,G
+   1,L,K,G
+   1,J,G
+   1,L,J
+   1,L
+   3
+  12,R,D
+   8,L,D
+   4,L
+   1,L,D
+  12,L
+  18,L,U,Z
+  12,L
+   4,L,J
+   9,L,D
+  15,L,Z
+  37,L
+  21
+   1,L
+   4,R,Z
    1,R,J
    8,R
   13,R,J
   14,U,X
-  13,L,J
+  12,L,J
   40
 
 #lvl_b-01
@@ -325,16 +319,19 @@ console load StrawberryJam2021/3-Advanced/astraxel
    2,G
   13,L,D,X
    1,L,J
+   1,L
   14,L,D,X
+   7,L,J
+   9,U,X
+  10,L,J
+   6,K
+   3,R,K
    8,L,J
-  10,U,X
-  10,L,K
-   8,R,J
-   9,L,K
-   8,L
+   1,L,K
+   5,L
    4,L,J
-  14,L,D,X
-   9,L,D
+  15,L,D,X
+   8,L,D
    6,L,Z
    1,L,J
    7,L
@@ -352,9 +349,7 @@ console load StrawberryJam2021/3-Advanced/astraxel
   42,L,U,X
   18,L,U,C
   16,U,X
-  12,R,J
-   1,R,J
-   4,R,J
+  17,R,J
    4,L,J
   34,L,K
   10,R,J
@@ -369,8 +364,8 @@ console load StrawberryJam2021/3-Advanced/astraxel
   13,L,X
    2,L,J
   13,L,U,X
-   2,L,J,G
-   4,L
+   1,L,J,G
+   5,L
   40
 
 #lvl_b-03
@@ -379,8 +374,7 @@ console load StrawberryJam2021/3-Advanced/astraxel
   14,L,D
    7,R,D,X
    1,R,J,G
-  14,R
-  23,R
+  37,R
   70,D
    6,R
    1,L,J
@@ -473,4 +467,4 @@ console load StrawberryJam2021/3-Advanced/astraxel
   16,U,X
  135
 
-ChapterTime: 1:06.538(3914)
+ChapterTime: 1:04.719(3807)
