@@ -1,4 +1,4 @@
-RecordCount: 2238
+RecordCount: 2358
 
 console load StrawberryJam2021/4-Expert/powerav
    1
@@ -59,11 +59,9 @@ console load StrawberryJam2021/4-Expert/powerav
    1,R,J
    7,R
    1,R,J
-## lazy resync
-   4,R
-  13,R,U,X
-  28,R
-##
+   5,R
+  15,R,U,X
+  24,R,D
    6,R,Z
    1,R,J
    7,R
@@ -73,7 +71,7 @@ console load StrawberryJam2021/4-Expert/powerav
 #lvl_a-2
   14,R,D,X
   13,R,J
-   5,J
+   5,L,J
   12,U,X
   82,R,D
   26,R,X
@@ -81,39 +79,38 @@ console load StrawberryJam2021/4-Expert/powerav
   12,R,J
    3,R,K,G
    7,R
-   6,R,J
+   4,R,X
+   7,R,J
    1,R
-  10,R,Z
+   1,L
+   3,R
+   1,R,J
+   5,R
+   9,L,Z
    1,R,J
    6,R
-  14,R,X
-   4,R,J
-   7,R
-  15,U,X
-  11,R
-  33,L,D,G
-   4,L
-   8,R,U,X
-  59,R
-   1,R,D
-   1,R
-  12,R,Z
+  13,R,J
+  14,R,U,X
+  24,R,J,G
+   1,L
+  45,R
+  29,R,U,X
+   7,R,Z
    1,R,J
    7,R
    1,R,J
-  11,R,D,X
-   1,R,J
-   3,R
   14,R,D,X
-  17,R,J
-  11,U,X
+  30,R,J
+  12,U,X
   18,G
-   7,L,G
+   6,L,G
+   1,R,G
    1,L
   13,U,X
   40,R
   15,R,X
-  39,R,D
+  35,R,D
+   4,R
   48,R
   14,R,U,Z
    1,J
@@ -722,5 +719,5 @@ console load StrawberryJam2021/4-Expert/powerav
   16,U,X
  135
 
-ChapterTime: 2:05.664(7392)
+ChapterTime: 2:05.409(7377)
 
