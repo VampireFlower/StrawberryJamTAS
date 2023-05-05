@@ -1,6 +1,6 @@
 #e so I
 
-RecordCount: 1336
+RecordCount: 1380
 
 console load StrawberryJam2021/4-Expert/Scroogle
    1
@@ -38,6 +38,9 @@ console load StrawberryJam2021/4-Expert/Scroogle
   43
 
 #lvl_a-01
+#   5,R
+#  11,L,J
+#   4,X
    5,R
    8,L,K
    7,L
@@ -80,9 +83,10 @@ console load StrawberryJam2021/4-Expert/Scroogle
 
 #lvl_a-02
    8,L,J
-   5,K
-   7
-  15
+   8,K
+   4,X
+  10
+   5,R
   18,R,X
   15,D,C
    7
@@ -252,20 +256,22 @@ console load StrawberryJam2021/4-Expert/Scroogle
   19,R,J
   10,L,D,C
   20,R,J
-  21,R
+  16,R
+   3,R,D
+   2,R
   15,R,U,X
    9,R
-   6,R,Z
+   4,Z
    1,R,J
    6,R
+   1,R,J
   43
 
 #lvl_outro 
-   1,R
-   2,R,J
+   1,R,J
    9,R
-   8,R,J
+  10,R,J
   14,R,U,X
  135
 
-ChapterTime: 0:34.255(2015)
+ChapterTime: 0:34.187(2011)
