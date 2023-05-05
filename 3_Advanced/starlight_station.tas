@@ -1,4 +1,4 @@
-RecordCount: 5773
+RecordCount: 6717
 
 console load StrawberryJam2021/3-Advanced/Jolly
    1
@@ -477,6 +477,8 @@ EndStunPause
    5,R
    2
    4,R
+
+
    9,J
   18,U,X
    3,R
@@ -520,6 +522,7 @@ EndStunPause
   24,J
   15,R,X
   17
+
   45,R,X
   11,R,D,C
    1,L,C
@@ -553,72 +556,63 @@ EndStunPause
    7,R,J
    2,R
    8,R,J
-  11,R,D
+  14,R,D
   10,L,D,X
-  30,R,J
+  28,R,J
   15,R,X
+   1,R
+
+   1,G
+   6,J,G
+   0,R,J
    3,R
-  21,U,G
-  26,G
-  18,J,G
-  12
-  36,R
-  15,R,X
-   1,L,X
-   1,J
-   1,K,G
-   1,J,G
-   1,K,G
-   1,L,J,G
-  22,R,J
-  14,R
-  15,D,X
-   9,D
-   1,J
-   9
-  14,R,D,X
-   1,L,J
-  22,L
-  31
-  10,R,X
-  10,R,J
-   8,R
-  15,L,X
-   6
-   3,L
-  10,L,D,X
-  21,L,J
-  15,L,U,X
-   6,L
-  19,R
-  14,R,D,X
-  20,R,J
-   8
-  14,U,Z
-  17
-   6,R,U,X
-   1,J
-   1,L,J
-   1,K,G
-   1,J,G
-   1,K,G
-   5,J,G
-  15,R,D,X
+   4
+   1,L
+   1,R
+  23,U,G
+   7,J,G
+  12,R,K,G
+  13,R
+  14,L,Z
+   1,R
+  12,R,Z
    1,R,J
-   3,R
-  15,R,D,X
-  28,R,D
+   7,R
+   0,L
+  14,L,Z
+   1,R,J
+  10,R,U,X
+   2,L,X
+   1,J
+   1,K,G
+   4,J,G
+   1,K,G
+   1,J,G
+   1,K,G
+   2,J,G
+  17,R,D,X
+  10,R,D
+   6,R
+   9,R,U,Z
+   1,L,J,G
+  18,R,J
+   4,R
+  37,R,J
+  14,R,U,X
+   5,J,G
   40
 
 #lvl_brys4
-   6,R,D
-  15,D,X
-   8,L,D
-  16,L
-  27
-   3,L
-   3,R
- 109,G
+  12,J,G
+   5,R,Z
+   8,R,J
+   4,R
+   1,R,J
+   9,R
+  10,U,G
+ 149,G
+
+
 #climbhop cancel earlier?
    3,U,G
   12,L,J
@@ -641,4 +635,4 @@ EndStunPause
    5,U,X
   48,L,J
 
-ChapterTime: 1:36.288(5664)
+ChapterTime: 1:31.936(5408)
