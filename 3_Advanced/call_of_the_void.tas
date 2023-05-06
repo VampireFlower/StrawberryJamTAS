@@ -1,4 +1,4 @@
-RecordCount: 2486
+RecordCount: 2601
 
 console load StrawberryJam2021/3-Advanced/Viv
    1
@@ -37,7 +37,7 @@ console load StrawberryJam2021/3-Advanced/Viv
    9,R,D,X
   16,R,J
   14,K,G
-   7,J,G
+   6,J,G
   27,L,J,Z
   17,D,G
    1,S
@@ -143,12 +143,11 @@ console load StrawberryJam2021/3-Advanced/Viv
   11,R,D
   10,R
   13,U,X
-  26,R,J
-  25,L,C
-  13,D,G
+  23,R,J
+  26,L,C
+  11,D,G
   10,R,J
- 152,D,G
-   4
+ 156,D,G
   39,R,X
   40
 
@@ -159,9 +158,8 @@ console load StrawberryJam2021/3-Advanced/Viv
 
 #lvl_viv4
   10,R,U,Z
-  15,R,D,X
-  15,R,D
-  10,L,D,X
+  30,R,D,X
+  10,L,D,C
   34,R,J
   38,L,D,X
    1,L
@@ -256,13 +254,11 @@ console load StrawberryJam2021/3-Advanced/Viv
    6,L
    3,L,D,J
   15,D,X
-
    1,R
    4,R,D,J
   15,D,X
    3,L,J
   15,L,D,X
-
    2,R
    1,D
   18,R,D,J
@@ -371,4 +367,4 @@ console load StrawberryJam2021/3-Advanced/Viv
   28,L,J
  139,R,X
 
-ChapterTime: 1:39.586(5858)
+ChapterTime: 1:39.552(5856)
