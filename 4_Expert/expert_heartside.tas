@@ -1,4 +1,4 @@
-RecordCount: 19826
+RecordCount: 19827
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -1133,7 +1133,6 @@ EndStunPause
   12,L,J
 AnalogMode Square
   27,F,43
-AnalogMode Percise
    6,F,6.132
    1,F,5.675
   24,F,343.837
