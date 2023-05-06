@@ -1,4 +1,4 @@
-RecordCount: 19793
+RecordCount: 19826
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -1796,17 +1796,15 @@ EndRepeat
   13,R,D,X
 ## Cycle in c06_fall
 StunPause
-   8,R,D
-# Could stop stun here but that
-# makes next lightning load too early
-   2,R,J
+   2,R,D,X
+   6,R,D
 EndStunPause
-   1,R,J
+   7,R,J
    5,R
-   1,R,J,G
-   9,R
-  15,R,U,Z
-   7,R,J,G
+   1,R,J
+   4,R
+  14,R,U,Z
+   8,R,J,G
    7,R,K,G
    7,R
    6,R,Z
@@ -2334,15 +2332,6 @@ EndStunPause
   14,R,D,X
    2,R
  235
-
-#   7,L,J
-#  10,L,Z
-#   5,L,J
-#  15,U,X
-#   1,R,J,G
-#   2,R,K,G
-#   7,R
-
    7,L,J
   11,L,X
    1,L,J
@@ -2361,67 +2350,6 @@ EndStunPause
    1,K,G
    7
    1,G
-
-#   1
-#   1,J
-#   7,L,J
-#   1,K
-#   1,J
-#   1,L,K,G
-#   1,L,J,G
-#  10,K,G
-#   2,R,K
-#  15,R,D,X
-#   7,R,J
-#   1,R,K,G
-#   9,K
-#   2,L
-#   1,R,J,G
-#  10,R,K,G
-#  11,R,D,X
-#***
-#   5,R,J
-# 100,R
-
-#   1
-#   1,J
-#   7,L,J
-#   1,K
-#   1,J
-#   1,L,K,G
-#   1,L,J,G
-#   8,K,G
-#   3
-#   1,R
-#   1
-#   2,R
-#   1,R,J
-#   3,R
-#   8,R
-#   1,R,D
-#   1,R
-#   1,R,J
-# 100,R
-
-#   1
-#   1,J
-#   7,L,J
-#   1,K
-#   1,J
-#   1,L,K,G
-#   1,L,J,G
-#  10,K,G
-#   1
-#  18,R
-#   4,R,D
-#  12,R,U,Z
-#   3,R,J,G
-#   7,R
-#***
-#   5,D,X
-#  10,R,J
-# 140,R
-
   11,L,K
    9,J,G
    4
@@ -2652,12 +2580,12 @@ EndStunPause
 ## Cycle 0
 #   7,R
 ## Cycle 1
-#   5,R
-#   2
-#   1,R
-## Cycle 2
    5,R
-   4
+   2
+   1,R
+## Cycle 2
+#   5,R
+#   4
 ##
   13,R,Z
    1,R,J
@@ -3461,4 +3389,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 8:14.513(29089)
+ChapterTime: 8:14.292(29076)
