@@ -1,4 +1,4 @@
-RecordCount: 5420
+RecordCount: 5586
 
 console load StrawberryJam2021/2-Intermediate/Jems
    1
@@ -31,48 +31,27 @@ console load StrawberryJam2021/2-Intermediate/Jems
    9,R
    1,R,J
   14,R
+#skip refill, spinner cpop?
    5,R,D,J
-  41,R,D
-   2,D
-   2,R,D
-   3,D
-   7,R,D
-   1,D
-   2,R,D
+  38,R,D
+  20,L,D
   15,R,Z
-  20,R,D
-   8,R,K
-   1,J,G
-   3,R,J
-   5,J
-   1,R,J
-   1,L,J
-   1,R,J
-  15,R,K,G
+  33,L
    1,J
-  16,R,K,G
-   1,R,J,G
-  14,R
-   4,L
-  15,L,D,X
-   2,L,D
-  30,R,D
-   3,L,D
-   1,L
-   2,R
-   1,R,D
-   2,R
+   2,K,G
+   3
+   1,R
+   1,R
    1,R,J,G
    1,R,K,G
    5,R
-   1,R,J
-   9,R
-   1,J
-  11,L,J
-   8,L,K,G
-   2,J,G
-  11,R,J
-   9,R,Z
+   3,R,J
+  10,R,D
+   7,R,J
+   5,R
+   8,R,J
+  14,R,K
+  11,R,Z
    1,R,J
   20,R,D
   40
@@ -238,21 +217,29 @@ console load StrawberryJam2021/2-Intermediate/Jems
   14,R
    2,R,J
   23,R
-  57,J
-   5,R
+  30,J
+  10,L
+   1,R,J
+   5,J
+   1,J
+   6,R
+   1
+  13,R
+   1,R,J,G
+   1,R,K,G
+  13,R
    1,R,J
   14,R
-   1,R,J
-  14,R
-   1,R,J
-   8,R
   40
 
 #lvl_btd-07
-   6,R
-   1,R,J
-   8,R
-  13,L,D
+   4,R,J
+  12,R
+   5,L,D
+   2
+   2,D
+   1,L
+   1
    1,L,G
    1,J,G
    3,R
@@ -263,10 +250,15 @@ console load StrawberryJam2021/2-Intermediate/Jems
    1,R
    1,L
    4
-   4,L
+   1,L
+   3
   13,L,G
+
+
    6,L,J,G
+#can use a neutral rcb here
    1,L,K,G
+
    1,L,J,G
    1,L,K,G
    4,R,K
@@ -919,4 +911,4 @@ console load StrawberryJam2021/2-Intermediate/Jems
   17,L,D,J
   14,L,K,G
 
-ChapterTime: 2:26.982(8646)
+ChapterTime: 2:25.299(8547)
