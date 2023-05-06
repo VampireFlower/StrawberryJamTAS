@@ -1,4 +1,4 @@
-RecordCount: 4563
+RecordCount: 5010
 
 console load StrawberryJam2021/4-Expert/Yoshachobi7
    1
@@ -6,16 +6,14 @@ console load StrawberryJam2021/4-Expert/Yoshachobi7
 #Start
  190
 
+#spinner cycle
+   0
 
-
-###spinner cycle
-   2
 #lvl_a0
    4,L,J
    1,J
   14,U,X
-   1,R
-  17,R
+  18,R
   15,R,D,X
   25,R,J
   24,R,D
@@ -125,12 +123,12 @@ console load StrawberryJam2021/4-Expert/Yoshachobi7
 #lvl_a2
    1,R
    3,R,J
-   5,R
+   3
+   2,R
   15,U,X
-   5
+   5,R
+   1,R,N
    6,R
-   1,N
-   3,R,D
    1,J
   15,D,X
    2,L
@@ -181,8 +179,7 @@ console load StrawberryJam2021/4-Expert/Yoshachobi7
   21,R,G
    1,R
   10,L
-   3,D
-  16,D
+  19,D
   11,R,Z
   13,R,J
   11,U,X
@@ -201,20 +198,29 @@ console load StrawberryJam2021/4-Expert/Yoshachobi7
   70,R,G
    7,R
   14,R,U,X
-  13,R,G
-  45,R,G
-   6,R,D,G
+  47,R,G
+   2,R,U,G
+  10,R,G
+   4,R,D,G
+   1,R,G
    1,R,J,G
-  27,R,G
-   1,D
-  14,R,D,X
-   2,L,J
-   8,L
+  17,R,D,G
+   1,R,J,G
+   1,R,D,G
+   1,R,J,G
+   3,R,D,G
+   5,R,D
+   9,R,Z
+   1,L,J
+   1,L
+   1,L,J
+   1,L
+   5
   14,L,D,X
    1,R,J
    6,R,D,X
    1,R,J,G
-  12,R
+  11,R
    1,R,J
    5,R,D,X
   13,R,G
@@ -235,42 +241,46 @@ EndStunPause
 StunPause
    9,R,J
 SkipInput 3 1
-   6,R,D,X
+   5,R,D,X
 EndStunPause
-  15,R
-   2,R,J
-   4,R
-  11,R,U,X
-StunPause
-   1,R,U,X
-  13,R
-EndStunPause
-   6,R
-  15,R,D,G
-StunPause
-   8,R,D,G
-   1,L
-   1,R,D
+  10,R,D,X
+   5,R
+   4,R,J
    2,R
 SkipInput 3 1
-   7,R,U,Z
+  11,R,U,X
+   1,R
+StunPause
+  11,R
 EndStunPause
+   7,R
+  15,R,G
+StunPause
+   1,R,J,G
+   7,R,G
+   1,L
+   1,R,D
+   3
+SkipInput 3 1
+   5,R,U,Z
+EndStunPause
+   2,R,U,Z
    1,L,J,G
    6,R,J
    5,R
-   2,R,J
+   1,R,J
   18,R
    1,R,J
-  13,R,U,X
+  12,R,U,X
   21,R,U,G
    1,L
-  35,R,D
+  34,R,D
    3,R,J
-   1,R
+   2,R
   40
 
 #lvl_a4
-  15,R
+  14,R
    2,R,D
    2,R,D,J
    7,L,D
@@ -435,8 +445,8 @@ EndStunPause
    1,R,J
    6,R,D,X
   43
-#lvl_a7
 
+#lvl_a7
    8,R,D,X
    1,R,J
    8,R
@@ -532,6 +542,7 @@ EndStunPause
    1,L
   11,R,U,Z
   43
+
 #lvl_a8
    1,R,U,Z
    1,L,U,Z
@@ -611,6 +622,4 @@ EndStunPause
 #  15,R,U,X
 # 135,D
 
-
-
-ChapterTime: 1:46.658(6274)
+ChapterTime: 1:46.199(6247)
