@@ -1,4 +1,4 @@
-RecordCount: 19455
+RecordCount: 19793
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -1743,6 +1743,7 @@ EndRepeat
    1,R,J,G
    9,R
   40
+
 #lvl_d02_lethargicdoggo
    3,R
   19,R,J
@@ -2333,6 +2334,15 @@ EndStunPause
   14,R,D,X
    2,R
  235
+
+#   7,L,J
+#  10,L,Z
+#   5,L,J
+#  15,U,X
+#   1,R,J,G
+#   2,R,K,G
+#   7,R
+
    7,L,J
   11,L,X
    1,L,J
@@ -2345,10 +2355,73 @@ EndStunPause
    1,K
   11,U,X
    1,J
-  20
+  11
+   9
    6,R
    1,K,G
-   8,R,G
+   7
+   1,G
+
+#   1
+#   1,J
+#   7,L,J
+#   1,K
+#   1,J
+#   1,L,K,G
+#   1,L,J,G
+#  10,K,G
+#   2,R,K
+#  15,R,D,X
+#   7,R,J
+#   1,R,K,G
+#   9,K
+#   2,L
+#   1,R,J,G
+#  10,R,K,G
+#  11,R,D,X
+#***
+#   5,R,J
+# 100,R
+
+#   1
+#   1,J
+#   7,L,J
+#   1,K
+#   1,J
+#   1,L,K,G
+#   1,L,J,G
+#   8,K,G
+#   3
+#   1,R
+#   1
+#   2,R
+#   1,R,J
+#   3,R
+#   8,R
+#   1,R,D
+#   1,R
+#   1,R,J
+# 100,R
+
+#   1
+#   1,J
+#   7,L,J
+#   1,K
+#   1,J
+#   1,L,K,G
+#   1,L,J,G
+#  10,K,G
+#   1
+#  18,R
+#   4,R,D
+#  12,R,U,Z
+#   3,R,J,G
+#   7,R
+#***
+#   5,D,X
+#  10,R,J
+# 140,R
+
   11,L,K
    9,J,G
    4
@@ -2433,14 +2506,14 @@ EndStunPause
 #lvl_e05_itsabrody
   11,L
   18,U,X
-  14,L,U,C
-   1,J
+  13,L,U,C
+   1,R,J
    3,R,K
   10,L,X
-  11,R,J
-   6,R
-   6,R,J
-   9,R,D
+  12,R,J
+   5,R
+   2,R,J
+  13,R
   14,R,Z
    1,R,J
    6,R
@@ -2453,14 +2526,14 @@ EndStunPause
   13
   11,D
    2,R,D
-  17,R,X
-   2,R
+  18,R,X
+   1,R
    1
-  14,R,U,Z
-  26,R
+  18,R,U,Z
+  22,R
   15,R,U,Z
-  14,R,U,X
-  24,R,D
+  15,R,U,X
+  23,R,D
   14,R,X
   22,L,D
   10,R,D
@@ -2474,21 +2547,16 @@ EndStunPause
    2,R
    4,R,J
   11,R
-  13,R,X
-   1,K,G
-   5,R
-   2,R,K
-   1,R
-   1,K
-  13,D
-   1,K
-   1,R,K
-   4,R
-   2
-   4,K
-   1
-   2,J,G
-  16,R,J
+  13,R,Z
+   1,R,J,G
+   1,J
+   2,R,J
+   6,R
+  18,J
+   1,D
+   3,K,G
+   1,J,G
+  17,R,J
    3,K
    1
   15,U,X
@@ -2553,15 +2621,16 @@ EndStunPause
    3,D
   24,R,D
    8,R
-  21,R,X
+  15,R,X
+   6,R
   45,D
   18,R,Z
    5,L,U,X
   12
   15,U,X
    7,L
-   1,J,G
-   3,G
+   3,J,G
+   1,G
    2,R
    1,L
    1,J
@@ -2581,14 +2650,14 @@ EndStunPause
    1,K,G
 ## Spinner cycle [f01_quantumspaceman]
 ## Cycle 0
-   7,R
+#   7,R
 ## Cycle 1
 #   5,R
 #   2
 #   1,R
 ## Cycle 2
-#   5,R
-#   4
+   5,R
+   4
 ##
   13,R,Z
    1,R,J
@@ -3392,4 +3461,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 8:14.564(29092)
+ChapterTime: 8:14.513(29089)
