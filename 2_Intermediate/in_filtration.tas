@@ -36,38 +36,46 @@ console load StrawberryJam2021/2-Intermediate/Jems
   38,R,D
   20,L,D
   15,R,Z
-  33,L
+  14
+   9,L,J
+   7,L
+   1
+   1,L
+   1
    1,J
-   2,K,G
-   3
-   1,R
+   1,K,G
+   6
    1,R
    1,R,J,G
    1,R,K,G
    5,R
-   3,R,J
-  10,R,D
+   1,R,K
+   1,R
+   1,R,K
+   4,R
+   5,R,D
    7,R,J
    5,R
-   8,R,J
-  14,R,K
-  11,R,Z
+   2,R,J
+   1,L,J
+   1,K
+   1,J,G
+  10,R,J
+  13,R,Z
    1,R,J
-  20,R,D
+  15,R
+   4,R,D
   40
 
 #lvl_btd-02
-   5,R,D
-   1,R
    1,R,D
-   3,R
-   3,R,J
-   5,R
-   1,R,J
-  28,R
-   1,R,J,G
-   1,L,J,G
-  20,L
+   2,R
+   1,R,D
+   9,R
+  22,R,J
+   9,K,G
+   1
+  21,L
   15,U,X
   16,R
    5,R,J
@@ -911,4 +919,4 @@ console load StrawberryJam2021/2-Intermediate/Jems
   17,L,D,J
   14,L,K,G
 
-ChapterTime: 2:25.299(8547)
+ChapterTime: 2:25.146(8538)
