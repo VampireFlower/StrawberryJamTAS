@@ -137,7 +137,7 @@ console load StrawberryJam2021/2-Intermediate/Ice
    6,U,X
   40
 
-#lvl_b-01 (1)
+#lvl_b-01 (0)
    3
    1,R,J
    2,J
@@ -191,7 +191,7 @@ console load StrawberryJam2021/2-Intermediate/Ice
   14,R,D,X
   40
 
-#lvl_b-02 (1)
+#lvl_b-02 (0)
    1,R,D
    3,R,J
   15,R,D,X
@@ -257,7 +257,7 @@ console load StrawberryJam2021/2-Intermediate/Ice
    4,L
   40
 
-#lvl_b-02 (2)
+#lvl_b-02 (1)
   11,L,D
   44,D,X
    3
@@ -378,7 +378,7 @@ console load StrawberryJam2021/2-Intermediate/Ice
    5,L,U,Z
   40
 
-#lvl_b-02
+#lvl_b-02 (2)
    8,L,U
    1,R
    1,J,G
@@ -428,7 +428,7 @@ console load StrawberryJam2021/2-Intermediate/Ice
    1,L
   40
 
-#lvl_b-01
+#lvl_b-01 (1)
    5,L
    7,L,J
   14,L,D
@@ -497,7 +497,7 @@ console load StrawberryJam2021/2-Intermediate/Ice
    7,L,J
   40
 
-#lvl_b-05
+#lvl_b-05 (0)
   15,L,D,X
    3,L,J
    3,L
@@ -545,10 +545,10 @@ console load StrawberryJam2021/2-Intermediate/Ice
    4,L
    1
    7,L,D,X
-stunpause
+StunPause
    9,L,D
   17,D
-endstunpause
+EndStunPause
    4,D
   14,L,D
   12,D
@@ -576,7 +576,7 @@ endstunpause
   23,U,X
   40
 
-#lvl_b-05
+#lvl_b-05 (1)
   24,U
    3
    2,R
@@ -607,20 +607,19 @@ endstunpause
 
 #lvl_b-07
    4,U
-stunpause
+StunPause
    4,U
-endstunpause
+SkipInput
    3
-stunpause
    3,R
-skipinput,3,1
+SkipInput,3,1
   12,R,X
   12,R,J
    5,J
-skipinput,3,1
+SkipInput,3,1
   15,U,X
   13,R,J
-endstunpause
+EndStunPause
   14,R,J
   11,L,K
    5,L
@@ -638,13 +637,13 @@ endstunpause
    1,K
    6,U,X
   14,L,J
-stunpause
+StunPause
   14,L,J
    2,J
    1,K
    2,R,K
    3,L,K
-endstunpause
+EndStunPause
    6,L,K
    8,L,G
   13,L,J,G
@@ -672,7 +671,7 @@ endstunpause
   19,D,X
   40
 
-#lvl_b-05
+#lvl_b-05 (2)
   21,D
    3
   15,R,D,X
@@ -701,7 +700,7 @@ endstunpause
    1,R,J
   40
 
-#lvl_b-01
+#lvl_b-01 (2)
    3,R,J
    5,R,K,G
   10,R
