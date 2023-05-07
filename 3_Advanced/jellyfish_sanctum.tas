@@ -1,4 +1,4 @@
-RecordCount: 3496
+RecordCount: 3794
 
 console load StrawberryJam2021/3-Advanced/BlueXans
    1
@@ -112,7 +112,8 @@ console load StrawberryJam2021/3-Advanced/BlueXans
   13,L,G
   27,L,D,G
    1,L
-  22,L,D
+  21,L,D
+   1,L,D
   17,L
   14,U,X
   21,L,G
@@ -120,25 +121,24 @@ console load StrawberryJam2021/3-Advanced/BlueXans
   27,L
    3,R
   10,R,Z
-  18,R,J
-   2,R
-  16,R,J
-  15,R,U,Z
-  23,R
-   8,R,Z
+  10,R,J
+   1,R
+   4,R,J
+  18,R
+   1,R,D
+  36,R,U,X
+   4,R,Z
+   1,R,J
+   4,R
   40
 
 #lvl_reverseTutorial
-   2,R,Z
-   1,R,J
-   7,R
    2,R,J
-   1,J
+  12,R,K
+  11,R,Z
    8,R,J
-   9,R,K,G
-   5,R
-   2
-   1,R,J
+   6,J
+#possible to dash 1f earlier with height manip
   14,R,Z
    1,R,J
    6,R,D,X
@@ -152,6 +152,8 @@ console load StrawberryJam2021/3-Advanced/BlueXans
    1,R,J,G
    8,R
   40
+
+#lvl_4
   14,R,D,X
   13,R,G
    1,R,J,G
@@ -275,4 +277,4 @@ console load StrawberryJam2021/3-Advanced/BlueXans
   14,R,U,X
  135,D
 
-ChapterTime: 0:50.082(2946)
+ChapterTime: 0:49.997(2941)
