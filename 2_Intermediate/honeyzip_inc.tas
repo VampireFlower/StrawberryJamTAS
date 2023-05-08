@@ -182,13 +182,14 @@ console load StrawberryJam2021/2-Intermediate/GlowWoomii
    7,L,J,G
   11,L,K,G
    5,L,J,G
-   6,L
-   6,R
-  10,L,X
-   8,L,J
-  15,U,X
-   6,L,J,G
-  11,L
+   2,L
+   1
+   1,L
+   1
+   2,L
+  14,U,C
+  10,L,J
+  24,L
   14,L,Z
    1,R,J
    7,R
@@ -448,4 +449,6 @@ console load StrawberryJam2021/2-Intermediate/GlowWoomii
    1,L,J
   48
 
-ChapterTime: 1:06.147(3891)
+
+
+ChapterTime: 1:06.079(3887)
