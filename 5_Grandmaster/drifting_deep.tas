@@ -943,6 +943,7 @@ EndStunPause
   25,F,127.512
    1,F,127.245
    1,F,120
+AnalogMode,Ignore
   14,R,Z
    4,R,J
    3,R,K,G

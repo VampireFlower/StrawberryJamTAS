@@ -909,6 +909,7 @@ AnalogMode,Precise
   15,F,90
    1,F,93
    9,F,180
+AnalogMode,Ignore
    2,D
    3,R,D
    9,D

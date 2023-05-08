@@ -511,6 +511,7 @@ EndStunPause
    4,F,0.001
   23,F,336
   18,F,343
+AnalogMode,Ignore
    9,U
   15,U,X,G
    4,R
