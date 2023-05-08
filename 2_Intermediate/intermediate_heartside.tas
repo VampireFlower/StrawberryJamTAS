@@ -1,4 +1,4 @@
-RecordCount: 9914
+RecordCount: 10136
 
 console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1
@@ -50,7 +50,7 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
   11,R,D,X
   40
 
-#lvl_cp1-1-liero
+
 #normal-route
 #   3,R,D,X
 #   5,R,J
@@ -538,6 +538,9 @@ EndStunPause
   14,R,D,C
   23,R,J
   23,R,X
+
+
+
 #this wait cycle 92f
   15
   15,R,D,C
@@ -546,8 +549,6 @@ EndStunPause
   28,R,X
   16,R,U,C
    8,L
-#  15,U,C
-#   7,U,X
   23,R
  108,R,D,X
   13,L,D
@@ -940,7 +941,7 @@ EndStunPause
   14
 #cp3-5 lightning cycle
 #   2
-   1
+   0
 ##
    7,R
    1,R,J
@@ -1013,23 +1014,24 @@ EndStunPause
    8,L,D,X
    1,R,J
   13,R
-  12,R,J
-  16,R
-  14,R,X
-   1,R,J
-   6,R,D
-  29,L,D
-  15,L,Z
-   1,R
-   2,J,G
-   2
-   3,L
-   9,R
+   9,R,J
+   7,R
+   2,L
+   0,R,J
+   8,L,J
+  21,L,D
+  10,R
+   3,R,D
+  16,R,U,Z
+  10,R,J
+   1,K,G
+   5,L
+   4,R
+   3,R,J
+   3,R
   14,R,Z
-  38,R,J
-  15,R,U,X
-   1,R
-   3
+  37,R,J
+  17,R,U,X
    1,L,J,G
    3,L,K,G
   13,L
@@ -1771,4 +1773,4 @@ EndRepeat
   16,R,U,X
  135,R
 
-ChapterTime: 4:35.298(16194)
+ChapterTime: 4:35.145(16185)
