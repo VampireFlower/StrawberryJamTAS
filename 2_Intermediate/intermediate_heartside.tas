@@ -1,4 +1,4 @@
-RecordCount: 10363
+RecordCount: 10559
 
 console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1
@@ -1283,7 +1283,7 @@ EndStunPause
    1,R
 ###probably not the best spot
 ###lightning cycle cycle [cp4-2]
-   0
+   1
 ###
    4,R,Z
    1,R,J
@@ -1298,8 +1298,6 @@ EndStunPause
   45,L
   10,R
   20,G
-
-
 Repeat 2
    1,R,J,G
    1,R,K,G
@@ -1466,19 +1464,26 @@ EndRepeat
   11,L
   15,U,C
    6,L
-  21,L,Z
-  15,L,U,X
+  15,L,Z
    4,L
-  28,R
+   3
+   1,L
+  15,L,U,X
+   9,R
   15,R,U,X
-  26,R
-  10,L,D,X
-   2,L,J
-  21,L
-   9,L,D
-  15,R,X
+  14,R,U,C
+  12,R,J,G
+   4,R,K,G
+   6
+   1,L
+  10,R,D,X
+   4,L,J
+  23,L
+   3,L,D
+   1,L
+  15,R,D,X
   15,R,C
-   4,R,G
+   2,R,G
    1,R,J,G
    1,R,K,G
    1,R,J,G
@@ -1723,4 +1728,4 @@ EndRepeat
   16,R,U,X
  135,R
 
-ChapterTime: 4:30.504(15912)
+ChapterTime: 4:30.249(15897)
