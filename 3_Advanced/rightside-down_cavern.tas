@@ -1,4 +1,4 @@
-RecordCount: 4245
+RecordCount: 4297
 
 console load StrawberryJam2021/3-Advanced/Vamp
    1
@@ -344,12 +344,15 @@ EndRepeat
    2,R
   14,D,X
    9,R,J
-  30,R
-   2,R,U
-   1,G
-   2,R,J,G
+  25,R
+   5,R,U
+   1
+   1,U
+   1,R,J,G
+   1,R,K,G
    5,R
-  22,R,J
+   1,R,J
+  16,R
    4,R,Z
    1,R,J
    7,R
@@ -449,4 +452,4 @@ Repeat 51
    1
 EndRepeat
 
-ChapterTime: 1:09.768(4104)
+ChapterTime: 1:09.666(4098)
