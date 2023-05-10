@@ -1,4 +1,4 @@
-RecordCount: 3895
+RecordCount: 3896
 
 console load StrawberryJam2021/3-Advanced/Vamp
    1
@@ -176,30 +176,32 @@ EndRepeat
 
 #lvl_Vamp_5 (0)
    2,R,U
+   2,L,J
+  33,L,U
+   5,R,U
+  14,L,U,X
+   1,R,J
+   1,R
+  16,R,U,X
    2,R,J
-  42,U
-   1,R,U
-   1,U
-  14,R,U,X
-  19,R,J
-  14,R,D,X
-  24,R,J
-  14,R,U,Z
-  20,R,J
-  10,L
-  15,L,D,X
-   9,L
-  29,R
+  11,R
   15,R,D,X
-  19,R
-  28,R,D
-   6,L,Z
+   8,R,J
+   9,R
+   1,R,J
+   4,R,D
+  10,L,D
+  24,R,D
+  24,R,X
+   4,L
+   4,R,Z
    1,R,J
    7,R
    1,R,J
-   4,R,K,G
-  19,R
-  27,R,J,G
+   5,R,K,G
+  18,R
+  22,R,J,G
+   6,R
   13,U,X
    8,R
   16,U,X
@@ -214,6 +216,7 @@ EndRepeat
   13,R,J
   12,R
    8,R,J
+   1,R
    4,R,Z
    1,R,J
    7,R
@@ -440,4 +443,4 @@ EndRepeat
   16,R,D,X
  135,R,G
 
-ChapterTime: 1:11.553(4209)
+ChapterTime: 1:10.040(4120)
