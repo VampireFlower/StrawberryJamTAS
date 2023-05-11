@@ -1,4 +1,4 @@
-RecordCount: 2860
+RecordCount: 3028
 
 console load StrawberryJam2021/2-Intermediate/Ice
    1
@@ -550,27 +550,25 @@ EndStunPause
    4,R,Z
    1,R,J
    7,R
-   7,R,J
-   1,R
-   1,R,K,G
+   3,R,J
    5,R
-  25,D,X
-   2
-   2,L,J
-  15,U,X
-  10,R,J
-   1,R,K,G
-   7,R
+   1,J,G
+  13,R,D
+   9,L,D
+   5,D
+  10,U,X
    4,R,J
-   2,R,K
+   2,R,K,G
+   7,R
+   3,R,J
+   3,R,K
   14,U,X
-   7,L,J
+   6,L,J
   23,U,X
   40
 
 #lvl_b-05 (1)
-  24,U
-   3
+  27,U,X
    2,R
   10,R,X
   11,R,J
@@ -582,6 +580,9 @@ EndStunPause
    1,L
    1
    1,L
+#spinner cycle
+   1
+#
    1,R,J
   15,U,X
    4
@@ -589,20 +590,22 @@ EndStunPause
    2,R,J
   15,U,X
   10,L,J
-   3,R,J
-   3,L,J
+   4,R,J
+   1,J
    1,L,K,G
-   7,L
-  15,L,J
-  36,U,X
+   1,L,J,G
+   1,L,K,G
+   9,L
+   9,L,J
+  38,U,X
   40
 
 #lvl_b-07
-   4,U
+   4,U,X
 StunPause
-   4,U
+   4,U,X
 SkipInput
-   3
+   3,U,X
    3,R
 SkipInput,3,1
   12,R,X
@@ -621,7 +624,8 @@ EndStunPause
    1,L,D
   10,L,X
    5,R,J
-  16,R,G
+  15,R
+   1,R,G
   33,U,G
    1,J
    1,L,J
@@ -664,8 +668,7 @@ EndStunPause
   40
 
 #lvl_b-05 (2)
-  21,D
-   3
+  24,D
   15,R,D,X
    9,R,D
   11,L,D
@@ -675,10 +678,17 @@ EndStunPause
    1,R,J
   15,R,D,X
    6,R
-  37,R,J
-  14,R,Z
    1,R,J
-  32,R,X
+   2,R
+  15,R,D,X
+   5,R,D
+   4,R,J
+   1,R
+  14,R,U,X
+   1,R,J,G
+   2,L,J
+   7,R
+  33,R,X
    4,R,J
    1,R,K
    6,R
@@ -711,7 +721,7 @@ EndStunPause
   40
 
 #lvl_c-01
-  32,U
+  32,U,X
  271
   40
 
@@ -751,4 +761,4 @@ EndStunPause
   15,U,X
  135
 
-ChapterTime: 1:59.153(7009)
+ChapterTime: 1:58.864(6992)
