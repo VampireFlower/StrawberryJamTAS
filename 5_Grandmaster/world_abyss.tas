@@ -1,4 +1,4 @@
-RecordCount: 14814
+RecordCount: 14942
 
 console load StrawberryJam2021/5-Grandmaster/Dav
    1
@@ -10,7 +10,7 @@ console load StrawberryJam2021/5-Grandmaster/Dav
    0
 ###
 
-#lvl_a-intro
+#lvl_a-intro (0)
    2,L,J
   13,R,D,X
    2,R,J
@@ -516,33 +516,26 @@ endstunpause
    0,L
    1,R,J
    8,R,D,X
-   1,R,J,G
-   1,L,J
+   3,R,J,G
+   5,R
    1,R,J
-   2,R
+   1,R
    1,L
-   2,R
-   1,R,J
-   0,L
-  16,R
-   0,L
-   1,R,J
-  12,R,U,Z
-   4,L,J,G
+  11,R
    2,L
-   2,R
-StunPause
-   2,R
-EndStunPause
-   3,R
+   1,R
+   1,R,J
+  11,R,U,Z
+   4,L
+   1,J,G
+   9
   14,R,U,X
    8,R,J,G
   11,R
-  12,R,J
-   1,R,K,G
-  10,R,K
-   1,R
-  15,R,D,X
+  13,R,J
+   8,R,K,G
+   4,L,K
+  16,R,D,X
   56,X
   24,L,D,C
   45,L,U,X
@@ -696,9 +689,6 @@ EndRepeat
   18,L,J
   18,U,X
   31,L,J
-### spinner cycle for [big-3]
-   0,R
-###
    4,L,Z
    3,L,J
    3,L
@@ -787,7 +777,13 @@ EndRepeat
   12,L,K,G
    7,L,J,G
    7,L,K,G
-   7,L
+### bad spot
+### spinner cycle for [big-3]
+#   7,L
+   2,L
+   1,R
+   6,L
+###
    4,Z
    1,L,J
   16,L
@@ -1117,4 +1113,4 @@ EndRepeat
   15,L,U,X
  133
 
-ChapterTime: 3:10.145(11185)
+ChapterTime: 3:10.026(11178)
