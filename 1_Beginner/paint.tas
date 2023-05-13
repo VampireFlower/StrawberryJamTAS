@@ -1,7 +1,7 @@
 #draft: psyGamer
 #improvement: EllaTAS
 
-RecordCount: 8555
+RecordCount: 10535
 
 console load StrawberryJam2021/1-Beginner/mosscairn
    1
@@ -110,40 +110,35 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    5,R
    3,R,J
    4,R
-  13,R,U,Z
+  13,R,U,X
    1,R,J,G
-  11,R
-   6,R,J
    2,R
+   2,R,J,G
+   3,R
+   1,R,J
+   1,J
+   5,R,J
+  12,R,D,X
   40
 
 #lvl_a-02
-   1,R,J
+   3,R,D,X
+  11,R,D,J
+   1,J
   15,R,D,X
-   1,R,J
-  13,R,D
-   1,R,J
-   5,R
-   1,R,J
-  18,R
-  10,R
+   2
+  19,R,D
+   2,R
    5,R,D
-   1,R
-  15,R,U,X
-   6,R
-   1,R,J
-   8,R,K
+  13,R,U,X
+   1,L
+   4,J,G
   40
 
 #lvl_a-03
-
-#dashing here for a waitdash at cost of 1f
-   4,D,X
-#in general, my understanding of this upcoming section is that a-09 has the first cycle bottleneck
-#i've decided to name the cycle "cory", it'll be commented in a-09
-#fitting this dash net saved a frame for waiting for cory
-#and any significant future improvements (probably, massive citation needed)
-#will probably need to some extra dashes for the cycle as well
+#new cycle for cory is weird.  we're not quite at bottleneck for it so until we are there's a ton of dashes we had to cut
+#some lose time, some break even.  i've tried to note everywhere where we cut dashes where it loses time
+#can fit dash before warp at cost of 1f
    1,S,N
    1,D,J
   69,O
@@ -152,13 +147,12 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    7,R
    3,R,J
   15,R,U,X
-#free waitdash
-  12,R,D,C
+#lots of free dashes here
+   3,R
+   1,J
    1,L,J
-   2,L
-  19,D,X
-  15,R,C
-   4,R,G
+  38,R
+   1,R,G
    5,L,Z
    1,R,J
    1,R,K,G
@@ -166,22 +160,28 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    1,R,K,G
    3,R
    3,R,J,G
+#can ultra here, saves like 2f IGT
+#needed for cory cycle
    7,R,D
-  21,R,D
-  11,R,D,X
-   1,R,J,G
-   4,R,D
+  30,R,D
    1,R,D,J
   40
 
 #lvl_a-04b
-  10,J
-   1,R,J
+  11,R,J
   10,U,X
-  14,R,J
+  15,R,J
   12,R
    1,R,J
-  10,R
+   3,R
+   1
+   1,R
+   1
+   1,R
+   1
+   1,R
+   1
+   1,R
    1,J
    2,R,J
    8,R,Z
@@ -202,71 +202,63 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    1,R,K,G
   12,R,U,X
    1,R,J,G
-   4
-   6,R
-   3,R,J
-  14,R,D,X
+   3
+   5,R
+   1,R,J
+   3,R
+   2,R,J
+  13,R,D,X
    2,R,J
    1,R,K,G
    6,R,D,X
    1,R,J
-   5,R
-   2,R,J
-   4,R
-  15,R,D,X
-   4,R
+   3,R
+   1,R,J
+   2,R
+   2,R,D
+#bit faster here could get a horizontal liftboost
+   5,R,D,J
+  17,R,D,X
    5,R
   40
 
 #lvl_a-06b
-   1,D
-   1,D
-   2,L,D,K
-  15,R,D,X
-  12,R,D
-   4,R
-  11,R,X
-   4,R,J
-   9,L,K,G
-   5,R,K
-   2,J,G
-   5,R,J
-   1,R
-   8,R,Z
+  31,R,D
+  11,R,Z
    1,R,J
-   6,R
-   3,R,J
-  11,U,X
-   2,R,J
+   7,R
+   2,R,D
+  16,R,J
+  15,U,X
+   8,R,J
   11,R
    4,Z
    1,R,J
    6,R
-   4,R,D,J
+   2,R,J
   40
 
 #lvl_a-07b
-  11,R,J
-  15,U,X
-   3,L,J,G
-   7,L
-  10,L,Z
-   1,R,J
+#this strat frame ties going over top but cuts a dash
+   3,R,J
+  15,R,D,X
+   9,R,J
    6,R
-   2,R,D,J
-  11,R
-   2,R,J,G
-   7,R
-   2,R,K
-  10,R
+  18,R,J
+  15,U,Z
+   3,R
+  26,R,J
+   1,R,K,G
    1,R
-   2,R,D
-   2,R
-   1,R,D
-  11,R,U,Z
+   1,R,K,G
+   2,L,K
+   1,K
+   1,L,K
    1,L
-   3,J,G
-   7,R
+   1,R,J,G
+   4,R
+   1
+   2,R
    4,Z
    1,R,J
    6,R
@@ -277,131 +269,138 @@ console load StrawberryJam2021/1-Beginner/mosscairn
 
 #lvl_a-08
    8,R,D,X
-   2,R,J
-  16,R
-   3
-   9,L,Z
    1,R,J
-   3,R
+  18,R
+   7,R,Z
+   1,R,K
+   2,R
+   1,R,K
+   2,R
    1,R,J
-   3,R
-   4,R,J
-
-   5,R,D,X
-   1,R,K,G
-   7,R
-   1,R,J
-   3,R
-   2,R,D
-  12,R,D,J
+   1,R,K
+   2,R,J,G
+   2,R,K,G
+   1,R,J,G
    9,R
-  15,R,U,Z
-   1,L,K,G
-   1,L,J,G
-   2,L
-   1,L,J,G
-   7,L
-   4,L,X
-   3,L,J
-  16,L,D
-   4,D,X
-   1,L,J
-   7,L
-  10,L,D,J
-
-   9,U,X
+   1,R,J
+   7,R
+  13,R,J
+  14,R,U,X
    1,J
-  12,R
-  16,R,D,X
-   4,R,Z
+   7,L,J
+   1,J
+   7,L
+   4,L,Z
+   2,L,J
+   4,L
+   4,L
+   1,L,J
+   4,L,Z
+   1,L,J
+   3,L
+   1,L,J
+   3,L
+   2,L,J
+   3,J
+   3
+  15,L,U,Z
+  15,R,D,C
+   4,R
+   4
+  18,R
+   1
+   5,R
+   1
    1,R,J
-   7,R
+  14,R,D,X
    1,R,J
-  20,R
-   7,R,D
-  14,R,U,Z
-   6,R,J,G
-   7,R
-   5,R,Z
-   1,R,J
-   6,R
-   1,R,J
+   1
+   4,R
+   2,R,J
+   3,R
+  12,R,Z
+   2,R,J,G
+   1,K
+   1,R,J,G
+   9,R
+   2,R,J
+#could potentially die to blue fireball if too fast here
+#very funny.  might be a universe where this becomes more relevant than cory
    4,R,K,G
   40
 
 #lvl_a-09
-   2,R,K
-   4,R
+   4,R,K
   15,R,D,X
-   1,R
+   2,R
    1,R,D
-   5,R,D,K
-   1,R,J
-  12,R,K
-  16,U,X
-  15,D,C
-   3,L,D
-   4,D,X
-   1,R,J
+   4,R,J
+   1,L,K,G
+   9,R,K
+   2,K
+  15,U,X
    3,R
-   1,R,J
-   3,R
-   3,R,J
-   5,R,K,G
-   5,R
   15,R,D,X
-  15,L,D,C
-#cory
-   1,L,D
-  15,D,X
-   5,R,J
-   4,J
-   8,D
-  13,R,D
-   4,R,G
-   8,R,Z
-   1,R,K
-   2,R,J
-   5,R
+  10,R,D
    1,R,J
+  14,R,X
+   2,L,J
+  11,L,D,X
+   7,L,J
+#cory.  if we go faster this will be significant bottleneck, still a ways to go though
+  12,L,D,X
+   1,L,J
+   8,L
+   9,R,Z
+   1,R,J
+   6,R
+   1,R,J
+   3,R
+   1,R,K,G
+   1,K
+   7,R,K
+  14,R,U,Z
+   1,R,J,G
+   9,R
+#cut horizontal dash on transition loses 1f but saves 3f rta
+   2,R,J
+   2,R
   40
 
 #lvl_a-10
+   3,R
+   1,R,J
    1,R
-   6,R,J
-   1,R
-  22,R,D,J
+   2,R,J
+   3,R
+  15,R,D,K
+   5,K
   14,L,U,X
-   6,J,G
-   1,R,K
+   3,J,G
+   2
+   2,R,J
   14,R,U,X
-   5,R,J,G
+   1,R,J,G
+   1,R,J
    6,R
-  12,R,U,Z
-   6,K
-   7
-  10,R,X
-   3,R,J
-   2,R
-  14,U,X
+  14,R,U,Z
+   6,J
+   7,R
+   4,J
+   6,R,J
+  14,R,U,X
    1,J
-   1,K
-  11
-   6,L
-  10,R,Z
+   7
+  15,L
+  15,L,X
+   7
+   5,L
+   5,L,D,X
    1,L,J
-   2,J
-   1
-   1,K
-   3,K,G
-  16,L
-   4,D,X
-   1,L,K
-   6,L
-   9,L,J
-  15,U,Z
-   1,L,J
-   9,R,J
+   5,L
+  10,L,J
+  14,U,X
+  11,J
   40
 
 #lvl_b-00
@@ -416,7 +415,6 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    1,D,J
   34
   10,R
-
 #can add 3 dashes
   48,L
   13,U,X
@@ -448,9 +446,14 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    8,L
   15,U,X
    1,L,J,G
-   7,L
+   6,L
+   1
+#1f wait
+   1
+#
   10,L,X
-  11,L,J
+  10,L,J
+   1,L
    1,L,K,G
    7,L,D,Z
    1,L,J
@@ -465,7 +468,7 @@ console load StrawberryJam2021/1-Beginner/mosscairn
   40
 
 #lvl_b-01
-  11,L
+  12,L
   15,U,X
    2,L,J
    2,J
@@ -474,6 +477,7 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    1,L,K,G
    8,L,J,G
    5,L
+#1f wait in b-00 is for this
    4,L,K
    1,L,J,G
    3,L,K,G
@@ -519,7 +523,7 @@ console load StrawberryJam2021/1-Beginner/mosscairn
 
 #lvl_b-03
    2,L
-   6,R,D,X
+   5,R,D,X
    1,L,J
    5,L
    2,L,K
@@ -549,7 +553,7 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    3,R,J
   16,U,X
    6,L,J,G
-   7,G
+   8,G
    2,L,J,G
    7,R,U,X
    1,L,J
@@ -938,15 +942,17 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    5,R
    1,R,K,G
    2,R,J,G
-   7,R
-   2,R,J
+   8,R
+   1,R,J
   15,D,X
+#cycle slightly thrown off sync here after being fine since before the bus
+#idk lol
    4,D,C
    1,R,J
    7,R
-   9,R,J
+   7,R,J
   15,R,U,X
-   6,R,U,C
+   8,R,U,C
    1,J
    7
    5,R
@@ -1024,4 +1030,4 @@ console load StrawberryJam2021/1-Beginner/mosscairn
   11,L
   14,L,U,X
  135
-ChapterTime: 2:01.125(7125)
+ChapterTime: 2:00.190(7070)
