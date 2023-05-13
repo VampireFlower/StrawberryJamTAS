@@ -1,4 +1,4 @@
-RecordCount: 4582
+RecordCount: 4841
 
 console load StrawberryJam2021/4-Expert/Banana23
    1
@@ -9,11 +9,10 @@ console load StrawberryJam2021/4-Expert/Banana23
 #lvl_a-01
   10,L,Z
    1,R,J
-   1
-   2,R
+   3,R
    1,R,J
    3,R
-  22,R,J
+  21,R,K
   14,R,D,X
    1,R,J
    7,R
@@ -25,14 +24,13 @@ console load StrawberryJam2021/4-Expert/Banana23
   40
 
 #lvl_a-02
-   7,R
-   6,R,J
-   5,J
-   6
-   1,R,J
+   8,R
+   8,R,J
+   3,J
+   4
   15,R,D,X
-   2,R,D
-  19,R,U,Z
+   1
+  17,R,U,Z
    1,J
    9,L,J
    8,L,Z
@@ -73,8 +71,7 @@ console load StrawberryJam2021/4-Expert/Banana23
   28,R,D
   21,R,X
   32,R,C
-  15,R,U,Z
-   3
+  18,R,U,Z
    9,D,X
   15,L,C
    1
@@ -473,17 +470,18 @@ console load StrawberryJam2021/4-Expert/Banana23
    2,L
    1,L,D
   20,D
-  55,R,X
+  53,R,X
    4,R,Z
-   1,R,J
+   2,R,J
    5,R,K,G
-   7,R,J,G
+   6,R,J,G
    5,R,U,X
   40
 
 #lvl_a-09
   10,R,U,X
-   5,R
+   3,R
+   3
   10,U,X
   10,R,J
   11,R
@@ -507,7 +505,7 @@ console load StrawberryJam2021/4-Expert/Banana23
    7,L,J,G
    7,L
 #spinner cycle 1
-   1
+   2
 ##
   18,L,X
   15,U,C
@@ -529,18 +527,18 @@ console load StrawberryJam2021/4-Expert/Banana23
    1,D
    3,R,D
    5,L
-stunpause
+StunPause
    2,L
    1,D
    2
    1,L
-skipinput 3 1
+SkipInput 3 1
    4,L,Z
    2,R,J
    3,R
    1,R,J
    5,R,D
-endstunpause
+EndStunPause
    2,R,J
    5,R
    1,R,J
@@ -662,13 +660,13 @@ endstunpause
   40
 
 #lvl_a-11
-  14,R,D,X
-   9,R,J
-  14,R,Z
+   6,R,D,X
    1,R,J
   12,R
+   9,R,J
+  12,R,D,X
    1,R,J
-   1,R
+  10,R
   15,D,X
   12,R,Z
   46,R,U,X
@@ -683,4 +681,4 @@ endstunpause
   34,D,X
  138
 
-ChapterTime: 1:39.620(5860)
+ChapterTime: 1:39.501(5853)
