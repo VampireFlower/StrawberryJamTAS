@@ -1,7 +1,7 @@
 #draft: psyGamer
 #improvement: EllaTAS
 
-RecordCount: 11829
+RecordCount: 11976
 
 console load StrawberryJam2021/1-Beginner/mosscairn
    1
@@ -423,28 +423,29 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    4,R,Z
    1,R,J
    6,R
-  11,R,J
-   3,K,G
-   1,L,K
-   9,K
-  17,U,X
-  11,L,J
-#ez
-#real talk this is really lucky lol, with the moving block cycle in a-10
-#this seems like a pretty big bottleneck
-   8
+  10,R,J
    1,R
+   4,K,G
+   2,L,K
+   6,K
+   1
+  17,U,X
+   1,R,J
+   8,J
    3
-  12,L,U,X
-   1,L,J,G
+##ez
+##real talk this is really lucky lol, with the moving block cycle in a-10
+##this seems like a pretty big bottleneck
+   4
+   4,L
+  13,L,U,Z
+   1,J,G
    7,L
    4
    8,L
   15,U,X
    1,L,J,G
    6,L
-   1
-#1f wait
    1
   10,L,X
   10,L,J
@@ -461,7 +462,6 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    6,L,J
    5,L,U,X
   40
-
 #lvl_b-01
   11,L
   15,U,X
@@ -470,22 +470,18 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    1,L,J
    4,L
    1,L,K,G
-   8,L,J,G
-   5,L
-#1f wait in b-00 is for this
-   4,L,K
    1,L,J,G
-   3,L,K,G
+  10,L
+  10,L,X
+   2,J,G
    5
-   2,L,K
-   4,L
-   2
-   2,L
-   1
+   2,J
+   9
+   1,L
   15,L,Z
    9,L
-   1,L,K,G
    1,L,J,G
+   1,L,K,G
    5,L
    2,L,J
    8,L
@@ -501,10 +497,7 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    4,L,J
    2,L
   18,L,D,X
-
-
-   4,L,D
-   1,L,D
+   5,L,D
    1,L,J
   15,L,D,X
    4,L,D
@@ -566,22 +559,24 @@ console load StrawberryJam2021/1-Beginner/mosscairn
   14,R,Z
    1,R,J
    5,R,D,X
-  12,L
+   2,L
+  10
   14,U,X
   43
 
 #lvl_b-05
   18,R,J
-   1,L,K
-  12,L,J
+   1,K
+   2,J,G
+   9,L,J
    7,L,X
    8,L
   11,L,C
    1,L,J,G
-   8,L
-   1
-   1,K
-   3
+   6,L
+   1,L,J
+   1,L
+   5
    2,L
    5,R,Z
    3,L,J
@@ -980,7 +975,7 @@ console load StrawberryJam2021/1-Beginner/mosscairn
 #lvl_c-06
   11,R
   15,R,X
-   2
+   3
    1,L,N
    3,J
    3,L,K
@@ -1050,4 +1045,4 @@ console load StrawberryJam2021/1-Beginner/mosscairn
   11,L
   14,L,U,X
  135
-ChapterTime: 2:00.003(7059)
+ChapterTime: 1:59.952(7056)
