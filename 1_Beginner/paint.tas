@@ -1,7 +1,7 @@
 #draft: psyGamer
 #improvement: EllaTAS
 
-RecordCount: 11976
+RecordCount: 12003
 
 console load StrawberryJam2021/1-Beginner/mosscairn
    1
@@ -236,29 +236,32 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    4,Z
    1,R,J
    6,R
-   2,R,J
+   2,R,D,J
   40
 
 #lvl_a-07b
-#this strat frame ties going over top but cuts a dash
-   3,R,J
-  15,R,D,X
-   9,R,J
-   6,R
-  18,R,J
-  15,U,Z
-   3,R
-  26,R,J
-   1,R,K,G
+  11,R,D,J
+  15,U,X
+   1,L,J,G
+   1,R,J
    1,R
-   1,R,K,G
-   2,L,K
-   1,K
-   1,L,K
-   1,L
-   1,R,J,G
-   4,R
+   1,L,K,G
+   2,L
    1
+   4,L
+   1,L,J
+  11,R,D,X
+   7,R,J
+   5,R
+   1,R,J,G
+   9,R
+   1,R,J
+  14,R
+   1,R,D
+  12,R,U,Z
+   1,L
+   3,J,G
+   5
    2,R
    4,Z
    1,R,J
@@ -447,6 +450,10 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    1,L,J,G
    6,L
    1
+
+#waiting frame
+   1
+
   10,L,X
   10,L,J
    1,L
@@ -462,6 +469,7 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    6,L,J
    5,L,U,X
   40
+
 #lvl_b-01
   11,L
   15,U,X
@@ -975,7 +983,7 @@ console load StrawberryJam2021/1-Beginner/mosscairn
 #lvl_c-06
   11,R
   15,R,X
-   3
+   2
    1,L,N
    3,J
    3,L,K
@@ -1045,4 +1053,4 @@ console load StrawberryJam2021/1-Beginner/mosscairn
   11,L
   14,L,U,X
  135
-ChapterTime: 1:59.952(7056)
+ChapterTime: 1:59.884(7052)
