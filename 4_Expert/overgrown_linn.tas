@@ -1,4 +1,4 @@
-RecordCount: 2507
+RecordCount: 3062
 
 console load StrawberryJam2021/4-Expert/Flamecrafter113
    1
@@ -22,8 +22,9 @@ console load StrawberryJam2021/4-Expert/Flamecrafter113
   40
 
 #lvl_a-01
-   4,D
-  13,D,X
+   4,D,X
+   1,R,J
+  11,D,X
   21,R,J
    2,L,J
   10,R,D,X
@@ -37,11 +38,11 @@ console load StrawberryJam2021/4-Expert/Flamecrafter113
    1,R,J
    9,D,X
    1,R,J
-  26,R,D
-  43,R,Z
+  31,R,D
+  34,R,Z
    7,R,X
-   3,R,J
-   4,R
+   2,R,J
+   6,R
    1,R,J
   12,D,X
   40
@@ -51,21 +52,21 @@ console load StrawberryJam2021/4-Expert/Flamecrafter113
   14,D,X
   11,R,J
    6,R
-  23,R,U,X
-   1
+  15,R,U,X
+  10,R
   12,R,X
    1,L,J
    2
    9,D,X
   12,L,J
    8,J
-   1,L,J
-  15,U,X
-  14,L,J
-  11,L,X
-  18,R,J
-  13,R
-   4,R,D
+   2,L,J
+   5,K
+  15,L,U,X
+   4,L
+   8,L,X
+  21,R,J
+  14,R
    7,R,J
   10,R,Z
    6,R,J
@@ -112,6 +113,8 @@ console load StrawberryJam2021/4-Expert/Flamecrafter113
    5,R,C
   16,L,J
   39,R,U,X
+
+
    4,L,J
    4,L,K
   30,L,D,X
@@ -129,11 +132,13 @@ console load StrawberryJam2021/4-Expert/Flamecrafter113
    3,L,J
    1,L
    5,L,J
-   9,D,X
+   5,D,X
+   3,L,J
   40
 
 #lvl_a-04
-#  19,R,J
+## +10f
+#  16,R,J
 #  10,L,X
 #  25,L,J
 #  17,U,X
@@ -171,8 +176,8 @@ console load StrawberryJam2021/4-Expert/Flamecrafter113
 #   7,L
 #   1,L,J
 #   7,D,X
-#+10f
-  19,R,J
+##
+  16,L,J
   10,L,X
   25,L,J
   18,U,X
@@ -212,22 +217,27 @@ console load StrawberryJam2021/4-Expert/Flamecrafter113
    7,D
    1,L,J
    9,D,X
-  18,L,J
+  14,J
+   5,L,J
   17,U,X
-  23,L,J
-  38,L,U,X
-   9,R,C
-  23,R,J
-  38,R,U,X
-   8,R,D
-  14,R,X
-   6,R,J
+  21,L,J
+  15,L,U,X
+  19,L
+   4
+   9,R,X
+  15,R,J
+  10,R
+  15,R,U,X
+  29,R,D
+  12,R,X
+   7,R,J
   40
 
 #lvl_a-06
   14,D,X
   15,R,J
-  30,R,X
+  14,R,X
+  16,R,X
    4,R,J
    4,R,X
   13,R,J
@@ -298,7 +308,6 @@ console load StrawberryJam2021/4-Expert/Flamecrafter113
    4,R
    1,R,J
    7,D,X
-#0:44.421(2613) -4f
   43
 
 #lvl_a-08
@@ -334,10 +343,10 @@ console load StrawberryJam2021/4-Expert/Flamecrafter113
   15,R,Z
   20,L
    3,D
-repeat,5
+Repeat 5
    3
    3,D
-endrepeat
+EndRepeat
   10,J
    2,R
   15,L,Z
@@ -426,4 +435,4 @@ endrepeat
   14,R,U,X
  135
 
-ChapterTime: 1:06.776(3928)
+ChapterTime: 1:06.504(3912)
