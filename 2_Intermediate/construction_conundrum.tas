@@ -1,4 +1,4 @@
-RecordCount: 5835
+RecordCount: 6067
 
 console load StrawberryJam2021/2-Intermediate/thebreadstick1
    1
@@ -294,14 +294,18 @@ EndRepeat
   10,L,J,G
    3,L
   15,L,D,X
-   6,L,J
+
+   5,L,J
    5,L
    2,L,J
+   1,J
   15,L,U,X
-   2
-   4,L
-   7
-  10,J
+   9,L
+   1
+   4,R,J
+   1,J
+   1,R,J
+   4,J
    5,L
   12,U,X
    1,R,J
@@ -514,6 +518,25 @@ EndRepeat
   60,R
   39,R,U,X
   15,R,C
+## -177f: abuse Everest softlock prevention
+## Intentionally not used
+#  25,R,D
+#   2
+#   7,D
+#  23,L,D
+#   1,D
+#   1
+#  10,R,D
+#  14,R,Z
+#  40
+#   1,R
+#   6,U,X
+#  40
+# 256
+#  36
+#   9,D,X
+#  40
+##
   26,R,D
    1,D
    3,R,D
@@ -547,7 +570,6 @@ EndRepeat
   12,R,Z
    1,L,J
    7,L
-
 # faster if powerbox cycle is good
 #   6,L,J
 #  10,L
@@ -565,15 +587,22 @@ EndRepeat
 #  12
 #  26,R,D
 #   9,R,U,Z
-
-   2,L,J
-  13,L
-  20,L,U,X
-   6,L,D
-  34,D
-  15,U,X
-  45,R,D
-   8,R,U,Z
+   4,L,J
+   9,L
+   2
+  20,L,U,Z
+   5,R
+   1,L
+   1,J,G
+   1,R,J
+  10
+   1,R
+   1,J,G
+   6,L,J
+   9,L,K,G
+  17,D,X
+  24,R,D
+   9,R,U,Z
    1,L,J,G
    9,K
   18,J
@@ -626,7 +655,8 @@ EndRepeat
 #lvl_a-005 (1)
    9,D
   10,R,D,X
-   5,R,J
+   1,R,J
+   4,R
    7,R,D,X
   40
 
@@ -809,4 +839,4 @@ EndRepeat
   13,L,U,X
  135
 
-ChapterTime: 1:37.087(5711)
+ChapterTime: 1:36.645(5685)
