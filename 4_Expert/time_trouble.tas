@@ -1,4 +1,4 @@
-RecordCount: 2908
+RecordCount: 3141
 
 console load StrawberryJam2021/4-Expert/Moladan
    1
@@ -77,7 +77,7 @@ EndStunPause
    1
   72,O
 ## Lightning Cycle
-   1
+   0
 ##
    2,K
    7,R,K
@@ -289,39 +289,39 @@ EndStunPause
   40
 
 #lvl_a-05
-   6,L
-   1,L,J
-   4,R,J
-   3,R
-   4,R,D,X
-   2,R,D
-StunPause
-   1,R,D
-skipinput 3
-  13,R,D
-EndStunPause
-StunPause
-   6,R,D
-EndStunPause
-   1,R,D
-StunPause
-   5,R,D
-   3,R
-   2,R,J
-EndStunPause
-   8,R,J
+   1,R,J
+   6,R
+   1,J,G
+   1
    1,R
+   8,R,D,X
+StunPause
+   8,R,D
+EndStunPause
+   5,R,D
+StunPause
+   2,R,D
+EndStunPause
+   1,R,D
+StunPause
+   7,R,D
+   1,R,D,J
+EndStunPause
+   9,R,D,J
   40
 
 #lvl_a-06
+   2,R,J
    5,R
-   7,R,J
-  13,U,X
-  10,J
-   4,L,J
+   4,R,J
+   9,U,X
+   4,J
+   9,L,J
   18,U,X
   14,L,D,C
-  31,L,J
+  28,L,J
+   2,J
+   1,L,J
   14,R,D,X
   10,R,J
   15,R,D,X
@@ -448,4 +448,4 @@ EndStunPause
   11,R,X
  135,D
 
-ChapterTime: 1:19.135(4655)
+ChapterTime: 1:18.030(4590)
