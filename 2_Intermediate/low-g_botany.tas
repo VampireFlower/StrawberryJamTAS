@@ -464,8 +464,7 @@ console load StrawberryJam2021/2-Intermediate/marlin
   45,L,K
    8,K
   39,R,U,X
-  18
-  27
+  45
    9,J
   42,L,J
    3,J
@@ -498,4 +497,3 @@ console load StrawberryJam2021/2-Intermediate/marlin
    4,C
  135,R,U,C
 ChapterTime: 1:24.558(4974)
-   

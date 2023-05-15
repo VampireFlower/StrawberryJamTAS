@@ -151,9 +151,7 @@ console load StrawberryJam2021/2-Intermediate/Jems
    1,L,J
   14,L
    1,L,J
-  14,L
-   1,L
-   7,L
+  22,L
    4,L,J
   13,R,Z
    1,R,J
@@ -228,8 +226,7 @@ console load StrawberryJam2021/2-Intermediate/Jems
   30,J
   10,L
    1,R,J
-   5,J
-   1,J
+   6,J
    6,R
    1
   13,R
@@ -261,12 +258,9 @@ console load StrawberryJam2021/2-Intermediate/Jems
    1,L
    3
   13,L,G
-
-
    6,L,J,G
 #can use a neutral rcb here
    1,L,K,G
-
    1,L,J,G
    1,L,K,G
    4,R,K
@@ -275,7 +269,7 @@ console load StrawberryJam2021/2-Intermediate/Jems
   11,R,U,Z
   40
 
-#lvl_btd-09
+#lvl_btd-09 (0)
    3,R,U
    1,L,J,G
    4,R,J
@@ -289,7 +283,7 @@ console load StrawberryJam2021/2-Intermediate/Jems
    3,D
   40
 
-#lvl_btd-10
+#lvl_btd-10 (0)
    5
    5,J,G
    1,L,J
@@ -325,7 +319,7 @@ console load StrawberryJam2021/2-Intermediate/Jems
    6,R
   40
 
-#lvl_btd-11
+#lvl_btd-11 (0)
    7,R
    1,R,J
    1
@@ -366,7 +360,7 @@ console load StrawberryJam2021/2-Intermediate/Jems
    7,L,J,G
   40
 
-#lvl_btd-12 (1)
+#lvl_btd-12 (0)
   11,L
   12,L,J,G
    1,R,K
@@ -441,7 +435,7 @@ console load StrawberryJam2021/2-Intermediate/Jems
    3,R,D
   40
 
-#lvl_btd-12 (2)
+#lvl_btd-12 (1)
   13,R,D
   11,R
   14,L,G
@@ -476,7 +470,7 @@ console load StrawberryJam2021/2-Intermediate/Jems
    3,L,D
   40
 
-#lvl_btd-11
+#lvl_btd-11 (1)
    2,L,D
    1,R,D
    1,R,J
@@ -493,7 +487,7 @@ console load StrawberryJam2021/2-Intermediate/Jems
    5,L
   40
 
-#lvl_btd-10
+#lvl_btd-10 (1)
    8,L
    1,L,D
    4,R,D
@@ -508,8 +502,7 @@ console load StrawberryJam2021/2-Intermediate/Jems
    1,J,G
    7,D
    2,R,D
-   1,D
-   6,D
+   7,D
    2,L,D
    1,D
    3,R,D
@@ -533,7 +526,7 @@ console load StrawberryJam2021/2-Intermediate/Jems
    3,L
   40
 
-#lvl_btd-09
+#lvl_btd-09 (1)
   11,L
    1,L,J
   14,L
@@ -771,8 +764,7 @@ console load StrawberryJam2021/2-Intermediate/Jems
    1,R,J
    5,R
    1,R,J
-  13,R
-  36,R
+  49,R
    8,R,J
   12,L,K,G
    2,J,G

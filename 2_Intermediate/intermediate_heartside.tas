@@ -50,7 +50,6 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
   11,R,D,X
   40
 
-
 #normal-route
 #   3,R,D,X
 #   5,R,J
@@ -119,8 +118,7 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
   10,R
   15,U,X
   10,L,Z
-   4,R,J
-   3,R,J
+   7,R,J
 StunPause
    7,R,J
 SkipInput,3,1
@@ -862,9 +860,6 @@ EndStunPause
    1,R,J
    6,J
    6,L,U,X
-
-
-#6571
    1,J
   17,R,D
    1,L,D
@@ -1290,7 +1285,7 @@ EndStunPause
    1,R,J
   40
 
-#lvl_cp3-5-RG2 
+#lvl_cp3-5-RG2
    1,R
    9,R,J
    7,R

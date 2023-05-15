@@ -2,6 +2,7 @@ RecordCount: 3402
 
 console load StrawberryJam2021/2-Intermediate/vitellary
    1
+
 #Start
  190
 
@@ -100,8 +101,7 @@ console load StrawberryJam2021/2-Intermediate/vitellary
   19,L,U,X
   15,R,C
   16,R
-   1
-   4
+   5
    2,D
    2,L
    3,R,D
@@ -257,7 +257,6 @@ console load StrawberryJam2021/2-Intermediate/vitellary
 #  14,R,Z
 #   1,R,J
 #  13,R,D,X
-
    5,R
    2,R,D
   15,R,U,X

@@ -159,8 +159,7 @@ console load StrawberryJam2021/2-Intermediate/SpoopySoup
    1,L
    2,R
    3
-   4,L
-   8,L
+  12,L
    1
    1,L
   41,R
@@ -252,7 +251,7 @@ EndRepeat
   15,R,D,X
 
 # if the spinner cycle is 0
-# use start 1
+# use strat 1
 # if the spinner cycle is 1
 # use strat 2
 

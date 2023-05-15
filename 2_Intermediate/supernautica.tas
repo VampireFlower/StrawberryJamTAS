@@ -125,7 +125,6 @@ console load StrawberryJam2021/2-Intermediate/LegS
    5,L,J,G
   14,U,X
   11,L,J
-
   40
 
 #lvl_LegS-4
@@ -139,8 +138,6 @@ console load StrawberryJam2021/2-Intermediate/LegS
   12,U,X
   37
    1,R,J
-#0:21.777(1281)
-
    7,R,Z
   23,R,J
    6,R
@@ -173,7 +170,7 @@ console load StrawberryJam2021/2-Intermediate/LegS
    4,U,X
   40
 
-#lvl_LegS-4
+#lvl_LegS-B2
   11
    4,L,Z
    5,L,J
@@ -208,9 +205,7 @@ console load StrawberryJam2021/2-Intermediate/LegS
    2,L,D,J
    7,L
   15,L,D,X
-   1,L,J
-   1,L,J
-   9,L,J
+  11,L,J
   15,U,X
    8,L
   17,L,U,G

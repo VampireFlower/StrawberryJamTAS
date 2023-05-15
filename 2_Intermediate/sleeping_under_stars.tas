@@ -54,8 +54,7 @@ console load StrawberryJam2021/2-Intermediate/Arphimigon
    2,R,D
    2,D
    1,R,D
-   1,D
-  10,D
+  11,D
    1,R,D
    2,D
   21,L,D
@@ -266,7 +265,7 @@ console load StrawberryJam2021/2-Intermediate/Arphimigon
    1,R
   40
 
-#lvl_a01 (4)
+#lvl_a01
    9,R,D
    1,R,J
   22,R,D
