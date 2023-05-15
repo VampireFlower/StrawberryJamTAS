@@ -1,4 +1,4 @@
-RecordCount: 10331
+RecordCount: 10548
 
 console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    1
@@ -30,30 +30,25 @@ console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    1,L,J,G
    1,J
    1,L,J
-  18,L
+  13,L
+   1
+   5,L
+   3,L,D
   15,D,X
-  15,D,C
-  15,D,X
-  15,D,C
-   5,L,D
-  10,L,Z
-   1,L,J
-   4,L
+  30,F,200
+  11,F,223.2
   15,L,D,X
   10,L,D,C
    1,L,J
-   4,L
-  14,L,D,X
-   1,L,J
-AnalogMode,Precise
-   3,F,359.99
-  15,L,U,X
-  14,U,Z
-   2,R,J
-   9,U,Z
-   1,R,J
+   7,F,270
+  10,F,329.6
+  14,F,359,0.9
+  14,U,X
+   3,J
+   9,U,X
+   1,J
   17,U
-  60,F,14.01
+  53,F,15
   15,U,X
   15,R,U,C
   15,R,U,X
@@ -124,7 +119,7 @@ AnalogMode,Precise
   16,U,X
   40
 
-#lvl_cp1_21_heartside_Bing_Over_Google
+#lvl_cp1_20_heartside_hyperlife
    1,L
   10,L,J
    4,R,J
@@ -300,7 +295,6 @@ AnalogMode,Precise
    6,F,55
    7,F,81
   38,F,95.272
-AnalogMode,Ignore
   15,R,Z
    3,R
   80,U,X
@@ -704,22 +698,37 @@ AnalogMode,Ignore
   42,R
   15,D,X
   15,R,C
-   8,R,D
-   8,D
-   7,L,D
-  28,L
-  10,L,X
-  39,R,J
-  14,U,Z
-# Maybe use the falling block
-# somehow?
+   7,R
+   1,G
+   1
+   5,L
+   5
+  15,R
+   2,R,D
+   1,D
+   1,G
+   1,R,J,G
+   2,R
    1,R,J
-  14,L,J
-  12,L,G
-   9,L,J,G
-   1,K
+   1,R
+   8
+   2,R,D
+   4
+   1,D
+  20,R,J
+  12,L,K,G
+  12,J
+   5
+   2,J
+   1
+   1,G
+   3,J,G
+   7
+   1,G
    8,J,G
-   9,R,J
+   2,R,J
+  12,R,K
+   2,R
   14,L,U,X
   35,R
   15,R,X
@@ -1984,4 +1993,4 @@ Repeat 33
 EndRepeat
    1
 
-ChapterTime: 4:31.575(15975)
+ChapterTime: 4:31.167(15951)
