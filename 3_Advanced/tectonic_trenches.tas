@@ -20,7 +20,6 @@ console load StrawberryJam2021/3-Advanced/Julia
 #  15,R,D,X
 # 100,R,J
 
-
 #lvl_a-01
   14,R,Z
    1,R,J
@@ -35,11 +34,11 @@ console load StrawberryJam2021/3-Advanced/Julia
    1,R,K
   12,R
   40
+
 #lvl_a-02
    6,R
    1,R,J
   10,R
-#0:02.499(147)
    7,U,X
   13,G
    9,U,G
@@ -247,12 +246,10 @@ console load StrawberryJam2021/3-Advanced/Julia
    6,R,J
    5,U,X
   12
-  13,G
-   8,G
+  21,G
    1,L
    6,R,U,X
-  13,L,G
-   8,L,G
+  21,L,G
    1,L
   15,R,D,X
    1,L,J

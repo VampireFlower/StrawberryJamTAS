@@ -128,7 +128,6 @@ console load StrawberryJam2021/3-Advanced/Goldian
    4,R,J
   40
 
-
 #lvl_aiden-2
    8,R,J
    6,R
@@ -201,8 +200,7 @@ console load StrawberryJam2021/3-Advanced/Goldian
    8
    8,R,J
   30,R,G
-   3,R,D,G
-   1,R,D,G
+   4,R,D,G
    1,R
    6,R,D
    4,D
@@ -475,7 +473,6 @@ console load StrawberryJam2021/3-Advanced/Goldian
   15,R
   13,R,D
   11,D
-
    5,R,X
   13,R,G
   10,G
@@ -555,8 +552,7 @@ endrepeat
    1,R,J,G
   11,R
    1,R,J
-  14,R
-   2,R
+  16,R
    1,R,J
   11,R,U,Z
    1,L,J,G

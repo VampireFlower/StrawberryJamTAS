@@ -1,4 +1,4 @@
-RecordCount: 4158
+RecordCount: 4159
 
 console load StrawberryJam2021/3-Advanced/mmm
    1
@@ -62,8 +62,7 @@ console load StrawberryJam2021/3-Advanced/mmm
    1,R
    5,R
    2
-  14,L
-   2
+  16,L
    7
   19,R
   10,R,J
@@ -139,8 +138,7 @@ console load StrawberryJam2021/3-Advanced/mmm
    1,K
    1,J
    2,R,K
-   1,R,J
-   1,R,J
+   2,R,J
   17,R,K
   15,R,D,X
   13,R
@@ -169,8 +167,7 @@ console load StrawberryJam2021/3-Advanced/mmm
    1,R
    1,J,G
   11
-   3,L
-   2,L
+   5,L
    2,L,D
    3,L
    2,L,D
@@ -280,8 +277,7 @@ console load StrawberryJam2021/3-Advanced/mmm
    2,D
    5
    1,R
-   2
-   2
+   4
   13
    7,D
   14,L,U,X
@@ -342,8 +338,7 @@ console load StrawberryJam2021/3-Advanced/mmm
   13,L,K
   11,L,Z
   25,R,J
-  64,R
-   2,R
+  66,R
    7,R,D
    5,R
   24,R,J

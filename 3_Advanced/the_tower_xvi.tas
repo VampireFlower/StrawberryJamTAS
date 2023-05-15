@@ -1,3 +1,5 @@
+RecordCount: 0
+
 console load StrawberryJam2021/3-Advanced/JANisEXIST
    1
 
@@ -29,8 +31,7 @@ EndRepeat
   26,L,U,X
    8,J
    2,L,J
-   1,L
-   1,L
+   2,L
   15,U,X
    2
    1,L

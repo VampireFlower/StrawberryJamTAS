@@ -1,7 +1,7 @@
 console wipedebug
 console load StrawberryJam2021/0-Lobbies/3-Advanced -448 -504
    1
-console hearts 25 
+console hearts 255
 
 #Start
   36

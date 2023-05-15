@@ -5,13 +5,13 @@ console load StrawberryJam2021/3-Advanced/sp1029
 
 #Start
 #Power Box Cycle (Next cycle should be at 65)
+   0
   
 #lvl_a-01
    9,L,X
    1,R,J
   20,R,J,G
-   3,L,D,G
-   3,L,D,G
+   6,L,D,G
    1,J
   12,R,U,Z
    7,L,D
@@ -26,9 +26,7 @@ console load StrawberryJam2021/3-Advanced/sp1029
    1,R,J
   18,R,D
    5,L,D
-  13,R,D
-   4,R,D
-
+  17,R,D
    4,Z
    2,R,J
   40
@@ -39,8 +37,7 @@ console load StrawberryJam2021/3-Advanced/sp1029
    1,R,J
   15,D,X
    1,L
-   4,R
-   3,R
+   7,R
   13,U,X
   30,R,J,G
    1,J
@@ -71,8 +68,7 @@ console load StrawberryJam2021/3-Advanced/sp1029
    5,R,Z
    1,L,J
    2,J
-  15,J,G
-   7,J,G
+  22,J,G
   23,R,D,G
   28,D,G
    4,L,G
@@ -94,10 +90,7 @@ console load StrawberryJam2021/3-Advanced/sp1029
 #lvl_a-05
    1,R,J
    1,R,J
-   1,R
-   1,R
-   1,R
-   5,R
+   8,R
   19,D,X
    3,D
    6,R,D
@@ -179,8 +172,7 @@ console load StrawberryJam2021/3-Advanced/sp1029
    9,R
   15,R,Z
   19,L,D
-  21,L,D,G
-   1,L,D,G
+  22,L,D,G
    1,L,D
    7,U,X
   21,D,G
@@ -255,8 +247,7 @@ console load StrawberryJam2021/3-Advanced/sp1029
    8,D,G
    1,R
    8,L
-   1,L,D
-   1,L,D
+   2,L,D
   15,L,Z
    6,L
    5
@@ -286,8 +277,7 @@ console load StrawberryJam2021/3-Advanced/sp1029
   18,L,D
   22,L,D,G
   16,R,D,G
-   1,R
-  10,R
+  11,R
    3
   10,L,Z
    1,R,J
@@ -384,7 +374,6 @@ console load StrawberryJam2021/3-Advanced/sp1029
    7,R
 #  10,R,J
 #  24,R,U,Z
-#0:50.371(2963)
 #   4,X
    7,R,J
   24,R,U,X

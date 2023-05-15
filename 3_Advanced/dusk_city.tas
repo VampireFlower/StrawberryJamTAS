@@ -109,7 +109,7 @@ console load StrawberryJam2021/3-Advanced/Meario
   12,R,D,X
   40
 
-#lvl_a-03 
+#lvl_a-03
    2,R,D,X
    1,R,J
   14,R,D,X
@@ -166,7 +166,6 @@ console load StrawberryJam2021/3-Advanced/Meario
   40
 
 #lvl_a-04
-
    1,R,N
    9,R,J
    5,R

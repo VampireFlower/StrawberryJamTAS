@@ -1,4 +1,4 @@
-RecordCount: 2007
+RecordCount: 2009
 
 console load StrawberryJam2021/3-Advanced/Citrea
    1
@@ -23,11 +23,9 @@ console load StrawberryJam2021/3-Advanced/Citrea
    2,R,J,G
    7,R,D,X
    1,S
-   1,D,O
-  34,O
-   1,R
-   1,R
-   1,R
+   1,D,J
+  34
+   3,R
   40
 
 #lvl_a-1
@@ -117,6 +115,7 @@ console load StrawberryJam2021/3-Advanced/Citrea
    4,X
   10,R,J
   40
+
 #lvl_a-4
    4,R
   19,U,X
@@ -152,8 +151,7 @@ endstunpause
    2,R
   12,R,D,X
    1,L,K,G
-  18,R,K
-   6,R,K
+  24,R,K
    6,R
    1,R,J
    1,R
@@ -166,17 +164,14 @@ endstunpause
   15,D,X
    3,R,D
    8,D
-
-#spinner
-   1,D
-
+#spinner cycle
+   1
    5,R,Z
    1,R,J
    3
    4,R
    1,J
-   1,R,D
-  49,R,D
+  50,R,D
    3,R
   14,R,D,X
    1,R,D

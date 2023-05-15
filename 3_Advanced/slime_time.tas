@@ -33,8 +33,7 @@ console load StrawberryJam2021/3-Advanced/galaksyz
    1,R,K,G
    2,R,J,G
    7,R
-   1
-   1
+   2
   18,R,D,X
    3,D
    4,R,D
@@ -126,7 +125,6 @@ console load StrawberryJam2021/3-Advanced/galaksyz
   14,L,Z
    1,L,J
   12,L,U,Z
-
   11,R,U,X
   18,U,C
   23,R
@@ -202,8 +200,7 @@ console load StrawberryJam2021/3-Advanced/galaksyz
    6,R
   15,R,U,Z
   28,R
-  10,R,D
-   1,R,D
+  11,R,D
    2,R
    1,R,D
    4,R

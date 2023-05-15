@@ -50,8 +50,7 @@ console load StrawberryJam2021/3-Advanced/hennyburgr
   10,L
   40,G
    3,K,G
-   5,L
-   7,L
+  12,L
   11,L,Z
    1,R,J
    6,R
@@ -154,8 +153,7 @@ console load StrawberryJam2021/3-Advanced/hennyburgr
    1,R
   13,R,D,J
   15,R,D,X
-   8,R,J
-   1,R,J
+   9,R,J
   16,R,U,X
    8
   10,L,C
@@ -173,10 +171,7 @@ console load StrawberryJam2021/3-Advanced/hennyburgr
    6,R
    1
   10,R,X
-   3,J
-   1,J
-   3,J
-   1,J
+   8,J
    1,L,J
    9,K,G
    1,R,K
@@ -187,8 +182,7 @@ console load StrawberryJam2021/3-Advanced/hennyburgr
    1,K
    6,L,K
   11,L,D,X
-  15,L,J
-   3,L,J
+  18,L,J
   14,U,X
   14,R,J
   11,R
@@ -233,9 +227,7 @@ console load StrawberryJam2021/3-Advanced/hennyburgr
    1,R,G
   10,G
    2,U,G
-   4,G
-   1,G
-   3,G
+   8,G
    1
    1,R,K,G
    1,R,J,G

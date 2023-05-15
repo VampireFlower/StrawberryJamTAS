@@ -207,8 +207,7 @@ console load StrawberryJam2021/3-Advanced/Viv
   40,D,G
   22,U,G
   15,D,X
-   2,R
-   1,R
+   3,R
   19,R,D,J
    1,L
    1,L,J,G
@@ -292,8 +291,8 @@ console load StrawberryJam2021/3-Advanced/Viv
    4,Z
   12,R,J
   14,R
-  23,R,J
-   5,R,J
+  22,R,J
+   6,R,J
    1,K
    8,L,K
    5,K
