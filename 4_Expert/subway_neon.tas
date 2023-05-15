@@ -5,7 +5,7 @@ console load StrawberryJam2021/4-Expert/nyan
 #lvl_start
 
 # spinner cycle
-   1
+   0
 ###
 
    6,R,Z
@@ -123,25 +123,28 @@ console load StrawberryJam2021/4-Expert/nyan
    9,R,Z
    5,R,J,G
    1,R,K
-   7,R,J
+   5,R,J
+   1,J
   40
 
 #lvl_a-02
-   6,R
-  10,D,X
-   2,L,J,G
-   3,L
-  15,R,D,X
-  12,R
-  20,L
-   4,R,Z
-   1,L,J,G
+   6
    1,J
-   4,K,G
-   1,L,J,G
-   6,R,J
-   5,R
+  17
+   1,D
+   1
+   1,D
+   1
+   1,L
+   2,L,D
+   1,K,G
    1,R,K
+   5,K
+   1,L,J,G
+   1,L,K,G
+   5,J,G
+   1,J
+  16,R,Z
   10,J,G
    1,L,J
    1,R,J
@@ -151,20 +154,24 @@ console load StrawberryJam2021/4-Expert/nyan
   10,J,G
    1,L,J
    1,R,J
-   8,K,G
+   9,K,G
    1,L,K
    1,R,K
-
   10,U,X
 StunPause
    4,U,X
-   3,L,J
-   3,L,K,G
-   7,L
+   1,L,J
+   1,R,J
+   1,J
+   1,R,J
+   1,L,K,G
+   2,L
+   1
+   4,L
 EndStunPause
-  12,L,J
-  12,U,X
-  13,L
+   7,L,J
+  13,U,X
+  14,L
   15,L,Z
   15,L,X
   21,L,D
@@ -547,4 +554,4 @@ EndStunPause
   15,L,D,C
  125
 
-ChapterTime: 1:11.774(4222)
+ChapterTime: 1:11.111(4183)
