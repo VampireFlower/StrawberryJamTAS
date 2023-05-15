@@ -4,7 +4,7 @@ console load StrawberryJam2021/5-Grandmaster/alisticious
 #Start
   86
 #SpinnerCycle
-   2
+   0
 
 #lvl_a-00
   10,L,Z
@@ -165,124 +165,41 @@ console load StrawberryJam2021/5-Grandmaster/alisticious
    5,R,U,X
   14,R,D
    5,R,U
-  17,R
+  13,R
+   4,R,J
+   1,R,K
    5,R,D,X
-   1,R,D,J
-   8,R
-   1,R,J
+  10,R
    5,R,D,X
-   2,R,U
-   3
-   5,R,D
-   3,R,U
+  11,R,U
   40
 
-#lvl_a-02
-   5
-   1,R,D
-   1,R,J
-   5,R,U,X
-  11,U
-   1
-   7,R
-   4,R,D,X
-   1,R,U
-   5,R,D
-  11
-   4,R,D
-   5,R,U,X
-  14,R,D
-   1
-   6,R,U
-   9,R,J
-   5,R
-   5,U,X
-   3
-  13,L
-  34,R
-   5,D,X
-  10
-   8,L
-  15
-   3,R,D
-  11,R,Z
-   4,R,J
-   1,J
-   4
-   5,R,D,X
-  10,D
-   1
-   1,D
-   1,L,D
-   1,R,D
-   1
-   8,R,Z
-   2,U
-   1
-   2,R,D
-   1
-   1,R,D
-   1,L,J
-   5,L,U,X
-   1,U
-   9,L,D
-   1
-   4,L,D
-   4,X
-   1,L,D
-   1,D
-   2
-   8,L,U
-   9,L,D
-   5,R,D,X
-   4,D
-   5
-   3,R
-   1
-   6,R
-   3,R,D
-  55,L
-   1,L,D
+#lvl_a-02(0)
+   1,S
+   1,D,J
+  69,O
    5,L,Z
-   8
-   1,U
-   1
-   1,L,D
-   6
-   1,L,D
-   1
+   6,L,U
+  40
+
+#lvl_a-03
+   5,L,U
+   9,U
+   5,R,D,X
+   1,R,J
+   6,R
+  40
+
+#lvl_a-02(1)
+   1,R
+   3,R,J
+   5,R,U,X
+   2,R,U
+   5,R
+   1,R,J,G
   11,R
-   5,U,X
-   1
-  23,R
-   8
-  18,L
-   5,L,U,Z
-   3,U
-   3
-   2,L
-   2
-   7,L
-   2,L,D
-  11,L
-   5,L,U,Z
-   2,L
-   1,U
-   1
-   6,U
-   1,L
-   4,L,X
-   1,L,U
-  13,U
-   1,R,U
-   1,L,U
-   1
-   2,L,U
-   2,R,J,G
-   3
-   3,L
-   1
-  21,U,X
+   7,R,J
+  18,U,X
   40
 
 #lvl_a-04a
@@ -603,4 +520,5 @@ EndStunpause
   31
    8,L,D,C
   64,D
-ChapterTime: 0:51.476(3028)
+
+ChapterTime: 0:47.107(2771)
