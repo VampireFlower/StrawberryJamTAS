@@ -476,7 +476,6 @@ console load StrawberryJam2021/4-Expert/fonda1515
 #   8,R,D
 #   9,R,X
 #  19,R,J
-
   12,L,J
   22,L
   25
@@ -629,7 +628,7 @@ console load StrawberryJam2021/4-Expert/fonda1515
   22,R,J
   35
 
-# reverse and jump on first block, delayed ultra into second   
+# reverse and jump on first block, delayed ultra into second
 # reaches coin faster but with only one dash
 # maybe the delayed ultra can start before the crystal?
 #  15,R,D,X

@@ -662,8 +662,7 @@ console load StrawberryJam2021/4-Expert/Vina
   32
 repeat 6
    2,R,D
-   2,L,D
-   2,L,D
+   4,L,D
    2,R,D
 endrepeat
    4,L

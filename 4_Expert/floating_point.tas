@@ -63,8 +63,7 @@ console load StrawberryJam2021/4-Expert/KAERRA
    7,R,X
    1,R,J,G
    6,R
-  24,L
-   2,L
+  26,L
   13,L,Z
    9,R,J
    1,R
@@ -162,8 +161,7 @@ console load StrawberryJam2021/4-Expert/KAERRA
   17,R
    5,R,J,G
   11,R
-  25,D
-   2,D
+  27,D
   10,R,D
    5,D
   12,L,D,X
@@ -420,7 +418,6 @@ console load StrawberryJam2021/4-Expert/KAERRA
   17,D,X
    8,L,D
   11,L,Z
-
    1,L,J
    8,L
   26,D,X
@@ -430,8 +427,7 @@ console load StrawberryJam2021/4-Expert/KAERRA
   13,D
    2
    1,R
-   2
-   1
+   3
    1,L,G
    7,R,J
    5,R

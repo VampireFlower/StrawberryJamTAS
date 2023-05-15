@@ -61,7 +61,7 @@ EndRepeat
   15,R,D,X
 StunPause
    1,R,D
-SkipInput 3 
+SkipInput 3
    4,R,D
 SkipInput 3 1
   13,R,U,Z
@@ -379,8 +379,7 @@ EndStunPause
   31,R,D,X
   25,D,C
   15,U,X
-  13,U,C
-   1,U,C
+  14,U,C
   13,R,J
   32,R,D
   20,D

@@ -1,3 +1,5 @@
+RecordCount: 0
+
 console load StrawberryJam2021/4-Expert/nyan
    1
 
@@ -83,8 +85,7 @@ console load StrawberryJam2021/4-Expert/nyan
    6,R,J,G
    8,R
    2,R,J
-  14,R,D
-  12,R,D
+  26,R,D
    4,R,Z
    1,R,J
    5,R
@@ -180,7 +181,6 @@ EndStunPause
    8,L,J
   40
 
-
 #lvl_a-03
    3,L,J
    1
@@ -230,19 +230,16 @@ EndStunPause
   24,R,U,Z
   42,L
   18,L,X
-  28,G
-   5,G
+  33,G
    4,D,G
    1,L,K,G
    4,J,G
-   2,R
-   3,R
+   5,R
   15,U,X
    8,R,D
   43,D
-   4
-   2
-  17,R
+  12
+  11,R
   14,R,U,X
    1,R,J,G
   11,R,D
@@ -315,9 +312,7 @@ EndStunPause
    1,R,J
    6,R
    8,R,J
-   5,R
-   1,R
-   5,R
+  11,R
   14,R,X
    1,L,J
   31,R,D
@@ -485,8 +480,7 @@ EndStunPause
    2,R,J
    4,R
   15,R,D,X
-   1,R,D
-   1,R,D
+   2,R,D
    1,D,J
    2,J
   10,R,D,X

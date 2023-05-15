@@ -94,8 +94,7 @@ console load StrawberryJam2021/4-Expert/QuantumSpaceman
    6,R
    1,R,J
    3,R
-   4
-   2
+   6
   20,D
    6
    2,R
@@ -110,10 +109,8 @@ console load StrawberryJam2021/4-Expert/QuantumSpaceman
   40
 
 #lvl_a-01
-
 #couldn't get route under to work
 #not sure that it would have saved time anyway
-
    2,R
    1,R,J
   11,R,D,X
@@ -241,8 +238,7 @@ EndStunPause
    1
 #left stun route abt 100f faster than right side
    2,R,J
-  18,R
-   7,R
+  25,R
   40,L,G
   11,G
   49,U,G
@@ -268,7 +264,7 @@ EndStunPause
    7,R
   40
 
-#lvl_a-07
+#lvl_a-08
    1,R,J
   14,R,D,X
   15,L
@@ -334,7 +330,6 @@ EndStunPause
 #   7,R
 #  40
 #coin route 4875f
-
 
 #top stun route
   53,R,G
