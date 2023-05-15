@@ -1,4 +1,4 @@
-RecordCount: 4003
+RecordCount: 4005
 
 console load StrawberryJam2021/1-Beginner/Ceph
    1
@@ -10,8 +10,7 @@ console load StrawberryJam2021/1-Beginner/Ceph
    1,L,J
   10,R,D,X
    1,R,J
-   3,R
-   1,R
+   4,R
   11,R,Z
    1,R,J
    1
@@ -84,7 +83,7 @@ console load StrawberryJam2021/1-Beginner/Ceph
    8,L,J
   40
 
-#lvl_3(1)
+#lvl_3 (0)
   11,L
    5,L,J,G
   10,L,X
@@ -167,7 +166,7 @@ console load StrawberryJam2021/1-Beginner/Ceph
    1,R
   40
 
-#lvl_3(2)
+#lvl_3 (1)
   10,R
    7,R,J
   14,R,X
@@ -176,8 +175,7 @@ console load StrawberryJam2021/1-Beginner/Ceph
    1
    1,R,J,G
    1,L,J
-   5,R
-   2,R
+   7,R
    6,L,Z
    1,R,J
    3,L
@@ -216,8 +214,7 @@ console load StrawberryJam2021/1-Beginner/Ceph
    3,R
    5,R,D,X
    1,R,J,G
-   2,R
-  14,R
+  16,R
    6,R,Z
    1,R,J
    3,R
@@ -253,7 +250,7 @@ console load StrawberryJam2021/1-Beginner/Ceph
   19,R,D,X
   40
 
-#lvl_7(1)
+#lvl_7 (0)
    3,R
   14,R,X
    1,L,J
@@ -278,7 +275,7 @@ console load StrawberryJam2021/1-Beginner/Ceph
    2,L
   40
 
-#lvl_7 (2)
+#lvl_7 (1)
    1,S
    1,D,O
   69,J
@@ -430,8 +427,6 @@ console load StrawberryJam2021/1-Beginner/Ceph
    1,R,J
    1,R
    1,R,J
-
-
   11,R,D
   14,R,Z
    2,J,G
@@ -458,7 +453,6 @@ console load StrawberryJam2021/1-Beginner/Ceph
   13,L
    2,J,G
    7,L
-
    4,L,Z
    1,L,J
    3

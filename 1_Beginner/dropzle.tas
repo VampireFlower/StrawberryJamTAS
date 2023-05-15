@@ -8,6 +8,7 @@ console load StrawberryJam2021/1-Beginner/Owen-Shirrell
    1,S
    1,D,J
   34
+
 #lvl_00 - Overpass
    1,L,J
   13,R,Z
@@ -21,11 +22,9 @@ console load StrawberryJam2021/1-Beginner/Owen-Shirrell
    1,L,D
    1,D
    1,L,D
-
   11,R,D
   12,R,D,X
-   2,R,J
-   1,R,J
+   3,R,J
   16,R,D,X
    1,R,D
    1,R,J
@@ -33,9 +32,6 @@ console load StrawberryJam2021/1-Beginner/Owen-Shirrell
    1,R,J
    2
    8,D,X
-#0:04.811(283)
-#0:04.828(284)
-
   40
 
 #lvl_02 - Breadth
@@ -166,8 +162,7 @@ console load StrawberryJam2021/1-Beginner/Owen-Shirrell
 
 #lvl_08 - Daedalus
    9,R
-   5,R,D
-  17,R,D
+  22,R,D
    6,D
    1,R,D
   18,D
@@ -182,7 +177,6 @@ console load StrawberryJam2021/1-Beginner/Owen-Shirrell
    8,D
    1,R,D
    4,D
- 
   17,L,D
    4,L,Z
    1,L,J
@@ -213,9 +207,7 @@ console load StrawberryJam2021/1-Beginner/Owen-Shirrell
    1,J,G
    4,J
    1
-   2,R
-   1,R
-   1,R
+   4,R
    1,L,K,G
    1,R,K
    1,K
@@ -271,6 +263,6 @@ console load StrawberryJam2021/1-Beginner/Owen-Shirrell
    6,L,D
   15,D,X
    5,D
-
  135
+
 ChapterTime: 0:35.275(2075)

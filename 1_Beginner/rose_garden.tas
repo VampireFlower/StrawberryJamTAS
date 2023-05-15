@@ -1,4 +1,4 @@
-RecordCount: 3770
+RecordCount: 3799
 
 console load StrawberryJam2021/1-Beginner/Quinnigan
    1
@@ -25,7 +25,7 @@ console load StrawberryJam2021/1-Beginner/Quinnigan
   40
 
 #lvl_q01
-   6,R,K,P
+   6,R,K
    5,R
    2,R,K
    5,U,X
@@ -75,6 +75,7 @@ console load StrawberryJam2021/1-Beginner/Quinnigan
    4
    3,R
 #spinner cycle
+   0
    7,R,Z
    1,R,J,G
    6,R
@@ -85,21 +86,18 @@ console load StrawberryJam2021/1-Beginner/Quinnigan
    2,R,K,G
    3,R
    1,R,J,G
-   1,R
-   1,R
+   2,R
   12,R,D,X
   12,R,G
    2,R,G
    1,R,J,G
    2,R,X,G
-   1,X,G
+   1,G
 StunPause
-   1,X,G
-   1,X,G
-  16,X,G
+  18,G
 EndStunPause
-   1,R,X,G
-   5,X,G
+   1,R,G
+   5,G
    3
   14,R,Z
   10,R,D
@@ -127,20 +125,17 @@ EndStunPause
    3,R
    2,R,J
    7,R
-  11,R,J,X,G
-  19,R,X,G
-  20,R,X,G
+  12,R,J,X,G
+  38,R,G
    3,R,U,G
   32,L,D,G
   30,R,D,G
   14,R,U,G
    6,R,X,G
-   6,X,G
-  30,R,X,G
-   2,R,C,G
-   1,R,G
-   1,R,G
-  27,R,G
+   6,G
+  30,R,G
+   2,R,X,G
+  29,R,G
    1,L
   42,R,D
    3,R
@@ -153,9 +148,7 @@ EndStunPause
   12,G
    9,R,G
    1,L
-  19,R,D
-  39,R,D
-   7,R,D
+  65,R,D
    6,R,Z
    1,R,J
    6,R
@@ -167,16 +160,11 @@ EndStunPause
   13,R,D,X
    8,R,J
    5,U,X
-  24,R,G
-   1,R,G
-   1,R,G
+  26,R,G
    1,R,X,G
-   5,X,G
-   1,X,G
-  10,X,G
-  13,L,X,G
-   1,L
-   2,L
+  16,X,G
+  13,L,G
+   3,L
   20
    5,R
    8,R,U,X
@@ -185,28 +173,24 @@ EndStunPause
    3,R,G
    6,R,K,G
   94,L,U,G
-   2,L,X,G
-  16,L,X,G
-   5,L,U,X,G
+  23,L,X,G
    3,L
   14
    5,U,X
   15,R,G
    3,G
    5,R,X,G
-  13,X,G
-   1,X,G
+  14,G
    2,R
    4,L,D
   12,X,G
-  23,L,X,G
+  23,L,G
    1,L
    2,R
    6,L
   15,L,Z
    1,L
-  21,L,U,G
-   5,L,U,G
+  26,L,U,G
   12,L,X,G
   17,X,G
    1,L
@@ -223,8 +207,7 @@ EndStunPause
    2,R,D
    7,R,Z
    1,R,J
-   3
-   3
+   6
    1,L,D,J
    8,R,D,X
   40
@@ -239,19 +222,16 @@ EndStunPause
    8,R,J,G
    2,R
    1,L,J,G
-  12,L,J,X,G
-   8,L,J,X,G
-   4,L,U,X,G
+  20,L,J,X,G
+   4,L,U,G
    5,R
   14,R,U,X,G
    9,R,D,G
-  40,R,U,G
-  50,R,U,G
+  90,R,U,G
   15,R,D,G
    1,D,G
    1,R
-   4,D
-  10,D
+  14,D
   10,R,D
   22,D
   14,L,D,X
@@ -289,8 +269,7 @@ EndStunPause
    5,L,J
   26,L,J,G
   23,L,X,G
-  19,R,X,G
-  61,R,U,J,G
+  80,R,U,J,G
   17,R,U,X,G
   25,L,X,G
    1,L,C,G
@@ -301,8 +280,7 @@ EndStunPause
   48,R,D
   10,R,X
   10,R,J,G
-  19,R
-  11,R
+  30,R
   35,R,C
    2,R,J
    8,R,Z
@@ -334,7 +312,7 @@ EndStunPause
    5,R,X,G
    4,R
   14,R,Z
-  15,L
+  15
   15,L,D,X
   10,U,C
   24,R,G

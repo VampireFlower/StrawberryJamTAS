@@ -1,4 +1,4 @@
-RecordCount: 3222
+RecordCount: 3225
 
 console load StrawberryJam2021/1-Beginner/Circumplex
    1
@@ -86,9 +86,7 @@ console load StrawberryJam2021/1-Beginner/Circumplex
   16,L,D
    2,L
    1,G
-   7,L,J,G
-   1,L,J
-   1,L,J
+   9,L,J,G
    9,L
    1,K
   15,U,X
@@ -111,7 +109,7 @@ console load StrawberryJam2021/1-Beginner/Circumplex
    1,R,J
   40
 
-#lvl_04 
+#lvl_04
    6,R
    1,R,J
   15,R,D,X
@@ -209,7 +207,7 @@ console load StrawberryJam2021/1-Beginner/Circumplex
    5,R,D,X
   40
 
-#lvl_06  
+#lvl_06
    6,R,D,X
    1,R,J
    3,R
@@ -401,8 +399,8 @@ endStunPause
   46,R,D
   15,L,K
   44,R,D
-  12
-  16
+  11
+  17
   15,R,X
   30
   22,R
