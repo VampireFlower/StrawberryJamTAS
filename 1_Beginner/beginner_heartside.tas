@@ -1,4 +1,4 @@
-RecordCount: 10548
+RecordCount: 10834
 
 console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    1
@@ -8,41 +8,39 @@ console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
 
 #lvl_cp1_heartside_intro
   15,U,X
+   1,L,U
   15,U,C
+   1,L,U
   15,U,X
-   1,R
-  15,R,U,C
-   6,R,Z
-   2,L,J
-   1,L,K
+   1,L,U
+  15,L,U,C
+Repeat,4
    1,L,J
    1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   9,L,K
-  12,L,U,X
+EndRepeat
    4,L,J,G
    3,L,K,G
+   4,L
+  11,L,U,X
+   3,L,J,G
    2,L
-   1,L,J,G
-   1,J
+   7,L,K,G
+   7,L
    1,L,J
-  13,L
-   1
-   5,L
-   3,L,D
-  15,D,X
-  30,F,200
-  11,F,223.2
   15,L,D,X
-  10,L,D,C
+   1,L,D
+   1,L
+   7,L,D
+   1,D
+  15,D,X
+  15,D,C
+  12,F,218
+  15,L,D,X
+  14,L,D,C
    1,L,J
    7,F,270
   10,F,329.6
-  14,F,359,0.9
+  14,F,359
   14,U,X
    3,J
    9,U,X
@@ -909,7 +907,7 @@ console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    2,J
   10,R,J
 # spinner cycle (0-2)
-   2
+   0
 # -------------
    1,K
    1,R,J,G
@@ -1991,4 +1989,4 @@ Repeat 33
 EndRepeat
    1
 
-ChapterTime: 4:31.167(15951)
+ChapterTime: 4:31.014(15942)
