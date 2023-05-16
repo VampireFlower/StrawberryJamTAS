@@ -1,4 +1,4 @@
-RecordCount: 2518
+ecordCount: 2518
 
 console load StrawberryJam2021/5-Grandmaster/xplosives
    1
@@ -6,26 +6,27 @@ console load StrawberryJam2021/5-Grandmaster/xplosives
 #Start
   99
 #spinner_cycle
-   2
+   1
 
 #lvl_a0
-   6,L,D,X
+   6,L,Z
    1,R,J
-   3
-   4,R
+   2
+   5,R
    1,R,J
-  15,R,D,X
-   9,R,D
-   9,R,J
-   1,J
+  24,R,D,X
    2,R,J
-  15,R,D,X
-  20,R,J
-  21,R
-  27,R,U,X
-  23,G
-  11,U,G
-   3,G
+   2,R
+  11,R,D,X
+   1,R,J,G
+  11,R
+  33,R,J
+  18,R,X
+   9,R,G
+   1,R,U,G
+   9,R,G
+  16,R,U,G
+   2,R,G
    2,R,J,G
    6,R,D,X
   11,R,J,G
@@ -140,22 +141,21 @@ EndStunPause
   15,L,C
   10,L,D,X
 StunPause
-  10,L,J
-   4,L
-   4
-   8,K
+   1,L,J
+   6,L
+SkipInput,3,1
+  10,L,U,Z
 EndStunPause
-   4,K
-   1,J
-  16,U,X
-  35,L,J
-  19,G
-   8,D,G
-   1,G
-   1,D,G
-   1,G
-   1,D,G
-   1,G
+   4,L,U,Z
+   1,K,G
+   4
+   8,R
+   9,R,J
+  11,U,X
+  14,L,J
+  46,L,G
+   4,D,G
+   2,G
    1,D
    1,J,G
    1,K,G
@@ -358,4 +358,4 @@ EndStunPause
   32,G
   54
 
-ChapterTime: 0:47.549(2797)
+ChapterTime: 0:46.172(2716)
