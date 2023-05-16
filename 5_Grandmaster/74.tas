@@ -1,4 +1,4 @@
-RecordCount: 5012
+RecordCount: 5014
 
 console load StrawberryJam2021/5-Grandmaster/fishtank
    1
@@ -16,8 +16,7 @@ console load StrawberryJam2021/5-Grandmaster/fishtank
    7,L
    1,R,J
    4,J
-   1,L,J
-   1,L,J
+   2,L,J
    2,J
    1,R,J
    1,J
@@ -357,8 +356,7 @@ endrepeat
   10,R
    1,R,J
    3
-  15,R,D
-   5,R,D
+  20,R,D
    4,D
    1,R,D
    3,L,D
@@ -366,8 +364,7 @@ endrepeat
    1,R,K
    1,R,J
    1,R,K,G
-   9,R
-   4,R
+  13,R
    7,R,D,J
   40
 
@@ -573,9 +570,7 @@ endrepeat
    1,R,J
    1,R,K
    1,R,J
-   1,R,K
-   4,R,K
-   1,R,K
+   6,R,K
    1
    1,R,K,G
    3
@@ -645,8 +640,7 @@ endrepeat
    3,R,J
    6,R
    4,R,D,J
-   2,J
-   2,J
+   4,J
    3,R,J
   23,R,K,G
   12,L,J,G

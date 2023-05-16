@@ -129,14 +129,12 @@ EndStunPause
   16,R,D,X
    1,L,J
    4,J
-   5,R,J
-   1,R,J
+   6,R,J
    1,J
   15,D,X
   15,R
    4,R,D
-   1,R
-   1,R
+   2,R
    2,R,D
    5,U,X
 AnalogMode Square
@@ -371,10 +369,6 @@ EndStunPause
   14,U,X
   13,R,J
   35,R,D
-
-
-
-
   42,L,X
   18,G
   14,U,C

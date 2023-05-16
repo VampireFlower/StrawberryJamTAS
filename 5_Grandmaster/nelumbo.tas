@@ -18,9 +18,7 @@ console load StrawberryJam2021/5-Grandmaster/tofu
    4,R,J
   15,R,U,X
   14,R,U,G
-   3,R,J
-   7,R,J
-   8,R,J
+  18,R,J
   15,U,X
   10,U,C
    4,R,J
@@ -46,7 +44,6 @@ console load StrawberryJam2021/5-Grandmaster/tofu
 #lvl_Veranda
    1,K
   10,R,K
-
   14,U,X
    9,R,J
    5,R,D,X
@@ -55,7 +52,7 @@ console load StrawberryJam2021/5-Grandmaster/tofu
    1,L
    4,R,J
    9,R,U,X
-stunpause  
+stunpause
    4,R,U,X
    2,J,G
    6,R,D
@@ -169,8 +166,7 @@ EndStunPause
    2,R,J
   13,R,X
   21,R,G
-   1,R,D
-  11,R,D
+  12,R,D
   11,L,D,X
    4,R,J
   17,R,U,X
@@ -244,6 +240,7 @@ EndStunPause
    1,L
   12,R,D,X
   40
+
 #lvl_Rat Run
    1,R,D,X
    2,R,J
@@ -296,6 +293,7 @@ EndStunPause
    8,R,J
    5,R,D,X
   40
+
 #lvl_Zigzag
   10,R,D,X
   10,R,D

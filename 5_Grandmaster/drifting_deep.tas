@@ -171,9 +171,7 @@ AnalogMode Square
    2
    1,R
    2,L
-   4,D
-   1,D
-   1,D
+   6,D
    1,R,D
    1,D
    7,R,D

@@ -239,8 +239,7 @@ console load StrawberryJam2021/5-Grandmaster/DeathKontrol
    5,K,G
    1,L,K
    1,R
-   5,J
-   1,J
+   6,J
    1,K
    6,R,K
    6,K
@@ -364,7 +363,7 @@ console load StrawberryJam2021/5-Grandmaster/DeathKontrol
   14,R,D,X
   40
 
-#lvl_2
+#lvl_2 (1)
   10,R,D
   16,R,D,X
    1,J
@@ -393,13 +392,12 @@ console load StrawberryJam2021/5-Grandmaster/DeathKontrol
    4,L,K
   40
 
-#lvl_3
+#lvl_3 (0)
    2,L
   15,L,D,X
   12,L,J
   15,L,D,X
-  10,L
-   3,L
+  13,L
    1,L,D
    7,L,J
    7,L
@@ -846,8 +844,7 @@ console load StrawberryJam2021/5-Grandmaster/DeathKontrol
    3,R,J
   16,R,D,X
    1
-   5,R,D
-   5,R,D
+  10,R,D
   10,R,J
    2,R
   14,R,D,X

@@ -189,8 +189,8 @@ console load StrawberryJam2021/5-Grandmaster/RedBatNick
    7,R
   15,R,D,X
    9,R
-   8,D
-   4,D
+***
+  12,D
    1,R,D
   13,R
    5
@@ -268,7 +268,7 @@ console load StrawberryJam2021/5-Grandmaster/RedBatNick
    8,R
   16,L,D
   15,R,D
-stunpause 
+stunpause
    5,R,D
   17,D
    7,L,D

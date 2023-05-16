@@ -63,10 +63,7 @@ console load StrawberryJam2021/0-Lobbies/5-Grandmaster 1472 1344
    6,R
    2,R,J
   13,R,U,X
-#0:04.624(272)
   27,L,U
-#0:05.083(299)
-#979.645 ypos
 AnalogMode, Precise
   17,F,349.28
   62,F,345.18

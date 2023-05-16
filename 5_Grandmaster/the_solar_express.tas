@@ -45,8 +45,7 @@ console load StrawberryJam2021/5-Grandmaster/Soloiini
   14,R,D,X
    2,R,J,G
    1,J
-  11,R
-   4,R
+  15,R
   55,R,J
   16,R,U,X
    1,R,J,G
@@ -69,7 +68,7 @@ EndRepeat
   11,R,D,X
   43
 
-#lvl_Crumbling Bastions
+#lvl_Crumbling Bastions (0)
    3,R,D,X
    1,R,J
   14,R,D,X
@@ -192,7 +191,7 @@ EndRepeat
    1,R,N
    9,R,X
 
-#lvl_Crumbling Bastions
+#lvl_Crumbling Bastions (1)
   19,R,G
   26,D,G
   14,R,D,G

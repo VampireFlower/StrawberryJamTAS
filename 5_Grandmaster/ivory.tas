@@ -68,8 +68,8 @@ console load StrawberryJam2021/5-Grandmaster/Linj
   40
 
 #lvl_Conspiracy
-   5
-  43
+   6
+  42
   10,R,X
    1,J
    4
@@ -127,8 +127,7 @@ console load StrawberryJam2021/5-Grandmaster/Linj
    5,R
    2,R,J
    2,R
-   1,R,J
-   1,R,J
+   2,R,J
   15,R,D,X
   26,R
    2,R,J

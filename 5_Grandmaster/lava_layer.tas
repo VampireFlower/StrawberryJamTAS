@@ -26,8 +26,7 @@ console load StrawberryJam2021/5-Grandmaster/tobyaaa
    1,R,J,G
    3,R
    1,R,N
-   3
-   5
+   8
    4,Z
    1,R,J
   14
@@ -43,8 +42,7 @@ console load StrawberryJam2021/5-Grandmaster/tobyaaa
    1,J
    3,R,J
    1,R
-  23
-   4
+  27
    3,L,J
    1,L
    1,J,G
@@ -219,8 +217,7 @@ console load StrawberryJam2021/5-Grandmaster/tobyaaa
    4,J,G
    1
    4,J,G
-   7,R,J
-   6,R,J
+  13,R,J
   14,R,X
    2,R,J,G
    1
@@ -322,7 +319,7 @@ EndStunPause
 #   2
 #  43
 
-#lvl_Susan
+##lvl_Susan
 #   1,R
 #  22,D
 #   2,R,D
