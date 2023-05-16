@@ -1,4 +1,4 @@
-RecordCount: 21927
+RecordCount: 22022
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -209,7 +209,6 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    4,R
    1,R,J
   40
-
 #lvl_a03_pansear
    1,R,J
    3,R,K,G
@@ -352,7 +351,6 @@ EndRepeat
    2,K
   64,R,D
   40
-
 #lvl_a05_flamecrafter
    3,R
    7,R,J
@@ -396,24 +394,19 @@ EndRepeat
   30,R,X
    4,J
   10,R,X
-   8,R,J
-  17,R
-   4,X
-  46,L,D,X
-   4,R,J
-   4,R,Z
-  20,R,J
-  11,R,X
-   7,R,J
-  15,R,D,X
+  26,R,J
+  11,R
+  26,R,Z
+  15,R,X
+  16,R,D
+   5,D
+   4,R,X
    1,R,J
-   9,D,C
-   1,R,J
-  21,R
-  33,R,X
-  11,L,D
-   3,D
-  53,D,X
+   7,R
+  24,R,J
+  44,R,X
+   6,L,D
+  60,D,X
   34,R,U,C
    4,L,J
    9,L,K
@@ -542,7 +535,6 @@ EndRepeat
   15,R,C
    2,R
   14,R,Z
-
 #lvl_b02_nyan
    1,R,J
   14,R,D,X
@@ -632,7 +624,6 @@ EndRepeat
   14,R
    5,R,U,Z
   40
-
 #lvl_b03_banana
    9,R,U,Z
   16,R,C
@@ -720,7 +711,7 @@ EndRepeat
   21,R,D
   12,R,Z
 ## Spinner cycle [b04_powerav]
-   0
+   2
 ##
   45,R,X
   15,U,C
@@ -752,7 +743,7 @@ EndRepeat
    8,R,D,X
    1,R,J
    7,R
-   2,R,J
+   2,R,J,P
   15,R,U,X
   55,R
   18,R,D,X
@@ -853,13 +844,19 @@ EndStunPause
   13,L,J
    1,J
    4
-  34,R,U,X
-  10,R,Z
+  15,R,U,X
+  16,R
+   3
+   1,R
+   5,R,Z
    1,R,J
-   9,R
-  27,R,J
-   2,R
-  17,R,U,X
+   6,R
+   4
+   5,R,D,X
+  26,R,J
+  16,R,U,C
+   1,R
+   1
    7,R
   16,R,Z
    1,R,J,G
@@ -2335,7 +2332,6 @@ EndStunPause
   14,R,D,X
    1,R,J
   40
-
 #lvl_e04_scroogle
    6,R,D,X
    1,R,J
@@ -2456,7 +2452,6 @@ EndStunPause
   15,U,Z
   15,U,X
   43
-
 #lvl_e05_itsabrody
    7,L
    3
@@ -3457,5 +3452,4 @@ EndRepeat
    7,L,J
   16,U,X
  135,D
-
-ChapterTime: 8:11.691(28923)
+ChapterTime: 8:11.385(28905)
