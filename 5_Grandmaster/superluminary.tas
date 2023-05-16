@@ -1,4 +1,4 @@
-RecordCount: 231
+RecordCount: 423
 
 console load StrawberryJam2021/5-Grandmaster/alisticious
    1
@@ -267,93 +267,34 @@ console load StrawberryJam2021/5-Grandmaster/alisticious
    1,R,J
    5,R,D,X
    3,U
-   1
    1,R,D
-   1,R,J,G
-   7
-   5,R,U,Z
-  21,U
-   5,L,U,X
-   1,U
-   1
-   1,U
-   9
-  49,R
-   5,R,U,Z
-   1
-   5,U
-   1
-  17,L,U
-   5,R,X
-   3,U
-   9
-   3,R,D
-   3
-   1,R,D
-   1,R
-  14,R,Z
-   1,R,J
-   5,R,D,X
-  18,D
-   1,L,D
-  15,D
-   2,L,D
-   2,D
-   5,L,D
-  21
-  45,L
-   5,U,X
-   3,L
-   3,R,U
-   1
-   1,R,U
-  11
-   6,R
-  11
-  45,L
-   5,L,U,Z
-   4,U
-  14,R
-   5,L,U,X
-  16,L
-   4,L,J
-  26,L,K
-   9,L
-   5,U,X
-   2,L
-   3,R,U
-   1
-   5,R,U
-   6,R
-  17,L
-   5,L,D,X
-   2,L
-   3
+   6,R,D
+  10,D,X
+   1,S
+   1,D,J
+  69,O
+   4,X
    1,D
-  13
-  14,L
+  40
    5,L,D,X
-  47,D
-   4,L,J
-   5,L,D,X
-   4,L
+  10,L,U
    3
-   1,D
-   3
-   8,D
-   6,L,D
+   8,L,D
+  13,D
   40
 
 #lvl_b-05a
-  12,L,D
+   6,L,D
+   1,D
+   5,L,D
    1,D
    1,L,D
    1,D
    1,L,D
    5,D,X
-   5
-   1,L
    6
+   1,L
+   4
    1,R,J
    6,R,D,X
    9
@@ -530,4 +471,4 @@ EndStunpause
    8,L,D,C
   64,D
 
-ChapterTime: 0:46.903(2759)
+ChapterTime: 0:40.392(2376)
