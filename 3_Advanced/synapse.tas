@@ -1,4 +1,4 @@
-RecordCount: 9250
+RecordCount: 9812
 
 console load StrawberryJam2021/3-Advanced/MousseMoose
    1
@@ -128,11 +128,11 @@ console load StrawberryJam2021/3-Advanced/MousseMoose
    4,L,Z
    1,L,J
    6,L
-   1,L,J
-   6,L,J
+   7,L,J
+  10,R,D,X
 
 #lvl_a2
-  14,R,D,X
+   4,R,D,X
    1,R,J
    4,R
   15,R,D,X
@@ -232,7 +232,7 @@ EndStunPause
    6,L,K
    1,L,J,G
 Repeat 4
-   1,L,J
+   1,J
    1,R,J
 EndRepeat
    1,L,J
@@ -240,31 +240,47 @@ EndRepeat
    1,K
   25,L,K
    2,L
-   4,Z
+   9,R,D,X
+   1,L,J
+   1
+   1,L,J
+   1,L
+   1,L
+   1
+   1
+   1,L
+   1,L
+  10,R,Z
    1,L,J
    6,L
    7,L,J
   15,L,D,X
-   1,L,J
 
 #lvl_a4
-  14,L,D,X
-   1,N
- 112,L,U
-  20,X
-  10,L,Z
-   4,N
-   3,L,J
+   6,L,J
+   9,L,D,X
 StunPause
-   9,L,J
-EndStunPause
-   2,L,J
-   2,L
+   6,L
+   4,L,D,J
+   6,L
    1,L,J
+EndStunPause
+   3,L,J
   18,L,Z
-  15,U,X
-  15,L,U,C
-  37,L,D
+   1,L
+  20,D,X
+  15,L,C
+   9,L,D
+   1
+   6,L,X
+   9
+  16,L,D,X
+   5
+   9,L,X
+   6
+  11,U,Z
+  18,J
+  18
    5,L,Z
    1,L,J
    7,L
@@ -294,13 +310,14 @@ EndRepeat
    1
    6,L
 #cycle
-  15,D,X
+   9,D
   11,L,Z
-   5,L,J
-   2,L
+   4,L,J
+   1,L
+   2,L,J
    1,L,J
+   1,L
    6,L
-   1,L,J
 
 
 #lvl_a5
@@ -329,19 +346,33 @@ skipinput 3 1
 EndStunPause
    3
    7,R,U,Z
-  12,R,J,G
-  12,J
-  72,O
-   2,L,J
-   8,J
-   2,L,J
+
+   5,R,J,G
+  17,R
+   1,S
+   1,D,J
+  34
+  15,D,X
+   1,L
+   2,D
+   1,D,J
+   7,R,J
+   1,R
+   3
+   1,L,K,G
+Repeat 7
+   1,R,K
+   1,L,K
+EndRepeat
+   1,R
+   1,L
+   1,R
+   1,L
+  16,R,J
   15,U,X
-   2,R
-  18,R,J
-  12,K,G
-  11,J,G
-   1
-   9,K,G
+   5,R
+  20,R,K
+   1,J,G
    7,R
    8,R,J
    9,R,Z
@@ -356,7 +387,7 @@ EndStunPause
    2,R,J
   32,R
 #cycle
-   7
+  24
    5,R
    1,R,J
    6,R
@@ -378,9 +409,9 @@ EndStunPause
   14,U,X
   25,R,J
   10,L
-  13,R,G
+  14,R,G
    2,R,U,G
-  11,J
+  10,J
   15,L,Z
   16,L,D,X
   15,D,C
@@ -408,7 +439,8 @@ EndRepeat
   16,R,J
   12,R,K,G
   10,R,J,G
-   8,K,G
+   7,K,G
+   2
   15,R,Z
   20
   14,U,X
@@ -427,7 +459,7 @@ EndRepeat
    1,R,J,G
    7,R
 #cycle
-  13,D
+  12,D
    4,R,Z
    1,R,J
    7,R
@@ -721,4 +753,4 @@ EndRepeat
    5,X
  135,R,X
 
-ChapterTime: 1:38.226(5778)
+ChapterTime: 1:38.073(5769)
