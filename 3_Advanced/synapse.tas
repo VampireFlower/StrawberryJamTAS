@@ -1,4 +1,4 @@
-RecordCount: 10326
+RecordCount: 10461
 
 console load StrawberryJam2021/3-Advanced/MousseMoose
    1
@@ -8,12 +8,10 @@ console load StrawberryJam2021/3-Advanced/MousseMoose
 
 #lvl_intro_fall
    5,F,91
+Repeat 3
    1,R,J
    1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
+EndRepeat
    3,R,J
    1,R,K,G
    6,R,D,X
@@ -75,16 +73,10 @@ console load StrawberryJam2021/3-Advanced/MousseMoose
   15,U,X
    5,L
    1,R,J,G
+Repeat 5
    1,L,J
    1,J
-   1,L,J
-   1,J
-   1,L,J
-   1,J
-   1,L,J
-   1,J
-   1,L,J
-   1,J
+EndRepeat
    7,R
    2,R,J
   13,J
@@ -188,7 +180,7 @@ Repeat 1
   14,D,X
    1
 EndRepeat
-  13
+  12
    4,R,Z
    1,R,J
    4
@@ -198,9 +190,9 @@ EndRepeat
   12,R,D,X
 
 #lvl_a3
-   3,L,J
+   1,L,J
 StunPause
-   4,L,J
+   6,L,J
 skipinput 3 1
   12,U,X
 EndStunPause
@@ -296,7 +288,7 @@ EndRepeat
    1
    6,L
 #spinner
-   2,D
+#   2,D
   11,L,Z
    5,L,J
    2,L
@@ -319,9 +311,9 @@ EndRepeat
   15,R
   11,R,X
    2,R,J,G
-   7,R
+   6,R
 StunPause
-   3,R
+   4,R
 skipinput 3 1
    8,L,D,X
    1,R,J
@@ -330,33 +322,17 @@ skipinput 3 1
 EndStunPause
    3
    7,R,U,Z
-   5,R,J,G
-  17,R
-   1,S
-   1,D,J
-  34
-  15,D,X
-  15,D,C
-   1,L
-   2,D
-   1,D,J
-   7,R,J
-   1,R
-   3
-   1,L,K,G
-Repeat 7
-   1,R,K
-   1,L,K
-EndRepeat
-   1,R
-   1,L
-   1,R
-   1,L
-  16,R,J
+  12,R,J,G
+  12,J
+  72,O
+  10,J
+   4,L,J
   15,U,X
-   5,R
-  20,R,K
-   1,J,G
+   3,L
+  18,R,J
+  12,K,G
+  12,J,G
+   6,K,G
    7,R
    8,R,J
    9,R,Z
@@ -371,49 +347,42 @@ EndRepeat
    2,R,J
   32,R
 #cycle
-  25
    5,R
    1,R,J
    6,R
   15,U,Z
-   2,R
-   7,J
-  11,R
+   1,R
+   7,R,J
+  12
    4,L,X
    8,L,J
    7,L,K,G
    9,L
   15,L,U,X
    4,L
-  13
-  15,D,X
+  12
+   1,R
+  15,D,C
    2
   17,J
   18,R,J
   14,U,X
   25,R,J
-  10,L
-# toggle between 2
-# different versions
-# here and later in room
-#############
-  14,R,G
-   2,R,U,G
+   9,L
+
+  10,R,G
+   1,R,U,G
   10,J
-#------------
-#  13,R,G
-#   2,R,U,G
-#  11,J
-#############
+
   15,L,Z
-  16,L,D,X
+  15,L,D,X
   15,D,C
-   9
+  11
   39,J
   15,U,X
-   2,L
-   2,R
-  20,G
+   4,L
+   4,R
+  16,G
    4,R,J
   11,R
   15,D,X
@@ -424,27 +393,22 @@ EndRepeat
   15,J
   16,U,X
   51,J
-Repeat 5
+Repeat 4
   14,D,X
    1
 EndRepeat
-   3,R
+  12
   16,R,J
-  12,R,K,G
-  10,R,J,G
-#############
-   7,K,G
-   2
-#------------
-#   8,K,G
-#############
+  12,K,G
+  12,J,G
+  11,K,G
   15,R,Z
   20
   14,U,X
   15,L,J
   15,L,U,X
   18,L
-   6
+  10
   10,L,X
   15,R,J
   21,R,K,G
@@ -456,11 +420,7 @@ EndRepeat
    1,R,J,G
    7,R
 #cycle
-#############
-  12,D
-#------------
-#  13,D
-#############
+  10,D
    4,R,Z
    1,R,J
    7,R
@@ -754,4 +714,4 @@ EndRepeat
    5,X
  135,R,X
 
-ChapterTime: 1:36.968(5704)
+ChapterTime: 1:36.832(5696)
