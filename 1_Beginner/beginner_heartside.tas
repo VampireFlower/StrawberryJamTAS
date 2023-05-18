@@ -1,4 +1,4 @@
-RecordCount: 11303
+RecordCount: 11304
 
 console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    1
@@ -908,7 +908,7 @@ EndRepeat
    2,J
   10,R,J
 # spinner cycle (0-2)
-   2
+   1
 # -------------
    1,K
    1,R,J,G
