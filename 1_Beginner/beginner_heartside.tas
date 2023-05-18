@@ -1,4 +1,4 @@
-RecordCount: 11910
+RecordCount: 12076
 
 console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    1
@@ -1583,54 +1583,55 @@ EndStunPause
    1,R,J
    7,R,D,X
    1,R,J
-   7,R
+   6,R
    1,R,K
-   1,R
+   2,R
    2,R,J
    5,R,D,X
    3,R,J,G
-  13,R
+   5,R
+   1,R,K
+   7,R
   40
 
 #lvl_cp6_checkpoint
    1,R,J
   13,R
    1,R,J
-   8,R
+   7,R
    1,R,K
+   3,R
+   5,R,J
    2,R
-   6,R,J
-   1,R
   20,R,D,X
    1,R,J
   14,R
-  10,R,J
-  15,R,D,X
-   3,R,D
-   1,R,J
-   2,R
-   7,R,D,X
+   7,R,J
+   4,R
+  16,R,D,X
+   3,R,J
+   8,R,D,X
    1,R,J
    6,R
+   1,R,K
    1,R,J
   14,R
-   6,R,J
-   7,R
-   7,R,J
-   1,R,D
+   8,R,J
+  11,R
   40
 
 #lvl_cp6_03_heartside_awheyaway
-  19,R,D
-  13,L,D
-   1,L,J
-   7,L,D
-   7,D
-   6,R,D,X
-   1,R,J,G
-  14,R
-   4,R,J
-  16,R
+   1,R
+   1,R,J
+  17,R,D
+  14,L,D
+  10,L
+   3
+   5,R,D,X
+   1,R,J
+  15,R
+   3,R,J
+  15,R
   13,D,X
   12,R
   34,L,D
@@ -1998,4 +1999,4 @@ Repeat 33
 EndRepeat
    1
 
-ChapterTime: 4:30.453(15909)
+ChapterTime: 4:30.385(15905)
