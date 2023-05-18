@@ -1,4 +1,4 @@
-RecordCount: 15163
+RecordCount: 15479
 
 console load StrawberryJam2021/5-Grandmaster/Dav
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/5-Grandmaster/Dav
  190
 
 ### spinner cycle [chill-0 (0)]
-   0
+   1
 ###
 
 #lvl_a-intro (0)
@@ -154,28 +154,29 @@ EndRepeat
    1,R,J
    6,R,D,X
    1,R,J,G
-  12,R
-   4,R,J
-   9,R,D,X
-   3,R,J,G
-   7,R
+   1,R
+   1
+  10,R
    2,R,J
-   4,R
+   3,R
+   8,R,D,X
+   1,R,J,G
+   5,R
    1,R,J
-   1,L,J
-  18,R,J
+   7,R
+  21,R,J
   18,R,D,X
    8,R,U,Z
    9,R,J,G
    5,R
   10,R,J
   17,R,D,X
-   1,R
+   1
    1,R,D,J
   19,R,J
    2,R,K,G
-   1,R
-   5,L
+   2,R
+   4,L
   11,U,X
    5,L,J
   15,L,U,X
@@ -368,40 +369,40 @@ EndRepeat
    1,R,J
    1,R,K,G
    1,R,J,G
-stunpause
+StunPause
    1,R,K,G
    1,R,J,G
    6,R
    1
    7,R,D,J
-endstunpause
+EndStunPause
    1,R
-stunpause
+StunPause
    6,R
    3
    1,R
    2,J,G
    2,J
    2,R,J
-endstunpause
+EndStunPause
    7,R
   10,R,U,Z
-stunpause
+StunPause
 skipinput,3,2
    7,R,U,Z
    2,R,J,G
    4,R,K,G
-endstunpause
+EndStunPause
    6,R,K
-stunpause
+StunPause
    8,R,K
-endstunpause
+EndStunPause
    5,R,J
    8,R
-stunpause
+StunPause
 skipinput,3,1
   13,R,U,Z
-endstunpause
+EndStunPause
    2
    1,L,K,G
   12,L,J,G
@@ -834,11 +835,11 @@ EndRepeat
    4,L
    4,L,J
   14,L,D,X
-stunpause
+StunPause
    2,L,D
    1,L,D,J
    9,L,D
-endstunpause
+EndStunPause
   12,L,D
    1,L
    1,L,D
@@ -846,20 +847,20 @@ endstunpause
    5,L,U,X
    1,R,J,G
    2,L
-stunpause
+StunPause
    5,L
    1,L,J
-endstunpause
+EndStunPause
   13,L
    5,L,U,Z
-stunpause
+StunPause
 #dropping the cb here
 #saves 1f lol
    7,L,U,Z
    1,L,J,G
    1
    1,L,J,G
-endstunpause
+EndStunPause
   42,L,J
    1,K,G
    1,R,K
@@ -869,7 +870,7 @@ endstunpause
    1,L,J
    7,L
 ###spinner cycle
-   2
+   1
 ###
   14,L,Z
    1,R,J
@@ -879,15 +880,16 @@ endstunpause
    1,L,J,G
   12,L
    5,L,J
-   6,L,D,X
-   5,L,J,G
+   1,L
+   5,L,D,X
+   1,L,J,G
+   2,L
    1,L,K,G
   12,L
    1,L,J
    1,L
   15,L,D,X
-   1,R
-   4,L
+   5,L
    9,L,D
    2,L,J
    8,L,U,X
@@ -980,62 +982,67 @@ EndStunPause
    5,L
    2
    2,L
-  16
+  13
+# Spinner cycle, might need to be
+# adjust because of the moving block!
+   1
    1,J
+   3
    5,L
-   3
-   2,J
-   3
-   2,L
+   2,L,J
+   5
   10,R,Z
    1,L,J
    6,L
    1,L,J
   15,L,D,X
-   2,L,D
+   4,L,D
 StunPause
-  14,L,D
+  10,L,D
+   2,L
 EndStunPause
-   2,L,D
-   6,L
+   9,L
    1,L,D
-   1,L
   11,L,J
    5,L
    3,L,J
   28,L
-   2,R,D
-   5,L,D
-   1,L
-   2,L,D
-   4,R,D
-  17,L,Z
+  12,L,D
+   1,D
+   1,L,D
+  15,L,Z
    1,R,Z
    4,K,G
-  33,L,K
-   6,L,J,G
+  32,L,K
+   3,L,J,G
+   1
+   1,L,J,G
    3,R,J
-   3,L,J
-   1,K,G
-   1,L,J,G
-   7,L
+   2,L,J
+   1,L
+   2,L,K,G
+   5,L
+   2
+## Spinner cycle
+   1
+##
    4,L,Z
-   1,L,J
-   1,L
-   4,L,K,G
-   1,L
+   2,L,J
+   3,L,K,G
+   2
    1,L,J,G
-   9,L
+   1,L
+   1
+   7,L
   16,L,J
   15,U,X
    5,L
   38,L,J
   15,U,X
-  22,L
+  23,L
    4
-   1,L
-   4,D
-   4,R,D
+   6,D
+   2,R,D
    1,L
    2,L,D
    1,L
@@ -1059,24 +1066,26 @@ Repeat 17
 EndRepeat
 
 #lvl_a-intro (1)
-  53,D
-  24,L,D
-   8,L,D,X
+  49,D
+  28,L,D
+   6,L,D,X
+   1,R,J
 Repeat 5
-   1,R,J
    1,R,K
-EndRepeat
    1,R,J
-   8,R,K,G
+EndRepeat
+   2,R,K,G
+   1,K
+   5,R,K
   15,R,D,X
-  10,R,D
-  15,R
+  11,R,D
+  13,R
    4,R,J
   15,R,D,X
   15,R,D
    4,R
- 120,R,D
-  58,D
+ 118,R,D
+  60,D
    3,R,D
   15,R,Z
  200,L,D
@@ -1106,7 +1115,8 @@ EndRepeat
    1,L,J,G
    6,L
    1,L,J
-   2,L
+   1,L
+   1,L
   12,L,J
    1,R,J
   17,L,J
@@ -1118,4 +1128,4 @@ EndRepeat
   15,L,U,X
  133
 
-ChapterTime: 3:09.057(11121)
+ChapterTime: 3:08.683(11099)
