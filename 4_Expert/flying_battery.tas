@@ -1,4 +1,4 @@
-RecordCount: 3956
+RecordCount: 4178
 
 console load StrawberryJam2021/4-Expert/alicequasar
    1
@@ -7,41 +7,64 @@ console load StrawberryJam2021/4-Expert/alicequasar
   84
 
 #lvl_a-01
-  14,L,Z
+  14,L,D,X
    1,R,J
    7,R,D,X
   13,R,G
    1,R,J,G
    7,R,G
    1,R
-   8,R,U,X
-  21,R,G
-   1,L
-  20,R,D
-  13,R,G
-   6,R,J,G
+  10,R,U,X
+  44,R,D,G
+  11,R,J,G
   15,R,U,Z
    1,J,G
   25,L,J,G
    1,K,G
-   4,R,K,G
-   3,R,G
+   5,R,K,G
+   2,R,G
    1,L
   10,D
    1,R,D
    2,D
   15,R,D
-   5,D
+   6,D
    5,R,X
    1,R,J,G
-  14,R
+  15,R
    1,R,D,J
-   5,R
+   4,R
   11,R,X
   26,R,J,G
   10,R,D
   14,R,Z
    1,R,J
+#cool strat that would frametie
+#cant get it to work
+#  10,R,D,X
+#  13,R,G
+#   5,R,G
+#   3,R,J,G
+#   1,D,J
+#   3,R,J
+#  12,L,Z
+#   1,G
+#  13,R,X
+#  18,U,C
+#  10,R,G
+#   1,G
+#   1,L
+#   1,R
+#  20,R,D,X
+#   7,R
+#   6,L,D,X
+#   1,R,J
+#   3,R
+#   1,R,J
+#   3,R
+#   1,R,J
+#  50,R,D,X
+##
    7,R,D,X
   13,R,G
    6,R,J,G
@@ -96,9 +119,7 @@ console load StrawberryJam2021/4-Expert/alicequasar
    4,R
    2,R,D
    4,D
-   1,R,D
-   1,R,D
-   1,R,D
+   3,R,D
   25,R,X
   13,U,Z
    2,J
@@ -138,15 +159,15 @@ console load StrawberryJam2021/4-Expert/alicequasar
    3,R
    1,R,J
    3,R
-  23,R,J
-  10,U,Z
-  16,R,J
-  22,R,J,G
+  24,R,J
+  12,U,X
+  13,R,J
+  21,R,J,G
    1,R,D
-   9,U,X
+   8,U,X
   21,R,G
    1,L
-   8,R,Z
+   9,R,Z
   15,R,C
    1
    8,U,X
@@ -328,6 +349,17 @@ console load StrawberryJam2021/4-Expert/alicequasar
    1,L
   17,R
    7
+#uncrouch earlier?
+#   2,K,G
+#   5
+#   1,J
+#   5,L
+#   7,R,Z
+#   7,R,J,G
+#   3,J
+#   2,R
+#   5
+##
    1,K,G
    6
    1,J
@@ -413,6 +445,7 @@ console load StrawberryJam2021/4-Expert/alicequasar
   14,R,C
   30,R,G
    1
+#4f bhop?
   15,D,X
    9,L
   14,R,Z
@@ -464,4 +497,4 @@ console load StrawberryJam2021/4-Expert/alicequasar
   14,R,U,X
  135
 
-ChapterTime: 0:57.596(3388)
+ChapterTime: 0:57.528(3384)
