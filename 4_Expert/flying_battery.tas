@@ -1,4 +1,4 @@
-RecordCount: 4178
+RecordCount: 4252
 
 console load StrawberryJam2021/4-Expert/alicequasar
    1
@@ -9,31 +9,29 @@ console load StrawberryJam2021/4-Expert/alicequasar
 #lvl_a-01
   14,L,D,X
    1,R,J
-   7,R,D,X
+  10,R,D,X
   13,R,G
-   1,R,J,G
-   7,R,G
+   9,R,J,G
    1,R
-  10,R,U,X
-  44,R,D,G
-  11,R,J,G
+  11,R,U,X
+  46,R,J,G
   15,R,U,Z
    1,J,G
   25,L,J,G
    1,K,G
-   5,R,K,G
-   2,R,G
+   4,R,K,G
+   3,R,G
    1,L
   10,D
    1,R,D
    2,D
   15,R,D
-   6,D
+   5,D
    5,R,X
    1,R,J,G
-  15,R
+  14,R
    1,R,D,J
-   4,R
+   5,R
   11,R,X
   26,R,J,G
   10,R,D
@@ -497,4 +495,4 @@ console load StrawberryJam2021/4-Expert/alicequasar
   14,R,U,X
  135
 
-ChapterTime: 0:57.528(3384)
+ChapterTime: 0:57.443(3379)
