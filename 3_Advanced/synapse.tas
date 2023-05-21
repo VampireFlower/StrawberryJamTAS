@@ -1,4 +1,4 @@
-RecordCount: 12041
+RecordCount: 12109
 
 console load StrawberryJam2021/3-Advanced/MousseMoose
    1
@@ -387,6 +387,7 @@ EndStunPause
    1,L,K,G
    1,R
    6,L
+#0:45.781(2693)
    6,L,Z
    1,L,J
    6
@@ -414,8 +415,7 @@ EndRepeat
    4,R
    5,R,J
    6,R,K,G
-   5,R
-   1,R
+   6,R
    1,R,J
   15,U,X
    1
@@ -447,6 +447,7 @@ EndRepeat
    1
    1,L
    1
+
    5,L,J
    1,J
    1,J
@@ -579,10 +580,7 @@ EndRepeat
   15,R,D,X
   14,R
   14,R,D,J
-  11,R,D,X
-
-#lvl_c1
-   9,R,D
+  20,R,D,X
    1,R,J
   12,R,D,X
    1,L,J
@@ -602,7 +600,8 @@ EndRepeat
    1,K
    1,R,K
    1,K
-   2
+   1
+   1
   16,U,X
    7,J
    1,R,K,G
@@ -629,16 +628,25 @@ EndRepeat
    1,R,J
    4,R
    1,R,J
-  37,D
+   4,R
+   9,D
+   2,R,D
+   3,D
    1,R,D
-#cycle
-  18
+   1,D
+   3
+  15,D,X
+   1,D
+   6,L,D
+   2,R,D
    4,R,Z
+   2,R,J
+   8,R
    1,R,J
-   7,R
-  13,R,J
+  10,R,X
+  13,J
    3,K
-  34,R,Z
+  33,R,Z
   28,R,V
   15,R,D,X
 Repeat 2
@@ -646,22 +654,21 @@ Repeat 2
    1
 EndRepeat
   14,R,Z
-   1,R,J
-   6,R
-   1,R,J
-  14,R,D
+   2,R,J
+   2,R
+  18,R,D
    3,R,D
-   9,D
-   8
+  11,D
+   6
   18,L,D,X
    2,L,D
    1,R,D
    5,J,G
-  18,L,J
-  14,L
+  16,L,J
+  16,L
   15,L,U,X
    7,L
-   5
+   4
   14,L,D,X
    1,L,J
    9,L,D,X
@@ -701,7 +708,7 @@ EndRepeat
   25,D
   15,L,X
   21,R,D
-   3,D
+   2,D
 Repeat 3
   14,D,X
    1
@@ -750,10 +757,11 @@ EndRepeat
   15,R,D,X
    2,J
    3,R
-  30,R,J
+  18,R,J
+  11,R
   30,U,X
-  16,K
-   5,L,K
+  18
+   3,L,D
   12,R,D,X
    1,R,J
    1,R
@@ -780,4 +788,4 @@ EndRepeat
    5,X
  135,R,X
 
-ChapterTime: 1:34.435(5555)
+ChapterTime: 1:34.282(5546)
