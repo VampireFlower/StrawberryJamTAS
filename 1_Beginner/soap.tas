@@ -1,4 +1,4 @@
-RecordCount: 3489
+RecordCount: 3753
 
 console load StrawberryJam2021/1-Beginner/Circumplex
    1
@@ -192,10 +192,11 @@ console load StrawberryJam2021/1-Beginner/Circumplex
    4,L,J
    9,U,X
    1,J
-  12,R,J
-   4,R
-   1,R,K,G
-   8,R
+  11,R,J
+   5,R
+   1,K,G
+   7,R
+   1,R,J
    6,R,Z
    1,R,J
    7,R
@@ -278,15 +279,16 @@ EndStunPause
    3,L,D
   14,R,D
    1,L,D
-  15,D
-   3,R,D
-  28,R
+   6,D
+   2,L,D
+   5,D
+   4,R,D
+  29,R
   14,R,Z
    1,L,J,G
-   7,R,J
+   3,R,J
    5,R
-   4,R,J
-  14,R
+  21,R,J
   15,U,X
   17,R
   11,D,X
@@ -323,16 +325,18 @@ EndStunPause
    1,R,K,G
    1,R,J,G
    5,R
+   2,R,J
+   1,R
    1,R,J
-   8,R
+   6,R
   10,R,J
    5,R
    4,R,J
-  37,R
+  33,R
   22,L,J
    1,R,J
-   4,L,J
-   9,L,K,G
+   7,L,J
+   7,L,K,G
    6,L,J,G
   14,U,X
   18,U,C
@@ -403,98 +407,83 @@ endStunPause
   12,R,J,G
   14,R,U,X
    1,L,K,G
-  18,R,K
-  46,R,D
-  15,L,K
-  44,R,D
-  11
-  17
-  15,R,X
-  30
-  22,R
-  15,R,X
-  15,L,C
-  44,D
-  10
-  15,R,X
-  17,R,D
-  24
-  16
-   4,R
-  12,U,X
-  28,R,J
-  15
-   7,R
-  39,R
-   1,R,J
-  40,D
-   3,L,D
-   6,D
-   5,R
-  15,U,X
-  10
-  15,R,U,X
-  11,R
-  19,R
-  15,R,X
+  36,R,K
   25,R
-  16
+   2
+  14,L,J
+  44,R,D
+  12
+  10
+  15,R,X
+  18,L
+  10,R
+   3
+  38,R
+  15,L,X
+  23,R,D
+  17,D
+   2
+  13,R,X
+  17,R
+  14,R,U,Z
+  11,U,X
+  28,R
+  25,R,J
+  15,R
+   1,K
+   9,R
+  30,D
+   9,R,D
+  19,R,U,X
+  13,R
+  20,R,X
+  24,R
   15,R,X
   19,D
   15
-  16
-  15,L,X
-  18,D
-  16
-  25,D,X
-  13
-   5,L
-  43,R
-   7,R,D
+  23,L,D,X
+  14,D
+  10,L,D
+  15,R,U,X
+  31,R,D
   16,D
+  47,L
+  47,G
+   2,D,G
    1
-  46,L
-  26,L,G
-   1,D,G
-   1,G
-   1,D,G
-   1,G
-   1,D,G
-  18,G
-   1,L,J,G
-   1,L,K,G
-   2,L,J,G
-   7,R,Z
-   1,J,G
-   6
-   1,R
-   1,R,J
-   1,R
-   1,D,J
-   2,R
-   5,R,D,X
-   1,R,J,G
-   1,R
-   6,R,J
+   1,J
+   1,K,G
+   5
+   1,R,K,G
+  10,R,D
+   1,R,D,J
    6,R
-  19,R,J
-   2,R
-   6
-   6,R,U,Z
+   5,R,U,Z
+   1,L,J,G
+   5,R
+   1,R,J
+  23,R,D
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   2,R,K
+  20,R,K,G
+   2
   40
 
 #lvl_heart
-   7,R
+   1
+  13,R,U,Z
    1,L
    1,J,G
-   1,R,J
-   5,R
-   2,R,J
-  16,R,D
+   5,R,J
+  24,R,D
   44,R,U,Z
    1,L
    1,K,G
   10
   83,R
 
-ChapterTime: 1:24.881(4993)
+ChapterTime: 1:22.144(4832)
