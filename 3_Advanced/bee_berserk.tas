@@ -1,4 +1,4 @@
-RecordCount: 8185
+RecordCount: 8195
 
 console load StrawberryJam2021/3-Advanced/TiltTheStars
    1
@@ -545,15 +545,13 @@ EndRepeat
    5,R,D,X
   14,R,D,C
   23,R,J
-  17,R
-   3,R
+  20,R
   15,R,Z
   19,L,D
   14,D
    7,L,D
    5,D
-   1,L,D
-   3,L,D
+   4,L,D
   33,G
    5,U,G
    1
@@ -791,25 +789,22 @@ EndRepeat
    1,R,D
    1,L,D
    2,D
-   1
-   2,D
-   1,L
-   4
+   1,R
+   2,R,D
+   5
   15,R,U,C
   18,U,X
-   1,L
-  16,L,U,C
+   1,R
+  15,L,U,C
+   1
    5,L,X
   40,R
 
-
 #lvl_mini_heart_room
-  22,R,D
-   4,R,X
+  21,R,D
+   4,X
   41,L,D,X
   19,L
   75,N
 
-
-
-ChapterTime: 2:07.840(7520)
+ChapterTime: 2:07.823(7519)
