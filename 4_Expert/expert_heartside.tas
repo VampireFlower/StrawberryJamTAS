@@ -1,4 +1,4 @@
-RecordCount: 22740
+RecordCount: 23016
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -729,7 +729,7 @@ EndRepeat
    1,R,J
   22,R,D,X
    1,R,J
-   1
+   1,R
   14,R,D,X
    1,R,J
   14,R,D,X
@@ -746,7 +746,6 @@ EndRepeat
    1,R,J
    7,R
    4,R,J
-   0,R
   15,R,U,X
   55,R
   18,R,D,X
@@ -1528,30 +1527,27 @@ AnalogMode Ignore
 #lvl_c05_kaerra
    8,R,U,Z
    1,J
-  21,R,J
-   3,R
-   1,L,J,G
+  25,R,J
+   8
    2,R
-  15,L
-   5,J,G
-   1,L,J
-   2,J
-   6,L,J
-   1,L,K,G
+  12,L,U,X
    1,L,J,G
-  12,L
-  10
-  16,R
-  10,L,Z
-   1,R,J
-  10,R
-  14,R,D,X
+   1,K,G
+   9,L,K
+   1,R,K
+  11,K
+   6,R
+   1
+   5,R
+   3
+  15,R,Z
+   2
+  10,R,D,X
    1,R,J
   29,R
    2
   15,R,D,X
-   1,R,D
-   1,D
+   2,D
    4,R,Z
    5,R,J
    1,R
@@ -1568,25 +1564,17 @@ Repeat 3
    1,L,D
 EndRepeat
    7,L,D
-   1,D
-   2,L,D
-   1,D
+  10,D
    1,L,D
-   1,D
+  13,L
+   3
+   4,D
    1,L,D
-   8,D
-   1,R,D
-   2,L,D
-   2,D
-   8,L,D
-   8,R,D
-   1,D
+   1
    7,R,Z
    1,R,J
-  33,R,D
-   6,R
+  39,R
   26,L
-# Can fastfall sooner with better subpx
   21,L,D
   10,D
   40
@@ -1600,7 +1588,7 @@ EndRepeat
    1
    4,D
 ## Lightning cycle [d02_lethargicdoggo]
-   1,D
+   0,D
 ##
   36,R,Z
 
@@ -3443,4 +3431,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 8:07.866(28698)
+ChapterTime: 8:07.407(28671)
