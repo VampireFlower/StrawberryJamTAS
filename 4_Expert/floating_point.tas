@@ -1,4 +1,4 @@
-RecordCount: 2638
+RecordCount: 2728
 
 console load StrawberryJam2021/4-Expert/KAERRA
    1
@@ -206,11 +206,15 @@ console load StrawberryJam2021/4-Expert/KAERRA
   11,R
    5,R,J
    2,R
-   8,D
+   8
    3,R
    1
-  27,R,D
-  12,R,D,X
+   4,R
+   1,R,D
+   1,R
+   1,R,D
+  18,R
+  13,R,D,X
   16,R,J
   15,U,Z
    1,R
@@ -221,12 +225,12 @@ console load StrawberryJam2021/4-Expert/KAERRA
    1,L,K,G
    7,L
   10,L,D,X
-   6,R,J
-  32,R
-  15,D,X
-  10,L,D,C
-   5,R,J
-  11,R
+  27,R,J
+  18,R,D,X
+   3,R,D
+  11,L,D,C
+   3,R,J
+  10,R
   22,D,X
   11,L,Z
    1,R,J
@@ -315,11 +319,11 @@ console load StrawberryJam2021/4-Expert/KAERRA
   10,R
   14,R,X
   11,L,J
-  10,L,D
-  32,D
-   7,L,D
+  12,L,D
+  25,D
+  14
   15,D,X
-  13,D
+   9
   15,L,C
   14,L,X
   18,D,C
@@ -496,4 +500,4 @@ console load StrawberryJam2021/4-Expert/KAERRA
    1,N
   82
 
-ChapterTime: 1:08.357(4021)
+ChapterTime: 1:08.136(4008)
