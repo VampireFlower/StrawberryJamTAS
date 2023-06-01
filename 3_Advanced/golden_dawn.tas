@@ -1,4 +1,4 @@
-RecordCount: 2890
+RecordCount: 3008
 
 console load StrawberryJam2021/3-Advanced/Maladroit
    1
@@ -359,22 +359,24 @@ EndStunPause
    4,J
    5,L,J
    7,L
-   5,L,J
-  14,U,X
-   1
-   6,R,U,X
+   3,L,J
+   2,J
+  15,U,X
+   6,R,U,C
    4,L
-   7,R
+   7
   15,U,X
-  18,J
+  12,J
+   8,R
+   2,R,J
+   1,R
+  15,U,X
    1
-   7,R
-   9,R,J
-   4,R
-  10,J
-  15,U,X
-   7,L
-   3
+   8,L
+   1,J,G
+   1,K
+  18,L,K
+   1
   14,R,U,X
    4,R,J,G
    4,R,K,G
@@ -392,4 +394,4 @@ EndStunPause
    5,U,X
  134
 
-ChapterTime: 1:13.729(4337)
+ChapterTime: 1:13.627(4331)
