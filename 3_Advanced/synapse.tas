@@ -1,4 +1,4 @@
-RecordCount: 12184
+RecordCount: 12256
 
 console load StrawberryJam2021/3-Advanced/MousseMoose
    1
@@ -175,38 +175,47 @@ EndRepeat
   15,U,C
   15,R,X
    6,R
-Repeat 2
-  14,D,X
    1
-EndRepeat
-   1
-   4,R,Z
+   6,R,Z
    1,R,J
-   4
-   1,R,K
-   2,R
-   3,R,D,J
-  12,R,D,X
+   7,R
+   1,R,J
+   8,R,D,X
+   5,L,J
+   6,L
+   1,L
+   3,L
 
 #lvl_a3
-   3,L,J
-StunPause
    4,L,J
+StunPause
+   3,L,J
+   4,L
 skipinput 3 1
-  12,U,X
+   9,U,X
 EndStunPause
-  16,R
-   5,J,G
-   8,G
-   1,J
+   1
+   2,J
+   1,R,J
+   3,J
+   1,R,J
+   4,J
+   1,R,J
+   3
+   8,R
    2
-   1,J,G
-   7,R
-  10,R,D,X
-   1,L,J
-  11
+   2,R
+   2
+  10,L,D,X
+   2,L,J
+   5,L
+   7,L,J
    1,L
-  15,U,Z
+   1
+  16,U,Z
+# we intentionally lose
+# 1f getting here for a4
+# spinner cycle
    1,L
   14,L,J
    8,L
@@ -255,17 +264,19 @@ EndStunPause
   18,L,Z
   15,U,X
   15,L,U,C
-  32,L,D
-   5,L
-   9,L,Z
+  31,L,D
+   6,L
+   6,L,Z
    1,L,J
    6,L
-   7,L,D,J
+   9,L,D,J
    8,L
    1,G
    1
    1,G
-   6,J,G
+   1,J,G
+   1
+   1,J,G
    1
    1,J,G
    1,R,J
@@ -278,18 +289,22 @@ EndStunPause
    4,R
    4
    1,L,J,G
+Repeat 3
    1,R,J
    1,J
-   2,R,J
-   2,L,J
+EndRepeat
    3,R,J
+   1,L,J
    1,L
-  12,K,G
+  11,K,G
    1
    6,L
 #cycle
-  15,D,X
-   3
+Repeat 3
+  14,D,X
+   1
+EndRepeat
+   1
   11,L,Z
    5,L,J
    2,L
@@ -324,7 +339,7 @@ EndStunPause
    3
    7,R,U,Z
   12,R,J,G
-  12,J,N
+  12,J
   72,O
   10,J
    4,L,J
