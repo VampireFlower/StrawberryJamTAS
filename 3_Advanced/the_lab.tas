@@ -1,4 +1,4 @@
-RecordCount: 5266
+RecordCount: 5319
 
 console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1
@@ -113,7 +113,8 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1,R,J,G
    7,R
   10,R,X
-  17,J
+  11,J
+   5,R,J
   14,R,U,X
    1,R,J,G
    9,R,D
@@ -126,9 +127,10 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1
   14,L,U,C
    1,J,G
-  14,R
+   9,R
+   4,R,J
   15,D,X
-   5,R,D
+   6,R,D
   15,D,X
   12,U,C
   27,L,U,X
@@ -139,8 +141,7 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1,J
    4
   12,J,G
-   3,L,J
-   4,L
+   7,L
    6,L,Z
    1,L,J
    7,L
@@ -199,27 +200,6 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
   15,R,U,X
    4,R
    1,R,J,G
-#   9,R
-#  17,L,D
-#   2,L
-#   2
-#   1,L
-#  11,R,D
-#   1,J
-#   6,L,J
-#  20,L
-#   9,J,G
-#   4,L,J
-#   3,L,K,G
-#  15,L
-#  38,L,J
-#   1,J
-#   2,L,K,G
-#  11,K
-#  16,U,X
-#   6,L,J,G
-#   7,L
-#  50
   12,R
    1
    5,R
@@ -294,16 +274,10 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
   23,R
    3,R,D
   14,R,Z
-#old strat
-#  21,R,J,G
-#  14,R,D,X
-#  11,R,J
-#  15,R
-#  14,R,U,X
-#   3,R,J,G
-   4,R,J,G
-  16,R
-  14,R,Z
+   2,R,J,G
+  14,R,K,G
+   4,R
+  14,R,D,X
   12,R,J
   15,R
   14,R,U,X
@@ -762,4 +736,4 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1,R,K,G
   37,R
 
-ChapterTime: 1:32.191(5423)
+ChapterTime: 1:32.174(5422)
