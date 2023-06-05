@@ -1,4 +1,4 @@
-RecordCount: 18033
+RecordCount: 18276
 
 console load StrawberryJam2021/5-Grandmaster/Dav
    1
@@ -364,34 +364,35 @@ EndRepeat
    3,R
    8,L
    9,L,D
-   4,R
+   2,R
+   2,R,D
    4,R,Z
    1,R,J
    1,R,K,G
    1,R,J,G
-StunPause
    1,R,K,G
    1,R,J,G
-   6,R
-   1
-   7,R,D,J
-EndStunPause
-   1,R
+   7,R
+   1,R,D
 StunPause
-   6,R
-   3
-   1,R
-   2,J,G
-   2,J
+   3,D
    2,R,J
+   4,J
+   1,R,J
+   5,R
+   2,R,K
+   2,K
+   1,R,J,G
+   4,J
+   1,R,J
 EndStunPause
    7,R
-  10,R,U,Z
+   8,R,U,Z
 StunPause
-skipinput,3,2
-   7,R,U,Z
-   2,R,J,G
-   4,R,K,G
+   4,R,U,Z
+SkipInput 3
+   5,R,U,Z
+   6,R,J,G
 EndStunPause
    1,R,J
 StunPause
@@ -400,10 +401,10 @@ SkipInput 3 1
   12,R,D,X
 EndStunPause
    3,R,D,X
-   5,L,D
+   5,D
 StunPause
-   5,L,D
-   6,R,D
+   4,D
+   7,R,D
    5,R,D,J
 EndStunPause
    5,R,J
@@ -411,13 +412,10 @@ EndStunPause
    3,R,J
    3,R
   15,R,U,Z
-   1,L
   16,R
-   1,L
-   1,R
-   3,J,G
+   1,J,G
    1,L,J
-   5,R,J
+   4,R,J
    9,R,K,G
    3,R
    5,R,J,G
@@ -866,13 +864,14 @@ EndRepeat
    8,L
    5,L,J
    2,L
-  33,L,D,X
+  15,L,D,X
+  18,L,D
    3,L,J
 #this depends on spinner cycle
-#change previous comment if you die
+#change earlier comment if you die
   16,L,U,X
    1,L,J,G
-   1,R
+   1
    4,L
   15,L,D,X
    5,L,D
@@ -887,16 +886,16 @@ EndRepeat
 ### spinner cycle for final stun
 ### dont see a good spot to wait
 ##+0f
-#   2,J,G
-#   1,K
+   2,J,G
+   1,K
 ##+1f
 #   1,J,G
 #   2
 #   1,K
 ##+2f
-   1,J,G
-   3
-   1,K
+#   1,J,G
+#   3
+#   1,K
 ###
    6,L,Z
    2,L,J
@@ -926,32 +925,29 @@ EndRepeat
    1,L,J,G
    7,L
   11,L,J
-   1,L,J
   15,L,D,X
-   1,L
-  21,L
-  12,L,D
-   9,L
+  15,L,D
+  10,L
+   3,L,D
+   3,L
+   3,L,D
 StunPause
-   2,L
+   2,L,D
 EndStunPause
+   9,L,D
+StunPause
    2,L,D
-  44,L,D
-   1,R,D
-Repeat 18
-   2,L,D
+EndStunPause
+  42,L,D
+Repeat 17
    2,R,D
+   2,L,D
 EndRepeat
-   1,L,D
 
 #lvl_a-intro (1)
   49,D
-#bad subpixels +1f
-#  28,L,D
-#   6,L,D,X
-   1,D
-  27,L,D
-   7,L,D,X
+  28,L,D
+   6,L,D,X
    1,R,J
 Repeat 5
    1,R,K
@@ -1011,4 +1007,4 @@ EndRepeat
   15,L,U,X
  133
 
-ChapterTime: 2:50.697(10041)
+ChapterTime: 2:50.238(10014)
