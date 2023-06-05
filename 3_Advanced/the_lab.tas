@@ -1,4 +1,4 @@
-RecordCount: 5333
+RecordCount: 5528
 
 console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1
@@ -76,7 +76,6 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1,R,D,J
    2,R
   40
-
 #lvl_start-04-Radley (0)
    9,R
   15,D,X
@@ -264,37 +263,31 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1,R,J
    6,R,D,X
    1,R,K,G
-   9,R
+  13,R
 
 #lvl_move-01-TiltTheStars
-   7,R
-   1,R,J
+   1
+   3,R
+  11,R,J
    5,R
-   1,R,J
-  23,R
-   3,R,D
-  14,R,Z
-   2,R,J,G
-  14,R,K,G
-   4,R
-  14,R,D,X
-  12,R,J
-  15,R
-  14,R,U,X
-   2,R,J,G
-  15,R,X
-  40,R,C
-  18,R,D
+   2,R,J
+  19,R
+   1,R,J,G
+   7,R
+  26,G
+   1,R,U,G
+   1
    1,R,J,G
    1,R,K,G
-   5,R
-   3,R,J
-   1
-  10,R
    1,R,J,G
-  24,R
-  20,R,J
-  10,R
+  18,R,D,X
+   5,R
+   1
+  12,R,D,J
+   7,R
+  15,L,U,X
+  28,R,D
+   8
   15,X
   12,D
   15,R,Z
@@ -663,7 +656,7 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
   10,R,K
    6,R,X
    1,R,J,G
-   8,L
+   8,L,P
    8,R,X
    1,L,J
   12,L
@@ -735,4 +728,4 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1,R,K,G
   37,R
 
-ChapterTime: 1:31.766(5398)
+ChapterTime: 1:30.236(5308)
