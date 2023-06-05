@@ -1,4 +1,4 @@
-RecordCount: 3084
+RecordCount: 3545
 
 console load StrawberryJam2021/1-Beginner/frozenflygone
    1
@@ -64,6 +64,7 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
   40
 
 #lvl_SS2-2 (0)
+
 #stun?
   10,U
    5,L,U,X
@@ -220,185 +221,138 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
    6,R
    1,R,J
    2,R
-   1,R,J,G
-   5,R
+   5,R,J,G
   22,R,D
-   1,R,G
-   1,R
-   1,R,G
-   8
-   8,R,J,G
-   3,R
+   2,L
+  27,L,U
+  26,L
+   6,L,D
+  14,L,Z
+  35,L,J,G
+   1,S
+   1,D,J
+  69,O
+   6,R,Z
    1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  13,R
   40
 
 #lvl_Lab-1
-   1,R
+   5,R
+   2
    1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-  10,R,J
-  23,R,U
-  43,R,D
-   1,L,D
-  66,L
-   1,L,G
-   8,L,J,G
+  10,R,D,X
+   4,J
+   5
+  10,L,D,X
+   6,R,J
+  61,L,D
    5,L
-Repeat,4
+  14,L,Z
    1,L,J
-  14,L
-EndRepeat
+  14,L,D,X
+   1,L,J
+  10,L,D,X
   40
 
 #lvl_Lab-2
    1,L,J
-  14,L
-   3,L,D,J
-   4,L
-   8
-   4,L
-   1,R,J,G
+   3,L
    1,L,J
-   1,R,J
-   1,L,J
-   1,R,J
-   1,L,J
-   1,R,J
-   1,L,J
-   1,R,J
-   1,L,J
-   1,R,J
-   1,L,J
-   1,R,J
-   1,L,J
-  16,L,K
+   5,L,D
+  16,D,X
   40
 
 #lvl_Lab-4 (0)
-  38,L,U
+  11,L
+  14,L,U,X
    1,L,J
-  14,L
+  14,L,U,X
    1,L,J
-  14,L
+  14,L,U,X
    1,L,J
-  14,L
-   5,L,J
-   9,L
-  22,L,X
+  14,L,U,X
+   2,L,J
   40
 
 #lvl_Lab-3
-  19,L,G
-  12,L,U
-   1,G
-   7,L,J,G
-   1,L,G
-   1,L,J,G
-   9,L,G
-   1,L,J,G
-   1,L
-   4,L,J
-  14,L
-  19,L,D
-  15,D
-  11,R,D
-  40,R,U
+  24,L,U
+   9,L,D
+  22,D
+  13,R,D
+   5,R
+   1,R,D
+  22,R,Z
+   7,R,V
    1,R,J
-  14,R
+   4,R
+   2
    1,R,J
-  14,R,Z
-   1,R,J
-   3,R
+   8,R,D,X
   40
 
 #lvl_Lab-4 (1)
-   4,R
-   2,R,J
-  25,R,D
-   2,R,J,G
-  76,R,D
-   1,R
+   5,R,D,X
    1,R,J
-   1,R
+  24,R,D
+  10,R,J
+  11,R
+  21,R,X
+   7,R,Z
+   1,R,J
+   7,R
   40
 
 #lvl_Lab-5
+   4,R,J
+   9,J
+  14,R,D,X
+   4,R,D
    2,R
-  54,R,U
-   1,U
-   1,R,U
-   1,U
-   1,R,U
-   1,U
-   1
-   7,R
-  23,R,D
-   7,L,D
-   2,L
-  25,R,D
+  14,R,U,X
+   1,L,J
+  15,D,X
+   7,R,D
+  14,D
   40
 
 #lvl_Lab-6
   43,D
   40
 
-#lvl_Lab_7
-   9,D
-  20,L,D
-   6,D
-   1,L
-   3
-   1,L
+#lvl_Lab-7
+   5,R,D
+  22,D
+   9,L
+  10,L,J
+  14,R,D,X
    1,L,J
-  14,L
+  15,L,D,X
    1,L,D,J
-  14,L,D
-   1,L,D,J
-   2,L,K
-   3,L
-   1,L,J
    1,L,K
    2,L
-   1,L,J
-  14,L
    1,L,J
    9,L
   40
 
-#lvl_Lab-8
-   6,L
-   1,L,J
-  14,L
-   1,L,J
-  14,L
-   1,L,J
-  14,L
-   9,L,J
-   1,L
-  15,L,U,C
+#lvl_Lab-Tele
+   5,L
+   7,L,J
+  18,L,U,X
 
 #lvl_HUB (1)
-  14,L,D,X
+  14,L,D,C
    1,L,J
   14,L,D,X
    1,L,J
   14,L,D,X
    1,L,J
-  14,L,D,X
-   1,L,J
+  13,L,D,X
   40
 
 #lvl_WZ-0
-  12,L,D,X
+   1,L,D,X
+   1,L,J
+  10,L,D,X
    6,L,J
   14,U,X
   15,J
@@ -747,4 +701,4 @@ EndRepeat
    5,U,X
  135
 
-ChapterTime: 1:37.223(5719)
+ChapterTime: 1:31.477(5381)
