@@ -1,4 +1,4 @@
-RecordCount: 18276
+RecordCount: 18837
 
 console load StrawberryJam2021/5-Grandmaster/Dav
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/5-Grandmaster/Dav
  190
 
 ### spinner cycle [chill-0 (0)]
-   1
+   0
 ###
 
 #lvl_a-intro (0)
@@ -198,34 +198,33 @@ EndRepeat
    3,R
   10,L
   15,D
-   2
-   5,L,G
-   8,J,G
-   3,L
-   2
-   3,J
-   1,R
-   1
-   1,R
-   1
+   5
+   3,L,J,G
+   1,J
+   1,L,J
+   2,J
+   5
+   5,J
   15,R,U,X
    4,R,J
    2,R,K
   15,R,D,X
    4,R,J
    6,R
-   2,R,J
+   1,R,J
+   1,R
+   1,R,J
    6,R
   14,R,X
    3,R,J,G
-   2,R,K,G
-  50,R,J,G
+   1,R,K,G
+  51,R,J,G
    4,R,D
-   8,R,K,G
-   4,R
-   1
+  10,R,K,G
+   4
    1,R
    1
+   1,R
    5,L,Z
    1,R,J
    7,R
@@ -273,26 +272,36 @@ EndRepeat
    4,Z
    1,L,J
   17,L
-  12,L,J
-  21,L
-  10,U,X
-  26,R,J
-  35,L,G
-   7,L,K,G
-   2,R,J
-  14,U,X
-  25,R,J
-  21,R,X
-  27,R,U,C
+  10,L,J
+  18,L
    1,L,G
-   4,R
-   7,G
+  11,R,K
+   8,R,G
+   1,J,G
+  14
+   1,R,G
+   3,L
+   1,R,J,G
+  20,R,K,G
+  17,R,U,X
+  21,R,U,C
+  21,R,X
+  13,R,C
+   5,L,G
+   7,J,G
+   2
+   2,K,G
+   9
+   2,J
+   5
   10,L,Z
-   1,L,J
-  24,L,K
-  32,U,G
-   6,G
-   5,U,G
+   8,L,J
+  18,L,K,G
+   1,J,G
+  15,L,G
+  29,U,G
+   1,G
+   1,U,G
    4,K,G
   12
    9,L,Z
@@ -432,11 +441,17 @@ EndStunPause
 
 #lvl_big-2
 ### spinner cycle [big-2]
-   0
+   1
 ###
-  10,J
-   2
-  10,L,Z
+   1,J
+   1,R,J
+   1,J
+   1,R,J
+   1,J
+   4,J
+   1,L,J
+   2,L
+   9,L,Z
    1,R,J
    6,R
    3,R,J
@@ -495,34 +510,30 @@ EndStunPause
    7,R
    1,R,J
    8,R,D,X
-   3,R,J,G
+
+   1,R,J,G
+   2,R,J
    5,R
+   1,J
+  15,R
+   1
    1,R,J
+  15,R,U,Z
+   1,L,J,G
+  14,R,J
+  13,R,U,X
+  21,R,J,G
+   3,R
+  11,R,J
+  15,R,D,X
    1,R
-   1,L
-  11,R
-   2,L
-   1,R
-   1,R,J
-  11,R,U,Z
-   4,L
-   1,J,G
-   9
-  14,R,U,X
-   8,R,J,G
-  11,R
-  13,R,J
-   8,R,K,G
-   4,L,K
-  16,R,D,X
-   7
+   7,L
   15,L,D,X
    3,R,D
    3,L,D
   17,L
   14,L,X
    1,L,J,G
-   0,L
   38,R,D
    2,D
   14,R,Z
@@ -668,44 +679,59 @@ EndRepeat
   10,L,X
   54,L,J,G
   30,R,X
-  63
-   1,L
-  18,L,J
-  18,U,X
-  31,L,J
-   4,L,Z
-   3,L,J
-   3,L
-   1,L,K,G
-   4,L
-   8,R
-  15,R,Z
-  19,L
-  10
-  14,R,Z
+  35
+   1,R
+   1
+  10,J
+   9,R,J
+   2,R,J
+   1,R,K,G
    1,L,J
-  10,L,D,X
+  20,L,K
+  15,U,X
+   1,L
+  28,L,J
+   6,L
+   5,L,Z
+   5,L,J
+   1,L,K,G
+   1,J,G
+   9,L
+   2,R
+  17
+  14,R,X
+   1,R,J
+  14,R,D,X
+   1,L,J
+   6,L,D,X
+   5,L,J,G
+   8,L
+   1,L,J
+   2,L
    1,L,J
 
 #lvl_big-3
-  23,L,K,G
-   2,L
-   1
+  23,L,J
   14,L,U,X
-   4,J,G
-   7
-   4,L,Z
+   3,L,J,G
+   7,L
    1,L,J
-   6,L
-   1,L,J
-   2,L
-  14,L,D,X
-   1,L,J
-   8,L
-   9,L,J
+   4,L
+  13,L,D,X
+   6,L,J
    1,L
-  24,R,D
-  17,R,D,X
+   1,L,J
+   9,L
+   5,L,D
+   1,L,J
+   4,L
+   1
+   1,K
+   1,L,K
+  12
+#-1f might be possible
+   1
+  15,R,D,X
   19,L
   27,D,C
    1,D
@@ -763,9 +789,10 @@ EndRepeat
 ### spinner cycle for [big-3]
 ### bad spot
 ##+0f
-   7,L
+#   7,L
 ##+1f
-#todo
+   2,L
+   6
 ##+2f
 #   2,L
 #   1,R
@@ -924,6 +951,23 @@ EndRepeat
    1,L,K,G
    1,L,J,G
    7,L
+## Better strat for spinner cycle 2
+#  12,L,J
+#  15,L,D,X
+#  22,L
+#  12,L,D
+#   9,L
+#StunPause
+#   2,L
+#EndStunPause
+#  46,L,D
+#Repeat 18
+#   2,L,D
+#   2,R,D
+#EndRepeat
+#   2,L,D
+#  40
+##
   11,L,J
   15,L,D,X
   15,L,D
@@ -946,6 +990,11 @@ EndRepeat
 
 #lvl_a-intro (1)
   49,D
+## Resync for alternative strat above
+#   1,D
+#  27,L,D
+#   7,L,D,X
+##
   28,L,D
    6,L,D,X
    1,R,J
@@ -1007,4 +1056,4 @@ EndRepeat
   15,L,U,X
  133
 
-ChapterTime: 2:50.238(10014)
+ChapterTime: 2:49.626(9978)
