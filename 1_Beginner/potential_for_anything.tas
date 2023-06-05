@@ -1,4 +1,4 @@
-RecordCount: 3545
+RecordCount: 3704
 
 console load StrawberryJam2021/1-Beginner/frozenflygone
    1
@@ -263,41 +263,46 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
   40
 
 #lvl_Lab-4 (0)
-  11,L
+   1,L,J
+  10,L
+  12,L,U,X
+   1,L,J
+   2,L
   14,L,U,X
    1,L,J
   14,L,U,X
    1,L,J
-  14,L,U,X
+  12,L,U,X
    1,L,J
-  14,L,U,X
-   2,L,J
   40
 
 #lvl_Lab-3
   24,L,U
    9,L,D
-  22,D
-  13,R,D
+  19,D
+  16,R,D
    5,R
-   1,R,D
   22,R,Z
-   7,R,V
+
    1,R,J
-   4,R
-   2
+   6,R
+  14,L,D,X
    1,R,J
-   8,R,D,X
+   5,R,D,X
+   1,R,K,G
+  14,R
+   1,R,J
   40
 
 #lvl_Lab-4 (1)
-   5,R,D,X
+   5,R,J
+  12,R
+  12,R,D,X
+   1,R,J,G
+  10,R
+  13,R,U
    1,R,J
-  24,R,D
-  10,R,J
-  11,R
-  21,R,X
-   7,R,Z
+   5,R,U,X
    1,R,J
    7,R
   40
@@ -331,49 +336,47 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
    1,L,K
    2,L
    1,L,J
-   9,L
+   3,L
+  10,L,U,X
   40
 
 #lvl_Lab-Tele
-   5,L
-   7,L,J
-  18,L,U,X
+   3,L
+   1,R,J,G
+  10,L,J
+   4,L
+   8,L,D,X
 
 #lvl_HUB (1)
-  14,L,D,C
+  11,L,D
    1,L,J
-  14,L,D,X
-   1,L,J
-  14,L,D,X
-   1,L,J
-  13,L,D,X
+  14,L
+  11,L,D,J
   40
 
 #lvl_WZ-0
-   1,L,D,X
    1,L,J
-  10,L,D,X
-   6,L,J
-  14,U,X
-  15,J
+   5,L
+   7,L,J
+   1,L
+  12,U,X
+  10,L,J
    1,L,K,G
    7,L
-#wait for cycle
-  10,L,Z
-   1,L,J
-   8,L
-   5,D,X
-  38,L,D
    4,L,Z
-   1,L,J
-   2,L
-   3,L,J
+   4,L,J
    1,L
    2,L,J
-   1,L
-   2,L,D
+   4,L,D
+  24,D
+  17,R,D
+  12,L,D,X
+   1,L,J
+   7,L
+   7,L,D
   18,D,X
-  20,D
+  10,D
+  10,R,D
 
 #lvl_WZ-1
   15,R,D,X
@@ -701,4 +704,4 @@ EndRepeat
    5,U,X
  135
 
-ChapterTime: 1:31.477(5381)
+ChapterTime: 1:31.256(5368)
