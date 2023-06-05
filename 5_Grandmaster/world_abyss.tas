@@ -1,4 +1,4 @@
-RecordCount: 17937
+RecordCount: 18033
 
 console load StrawberryJam2021/5-Grandmaster/Dav
    1
@@ -817,9 +817,12 @@ EndRepeat
   30,L,D
   10,R,D
   15,D,X
-Repeat 37 
+   4
+Repeat 18 
    2,U
-   2,D
+   2,R,D
+   2,U
+   2,L,D
 EndRepeat
    2
   16,R
@@ -855,31 +858,31 @@ EndRepeat
    7,L,J
    6,L,D,X
    3,L,J,G
-  11,L
-   5,L,J
-  15,L,D,X
-   7,L
+   6,L
+   1,L,J
+   4,L
    2,L,J
   15,L,D,X
-  18,L,D
-   4,L,J
-   1,J
-#this depends on spinner cycle
-#change earlier comment if you die
-  15,L,U,Z
-#hitting this cb might save a few frames
-   6,L,J,G
-  15,L,D,X
-   3,L,D
-   6,L
-  14,L,U,X
-   6,L,J,G
+   8,L
+   5,L,J
    2,L
+  33,L,D,X
+   3,L,J
+#this depends on spinner cycle
+#change previous comment if you die
+  16,L,U,X
+   1,L,J,G
+   1,R
+   4,L
   15,L,D,X
-  18,L,D,C
-   9,L,D
-   5,L
-   1,L,D
+   5,L,D
+   2,L
+  14,L,U,X
+   1,L,J,G
+   7,L
+  15,L,D,X
+   4,L,D
+  24,L
   15,L,U,Z
 ### spinner cycle for final stun
 ### dont see a good spot to wait
@@ -887,13 +890,13 @@ EndRepeat
 #   2,J,G
 #   1,K
 ##+1f
-   1,J,G
-   2
-   1,K
-##+2f
 #   1,J,G
-#   3
+#   2
 #   1,K
+##+2f
+   1,J,G
+   3
+   1,K
 ###
    6,L,Z
    2,L,J
@@ -923,29 +926,32 @@ EndRepeat
    1,L,J,G
    7,L
   11,L,J
+   1,L,J
   15,L,D,X
-  15,L,D
-  10,L
-   3,L,D
-   3,L
-   3,L,D
+   1,L
+  21,L
+  12,L,D
+   9,L
 StunPause
-   2,L,D
+   2,L
 EndStunPause
-   9,L,D
-StunPause
    2,L,D
-EndStunPause
-  42,L,D
-Repeat 17
+  44,L,D
+   1,R,D
+Repeat 18
+   2,L,D
    2,R,D
-   2,L,D
 EndRepeat
+   1,L,D
 
 #lvl_a-intro (1)
   49,D
-  28,L,D
-   6,L,D,X
+#bad subpixels +1f
+#  28,L,D
+#   6,L,D,X
+   1,D
+  27,L,D
+   7,L,D,X
    1,R,J
 Repeat 5
    1,R,K
@@ -1005,4 +1011,4 @@ EndRepeat
   15,L,U,X
  133
 
-ChapterTime: 2:50.731(10043)
+ChapterTime: 2:50.697(10041)
