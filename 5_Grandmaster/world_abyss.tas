@@ -1,4 +1,4 @@
-RecordCount: 18837
+RecordCount: 19177
 
 console load StrawberryJam2021/5-Grandmaster/Dav
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/5-Grandmaster/Dav
  190
 
 ### spinner cycle [chill-0 (0)]
-   0
+   1
 ###
 
 #lvl_a-intro (0)
@@ -288,17 +288,19 @@ EndRepeat
   21,R,X
   13,R,C
    5,L,G
-   7,J,G
-   2
+   8,J,G
+   1
    2,K,G
    9
-   2,J
-   5
+   1,J
+   4
+   1,J
+   1
   10,L,Z
    8,L,J
   18,L,K,G
    1,J,G
-  15,L,G
+  14,L,G
   29,U,G
    1,G
    1,U,G
@@ -374,6 +376,50 @@ EndRepeat
    8,L
    9,L,D
    2,R
+###pretty close to saving 40f+
+#   2,R,D
+#   4,R,Z
+#   1,R,J
+#   1,R,K,G
+#   1,R,J,G
+#   1,R,K,G
+#   1,R,J,G
+#   7,R
+#   1,R,D
+#StunPause
+#   3,D
+#   1,R,J
+#   4,J
+#   1,R,J
+#   1,R,J
+#   5,R
+#   2,R,K
+#   2,R,K
+#   1,R,J,G
+#   1,L,J
+#   3,R,J
+#   1,R,J
+#EndStunPause
+#StunPause
+#   1,R,J
+#   5,R
+#   1,R,J
+#SkipInput 3 1
+#   6,R,U,Z
+#EndStunPause
+#  10,R,U,Z
+#   1,R,J,G
+#   5,R
+#   6,R,D,X
+#StunPause
+#   9,R,D,X
+#   1,R
+#EndStunPause
+#   8,R
+#StunPause
+#   8,R
+#EndStunPause
+###
    2,R,D
    4,R,Z
    1,R,J
@@ -510,7 +556,6 @@ EndStunPause
    7,R
    1,R,J
    8,R,D,X
-
    1,R,J,G
    2,R,J
    5,R
@@ -623,7 +668,6 @@ EndRepeat
    7,L
   12,L,J
    4,L,K,G
-   0,L
    5,L,Z
    1,L,J
    8,L
@@ -646,7 +690,6 @@ EndRepeat
    7,R
    8,R,J
    3,R,K,G
-   0,R
   16,U,X
   15,L,U,C
    3,R
@@ -791,12 +834,12 @@ EndRepeat
 ##+0f
 #   7,L
 ##+1f
-   2,L
-   6
-##+2f
 #   2,L
-#   1,R
-#   6,L
+#   6
+##+2f
+   2,L
+   1,R
+   6,L
 ###
    4,Z
    1,L,J
@@ -824,12 +867,12 @@ EndRepeat
   23,U,Z
    2,R
    1,L,G
-   1,R,D
-  16,D
-  15,L,D
+   5,R,D
+   7,D
+  20,L,D
   14,L,X
    9,L,J
-  15,L,U,X
+  14,L,U,X
    7
   15,L,U,X
    1,L,J,G
@@ -839,8 +882,8 @@ EndRepeat
   15,L,D,C
   26,L
   15,L,U,X
-  30,L,D
-  10,R,D
+  29,L,D
+  12,R,D
   15,D,X
    4
 Repeat 18 
@@ -857,7 +900,7 @@ EndRepeat
    7,R,K
   18,U,X
   15,U,C
-   4
+   3
   15,L
   15,U,X
   32
@@ -910,19 +953,20 @@ EndRepeat
    4,L,D
   24,L
   15,L,U,Z
+#+2f
 ### spinner cycle for final stun
 ### dont see a good spot to wait
 ##+0f
-   2,J,G
-   1,K
+#   2,J,G
+#   1,K
 ##+1f
 #   1,J,G
 #   2
 #   1,K
 ##+2f
-#   1,J,G
-#   3
-#   1,K
+   1,J,G
+   3
+   1,K
 ###
    6,L,Z
    2,L,J
@@ -951,50 +995,21 @@ EndRepeat
    1,L,K,G
    1,L,J,G
    7,L
-## Better strat for spinner cycle 2
-#  12,L,J
-#  15,L,D,X
-#  22,L
-#  12,L,D
-#   9,L
-#StunPause
-#   2,L
-#EndStunPause
-#  46,L,D
-#Repeat 18
-#   2,L,D
-#   2,R,D
-#EndRepeat
-#   2,L,D
-#  40
-##
-  11,L,J
+  10,L,J
+   1,L
   15,L,D,X
-  15,L,D
-  10,L
-   3,L,D
-   3,L
-   3,L,D
-StunPause
+  20,L,D
+  11,L
+  59,L,D
+   1,R,D
+Repeat 16
    2,L,D
-EndStunPause
-   9,L,D
-StunPause
-   2,L,D
-EndStunPause
-  42,L,D
-Repeat 17
    2,R,D
-   2,L,D
 EndRepeat
+   1,L,D
 
 #lvl_a-intro (1)
   49,D
-## Resync for alternative strat above
-#   1,D
-#  27,L,D
-#   7,L,D,X
-##
   28,L,D
    6,L,D,X
    1,R,J
@@ -1056,4 +1071,4 @@ EndRepeat
   15,L,U,X
  133
 
-ChapterTime: 2:49.626(9978)
+ChapterTime: 2:49.269(9957)
