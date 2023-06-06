@@ -1,4 +1,4 @@
-RecordCount: 12384
+RecordCount: 12625
 
 console load StrawberryJam2021/3-Advanced/MousseMoose
    1
@@ -332,30 +332,34 @@ skipinput 3 1
    6,R
    1,R,J
 EndStunPause
-   3,J
+   3,R,J
    7,R,U,Z
-  11,R,J,G
-   1,L
-   1,J,G
-   6
-   1,J
+   9,R,J,G
+  13
+   8,L,J
    1,S
    1,D,J
   34
-  11,R
-   9,R,D,J
-   2,L,J
-   1,K
-   3,J,G
-  13,R,J
-  15,U,X
-   5,R
-  20,R,J
-  12,K,G
-   3,J,G
+   1,J
+  21,R,K
+  15,U,Z
+   5,L
+  15,R,J
+   3,L,J
+   1,R,K,G
+   2,K
+   4,L,K
+   1,R,J,G
+   4,L,J
+   7,R,J
    7,R
-   8,R,J
-   9,R,Z
+   7,R,J
+   1,R
+# can dash 1f earlier
+# but I couldn't get a
+# good sub pixel for 
+# the 6f bhop
+   8,R,Z
    1,R,J
    6,R
    1,R,J
@@ -367,7 +371,11 @@ EndStunPause
    2,R,J
   32,R
 #cycle
-  25
+Repeat 2
+  14,D,C
+   1
+EndRepeat
+   1
    9,R,Z
    1,R,J
    4,R
@@ -794,4 +802,4 @@ EndRepeat
   14,R,J
  140,X
 
-ChapterTime: 1:33.687(5511)
+ChapterTime: 1:33.585(5505)
