@@ -1,4 +1,4 @@
-RecordCount: 5761
+RecordCount: 5775
 
 console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1
@@ -529,6 +529,7 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1,R,J
   14,R,D,X
    4,R,J
+
 #lvl_hub (3)
    1,R
   16,R,J
@@ -567,18 +568,20 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    8,L,J
    3
   15,R,D,X
-   2,R
-  17,L,C
+   1,R
    1
+  15,L,C
+   3,L
   15,U,X
-   1
    8,R
   15,R,U,X
-   9
-   5,R
+   3,R
+   8
+   1,R
+   1
   12,U,X
-  20,L,J
-   1,L,K,G
+  19,L,J
+   2,L,K,G
   40
 
 #lvl_escape-02-Worldwaker2
@@ -736,4 +739,4 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1,R,K,G
   37,R
 
-ChapterTime: 1:29.845(5285)
+ChapterTime: 1:29.811(5283)
