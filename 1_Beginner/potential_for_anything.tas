@@ -1,4 +1,4 @@
-RecordCount: 3993
+RecordCount: 4010
 
 console load StrawberryJam2021/1-Beginner/frozenflygone
    1
@@ -67,8 +67,7 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
 
 #stun?
   10,U
-   5,L,U,X
-   9,L
+  14,L,U,X
    1,L,J
   14,L,U,X
    1,L,J
@@ -123,9 +122,11 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
   12,R,J
    1,R,K,G
    7,R
-  14,R,Z
+   6,R,Z
    1,R,J
-   6,R,U,X
+   7,R
+   1,R,J
+   5,R,U,X
    1,R,J
    6,R
   40
@@ -693,4 +694,4 @@ EndRepeat
    5,U,X
  135
 
-ChapterTime: 1:30.933(5349)
+ChapterTime: 1:30.916(5348)
