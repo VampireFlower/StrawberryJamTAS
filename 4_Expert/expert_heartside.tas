@@ -1,4 +1,4 @@
-RecordCount: 23350
+RecordCount: 23471
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -353,12 +353,16 @@ EndRepeat
    3,R
    7,R,J
   11,J
+
+
    3,R,J
   15,U,X
   16,L,J
   13,L,X
    5,R,J
   15,R,D,X
+
+
   10,D,C
   13,R,J
    6,R
@@ -418,35 +422,31 @@ EndRepeat
 
 #lvl_b00_intro
   10,L,D,X
-   2,R,J
-   4,R
+   8,R,J
+  10,R,D,X
    1,R,J
-   7,R,D,X
+  12,R
+  11,L,D,X
+   2,R,J
+Repeat 3
+   1,R,K
+   1,R,J
+EndRepeat
+   1,R,K
    1,R,J,G
-  25,R
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   2,R,J
-   5,R,D,X
-   3,R,J,G
-   5,R
-   1,R,J
+   2,R,K
    8,R
-   7,R,J
-  15,R,D,X
-   1,R,J
-   7,R,K,G
-   6,R
-   4,R,J
-   1,R
-   1
-   8,R,U,Z
+   6,R,J
+   3,R
+  16,R,D,X
+   2,R,J
+   6,R,K,G
+  10,R
+   9,R,U,Z
   40
 
 #lvl_b01_stotch
-   7,R,U,Z
+   6,R,U,Z
   12,U,X
    9,R
   15,R,X
@@ -708,7 +708,7 @@ EndRepeat
   21,R,D
   12,R,Z
 ## Spinner cycle [b04_powerav]
-   2
+   1
 ##
   45,R,X
   15,U,C
@@ -827,7 +827,6 @@ StunPause
    1,R
    7,R,D
 EndStunPause
-
    4,R,D
    5,R
   22,R,Z
@@ -3430,4 +3429,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 8:07.050(28650)
+ChapterTime: 8:06.948(28644)
