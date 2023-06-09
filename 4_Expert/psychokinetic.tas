@@ -1,4 +1,4 @@
-RecordCount: 2902
+RecordCount: 3177
 
 console load StrawberryJam2021/4-Expert/Cabob
    1
@@ -6,8 +6,9 @@ console load StrawberryJam2021/4-Expert/Cabob
 #Start
  190
 
-# Spinner Cycle
+#Spinner Cycle
    1
+#-----
 
 #lvl_a-start
   12,R
@@ -54,12 +55,11 @@ console load StrawberryJam2021/4-Expert/Cabob
 
 #dunno how to
 #make this work
-
 ##lvl_a-01
 #   8
-#   4,R,U,Z
+#   6,R,U,Z
 #StunPause
-#   4,R,U,Z
+#   2,R,U,Z
 #EndStunPause
 #   6,J,G
 #   4
@@ -69,7 +69,7 @@ console load StrawberryJam2021/4-Expert/Cabob
 #  13,R,Z
 #   4,R,J
 #   1,R,K
-#   1,R
+#   1
 #   4
 #  10,R,U,X
 #  40
@@ -83,9 +83,18 @@ console load StrawberryJam2021/4-Expert/Cabob
 #StunPause
 #   2,R,U,X
 #EndStunPause
-#   4,R,J
+#   4,L,J
+#***
 #  15,R,D,X
-#  20,R
+#   1,R
+#   1,K
+#   9,D
+#***
+#StunPause
+#  17,D
+#EndStunPause
+#***
+# 100,D
 
 #lvl_a-01
    8
@@ -115,24 +124,22 @@ EndStunPause
    4,R,J
    1,R,K
   15,R,D,X
-   5,R,J
-  18,J
-  15,R,D,X
-   2,D
-StunPause
-   1,R,D
-   1,D
-   1
-   9,D
-EndStunPause
-   4,D
+  10,L,J
+  12,D
    8,R,D
-  14,L,D,X
+   4,D
+  14,R,D
+   2,R,D
+   9,R
+   3,R,D
+  20,R,U,X
+  20,R,D
+  10,L,D,C
    3,R,J
-   2,R
-  11,R,K
-   2,R
-  33,R,J
+   1,R
+  10,R,J
+   8,R
+  32,R,K
   10,U,X
   34,R,J
   10,R
@@ -145,8 +152,9 @@ EndStunPause
    2,R,J
    9,R
    8,L,D,X
-#spinner cycle
-   1
+#Spinner Cycle
+   0
+#-----
    1,R,J
    1,R,K
    1,R,J
@@ -355,4 +363,4 @@ EndStunPause
  132,R,D
    3,L,D
 
-ChapterTime: 0:37.162(2186)
+ChapterTime: 0:36.652(2156)
