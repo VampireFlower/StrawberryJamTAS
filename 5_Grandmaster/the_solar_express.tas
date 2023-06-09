@@ -1,4 +1,4 @@
-RecordCount: 7692
+RecordCount: 7702
 
 console load StrawberryJam2021/5-Grandmaster/Soloiini
    1
@@ -45,7 +45,8 @@ console load StrawberryJam2021/5-Grandmaster/Soloiini
   14,R,D,X
    2,R,J,G
    1,J
-  15,R
+  11,R
+   4,R
   55,R,J
   16,R,U,X
    1,R,J,G
@@ -68,7 +69,7 @@ EndRepeat
   11,R,D,X
   43
 
-#lvl_Crumbling Bastions (0)
+#lvl_Crumbling Bastions (1)
    3,R,D,X
    1,R,J
   14,R,D,X
@@ -187,13 +188,13 @@ EndRepeat
    5,R
   14,R,U,X
    1,J,G
-  10,R
+   9,R
    1,R,N
    9,R,X
 
-#lvl_Crumbling Bastions (1)
-  19,R,G
-  26,D,G
+#lvl_Crumbling Bastions (2)
+  18,R,G
+  27,D,G
   14,R,D,G
    1,D
   14,L,D,X
@@ -1161,4 +1162,4 @@ Endrepeat
    1,L,J
   55,L
 
-ChapterTime: 3:07.867(11051)
+ChapterTime: 3:07.850(11050)
