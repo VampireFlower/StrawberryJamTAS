@@ -1,4 +1,4 @@
-RecordCount: 23851
+RecordCount: 23889
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -417,12 +417,14 @@ EndRepeat
  101,R,K
 
 #lvl_b00_intro
-  10,L,D,X
-   8,R,J
-  10,R,D,X
-   1,R,J
-  12,R
   11,L,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   1,R
+   1,R,J
+  11,R
+  10,L,D,X
    2,R,J
 Repeat 3
    1,R,K
@@ -460,9 +462,9 @@ EndRepeat
    4,U,G
    6,G
   15,R,Z
-  32,R,D
-   4,D
-   3,D
+  15,R
+  17,R,D
+   7,D
   13,R,D,X
    2,R
   13,D,X
@@ -704,7 +706,7 @@ EndRepeat
   21,R,D
   12,R,Z
 ## Spinner cycle [b04_powerav]
-   1
+   0
 ##
   45,R,X
   15,U,C
@@ -1189,8 +1191,7 @@ AnalogMode Ignore
   10,R,D,X
    4,R,J
    2,R
-   1,R,J
-   1,R,J
+   2,R,J
   11,R
   15,R,U,X
    6,R
@@ -2410,28 +2411,7 @@ EndStunPause
   18,L,U,C
   15,L,X
   18,R,C
-  19,U,X
-## +2f
-#  11,L,J
-#   4,L
-#   5,R
-#  17,R,J
-#   2,R,D
-#  18,R,U,X
-#  15,R,C
-#  18,L,X
-#  15,R,U,C
-#  19,L,D,X
-#  15,L,U,C
-#  18,R,D,X
-#   2,R
-#   5,R,D
-#   2,R
-#  18,L,U,C
-#  15,U,Z
-#  16,U,X
-##
-   1,U,X
+  20,U,X
    3,L,J
    2,L,K
    8,L
@@ -2709,8 +2689,8 @@ EndStunPause
 #lvl_f01_quantumspaceman
    7,R,D,J
   15,R,D,X
-### this depends on spinner cycle
-### Cycle in e06_transition
+## this depends on spinner cycle
+## Cycle in e06_transition
   10,R,J
    6,R
    1,R,J,G
@@ -3422,4 +3402,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 8:06.132(28596)
+ChapterTime: 8:06.081(28593)
