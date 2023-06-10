@@ -1,4 +1,4 @@
-RecordCount: 4981
+RecordCount: 5011
 
 console load StrawberryJam2021/5-Grandmaster/xlibiza
    1
@@ -984,18 +984,22 @@ AnalogMode Ignore
   15,R,U,C
   13,R,D,X
   14,R,J
+  15,R,C
+  13,R,X
+   1,L,J
+   6,R,J
   15,R,Z
-  21,L,U,X
-  12,U,C
-   8,R,J
-   8,R,D,X
-   5,R,J,G
-   6,R
-  15,R,Z
-  18,D
-  12,R,D
-  13,D
-   7,L
+   1,R,K,G
+   1,L
+   6
+   5,R
+   2,R,J
+   1,R
+  14,R,Z
+   1,J
+   1,R,K,G
+  31,D
+   3,L,D
   75,O
   11,U,X
   73,U,C
@@ -1026,4 +1030,4 @@ AnalogMode Ignore
   14,R,U,X
  135,D
 
-ChapterTime: 2:44.560(9680)
+ChapterTime: 2:44.203(9659)
