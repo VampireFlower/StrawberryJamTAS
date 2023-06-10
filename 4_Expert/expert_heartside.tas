@@ -1,4 +1,4 @@
-RecordCount: 24513
+RecordCount: 24529
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -849,7 +849,6 @@ EndRepeat
    6,L,D
    1,L
    7,D
-
 ## Cycle in b03_banana
 StunPause
    7,R,D
@@ -908,38 +907,35 @@ EndStunPause
   10,R,Z
    1,R,J
    7,R
-   1,R,J
+   2,R,J
    8,R,U,X
 
 #lvl_b04.5_poweravin
-   3,R,U,X
+   2,R,U,X
    1,R,J,G
-   2,J
-   6,R,J
+   1,J
+   7,R,J
    1,R,K,G
-  12,R
-   5,R,J
+  11,R
+   5,R,D,J
 
 #lvl_b04.75_poweravina
    1,R,J
-   4,R
-   1,R,K,G
-   2,K
-   1,R
+   7,R
+   2,R,K,G
    1,R,J,G
    2
    1,R
-  11,R,U,X
-  11,R,J,G
+  12,R,U,X
+  10,R,J,G
   40
 
 #lvl_b05_vina
-   1,R
    9,R,D,X
-   1,R,J,G
-  14,R
-  14,R,J
-  14,R,U,X
+   2,R,K,G
+  12,R
+  12,R,J
+  15,R,U,X
   20,R
   15,R,D,X
   15,R
@@ -947,54 +943,59 @@ EndStunPause
   12,R,X
   39,R,J
   18,R,X
-  15,L,U,C
+  16,L,U,C
   15,R,U,X
-  16,L
-   1
-  61,L
-  10,L,J
-   3,J
+  14,L
+   7,D,X
+  58,L
+  13,L,J
   15,L,U,X
   15,U,C
-  13,R
+  14,R
   34,L
-  23,L,U,X
-   8,K,G
+  18,L,U,X
+   9,K,G
    1,J
    3,K,G
-  20,R,J
+  19,R,J
   27,R
-  49,R,J
-   7,R,K
-  10,K
+  52,R,J
+   5,R,K
+  11,K
+   1,L,K
   15,U,X
    1,L
-  10,L,X
-  24,L,J
+  11,L,X
+  23,L,J
   18,U,X
   11,R,Z
-  64,R,J
-  24,R,U,X
-  17,R,U,Z
+  66,R,J
+  22,R,U,X
+  18,R,U,C
   18,R
   15,D,X
   20,R
   15,R,D,X
   11,R
   28,R,J
-  20,R,X
-  16,L,C
-  45
-   6,D
-  32,R
-  52,R,G
-   1
   15,R,X
-  14,R,U,C
-  28,R,G
-  16,L,G
-  16,L,J,G
+  15,L,C
+  46
+   4,D
+   2,D
    1
+  31,R
+  46,R,G
+   7,R,D,G
+   1,R
+  16,R,X
+  11,R,U,C
+  28,R,G
+  10,L,G
+   8,G
+   7,J,G
+   9,L,J,G
+   3,L
   10,L,X
    5,L,J
   21,L,J,G
@@ -1023,22 +1024,20 @@ EndStunPause
   18,R,X
   14,R,C
   25,R,J,G
-  15,G
-   3,R,G
-   2,R,D,G
-  11,R,G
+  14,G
+  21,R,G
+   2,G
    1
-  15,U,X
-  15,L
-   1
-  15,U,X
-   8,L
-  43,R
-  15,R,X
+  19,U,X
+  13,L,U,C
+  46,R
+  20,R,X
+   2,R,J
+   8,R,K,G
+   1,R,J,G
    2,R
-   7,R,J
-  12,R,Z
-   3,R,J
+  14,R,Z
+   1,R,J
    9,R,D,X
    1,R,J,G
    8,R
@@ -1047,15 +1046,32 @@ EndStunPause
 #lvl_b06_transition
    3,R
    2,R,J
-   4,R,K,G
-   4,R
-  17,R,J,G
-# pls get better subpx here
-# Note: Intentionally lose a frame
-# to not mess up spinner cycles
+   5,R,K,G
+   2,R
+  15,R,J,G
   15,U,Z
   10,L,J,G
    7,L
+#drift doesn't align, would save 13f
+#  34,D,J
+#   6,R
+#  11,R,U,X
+#   1,J,G
+#   1,R,K,G
+#   2,L,K
+#   3,L,J,G
+#   2,L
+#   4,L,K,G
+#   5,L
+#   2,R
+#   1,R,J
+#   2,L,J
+#  14,U,X
+#   4,L
+#   1,J
+#   1
+#   6,L
+#   4,L,J
    1,D
   47,J
 
@@ -1088,12 +1104,11 @@ EndStunPause
    4,R,Z
    1,R,J
    4,R
+   1,R,D
    2,R,D,J
    3,R
-   2,R,D,J
-   3,R
-   1,R,D,J
-   5,R,K,G
+   4,R,D,J
+   4,R,K,G
    3,R
    2,R,D,J
    3,R
@@ -3455,4 +3470,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 8:04.687(28511)
+ChapterTime: 8:04.432(28496)
