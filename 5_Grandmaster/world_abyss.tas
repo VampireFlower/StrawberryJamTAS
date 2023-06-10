@@ -1,4 +1,4 @@
-RecordCount: 19480
+RecordCount: 20130
 
 console load StrawberryJam2021/5-Grandmaster/Dav
    1
@@ -7,39 +7,61 @@ console load StrawberryJam2021/5-Grandmaster/Dav
  190
 
 ### spinner cycle [chill-0 (0)]
-   1
+   0
 ###
 
 #lvl_a-intro (0)
-   2,L,J
-  13,R,D,X
-   2,R,J
-  11,R,D,X
+   1,L,J
+  10,R,D,X
+   1,R,K
+   7,R
+  13,L,D,X
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   2,K
+   1,R,K
+   7,R,D,X
    1,R,J,G
    1,R,K
+   5,R
+   3,R,K
+   2,R
+   1,R,J
+   1,J
    6,R,J
    5,R
-   2,R,J
-   6,R
-   4
+   3,R,J
+   1,R
    1,R,J
-  14,R
-  18,R,J
-  12,U,X
-  49,R,J
-  20,R,D
-   4,R
+   2,R
+  15,R,U,Z
+  10
+   2,R
+   6
+  13,R,D
    1,D
+   1,R
+   3
+   1,R
    1
-  16,R,Z
-  39,R,U,X
-  14,R,D,C
-  38,R,J
+  15,R,Z
+  34,R,U,X
+   1
+   5,R
+  14,R,D,X
+  12,R,J
+   4,R
+   3,R,J
+  16,R
   15,R,X
-  28,R,D
+  32,R,D
   15,R,X
   15,R,Z
-  60,R,D
+  55,R,D
 #teleports 3 frames after
 #touching orange line
 #resets position but not subpixel
@@ -1089,4 +1111,4 @@ EndRepeat
   15,L,U,X
  133
 
-ChapterTime: 2:48.912(9936)
+ChapterTime: 2:48.096(9888)
