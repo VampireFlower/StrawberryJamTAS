@@ -1,4 +1,4 @@
-RecordCount: 24480
+RecordCount: 24513
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -756,7 +756,7 @@ EndRepeat
 #   2,R
 #   4,R,D,J
 #   5,R
-#   1,R,K,G
+#   1,R,J
 ###
    1,R
   14,R,D,X
@@ -849,6 +849,7 @@ EndRepeat
    6,L,D
    1,L
    7,D
+
 ## Cycle in b03_banana
 StunPause
    7,R,D
@@ -1052,30 +1053,34 @@ EndStunPause
 # pls get better subpx here
 # Note: Intentionally lose a frame
 # to not mess up spinner cycles
-  14,U,X
-  44,R,J
+  15,U,Z
+  10,L,J,G
+   7,L
+   1,D
+  47,J
 
 #lvl_c00_intro
-  22,R
-   1,K,G
+   6,L
+  11,R,U,X
+   1,J,G
+   1,R,K,G
+   2,L,K
+   4,L,J,G
+   4,L,K,G
+   4,L
    3,R
-   3
-   3,L
-   2,L,J
-  13,R,D,X
+   2,R,J
+  14,U,X
+  14,J
+   4,L
+   1,J
+   1
+   6,L
    3,L,J
-   8,L,U,X
-   1,R,J,G
-   1,L,J
-   7,L
-  41,L,G
-   1,L,J,G
-   1,K
-   1,L,K
-   4,J,G
-  12,K
-   9,J
-   1,R,J
+  14,U,X
+   8,J
+   1,R
+   2,J,G
    1,K,G
    6,R
    2,L
@@ -1649,7 +1654,7 @@ EndRepeat
    1,L,K
   11,R
 ## Lightning cycle [d02_lethargicdoggo]
-   0
+   1
 ##
    4,X
   11,R,J
@@ -3450,4 +3455,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 8:04.874(28522)
+ChapterTime: 8:04.687(28511)
