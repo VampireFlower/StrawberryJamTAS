@@ -1,5 +1,5 @@
 #by Lmjacks & TheRoboMan
-RecordCount: 4798
+RecordCount: 4881
 
 console load StrawberryJam2021/5-Grandmaster/DeathKontrol
    1
@@ -288,33 +288,31 @@ console load StrawberryJam2021/5-Grandmaster/DeathKontrol
    5,R,D
    1,D
   40,R,D
-  14,R
-  11,R,D
-   1,R
-   3,R,D
-   4,L,D
-  15,L,X
-  18,L,D
-   3,R,D
-   1,L,D
+  22,R
+  11,L
+  15,L,D,X
+  18,L
+   3,R
   18,R,D
-  18,L,D
-   2,L
+  12,L,D
+   4,L
    1,L,D
-   1
-  10,L,Z
+  12,L,Z
    1,L,J
    7,L
    2
   15,D,X
-   5,R,D
+   0,R,D
+   6,R
    8,R,Z
    1,R,J
    7,R
-   2,R,J
-  27,R,D,X
-   2
-   2,R
+   3,R,J
+  15,R,D,X
+   6,D
+   6,R,D
+   4,R
+   1
   15,D,X
    6,L,D
    4,Z
@@ -916,4 +914,4 @@ console load StrawberryJam2021/5-Grandmaster/DeathKontrol
  127,D
    9,R,D
 
-ChapterTime: 1:44.550(6150)
+ChapterTime: 1:44.533(6149)
