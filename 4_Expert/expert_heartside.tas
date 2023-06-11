@@ -1,4 +1,4 @@
-RecordCount: 24529
+RecordCount: 24554
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -1669,7 +1669,7 @@ EndRepeat
    1,L,K
   11,R
 ## Lightning cycle [d02_lethargicdoggo]
-   1
+   2
 ##
    4,X
   11,R,J
@@ -1765,10 +1765,13 @@ EndRepeat
   88,R,U,J,G
    1,L,J
    5,R,J
-  80,R
-  48,R,D
-   3,D
-  14,R,D,X
+  53,R
+  15,R,D,X
+   4,R
+  53,R,D
+   7,D
+   2,R,D
+   4,R,Z
    1,R,J
    7,R
    3,R,J
@@ -3470,4 +3473,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 8:04.432(28496)
+ChapterTime: 8:04.279(28487)
