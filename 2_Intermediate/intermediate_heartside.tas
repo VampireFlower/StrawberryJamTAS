@@ -1,4 +1,4 @@
-RecordCount: 10814
+RecordCount: 10988
 
 console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1
@@ -587,6 +587,7 @@ EndStunPause
 #   4,R
 #spinner cycle
    1
+##
   27,R,X
   40
 
@@ -704,24 +705,23 @@ EndStunPause
   11,L,Z
    1,R,J
    4,R
-   6,R,J
-  19,R,D
-  15,R,Z
-  18,D
-  18,R,D
-  14,L,D
-   1,L,G
-  11,L,J,G
-   8,L
-   8,J
-   2,L,J
-  16,L
-  12,L,J,G
-   4,L,K,G
-   7,L
-   1,L,G
-  12,L,J,G
-   1,K,G
+  21,R,J
+   2
+   2,J
+  37,R,U,Z
+   5,D
+   3,R,G
+   1,R,J,G
+   1,L,J
+   6
+   6,L
+   1
+   6,L,J
+  13,L
+  34,G
+   2,L,D,G
+   9,G
+   2,K,G
    2,L
    1,R
    5
@@ -736,31 +736,33 @@ EndStunPause
   14,R,X
    1,J,G
    1
-#retry reaches the door 7f later
-#but with a different key cycle
-#   1,S
-#   1,D,J
-#  69,O
-#  10,L,Z
-#   2,L,J
-#  10,L,K,G
-#   3,L
-#   6,L,J,G
-#  11,U,X
-#  47,U,C
-  13,L
-   4,Z
-  83,L,J
-   7,U,X
+#------------
+   1,L
+   1,S
+   1,D,J
+  69,O
+  10,L,Z
+   2,L,J
+  10,L,K,G
+   3,L
+   6,L,J,G
+  11,U,X
   47,U,C
+#no-retry reaches the door 7f faster
+#but with a different key cycle
+#  13,L
+#   4,Z
+#  83,L,J
+#   7,U,X
+#  47,U,C
   15,R,U,X
   22,R
   15,R,D
   15
   15,R,D
-  21
+  17
 #Spinner cycle
-   1
+   0
 ##
   14,R,D
    9,R,D,J
@@ -1714,4 +1716,4 @@ EndRepeat
   16,R,U,X
  135,R
 
-ChapterTime: 4:29.382(15846)
+ChapterTime: 4:29.042(15826)
