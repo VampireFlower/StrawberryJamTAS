@@ -1,4 +1,4 @@
-RecordCount: 25518
+RecordCount: 25536
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -706,7 +706,7 @@ EndRepeat
   21,R,D
   12,R,Z
 ## Spinner cycle [b04_powerav]
-   0
+   2
 ##
   45,R,X
   15,U,C
@@ -726,64 +726,30 @@ EndRepeat
    1,R,J
   22,R,D,X
    1,R,J
-### bird skip, -26f but doesn't work because of lightning
-#drift in d02_lethargicdoggo
-#  14,R
-#  12,R,J
-#  15,R,D,X
-#   1,R,J
-#   2,R,K,G
-#  11,R
-#   4,R,J
-#  40
-#   6,R,J
-#   5,R
-#  15,R,D,X
-#  36,R,J
-#  14,R,Z
-#   1,R,J
-#  14,R,D,X
-#   1,R,J
-#  12,R,D,X
-#   3,R,J
-#  12,U,X
-#   1,R,J
-#  18,R,D
-#   4,R,Z
-#   2,R,J
-#   5,R
-#   1,R,J
-#   2,R
-#   4,R,D,J
-#   5,R
-#   1,R,J
-###
-   1,R
-  14,R,D,X
+
+  14,R
+  12,R,J
+  15,R,D,X
    1,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-   6,R,D,X
+   2,R,K,G
+  11,R
+   4,R,J
   40
 
 #lvl_b04_powerav
-   8,R,D,X
-   1,R,J
-   7,R
-   4,R,J
-  15,R,U,X
-  55,R
-  18,R,D,X
+   6,R,J
+   5,R
+  15,R,D,X
+  36,R,J
+  14,R,Z
    1,R,J
   14,R,D,X
-   9,R,J
-  15,R,U,X
-   4,L,D
-  17,R,D
+   1,R,J
+  12,R,D,X
+   3,R,J
+  12,U,X
+   1,R,J
+  18,R,D
    4,R,Z
    3,R,J
    9,R
@@ -857,8 +823,9 @@ StunPause
    1,R
    7,R,D
 EndStunPause
-   4,R,D
-   5,R
+   5,R,D
+   3,R
+   1,R,D
   22,R,Z
   51,R
   10,J,G
@@ -867,7 +834,7 @@ EndStunPause
    5,K,G
   12,R,J,G
   12,K,G
-   8,J,G
+   9,J,G
   15,U,X
   21,R,J
   31,L
@@ -981,8 +948,7 @@ EndStunPause
   15,R,X
   15,L,C
   46
-   4,D
-   2,D
+   6,D
    1
   31,R
   46,R,G
@@ -1052,43 +1018,24 @@ EndStunPause
   15,U,Z
   10,L,J,G
    7,L
-#drift doesn't align, would save 13f
-#  34,D,J
-#   6,R
-#  11,R,U,X
-#   1,J,G
-#   1,R,K,G
-#   2,L,K
-#   3,L,J,G
-#   2,L
-#   4,L,K,G
-#   5,L
-#   2,R
-#   1,R,J
-#   2,L,J
-#  14,U,X
-#   4,L
-#   1,J
-#   1
-#   6,L
-#   4,L,J
-   1,D
-  47,J
+  35,D,J
 
 #lvl_c00_intro
-   6,L
+   5,L
   11,R,U,X
    1,J,G
    1,R,K,G
    2,L,K
-   4,L,J,G
+   3,L,J,G
+   2,L
    4,L,K,G
-   4,L
-   3,R
-   2,R,J
+   6,L
+   1,R
+   1,R,J
+   2,L,J
   14,U,X
-  14,J
-   4,L
+  13,J
+   5,L
    1,J
    1
    6,L
@@ -1096,7 +1043,8 @@ EndStunPause
   14,U,X
    8,J
    1,R
-   2,J,G
+   1,J,G
+   1
    1,K,G
    6,R
    2,L
@@ -1527,7 +1475,6 @@ AnalogMode Ignore
   19,L
   28,R
   69,L
-
   53,R
   15,R,X
   14,R,C
@@ -1854,8 +1801,9 @@ EndRepeat
 StunPause
    2,R,D,X
    6,R,D
+   2,R,J
 EndStunPause
-   7,R,J
+   5,R,J
    5,R
    1,R,J
    2,R
@@ -2640,12 +2588,12 @@ EndStunPause
 ## Cycle 0
 #   7,R
 ## Cycle 1
-#   5,R
-#   2
-#   1,R
-## Cycle 2
    5,R
-   4
+   2
+   1,R
+## Cycle 2
+#   5,R
+#   4
 ##
   13,R,Z
    1,R,J
@@ -2659,7 +2607,6 @@ EndStunPause
   15,R,D,X
   15,L
 # Distance might be bottleneck here not sure how cutscene works
-
  163,U
   25,L
    8,R
@@ -2822,8 +2769,7 @@ EndStunPause
   11,R,X
    1,R,J,G
   14,R
-   6,R,J
-   1,R,J
+   7,R,J
    2,J
    1
    2,R
@@ -3360,7 +3306,6 @@ EndRepeat
    3,R
    2,R,D,J
    3,R
-##
    1,R,J
    1,R
   14,U,X
@@ -3453,4 +3398,4 @@ endrepeat
   16,U,X
  135,D
 
-ChapterTime: 8:02.596(28388)
+ChapterTime: 8:02.171(28363)
