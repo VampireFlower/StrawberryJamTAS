@@ -1,4 +1,4 @@
-RecordCount: 26512
+RecordCount: 26721
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -421,9 +421,9 @@ EndRepeat
   13,R,D,X
    3,R,J
    1,R
-   1,R,J
-  12,R,D
-  12,L,D,X
+   2,R,J
+  11,R,D
+  10,L,D,X
    2,R,J
 Repeat 3
    1,R,K
@@ -433,8 +433,7 @@ EndRepeat
    1,R,J,G
    2,R,K
    8,R
-   6,R,J
-   3,R
+   9,R,J
   16,R,D,X
    2,R,J
    6,R,K,G
@@ -492,16 +491,15 @@ EndRepeat
    2,L
   33,G
    8,D,G
-  22,G
-   1,D,G
+   8,G
+  16,U,G
    1,G
-   1,D,G
-   1,G
-   1,R
-  17,R,X
-  10,L,D,C
-   7,L
-  10,U,X
+   2
+   5,J
+   2
+  13,R,D,X
+  11,L
+   7,U,X
   11,R
   16,R,D,X
   17,U,C
@@ -709,7 +707,7 @@ EndRepeat
   21,R,D
   12,R,Z
 ## Spinner cycle [b04_powerav]
-   2
+   1
 ##
   45,R,X
   15,U,C
@@ -780,20 +778,24 @@ EndRepeat
    1,R,J
    4
    3,R
-  24,R,J
-   3,J
-   9,U,X
-   8,L,J
-   9,L
-   2,L,J
-   7,L
-  21,D
-  18,R,D
-   4,R
-  16,R,Z
-  22,R
+  11,R,J
+   5,R
+   2,R,J
+   3,R
+   1,L,K,G
+  11,R,K
+   5
+   1,J
+  15,L,Z
+  21,R,D
+   5,D
+   6,R,D
+   1,D
+  12,R,D
+  15,R,Z
+  23,R
   15,R,U,Z
-   2,L,G
+   2,L
    1,L,J,G
   10,L
    1,G
@@ -814,18 +816,17 @@ EndRepeat
    5,R,D
    6,L,D
    1,L
-   7,D
+   5,D
+   1
+   1,D
 ## Cycle in b03_banana
 StunPause
    7,R,D
    3,R
-   2,R,D
-   1,R
-   7,R,D
+  10,R,D
 EndStunPause
-   5,R,D
-   3,R
-   1,R,D
+   2,R,D
+   7,R
   22,R,Z
   51,R
   10,J,G
@@ -834,7 +835,7 @@ EndStunPause
    5,K,G
   12,R,J,G
   12,K,G
-   9,J,G
+   8,J,G
   15,U,X
   21,R,J
   31,L
@@ -1017,7 +1018,9 @@ EndStunPause
   15,U,Z
   10,L,J,G
    7,L
-  35,D,J
+   1,D,J
+   5
+  27,X
 
 #lvl_c00_intro
    5,L
@@ -1026,7 +1029,7 @@ EndStunPause
    1,R,K,G
    2,L,K
    3,L,J,G
-   2,L
+   1,L
    4,L,K,G
    6,L
    1,R
@@ -1279,20 +1282,24 @@ AnalogMode Ignore
   14,R,Z
    1,R,J
   16,R,D,X
-  25,R,J
-   2,R
+   6,R,J
    8,R
-  15,U,Z
-   1,L,J,G
-   7,L
+   2,R,J
+   7,R
+  15,R,U,Z
+   1,L
+   7,L,K,G
+   2,L,J,G
+   5
+   2,L
    4,Z
-   8,R,J
-   1,R
-  37,L,D
-   8,D
+   7,R,J
+   2,R
+  44,L,D
   15,L,X
-  17,R,C
-  12,G
+   1,L
+  15,R,X
+  13,G
   34,U,G
   24,G
    2,J,G
@@ -1499,9 +1506,7 @@ AnalogMode Ignore
    4,R,J
   15,R,D,X
    6,R,J
-   2,R
-   0,L
-   4,R
+   6,R
    3,R,J
   11,R
   14,R,U,Z
@@ -1611,7 +1616,7 @@ EndRepeat
    1,L,K
   11,R
 ## Lightning cycle [d02_lethargicdoggo]
-  21
+   1
 ##
    4,X
   11,R,J
@@ -1917,8 +1922,7 @@ EndStunPause
    6,L
   15,U,Z
    1,L
-   9,L,J
-   5,L,J
+  14,L,J
  102,U,Z
    9,R,U,X
   43
@@ -3246,8 +3250,7 @@ EndRepeat
    1,R,K,G
    9,R
    1,R,J
-   3,R
-   5,R
+   8,R
    1,R,J
   24,R,K,G
 
@@ -3379,4 +3382,4 @@ endrepeat
   16,U,X
  135,D
 
-ChapterTime: 7:59.995(28235)
+ChapterTime: 7:59.315(28195)
