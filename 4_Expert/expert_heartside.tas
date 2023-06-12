@@ -1,4 +1,4 @@
-RecordCount: 26721
+RecordCount: 27372
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -1792,20 +1792,19 @@ EndRepeat
 StunPause
    2,R,D,X
    6,R,D
-   2,R,J
 EndStunPause
-   5,R,J
-   5,R
-   2,R,J
+   7,R,J
+   1,R
+   1
    3,R
-  15,R,U,Z
-   2,R,J,G
-   1
-   2,J,G
-   7,R
    3,R,J
-   1
-   3,J,G
+   2,R
+  15,R,U,Z
+   1,R
+   4,R,J,G
+   7,R
+   6,R,J
+   1,R
    7,R,Z
    1,R,J
    6,R
@@ -2307,7 +2306,7 @@ EndStunPause
   14,R,J
   14,R,D,X
    4,R
-#climbhop cancel at the end?
+# Climbhop cancel at the end?
  233
    7,L,J
   11,L,X
@@ -2573,14 +2572,14 @@ EndStunPause
    1,K,G
 ## Spinner cycle [f01_quantumspaceman]
 ## Cycle 0
-#   7,R
+   7,R
 ## Cycle 1
 #   5,R
 #   2
 #   1,R
 # Cycle 2
-   5,R
-   4
+#   5,R
+#   4
 #
   13,R,Z
    1,R,J
@@ -2636,53 +2635,45 @@ EndStunPause
   15,R,D,X
    2,R
    1,R,J
-   7,R,K,G
-  14,R,X
-   1,R,J,G
-   2,R,K,G
-   4,R,J,G
-   8,R
-   1,R,D,J
-  16,R,D
+   3,R,K,G
+   7,R,J,G
+   7,R
+   7,R,D,X
+   5,R,J
+   7,R
+  15,R,D
   12,R,D,X
    1,R,J,G
    2,R,K,G
    1,R,J,G
-   3,R,K,G
-   4,R
-   1,L
-   2,L,J
-   5,L
-   1,R
-   5,R,D,J
+   4,R,K,G
+  11,R
+   3,R,D,J
+   2,J
   40
 
 #lvl_f01_quantumspaceman
-   7,R,D,J
+   5,J
+   2
   15,R,D,X
-## this depends on spinner cycle
+## This depends on spinner cycle
 ## Cycle in e06_transition
   10,R,J
-   6,R
+   5,R
+   7,R,J,G
+   4,J
+   1
+  17,R,U,X
+   7,L,J,G
+  14,R,J
+   3,J
+  11,U,X
+  15,L,J
+   3,J
+  13,R,U,Z
    1,R,J,G
-   7,L,J
-   2,R,J
-   4,R
-  16,R,U,X
-   1,L,J,G
-  11,R,J
-   8,L,J
-   1,R
-   2,R,J
-   1,R
-   2,L
-  12,U,X
-  14,L,J
-   5,J
-  11,R,U,Z
-   2,R,J,G
-   8
-   6,R,Z
+  10,R
+   5,R,Z
    1,R,J
    1,R,K,G
   16,R
@@ -2694,10 +2685,10 @@ EndStunPause
    5,R,D,X
    1,R,J,G
    5,R
-  40
+  43
 
 #lvl_f02_dantko
-  12,R
+   9,R
    1,R,J
    3,R
   18,R,D,X
@@ -2920,17 +2911,18 @@ EndStunPause
   10,L,D,X
    1,L,J
    6,L
-  11,D,G
+  12,D,G
   14,G
    1
    1,J,G
    1,K,G
    1,J,G
   21,R,D,X
-   4,R
+   3,R
    1,R,D
    1,R,J
-   5,R
+   1
+   4,R
    4,R,J
    3,R
   13,R,U,X
@@ -2938,10 +2930,13 @@ EndStunPause
   40
 
 #lvl_f04_alt
-   6,R,J
+   5,R,J
   18,U,X
-  33,D
-   8,J
+  29,D
+   2
+   2,D
+   3,R,J
+   4,J
   27,U,X
   70
 
@@ -3225,14 +3220,15 @@ EndRepeat
    8,R,D,X
    1,R,J,G
   11,R
-   6,R,J
+   1,R,J
+   1,J
+   4,R,J
   14,R,D,X
 
 #lvl_f07_ekisacik
 # These transitions happen after a fixed time
 # The barrier doesn't load for the first frame
-#after a transition 
-#the teleporter is already there so every frame matters
+# After a transition the teleporter is already there so every frame matters
    1,L,J
   13,L,D,X
    1,L,J
@@ -3255,8 +3251,9 @@ EndRepeat
   24,R,K,G
 
 #lvl_f07_lennygold
-  39,R,K,G
-  24,R,U,X
+  39,R,K
+  15,R,U,X
+   9,R
   11,R,J,G
    7,R
    4,R,Z
@@ -3307,35 +3304,38 @@ EndRepeat
 Repeat 4
    2,R,D,J
    3,R
-endrepeat
+EndRepeat
    3,R,J
   14,U,X
    1,R,J
    3,R,K,G
    7,R
-   7,R,Z
+   8,R,Z
    1,R,J
    7,R
    1,R,J
-  14,R,D,X
-   1,R,J
+  17,R,D,X
 
 #lvl_f07_introcar
 # Getting to the portal early allows
 # you to skip a bit of the next room
-   3
-   4,L,Z
    1,L,J
    1,L
    1,L,J
-   9,L,D
+
+   2,L
+   4
+   1,L
+   2
   15,D,X
    3,L,D
    1,L,J
    1,L
   15,D,X
-   7,L,D
-  14,L,Z
+   1,R,D
+   1,L,D
+   1,L
+  16,L,D,X
 
 #lvl_f07_and_you
    1,R,J
@@ -3382,4 +3382,4 @@ endrepeat
   16,U,X
  135,D
 
-ChapterTime: 7:59.315(28195)
+ChapterTime: 7:58.890(28170)
