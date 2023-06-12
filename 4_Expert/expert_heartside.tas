@@ -1,4 +1,4 @@
-RecordCount: 26239
+RecordCount: 26512
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -26,7 +26,7 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1,R,D,J
    1,R
    1
-# Can get 436 but probbly doesnt matter
+# Can get 436 but probably doesnt matter
   15,R,D,X
    5,R,D
    1,R,J
@@ -217,9 +217,9 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1,J
    3
   22,R,D,X
-  15,D,C
+  23,D,C
   18,L,X
-  27,D,C
+  21,D,C
   12,R
   29,R,X
   19,D,C
@@ -505,38 +505,36 @@ EndRepeat
   11,R
   16,R,D,X
   17,U,C
-   5,D
-  19,R,D
-  15,R,X
-  15,U,C
-   9,R
-  12
-  17,U,X
-   6,D
-   6,R,D
-   7,D
-   5,R,D
-   7,R
-   2,R,D
+   3,D
+  15,R,D
+   2,D
+  15,R,D,X
+  10,R
+  15,U,X
+  10,R
+  15,U,X
+   2,R
+  10,R,D
+  11,D
+  11,R,D
   15,R,X
   11,R
-  11,R,C
+  12,R,C
   40
 
 #lvl_b02_alt_alt
-   4,R,C
+   3,R
   15,R,X
-  15,R,C
-   2,R
+  16,R,C
   14,R,Z
+   1,R,J
 
 #lvl_b02_nyan
+  14,R,D,X
    1,R,J
   14,R,D,X
    1,R,J
-  13,R,D,X
-   1,R,J
-   1,R
+   1
    8,R,D,X
    1,R,J
    7,R
@@ -585,14 +583,20 @@ EndRepeat
   13,R,K
   14,R,X
    6,R,J
-  11
-  14,R,X
-  44,R,J
-  11,R
-  15,R,D
-  13,D
-  20,R
-  30
+   3,R
+   4
+   1,J
+   4
+  11,R,Z
+   1,R,J
+   1,R,K,G
+   3,K
+  22,R,K
+  45,R,D,X
+  15,L,C
+  15,D,X
+   6,R
+  20
    1,R,J
    5
    3,J
@@ -705,7 +709,7 @@ EndRepeat
   21,R,D
   12,R,Z
 ## Spinner cycle [b04_powerav]
-   0
+   2
 ##
   45,R,X
   15,U,C
@@ -1607,7 +1611,7 @@ EndRepeat
    1,L,K
   11,R
 ## Lightning cycle [d02_lethargicdoggo]
-   0
+  21
 ##
    4,X
   11,R,J
@@ -1914,10 +1918,9 @@ EndStunPause
   15,U,Z
    1,L
    9,L,J
-  14,U,X
-  94
-   2,R
-  23
+   5,L,J
+ 102,U,Z
+   9,R,U,X
   43
 
 #lvl_d04_yoshachobi7
@@ -2566,15 +2569,15 @@ EndStunPause
    1,K,G
 ## Spinner cycle [f01_quantumspaceman]
 ## Cycle 0
-   7,R
+#   7,R
 ## Cycle 1
 #   5,R
 #   2
 #   1,R
-## Cycle 2
-#   5,R
-#   4
-##
+# Cycle 2
+   5,R
+   4
+#
   13,R,Z
    1,R,J
    7,R
@@ -3376,4 +3379,4 @@ endrepeat
   16,U,X
  135,D
 
-ChapterTime: 8:00.250(28250)
+ChapterTime: 7:59.995(28235)
