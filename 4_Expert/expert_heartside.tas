@@ -1,4 +1,4 @@
-RecordCount: 26238
+RecordCount: 26239
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -3223,53 +3223,49 @@ EndRepeat
 
 #lvl_f07_ekisacik
 # These transitions happen after a fixed time
-# Time can only be saved by building up more speed after 2nd transition
-# Movement in this room is "intentionally" slow
+# The barrier doesn't load for the first frame
+#after a transition 
+#the teleporter is already there so every frame matters
    1,L,J
+  13,L,D,X
+   1,L,J
+   4,L
+   2,L,J
    7,L
-   1,L,J
-   8,L
-  25
-  11,R
-  15
-   7,R,Z
-   1,L,J
-   3,L
-   4
-  14,L,Z
-
-#lvl_f07_lennygold
-   4,R,J
+   8,L,Z
+   1,R,J
+   6,R
+   1,R,D,J
+   1,R
    6,R,D,X
    1,R,J,G
-   3
-  11,R
-   3,R,J
-   5,R,D,X
-   1,R,J,G
-   5
-   6,R
-   1,R,J
    4,R
-   8,R,D,X
-   1,R,J,G
-   2,R
-   4,R,J,G
-  23,R
+   1,R,K,G
+   9,R
+   1,R,J
+   3,R
+   5,R
+   1,R,J
+  24,R,K,G
+
+#lvl_f07_lennygold
+  39,R,K,G
+  24,R,U,X
+  11,R,J,G
+   7,R
+   4,R,Z
 
 #lvl_f07_syrenyx
-   1,R
-   1,R,J
-  14,R
-   4,R,J
-  12,R
-   4,R,J
-   5,R,K,G
+   8,R,J
+   4,R
+   6,R,J
   15,R,U,X
    6,R,J,G
    1,R
-   1,R,J,G
-   7,R
+   1
+   1,R
+   1
+   3,R
    4,R,Z
    2,R,J
   10,R
@@ -3380,4 +3376,4 @@ endrepeat
   16,U,X
  135,D
 
-ChapterTime: 8:00.675(28275)
+ChapterTime: 8:00.250(28250)
