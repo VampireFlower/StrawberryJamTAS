@@ -1,4 +1,4 @@
-RecordCount: 16174
+RecordCount: 16187
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -438,18 +438,15 @@ StunPause
    6,R
 SkipInput 3 1
   15,R,Z
-   1,R
+   2,R
 SkipInput 3 1
   15,D,C
-   2,R,D
 EndStunPause
-   1,R
-   1,R,D
-   1,D
-   7,R
+   2,R,D
+   3,R
    1,R,J
    1,R
-  11,R,D,X
+  12,R,D,X
   40
 
 #lvl_heartside_Meario
@@ -2023,4 +2020,4 @@ EndStunPause
   12,U,X
  135
 
-ChapterTime: 4:56.378(17434)
+ChapterTime: 4:56.106(17418)
