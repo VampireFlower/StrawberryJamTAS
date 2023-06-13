@@ -1,4 +1,4 @@
-RecordCount: 1723
+RecordCount: 1822
 
 console load StrawberryJam2021/2-Intermediate/Liero
    1
@@ -106,10 +106,9 @@ console load StrawberryJam2021/2-Intermediate/Liero
   18,R,X
 #feels slow 
   15,U,C
-  35,D
-   9,R,D
-  15,R,C
-  13,D
+  44,D
+  18,R,C
+  10
   15,U,X
   15,R,C
   16,D
@@ -134,14 +133,16 @@ console load StrawberryJam2021/2-Intermediate/Liero
    7,J
    3
   15,R,Z
-  19,D
-  15,R,X
-  21,R,C
+   2,R,D
+   2,D
+  18,R,D
+  18,R,X
+  11,R
   15,L,U,Z
-  10,U,C
-  19,R,X
-  18,R,D,C
-  15,R,X
+   7,U,X
+  19,R,C
+  18,R,D,X
+  15,R,C
    2,R
    2
   15,D,X
@@ -308,7 +309,7 @@ console load StrawberryJam2021/2-Intermediate/Liero
    1,D,J
   69,O
 #Spinner Cycle
-   1
+   2
 ##
    4,L,X
   11,L,J
@@ -352,4 +353,4 @@ EndStunPause
   73,D
    5,D,X
  135
-ChapterTime: 0:59.602(3506)
+ChapterTime: 0:59.551(3503)
