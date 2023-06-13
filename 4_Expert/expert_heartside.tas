@@ -1,4 +1,4 @@
-RecordCount: 27422
+RecordCount: 27741
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -617,13 +617,13 @@ EndRepeat
    4,R,J
 
 #lvl_b02_alt
-   2,R,J
-  14,R
-   5,R,U,Z
-  40
-
-#lvl_b03_banana
-   9,R,U,Z
+   4,R,J
+  59,R
+   1,R,N
+   4,R,J
+  10,R,Z
+   5,R,J
+  12,R,U,Z
   16,R,C
   15,L,U,X
    9,L,U,Z
@@ -652,11 +652,16 @@ EndRepeat
    8,J
    1,L,J
    1,J
-   8,L
-   4,L,Z
-   9,R,J
+   7,L
+   5,L,D,X
+   6,R,J
+   1,R
+   1,R,J
    7,R
-  39,R,J
+   1,R,K,G
+  10,R
+   9,R,J
+  17,R
   15,R,X
   36,D,C
    2,R,D
@@ -731,27 +736,29 @@ EndRepeat
   15,R,D,X
    1,R,J
    2,R,K,G
-  11,R
-   4,R,J
+   9,R
+   9,R,D,X
   40
 
 #lvl_b04_powerav
+   1,R,D,J
+   1,J
    6,R,J
-   5,R
+   2,R
   15,R,D,X
-  36,R,J
-  14,R,Z
+  12,R,J
+  17,R
+   1,R,D,J
+   1,J
+  16,R,J
+   7,U,X
    1,R,J
-  14,R,D,X
-   8,R,J
-  15,R,U,X
-   2,R,J,G
-   4,L,D
-  14,R,D
+  18,R,D
    4,R,Z
-   3,R,J
-   9,R
-   5,R,D,J
+   2,R,J
+   4,R
+   5,R,J
+   5,R,D,K
    4,R
   18,U,X
    8,R,C
@@ -825,14 +832,15 @@ StunPause
    3,R
   10,R,D
 EndStunPause
+   3,R,D
+   4,R
    2,R,D
-   7,R
   22,R,Z
   51,R
   10,J,G
    1,L,J
    1,R,J
-   5,K,G
+   6,K,G
   12,R,J,G
   12,K,G
    8,J,G
@@ -1079,6 +1087,7 @@ EndStunPause
    9,R
   40
 
+
 #lvl_c01_redboule
    7,R,D,X,G
    1,R,J,G
@@ -1241,14 +1250,13 @@ AnalogMode Ignore
    1,J
   13,R,D
    2,D
-  39,R,D,X
-   5,R,D,J
-  15,U,X
-   8
-  17,J
+  33,R,D,X
+   6,D
+   6,D,J
+  21,U,X
+  15,J
    6,R,J
-  15,U,X
-   3,R
+  20,U,X
   10,L,Z
    1,R,J
    9,R
@@ -1273,6 +1281,7 @@ AnalogMode Ignore
    1,L,D
    1,L
    1,L,D
+
   15,L,D,X
    3,L
    4,L,D
@@ -1300,6 +1309,7 @@ AnalogMode Ignore
    1,L
   15,R,X
   13,G
+
   34,U,G
   24,G
    2,J,G
@@ -1565,6 +1575,7 @@ EndRepeat
    4,D
    1,L,D
    1
+
    7,R,Z
    1,R,J
   39,R
@@ -2795,7 +2806,7 @@ EndStunPause
   15,R,D,X
  215,R,D
    2,L,J
-  11,L,Z
+  10,L,Z
    1,R,J
    3
    3,R
@@ -3379,4 +3390,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 7:58.822(28166)
+ChapterTime: 7:58.601(28153)
