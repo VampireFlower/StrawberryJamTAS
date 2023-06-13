@@ -1,4 +1,4 @@
-RecordCount: 20438
+RecordCount: 20842
 
 console load StrawberryJam2021/5-Grandmaster/Dav
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/5-Grandmaster/Dav
  190
 
 ### spinner cycle [chill-0 (0)]
-   1
+   2
 ###
 
 #lvl_a-intro (0)
@@ -88,18 +88,38 @@ console load StrawberryJam2021/5-Grandmaster/Dav
   24,J
    7,R,J
    2
-Repeat 12
+  22,R
+   6,R,G
+   3,U,G
+Repeat 25
+   1,D,G
+   1,U,G
+EndRepeat
+   5
+  13,G
+   5
+   4,G
+   5
+   4,G
+   5
+  13,G
+   5
+  31,G
+   5
+  13,G
+   5
+  42,G
+   1
+Repeat 7
    1,J
   25,R,J
    1,K
   25,R,K
 EndRepeat
-   1,J
-  23,R,J
-   2,R
-   8,K
-   2
-  22,R,Z
+  56,R,G
+   6,D,G
+   1,R,G
+  18,R,Z
    2
   42,L,J
    8,K,G
@@ -270,6 +290,25 @@ EndRepeat
    2,R
    4,R,K,G
   14,R,D,X
+##more speed but useless
+#   6,R
+#  15,D,X
+#  14
+#   1,R,J
+#  18,R
+#   7,L,Z
+#Repeat 3
+#   1,R,J
+#   1,R,K
+#EndRepeat
+#   1,R,J
+#   1,R,K,G
+#   3,R
+#  11,R,U,X
+#   6,R,J,G
+#   8,R,K,G
+#  99,R
+##
    2,R,J
   15,R,D,X
    1,R,J
@@ -286,26 +325,29 @@ EndRepeat
    7,R
    1,R,J
    4,R
-  10,R,J
-   8,R,U,X
+  14,R,J
+   4,R,U,X
 
 #lvl_chill-0 (0)
-   6,R,U,X
-   8,R,J,G
+#vertical distance is the bottleneck
+#for the most part
+   7,R,U,X
+   9,R,J,G
    1,R,K,G
+   1,R,K,G
+   1,J,G
    1,R
-   5,R,J,G
-  12,R
-  11,R,J
-  15,L,U,X
-  13,L
-  31
+   5,R
+   3,R,J
+   4,R
+  14,R,J
+  15,L,X
+  17,D
+   2,L
+   2
    1,L
    1
-   1,L
-   1
-   1,L
-  34
+  57
   15,X
   12,R
   11
@@ -450,33 +492,32 @@ EndStunPause
    1,R,J
    1,J
    1,R,J
-   1,J
-   4,J
-   1,L,J
-   2,L
-   9,L,Z
+   6,J
+   2
+  14,L,Z
+   1,R,J
+   5,R,D,X
+   3,R,J,G
+   9,R
+   2,R,J
+  25,R,D,X
    1,R,J
    6,R
-   3,R,J
-   2,R,K,G
-   3,R
-  15,R,D,X
-  12,R,D
-   1,R,J
-   3,R,K,G
-   2,R,J,G
-   1,L,J
-   6,R,J
-   3,R
-   8,R,X
+   9,R,U,X
    1,R,J,G
-  10,R
-  22,R,J
-  15,R,D,X
-   8,R,J
-  15,R,U,X
-  27,L
-  38
+  21,R,K,G
+   1,R
+   1,R,J
+  10,R,D
+  15,L,J
+  15,U,X
+  41,D
+   5,R
+   5
+   1,L
+   1
+   1,L
+   9
   20,R,J
   16
    3,J
@@ -679,6 +720,17 @@ EndRepeat
   10,L,X
   54,L,J,G
   30,R,X
+
+
+#Set, Player.Speed, 0, 0
+#  10
+#Invoke, Player.MoveH, 40
+#   6,L,G
+#   9,U,G
+#   6,U,X
+#  99,J
+
+
   35
    1,R
    1
@@ -1046,4 +1098,4 @@ EndRepeat
   15,L,U,X
  133
 
-ChapterTime: 2:47.076(9828)
+ChapterTime: 2:46.923(9819)
