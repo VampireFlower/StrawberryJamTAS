@@ -1,4 +1,4 @@
-RecordCount: 3328
+RecordCount: 3375
 
 console load StrawberryJam2021/4-Expert/QuantumSpaceman
    1
@@ -143,21 +143,19 @@ console load StrawberryJam2021/4-Expert/QuantumSpaceman
   14,R,D,X
    2,R
   19,R,D
-  66,R,G
-  19,R,U,G
+  62,R,G
+   4,R,U,G
    1,L
-  14,R,X
-   3,R,J
-  14,R,Z
-   3,R,J
+   9,R
+  17,R,X
+  22,R,Z
   40
 
 #lvl_a-02
-   1,S
-   1,D,J
-  69,O
+   1
+  72,O
 #Spinner cycle
-   0
+   2
    6,L,Z
    1,R,J
    7,R
@@ -192,10 +190,9 @@ StunPause
    7,U,C
    3
 SkipInput,3,1
-   9,U,X
+   8,U,X
 EndStunPause
-   6,U,X
-   7
+  14,U,X
   40
 
 #lvl_a-04b
@@ -537,4 +534,4 @@ EndStunPause
   23,R,D
   15,U,X
  125
-ChapterTime: 1:56.909(6877)
+ChapterTime: 1:56.841(6873)
