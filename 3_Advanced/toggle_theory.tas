@@ -1,4 +1,7 @@
-RecordCount: 2009
+# StrawberryJam2021
+# https://gamebanana.com/mods/424541
+
+RecordCount: 2911
 
 console load StrawberryJam2021/3-Advanced/Citrea
    1
@@ -86,11 +89,11 @@ console load StrawberryJam2021/3-Advanced/Citrea
   40
 
 #lvl_a-3
-#probably so much timesave here
+#still probably so much timesave here
    5,R,D,J
   10,R
-  15,R,U,X
-  19,R
+  15,R,U,Z
+  19,R,D
   14,R,D,X
   25,R,J
    4,J
@@ -191,25 +194,20 @@ endstunpause
   40
 
 #lvl_a-6
-   3,R,U,X
-   8,J,G
-   3,L,K
-   1,J
-  16,L,K
-  10,R,J
-  14,L,U,X
-   1,K
+   3,R,J
+   8,R,K,G
+   3,L,J
+  13,L,K
+  15,U,X
+   8,L
   16,R,J
   16,L,K
-  11,R,J
-   5,R
-   1,R,J
-  15,R
+  12,R,J
+  20,R
   18,R,D
   16,U,X
   12,R,J
-  24,R,D
-   2,R
+  26,R,D
   13,R,X
    6,R,J
    3,R
@@ -232,30 +230,36 @@ endstunpause
  207
 
 #lvl_heart
-  10,L,D,X
-   4,L,J
-   3,L,K,G
-   7,L,D,X
+   4,L,D,X
+   9,L,J
+   4,L
    1,S
    1,D,J
   34,O
-   7,L,G
-   6,L,K,G
-  12,L
-  93,D
-  16,R
-  18,L,G
-   4,L,U,G
+  10,L,G
+   2,L,K,G
+  24,L
+   3
+  11,R,X
+  22,R,J
+  17,U,X
+   2,J
+   1,L,J
+   1,L,K,G
    1,L,J,G
-   6,K,G
-   8,R
-   5,L,Z
+   1,L,K,G
+   4,L,J,G
+   7,L
+   4,L,Z
    1,L,J
-   4,L
-   1,L,J
-   8,L,K,G
-  10,L
-  15,L,U,X
+   6,L
+   8,L,J
+  16,L,K,G
+  10,U,X
  136,D
+ChapterTime: 0:39.627(2331)
 
-ChapterTime: 0:40.987(2411)
+ 
+
+
+
