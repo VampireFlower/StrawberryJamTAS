@@ -1,4 +1,4 @@
-RecordCount: 12748
+RecordCount: 12926
 
 console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    1
@@ -331,7 +331,7 @@ EndRepeat
    9,R,D,X
   40
 
-#lvl_cp2-17-heartside_NotYourBadeline
+#lvl_cp2-17-heartside_NotYourBadeline[
    2,R,D,X
    5,R,J
    6,R,K,G
@@ -1507,6 +1507,7 @@ EndStunPause
   40
 
 #lvl_cp5_04_heartside_circumplex
+
    3,R,D
    1,R,J
    5,R
@@ -1532,13 +1533,13 @@ EndStunPause
   40,R,D
   33,R
    1,J
-   7,R,D
-  44,D
-  12,L,X
-  12,L
-  15,R
-  15,R,X
-  26,R
+  10,R,D
+  21,D
+   3,L,D
+  29,L,U
+  12,R,X
+  15,R,U,Z
+  34,R
   15,U,X
   12,R,C
   20,R
@@ -2003,4 +2004,4 @@ Repeat 33
 EndRepeat
    1
 
-ChapterTime: 4:29.756(15868)
+ChapterTime: 4:29.637(15861)
