@@ -1,4 +1,4 @@
-RecordCount: 3406
+RecordCount: 3432
 
 console load StrawberryJam2021/2-Intermediate/Ice
    1
@@ -365,22 +365,21 @@ console load StrawberryJam2021/2-Intermediate/Ice
    1,L,J,G
    8,L,J
   15,L,D,X
-   9,L
-   1
+  10,L
+   4,L,D,X
    1,L,J
-  10,L,D,X
-   5,L,J
-   7,L,K,G
+   4,L
+   1,L,J
+   2,L
+   4,L,J
+   6,L,K,G
    5,L,U,Z
   40
 
 #lvl_b-02 (2)
-   8,L,U,Z
-   1,R
-   1,J,G
-  31,U,X
-   1,L
-   1
+  10,L,U,Z
+  30,U,X
+   2,R
    7,R,D,X
    1,L,J
    7,L
@@ -515,7 +514,7 @@ console load StrawberryJam2021/2-Intermediate/Ice
    2,R,D
    7,L,D
 # spinner cycle 0-2
-   1,L,G
+   0,L,G
 #
   15,L,D,X
    5,L
@@ -714,11 +713,11 @@ EndStunPause
   15,D,X
   13,D
   37,R,D
-   8,R,Z
-   4,R,J
-   1,R
-   9,R,K
-  89,U,X
+  10,R,Z
+   1,R,J
+   6,R
+   8,R,U,Z
+  88,U,X
   40
 
 #lvl_c-01
@@ -758,4 +757,4 @@ EndStunPause
   15,U,X
  135
 
-ChapterTime: 1:58.541(6973)
+ChapterTime: 1:58.473(6969)
