@@ -1,4 +1,4 @@
-RecordCount: 920
+RecordCount: 939
 
 console load StrawberryJam2021/3-Advanced/Julia
    1
@@ -6,7 +6,7 @@ console load StrawberryJam2021/3-Advanced/Julia
 #Start
   69
 #spinner cycle
-   2
+   0
 
 #  14,R,Z
 #  15,R,J
@@ -197,17 +197,20 @@ console load StrawberryJam2021/3-Advanced/Julia
   25,R,D,G
   27,D,G
    1,R,D,G
-  19,R,U,G
-   1,R,D,G
-  14,R,U,G
+  18,R,U,G
+   2,R,U,G
+  13,R,U,G
    9,D
-  11,U,X
-  30,G
+  12,U,X
+  25,G
+   4,R,G
   18,R,U,X
    7
-   3,L,J
+   2,L,J
+   1,L
   10,R,Z
-   2,R,J
+   1,R,J
+   1,R
    5,R,K,G
    2,R
    5,R,D,X
@@ -384,4 +387,4 @@ EndStunPause
   11,R,U,X
  135
 
-ChapterTime: 0:56.406(3318)
+ChapterTime: 0:56.355(3315)
