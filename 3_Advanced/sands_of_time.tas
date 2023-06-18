@@ -1,4 +1,4 @@
-RecordCount: 5690
+RecordCount: 5752
 
 console load StrawberryJam2021/3-Advanced/astraxel
    1
@@ -142,16 +142,18 @@ console load StrawberryJam2021/3-Advanced/astraxel
    1,L,J
    9,L
   15,L,U,X
-  10
+   5,R
    1,J
-   1,R,K,G
-   4,L,K
-   6,K
+   3,K,G
+   6
+   5,R,J,G
   15,U,X
-   4
   15,U,C
   10,R
-  19,G
+   1,G
+   1,J,G
+  12,R
+   5,G
    4,R,Z
    1,R,J
    1,R,K,G
@@ -526,4 +528,4 @@ console load StrawberryJam2021/3-Advanced/astraxel
   16,U,X
  135
 
-ChapterTime: 1:00.418(3554)
+ChapterTime: 1:00.316(3548)
