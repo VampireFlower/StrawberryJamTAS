@@ -1,4 +1,4 @@
-RecordCount: 27182
+RecordCount: 27439
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -2306,7 +2306,7 @@ endrepeat
    5,R
    2
 ##spinner cycle for flag 1
-   0
+   2
 ##
    8,R,Z
    1,R,J
@@ -2368,90 +2368,116 @@ endrepeat
   18,R,J
   16,U,X
 1343
-
-  10,R,Z
-   2,R,J
-   5,R,K,G
-   8,R,J,G
-   4,R
+  10,R,X
+   5,R,J
+  10,R,X
+   3,L,J
+   2,L
+  11,R,Z
+   1,R,J
+   3,R
+  11,R,D,X
+   1,R,J
+   3,R,K,G
+  10,R,X
+   3,L,J
+   2,L
+  10,R,X
+   1,L,J
+   6,J
+  12,R,Z
+   1,R,J
+   2,J
+  15,R,D,X
+   2
+   3,R,J
+  60,R,Z
+   8,R,J
+  16,U,X
+  12,R,J
+  30,L,K
+  15,J
+   4,L,J
+  15,L,Z
+  15,D,X
+  10,R,D,C
+   1,L,J
+   4,L
+  15,L,D,X
+  10
   14,R,Z
    1,R,J
-  14,R,D,X
-   1,R,J
-  15,R,D,X
-  15,R,D,C
-  15,R,D,X
-  15,R,D,C
-  13,R,D,X
-   2,R,J
-   5,R,U,Z
-  46,R
-   7
-   1,J
-   8,R,J
+  22,R,D,X
+   4,R,J
+  14,R
+  13,R,J
   15,U,X
-  12,R,J
-  30,L,U,K
-   8,L,J
-  13,L
-  15,L,X
-  18,U,C
-  15,D,X
-  16,L,D,C
-  12,R,D,X
-   1,R,J
-   2,R
-  19,R,D,X
-   5,R,J
-  15,R
-  16,R,J
-  11,K,G
-   3,J,G
-   1,J
-   1,L,J
-   2,L
-  19,U,X
+  15,U,C
    6,R
-  10,R,X
-   2,R,J
-StunPause
-   9,R,J
-   3,R
-SkipInput 3 1
-  15,U,Z
-   4,R
-SkipInput 3 6
-  10
-   2,L
-
-  11,R
-   3
-SkipInput 3 1
-  15,R,Z
-   9,R,J,G
-EndStunPause
-   2,R,J
-  16,R,D
-   6,D
-   2,R,D
-   8,R,J
-  15,R
+   4
+   6,L,Z
    1,R,J
-  11,R,K
-   9,R
-   8,R,J
-  11,R
-  21,R,D
-   5,R,K
-  41,R
+   6,R
+  12,R,D,J
+  12,K,G
+   8,J,G
+   1
+  43,U,X
+   1,L,D
+   1
+   1,D
+   1
+  14,R
+StunPause
+   4,R
+   9,R,D
+   2,D
+   1
+   3,D
+   2
+Skipinput 3 1
+  11,R,D,X
+EndStunPause
+   4,R
+   1,R,G
+   1
+   1,G
+   2
+   1,J
+   1,G
+   4
+   1,G
+  32,R
+   5,R,J
+  13,R
+   4
+   1,R,J
+   5,J
+   5
+   1,J
+   8
+   5,L
+   1,K
+  18,R,K
+  29,J
+  21,R
+   4,R,J
+   5,R
+  24,R,J
+   1,R,K
+  15,R
+   2,J
+   1
+   4,R
+   2,R,J
+   5,R
   14,R,J
-  20,K
-  11
+  32,K
   23,J
   39,R,K
   46,R
   27,R,D,J
-  29,G
+  28,G
    6,J,G
    1
   12,J
@@ -2469,8 +2495,9 @@ EndStunPause
   21,R
   36,R,J
    4
-   6,R
-  25,R,K
+   7,R
+  21,R,K
+   4,K
   25,R,J
   14,R,X
  130,R,D
@@ -2571,4 +2598,4 @@ Repeat 34
    2,L,D
 Endrepeat
 
-ChapterTime: 7:27.287(26311)
+ChapterTime: 7:25.298(26194)
