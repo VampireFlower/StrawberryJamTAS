@@ -1,4 +1,4 @@
-RecordCount: 27580
+RecordCount: 27824
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -220,8 +220,8 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1,R,J
    7,R,D,X
   17,R,J,G
- 112,R,U,K,G
-   5,L,U,K,G
+  99,R,U,K,G
+  19,L,U,K,G
    1,R
   14,R,U,X
    1,J,G
@@ -230,8 +230,8 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
 
 #lvl_a3_16-Cookie
    4
-   6,L
-  17,L,U,Z
+   4,R
+  16,L,U,Z
    4,R,J
   10,R,D,X
   22,R,J
@@ -284,47 +284,48 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1,R,K
    1,J
    5,R,J
-   5,L,J
-   1,L,K,G
-   1,R,K
-   1,L,K
-   1,R,K
-   1,L,K
-   1,R,K
-   1,L,K
-   7,J
-  31,R,U,X
-   7,L,J
-  14,L,K
-  11,L,X
-  20,R,J
-   7,R,K,G
-   9,L,J
-  21,R,U,C
+   4,L,J
+   1,R,J
    1,L,J
-   7,R,J
-  12,R,K
+   7,K,G
    1,L,K
-   1,J
-   3,K,G
-  13,R,K
-   9,J,G
-   1,L,J
-   1,K
-   8,L,K
    2,R,K
-   3,R,J,G
-   1,L,J
+   4,K
+  30,R,U,X
+   6,L,J
+  15,L,K
+  10,L,X
+  20,R,J
+   8,K,G
+   1,L,K
+   1,R,K
+   2,J,G
+  10,L,J
+  23,R,U,Z
+   4,R,J
+   1,R,K
+   1,K
+   7,R,K
+   1,L,K
+  10,J,G
+   4,R,J
+   8,K,G
+   1,L,K
    1,J
-   1,L,J
-   1,J
-   3,L,J
-   2,J
-  16,L,K
-  10,L,J,G
-   5,K,G
-   8,L,K
-  13,L,J,G
+   8,L,J
+   2,R,J
+   3,R,K,G
+   1,L,K
+   1,K
+   1,L,K
+   1,K
+   3,L,K
+   2,K
+  16,L,J
+  10,L,K,G
+   5,J,G
+   8,L,J
+  13,L,K,G
   14,U,Z
    1,L,J
    2,J
@@ -2488,6 +2489,7 @@ EndStunPause
    7,R
   21,R,K
    4,K
+
   25,R,J
   14,R,X
  130,R,D
@@ -2588,4 +2590,4 @@ Repeat 34
    2,L,D
 Endrepeat
 
-ChapterTime: 7:24.907(26171)
+ChapterTime: 7:24.805(26165)
