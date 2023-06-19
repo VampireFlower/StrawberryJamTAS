@@ -1,4 +1,4 @@
-RecordCount: 3018
+RecordCount: 3419
 
 console load StrawberryJam2021/3-Advanced/Viv
    1
@@ -86,11 +86,10 @@ endrepeat
    3,R
    2,R,J
    1,R
-  14,R,Z
-   6,R
+  15,R,Z
+   5,R
   11,R,D,X
-   3,R,J
-   1,J
+   4,R,J
   14,R,U,Z
    9,J,G
   40
@@ -114,16 +113,17 @@ endrepeat
   40,R,Z
   98,U,G
   43,D,G
-  37
-  12,L,D,X
+  34
+  13,L,D,X
   30,R,J
   17,R,D,X
    1,R,J
-  14,R,D,X
-   2,R,J
+   3,R
   14,R,D,X
    1,R,J
-  12,R,D,X
+  14,R,D,X
+   1,R,J
+  11,R,D,X
   40
 
 #lvl_viv3
@@ -132,12 +132,15 @@ endrepeat
    6,R,D,X
    1,R,J
    7,R
-  19,R,J
-  34,R
-  31,L,Z
+  18,R,J
+   3,R
+   1,R,J
+  30,R
+  27,L,Z
   14,L,D,X
-   6,L,J
-  29,L,D
+   7,L,J
+  16,L
+  12,L,D
   10,R,D,X
    7,R,J
    1,R
@@ -180,35 +183,36 @@ endrepeat
   14,R,Z
    1,L,J
   15,L,D,X
-  21,L
+  24,L
   15,R,D,X
   37,R
-  10,L,Z
    3,L,J
-   2,K,G
-   1,J
-   9,L,K,G
-  10,L,D,X
+  14,L,Z
   59,R,J
   38,L,K
-  54,L,X
-  18,D,G
+  55,L,X
+  13,D,G
+   2,R
+   2,L,G
    3,R,J,G
   31,R,X
-   7
+   1,L
+   3
+   1,K,G
+  15,R,D,X
+  16,R
+   2,R,D
    2,R
-   1,L,J,G
-  31,R,D,X
-   6
-   2,L,J
+   4,L,J
   40
 
 #lvl_viv5(0)
-   7,L,J
-  97,R,U,Z
+   1,L,J
+   3,R,J
+  98,R,U,Z
   51,L,J
   40,D,G
-  22,U,G
+  25,U,G
   15,D,X
    3,R
   19,R,D,J
@@ -227,12 +231,12 @@ endrepeat
   37,R,U,X
   22,R,D,C
    1,R,J
-   9,R,D,X
-   6,R,J
+   5,R,D,X
+   9,R,J
   40
 
 #lvl_viv5x
-   4,R,J
+   4,R
   15,R,D,X
   16,D
    1,L,D
@@ -263,7 +267,13 @@ endrepeat
   15,L,D,X
    2,R
    1,D
-  18,R,D,J
+   1,R
+   1,D
+   1,R
+   1,D
+   1,R
+   1,D
+  10,R,D,J
   92,D,X
    5,R,J
   40
@@ -280,7 +290,6 @@ endrepeat
   52,R,D,C
    1,R,J
   40
-
 
 #lvl_viv7
    5,R,Z
@@ -328,7 +337,6 @@ endrepeat
   15,R,J,G
   40
 
-
 #lvl_viv8
   14,R,D,X
    1,R,J
@@ -346,7 +354,7 @@ endrepeat
   14,D
  103,R,J
   10,L,K
-  44,R,J
+  43,R,J
   12,K,G
    9
  117,R,J
@@ -368,9 +376,8 @@ endrepeat
    1,R
    5,R,J
    3,R,D,K
-   1,R
   15,R,D,X
    1
-  28,L,J
+  28,L,D,J
  139,R,X
-ChapterTime: 1:39.178(5834)
+ChapterTime: 1:38.719(5807)
