@@ -1,4 +1,4 @@
-RecordCount: 10988
+RecordCount: 11090
 
 console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1
@@ -7,41 +7,42 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
  190
 
 #lvl_cp1-0-Intro
-   6,L,Z
+#spinner cycle
+  13,R,D,X
    1,R,J
-   6,R
-   1
-   1,R,J
+   1,R
   14,R,D,X
    1,R,J
-  13,R,D,X
-   2,R,J
-   7,R,U,X
-   1,R,J,G
-   9,R
-  10,R,J
-  14,U,X
-  18,L,J
-   5,K,G
-   1,R
-   1,J
-  11,R,K
-   1,R,J,G
-   1,R,K,G
-   7,R
-   6,R,Z
-   1,R,J
+   4,R
+   1,R,K
    2,R
+   6,R,J
+   4,R
+  13,R,K,G
+  15,U,X
+  12,R,J
+   6,J
+   1,K
+   3,L,K
+   5,R,K
+   1,J,G
+   6,R,J
+   7,R
+   4,R,Z
    2,R,J
-   5,R
-   5,R,Z
+   3,R
+   2,R,J
+   4,R
+   5,R,D,X
    1,R,J
    6,R
   11,R,J
    2,R
   14,R,U,X
    1,R,J,G
-  10,R
+   8,R
+   1,R,K
+   1,R
    3,R,J
   14,R,U,X
    2,R,J,G
@@ -50,67 +51,6 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
   11,R,D,X
   40
 
-#normal-route
-#   3,R,D,X
-#   5,R,J
-#   2,R,K,G
-#  10,R
-#  15,U,X
-#  10,L,Z
-#   4,R,J
-#  15,R
-#  19,R,X
-#  10,U,C
-#  50,R,J
-#  15,R,C
-#   2,R
-#   4,L
-#  10,U,X
-#  15,L,J
-#  19,L,D
-#  19,D
-#   3,R,D
-#  13,L,D,X
-#   2,R,J
-#  15,R,D,X
-#  17,R,U,Z
-#   9,U,X
-#  15,R,J
-#  13,R
-#  12,R,J
-#  21,R,Z
-#  15,L,D,X
-#  22,R,D
-#   1,R,J,G
-#   2,R,K,G
-#  10,R
-#  41,D
-#  15,R,X
-#  15,R,U,C
-#  15,U,X
-#  31,D
-#   9,R,D
-#   3,R
-#  15,R,Z
-#  16,D
-#  29,R,X
-#  15,R,Z
-#   5,L
-#  10,L,J,G
-#   2,L
-#   7,K,G
-#   1
-#   2,J,G
-#   6,L
-#   1,R
-#   7,R,J
-#  14,R,Z
-#   1,R,J
-#   9,R,D,X
-#   1,R,J
-#   1,R
-#  40
-
 #lvl_cp1-1-liero
    3,R,D,X
    5,R,J
@@ -118,53 +58,57 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
   10,R
   15,U,X
   10,L,Z
-   7,R,J
-StunPause
-   7,R,J
-SkipInput,3,1
-  15,R,D,X
-   3,R,D
-   6,L,D
-SkipInput,3,1
-  11,D,C
-EndStunPause
-   4,D
-   8,R
-  47,R,D,X
-   8,R
-  26,R,C
-   3,R,J
-  15,R,D,X
-  12,R,D
-   1,R,J
-  16,R,D
-  17,R,Z
-  14,R,V
-   1,R,J
-  12,R,D,X
    4,R,J
   15,R
-   5,R,D
-   1,R
-  11,R,U,Z
-   1,L,J,G
-   2,J,G
-   7,R
-  14,U,X
-  11,R,J
-   2,J
-  15,R,Z
-   6,R
-   1
-  13,L,J,G
-   1,J
-  16,R,K
-   2,R,J,G
+  19,R,X
+  10,U,C
+  50,R,J
+  15,R,C
+   2,R
+   4,L
+  10,U,X
+  15,L,J
+  19,L,D
+  19,D
+   3,R,D
+  13,L,D,X
+   2,R,J
+  15,R,D,X
+  17,R,U,Z
+   9,U,X
+  15,R,J
+  13,R
+  12,R,J
+  21,R,Z
+  15,L,D,X
+  22,R,D
+   1,R,J,G
+   2,R,K,G
+  10,R
+  25,D
+  11,L,D
+   1,D
+   2,L,D
+   4,L
+   5,R
    1,L
    6,R
+   6,L,J
+  12,R,K
+  15,R,Z
+  14,R,U,C
+  15,R,X
+  23,R,D
+  28,R,X
+  15,R,Z
+   2,R
+   9,U,Z
+   9,R,J
+  11,R
   12,R,Z
    1,R,J
-   5,R
+   4,R
+   1,R,J
   40
 
 #lvl_cp1-2-pixelator
@@ -1716,4 +1660,4 @@ EndRepeat
   16,R,U,X
  135,R
 
-ChapterTime: 4:29.042(15826)
+ChapterTime: 4:28.583(15799)
