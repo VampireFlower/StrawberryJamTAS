@@ -1,4 +1,4 @@
-RecordCount: 28859
+RecordCount: 29087
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -599,60 +599,67 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
   18,L,U,X
   18,R,U,C
    4,L,G
-
-  19,L,D,X
-   2,R,D
-  15,R,D,X
-   2,L,D
-  10,R,D
-  14,G
-  29,R,D
-   6,D
-   2
-  15,L,X
-   6
-  15,R,Z
-  12,R,D
-  15,L,U,X
-  15
-  15,L,U,X
-  14
-  15,L,U,X
-  10
-  18,R,Z
-   4,R,J
-   2,R,K
-   1,R
-   3,R,J
-   3,L,J
-  43,L,D
-  15,L,X
-  33,R
-   1,D
-   1
-   1,D
-   1
-   1,D
-   1
-   1,D
-   1
-   1,D
-  24,L,J
-   6,L,K,G
-  17,G
-   1,L,J,G
-   3
-   8,J
-  15
-   4,L
-  11,R,J
-  31,R,K
-  15,L,U,X
-  23,R
+  15,L,D,X
+  42,L,D
+  16,L,X
+  15,D,C
+   1,N
+  12,R,J
+   5,R,Z
+   1,R,J
+   7,R
+  10,R,J
+   5,R
+   1,R,J
+  12,R
   15,U,Z
-  13,L
- 144,G
-  33,U,G
+   1,R
+  16,J
+  16,L,X
+  15,L,C
+  40,R
+  21
+   4,D
+   1
+   3,L,G
+   1,J,G
+  18,L,X
+  27,R,Z
+  17,L,U,X
+  16,R
+  15,U,X
+  21,L,C
+  14,L,D,X
+   8,L,J,G
+   2,L,J
+   1,L
+   5
+  15,U,X
+  18,R
+   4
+   1,R
+  10,R,D,X
+  12,R,J
+  20,R,D
+  23,D
+  15,L,X
+  30,R,D
+  16,L
+   1,R
+   9,J
+   2
+   4,R,G
+   1,R,J,G
+   1,R,K,G
+   7,R,J,G
+  31,R,K,G
+  19,U,X
+  20,R
+  19,R,X
+  26,R,U,Z
+   9,L,G
+  13,U,G
+   4,L
   15,L,U,X
    3,L
   19,L,J
@@ -660,85 +667,86 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
   11,L,J
   25,L,D
   36,R,D
-  15,R,X
-  63,R,D
-  10,R,D,X
-   2,R,J
-   9,R
-  33,R,J
-  18,U,X
-  18,R,C
-  15,D,X
-  60
-   9,L,Z
+  18,R,X
+  15,R,D,C
+  20,R,D
+   5,D
+  25,R,D
+   6,R,Z
    1,R,J
-   4,R
-  11,R,D,J
-   5,R
-  14,R,J
-  18,U,Z
-   5
-  15,U,X
-   8
-  15,L
-  15,U,Z
-  30,R
-  15,R,X
-  13,R,D
-   7,D
-  11,L,D
-   6,D
-   3,R,J
-  10,L,D,X
-   6,R,J
-  14,R,D
-  12,D
-  10,R,D
-  49,R,G
-   1,K,G
-   2
-   1,L,K
-  17,L,J
-   6,K,G
-   2,L,K
-  13,L,J,G
+   7,R
+  33,R,J
   22,R,U,X
-   4,L
-  15,L,U,X
-   4,R,J
+   7,R,G
+   2,R,J,G
+   5,R
+   7
+   5,L,Z
+   3
+   1,R,J
+   6,R
+  20,R,J
+  19,R,U,X
+   5,U,C
+  14,L,J
+  43,R,J
+  60,G
+  19,L
+  18,R,U,Z
+   9
+  26,R,J
+  15,R,U,Z
+  18,U,X
+   9,L
+  19,L,D,X
+   1,L,J
+   3
+  14,R,U,X
+   7,R,J
    2,R
+  10,J
+  30
+   6,D
+  15,U,X
+   6,L
+  19
+  35,R
+   4,R,D
+   5,R
+  18,L,X
    4,R,Z
    1,R,J
    1,R,K,G
    1,R,J,G
    1,R,K,G
    8,R,J,G
-   6,R
-   7,R,J
-   7,R
+   8,R
+   4,R,J
+  10,R
   15,R,D,X
-  29,R
+  26,R
  349
 
 #lvl_c0-Divinity
-  59
-   4,R,Z
-   1,R,J
-   7,R
-   4,R,J
-   2,R
-   6,R,D,X
+  22,R
    2,R,J,G
-   6,R
+   5,R,Z
    1,R,J
-   1,R,K,G
    7,R
+   2,R,J
+   8,R,K,G
+   6,R,D,X
+   1,R,J,G
+   8,R
   40
 
 #lvl_c1_12-RedBatNick
-   6,R
-   3,R,J
-  15,R
+   4,R
+#really close to get -1f
+   3,R,D,J
+   3,L
+  11,R
+   1,L
    5,U,X
   16,L,D
   22,R,D
@@ -2317,6 +2325,23 @@ endrepeat
 ##spinner cycle for flag 1
    0
 ##
+###spinner unload cycle:
+#if you die to the spinner in flag 1 despite
+#being on the correct spinner cycle
+#try one of these options to fix it:
+#12 frame wait (you should never need this)
+#  11
+#   1,L,J
+#9 frame wait
+#   8
+#   1,L,J
+#6 frame wait
+#   5
+#   1,L,J
+#3 frame wait
+#   2
+#   1,L,J
+###
    8,R,Z
    1,R,J
    7,R
@@ -2446,25 +2471,24 @@ endrepeat
   12,R,K,G
    1,R
   26,J,G
-#
-#   1,S,N
-#  10,O
-#
    4,J,G
-   9,R
+  10,R
 StunPause
-   9,R
+   8,R
   10,R,D
    7,D
    3,L,D
    1,D
-   2,L
+   2,L,D
    1
 EndStunPause
-  20
+  19
   42,R,U,Z
-  21,R,J
-  14,J
+   8,R,J
+   9,R
+   2,R,J
+   2,R
+  14
    5,K
   11,R,K
    8,K
@@ -2491,9 +2515,9 @@ EndStunPause
   39,R,K
   46,R
    2
-   8,R,J
-  15,R
-   2
+   9,R,J
+  14,R
+   3
    6,J
   15,R,J
   27,K
@@ -2613,4 +2637,4 @@ Repeat 34
    2,L,D
 Endrepeat
 
-ChapterTime: 7:23.751(26103)
+ChapterTime: 7:23.037(26061)
