@@ -1,4 +1,4 @@
-RecordCount: 11456
+RecordCount: 11529
 
 console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1
@@ -521,28 +521,34 @@ EndStunPause
 #  10,R,J
 #   4,R
 #spinner cycle
-   2
+   1
 ##
   27,R,X
   40
 
 #lvl_cp2-2-dooshii
-  16,R
-  14,R,U,X
-   1,R,J,G
-  27,R,D
-   6,R,J
-  14,U,X
-   2,L,J
+  18,R
+  12,R,U,X
+   2,R,J,G
+   7,R
+  10,R,D,X
+   1,R,J
+  12,R
+  11,R,U,Z
+   2,J
    1,L,K,G
-  11,L,J,G
+   2,L,J,G
+   5,J
+   4,L,J
    7,L
    1,L,N
    1,L,J
    2,L
   14,L,D,X
    1,R,J
-  12,R,D
+   1,R,D
+   1,D
+  10,R,D
   17,R,D,J
    4,R
   14,R,Z
@@ -1651,4 +1657,4 @@ EndRepeat
   16,R,U,X
  135,R
 
-ChapterTime: 4:26.798(15694)
+ChapterTime: 4:26.645(15685)
