@@ -1,4 +1,4 @@
-RecordCount: 4249
+RecordCount: 4372
 
 console load StrawberryJam2021/5-Grandmaster/tobyaaa
    1
@@ -10,6 +10,10 @@ console load StrawberryJam2021/5-Grandmaster/tobyaaa
    1,S,N
    1,D,J
   72,O
+
+#Spinner cycle
+   1
+
    6,R,Z
    1,R,J
    7,R
@@ -95,35 +99,38 @@ console load StrawberryJam2021/5-Grandmaster/tobyaaa
   27,R,K,G
   10,R,D
   12,D
+   3,L,D
+  18,L
    2,L,D
-  24,L
-   1,D
+   8,L
+   6
    1,L
-  45
+   1
    1,L
-   1,L,D,J
-   2,L
-  13,R,D,X
-  18,R,J
-   1,R
-   2,R,J
-   2,R
-  15,R,U,X
+  10
+   4,D,J
+   7,R,D,X
+  24,R,J
+  15,R,U,Z
+  12,R
   15,R,Z
   12,R
-   2,R,J
+   1,R,J
+   2,R
    5,R,Z
-   2,R,J
+   1,R,J
    7,R
    1,R,J
-   8,R,D,X
+   1,R,J
+   4,R
   43
 
 #lvl_Jeremy
-   6,R,D,X
+  11,R
    1,N
    1,J
- 101
+  15,L
+  81
    8,R
   13,R,J
    9,K,G
@@ -343,6 +350,7 @@ EndStunPause
 #  13,J
 # 200
 ##
+
    2,R
    7
   15,R,Z
@@ -424,5 +432,4 @@ EndRepeat
    7,R,J
    7,U,X
  135
-
-ChapterTime: 0:58.140(3420)
+ChapterTime: 0:57.885(3405)
