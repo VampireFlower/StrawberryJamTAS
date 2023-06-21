@@ -1,4 +1,4 @@
-RecordCount: 3630
+RecordCount: 4145
 #draft had 0
 
 console load StrawberryJam2021/2-Intermediate/Emik
@@ -396,35 +396,26 @@ EndStunpause
    4,L,J
    2,J
    1,L
-  45,R,G
-   1,U,G
+  36,R,G
    1,G
-   1,U,G
+   1,D,G
    1,G
-   6,U,G
-   1,U,G
-   3,G
-   1,L,J
-   2,J
-   1
-   6,L,D,X
-   1,L,J,G
-   1,K,G
-   3,L,K
-  20,L,U,K,G
-  19,L,D,G
+   7,L,J
+   3
+  11,R,G
+   1,R,G
+   1,R,J,G
+   2,R,K,G
+  22,L,U,K,G
+   5,L,G
+   4,D,G
+  22,L,D,G
+   1,D,G
    1,R
-  10,L,J
-   6,L
-   8,R
-   1
-   2,R
-   1
-   8,R
-  11,R,D
-  10,R,D,Z
-  11,L,J
-  13,L,X
+  23,L,D
+   1,L
+   4,L,Z
+   7
  123
    4,L,J
    1,L,K
@@ -432,16 +423,15 @@ EndStunpause
   40
 
 #lvl_a_09
-   2,L,D,X
-   1,L,J
-   2
-   2,L
+   4
+   4,L
+   1,L,D,J
+   1,L
   15,L,D,X
-   6,D
-   2,L,D
+   7,L,D
    1,L,J
   12,L,X
   45,L,J
   90,G
 
-ChapterTime: 1:00.826(3578)
+ChapterTime: 1:00.265(3545)
