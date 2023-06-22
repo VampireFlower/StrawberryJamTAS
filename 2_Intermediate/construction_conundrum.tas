@@ -1,4 +1,4 @@
-RecordCount: 6641
+RecordCount: 6649
 
 console load StrawberryJam2021/2-Intermediate/thebreadstick1
    1
@@ -101,19 +101,15 @@ console load StrawberryJam2021/2-Intermediate/thebreadstick1
    4,L,D
   15,R,Z
    1,R
-   2,R,J
-   7,R
    1,R,J
-   1,R
-  15,R,D,X
-   4,R
+  25,R,D
   15,L,U,X
   10,L,C
    6,R,J
   20,U,X
    1,R
   20,R,U,X
-   5
+   5,R
    2,R
   15,R,D,X
    4,R,D
@@ -744,4 +740,4 @@ EndRepeat
   37,R
   61,R,J
 
-ChapterTime: 1:32.140(5420)
+ChapterTime: 1:32.123(5419)
