@@ -1,4 +1,4 @@
-RecordCount: 12006
+RecordCount: 12540
 
 console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1
@@ -876,10 +876,6 @@ EndStunPause
   15
   15,D,X
   14
-#cp3-5 lightning cycle
-#
-   0
-##
    7,R
    1,R,J
   11,L,D,X
@@ -936,42 +932,41 @@ EndStunPause
   15,D,X
    1,R
   16
-  15,U,X
+   7,U,X
+   7,L,J
   40
 
 #lvl_cp3-1-Arphimigon
-   4,R
-   1,J,G
-   1,L
+   4,L
+   1
+   1,R,K
    5,R
-   8,L,D,X
+   7,L,D,X
    1,R,J
   13,R
    9,R,J
    7,R
    2,L
-   0,R,J
    8,L,J
   21,L,D
   10,R
    3,R,D
   16,R,U,Z
   10,R,J
-   1,K,G
-   5,L
-   4,R
-   3,R,J
-   3,R
+   2,K,G
+   3,L
+  10,R
   14,R,Z
-  37,R,J
-  17,R,U,X
-   1,L,J,G
-   3,L,K,G
+  30,R,J
+   6,R
+  16,R,U,X
+   4,L,J,G
   13,L
    3,L,J
    4,L
   15,L,Z
-   9,R
+   7,R
+   2
    2,R,J
   31,R,Z
   10,L,D,X
@@ -980,7 +975,7 @@ EndStunPause
   14,R,U,X
    1,J,G
    1
-  11,U,Z
+  11,U,X
   43
 
 #lvl_cp3-2-LegS
@@ -1062,28 +1057,31 @@ EndRepeat
    1,L,J
    8,L
    6,L,D,J
-  18,L
+  10,L
+   8,L,J
   15,L,X
-  73
-   1,R,K
+  71
+   1,R,J
   40
 
 #lvl_cp3-3-Jems
   10,R
+   1,J,G
+   2
+   6,L
+   4
+   9,R
    1,R,J,G
-   8,L,D
-   1,L
-   3
-   7,R
-   1,R,J,G
-   7,R,K,G
-  23,R,D
+   3,R,K,G
+  22,R,D
    5
-  15,R
+  10,R
+   1
+   5,R
    1,R,J
    1,L,K,G
-  10,R,K
-   1,R
+   8,R,K
+   3,R
    2,J,G
    5,L,J
   12,U,X
@@ -1094,11 +1092,16 @@ EndRepeat
   16,D
   11,R
   14,R,U,X
-  24,R
-  24
-   9,R
-  30,R,J
-  13,R
+  36,L
+   5,R,D
+   1,R,G
+   2,R,D
+   5,R,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+  25,R,K,G
+   6,K
   38,L
   20,U,X
    4,L
@@ -1121,104 +1124,102 @@ EndRepeat
    2,R,K
   62,R,D
   15,R,Z
-  16,R,D
-   9
-  13,R
-  20,R,J
-   7,K,G
-   7,J,G
-   1,L,J
-   9,L,K
+  16,R,D,J
+   5,J
+  12,R,J
+   3,R,D,J
+   1,R,D,K
+   1,L,J,G
+  14,R,J
+   9,K,G
+   3,J,G
+   2,L,J
+   7,J
   15,D,X
   10,L
   26,L,D
    4,L
   15,R,D,X
    2,R
-   2
-   4,R
+   1
+   5,R
    1,R,J,G
    1,R,K,G
   14,R
    1,R,J
-  13,R
+  12,R
   40
 
 #lvl_cp3-4-vitellary
-   7,R,D,X
+  11,R,D,X
    1,R,J
-  16,R,D
-  12,L,D,X
-   1,R,J
-   2,R
+  12,R,D
+  13,L,D,X
+   3,R,J
   14,R,D,X
-   1,L,J,G
-  16,R,D
-   9,L,D
-   3,L
-   1,L,D
-  17,L
-   1,L,D
-  15,R,Z
-   5,U,X
-  14,R,J
-   5,R
-  15,R,U,Z
-   2
-   1,R
-   8,L,U,X
-   2,R
-StunPause
-  17,R
- SkipInput,3,1
-   8,R,U,X
-SkipInput,3,1
-  10,R,U,X
+   1,L,K,G
+  10,R
+  17,R,D
    4,R
-SkipInput,3,1
-  13,R,D,C
-EndStunPause
-   2,R,D,C
-  19,R
-  15,R,Z
-  27,R
-   9,R,D
-   1,D
-   5
-   5,D,X
-  23,L
-  15,U,X
-   6,L
-  15,U,X
-   9,L
-  20,U,X
-  10,R
+   2,R,D
+   1,R
+   7,R,D
+   6,J
+   6,R,J
+   1,R
   15,R,X
-  10,R
+  16,R,U,C
+  15,R,U,X
+  15,R,U,C
+  18
+  15,D,X
+  64
+   7,R
+  16,R,D
+   7,R
+   1,R
+  17,R,Z
+   1,L,K,G
+  35,R,K
+   8,R,J,G
+  16,K,G
+  15,U,X
+   1,L
+   1
+   6,R
+  15,U,X
+   5,L
+   2
+  15,U,X
+   7,L
+  15,R,U,X
+  41,R
+   4
+   5,D,X
+  24,L
+  15,U,X
+   5,L
+  14,U,X
+   7,L
+   8,U,X
+  23,R
+  15,R,X
+   8,R
   15,U,Z
    2,R
-   6,R,J
-   8,J
-   1
-   1,R
-   8,R,K
-   8,R,Z
-   1,R,J,G
-   8,R,K,G
-   3,R
-  15,R,D,X
-  18,R,D
-   4,L,D
-   4,D
-   5,R,D
+  11,R,J
    2,R
-   1,R,D
+  15,R,U,X
+   9,R,Z
+   1,R,J
    1,R
-###probably not the best spot
-###lightning cycle cycle [cp4-2]
-   0
-###
-   4,R,Z
+   1,R,J
+  34,R,D
+   2,L,D
+   7,R,D
+   1,D
+   4,R,D
+   5,R,Z
    1,R,J
    5,R
    1,R,J
@@ -1284,6 +1285,9 @@ EndRepeat
   18,R,J
   12,R,K,G
    7,R
+#lightning cycle
+   0
+#
   15,R,U,X
    9,L
   30
@@ -1413,19 +1417,17 @@ EndRepeat
    1,R,J,G
    1,R,K,G
    1,R,J,G
-   7,R
-   2,R,J
-  10,R,D,X
-StunPause
-   4,R,D,X
-   1,J,G
-   5,R,J
-EndStunPause
-   1,R,J
-   2,R
-   7,R,K,G
-   7,R
+   2
+   5,R
    4,R,J
+   7,R,U,Z
+StunPause
+   7,R,U
+   1,R,J,G
+   4,R
+EndStunPause
+  20,R,D
+   3,R,J
   14,U,X
   12,J
    7,L,J
@@ -1653,4 +1655,4 @@ EndRepeat
   16,R,U,X
  135,R
 
-ChapterTime: 4:25.200(15600)
+ChapterTime: 4:23.772(15516)
