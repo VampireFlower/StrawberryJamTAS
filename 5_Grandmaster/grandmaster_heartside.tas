@@ -1,4 +1,4 @@
-RecordCount: 30061
+RecordCount: 30067
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -1513,14 +1513,13 @@ Set CelesteTAS.SimplifiedBackdrop true
   32,L
   33,L,U,X
   31,R
-  16,U,X
-  21,U,C
-  10,U,Z
-  16,R
-   9,L,U,Z
+  18,U,X
+  19,U,C
+  24,U,Z
+   9,L,U,C
    6
-  32,R
-  11,R,Z
+  29,R
+  14,R,Z
    3,R,J
    1,R
   15,R,D,X
@@ -2334,7 +2333,7 @@ endrepeat
    5,R
    2
 ##spinner cycle for flag 1
-   1
+   0
 ##
 ###spinner unload cycle:
 #if you die to the spinner in flag 1 despite
@@ -2346,14 +2345,15 @@ endrepeat
 #  11
 #   1,L,J
 #9 frame wait
-#   8
-#   1,L,J
-#6 frame wait
-   5
+   8
    1,L,J
+#6 frame wait
+#   5
+#   1,L,J
 #3 frame wait
 #   2
 #   1,L,J
+#0 frame wait
 ###
    8,R,Z
    1,R,J
