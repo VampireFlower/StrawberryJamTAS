@@ -1,4 +1,4 @@
-RecordCount: 5311
+RecordCount: 5427
 console load StrawberryJam2021/4-Expert/spirialis
    1
 
@@ -72,6 +72,8 @@ console load StrawberryJam2021/4-Expert/spirialis
 #waiting for kevin could be skipped spinner stuns
    6,R
   14,R,U,X
+#if you could somehow cboost
+#keep speed and land it could save time
    1,R,K,G
    7,R
    4,D,X
@@ -445,27 +447,31 @@ endrepeat
    9,L,J,G
   12,R,K,G
   15,R,D,G
-  15,L,D,G
+   6,L,G
+   9,L,D,G
+   1,G
+   1,L
+   1,G
    1,L
    1,L,G
    1,L
    1,L,G
-  10,L,Z,G
+   4,L,Z,G
    1,L
    1,R,J,G
    1,R
-   1,R,K,G
-   1,R
    1,R,J,G
    1,R
-   1,R,K,G
-   1,R,J,G
    2,R,K,G
+   1,R,J,G
+   1,R,K,G
+   2,R,J,G
    2,R,G
    1,R
    2,R,G
    1,R,D
-   4,R,D,J,G
+   3,R,D,J,G
+   2,R,G
   10,R,D,X,G
    1,R
    1,R,G
@@ -473,16 +479,15 @@ endrepeat
    1,R,G
    1,R,J,G
    1,R
-   1,R,J,G
-   1,R
-   1,R,J,G
+   1,R,K,G
    1,R
    1,R,J,G
    1,R,K,G
    1,R,J,G
-   3,R,K,G
+   4,R,K,G
    1,R,K
-   5,R,K,G
+   1,R,K,G
+   4,R,K,G
   12,L,J,G
    6,L,Z,G
    1,L,J,G
@@ -492,23 +497,28 @@ endrepeat
    5,R,G
    5,R
    7,L,U,Z
-   9,L,U,Z,G
-   6,L,U,X
-   6,R,G
-   2,R
-   4,R,G
-   2,R
-   1,R,G
-   3,R
+   8,L,U,Z,G
+   5,L,U,X
+   5
+   1,G
+   2
+   1,G
+   3
    2,R,J,G
-   1,L,D,G
-   1,L,D
-   3,L,D,G
-  14,L,D,K
+   1,L,D,J,G
+   1,L,D,J
+   1,L,D,J,G
+   2,L,J
+   1,L
+  11,L,D,K
+   3,L
   13,L,U,X,G
    1,L
-  29,L,D
-  12,R,D
+  27,L,D
+  11,R,D
+   1,D
+   1,R,D
+   2,D
    8,G
    1,L,D,J
 repeat 8
@@ -547,4 +557,4 @@ endrepeat
   14,R,U,X
  135
 
-ChapterTime: 1:06.164(3892)
+ChapterTime: 1:06.011(3883)
