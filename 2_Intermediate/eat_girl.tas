@@ -1,4 +1,4 @@
-RecordCount: 5261
+RecordCount: 5293
 console load StrawberryJam2021/2-Intermediate/Ezel
    1
  
@@ -746,7 +746,9 @@ console load StrawberryJam2021/2-Intermediate/Ezel
   13,R,D,X
    3,L,J
   15,L,D,X
-  15,L
+   2,L
+   1,L,J
+  10,L,D
   13,R,D,X
    1,R,J
   11
@@ -918,18 +920,16 @@ console load StrawberryJam2021/2-Intermediate/Ezel
 # 100,L,Z
    3,L
    3,L,J
-  10,U,Z
+  10,U,X
    1,J
    1,L
    2,K,G
-   7,L
-   1,R
-   2
+   6,L
+   2,R
   15,D,X
    5,L,C
-   1,L,J
+   2,L,J
    2,R,J
-   1,L,J
    1,R,K,G
    3,R,K
    9
@@ -1396,4 +1396,4 @@ console load StrawberryJam2021/2-Intermediate/Ezel
    2,R
   11,R,U,Z
  135
-ChapterTime: 1:34.809(5577)
+ChapterTime: 1:34.741(5573)
