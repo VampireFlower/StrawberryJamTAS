@@ -1,4 +1,4 @@
-RecordCount: 13811
+RecordCount: 13849
  
 console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1
@@ -956,21 +956,19 @@ EndStunPause
  
 #lvl_cp3-1-Arphimigon
    3,R,J,G
-  10,R,K,G
-  19,K
-  23,D
-   1,R
+   1,R,K,G
+  34,R,K
+  14,R,X
+  11,R,J
+  15,D,X
+  18,L,Z
+   3,K
+   6
    8,R
-   3,R,D
-  16,R,U,Z
-   9,R,J
-   1,R
-   1,K,G
-   1,L,K
-   2,L
-  12,R
+   1,R,J
   14,R,Z
-  36,R,J
+  30,R,J
+   6,R
   16,R,U,X
    4,L,J,G
   13,L
@@ -1292,7 +1290,7 @@ EndRepeat
   12,R,K,G
    7,R
 #lightning cycle
-   2
+   0
 #
   15,R,U,X
    9,L
@@ -1672,4 +1670,4 @@ EndStunPause
    4,R,J
   15,R,U,X
  135,R
-ChapterTime: 4:20.831(15343)
+ChapterTime: 4:20.780(15340)
