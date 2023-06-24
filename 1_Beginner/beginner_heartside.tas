@@ -1,4 +1,4 @@
-RecordCount: 12926
+RecordCount: 13321
 
 console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    1
@@ -413,10 +413,12 @@ EndRepeat
    4,D
    3
    1,G
-  17,L
+   3,L
+  13,L,D
    1,R,K,G
-   7,R,K
-   2,K
+   5,R,K
+   2,L,K
+   2,R,K
   10,R,D,X
   28,R,J
   15,R,U,Z
@@ -535,60 +537,77 @@ EndRepeat
    1,R,J
    4,K
    8,R,K
+#faster setup but less speed
+#ended up being 1f slower overall for me
+#   1,R
+#   1,J,G
+#   7,R
+#   1,L
+#   1,R
+#   1,L,J
+#   3,R,J
+#   2,L,J
+#   1,R,J
+#  14,R,D,X
+#   1,R,J
+#  19,R,D,X
+#
    1,R,J,G
-   1,R,K,G
-   9,R
+   2,L,J
+   4,J
+   2,R
+   6
    1,J
-   1,R
-   1
-  14,L,D,X
+   7
+   1,L
+   7,L,Z
    1,R,J
-  15,R,D,X
-   4,R
-   8,R,J
-   7,R,D,X
-   2,R,J,G
-  14,R
-   3,R,J
+   6,R
+   1,R,J
+  19,R,D,X
+   5,R,J
+   5,R,D,X
+   1,R,J,G
+   5,R
+   1,R,J
+   8,R
+   2,R,J
 
 #lvl_cp3_checkpoint
-  13,R,J
-  15,R,D,X
+   3,R,J
   13,R
-  10,R,J
-   6,R
-   6,R,D,X
-   3,R,J,G
+  22,R,D,X
+  11,R,J
+   2,R
+   7,R,D,X
+   5,R,J,G
    6,R
    1,R,J
    2,R
    3,R,J
   15,R,D,X
-   6,R,J
-   5,R
-   4,R,K
-   2,R,J
-  13,R,U,X
-   4,R,J,G
-  13,R
+  10,R,J
+  14,R,U,X
+   3,R,J,G
+  12,R
    1,R,J
   14,R
    2,R,J
-   4,R
+   1,R
   40
 
 #lvl_cp3_14_heartside_asterisk
-   5,R
-   5,R,J
-   1,J
-   4,R,J
-  15,R
-  13,R,U,X
-  17,R,J,G
-  54,R,X
+   8,R
+  11,R,J
+   7,R
+   9,R,U,X
+  15,R,J,G
+  53,R,X
    4,R,J
    8,R,K
-  14,R
+   5,R
+   3,R,J
+   6,R
   14,R,Z
    3,R,J
   17,R,U,X
@@ -913,7 +932,7 @@ EndRepeat
    8,R,J
    5,J
 # spinner cycle (0-2)
-   0
+   2
 # -------------
    1,K
    1,R,J,G
@@ -1507,7 +1526,6 @@ EndStunPause
   40
 
 #lvl_cp5_04_heartside_circumplex
-
    3,R,D
    1,R,J
    5,R
@@ -2004,4 +2022,4 @@ Repeat 33
 EndRepeat
    1
 
-ChapterTime: 4:29.637(15861)
+ChapterTime: 4:29.280(15840)
