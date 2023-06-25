@@ -1,4 +1,4 @@
-RecordCount: 13849
+RecordCount: 15796
  
 console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1
@@ -1290,7 +1290,7 @@ EndRepeat
   12,R,K,G
    7,R
 #lightning cycle
-   0
+   1
 #
   15,R,U,X
    9,L
@@ -1305,88 +1305,127 @@ EndRepeat
    4,L,K,G
    5,L,Z
    1,L,J
-   7,L
+   3,L
+   3,L,J
+   1,L
    2,L,J
-   3,L,K,G
-  11,L,D,X
+   1,L,K,G
+   9,L
+   1,L,J
+   2,L,J
   40
  
 #lvl_cp4-1-Emik
    1,L,J
-   2,L
-   5
-   1,L,J
-   2,K,G
-   6,D
-  11,L,D
-   1,D
-  14,L,D
-  14,L,X
-  29,L,U,G
+   7,L
+   2
+   1,L,D
    1
-  14,R,D
-  21,R,D,G
-  13,R,G
-   1,R,J,G
-   1,K
-   1,R,J,G
-   6,L,J
-   1,L,K,G
-   7,L
-   1,L,J
-  11,L
-   2,L,D
-   1,J,G
-   2,L,J
-   1,R,J
-  10,L,J
-  15,U,X
-   4,L
-   2,R,J,G
-   7,L
-  12,L,Z
-  10,L,J,G
-   5,L,G
-   4,L,K
-   4,L,G
+   1,L,D
+   1
+   1,L
+  19,L,D
+  14,L,X
+  26,L,D,G
+   1,D,G
+   1
+  12,R,D
+   1,R,D,G
+  11,D,G
+   3
+   1,L
+   1,R
+  12,R,G
+   1,R,D,G
+   1,R,G
+   2,R,D,G
+   1,R,K,G
+   1,J
+   2,K,G
+   5
    1,L,J,G
-   8
-  19,L,G
-   3,L,D,G
+   1,J
+   4,L,J
+   1,J
+   2,L,J
+   3,L
+  15,L,U,Z
+  11,R
+   1,G
+   1,J
+   1,L,J
+   1,K
+   3,L
+  11,L,X
+   4,L,J,G
+   9,L,K,G
+   5,L
+   4,L,K
+   2,L
    1,L,G
    1,L,J,G
-   5,L
-   9,L,K,G
-   1,L
-  38,L,K
-   2,R,D
-  14,D
-  19,L
-  22,L,U,X
-  15,U,C
-  32,L,X
-   8,L,J
-  22,L
-   8,L,J
-  22,L
-   8,L,J
-  18,L
-   5,R,G
-  20,U,G
    1
-   1,J
-   4,R,J
-   5,R
-   8,R,Z
-   1,L,J
+   2,R
+   2
    1,L
-  18,L,K,G
-  21,L,D
-   4,R,D
+   1
+   3,L
+  10,L,G
+   1,L
+   1,L,J,G
+   4,L
+   2
+   1,L
+   1,L,D,J
+   1,R,K,G
+   1,L,K
+   8,L
+   1,L
+   2,L,K
+   6,L,D
+   1,L,D
+StunPause
+   7,L,D
+   2,D
+   2,L,D
+   1,L,D
+   1,L
+   1,L
+EndStunPause
+  11,L
+   1,L
+   1,L
+   1,D
+   5,L,D
+   1,L
+   1,L,D
+   1,R,D
+   1,J,G
+   9
+   1,L
+   8
+   1
+   1,L
+   1,R,G
    1,J
-   6,D
-   8,R,D
- 125,L,Z
+   7
+   3,J
+   2
+  10,G
+   6,G
+   3,U,G
+   2,G
+   1,K,G
+   1,J,G
+   1,R,K,G
+  11,L,K
+   8,L,D
+  13,D
+   4,L,D
+   1,L
+   1,L,D
+  15,L,Z
+ 109
    4,L,J
   40
  
@@ -1670,4 +1709,4 @@ EndStunPause
    4,R,J
   15,R,U,X
  135,R
-ChapterTime: 4:20.780(15340)
+ChapterTime: 4:18.502(15206)
