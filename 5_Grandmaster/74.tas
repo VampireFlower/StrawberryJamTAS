@@ -1,4 +1,4 @@
-RecordCount: 5014
+RecordCount: 5305
 
 console load StrawberryJam2021/5-Grandmaster/fishtank
    1
@@ -128,30 +128,32 @@ console load StrawberryJam2021/5-Grandmaster/fishtank
    1,R,J
    1,R,K,G
    1,R,J,G
-   5,R
-   2,R,J
-   1,R,K,G
-  10,R
+   6,R
    1,R,J
-  10,R,D
+   1,R,K,G
+   1,R
+   1
+   8,R
+   1,R,J
+   9,R,D
   40
 
 #lvl_Calling (Bad Reception)
-   1
-   7,R,D
-   3,R,J
-   5,R
+   9,R,D
    2,R,J
    5,R
+   2,R,J
+   3,R
    1,R,J,G
    1,R,K,G
-   9,R
+   5
+   4,R
    4,R,D,J
    1,R
    3,R,K,G
    1,R
-   1
-  10,R
+   2
+   9,R
    1,R,J
   29,R,D
    1,R,J
@@ -344,61 +346,79 @@ repeat,9
    1,R
    1,D
 endrepeat
- 133,D
-   1,G
-   1,R,J,G
-   3
-  11,R,D
-   1,R,J,G
-   4,R,K,G
-   9,R
+  64,D
+   1,S
+   1,D,J
+  68,O
+   2,D,J
+   5,L,J
+   1,J
+   5,R
    1,R,J
-  10,R
-   1,R,J
-   3
-  20,R,D
-   4,D
+   2,R,D
+   1,D
+   9,R,D
+   1,D
    1,R,D
-   3,L,D
-   1
+   1,D
+   3,R,D
+   1,R,J
    1,R,K
    1,R,J
-   1,R,K,G
-  13,R
-   7,R,D,J
+   1,R,K
+   1,R,J
+   3,R,K
+   4,R
+   3,R,K,G
+   7,R
+   1,R,J,G
+  12,R
+   6
+   1,R,D,J
+   6,J
   40
 
 #lvl_Sewers
    1,J
-   3
+   1
    2,R
+   2
    1,L,K,G
    1,L,J,G
-   2,R,J
+   1,R,J
    1,J
    2,R,J
+   1,J
    1,K
   11,R,K
    7,R
    8,R,J
   15,R
-  16,R,J
+  14,R,J
+   2,J
    1,K
-   7,R,K
-   1,K
-  17,R
+   8,R,K
+  14,R
    1
    1,R
+   1
+   2,R
    3
    3,R
    4,R,J
    6,L,J
    1,R,J
    2,L,K,G
-repeat,5
    1,R,K
    1,K
-endrepeat
+   1,R,K
+   1,K
+   1,R,K
+   1,K
+   1,R,K
+   1,K
+   1,R,K
+   1,K
    1,J
   18,L,J
    1,K
@@ -660,42 +680,50 @@ endrepeat
   20,F,19.6
   20,F,19.7
   20,F,19.4
-  18,U
+   8,U
+   1,R,U
+   9,U
    1,L,U
    1,J
+   1,K,G
    1,K
-   4,R,J
-   3,R,K,G
+   6
+   1,R
+   1,R,J,G
+   1,R,K,G
    4,R
-   5,R,J,G
-   1,R,K
-   2,R,J,G
-  19,R
+   1
+   1,R,J,G
+   1,J
+   4,R,J
+   1,R
+   2,R,K,G
+   2,R
    1,R,J
-   3,R
+   1,R,K
+  15,R,D
   40
 
 #lvl_The End of TIMELINE
-  11,R
-   5,R,J
-  24,R
-  22,R,J
-  19,R,D
+   6,R,D
+   1,R,J
+  21,R
+   9,R,K
+   7,R
+   1,R,J
+  18,R,D
    1,R,J
    1,R,K
-  19,R,J
-   1,J
-   2,R,J
-   1,R,K,G
-   3,R,J,G
+   1,R,J
+  16,R,K
+   4,R,J,G
    5,R,K,G
    3,R,J,G
-   9,R
+   8,R
   10,L,D,X
    1,L,J
    9,J
   16,L,U,X
  135
 
-#orig 4224
-ChapterTime: 1:06.385(3905)
+ChapterTime: 1:05.671(3863)
