@@ -1,4 +1,4 @@
-RecordCount: 3419
+RecordCount: 3464
 
 console load StrawberryJam2021/3-Advanced/Viv
    1
@@ -18,17 +18,14 @@ console load StrawberryJam2021/3-Advanced/Viv
    2,R
    1,G
   40,J,G
-  15,R,Z
-   1,L
-  11
-   5,R,D
-   2,R
-   1
-   2,R
-  38,R,Z
+  11,R,Z
    1,R,J
+   1,L,D
+  13,D
+   9,R,D
+  39,R,V
   10,R,U,Z
-  64,R
+  65,R
   12,L,D,X
   13,L,J
   11,L,D,X
@@ -247,6 +244,7 @@ endrepeat
   12,L,D,X
   40
 
+
 #lvl_viv5(1)
    2
    1,R
@@ -380,4 +378,4 @@ endrepeat
    1
   28,L,D,J
  139,R,X
-ChapterTime: 1:38.719(5807)
+ChapterTime: 1:38.702(5806)
