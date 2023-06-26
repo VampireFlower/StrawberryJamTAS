@@ -1,4 +1,4 @@
-RecordCount: 3746
+RecordCount: 4109
 #by Topaz
 console load StrawberryJam2021/5-Grandmaster/tofu
    1
@@ -6,8 +6,8 @@ console load StrawberryJam2021/5-Grandmaster/tofu
 #Start
 #lvl_Atrium
 #spinner cycle
-   0
-#
+   2
+##
    5,L
    1,L,J
   14,L
@@ -18,28 +18,27 @@ console load StrawberryJam2021/5-Grandmaster/tofu
    4,R,J
   15,R,U,X
   14,R,U,G
-  18,R,J
-  15,U,X
-  10,U,C
-   4,R,J
-   4,R
-  13,R,D,X
+  15,R
+  13,R,U,Z
+   5,J,G
+  12,U,C
+   7,R,J
+  12,R,D,X
+  15,R,G
+  11,R,D,C
   13,R,G
-   2,R
-  11,R,D,X
-  13,R,G
-  15,R,D,X
-   1,D
+  16,R,D,X
    1,R,J
-  12,R,U,X
-  41,R,U,G
-  55,R,G
+  12,R,U,C
+  93,R,G
+   2,R,D,G
    1,L
-   9,R
+   8,R
    7,R,J
   14,U,X
   17,R,J
   40
+
 #lvl_Veranda
    1,K
   10,R,K
@@ -58,16 +57,19 @@ StunPause
 EndStunPause
    5,R,D
    1,L,J
-   8,L
+   1,K
+   2,L
+   3
   22,D,X
-   1,L,D
+   2,L,D
   40
+
 #lvl_Pier
    1,S
    1,D,O
   69,J
 #spinner cycle
-   0
+   1
 ##
    7,L,X
   12,R,J
@@ -118,12 +120,14 @@ EndStunPause
    3,R,D
 StunPause
    1,R,D
-   7,R,J
+   4,R,J
+   2,J
 EndStunPause
-   2,R
+   3
   15,R,D,X
-   2,R,D
+   1,R,D
   40
+
 #lvl_Backstreet
   15,R,D,X
   15,D,C
@@ -307,6 +311,7 @@ EndStunPause
    8,R,J
    5,R,D,X
   40
+
 #lvl_Zigzag
   10,R,D,X
   10,R,D
@@ -339,15 +344,13 @@ EndStunPause
   33,D
   15,L,U,X
    3,R,J
-  15,R,D,X
-   3
-  15,D,X
-  10,R,C
+  18,R,D,X
+  15,D,C
+  10,R,X
    5,L,J
-  15,L,U,X
-   3
-  18,D,X
-  12,L,C
+  18,L,U,X
+  18,D,C
+  12,L,X
    1,K
    1,R,K
    1,K
@@ -364,10 +367,11 @@ EndStunPause
   13,R,G
   46,R,U,J,G
   40
+
 #lvl_Lotus
  219,R,U,J,G
    1,L
   15,R,X
  135
 
-ChapterTime: 0:57.035(3355)
+ChapterTime: 0:56.967(3351)
