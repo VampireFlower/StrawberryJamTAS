@@ -1,4 +1,4 @@
-RecordCount: 13775
+RecordCount: 13907
 
 console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    1
@@ -1509,8 +1509,10 @@ EndStunPause
    1,R,J
   13,R,K
   15,R,U,X
-   5,R,K,G
-  10,R,J,G
+   3,R,J,G
+   1,R,K,G
+   5,L,K
+   6,R,K
    7,R
    6,R,Z
    1,R,J
@@ -1520,7 +1522,7 @@ EndStunPause
   40
 
 #lvl_cp5_04_heartside_circumplex
-   3,R,D
+   3,R,D,X
    1,R,J
    5,R
    1,R,K
@@ -1535,22 +1537,25 @@ EndStunPause
   15,R,D,X
   11,R,J
   13,R,U,X
-   1,L,U
+   1,L
    3,J,G
   10,U,X
   12,R
-  15
   15,L,U,X
-  19,L
-  40,R,D
-  33,R
-   1,J
-  10,R,D
-  21,D
-   3,L,D
-  29,L,U
-  12,R,X
-  15,R,U,Z
+   7,L
+  15,R,U,X
+   8
+  18,R,D
+   1,R,J,G
+  44,R
+   1,R,K
+  30,D
+  15,L,D
+  22,L
+   2,L,J
+   3,L
+  15,R
+  15,R,U,X
   34,R
   15,U,X
   12,R,C
@@ -1566,7 +1571,7 @@ EndStunPause
   12,R,D
    5,R
   12,R,U,Z
-   1,L,U
+   1,L
    4,J,G
    2,R,J
    1,J
@@ -1615,8 +1620,7 @@ EndStunPause
   14,R,J
    7,R,D,X
    1,R,J,G
-   9,R
-   3,R
+  12,R
    4,R,J
    1,R
   19,R,D,X
@@ -2014,4 +2018,4 @@ Repeat 33
 EndRepeat
    1
 
-ChapterTime: 4:28.838(15814)
+ChapterTime: 4:28.804(15812)
