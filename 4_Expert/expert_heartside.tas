@@ -1,4 +1,4 @@
-RecordCount: 27817
+RecordCount: 28064
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -1576,6 +1576,9 @@ EndRepeat
 
 #lvl_d00_intro
    4,R,Z
+## Spinner cycle [d01_ru]
+   2
+##
   13,L,V
    1,R,J
    6,R
@@ -1588,36 +1591,39 @@ EndRepeat
    6,R,D,X
    4,R,J,G
   10,R
-   6,R,J
-   3,R
-  40
+   1,L,D,J
+   9,R,J
 
 #lvl_d01_ru
-   2,R
-   8,R,X
-  32,R,G
-   4,R,J,G
-   7,R,Z,G
-  51,R,U,J,G
-   3,R,J,G
-   1,R,U,G
-   8,R
-  13,U,X
-  21,R,G
-   1,L,K
-  11,R
+  40
+   3,R,J
+Stunpause
+   5,R,J
+   3,R,K,G
+Endstunpause
+   2,R,K,G
+   1,K
+   6,R
+   4,R,J
+   3,R
+   6,R,U,Z
+Stunpause
+   5,R,U,Z
+   1,J
+Endstunpause
+   1,K,G
+  22,R,K
+   1,R
+   2,R,J,G
+   7,R
 ## Lightning cycle [d02_lethargicdoggo]
-   1
+   0
 ##
    4,X
   11,R,J
    5,R
    1,K,G
-   1,R
-   1
-   1,R
-   3
-   1,R
+   7,R
    9,L,Z
    1,R,J
    4
@@ -3369,5 +3375,4 @@ EndRepeat
    7,L,J
   16,U,X
  135,D
-
-ChapterTime: 7:58.499(28147)
+ChapterTime: 7:58.465(28145)
