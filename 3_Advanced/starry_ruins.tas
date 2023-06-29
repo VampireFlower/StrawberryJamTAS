@@ -1,4 +1,4 @@
-RecordCount: 3720
+RecordCount: 3770
 
 console load StrawberryJam2021/3-Advanced/Indecx
    1
@@ -306,20 +306,17 @@ EndStunPause
    1,R,J
    5,R
    4,R,J
-  25,R,D,X
-  14,R,J
-   1,J
-   3
-   1,R
-   2
   15,R,D,X
-   2,R,D
-   1,R
-   1,R,D
-   2
-   2,R,J,G
-  18,R
-   6,R,Z
+  12,R
+  12,R,J
+   1,J
+   2,R,J
+   2,R
+  18,R,D,X
+   2,R
+   1,J,G
+  18,R,D
+   5,R,Z
    4,R,J
    2,R
    1,R,K,G
@@ -330,4 +327,4 @@ EndStunPause
   15,R,X
  135,R,D
 
-ChapterTime: 0:42.874(2522)
+ChapterTime: 0:42.789(2517)
