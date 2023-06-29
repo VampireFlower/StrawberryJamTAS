@@ -1,4 +1,4 @@
-RecordCount: 12731
+RecordCount: 13440
 
 console load StrawberryJam2021/3-Advanced/MousseMoose
    1
@@ -287,8 +287,8 @@ EndStunPause
    1,J,G
    1,R,J
    1,L
-   2,K,G
-   9,R,K
+   2,J,G
+   9,R,J
    2,R
    1
   15,R,U,Z
@@ -305,8 +305,8 @@ EndRepeat
   11,K,G
    1
    6,L
-#cycle
-   4
+#spinner
+   1
   11,L,Z
    5,L,J
    4,L
@@ -329,42 +329,49 @@ EndRepeat
   15,R
   11,R,X
    2,R,J,G
-   7,R
+   2,R
+   5
 StunPause
-   3,R
 skipinput 3 1
-   8,L,D,X
+   6,R,D,X
    1,R,J
    6,R
    1,R,J
 EndStunPause
-   3,R,J
+   1,R,J
+   3,R
    7,R,U,Z
-   9,R,J,G
-  13
-   8,L,J
+   4,R,J,G
+   6,R
+   3,R,J
+   1,R
+   1,R,J
+   3,R
+   5,R,D,X
+   1,R,J
+   1,R
    1,S
    1,D,J
   34
-   1,J
-  21,R,K
-  15,U,Z
-   5,L
+   5,R
+   3,R,D,J
+   6,J
+   1,R,J
+   1,L,J
+   1,K
+   2,J,G
   15,R,J
-   3,L,J
-   1,R,K,G
-   2,K
-   4,L,K
+  15,U,Z
+   5,R
+  16,R,J
+   5,K,G
+   2
    1,R,J,G
-   4,L,J
-   7,R,J
+   5,L,J
+   6,R,J
    7,R
    7,R,J
    1,R
-# can dash 1f earlier
-# but I couldn't get a
-# good sub pixel for 
-# the 6f bhop
    8,R,Z
    1,R,J
    6,R
@@ -376,12 +383,6 @@ EndStunPause
 #lvl_b1
    2,R,J
   32,R
-#cycle
-Repeat 2
-  14,D,C
-   1
-EndRepeat
-   1
    9,R,Z
    1,R,J
    4,R
@@ -415,74 +416,56 @@ EndRepeat
    1,L,K,G
    1,R
    6,L
-   6,L,Z
+   5,R,D,X
    1,L,J
    6
+   1,L,D,J
+   2,L
+  10,L,D,X
+   1,L,J
    7,J
-   3,L,J
-   1,J
-   1,L,J
-   9,J
-   1,R,K,G
-Repeat 7
-   1,L,K
-   1,K
-EndRepeat
-   1,L,K
-   1,J
-   3,L,J
-   9,J
-   1,L,J
-   3,J
-  24,L,U,X
-  10,L,D,C
+   3,L
+   9,R,G
+   4,R,J,G
+  14,R,U,G
+  10,J,G
+   1
+  10,L,Z
    1,R,J
-   2,J
+   1,J
    6,R,J
-   4,R
-   5,R,J
-   6,R,K,G
-   6,R
-   1,R,J
-  15,U,X
-   1
-   1,R
-   3
-   4,R
-  18,U,Z
-   4,R
-   6,L
-  26,L,J
-   4,L
-  15,U,X
    5,R
-   1,L,J,G
-Repeat 6
-   1,R,J
+   6,R,J,G
    1,J
-EndRepeat
-   2,R
+  15,U,X
+   5
+  18,U,C
+   7
+  15,U,X
+   2,L
+   2
    1,L
-   2,K,G
-   1
+  11
+   4,L
+  10,L,J
+  15,U,X
    1,L
    1,L,J,G
    1,L,K,G
-   5,L
-   1,L,J
-   5,L
+   4,L
    1
    1,L
-   1
-   5,L,J
-   4,J
    1,L,J
-   3,J
+   7,L
+   5,L,J
+   6,J
+   1,L,J
+   1,J
   18,U,X
-  10,U,C
+  11,U,C
 StunPause
-skipinput 3 4
-   8,U
+skipinput 3 2
+   7,U
    8,R
 skipinput 3 1
   15,U,Z
@@ -491,10 +474,13 @@ skipinput 3 1
 EndStunPause
   14,L,K
    1,L
-  11,L,K
+  10,L,K
    1,J
   19,R,J
-   5,R
+   2,R
+   1
+   1,R
+   1
    1,R,K,G
   31,R,J,G
   19,R,U,Z
@@ -536,14 +522,18 @@ EndStunPause
 
 #lvl_b3
   11,L,J
-   2,L
-   3,L,J
+   1,L
+   1,L,J
+   1,L
+   2,L,J
   14,L,U,X
   13,J,G
    1,K,G
-  10,K
-   5,L,K
+   9,K
+   1,L,K
    1,K
+   3,L,K
+   1,L,K
    3,L,K
    6,R,J,G
    7,R
@@ -711,8 +701,6 @@ EndRepeat
    1,L,J
   10,L
   23,D,X
-#cycle
-   1
    4,L,Z
    2,L,J
    8,L
@@ -818,4 +806,4 @@ EndRepeat
    1,R,J
   30,R
 
-ChapterTime: 1:33.534(5502)
+ChapterTime: 1:31.800(5400)
