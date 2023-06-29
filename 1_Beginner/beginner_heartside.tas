@@ -1,4 +1,4 @@
-RecordCount: 14180
+RecordCount: 14594
 
 console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    1
@@ -90,7 +90,7 @@ EndRepeat
   11,L,D,J
   11,L
   15,U,X
-  20,R,C
+  20,R,Z
   43,L,D
    1,D
    1
@@ -331,7 +331,7 @@ EndRepeat
    9,R,D,X
   40
 
-#lvl_cp2-17-heartside_NotYourBadeline[
+#lvl_cp2-17-heartside_NotYourBadeline
    2,R,D,X
    5,R,J
    6,R,K,G
@@ -710,14 +710,16 @@ EndRepeat
   14,R,G
    8,U,G
    2,R,G
-   4,R,U,G
+   3,R,U,G
   14,R,J,G
    1,L,K,G
-   8,L,U,G
+   7,L
+   1,G
    9,L,K,G
    1,J
-  16,K,G
-   5,L,X
+  14,K
+   1,R,J
+   6,L,U,X
   42,R
   15,D,X
   15,R,C
@@ -740,41 +742,34 @@ EndRepeat
    1,D
   20,R,J
   12,L,K,G
-  12,J
-   5
-   2,J
-   1
-   1,G
-   3,J,G
+   9,J
+   1,R,J
+   1,L,J
    7
    1,G
+   3,J,G
+   7,L
+   1,G
    8,J,G
-   2,R,J
-  12,R,K
-   2,R
+   1,R,K
+  15,R,J
   14,L,U,X
   35,R,D
   15,R,X
   23,R,D
-   9,R,D,X
-   1,R,J,G
-   8,R,G
-   1,R,J,G
-   7,J
-   6,R
-   3,R,K
-   5,R
-  48,R,J
-   2
-   9,R,J,G
-   7,R
+  15,R,U,X
+  19,R,D
+  10,L,D
+  19,G
+   1,K
+  27,R,J
+   2,R
    1,R,G
    1,R,J,G
    1,L,J
-   1,R,K,G
+   2,R,K,G
    2,R,J,G
-   4,J
-   1,R
+   4,R,J
   12,R,Z
    1,R,J
   33,R,D
@@ -932,7 +927,7 @@ EndRepeat
    8,R,J
    5,J
 # spinner cycle (0-2)
-   2
+   0
 # -------------
    1,K
    1,R,J,G
@@ -2007,4 +2002,4 @@ Repeat 33
 EndRepeat
    1
 
-ChapterTime: 4:28.736(15808)
+ChapterTime: 4:28.430(15790)
