@@ -185,7 +185,6 @@ console load StrawberryJam2021/3-Advanced/Goldian
    1,D
   11,U,X
   14,G
-
   24,R,G
   14,R
    1,R,D
@@ -262,7 +261,6 @@ console load StrawberryJam2021/3-Advanced/Goldian
    2,R,J
   14,R
   14,U,X
-   0
    6,R
    4,L
    1,R
@@ -373,7 +371,6 @@ console load StrawberryJam2021/3-Advanced/Goldian
    1
    5,R
    4,R,D
-   0,D
   14,R,D,X
    1,R,J
   12,R,D,X
@@ -547,7 +544,6 @@ console load StrawberryJam2021/3-Advanced/Goldian
    3,R
    1
    1,R,J
-   0,R
   14,R,D,X
    3,R,D
    4,R,J

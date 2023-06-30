@@ -46,8 +46,7 @@ console load StrawberryJam2021/2-Intermediate/vitellary
    5,R,D
    2,R
   15,L,X
-  15,L,C
-   3,L,C
+  18,L,C
   20,R,X
   24,R,C
    1,R,J,G
@@ -263,8 +262,7 @@ console load StrawberryJam2021/2-Intermediate/vitellary
 #   1,R,J
 #  13,R,D,X
    4,R,D
-   5,R
-   2,R
+   5,L
   15,R,U,X
   15,R,U,C
   15,R,X

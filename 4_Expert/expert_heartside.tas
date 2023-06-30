@@ -1555,7 +1555,6 @@ EndRepeat
    4,D
    1,L,D
    1
-
    7,R,Z
    1,R,J
   39,R
@@ -1593,9 +1592,9 @@ EndRepeat
   10,R
    1,L,D,J
    9,R,J
+  40
 
 #lvl_d01_ru
-  40
    3,R,J
 Stunpause
    5,R,J
@@ -3316,7 +3315,6 @@ EndRepeat
    1,L,J
    1,L
    1,L,J
-
    2,L
    4
    1,L

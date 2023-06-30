@@ -125,8 +125,7 @@ console load StrawberryJam2021/2-Intermediate/Jems
    1
    1,R,J,G
    3,R,K,G
-  11,R
-  20,R
+  31,R
   68,R,U,J,G
   75,R,K,G
   10,U,G
@@ -500,10 +499,8 @@ console load StrawberryJam2021/2-Intermediate/Jems
    8,L
    1,L,D
    3,R,D
-   2,L,D
-  10,L,D
+  12,L,D
   15,L,Z
-
    3,L,D
    3,D
    1,R,J,G

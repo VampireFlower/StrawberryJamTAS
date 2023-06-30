@@ -88,8 +88,7 @@ console load StrawberryJam2021/2-Intermediate/Luma
    2,R,J
   49,R,D,G
   24,R,J,G
-   5,R
-   7,R
+  12,R
   11,L,D
    9,R
    5
@@ -238,7 +237,6 @@ console load StrawberryJam2021/2-Intermediate/Luma
    1,L
    1
   11,R
-
   13,R,G
    1,R,J,G
   17,R,G

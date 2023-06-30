@@ -203,7 +203,7 @@ endrepeat
    4,L,J
   40
 
-#lvl_viv5(0)
+#lvl_viv5 (0)
    1,L,J
    3,R,J
   98,R,U,Z
@@ -244,8 +244,7 @@ endrepeat
   12,L,D,X
   40
 
-
-#lvl_viv5(1)
+#lvl_viv5 (1)
    2
    1,R
   15,D,X

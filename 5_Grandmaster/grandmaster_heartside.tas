@@ -529,7 +529,6 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
   14,R,D,C
   15,R,J
   15,R,D,X
-
    2,G
    2,J,G
    1,R,J
@@ -579,8 +578,8 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    7,R
    1,R,J
    6,R,D,X
-  13,R,G
-   5,R,G
+  12,R,G
+   6,R,G
    2,R,J
   46,R,U,G
   90,R,U,J,G
@@ -936,7 +935,6 @@ EndRepeat
   44,R,D
    4,Z
    1,L,J
-
   36,R,D
    8,L
   36,R
@@ -1830,8 +1828,7 @@ Set CelesteTAS.SimplifiedBackdrop false
    9,L
   13,L,J
    2,J
-   3,L,J
-   2,L,J
+   5,L,J
   19,L,U,X
   10,U,C
   51,J
@@ -2335,8 +2332,7 @@ endrepeat
    2,R
    2
    1,L
-   1
-  89
+  90
    1,R,J
    6
    3,J
@@ -2501,8 +2497,7 @@ endrepeat
    1,R
   12,R,J,G
    1,R
-  26,J,G
-   4,J,G
+  30,J,G
   11,L,D
    9,D
    1,L,D
@@ -2531,8 +2526,7 @@ EndStunPause
    1,J
    3,R,J
   11,J
-   2,R,J
-  13,R,J
+  15,R,J
    7,R,K
   38,R
    8

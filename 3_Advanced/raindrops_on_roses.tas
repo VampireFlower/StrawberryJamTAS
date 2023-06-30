@@ -6,6 +6,7 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
 
 #Start
  190
+
 #lvl_1
    7,R,J
    5,J
@@ -37,6 +38,7 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
    2,R,J
    4,R
   40
+
 #lvl_2 (0)
    4,R,K
    8,R,D,J
@@ -156,6 +158,7 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
    2
   12,R,D,X
   43
+
 #lvl_3
    5
    8,U,X
@@ -241,6 +244,7 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
    1,R,K,G
    1,J
   43
+
 #lvl_6
    1,R,J,G
    3,R,K,G
@@ -415,6 +419,7 @@ EndStunPause
    5,R
    9,R,U,X
   40
+
 #lvl_7
    8,R,U,X
   11,R,J,G
@@ -589,6 +594,7 @@ EndStunPause
   15,U,X
    1,L
   43
+
 #lvl_8
 #didn't test right route
    6,J

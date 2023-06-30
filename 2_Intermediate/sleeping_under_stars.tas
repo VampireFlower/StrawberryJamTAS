@@ -47,8 +47,7 @@ console load StrawberryJam2021/2-Intermediate/Arphimigon
   35,R,D,G
   30,R,G
    7,R,D,G
-   5,R
-   3,R
+   8,R
   13,L
    1,L,D
    5,D
@@ -85,7 +84,6 @@ console load StrawberryJam2021/2-Intermediate/Arphimigon
    3,L
   10,J
   11,L,J
-
    3,K,G
    8
    5,L

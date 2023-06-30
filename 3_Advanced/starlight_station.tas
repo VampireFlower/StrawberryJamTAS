@@ -30,8 +30,7 @@ EndStunPause
 
 #lvl_a1
    3,R,D,X
-   3
-   2
+   5
    1,D
    5,R,D
   13,R,U,X
@@ -464,7 +463,6 @@ EndStunPause
   47,R,Z
   15,R,D,C
   11,R,D
-   0,L,D
    1,L,J,G
    1,K,G
    1,L,J,G

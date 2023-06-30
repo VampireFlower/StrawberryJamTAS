@@ -802,8 +802,7 @@ console load StrawberryJam2021/5-Grandmaster/math
    1,J
   10
    1,L
-   3
-   3
+   6
    3,R
    1,L
    1,J
@@ -914,8 +913,7 @@ AnalogMode,Ignore
    7,L,D
   15,L,Z
   44,R
-   1,R,G
-   3,R,G
+   4,R,G
    3,U,G
    1,G
    1,U,G

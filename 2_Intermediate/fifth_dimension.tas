@@ -44,8 +44,8 @@ console load StrawberryJam2021/2-Intermediate/Liero
   14,R,D
   40
 
-#stunning is slower by like a second here
 #lvl_A02
+#stunning is slower by like a second here
    3,R,D
    1,R
    1,R,G
@@ -103,7 +103,7 @@ console load StrawberryJam2021/2-Intermediate/Liero
    2,R,D
   15,R,Z
   18,R,X
-#feels slow 
+#feels slow
   15,U,C
   44,D
   18,R,C

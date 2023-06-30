@@ -228,8 +228,7 @@ repeat 6
    1,R,J,G
    1,R
 endrepeat
-   1,R,J,G
-   1,R,J,G
+   2,R,J,G
    1,R,K,G
    1,R,J,G
    7,R,G
@@ -295,8 +294,7 @@ endrepeat
   10,R,Z,G
    1,K,G
    1,K
-   1,K,G
-   1,K,G
+   2,K,G
    1,K
    1
    2,G
@@ -341,8 +339,7 @@ endrepeat
    1,R,J,G
    1,R,J
    1,R,J,G
-   2,R,G
-   1,R,G
+   3,R,G
    4,D
    3,R,D
   19,D
@@ -487,8 +484,7 @@ endrepeat
    1,R,J,G
    4,R,K,G
    1,R,K
-   1,R,K,G
-   4,R,K,G
+   5,R,K,G
   12,L,J,G
    6,L,Z,G
    1,L,J,G

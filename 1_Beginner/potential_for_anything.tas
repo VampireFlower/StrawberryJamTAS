@@ -280,7 +280,6 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
   16,R,D
    5,R
   22,R,Z
-
    1,R,J
    6,R
   14,L,D,X
@@ -556,6 +555,7 @@ EndRepeat
    1,R,J
    5,R,D,X
    1,L,J
+
 #lvl_WZ-5a
    9,J
   15,D,Z
@@ -578,15 +578,14 @@ EndRepeat
    3,R
    6,R,D,X
   40
+
 #lvl_WZ-Tele
    9,R,D,X
    7,R,J
-   5,R
-   1,R
-   1,R
+   4,R
 
 #lvl_HUB (2)
-   5,R
+   8,R
   12,R,U,X
    1,R,J,G
    9,R

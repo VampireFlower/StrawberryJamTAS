@@ -339,11 +339,9 @@ EndStunPause
 #for the most part
    7,R,U,X
    9,R,J,G
-   1,R,K,G
-   1,R,K,G
+   2,R,K,G
    1,J,G
-   1,R
-   5,R
+   6,R
    3,R,J
    4,R
   14,R,J
@@ -352,8 +350,7 @@ EndStunPause
    2,L
    2
    1,L
-   1
-  57
+  58
   15,X
   12,R
   11
@@ -738,8 +735,7 @@ EndRepeat
    1,R
    1
   10,J
-   9,R,J
-   2,R,J
+  11,R,J
    1,R,K,G
    1,L,J
   20,L,K
@@ -876,8 +872,7 @@ EndRepeat
    2,L,D
    2,R,D
    2,R,J
-   6,R,D
-  19,R,D
+  25,R,D
    4,R
    1,L
    1,R
@@ -904,7 +899,7 @@ EndRepeat
   12,R,D
   15,D,X
    4
-Repeat 18 
+Repeat 18
    2,U
    2,R,D
    2,U
@@ -1080,8 +1075,7 @@ EndRepeat
    1,L,J,G
    6,L
    1,L,J
-   1,L
-   1,L
+   2,L
   12,L,J
    1,R,J
   17,L,J

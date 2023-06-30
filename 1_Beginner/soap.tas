@@ -6,7 +6,7 @@ console load StrawberryJam2021/1-Beginner/Circumplex
 #Start
  104
 
-#lvl_01 
+#lvl_01
    7,L,Z
    1,R,J
    2
@@ -21,7 +21,7 @@ console load StrawberryJam2021/1-Beginner/Circumplex
    3,R
   40
 
-#lvl_02 
+#lvl_02
    4,R
   16,R,D,J
   15,R,X
@@ -263,7 +263,7 @@ console load StrawberryJam2021/1-Beginner/Circumplex
   40
 
 #lvl_07
-#stuns yellow 
+#stuns yellow
 #with spinner cycle 1?
 #  10,D
 #  15,L,D,X
@@ -282,7 +282,7 @@ console load StrawberryJam2021/1-Beginner/Circumplex
   15,R,D
   25,L,D
   13,D
-StunPause 
+StunPause
   12,D
 EndStunPause
    1,D
@@ -398,9 +398,7 @@ EndStunPause
    4
   29,G
    1,D,G
-   5,G
-   1,G
-  12,G
+  18,G
    2,R,D,G
    1,G
    2,D,G

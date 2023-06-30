@@ -100,7 +100,6 @@ console load StrawberryJam2021/4-Expert/KAERRA
    5
    5,R,X
    4,R,J,G
-
   15,R
   15,D,X
    9,R,D
@@ -121,7 +120,6 @@ console load StrawberryJam2021/4-Expert/KAERRA
    1,R,D
   16,R,Z
   11,R,J
-   
    6,K,G
    7
    6,J
@@ -193,7 +191,6 @@ console load StrawberryJam2021/4-Expert/KAERRA
    7,J
    4,R,J
   15,U,X
-
   40
 
 #lvl_a04
@@ -487,8 +484,7 @@ endrepeat
   12,R,J
   26,R,D
    4,D
-   1
-   6
+   7
    4,R
   11,R,D
    2,R

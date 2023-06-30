@@ -6,7 +6,7 @@ console load StrawberryJam2021/3-Advanced/sp1029
 #Start
 #Power Box Cycle (Next cycle should be at 65)
    0
-  
+
 #lvl_a-01
    9,L,X
    1,R,J
@@ -88,8 +88,7 @@ console load StrawberryJam2021/3-Advanced/sp1029
   40
 
 #lvl_a-05
-   1,R,J
-   1,R,J
+   2,R,J
    8,R
   19,D,X
    3,D
