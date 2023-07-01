@@ -1,11 +1,11 @@
-RecordCount: 4504
+RecordCount: 4544
 
 console load StrawberryJam2021/3-Advanced/sp1029
    1
 
 #Start
 #Power Box Cycle (Next cycle should be at 65)
-   0
+   1
 
 #lvl_a-01
    9,L,X
@@ -63,6 +63,7 @@ console load StrawberryJam2021/3-Advanced/sp1029
    3,R
    1,R,J
    3,R
+
    1,R,J
   11,R
    5,R,Z
@@ -187,18 +188,17 @@ console load StrawberryJam2021/3-Advanced/sp1029
    1,L,J
   12,L
   11,L,U,X
-  23,L,G
+  27,L,G
    1,L
   12,D
    5,L,D
-  13,R,D
-  10,D
-   7,R,Z
+  18,R,D
+   6,R,Z
    1,R,J
    5,R,K,G
-   3,R
-   1,R,J,G
-   5,R
+   2,R
+   2,R,J,G
+   4,R
    1,R,J
    1,R
   40
@@ -378,4 +378,4 @@ console load StrawberryJam2021/3-Advanced/sp1029
   24,R,U,X
    4,C
  135,D
-ChapterTime: 0:52.428(3084)
+ChapterTime: 0:52.394(3082)
