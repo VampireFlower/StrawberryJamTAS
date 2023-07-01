@@ -1,4 +1,4 @@
-RecordCount: 16187
+RecordCount: 16219
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -547,14 +547,15 @@ EndStunPause
    1
    2,R
   15,R,U,Z
-   7,L,K,G
+   5,K
   18,U,X
   13,L,C
    4,R,U,G
    3,R,J,G
-   2,R
-   2,R,K,G
-  11,R,D,X
+   3,R
+   1,R,K,G
+   1,R
+  10,R,D,X
    4,R,J
    1,R,K
    4,R,J,G
@@ -989,7 +990,7 @@ EndStunPause
   25,R,D,X
   13,R
   10,R,X
-#cycle
+#spinner cycle
    0
 #bad spot but w/e
    8,L,J
@@ -1134,9 +1135,9 @@ EndStunPause
 #Set, Player.Position, 20177, -1456
 #  99
 
-  18,U
+  17,U
 StunPause
-  21,U
+  22,U
 EndStunPause
    9,U
    6,L,U
@@ -1745,7 +1746,7 @@ EndStunPause
    1,K,G
    7
 #spinner cycle
-   2
+   1
 #
   15,D,X
   14,R,D,C
@@ -2019,4 +2020,4 @@ EndStunPause
   12,U,X
  135
 
-ChapterTime: 4:56.106(17418)
+ChapterTime: 4:56.055(17415)
