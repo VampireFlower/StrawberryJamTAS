@@ -1,4 +1,4 @@
-RecordCount: 4109
+RecordCount: 4136
 #by Topaz
 console load StrawberryJam2021/5-Grandmaster/tofu
    1
@@ -264,10 +264,10 @@ EndStunPause
    2,R,J
   15,D,X
    8,R,J
-  14,R,Z
-   2,R,J
-  10,R,D
-  21,D
+   7,R,Z
+   6,R,J
+  11,R,D
+  20,D
   12,R,D,X
    3,R,J
   12,L,D,X
@@ -374,4 +374,4 @@ EndStunPause
   15,R,X
  135
 
-ChapterTime: 0:56.967(3351)
+ChapterTime: 0:56.916(3348)
