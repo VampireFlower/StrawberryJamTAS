@@ -1,4 +1,4 @@
-RecordCount: 15010
+RecordCount: 15116
 
 console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    1
@@ -1204,8 +1204,7 @@ EndStunPause
   17,R,D
   15,R,Z
   16,R,D
-   1,R
-  28,R
+  29,R
   15,R,U,X
    1,R
   12,R,C
@@ -1428,8 +1427,9 @@ EndStunPause
    2,J,G
    8,L,J
   43,L,D
-   1,L,J
-  12,L,K
+   1,J
+  11,L,K
+#-1f by holding jump for one less frame ^
   43,L,J
    1,L,K
   14,L
@@ -2000,4 +2000,4 @@ Repeat 33
 EndRepeat
    1
 
-ChapterTime: 4:28.345(15785)
+ChapterTime: 4:28.328(15784)
