@@ -1,4 +1,4 @@
-RecordCount: 4951
+RecordCount: 5197
 
 console load StrawberryJam2021/4-Expert/Aspar
    1
@@ -400,25 +400,24 @@ EndStunPause
    9,R
    1,R,J
   13,R,D
-   5,R,Z
-   1,R,J
-   4,R
+   4,R,Z
+   6,R,J
   40
 
 #lvl_11
-   3,R
-   2,R,J
-   9,U,X
+   5,R,J
+   7,U,X
    3,R,J
-  17,L,J
-   5,L,K,G
+  14,L,J
+   3,J
+   1,L,K,G
+   4,K
    2,R,K
    1,K
    1,R,K
    1,K
    1,J
   24,L,J
-   1,J
   11,K,G
    1,R,K
    1,J
@@ -431,7 +430,7 @@ EndStunPause
    2,K
    8,J,G
    3,L,J
-  15,U,X
+  14,U,X
    8,J
   11,L,J
   11,K,G
@@ -442,57 +441,59 @@ EndStunPause
   16,L,J
   16,R,K
   16,L,J
-  23,R,K
+  24,R,K
+   1,R
+   1,R,K
   13,R
-   3,R,D
-   1,R,J
-  22,R,K
-  18,U,X
-   2,R
+  35,R,J
+  12,U,X
+  41,L,J
   15,U,X
-   3,R
-   1
-  12,J
-   9,L,J
-   4,L,K,G
    5,L
-   2,L,J
-   8,L
-  23,L,J
+  18,L,K
+   6,J,G
+   1,R,J
    1,K
   24,L,K
   11,J,G
    1,R,J
    1,K
   23,R,J
-  16,U,Z
-  24,L,J
-  11,K,G
-   1,R,K
-   1,J
-  24,L,J
+  15,U,Z
+   4,R
+   9,R,J
+  12,J
+   1,R,J
+  12,L,K
+  10,J,G
+   2,R,J
   27,R,K
-   1,J
-  25,R,J
-  19,R,K,G
-   8,R
-  30,R,J,G
+   1,J,G
+   1,R,J
+   1,L,J
    1,K
-  18,R,K
+  24,R,K
+  10,R,J,G
    7,R
-   1,J
+   3,R,J
+   2
+   3,R
+  30,R,K,G
+  10,J,G
+   1,R,J
+   1,L
+   3,R,K,G
    7,R
   11,U,X
   40
 
 #lvl_99-end
-  12,R
-   6,L,K
-  10,L,X
-   5,L,J
-   5,J
-  15,U,X
-   1,K,G
+   2,R
+  20,L,J
+  15,L,U,X
+   1,L,J,G
+   6,R,J
+   3,J
    7
    2,J
    6,L,J
@@ -508,4 +509,5 @@ EndStunPause
   14,L,U,X
  135
 
-ChapterTime: 1:13.219(4307)
+
+ChapterTime: 1:12.811(4283)
