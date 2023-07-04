@@ -1,4 +1,4 @@
-RecordCount: 5960
+RecordCount: 5988
 
 console load StrawberryJam2021/2-Intermediate/Dooshii
    1
@@ -511,6 +511,9 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
   17,R,U,C
   12,L,U,X
    7,R
+#spinner cycle
+   1
+##
   15,U,C
    8,R
    2
@@ -518,15 +521,14 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
    1,L
   10,L,X
   10,L,J
-   2,L,K,G
-  12,J,G
-  19,U,X
-#spinner cycle
-   1
-##
-  14,R,U,C
+   1,L,K,G
+   6,L
+   6,L,D,X
+   8,L
+  14,U,X
+   3,L
+  15,R,U,C
 StunPause
-   1,R,U,C
 SkipInput,3,1
   15,U,X
    7,L
@@ -751,5 +753,4 @@ EndStunPause
    6,R
   14,R,U,X
  135,D
-
-ChapterTime: 1:40.521(5913)
+ChapterTime: 1:40.368(5904)
