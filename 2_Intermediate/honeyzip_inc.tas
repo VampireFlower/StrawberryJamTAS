@@ -1,4 +1,4 @@
-RecordCount: 3217
+RecordCount: 3423
 
 console load StrawberryJam2021/2-Intermediate/GlowWoomii
    1
@@ -401,37 +401,40 @@ console load StrawberryJam2021/2-Intermediate/GlowWoomii
   15,U,X
    6,L
    4,R
-  12,R,J
-   4,R,X
-  15,R,G
-  18,R,J,G
+  11,R,J
   13,R,G
-   9,R,J,G
-   5,R
-   4,R,J
-   4,R,Z
    1,R,J
-   6,R
-   1,R,J
+   1,R
+Repeat 2
+   7,R,G
+   1,R,J,G
+   1,R
+EndRepeat
+   7,R,G
+  24,R,J,G
+  11,R,G
+   1,R,J,G
+   1,R
+Repeat 1
+   7,R,G
+   1,R,J,G
+   1,R
+EndRepeat
+   7,R,G
+   1,R
+  11,R,U,X
+   5,R,J,G
   40
 
 #lvl_endroom
-   6,R,J
-   1,R,K,G
-  13,R,J,G
+   3,R,J,G
+   9,R,K,G
   15,R,D,X
-   1,R,J
-  18,R
-   3,R,J
-   5,R,D,X
-   1,R,J,G
-  11,R
-   1,R,J
-   1,R
-  14,R,U,X
-  85,R,D
+   5,R,J
+  13,R,U,C
+  87,R,D
    1,L,Z
    1,L,J
-  48
+  46
 
-ChapterTime: 1:04.838(3814)
+ChapterTime: 1:04.668(3804)
