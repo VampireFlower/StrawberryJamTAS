@@ -1,4 +1,4 @@
-RecordCount: 3763
+RecordCount: 3895
 
 console load StrawberryJam2021/2-Intermediate/Ice
    1
@@ -606,35 +606,40 @@ EndStunPause
   40
 
 #lvl_b-07
-  14,L
+  12
+   1,R
+   1
   10,L,D,X
-   3,L,J
-   6,L,K,G
-  14,L,J,G
+   3,J
+   3,L,K,G
+   1,K
+   2,L,K
+   1,L,J,G
+  12,L,K,G
   15,L,D,X
-  12,L,J
-  12,L
-  20,R
-   5,D
-  18,J
-  10,L
+  11,L,J
+   6,L
+  29
+  20,J
+   3
+   5,L
    1,L,G
-  16,L,J,G
-   3,L
-   9,L,G
-  12,R,J
-  37,R,D
+  12,L,J,G
+   7,L
+   7,L,U,G
+   1,R,J
+  12,R,K
+  16,R
+   1,R,J
+  19,R,D
   15,R,X
-  21,R,D
-   2,D
+  23,R,D
   14,R,Z
-  29,R,J
-  17,R
+  45,R,J
   14,R,X
-   9,R,J
-  18,R
-   1,R,G
-  33,U,G
+  10,R,J
+  15,R
+  34,R,G
    1,J
    1,L,J
    1,L
@@ -764,4 +769,4 @@ EndStunPause
   19,J
   15,U,X
  135
-ChapterTime: 1:56.637(6861)
+ChapterTime: 1:56.484(6852)
