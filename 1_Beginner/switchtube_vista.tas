@@ -1,4 +1,4 @@
-RecordCount: 6459
+RecordCount: 6838
 
 console load StrawberryJam2021/1-Beginner/Flagpole1up
    1
@@ -176,8 +176,8 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    1
    2,R,J,G
    1,K
-   2,J,G
-   3,L,J
+   1,J,G
+   4,L,J
   14,L,U,X
  127
    1,R,J
@@ -205,36 +205,33 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   38
    2,J,G
    1
-   6,R,K
-   6,L,K
+   7,R,K
+   4,L,K
   10,R,Z
-  12,L,J
-   1,L
-  11,L,J
-   7,L
+  31,L,J
    1
    2,L
    1,L,J,G
    2,R,J
    3,J
    3,L,J
-   4,L,K,G
+   5,L,K,G
    5,L
-   6,L,J
-   8,L
+   5,L,J
+   9,L
    2,K
    9,L,K
-  13,L
+  12,L
    1,L,K,G
    1,L,J,G
-   5,L
-   2,L,K
    6,L
+   2,R
+   5,L
   12,L,J
    5,L
-   4,L,J
+   5,L,J
   15,L,X
-   6,L
+   5,L
   45
    1,R,J
   12,R,K
@@ -259,22 +256,20 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    8,L,D
    9,D
    4,R,Z
-   1,R,J
-   4,R
+   5,R,J
   40
 
 #lvl_a07
-   6,R,D
-  14,R,D,X
-   1,R,J
-  15,R,D
-   9,R,X
-  29
+   8,R,J
+  17,R,D,X
+   1,R,D,J
+   8,R,D
+  10,R,D,X
+  28
    2,J
-   1,R,J
+   3,L,J
    5,L,K
-   3,R,K
-   4,K
+   4,R,K
   10,L,Z
    1,R,J
   20,R,D
@@ -357,12 +352,10 @@ EndRepeat
   12,K,G
    1,L,J,G
    2,R,J
+Repeat 3
    1,J
    1,R,J
-   1,J
-   1,R,J
-   1,J
-   1,R,J
+EndRepeat
    1,J
   15,R,K
   15,U,C
@@ -574,8 +567,8 @@ EndRepeat
   11,R,D,J
    8,K
   11,R,D,X
-   4
-   6,R
+   5,R
+   5
   14,L,U,X
   38
   12,K
@@ -772,4 +765,4 @@ EndRepeat
    7,L,D
   69,D,X
 
-ChapterTime: 2:03.131(7243)
+ChapterTime: 2:03.063(7239)
