@@ -1,4 +1,4 @@
-RecordCount: 7702
+RecordCount: 7729
 
 console load StrawberryJam2021/5-Grandmaster/Soloiini
    1
@@ -815,13 +815,14 @@ Endrepeat
   21,L,X
    4,L,J
    5,L,K
-  22,L,K,G
+  17,L,K,G
+   2,L
+  13,U,X
+   9,U,G
+  14,L,G
    1,D
-  27,J,G
-   1,D
-  27,J,G
-   1,D
-  48,L,J,G
+  37,L,J,G
+   9,L,G
    4,L,K
   15,L,U,Z
    7,L,C
@@ -1161,4 +1162,4 @@ Endrepeat
    1,L,J
   55,L
 
-ChapterTime: 3:07.850(11050)
+ChapterTime: 3:07.374(11022)
