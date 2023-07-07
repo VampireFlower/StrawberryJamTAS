@@ -1,4 +1,4 @@
-RecordCount: 5099
+RecordCount: 5109
 
 console load StrawberryJam2021/5-Grandmaster/xlibiza
    1
@@ -98,16 +98,14 @@ console load StrawberryJam2021/5-Grandmaster/xlibiza
 AnalogMode Square
   27,F,131.93
    4,F,110.6
-  14,F,180
-   3
-  15,R,Z
-   3
-   4,R
-  11,L,D,X
+  14,F,118.8
+   2
+  13,R,Z
+   3,R,J,G
+  10,R
    1,R,J
-   3,R
-   9,R,D,X
-  23,R,J
+  12,R
+  14,R,X
   14,R,Z
    3,R,J
    6,R
@@ -342,7 +340,7 @@ AnalogMode Square
   15,R,X
   12,R,Z
 ## Spinner cycle
-   0
+   2
 ##
   15,D,X
   18,R,Z
@@ -1034,4 +1032,4 @@ AnalogMode Ignore
   14,R,U,X
  135,D
 
-ChapterTime: 2:43.625(9625)
+ChapterTime: 2:43.421(9613)
