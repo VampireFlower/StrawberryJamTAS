@@ -1,4 +1,4 @@
-RecordCount: 5846
+RecordCount: 5864
 
 console load StrawberryJam2021/2-Intermediate/Jems
    1
@@ -511,7 +511,7 @@ console load StrawberryJam2021/2-Intermediate/Jems
    1,L,J
    1,L,K
   15,L,J
-  45,L,D
+  44,L,D
   12,R,D
   14,L,D,X
    1,L,J
@@ -594,7 +594,7 @@ console load StrawberryJam2021/2-Intermediate/Jems
   17
    1,R
    1
-   5,J
+   3,J
   22,L,J
   19,D
   27,R,D
@@ -652,15 +652,15 @@ console load StrawberryJam2021/2-Intermediate/Jems
   17,R,D
   19,L,D
   17,R,D
-  17,D
+  16,D
    5,R,D
   15,L,Z
    6,L,D
-   8,R,D
+   9,R,D
   40
 
 #lvl_btd-31
-  26,R,D
+  25,R,D
    2,R
    3,R,J
    5,R
@@ -920,4 +920,4 @@ console load StrawberryJam2021/2-Intermediate/Jems
   17,L,D,J
   14,L,K,G
 
-ChapterTime: 2:24.432(8496)
+ChapterTime: 2:24.364(8492)
