@@ -1,4 +1,4 @@
-RecordCount: 3822
+RecordCount: 3922
 
 console load StrawberryJam2021/5-Grandmaster/Linj
    1
@@ -44,16 +44,18 @@ console load StrawberryJam2021/5-Grandmaster/Linj
   11,R,U,C
   86,R
   10,R,D
-   5,R
-   1,R,D
-  12,R
-  14,U,X
-   6,R,J
-   8,J
-  27,J,G
-  14,U,X
+   4,R
+  14,R,U,X
+   1,J,G
+   4
+   2,L
+   7,R,D
+  12,J
+
+  18,R,U,X
+  14,U,C
   15,J
-  14,U,X
+  25,R,J,G
   85
   40
 
@@ -216,4 +218,4 @@ console load StrawberryJam2021/5-Grandmaster/Linj
    3,R,J
    9,U,X
  135
-ChapterTime: 0:29.410(1730)
+ChapterTime: 0:29.359(1727)
