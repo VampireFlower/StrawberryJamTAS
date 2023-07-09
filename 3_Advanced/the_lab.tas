@@ -1,4 +1,4 @@
-RecordCount: 5775
+RecordCount: 5801
 
 console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1
@@ -120,7 +120,8 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    9,R,D
   11,D
   14,R,G
-  13,R,D,G
+   7,R,D,G
+   6,R,D,G
   10,G
   15,U,X
    1
@@ -708,6 +709,7 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    5,R
    1
    1,R
+
    1,R,J
   15,U,X
    7,L
@@ -727,15 +729,19 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1,R,J
    2
 #shoutout to viv
-  10,R,Z
-   6,R,J
-  14,R,U,X
+   8,R,Z
+   1,R,J
+   5,R
+   1
+   1,R,J
+  13,R,U,X
   22
-  72,R
+  69,R
+   8,R,K
    1,R,J,G
    1,R,K,G
    1,R,J,G
    1,R,K,G
-  37,R
+  32,R
 
-ChapterTime: 1:29.811(5283)
+ChapterTime: 1:29.794(5282)
