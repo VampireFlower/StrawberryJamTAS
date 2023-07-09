@@ -1,5 +1,5 @@
 #By Kataiser
-RecordCount: 5421
+RecordCount: 5483
 
 console load StrawberryJam2021/3-Advanced/Worldwaker2
    1
@@ -500,28 +500,30 @@ EndStunPause
   15,R,D
    7,D
    2
-Repeat 35
-   1,D
-   1
-EndRepeat
-  14,L,Z
-   1,R,J
-  13,R,D,X
-   1,R,J
+  45
    7,R
-  17,R,J
-   1,R
-   1,R,K,G
-  10,R,X
-   1,L,J
-   4,L
-  24,L,G
-  20,L,J,G
-   1,L
+  11,R,J
+  14,L,D,X
+   1,R,J
+   5,R,X
+  13,R,G
+   2,R,J,G
+   6,R,K,G
+   1,R,G
+   7,R,K,G
+   1,L,J,G
+   4,R,J
+  12,R,X
+  14,L,J,G
+   1,J,G
+   9,L,J,G
+   3,L,K,G
+  19,L,J,G
+   1
   15,U,X
    1,L
-  33,L,U,G
-   4,R,J,G
+  32,L,U,G
+   5,R,J,G
    1,R
   10,L,Z
   15,R,J
@@ -651,4 +653,4 @@ EndStunPause
   18,R,U,X
  135,R,D
 
-ChapterTime: 1:38.073(5769)
+ChapterTime: 1:37.920(5760)
