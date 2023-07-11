@@ -1,4 +1,4 @@
-RecordCount: 6625
+RecordCount: 6698
 
 console load StrawberryJam2021/4-Expert/DanTKO
    1
@@ -396,7 +396,6 @@ console load StrawberryJam2021/4-Expert/DanTKO
    1,R,J
   14,R,D,X
   43
-
 #lvl_DanTKO_06
    1,R,J
   14,R,D,X
@@ -458,7 +457,11 @@ console load StrawberryJam2021/4-Expert/DanTKO
    1,R,J
    7,R
    1,R,J
-  50,R
+   7,R
+  40
+
+#lvl_DanTKO_06b
+   3
    1,R,J
   11,R,D,X
    1,R,J
