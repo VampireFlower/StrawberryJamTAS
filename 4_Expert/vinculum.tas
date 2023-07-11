@@ -1,4 +1,4 @@
-RecordCount: 3557
+RecordCount: 4477
 
 console load StrawberryJam2021/4-Expert/rdoggo8
    1
@@ -23,43 +23,47 @@ console load StrawberryJam2021/4-Expert/rdoggo8
   11,K
    8,R,Z
    1,R,J
-   7,R
+   6,R
+   1,R,K
   22,R,J
   15,U,X
-  33,R,G
-   1,L
-   5
+  31,R,G
+   2,L,G
+   7,L
    5,L,U,X
-  11,L
-  37,L,G
+   9,L
+  29,L,G
    1,R
-  36,L,D
-  12,D
+  13,L,D
+  11,D
+  16,L,D
+   7,D
+   2,G
+   1,J,G
   26,L,X
   28,U,C
-   2,R
-  18,R,X
-   5,J
-  15,U,X
-   2,R
-  41,R,G
-   1,R
-  21,R,D
-  14,U,X
-  21,L,G
+  22,R,X
+  15,U,C
+   1
+   5,R
+  54,R,D,G
+   1,D,G
+  10,R,D
+  11,U,X
+  14,G
+  19,L,G
    1,L
-   3
-   8,R
-   9,U,X
-  22,R,G
-   1,L
-  32,R
-   3,R,D
-   6,R,Z
+   7,K,G
+   4,R,K
+   3,K
+   1,R,K
+  15,R,U,X
+  26,R
+   7,R,Z
    1,R,J
    7,R
    1,R,J
-   8,R,D,X
+   7,R,D,X
   40
 
 #lvl_a-03
@@ -88,20 +92,23 @@ console load StrawberryJam2021/4-Expert/rdoggo8
   17,L
   40,R,D
    7,R
-   6,R,Z
+   4,R,Z
    1,R,J
-   7,R
+   2,R
+   3,R,J
+   4,R
    1,R,J
-  11,R,D,X
+   8,R,D,X
    1,R,J
-   1,R
+   5,R
   40
 
 #lvl_a-04
-   6,R
-  10,L,J
+   1,R
+  10,R,J
   14,U,X
-  23,G
+  20,R,G
+   4,G
   10,L,G
    1,L
   15,R,X
@@ -119,40 +126,44 @@ console load StrawberryJam2021/4-Expert/rdoggo8
   25,R,G
    1,L
   18
-  26,R,D
-  10,R,Z
+  11,R,D
+  15,R,D,X
+   7,R,D
+   7,R,Z
    1,R,J
    7,R
    1,R,J
-   8,R,D,X
+   5,R,D,X
   40
 
 #lvl_a-05
-   6,R,D,X
-   7,R,J
-  18,R
+   9,R,D,X
+   2,R,J
+   1,R
+   1,R,J
+  16,R
    5,R,X
   30,R,G
    4,L,G
-  25,U,X
-  15,R,G
+  25,U,Z
+   3,R,G
+  13,L,G
+   2,G
+   2,L,G
    1,L
   14,R,D,X
    1,R,J,G
-   6,L
-  11,R
-   1
-   1,R
+   3,D
+   3,R
    1,R,J,G
-   1,R,K,G
-   9,R,D
-   7,D
-   6,L,D
+  10,R,D
+  12,L,D
+   1,L,D,J
+   1,L,K,G
   14,R,D,X
    1,R,J
   16,R,D,X
-   1,R,D,J
-   2,R,J
+   3,R,D,J
   15,R,D,X
    4,R,J
   28,R,J,G
@@ -195,7 +206,7 @@ console load StrawberryJam2021/4-Expert/rdoggo8
   40
 
 #lvl_a-06 (0)
-   1,R
+   1,R,K
    2,R,J
    5,R,K,G
    2,R
@@ -210,16 +221,15 @@ console load StrawberryJam2021/4-Expert/rdoggo8
   16,R,D,X
   15,R,Z
   10,U,X
-   1,R,J
-   1,R,K
-   3,R,J,G
-   6,R,Z
+   5,R,J
+   5,R,Z
    1,R,J
    3,R
   40
 
 #lvl_a-07
-   7,R
+   3,R,J
+   3,R
    1,R,J
   14,R,D,C
   14,R,X
@@ -260,56 +270,60 @@ console load StrawberryJam2021/4-Expert/rdoggo8
    1,S
    1,D,J
   69,O
-   1,L,J
+   1,L
   13,L,U,X
    1,L,K,G
-   7,L
-   4,L,Z
-   1,L,J
-   7,L
+   1,R
+   6,L
+   7,L,Z
+   4,L,J
+   1,L
   40
 
 #lvl_a-06 (1)
-   6,L,J
-  15,D,X
-  15,L,Z
-   1,L
-  15,U,X
-  14,U,C
-   5,J
-  15,U,X
-  30,L
-  24,L,X
-   9,J
-   8,L,Z
-   1,L,J
    2,L
+   1,L,J
+  15,L,D,X
+  15,L,Z
+   1,L,U
+   1,L
+  14,U,X
+   1,J
+  14,U,C
+   3,J
+  15,U,X
+  30,L,D
+   7,L,J
+   7,L,Z
+   2,L,J
+  10,L
    3
-   7,L
-  14,L,Z
+  14,L,D,X
    1,R,J
    6,R,D,X
    1,R,J,G
   10,R
    1,R,J
    1,R,K,G
-  11,R
+   7,R
+   1,R,J
+   3,R
   11,R,J
-   4,R,K,G
-   2,R,J,G
-   5,R
-   1
-   8,R,U,Z
+   6,R,K,G
+  10,R,U,Z
   40
 
 #lvl_a-08
-   5,R,U,Z
-   2,R,J,G
-   9,R,X
+   4,R,U,Z
+   1,R,J,G
+   3,J
+   2
+#rancid
+   7,R,X
   16,R,G
    1,J,G
-  12,R,J,G
-   7,R,G
+   9,R,J,G
+   9,R,G
    7,R
   14,U,X
   33,R,G
@@ -320,10 +334,11 @@ console load StrawberryJam2021/4-Expert/rdoggo8
    1,R
    9,U,X
   33,R,G
-  11,D
-   1,R
-   9,U,X
-  30,R,G
+   5,R,D
+   6,D
+   1
+  10,U,X
+  29,R,G
    1,R
   11,R,U,X
    7
@@ -584,4 +599,4 @@ console load StrawberryJam2021/4-Expert/rdoggo8
    1,L,J
   50,L
 
-ChapterTime: 1:49.718(6454)
+ChapterTime: 1:48.647(6391)
