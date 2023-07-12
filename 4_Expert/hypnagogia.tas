@@ -1,4 +1,4 @@
-RecordCount: 2213
+RecordCount: 2390
 
 console load StrawberryJam2021/4-Expert/pansear
    1
@@ -7,14 +7,13 @@ console load StrawberryJam2021/4-Expert/pansear
  190
 
 #lvl_a-00
-   4,X
+   5,X
    6,R,J
    7,R
-   1,R,K
    6,R,J
    4,R
-  10,U,X
-  16,R
+  15,U,X
+  10,R
    2,R,J
   14,R,Z
    1,R,J
@@ -473,4 +472,4 @@ console load StrawberryJam2021/4-Expert/pansear
    7,R,D,J
   52,R
 
-ChapterTime: 1:14.103(4359)
+ChapterTime: 1:14.086(4358)
