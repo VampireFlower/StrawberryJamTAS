@@ -1,4 +1,4 @@
-RecordCount: 3736
+RecordCount: 4167
 
 console load StrawberryJam2021/4-Expert/KAERRA
    1
@@ -149,8 +149,7 @@ console load StrawberryJam2021/4-Expert/KAERRA
   11,K,G
    5,R,Z
    3,R,J
-   1,R
-   1,R
+   2,R
   40
 
 #lvl_a03
@@ -217,23 +216,23 @@ console load StrawberryJam2021/4-Expert/KAERRA
    5,R,U,Z
    1,L,J,G
    5,K
-   4,R,J
-   8,R,J
+  12,R,J
   14,U,X
   40
 
 #lvl_a04
   11,R
   15,U,X
+   1
    3,R
    1,J,G
-   1,R,J
-   2,J
+   2,R,J
    1,R,K,G
    1,R,J,G
-   7,R,K,G
-  21,R,D
-  24,R,D
+  10,R
+   1,R,N
+   4,R,K
+  44,R,D
   13,R,D,X
   16,R,J
   15,U,Z
@@ -266,26 +265,28 @@ console load StrawberryJam2021/4-Expert/KAERRA
   15,R,X
   10,R,D,J
    8,R
-  16,J
-  17,R,J
+  19,J
+   4,L,J
+  10
   14,R,Z
    1,R,J
-   9,R,D,X
+  12,R,D,X
   40
 
 #lvl_a05
-   7,R,D,X
-   3,R,J
-  16,R
-   1,R,J,G
-  20,R
-  11,R,D,X
-   1,R,J,G
-  10
-  15,D,X
-   7,D
+   1
+   2,R
+  15,R,D,X
+   1,R,K
+  14,R,D
+   1,R,D,K
+   4,R
+   5
+   1,R
+  18,R,D,X
+  15,D,C
    1,L,D
-  10,L,D,X
+  12,L,D,X
    1,R,J
    7,R
    1
@@ -294,8 +295,7 @@ console load StrawberryJam2021/4-Expert/KAERRA
   25
    4,R
   15,R,Z
-   5,R
-   3,R
+   8,R
    5
   10,R,D,X
    6,R,J
@@ -321,8 +321,7 @@ console load StrawberryJam2021/4-Expert/KAERRA
    1,R
   15,R,X
   15,D,C
-   5,R,D
-   4,R,D
+   9,R,D
    4,Z
    1,R,J
   15,R
@@ -362,7 +361,8 @@ console load StrawberryJam2021/4-Expert/KAERRA
    1,R,J,G
    7,R,K,G
    5,R
-   8,R,J
+   3,R,J
+   3,R
   15,R,D,X
   40,R,D
    8
@@ -396,41 +396,60 @@ console load StrawberryJam2021/4-Expert/KAERRA
 #lvl_a07
    7
    4,L
-  11,J,G
+   3,J,G
+   1,L,J
+   7,J
    1,R,J
-  14,L,K,G
-   5,J,G
+   1,L,J
+  13,L,K,G
+   1,J,G
+   3,L,J
+   1,J
    1,R,J
    8,K
    1,L,J,G
-repeat 5
+repeat 3
    1,R,J
-   1,L,J
+   1,J
 endrepeat
    2,R,J
-   4,R,K
+   1,L,J
+   1,K,G
+   2,R,K
+   3,K
+   1
   15,U,X
   15,R,J
    1,R,K,G
    3,R,J,G
-  16,R
-  14,R,Z
+   7,R
    1,R,J
-   9,R
+   2,R
+   1,R,J
+   6,R
+  11,Z
+  11,R,K
   14,R,D,X
-   1,R,J
-  11,R
-  12,R,D,X
-  11,R,J
+   5,R,K
+   6,R,D,X
+   1,R,K,G
+   2,R,K
+   9,R,K,G
   15,R,D,X
-  14,R,J
-   3,L
+   5,R,J
+  14,R,D,X
+   1,R,K
+   9,R,U,X
+   2,R,K,G
+   5
+   2,K
   40
 
 #lvl_a08
-   2,L,J
-  12,L
-  13,L,D
+   4,K
+  11
+  10,L,D
+   2
   26,R,D
    2,R,J
   32,R
@@ -439,8 +458,10 @@ endrepeat
    1,L,K,G
    9,R,K
    5,R
-   2,R,J
-   5,R
+   1,R,J
+   1,R
+   1,R,J
+   4,R
   14,R,Z
    1,R,J
   11,R
@@ -453,37 +474,41 @@ endrepeat
    2,J
   28,U,X
   15,R,C
-  17
-  21,R
-   5,R,X
-   1,R,J,G
+  14
    3,R
-   5
-   9,R
-   4,Z
+   1
+  20,R
+   6,R,K,G
+  11,R,D,X
    1,R,J
-   1,R
+   4,R
+   3
   40
 
 #lvl_a09
-   8,R
    1,R,J
+   3,J
   14,R,D,X
    1,R,J
-  11,R
-  17,D,X
-   8,L,D
+  14,R,D,X
+   1,R,K
+   4,R
+  15,D,X
+   4,D
+   6,L,D
+   2,L
   11,L,Z
    1,L,J
    8,L
-  26,D,X
-   4,R,D
+  24,D,X
+   2
+   4,R
   15,R,Z
    4,R
-  13,D
-   2
+  14,D
+   1
    1,R
-   3
+   2
    1,L,G
    7,R,J
    5,R
@@ -492,33 +517,42 @@ endrepeat
    6
    5,L,G
    7,R,J
-   5,R
+   6,R
    2,R,J
-  11,R
-   2
+   1,R
+   3,R,J
+   7,R
+   1
   12,R,D,X
-   1,R,J
-   2,J
+   3,J
   14,U,X
-  27,R,J
+  26,R,J
   15,R,X
   11,R,D,C
-  14,R,J
+  11,R,J
+   1,R
+   1,R,J
   15,U,X
-  12,R
-  11
-   2,R
-  11,L,X
-  16,R,J
-  14,U,X
-  12,R,J
-  26,R,D
-   4,D
-   1
-   6
-   4,R
-  11,R,D
-   2,R
+   9
+  16,R
+   1,R,J,G
+   1,J
+   7,R,J
+   1,R,K,G
+   8,R,J,G
+   1,J
+  10,U,X
+  14,R,J
+  13,R,D
+   3,R
+   8,L,D
+   1,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R,D
+  11,R
+  12,R,D
    6,R,Z
    1,R,J
    1,R
@@ -536,4 +570,4 @@ endrepeat
    1,N
   82
 
-ChapterTime: 1:07.201(3953)
+ChapterTime: 1:06.878(3934)
