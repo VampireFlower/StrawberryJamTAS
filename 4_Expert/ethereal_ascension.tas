@@ -1,4 +1,4 @@
-RecordCount: 4121
+RecordCount: 4474
  
 console load StrawberryJam2021/4-Expert/QuantumSpaceman
    1
@@ -103,40 +103,40 @@ console load StrawberryJam2021/4-Expert/QuantumSpaceman
    1,R
   15,R,Z
   13,R
-   4,R,Z
-   2,R,J
-   6,R
+   6,R,Z
+   1,R,J
+   5,R
   40
  
 #lvl_a-01
-#couldn't get route under to work
-#not sure that it would have saved time anyway
    2,R
    1,R,J
    6,R,D,X
    1,R,J
-   7,R
-  11,R,J
-   7,R
-   1,R,J
-  11,R,D
-  11,L,D
-   1,L
-  49,L,G
-   1,L
-  10,R
-  26
-  37,R,G
-  10,G
-  10,R,G
    3,R
-  14,R,D,X
- 112,R,U,G
-  62,U,G
+   1,R,J
+   3,R
+  23,R,J
+  15,L,D
+  37,L,G
+   1
+   5,R
+  15
+   5,L
+   9,R
+   1,R,D
+  21,R,D,G
+   8,R
+  13,R,X
+  31,R,D,G
+  67,R,U,G
+  30,U,G
+   2,R,U,G
+   6,U,G
    6,R,U,G
    3,R
   14,R,X
-   6,R,J
+   6,R
   14,R,D,X
    2,R
   19,R,D
@@ -151,44 +151,51 @@ console load StrawberryJam2021/4-Expert/QuantumSpaceman
    1
   72,O
 #Spinner cycle
-   1
-   6,L,Z
+   0
+   6,L,D,X
    1,R,J
-   7,R
-  10,R,J
-  15,R,G
-  21,J,G
-  35,R,G
-   5,R,U,G
+   5,R
+   1,R,K
    1,R
-  14,R,D,X
-   6,R
-  53,R,G
-  22,R,U,G
-   9,R
-  10,R,D,X
    5,R,J
-  39,R,J,G
-  40,R,G
-  45,R,U,G
+  58,R,U,J,G
    1,R
-  14,U,X
-   8,R,J
-  10,R
+  15,R,D,X
+   3,R
+   1,R,D
+   1,R
+  66,R,U,G
+   9,R,G
+   1,R,U,G
+   1,D
+  13,R
+   4,J
+   5,R,Z
    1,R,J
-   9,R
+  13,R,G
+   6,R,J,G
+  80,R,U,G
+   1,L
+  12,U,Z
+  11,R,J
+  13,R
+   1,R,J
+   2,R
+ 
   10,R,X
-  17,R,J
+  18,R,J
   18,U,X
-   6
-   8,U,C
+   4,R
+   2
+   1,R
+   7,U,Z
 StunPause
    7,U,C
    3
 SkipInput,3,1
    8,U,X
 EndStunPause
-  14,U,X
+  15,U,X
   40
  
 #lvl_a-04b
@@ -228,7 +235,7 @@ EndStunPause
    1
   72,O
 #Spinner cycle
-   1
+   2
 #left stun route abt 100f faster than right side
    2,R,J
   25,R
@@ -522,4 +529,4 @@ EndStunPause
   21,R
   15,U,X
  125
-ChapterTime: 1:52.030(6590)
+ChapterTime: 1:49.735(6455)
