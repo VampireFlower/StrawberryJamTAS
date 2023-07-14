@@ -1,4 +1,4 @@
-RecordCount: 30908
+RecordCount: 31632
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -36,30 +36,27 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1,L
    2,J,G
    2
-   4,R
+   1,R
+   3
    1,R,J
    3,R
-   1,R,J
-   2,J
+   3,R,J
   15,R,D,X
    1,R,J
-   7,R,K,G
-   4,R,J,G
-   6,R
-   2,R,J
-   9,R,D
-   1,R,J
-  14,R
-  12,R,Z
-   1,R,J
-   3,R
-  11,L,Z
+  11,R,K,G
+  11,R
+   5,R,D
+   5,R,J
+  18,R
    1,R,J
    2,R
-   1,R,K,G
+  12,L,D,X
+   1,R,J
+   2,R
    1,R,J,G
    1,R,K,G
-   2,R,J,G
+   1,R,J,G
+   2,R,K,G
    3
    3,R
    1
@@ -79,81 +76,85 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1,K,G
    1,J,G
   24,R,D,X
-   1,R,D,J
-   6,J
-   5
-   4,R,J
-   4,R
-   1
-  30,R,D,X
-   5,R,J
-  17,R,U,X
-  39,R,D,G
+   2,R,D
+   9,R,D,J
+   2,R
    1,L
-  11,R,D
+   3,J,G
+  15,R,D,X
+  13,R,D
+   1,D
+   3,R,D
+   1,R
+   1,R,J
+   2,R
+  17,R,U,X
+  33,R,G
+   6,R,D,G
+   1,L
+   9,R
   15,R,U,X
-  18,R
-   4
+  13
    5,L,Z
-   7,R
-   4,L
-  14,R,U,G
-   1,K
-  21,L,K
-   1,L,J
-   7,L
-  11,U,G
-   2,G
+   7,R,Z
+   3,L,Z
+  15,R,G
+  12,L,J
+   6,L
+   4
+   1,J
+   7
+   7,G
+   6,U,G
    1,L,J,G
    1,L,K,G
    1,L,J,G
-   2,L,K,G
-   2,L
+   1,L,K,G
+   3,L
   15,L,D,X
    7,L
   13,L,D,X
    6,L,J,G
-  15,L,D,X
-   5,L
-   3,L,D
-  41,L,G
-  14,L,D,G
-  12,D,G
-   7,G
-   1,J
+  16,L,D,X
+   7,L
+  32,G
+  19,D,G
+   1
+   1,J,G
    1,K,G
    1,J,G
    1,K,G
   15,R,D,X
-   1,R
+   3,R
+  10,R,D
+   2,D
+  12,R,D
+   2,L,J
+   7
+   1,J
+   1
   15,R,D,X
-   3,R,D
-   1,R,D,J
-   9,R
-   2
+   2,D
+  55,R,D
   15,R,D,X
-   1,D
-   1,R,D
-   5,D
-  34,R,D
-   1,D
-  13,R,D
-   1,R
-  15,R,D,X
-  17,R
-   2
-   7,J
-   2
-   3,K,G
-  40,K
+   5,R,D
+  10,R
+   2,R,D
+   6,R,J
+   4,R
+   3,R,J,G
+  40,J
 
 #lvl_a2_17-Todd
-   4,K
-  14
+   4,J
+  13
   15,R,Z
-   1,R
-  16
-  17,L,D
+  15,D
+   8,L,D
+   1,D
+   7,L,D
+   1,L
+   1,L,D
   21,L,X
    1,J
   25,L,J
@@ -171,11 +172,10 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    5,L
    2,R
    4,R,D
-  11,L
-   2,L,G
-  24,L
-  30,U,G
-  26,G
+  12,L
+   5
+  61,G
+  15,U,G
    2,J,G
    1,R
    8,L,Z
@@ -183,10 +183,8 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
   16,L
    5,L,D,X
    6,L,J
-   1,L
-   1,L,J
-   1,L
-   1,L,J
+   2,L
+   2,L,J
    3,L
    1,L,J
    4,L
@@ -1607,8 +1605,8 @@ Set CelesteTAS.SimplifiedBackdrop true
  349
 
 #lvl_e0-Clarity
-Set CelesteTAS.SimplifiedGraphics false
-Set CelesteTAS.SimplifiedBackdrop false
+#Set CelesteTAS.SimplifiedGraphics false
+#Set CelesteTAS.SimplifiedBackdrop false
   59
   13,R,Z
    1,R,J
@@ -2664,4 +2662,4 @@ Repeat 34
    2,L,D
 Endrepeat
 
-ChapterTime: 7:17.257(25721)
+ChapterTime: 7:16.747(25691)
