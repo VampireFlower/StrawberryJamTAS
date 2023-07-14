@@ -1,4 +1,4 @@
-RecordCount: 4653
+RecordCount: 5119
 
 console load StrawberryJam2021/4-Expert/hivemindsrule
    1
@@ -10,18 +10,23 @@ console load StrawberryJam2021/4-Expert/hivemindsrule
    4,R,X
    5,R,J
   14,R
-   7
-  12,L,Z
+  10
+   1
+   1,R
+  11,L,Z
    1,R,J
-  11,R
-   1,R,J
-  11,R,D
-   2,R
-   7,R,U,Z
+   1,R
+   2,R,K
+   5,R
+   6
+   9,R,D,K
    1,L,J,G
-  15,R,J
-  12,K,G
-   5,J,G
+   2,R,J
+   5,R
+   1,R,K
+   1,R
+  15,U,X
+   1,R,J,G
    7,R
    7,R,Z
    1,R,J
@@ -349,4 +354,4 @@ console load StrawberryJam2021/4-Expert/hivemindsrule
   19,L,D
  139,U,X
 
-ChapterTime: 0:42.585(2505)
+ChapterTime: 0:42.381(2493)
