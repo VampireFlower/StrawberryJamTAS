@@ -1,4 +1,4 @@
-RecordCount: 6152
+RecordCount: 6182
 
 console load StrawberryJam2021/2-Intermediate/Jems
    1
@@ -660,19 +660,18 @@ console load StrawberryJam2021/2-Intermediate/Jems
    8,D
    3,R,D
    5,D
-   5,R,D
-  15,L,Z
-   6,L,D
-  10,R,D
+   1,R,D
+   1,D
+   4,R,D
+  15,L,X
+   6,L
+   8,R
   40
 
 #lvl_btd-31
-  25,R,D
-   2,R
-   3,R,J
-   5,R
-   2,R,J
-  62,R
+  26,R,D
+   5,R,J
+  69,R
   14,L
    1,J
    1,L,K,G
