@@ -1,4 +1,4 @@
-RecordCount: 3983
+RecordCount: 4998
 
 console load StrawberryJam2021/5-Grandmaster/Linj
    1
@@ -24,11 +24,13 @@ console load StrawberryJam2021/5-Grandmaster/Linj
    1,R
    6,R,J
    2,R
-   4,R,K,G
-  15,R,D,X
-   1,R,J
    3,R,K,G
-   8,J,G
+   1,K
+  15,R,D,X
+   1,R,D,J
+   3,R,K,G
+   6,J,G
+   2,R,J
   43
 
 #lvl_Crowley Scales
@@ -36,19 +38,18 @@ console load StrawberryJam2021/5-Grandmaster/Linj
   15,R,D,X
    6,R,D
   10,R,D,X
-   4,R,U,J,C
-  17,R,D,X
-   3,R
+   4,R,J,C
+  15,R,D,X
+   5,R
    1,R,J
   12,R,U,X
   11,R,U,C
-  86,R
-   9,R,D
+  96,R,D
    2,R
    1,R,D
    1,R
-   1,R,D
-  14,R,U,X
+   1,D
+  12,R,U,X
    1,J,G
    4
    2,L
@@ -90,91 +91,73 @@ console load StrawberryJam2021/5-Grandmaster/Linj
    5,L,K
    4,L,J,G
   11,L,X
-#800 more speed
-#   4,L,J
-#   4,L,K
-#   3,L,J,G
-#   5,L,D,X
-#  13,L,G
-#   3,L
-#   6,L,X
-#   4,L,J
-#   3,L,K
-#   1,R,K
-# 150,R,X
-   4,L,J
-   4,J
-   5,L,X
+   8,L,J
+   3,J
+   5,L,D,X
   13,L,G
-   1,L
-   1
-   2,L
-   6,L,X
-   4,L,J
-   5,L,K
-   1,R,K
-  13,R,X
+   2,D
+   7,L,X
    4,R,J
+   4,L,J
+   3,L,K
    1,R,K
-  12,R,U,X
-   4,R,J,G
-   5,R
-   2,R,J
-   2,R
-   2,R,J
+#Set,Player.Speed.X,3357
+  10,R,X
+   4,R,J,C
+  13,R,U,X
+   3,R,J,G
+   8,R
+   1,R,J
   15,R,D,X
-  26,R
-   2,R,J
+   5
+   3,R
+   3
+  12,D
+   1,R,J
   40
 
 #lvl_Hawthorne
-   4,R,J
-  18,R,D,X
-   3,R,D
-   1,L,D
-  19,L,D,X
-   6,R
-   6,R,J
-  15,R
-  10,R,X
+   5,R
+  20,R,D,X
+  15,L,D,C
+   5,R,D
+   3,R,J
+   5,R
+   1,R,J
+  10,R
+   9,R,X
   40,X
 
 #lvl_Ascent
-   9,R,X
+   7,R,X
+   5,R,U,C
+   4,R,D,X
    4,R,U,C
-   1,R
-  10,R,U,X
+  11,R,U,X
    4,R,J
    1,R,K
-   3,R
   15,R,D,X
-   3
-  42,R
-  43,R,D
-  40
-
-#lvl_Ultimatum
-   3,R,D
-   6,D
+  18,R
+  30,R,D
+  86,D
    1,R,D
-   1,D
-   9,R,D
-#max speed 2877.08
-  83,R,D
+   3,D
+   1
+  26,D
+  57,R,D
   40
 
 #lvl_Weaver
   10,R,D
    7,R
-  11,R,D,X
+   1,R,J
+  10,R,D,X
    8,R,J
    5
    5,J
   12
    2,R,J
-  15,L,D,X
-#max speed -4884.9
-   3,L,D,X
+  18,L,D,X
    5,R,C
   10,R,J
    1,R,K
@@ -201,18 +184,15 @@ console load StrawberryJam2021/5-Grandmaster/Linj
   12,R,U,Z
    4,R,J
    8,R,K
-   3,R
-   1,R,K
-  25,R
+  29,R
    8
   13,R,Z
-   4,R,J
+   4,R,J,C
   40
 
 #lvl_Parasol
-   1,R,J
-  11,R,U,X
-   2,R,J,G
+  12,R,U,X
+   1,R,J,G
    7,R
    4,Z
    1,R,J
@@ -222,4 +202,5 @@ console load StrawberryJam2021/5-Grandmaster/Linj
  116,D
    1,Z
   18,R,J
-ChapterTime: 0:29.325(1725)
+
+ChapterTime: 0:28.883(1699)
