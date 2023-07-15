@@ -1,4 +1,4 @@
-RecordCount: 31632
+RecordCount: 32571
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -195,144 +195,140 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    6,R
    1,R,J
    4,R
+   1,R,D,J
+   5,R,D,X
+  13,R,G
+  22,R,J,G
+   1,L,J
+   2,R,J
+   5,R
+   5,R,D
+   3,R,J
+   5,R
+   1,R,J
+   2
+  18,R,U,X
+   1,R
+  15,R,D,X
+  15,R,D,C
+  22,R,D
    1,R,J
    5,R,D,X
-  13,R,J,G
-  17,R,U,K,G
-   1,L,K
-  10,R,K
-   2,R
-   3,R,D
-   7,R,D,J
-   4,L,D,J
-  15,R,D,X
-   4,L,D
-   1,R,D
-   2,R
-   3,L
-   9,R,U,Z
-   1,L,J,G
-   8,R,J,G
-  15,R,D,X
-  16,R,D
-   1,R,J
-   7,R,D,X
   17,R,J,G
-  99,R,U,K,G
-  19,L,U,K,G
-   1,R
+ 102,R,U,K,G
+   8,U,K,G
+   1,L,K
   14,R,U,X
    1,J,G
-   5
+   3
   43
 
 #lvl_a3_16-Cookie
-   4
-   4,R
-  16,L,U,Z
+   3,R
+   5,L
+  14,L,U,Z
    4,R,J
-  10,R,D,X
-  22,R,J
-  14,R,U,X
-   1,L,K,G
-  11,R,K
-  26,R,U,X
-   6,R,Z
-   2,R,J
-  19,R,K,G
-  19,R,D,X
-   1,R,J
-   4,R
-   7
-  16,D,X
-   1,D
-   2,L,D
-  13,L
-  18,U,X
-   2
+  14,R,D,X
+  12,R,J
+   6,R
+  13,R,U,X
    1,L
-  26,R,J
+   8,J,G
+   4,R,J
+  22,R,U,X
+   5,R,J
+   6,R,Z
+   1,R,J
+  28,R,K,G
+  15,R,D,X
+  11,R
+   6,R,D
+   1,R
+  18,L,D,X
+  17,U,C
+  27,R,J
   30,U,X
    9,R,U,C
    2,R,J,G
-   4
-   9,R
+   5,R
+   8
    4,Z
    1,L,J
-   5,L
-  18,L,J
-   4,L
-  15,U,X
-   4,R
+   3,L
+   1,L,J
    1,L
-   2,J,G
+  21,L,J
+  15,U,X
+   2
+   3,R
+   1,L
+   1,J,G
    1,R,J
-   9,L,K,G
+   8,L,K,G
    1,K
    7,L,K
-   1,J,G
-   9,L,J
-   1,R,J
+   7,L,J,G
    1,K
-   6,L,K
-   1,L,J,G
-   6,R,J
-   5,L,J
-   4,K,G
-   1,R,K
-   1,J
-   5,R,J
-   4,L,J
+  12,J
+   1,K
+  10,L,J,G
    1,R,J
    1,L,J
-   7,K,G
+   1,K
+   2,J,G
+   8,R,J
+   2,J
+   3,L,K,G
+   1,R,K
+   1,L,K
+   1,R,K
    1,L,K
    2,R,K
-   4,K
+   1,L,K
+   1,J
+   5,R,J
   30,R,U,X
    6,L,J
   15,L,K
   10,L,X
   20,R,J
-   8,K,G
-   1,L,K
-   1,R,K
+   1,K
    2,J,G
-  10,L,J
-  23,R,U,Z
-   4,R,J
-   1,R,K
-   1,K
-   7,R,K
-   1,L,K
-  10,J,G
-   4,R,J
-   8,K,G
-   1,L,K
-   1,J
-   8,L,J
-   2,R,J
-   3,R,K,G
-   1,L,K
-   1,K
-   1,L,K
+  11,L,J
+  28,R,U,X
+   3,R
+   9,R,J
+   1,L,J
+   4,K,G
+  11,R,K
+   8,J,G
+   2,L,J
    1,K
    3,L,K
-   2,K
-  16,L,J
-  10,L,K,G
+   3,K
+   2,L,K
+   3,R,K
+   4,J,G
+   1,L,J
+
+
+  16,L,K
+   3,J,G
+   1,R,J
+  14,L,K,G
    5,J,G
-   8,L,J
-  13,L,K,G
-  14,U,Z
-   1,L,J
-   2,J
-   1,L,J
-   4,J
-   8
-   1,K
-  11
-  20,R,D
+   7,L,J
+   1,L,K,G
+   9,L,J,G
+  14,U,X
+   2,L,J
+   8,J
+  18
+   1,R
+   1
+   6,R
+  13,R,D
+   1,R
    1,G
    2,R,J,G
   17,R
@@ -2662,4 +2658,4 @@ Repeat 34
    2,L,D
 Endrepeat
 
-ChapterTime: 7:16.747(25691)
+ChapterTime: 7:16.339(25667)
