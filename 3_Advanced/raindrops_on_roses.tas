@@ -1,5 +1,5 @@
 #By Kataiser
-RecordCount: 5668
+RecordCount: 5728
  
 console load StrawberryJam2021/3-Advanced/Worldwaker2
    1
@@ -523,26 +523,28 @@ EndStunPause
    1
   15,U,X
    1,L
-  32,L,U,G
+  33,L,U,G
    1,L,K,G
-   5,L,K
+   4,L,K
   10,L,X
   12,L,J
-  11,K,G
-   1
-  11,J,G
-   1
-   7,K,G
+   8,K,G
+   2,R,K
    1,R
-  12,R,J
-  18,U,X
-  24,U,G
-  11,L,U,G
-  15,L,K,G
-  12,L,J,G
+  15,U,Z
+  19,L,J
+  30,U,J,G
+  15,L,U,J,G
+#1f late climbjump for spx manip
+#real bad but it works and don't see an option for more height to land frame sooner
+   1,L,K,G
+  11,L,K
+   7,L,J,G
+   1,L
+  10,L,K,G
    7,L
 #spinner cycle
-   0
+   1
    6,L,D,X
    1,R,J,G
   13,R,K,G
@@ -647,4 +649,4 @@ EndStunPause
   18,R,U,X
  135,R,D
  
-ChapterTime: 1:35.999(5647)
+ChapterTime: 1:35.948(5644)
