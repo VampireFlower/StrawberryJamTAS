@@ -1,4 +1,4 @@
-RecordCount: 5027
+RecordCount: 5623
 
 console load StrawberryJam2021/5-Grandmaster/Linj
    1
@@ -101,7 +101,7 @@ console load StrawberryJam2021/5-Grandmaster/Linj
    4,L,J
    3,L,K
    1,R,K
-#Set,Player.Speed.X,3357
+#max speed 3357
   10,R,X
    4,R,J,C
   13,R,U,X
@@ -127,6 +127,7 @@ console load StrawberryJam2021/5-Grandmaster/Linj
   10,R
    9,R,X
   40,X
+
 #lvl_Ascent
    7,R,X
    5,R,U,C
@@ -149,58 +150,58 @@ console load StrawberryJam2021/5-Grandmaster/Linj
   26,D
   57,R,D
   40
+
 #lvl_Weaver
-  10,R,D
-   7,R
-   1,R,J
+  10,D
+   7
+  11,R,D,X
+   8,J
+   1,R,K
+  10,K
   10,R,D,X
-   8,R,J
-   5
-   5,J
-  12
-   2,R,J
-  18,L,D,X
+   3,L
+   1,L,J
+   2,L
+   1
+  17,L,D,X
    5,R,C
-  10,R,J
+   5,R,J
    1,R,K
   15,R,U,X
-   2,L
-  15,L,U,X
+   9,L
+   9,L,U,X
    1,R
    1,R,J
-  20,R
-   1
-   9,R,U,Z
+  18,R
+   8,R,U,Z
   40
+
 #lvl_Whale Stitcher
-   4,R,U,Z
-   2,R,J,G
-  15,R,D,X
-   7,R,D
+   2,R,U,Z
+   3,R,J,G
    2,R
+  15,R,D,X
+   5,R,D
   40
+
 #lvl_Afterthought
-   3,R
+   7,R,D
   12,R,U,Z
-   4,R,J
-   8,R,K
-  29,R
-   8
-  13,R,Z
-   4,R,J,C
+   8,R,J
+  11,R,K
+   5,K
+  15,R,D,X
+   2
+   8,D
+   1
+   1,D
+   5,R,Z
   40
 
 #lvl_Parasol
-  12,R,U,X
-   1,R,J,G
-   7,R
-   4,Z
-   1,R,J
-   7,R
-   3,R,J
-   9,U,X
- 116,D
-   1,Z
-  18,R,J
+   7,R,Z
+   4,R,U,J,C
+  12,D,X
+ 135,D
 
-ChapterTime: 0:28.883(1699)
+ChapterTime: 0:28.339(1667)
