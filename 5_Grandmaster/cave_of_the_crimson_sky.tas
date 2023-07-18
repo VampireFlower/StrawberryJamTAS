@@ -1,4 +1,4 @@
-RecordCount: 1368
+RecordCount: 1512
 
 console load StrawberryJam2021/5-Grandmaster/RedBatNick
    1
@@ -193,14 +193,11 @@ console load StrawberryJam2021/5-Grandmaster/RedBatNick
    1,R,D
   13,R
    5
-  18,L,U,X
-   4,K
-   5,L
-   4,L,K
-  15,R,U,X
-  14,R,D
-  10,D
-   2,R,D
+  15,L,X
+  11,U,Z
+  25,R,J
+  13,R
+   5
   15,R,Z
   15,U,X
    9,L
@@ -340,4 +337,4 @@ endstunpause
   12,U,X
  135,D
 
-ChapterTime: 0:52.377(3081)
+ChapterTime: 0:52.326(3078)
