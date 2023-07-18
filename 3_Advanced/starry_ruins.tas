@@ -1,4 +1,4 @@
-RecordCount: 4500
+RecordCount: 4615
 
 console load StrawberryJam2021/3-Advanced/Indecx
    1
@@ -6,8 +6,8 @@ console load StrawberryJam2021/3-Advanced/Indecx
 #Start
  190
 
-#Spinner cycle [4]
-   0
+#Spinner cycle [8]
+   2
 
 #lvl_1
   11,R,Z
@@ -68,46 +68,46 @@ console load StrawberryJam2021/3-Advanced/Indecx
    5,R,D,X
    1,R,J,G
   11,R
-   5,R,J
-   3,R
-   6,R,D,X
+   4,R,J
+   4,R
+   2
   40
 
 #lvl_4
-   9,R,D,K,X
-   1,R,K
-   3,R,D,K
-   4,R,J
-StunPause
-  14,R,J
-EndStunPause
+  24,D
+   4,R,D
+   9,R
+  15,R,D,X
+  11,R
+   8,R,D
+  14,R,D,X
    1,R,J
-   1,L,J
-  10,R,J
-  18,R,D,X
-   1,R,J
-  11,R,D,X
-   9,R,J,G
-  23,R
+  14,R,D,X
+   1,R,J,G
+  26,R,D
+   2,R,J
+   3,R
+  16,R,D,X
+   2,R,D,J
+   3,R,K,G
+   3,R
   40
 
 #lvl_5
-  15,R,D,X
-   2,R,J
-  14,R
-##Spinner cycle [8]
-#+0f
-#   9
-#  10,L,Z
-#+1f
-   2,R
+   2
+   3,R,J
+   7,R,D,X
+   3,R,K,G
+   7,R
+   1,R,K
+   3,R
+   5,R,J
+   3,R
+   1
+  12,R
    7
-  11,L,Z
-#+2f
-#   4,R
-#   5
-#  12,L,Z
-##
+   5,L
+  10,L,Z
   16,R,J
   18,R,D,X
    3
@@ -332,4 +332,4 @@ EndStunPause
   15,R,U,X
  134,R,D
 
-ChapterTime: 0:42.109(2477)
+ChapterTime: 0:41.888(2464)
