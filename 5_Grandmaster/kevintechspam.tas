@@ -1,4 +1,4 @@
-RecordCount: 5319
+RecordCount: 6069
 
 console load StrawberryJam2021/5-Grandmaster/Todd
    1
@@ -7,12 +7,14 @@ console load StrawberryJam2021/5-Grandmaster/Todd
  130
 
 #spinner cycle
-   0
+   1
 
 #lvl_1
-  11,R,Z
-   3,R,J
-   5,R
+   4,Z
+   4,R,J
+   6,R
+   3
+   1,R,J
   15,R,D,X
    6,L,D,C
    1,L,J,G
@@ -67,57 +69,51 @@ console load StrawberryJam2021/5-Grandmaster/Todd
    1
    1,R
    1
-   6,R
+   5,R
+   1,R,D
    1,L,D
    4,J
    2,K,G
-   7,R,K
-   3,R
-   8,U,X
-   7,R,J
-  73,R,D,G
-  12,R,G
-   1,R,D,G
-   2,R,G
-   1,R,D
-   1,R,G
-   3,L,J
-   7,L,Z
-   1,L,J
-   6,L
-   1,L,J
-  14,L,Z
-   1,R,J
-   6,R,D,X
-  13,R,G
-   1,G
-   2,R,G
-   1,R,J,G
-   2,R,G
-StunPause
-   2,R,G
-   1,L
-SkipInput,3,1
-   5,R,D,X
-EndStunPause
-  10,R,D,X
-   2,R,D
-   6,D
-  22,R
-  11,R,D,J
+   6,R,K
    3,R
    2
-   1,R,K
-   1,R
-   1,R,K
-  12,R,U,X
-   1,J,G
-   9,R,J,G
-   1,J
-   1,R,J
-  22,R
-  50,R,J
+   8,U,X
+   7,R,J
+  70,R,D,G
+  16,R,G
    1,R,D
+   1,G
+   2,J,G
+   1,K
+   4,L,K
+   2,K
+  14,L,D,X
+   1,R,J
+   5,R,D,X
+  13,R,G
+   5,R,J,G
+   2,R,G
+   1,G
+   1,L
+  15,R,D,X
+   8,D
+   1
+   1,R,D
+  11,R
+   1
+  10,R
+  19,R,J
+   1
+  11,R,U,X
+   2,J,G
+   7,R,J
+   1,J
+   2,R,J
+  26,R
+  12,R,J
+   8,R
+   3,R,J
+  24,R
   14,R,U,X
    2,R,J,G
    7,R
@@ -176,6 +172,25 @@ AnalogMode,Precise
   13,R,D,X
    1,L,J,G
   20,R,D
+#-1f
+#   5,R,D
+#   1,R,J
+#   5,R
+#   4,R,J
+#   1,R
+#   4,R,J
+#   4,R
+#  15,U,X
+#  15,R,J
+#   2,R
+#  15,R,X
+#   8,R,D
+#   9,D
+#   1,R,D
+#   4,D
+#  15,R,X
+#  27,L,D
+#   7,L,Z
    2,R,J
   15,R,D,X
   15,R,U,C
@@ -267,18 +282,23 @@ EndStunPause
    1,R,J,G
    7,R
 #Spinner cycle
-   0
+   1
 ##
-   4,R,Z
+   4,Z
+   2,R,J
+   8,R
    1,R,J
-   7,R
-   9,R,J
+   4,Z
+   1,R,J
+   5,R
   40
+
 #lvl_4
-  14,R,Z
-   5,R,J
-   6,J
-   7,L,U,X
+   1,R
+   8,R,J
+   7,R,K,G
+   3,R
+   5,L,U,X
    1,J
   21,R,D
   14,L,Z
@@ -356,7 +376,9 @@ EndStunPause
   28,R,U
   91,F,0.01
   40
+
 #lvl_5
+#-72
   29,F,8.9
    7,F,28.6
   50,F,89.99
@@ -372,69 +394,86 @@ EndStunPause
   10,R,J
   14,U,X
   13,R,J
-  35,R,D
-  42,L,X
-  18,G
-  14,U,C
-   6,R,J
-   9,R
-  25,R,D,G
-   1,L
-  15,R,D,X
-   5,R,J
-  15,R,D,X
-  36,R
-  25,U,G
-  10,R,J,G
+  31,R,D
+   7,D
+  13,L,X
+   1,J
+   1,K,G
+  18,R,X
+   3
   15,U,X
-   7,U,C
-  97,R,D,G
-  12,R,G
-   1,R
-  15,L,Z
-  14,L,V
+  11,L,Z
    1,R,J
+   8,R
+   7,R,U,X
+  20,G
    2,R
-   5,R,D,X
-  19,R,G
-   1,R,D,J
-  15,R,D,X
-   9,R,D
+   7,D
+  29,R,D
+  36,G
+  15,U,X
+   9
+  35,G
+   1,D
+  15,U,X
+  15,R,C
+  15,D,X
+  10
    1,R,J
-   7,R,D,X
-  13,G
-   1,R,J,G
-   6,J,G
-  40,R,J,G
-  14,R,D,G
-   7,R,J,G
-   1,R,G
-   1,L
-  15,R,D,X
+  19,R
+  15
    1,R
+   4,Z
+   2,L,J
+   3,L
+   1,L,J
+   1,L
+   1,L,J
+   3,L
+   7,L,D,X
+   1,R,J
+   6,R
+   1,R,J
+   5,R,D,X
+  12,R,G
+   1,G
+   1,R,D,J
+   8,R,D,X
+stunpause
+   2,R,D,X
+endstunpause
+   5,R,D,X
+   1,D
+   8,R,D
    1,R,J
    7,R,D,X
-  13,G
-   1,R,J,G
-   1,J,G
-   2,R,J,G
-  91,R,G
-  16,R,D,G
+  13,R,G
+   3,R,G
+   8,R,J,G
+  36,R,G
+   2,R,U,G
+   6,R,J,G
    1,L
-  12,R,U,Z
+  15,R,D,X
+   1,R,J
+   5,R,D,X
+  13,R,G
+   1,R,J,G
+  86,R,G
+   4,R,D,G
+   1,L
+   7,R,U,Z
   40
+
 #lvl_6
-   2,R,U,Z
-   1,L,J,G
-  10,R,U,X
-   1,J,G
-  17,R
-   8,R,J
-   9,R,K,G
-  11,U,X
-  41,L,J
+   7,R,U,Z
+  14,J,G
+  15,R,U,X
+   3
+  41,L
   18,U,X
-  21,L,J
+  34,J
+   1,L,J
   14,L,U,X
   21,L
   27,G
@@ -577,4 +616,4 @@ AnalogMode,Ignore
    4,C
  135,U
 
-ChapterTime: 1:47.831(6343)
+ChapterTime: 1:45.893(6229)
