@@ -1,4 +1,4 @@
-RecordCount: 4615
+RecordCount: 4789
 
 console load StrawberryJam2021/3-Advanced/Indecx
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/3-Advanced/Indecx
  190
 
 #Spinner cycle [8]
-   2
+   0
 
 #lvl_1
   11,R,Z
@@ -115,10 +115,10 @@ console load StrawberryJam2021/3-Advanced/Indecx
   14,R,D,X
   23,R,J
    5,R
-  15,R,Z
-   6,L,V
+  14,R,Z
    1,R,J
-   6,R
+   3
+   3,R
    3,R,J
    5,R,D,X
    1,R,J,G
@@ -126,22 +126,18 @@ console load StrawberryJam2021/3-Advanced/Indecx
   40
 
 #lvl_6
-   2
-   7,R,J
-  15,R,D,X
-   7,R,J
-  15,R,D,X
-   8,R,D
-   5,D
-   3,R,D
    2,R
+   7,R,J
   15,R,D,X
-   5,R,D
-  19,R,D,J
+   8,R,J
+  18,R,D,X
+  15,R,D,C
+  17,R,D
+  20,R,D,J
   14,R,U,X
    1,R,J,G
-  11,R
-   4,R,Z
+  10,R
+   6,R,D,X
    1,R,J
    3,R
   40
@@ -332,4 +328,4 @@ console load StrawberryJam2021/3-Advanced/Indecx
   15,R,U,X
  134,R,D
 
-ChapterTime: 0:41.888(2464)
+ChapterTime: 0:41.786(2458)
