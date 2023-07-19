@@ -1,4 +1,4 @@
-RecordCount: 6069
+RecordCount: 6324
 
 console load StrawberryJam2021/5-Grandmaster/Todd
    1
@@ -282,7 +282,7 @@ EndStunPause
    1,R,J,G
    7,R
 #Spinner cycle
-   1
+   0
 ##
    4,Z
    2,R,J
@@ -378,7 +378,6 @@ EndStunPause
   40
 
 #lvl_5
-#-72
   29,F,8.9
    7,F,28.6
   50,F,89.99
@@ -430,38 +429,42 @@ EndStunPause
    1,L
    1,L,J
    3,L
-   7,L,D,X
+   7,L,Z
    1,R,J
    6,R
    1,R,J
    5,R,D,X
   12,R,G
    1,G
+   1,R,D
    1,R,D,J
-   8,R,D,X
-stunpause
-   2,R,D,X
-endstunpause
-   5,R,D,X
-   1,D
-   8,R,D
-   1,R,J
-   7,R,D,X
-  13,R,G
-   3,R,G
-   8,R,J,G
-  36,R,G
-   2,R,U,G
-   6,R,J,G
-   1,L
   15,R,D,X
+  11,R
    1,R,J
    5,R,D,X
   13,R,G
    1,R,J,G
-  86,R,G
-   4,R,D,G
-   1,L
+   3,R,J,G
+   9,R,G
+   2,R,J,G
+   7,R,G
+   7
+   4,R
+   6,R,D,X
+   2,J,G
+   3,R,J
+   5,R
+   1,R,J
+   6,R
+   7,R,J
+  15,R,D,X
+   5,R,D,C
+  13,R,G
+   1,R,J,G
+  57,R,G
+  19,G
+   9,D,G
+   1
    7,R,U,Z
   40
 
@@ -616,4 +619,4 @@ AnalogMode,Ignore
    4,C
  135,U
 
-ChapterTime: 1:45.893(6229)
+ChapterTime: 1:45.672(6216)
