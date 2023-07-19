@@ -1,4 +1,4 @@
-RecordCount: 4970
+RecordCount: 5013
 
 console load StrawberryJam2021/3-Advanced/mmm
    1
@@ -209,6 +209,7 @@ console load StrawberryJam2021/3-Advanced/mmm
    1,J
    5
    1,J
+
    2
    1,J
   13
@@ -426,17 +427,17 @@ console load StrawberryJam2021/3-Advanced/mmm
 #maybe land ultra on spring
   56,R,D
    1,R
-  65,R,D
-   4,D
+  37,R,D
+  32,R
   40
 
 #lvl_a10
-  24,R,D
-  14,R,U,X
-   7,R,J,G
-   7,R
-   8,R,J
-  12,R
+  14,R,D
+   2,R
+   6,R,D
+   4,R
+  17,R,X
+  29,R,J,G
    4,X
  135,D
-ChapterTime: 1:02.237(3661)
+ChapterTime: 1:02.186(3658)
