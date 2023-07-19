@@ -1,4 +1,4 @@
-RecordCount: 4789
+RecordCount: 4852
 
 console load StrawberryJam2021/3-Advanced/Indecx
    1
@@ -316,16 +316,24 @@ console load StrawberryJam2021/3-Advanced/Indecx
   18,R,D,X
    2,R
    1,J,G
-  10,R,D
-   8,D
-  10,R,Z
+   3,R
    3,R,J
-   7,R,K,G
-   1,R,J,G
+   2
+   2,R
+   2
+   1,R
+   5
+   4,R,Z
+   1,R,J
+   6,R
+   1,R,J
+   5,R,K,G
+   3,R
+   2,R,J,G
   14,R,D,X
    4,R,J
-   2,R
-  15,R,U,X
- 134,R,D
+   1,R
+  13,R,U,X
+ 135
 
-ChapterTime: 0:41.786(2458)
+ChapterTime: 0:41.769(2457)
