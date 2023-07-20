@@ -1,4 +1,4 @@
-RecordCount: 7646
+RecordCount: 7714
 
 console load StrawberryJam2021/5-Grandmaster/Todd
    1
@@ -623,23 +623,32 @@ AnalogMode,Ignore
   12,L,K,G
    5,L,J,G
   20,L,D
-  37,L,D,X
-  14,L,G
-   4,L,U,G
-   6,L,J,G
-  10,L,D
-  16,D,X
-  10,L,Z
+  17,L,D,X
+   1,L,J,G
+   2,L,K,G
+   2
+   2,R
+   1
+   5,U,X
+  11,R,J
+  12,L,J
+  15,L,D
+   1,L
+   3,L,D
+   9,D
+  10,L,D,X
    7,L,J
   24,R,X
   15,U,C
   14,R
    5,J
-  57
-  17,R
+  10,R
+  47
+  10,R
+   7
   14,U,X
   15,R,J
    4,C
  135,U
 
-ChapterTime: 1:42.323(6019)
+ChapterTime: 1:42.221(6013)
