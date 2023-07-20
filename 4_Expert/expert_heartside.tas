@@ -1,4 +1,4 @@
-RecordCount: 28082
+RecordCount: 28166
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -2301,10 +2301,20 @@ EndStunPause
   14,R,J
   14,R,D,X
    4,R
-# Climbhop cancel at the end?
- 233
-   7,L,J
-  11,L,X
+ 100
+  10,R
+  60
+   1,R,J
+  10,R
+  22,L,G
+   1,D,G
+   1,U,G
+   4,U,G
+   5,L,X
+  12,L,J
+   3,R
+  13,L
+  10,L,X
    1,L,J
    4,L
   15,U,X
@@ -2569,11 +2579,11 @@ EndStunPause
 ## Cycle 0
 #   7,R
 ## Cycle 1
-#   5,R
-#   2
-#   1,R
+   5,R
+   2
+   1,R
 # Cycle 2
-   7,R
+#   7,R
 #
   13,R,Z
    1,R,J
@@ -3376,4 +3386,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 7:58.414(28142)
+ChapterTime: 7:58.397(28141)
