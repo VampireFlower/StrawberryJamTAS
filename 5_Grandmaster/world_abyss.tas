@@ -1,4 +1,4 @@
-RecordCount: 22029
+RecordCount: 22241
 
 console load StrawberryJam2021/5-Grandmaster/Dav
    1
@@ -206,7 +206,7 @@ EndStunPause
    9,R,K,G
    7,R
 ###spinner cycle [chill-0(0)]
-   1
+   0
 ###
    5,L,Z
    1,R,J
@@ -282,56 +282,49 @@ EndStunPause
   10,L,Z
    8,L,J
   18,L,K,G
-   1,J,G
-  14,L,G
-  29,U,G
-   1,G
-   1,U,G
-   4,K,G
-  12
-   9,L,Z
+   1,L,J,G
+   1,R
+   1,L
+   1,R
+   1,L
+  10,G
+   9,L,G
+  31,U,G
+  19,R,J
+  11,R,Z
    1,R,J
-   4,R
-   7,R,J
-   2,R
-   4,R,K,G
-  14,R,D,X
-   2,R,J
+   6,R
+   1,R,J
   15,R,D,X
+  23
+   1,J
+  14,L,Z
    1,R,J
    1,R,K
    1,R,J
    1,R,K
-   4,R,J,G
-   1,R
-   7,R,K,G
-   5,R,D,X
-   1,R,J,G
-   1,R
+   1,R,J
+   1,R,K
+   8,R,J
+   2,R
    8,R,K,G
-   7,R
-   1,R,J
-   4,R
-  14,R,J
-   4,R,U,X
+   5,R,U,X
 
 #lvl_chill-0 (0)
-#vertical distance is the bottleneck
-#for the most part
-   7,R,U,X
-   9,R,J,G
-   2,R,K,G
-   1,J,G
-   6,R
-   3,R,J
-   4,R
-  14,R,J
+#more speed probably doesn't help here
+   6,R,U,X
+   7,R,J,G
+   5,R,K,G
+   5,R
+   2,R,J
+   5,R
+  12,R,J
   15,L,X
-  17,D
-   2,L
+  20
+   2,R
    2
-   1,L
-  58
+   1,R
+  57
   15,X
   12,R
   11
@@ -1086,4 +1079,4 @@ EndRepeat
   15,L,U,X
  133
 
-ChapterTime: 2:45.138(9714)
+ChapterTime: 2:45.036(9708)
