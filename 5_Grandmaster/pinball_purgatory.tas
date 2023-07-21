@@ -1,4 +1,4 @@
-RecordCount: 4086
+RecordCount: 4140
 
 console load StrawberryJam2021/5-Grandmaster/maya
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/5-Grandmaster/maya
  190
 
 #Spinner Cycle
-   0
+   1
 
 #lvl_Insert Coin
   11,R,X
@@ -283,14 +283,12 @@ console load StrawberryJam2021/5-Grandmaster/maya
   14,R,Z
    3,R,J
   16,R,D,X
-  15,R,J
-  21,R,U,X
-  17,R
-  18,R,D,X
-  48,R,J
-  31,R,U,X
-   4,R,J,G
-   7,R
+  35,R,J
+  13,R,U,X
+   1,R,J,G
+  14,R
+  28,R,J
+  21,R,X
    6,R,Z
    1,R,J
    7,R
@@ -420,6 +418,8 @@ EndStunPause
   14,R,D,X
    1,R,J
   12,R,D,X
+#1:17.945(4585)
+
   40
 
 #lvl_Symbiosis
@@ -779,4 +779,4 @@ EndStunPause
    4,X
  135,D
 
-ChapterTime: 2:30.076(8828)
+ChapterTime: 2:29.413(8789)
