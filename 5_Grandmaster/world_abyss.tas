@@ -1,4 +1,4 @@
-RecordCount: 22241
+RecordCount: 22318
 
 console load StrawberryJam2021/5-Grandmaster/Dav
    1
@@ -934,19 +934,18 @@ EndRepeat
    6,L
    1,L,J
    4,L
-   2,L,J
-  15,L,D,X
-   8,L
    5,L,J
-   2,L
   15,L,D,X
-  18,L,D
-   3,L,J
-#this depends on spinner cycle
-#change earlier comment if you die
-  16,L,U,X
+   7,L
+   2,L,J
+  33,L,D,X
+   1,L
+   1,L,J
+  17,L,U,X
+##this depends on spinner cycle
+##change earlier comment if you die
    1,L,J,G
-   1
+   1,J
    4,L
   15,L,D,X
    5,L,D
@@ -958,7 +957,6 @@ EndRepeat
    4,L,D
   24,L
   15,L,U,Z
-#+2f
 ### spinner cycle for final stun
 ### dont see a good spot to wait
 ##+0f
@@ -1079,4 +1077,4 @@ EndRepeat
   15,L,U,X
  133
 
-ChapterTime: 2:45.036(9708)
+ChapterTime: 2:44.985(9705)
