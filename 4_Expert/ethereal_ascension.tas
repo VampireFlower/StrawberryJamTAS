@@ -1,4 +1,4 @@
-RecordCount: 5108
+RecordCount: 5150
 
 console load StrawberryJam2021/4-Expert/QuantumSpaceman
    1
@@ -184,19 +184,18 @@ console load StrawberryJam2021/4-Expert/QuantumSpaceman
    2,R
  
   10,R,X
-  18,R,J
+   5,J
+  13,R,J
   18,U,X
    4,R
-   2
-   1,R
-   7,U,Z
+   9,U,C
 StunPause
-   7,U,C
-   3
-SkipInput,3,1
+   4,U,C
+   6,R
+skipinput 3 1
    8,U,X
-EndStunPause
-  15,U,X
+endstunpause
+  13,U,X
   40
 
 #lvl_a-04b
@@ -496,4 +495,4 @@ EndStunPause
   15,U,X
  124
 
-ChapterTime: 1:46.250(6250)
+ChapterTime: 1:46.199(6247)
