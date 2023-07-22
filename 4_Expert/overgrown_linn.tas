@@ -1,4 +1,4 @@
-RecordCount: 3062
+RecordCount: 3100
 
 console load StrawberryJam2021/4-Expert/Flamecrafter113
    1
@@ -365,19 +365,23 @@ EndRepeat
    1,D
    9,D,X
   10,L,J
-   9,L
-   3,R
+   8,L
+   4,R
    1,R,J
    5,R
   14,L,X
-  43,R,J
+  24,R,J
+  15,R,D
+   2,R
    1,R,K
+   9,R,J
+  11,U,X
+   6,R,J
+  12,R
+   5,R,J
+   1,R
    7,R,J
-  12,U,X
-  11,R,J
-  21,R
-   2,R,J
-   7,R,X
+   8,R,X
    1,R,J
    6,R
   40
@@ -432,4 +436,4 @@ EndRepeat
   14,R,U,X
  135
 
-ChapterTime: 1:06.504(3912)
+ChapterTime: 1:06.453(3909)
