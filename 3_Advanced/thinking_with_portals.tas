@@ -1,4 +1,4 @@
-RecordCount: 4718
+RecordCount: 4942
 
 console load StrawberryJam2021/3-Advanced/sp1029
    1
@@ -64,7 +64,6 @@ console load StrawberryJam2021/3-Advanced/sp1029
    3,R
    1,R,J
    3,R
-
    1,R,J
   11,R
    5,R,Z
@@ -160,7 +159,8 @@ console load StrawberryJam2021/3-Advanced/sp1029
    7,L
    4,L,J
    5,D,X
-#box route only loses 2f
+#box route loses 11f
+#box route
 #   3,R
 #   7
 #   7,R,D,X
@@ -213,19 +213,18 @@ console load StrawberryJam2021/3-Advanced/sp1029
 #   2,J,G
 #   1,R
 #end of box route
-   8
-   2,R
+   7
+   3,R
    7,R,D,X
   12,L,J
   17,L,D
-  25,R,D
-   4,R
+  27,R,D
+   2,R
    7
-   4,R
-  15,R,X
-  21,D
-  13,U,X
-  23,D
+  18,R
+  18,D,X
+  13,U,C
+  18,D
   11,R,D
    9,L,D
   15,D,X
@@ -245,13 +244,13 @@ console load StrawberryJam2021/3-Advanced/sp1029
    1,R
   40
 
-#lvl_a-08
+##lvl_a-08
    5,R
   23,R,D,G
    3,L,D,G
    8,R,J,G
    1,R
-#resync here for box route
+resync here for box route
   15,U,X
   18,R,C
   18,R,U,X
@@ -422,9 +421,7 @@ console load StrawberryJam2021/3-Advanced/sp1029
 #   4,X
    7,R,J
   24,R,U,X
-#+1f powerbox cycle I tried everything else and it lost time
-   1
 ###
    4,C
  135,D
-ChapterTime: 0:52.360(3080)
+ChapterTime: 0:52.190(3070)
