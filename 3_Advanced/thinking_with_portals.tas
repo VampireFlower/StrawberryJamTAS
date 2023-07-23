@@ -1,4 +1,4 @@
-RecordCount: 5010
+RecordCount: 5109
 
 console load StrawberryJam2021/3-Advanced/sp1029
    1
@@ -65,23 +65,25 @@ console load StrawberryJam2021/3-Advanced/sp1029
    1,R,J
    3,R
    1,R,J
-  11,R
-   5,R,Z
-   1,L,J
-   2,J
-  22,J,G
-  23,R,D,G
-  28,D,G
-   4,L,G
-   6,R,G
+   5,R,J
+   6,L,J
+  10,R,Z
+   4,L,J
+  22,L,J,G
+   9,R,G
+   1,R,D
+   7,R,U,X
+  35,R,G
    1,R
-  14,U,X
-  24,G
-   1,R
-  15,R,D,X
-  16,R,D
-   3,R
-   5,R,Z
+   8,L,D
+  12,L
+   1,D
+   1
+  19
+   3,D
+   1,D
+   6,R
+  10,R,Z
    6,R,J
    1,R
    1,R,J
@@ -420,8 +422,8 @@ resync here for box route
 #  24,R,U,Z
 #   4,X
    7,R,J
-  24,R,U,X
+  25,R,U,X
 ###
    4,C
  135,D
-ChapterTime: 0:52.190(3070)
+ChapterTime: 0:51.969(3057)
