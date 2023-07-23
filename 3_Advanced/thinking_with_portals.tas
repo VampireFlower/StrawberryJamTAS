@@ -1,12 +1,12 @@
-RecordCount: 5109
+RecordCount: 5115
 
 console load StrawberryJam2021/3-Advanced/sp1029
    1
 
 #Start
 #spinner cycle
-#should always be 0 or 1
-   1
+#works with 2 cycles so should never be 2
+   0
 
 #lvl_a-01
    9,L,X
@@ -161,7 +161,7 @@ console load StrawberryJam2021/3-Advanced/sp1029
    7,L
    4,L,J
    5,D,X
-#box route loses 11f
+#box route loses 12f
 #box route
 #   3,R
 #   7
@@ -422,8 +422,10 @@ resync here for box route
 #  24,R,U,Z
 #   4,X
    7,R,J
-  25,R,U,X
+  24,R,U,X
+#+1f powerbox
+   1
 ###
    4,C
  135,D
-ChapterTime: 0:51.969(3057)
+ChapterTime: 0:51.952(3056)
