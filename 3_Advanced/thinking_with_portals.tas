@@ -205,7 +205,7 @@ console load StrawberryJam2021/3-Advanced/sp1029
 #   1,R
 #  40
 
-#lvl_a-08
+##lvl_a-08
 #   5,R
 #  19,R,D,G
 #   7,L,D,G
@@ -244,7 +244,7 @@ console load StrawberryJam2021/3-Advanced/sp1029
    1,R
   40
 
-##lvl_a-08
+#lvl_a-08
    5,R
   23,R,D,G
    3,L,D,G
