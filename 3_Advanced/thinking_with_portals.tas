@@ -1,4 +1,4 @@
-RecordCount: 4942
+RecordCount: 5010
 
 console load StrawberryJam2021/3-Advanced/sp1029
    1
@@ -6,7 +6,7 @@ console load StrawberryJam2021/3-Advanced/sp1029
 #Start
 #spinner cycle
 #should always be 0 or 1
-   0
+   1
 
 #lvl_a-01
    9,L,X
@@ -218,15 +218,15 @@ console load StrawberryJam2021/3-Advanced/sp1029
    7,R,D,X
   12,L,J
   17,L,D
-  27,R,D
-   2,R
-   7
-  18,R
+  26,R,D
+   3,R
+  20,R
+   4,R
   18,D,X
   13,U,C
   18,D
-  11,R,D
-   9,L,D
+  14,R,D
+   6,L
   15,D,X
    9,D
   10,L,D
