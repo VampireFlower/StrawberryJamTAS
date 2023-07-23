@@ -1,4 +1,4 @@
-RecordCount: 5079
+RecordCount: 5211
 
 console load StrawberryJam2021/3-Advanced/galaksyz
    1
@@ -90,13 +90,15 @@ console load StrawberryJam2021/3-Advanced/galaksyz
   40
 
 #lvl_a_02-Gala
-   2,R,J
+   1,R,J
+   1,R
    7,R,Z
-   4,J,G
-   3
-   2,K
-  14,R,D,X
-  25,R,J
+   2,J,G
+   1,R
+   1,J,G
+   7,R
+  10,R,D,X
+  23,R,J
   14,R,U,X
   15,U,C
    2,R,J,G
@@ -130,21 +132,22 @@ console load StrawberryJam2021/3-Advanced/galaksyz
   18,U,C
   23,R
   15,R,Z
-  14,R,U,X
-   7,R,J,G
-   4,R
-   1,R,K,G
+  15,R,U,X
+   1,R,J,G
    7,R
-   4,R,Z
-   8,R,J
-   4,R
+   7,R,J
+
+  10,R,X
+   4,R,J
+   1,R,K,G
+  11,R,D,X
    1,R,J
-  10,R,D,X
+   1,R
   40
 
 #lvl_a_03-Oppen_heimer
-   4,R,D,X
-   5,R,J
+   6,R
+   4,R,J
   15,R,U,X
   14,R,Z
   15,R,J
@@ -162,22 +165,25 @@ console load StrawberryJam2021/3-Advanced/galaksyz
   14,U,Z
   33,U,C
    8,R,J
-   9,R
+   8,R
+   1,R,J
+   2,R
    2,R,J
+   3,R
+   2
+  28,R,Z
+   2,R,K,G
+   5,R
+   1,R,J
    7,R
-  26,R,Z
    2
-   1,R,K,G
-   2,R,K
-  12,R
-   2
-   1,R
-  38,R,J
+  37,R,J
+   1
   17,R,X
    2,R,K,G
    5,R
-   2,R,K
-   8,R
+   1,R,K
+   9,R
   11,R,X
    1,R,J,G
    1
@@ -544,4 +550,4 @@ endstunpause
   14,R,X
  135,D
 
-ChapterTime: 1:21.141(4773)
+ChapterTime: 1:21.039(4767)
