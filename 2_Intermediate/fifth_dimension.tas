@@ -1,4 +1,4 @@
-RecordCount: 1835
+RecordCount: 1994
 
 console load StrawberryJam2021/2-Intermediate/Liero
    1
@@ -204,32 +204,28 @@ console load StrawberryJam2021/2-Intermediate/Liero
   40
 
 #lvl_A08
-  24,R,D
-   5,D
-   1
-   1,D
-   1
-   1,D
-   2
-  10,R,D,X
-  16,R,J
-  15,R,X
-  21,R,D
-  15,U,X
-  21,R
-  12,R,U,Z
-   1,L
-   4,J,G
-   1
-   5,R
-  15,R,U,X
-  23,R,D
-   2,R
+  17,R,D
+   6
+   8,D
    2,R,D
-   1,D
+   3,R
+   6,L,Z
+   1,R,J
+   6,R
+  15,R,D,J
+  15,R,X
+  13,R
+  15,R,X
+  14,R
+  15,U,X
+   3,R
+   1
    1,R
-   2,D
-   4,R
+  29,R,J
+  14,R,D
+   2,R
+   6,R,D
+   5
   11,L,Z
    1,L,J,G
    2,J
@@ -352,4 +348,4 @@ EndStunPause
   73,D
    5,D,X
  135
-ChapterTime: 0:59.500(3500)
+ChapterTime: 0:59.398(3494)
