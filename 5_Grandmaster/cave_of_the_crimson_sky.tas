@@ -1,4 +1,4 @@
-RecordCount: 1512
+RecordCount: 1467
 
 console load StrawberryJam2021/5-Grandmaster/RedBatNick
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/5-Grandmaster/RedBatNick
  190
 
 #Spinner Cycle
-   0
+   2
 
 #lvl_cotcs-0
    4,R,Z
@@ -128,22 +128,24 @@ console load StrawberryJam2021/5-Grandmaster/RedBatNick
    5,L,J
    2,L
    9,R,K
-  32,R,D
+  31,R,D
+   1,R
    9,R,X
-  12,R,J,G
-   8,L,K
-   4,L,J
-  10,R,J
-  15,R,U,X
-  22,R,C
-   8,R,D,X
+   9,R,J,G
+   4,J
+  14,L,K
+   6,R,K
+  18,R,U,X
+  21,R,C
+   4,R,Z
+   1,R,J
+   1,R
   43
 
 #lvl_cotcs-3
-   7,R,D,C
-   7,R,D,X
-   9,R,J
-   9,R,C
+   9,R
+  10,R,D,C
+   9,R,X
   12,R,K,G
    5,R
   29,R,J
@@ -337,4 +339,4 @@ endstunpause
   12,U,X
  135,D
 
-ChapterTime: 0:52.326(3078)
+ChapterTime: 0:52.275(3075)
