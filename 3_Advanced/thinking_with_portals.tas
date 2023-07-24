@@ -1,4 +1,4 @@
-RecordCount: 5115
+RecordCount: 5223
 
 console load StrawberryJam2021/3-Advanced/sp1029
    1
@@ -6,7 +6,7 @@ console load StrawberryJam2021/3-Advanced/sp1029
 #Start
 #spinner cycle
 #works with 2 cycles so should never be 2
-   0
+   1
 
 #lvl_a-01
    9,L,X
@@ -64,8 +64,7 @@ console load StrawberryJam2021/3-Advanced/sp1029
    3,R
    1,R,J
    3,R
-   1,R,J
-   5,R,J
+   6,R,J
    6,L,J
   10,R,Z
    4,L,J
@@ -73,16 +72,14 @@ console load StrawberryJam2021/3-Advanced/sp1029
    9,R,G
    1,R,D
    7,R,U,X
-  35,R,G
+  34,R,G
    1,R
-   8,L,D
+   7,L,D
   12,L
    1,D
-   1
-  19
-   3,D
-   1,D
-   6,R
+  14
+  12,D
+   5,R,D
   10,R,Z
    6,R,J
    1,R
@@ -250,19 +247,19 @@ console load StrawberryJam2021/3-Advanced/sp1029
    5,R
   23,R,D,G
    3,L,D,G
-   8,R,J,G
+#resync here for box route
+   9,L,J,G
    1,R
-resync here for box route
-  15,U,X
-  18,R,C
-  18,R,U,X
-  16,R,D
-  15,D,X
-  10,R,D
-   4,D
+  15,R,U,X
+  18,R,U,C
+   4,R
+  18,R,X
+  15,D,C
+   3,R,D
+   8,L,D
   10,L,D,X
    1,L,J
-  22,L,J,G
+  21,L,J,G
   21,L,D,G
   29,R,D,G
    1,R
@@ -428,4 +425,4 @@ resync here for box route
 ###
    4,C
  135,D
-ChapterTime: 0:51.952(3056)
+ChapterTime: 0:51.697(3041)
