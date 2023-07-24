@@ -1,4 +1,4 @@
-RecordCount: 22569
+RecordCount: 22707
 
 console load StrawberryJam2021/5-Grandmaster/Dav
    1
@@ -694,32 +694,45 @@ EndRepeat
    1,R,J
 
 #lvl_chill-0 (1)
-  17,R,J
-  16,U,X
-  25,R,J
-  10,R,K,G
-   2,R
-   2,R,J,G
+  14,R,J
+   1,L,J
+   1,R,J
+   1,L,J
+  15,U,X
+  24,R,J
+  11,R,K,G
+   1,R
+   3,R,J,G
    7,R
-   8,R,J
-   3,R,K,G
+   7,R,J
+   1,R,K,G
+   1,R,J,G
+   2,R,J
   16,U,X
   15,L,U,C
-   3,R
+   3
    1,L
   12
    1,R,G
-   9,R,J,G
-   9,R
-   1
-   4,J
-   7
-  15,L,X
-  17,R
+   3,R,J,G
+  10,R
+   1,R,J
+   2,R
+   3
+   1,L,K,G
+   1,K
+   2,R,K
+   2,R
+   2
+   3,R,K
+   4,X
+  26,R
   15,U,X
   11,R,G
   80,U,G
-  29,L,J
+  20,L,J
+   1,R,J
+   8,L
   15,L,U,X
  100,L,G
    8,L,J,G
@@ -756,8 +769,9 @@ EndRepeat
    6
   10,R,Z
   10,L,J
-  20,L
-   3,L,D
+  17,L
+   4,L,D
+   2,L
   14,L,Z
    1,L,J
    4,L
@@ -768,7 +782,8 @@ EndRepeat
   14,L,U,X
    3,L,J,G
   10,L
-   9,L,J
+   8,L,J
+   1,L
   15,L,D,X
    2,R,D
    2,R
@@ -1089,4 +1104,4 @@ EndRepeat
   15,L,U,X
  133
 
-ChapterTime: 2:44.730(9690)
+ChapterTime: 2:44.679(9687)
