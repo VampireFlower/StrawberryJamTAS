@@ -1,4 +1,4 @@
-RecordCount: 5707
+RecordCount: 5724
 
 console load StrawberryJam2021/4-Expert/RedBoule
    1
@@ -22,15 +22,16 @@ console load StrawberryJam2021/4-Expert/RedBoule
   15,L,J
   14,L,Z,G
   24,L,J,G
-  73,U,G
+  70,U,G
    1
    1,J,G
    1,R,J
    1,L,J
    2,K,G
-  17,R,K
-   1,R,J,G
-  12,R
+  17,R,J
+   3,R,K,G
+   5,R
+   5,R,J
   14,R,Z
    3,R,J
   14,R,U,X
@@ -731,4 +732,4 @@ EndStunPause
    1,R,K
   50,R
 
-ChapterTime: 1:34.792(5576)
+ChapterTime: 1:34.741(5573)
