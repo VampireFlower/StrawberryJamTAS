@@ -1,4 +1,4 @@
-RecordCount: 8766
+RecordCount: 8825
 
 console load StrawberryJam2021/3-Advanced/Jolly
    1
@@ -286,7 +286,8 @@ EndStunPause
 
 #lvl_b5
    2,J
-   6,R,J
+   5,R,J
+   1,R
   14,R,U,X
    1,J,G
    1,L,J
@@ -296,30 +297,25 @@ EndStunPause
    1,R,K,G
    1,R,J,G
 #ver1
-   8,R
-  14,R,Z
+   7,R
+   6,R,Z
    1,R,J
    7,R
    1,R,J
-  12,R,D,X
-   1,R,J,G
-   7,R,D
-  24,D
-#if you die to the spinner
-#use this version (+1f spinner cycle)
-#ver2
-#   8,R
-#  14,R,Z
-#   1,R,J
-#   7,R
-#   1,R,J
-#  14,R
-#   5,R,J
-#   1,R
-#  15,R,D,X
-#  10,D
-#
-  41,R,X
+  10,R,D,X
+   1,R,J
+   3,R
+   1,R,K
+   4,R
+   1,L,K,G
+   1,L,J,G
+   3,R,J
+   6,R
+   1,R,J
+   4,R,D
+  15,D,X
+   5,R,D
+  41,R,C
    9,L,Z
    1,R,J
    4,R
@@ -632,4 +628,4 @@ EndStunPause
    4,X
  135,D
 
-ChapterTime: 1:28.417(5201)
+ChapterTime: 1:28.400(5200)
