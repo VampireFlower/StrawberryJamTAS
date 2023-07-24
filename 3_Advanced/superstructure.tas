@@ -1,4 +1,4 @@
-RecordCount: 5630
+RecordCount: 5784
 
 console load StrawberryJam2021/3-Advanced/Goldian
    1
@@ -6,15 +6,20 @@ console load StrawberryJam2021/3-Advanced/Goldian
 #Start
  190
 #spinner cycle
-   0
+   1
 
 #lvl_start
    4,Z
    1,R,J
-   7,R
-   4,R,J
-  15,U,X
-  14,R,J
+   3,R
+   1,R,J
+   3,R
+   2,R,J
+   1,J
+   2,R
+   1
+  14,U,X
+  13,R,J
   11,R
    4,Z
    4,R,J
@@ -28,7 +33,7 @@ console load StrawberryJam2021/3-Advanced/Goldian
    1,R,J
    3,R
   11,R,J
-   7,R,Z
+   6,R,Z
    1,R,J
    7,R
    1,R,J
@@ -64,21 +69,18 @@ console load StrawberryJam2021/3-Advanced/Goldian
    1,R,J,G
    1,R,K,G
   13,R
-  17,R,D,J
-   1,L,J
-   3,K,G
-   1,R,J
-  10,R,K
-   5,R
+  16,R,D,J
+   2,J
+   1,K
+  12,R,J
+   4,R
    1,R,J,G
    1,R,K,G
-   5,R
-   8,R,J
-   5,R
-   4,Z
+  20,R
+   5,R,Z
    1,R,J
-   6,R
-   4,R,J
+   7,R
+   2,R,J
   40
 
 #lvl_goldian-1
@@ -426,14 +428,15 @@ console load StrawberryJam2021/3-Advanced/Goldian
    3,R,G
    1,R
   26,R,D
-   5,D
-   4,R,D,X
+  12,R,D,X
    1,R,J
-   6,R
-   1,R,J,G
-  15,R
+   3,R
+   1,R,K,G
+   9,R
+   1
+   5,R
   12,R,J
-  16,R
+  15,R
    1,J
   11,R,J
    5,R
@@ -446,17 +449,19 @@ console load StrawberryJam2021/3-Advanced/Goldian
   11,L,J
    5,L
    9,L,J
-   9,R,K
-   9,R
-   6,R,Z
+   8,R,K
+  10,R
+   4,R,Z
+   2,R,J
+   8,R
    1,R,J
-   7,R
+   4,R,D,X
    1,R,J
-   7,R,D,X
+   2,R
   40
 
 #lvl_goldian-6
-   7,R,D,X
+   5,R
    1,N
    3,R,J
   10,R,D,X
@@ -595,4 +600,4 @@ endrepeat
   13,R,U,X
  135
 
-ChapterTime: 1:17.078(4534)
+ChapterTime: 1:17.027(4531)
