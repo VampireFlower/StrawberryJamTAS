@@ -1,4 +1,4 @@
-RecordCount: 5684
+RecordCount: 5728
 console load StrawberryJam2021/4-Expert/spirialis
    1
 
@@ -446,14 +446,17 @@ endrepeat
 
 #lvl_8
    8,R,J,G
-  10,R,Z,G
-   5,R,J,G
-  12,U,X,G
-   9,L,J,G
+  10,R,X,G
+   6,R,J,G
+  10,U,X,G
+   5,L,J,G
+   4,J,G
   12,R,K,G
   15,R,D,G
-   6,L,G
+   3,L,D,G
+   1,L,G
    9,L,D,G
+   1,L,G
    1,G
    1,L
    1,G
@@ -561,4 +564,4 @@ endrepeat
   14,R,U,X
  135
 
-ChapterTime: 1:05.603(3859)
+ChapterTime: 1:05.569(3857)
