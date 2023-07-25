@@ -1,4 +1,4 @@
-RecordCount: 698
+RecordCount: 754
 
 console load StrawberryJam2021/2-Intermediate/pixelator
    1
@@ -311,12 +311,16 @@ console load StrawberryJam2021/2-Intermediate/pixelator
   12,R,K,G
   15,L
   17,L,U,X
-  35,L
+  31,L
+   3
+   1,L
 #rcb possible with different subpixels, saves ~2f
-  15,L,U,X
-  17,L
-   1,L,K,G
+  14,L,U,X
+   1,R
+   1,J,G
+  15,L
    1,L,J,G
+   1,L,K,G
    6,L
    9
   14,L
@@ -340,7 +344,6 @@ console load StrawberryJam2021/2-Intermediate/pixelator
    8,R,K,G
    5,L,J
   40
-
 #lvl_lvl07
    9,R
    1,R,K,G
@@ -369,4 +372,4 @@ console load StrawberryJam2021/2-Intermediate/pixelator
   14,R,U,X
  135
 
-ChapterTime: 0:48.484(2852)
+ChapterTime: 0:48.467(2851)
