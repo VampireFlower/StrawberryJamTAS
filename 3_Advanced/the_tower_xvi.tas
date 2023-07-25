@@ -1,4 +1,4 @@
-RecordCount: 67
+RecordCount: 90
 
 console load StrawberryJam2021/3-Advanced/JANisEXIST
    1
@@ -201,12 +201,11 @@ EndRepeat
   39,U,X
   22,R
   19,R,U,Z
-   4,L,G
-  12,L,J,G
-   7,L,K,G
-  18,L,U,X
+   6,L
+   8,L,J
+  21,L,U,X
   18,L,J
-  23,L,U,X
+  25,L,U,X
    4,L,J
   15,D,X
   10,L,Z
@@ -518,4 +517,4 @@ EndRepeat
   14,U,X
  135,R
 
-ChapterTime: 1:05.246(3838)
+ChapterTime: 1:05.178(3834)
