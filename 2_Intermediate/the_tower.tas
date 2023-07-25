@@ -1,4 +1,4 @@
-RecordCount: 754
+RecordCount: 860
 
 console load StrawberryJam2021/2-Intermediate/pixelator
    1
@@ -20,15 +20,12 @@ console load StrawberryJam2021/2-Intermediate/pixelator
    1,R,K
    1,L,K
    1,L,J,G
-   6,L,J
-   1,L,J
-   6,L,J
+  13,L,J
    1,L,K,G
    1,L,J,G
    8,L
    1,L,K
-   5,L
-  21,L
+  26,L
    2
   16,R,K
   12,R,J,G
@@ -98,8 +95,7 @@ console load StrawberryJam2021/2-Intermediate/pixelator
    3,K
    1,R,J,G
    1,R,K,G
-   7,R
-  15,R
+  22,R
   15,R,X
    5,R
    4,R,Z
@@ -304,27 +300,29 @@ console load StrawberryJam2021/2-Intermediate/pixelator
   31,R,J
   11,R
   13,U,Z
-  17,L,J
-   3,R,J
+  14,L,J
+   6,R,J
   14,R,U,Z
-   9,R,D
-  12,R,K,G
-  15,L
-  17,L,U,X
-  31,L
-   3
-   1,L
-#rcb possible with different subpixels, saves ~2f
-  14,L,U,X
-   1,R
+   8,R,D
+  12,K,G
    1,J,G
   15,L
+  15,L,U,X
+  29,L
+   1
+   1,L
+   3
+   1,L
+  14,L,U,X
+#rcb possible with different subpixels, saves ~2f
+   1,R
+   1,J
+   5,L
+   3,L,J
+   7,L
    1,L,J,G
-   1,L,K,G
-   6,L
-   9
-  14,L
-  15,U,X
+  28,L
+  15,U,Z
   18,L,J
    1,K
   12,R,J
@@ -341,9 +339,10 @@ console load StrawberryJam2021/2-Intermediate/pixelator
    2,J
   15,U,X
   19,R,J
-   8,R,K,G
+   7,R,K,G
    5,L,J
   40
+
 #lvl_lvl07
    9,R
    1,R,K,G
@@ -372,4 +371,4 @@ console load StrawberryJam2021/2-Intermediate/pixelator
   14,R,U,X
  135
 
-ChapterTime: 0:48.467(2851)
+ChapterTime: 0:48.382(2846)
