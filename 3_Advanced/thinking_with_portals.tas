@@ -1,4 +1,4 @@
-RecordCount: 5223
+RecordCount: 5316
 
 console load StrawberryJam2021/3-Advanced/sp1029
    1
@@ -6,7 +6,7 @@ console load StrawberryJam2021/3-Advanced/sp1029
 #Start
 #spinner cycle
 #works with 2 cycles so should never be 2
-   1
+   0
 
 #lvl_a-01
    9,L,X
@@ -59,17 +59,18 @@ console load StrawberryJam2021/3-Advanced/sp1029
 #lvl_a-04
    8,R
    8,R,K,G
-   5,R,Z
+   7,R,Z
    1,R,J
-   3,R
+   8,R
    1,R,J
-   3,R
-   6,R,J
-   6,L,J
-  10,R,Z
-   4,L,J
-  22,L,J,G
-   9,R,G
+   4,R
+   2
+   2,R
+   8,R,Z
+   1,L,J
+  13,L,G
+  10,L,K,G
+   6,R,G
    1,R,D
    7,R,U,X
   34,R,G
@@ -77,10 +78,10 @@ console load StrawberryJam2021/3-Advanced/sp1029
    7,L,D
   12,L
    1,D
-  14
-  12,D
-   5,R,D
-  10,R,Z
+  21
+   5,D
+   6,R,D
+   9,R,Z
    6,R,J
    1,R
    1,R,J
@@ -385,44 +386,30 @@ console load StrawberryJam2021/3-Advanced/sp1029
    5
    4,R,D
   10,D
-   5,R,D
-   5,D
+  10,R,D
 #powerbox cycle
    0
 ###
-   6,R,Z
+   5,R,Z
    1,R,J
    3,R
   40
 
 #lvl_a-13
-#would be faster if you save 10f?? i think
-#not sure about the specifics
-#inputs might need to be edited
-#   4,R
-#   1,R,J
-#  10,R,D,X
-#  12,R,J
-#  15,R,U,X
-#  12,R,D
-#  25,D
-#  27,U,X
-#   6,U,C
-# 135
-##
+#this powerbox is a global cycle for some reason
+#might need to redo from scratch any time you make an improvement
+   1,R,J
    4,R
    1,R,J
-   4,Z
+   4,D,X
    1,R,J
-   7,R
-#  10,R,J
-#  24,R,U,Z
-#   4,X
+   3,R
+   1,R,J
+   3,R
    7,R,J
-  24,R,U,X
-#+1f powerbox
-   1
-###
-   4,C
- 135,D
-ChapterTime: 0:51.697(3041)
+  13,R,U,X
+  12,R
+   4,U,X
+ 135,U
+
+ChapterTime: 0:51.561(3033)
