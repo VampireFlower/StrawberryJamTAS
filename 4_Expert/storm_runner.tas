@@ -1,4 +1,4 @@
-RecordCount: 4378
+RecordCount: 4423
 
 console load StrawberryJam2021/4-Expert/LethargicDoggo
    1
@@ -127,7 +127,6 @@ console load StrawberryJam2021/4-Expert/LethargicDoggo
   10,R
   40
 
-
 #lvl_a-04
    2,R
    8,R,J
@@ -208,6 +207,7 @@ console load StrawberryJam2021/4-Expert/LethargicDoggo
    1,R,J
    2,R
   40
+
 #lvl_a-05
    4,R
    2,R,J
@@ -269,6 +269,7 @@ console load StrawberryJam2021/4-Expert/LethargicDoggo
    6,R,D,X
    1,R,J
   40
+
 #lvl_a-06
    6,R
    1,R,N
@@ -326,6 +327,7 @@ console load StrawberryJam2021/4-Expert/LethargicDoggo
    4,R
   12,R,D,X
   40
+
 #lvl_a-07
    1,R
    9,R,J
@@ -371,6 +373,7 @@ EndStunPause
    7,R
    1,R,J
   40
+
 #lvl_a-08
    6,R,D,X
    1,R,J
@@ -442,12 +445,14 @@ EndStunPause
   18,U,X
    8,R
   21,R,U,X
-  12,R,J,G
-   9,L,K
+   9,R,J,G
+  12,L,K
   40
+
 #lvl_a-09
   11,L
-  10,L,X
+   1,K
+   1,J
   10,R,J
   18,U,X
   15,U,C
@@ -468,8 +473,8 @@ EndStunPause
   30
   15,R,J
   15,U,X
-  10,R
-   4
+  11,R
+   3
   10,L,X
   19,J
   15,U,X
@@ -483,4 +488,4 @@ EndStunPause
   15,U,X
  135
 
-ChapterTime: 1:14.596(4388)
+ChapterTime: 1:14.511(4383)
