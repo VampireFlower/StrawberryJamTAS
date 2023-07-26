@@ -1,4 +1,4 @@
-RecordCount: 3610
+RecordCount: 3664
 
 console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
    1
@@ -433,30 +433,30 @@ EndStunPause
   30,R,D,X
   36,R,D,G
    8,L,D,G
+   2,D,G
    1,L
-   2,D
    8,L,D
   11,L,D,X
-   9,L,J
-  11,U,X
-  18,L,G
-   1,L,J,G
-  25,L,K,G
-   8,L,G
-   9,L,J,G
-  18,L,G
+  10,L,J
+  12,U,X
+   3,L,J
+  17,L,J,G
+  16,L,G
+   6,L,J,G
+  16,L,G
    1,L
   51,L,D
+   2,L
   15,U,X
   10,J,G
    5,L
-  39
+  38
    5,R,J
    4,R
   26,U,X
    3,R
    2,L
-  10
+  14,L
   14,L,D,X
    1,R,J
    5,R,D,X
@@ -536,7 +536,7 @@ EndStunPause
   12,R,U,G
  145,R,G
 #Spinner cycle [a-08]
-   1,G
+   0,G
 #
    2,R,U,G
    1
@@ -612,4 +612,4 @@ EndStunPause
   22,R
   18,R,J
   35,R,D,X
-ChapterTime: 1:42.391(6023)
+ChapterTime: 1:42.136(6008)
