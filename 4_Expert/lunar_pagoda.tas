@@ -1,4 +1,4 @@
-RecordCount: 5728
+RecordCount: 5797
 console load StrawberryJam2021/4-Expert/spirialis
    1
 
@@ -29,6 +29,7 @@ console load StrawberryJam2021/4-Expert/spirialis
   16,R,K,G
    5,J
   40
+
 #lvl_1-1
   12,R,D
   15,R,X
@@ -111,6 +112,7 @@ console load StrawberryJam2021/4-Expert/spirialis
    3,R,J
    2,R
   40
+
 #lvl_2
    3,R
    1
@@ -210,32 +212,38 @@ endrepeat
   15,R,G
   10,R,Z,G
    1,R,J,G
-   6,R,K,G
-   3,R,G
-  10,R,D,X,G
-repeat 5
-   1,R
-   1,R,G
-endrepeat
-   1,R,J
+   4,R,G
+  12,R,D,X,G
    1,R,J,G
-   1,R
-   4,R,D,Z,G
-repeat 6
+   1,R,K,G
+   1,R,G
+   5,R,D,X,G
+repeat 4
    1,R,D
    1,R,D,G
-endrepeat
+   endrepeat
+   1,R,D,G
+repeat 4
+   1,R,D
+   1,R,D,G
+   endrepeat
+   1,R,D
+   1,R,D,J,G
+   4,Z,G
+   1,R,D
+repeat 5
+   1,R,D,J,G
    1,R
-repeat 6
-   1,R,J,G
-   1,R
 endrepeat
-   2,R,J,G
    1,R,K,G
    1,R,J,G
-   7,R,G
-   4,R,J,G
-   3,J,G
+   1,R,K,G
+   1,R,J,G
+   4,R,G
+   3,R,J,G
+   1,R,G
+   6,R,J,G
+   1,J,G
   10,R,U,X,G
   40
 
@@ -246,11 +254,12 @@ endrepeat
    8,G
    1,R,G
   14,R,U,X,G
-   2,R,G
+   2,G
    8,G
    4,R,Z,G
    1,R,J,G
-   4,R,G
+   1,G
+   3,R,G
    9,R
    1,R,D,J,G
    2,R
@@ -264,9 +273,9 @@ endrepeat
    8,R
    5,R,J,G
    5,R,G
-   2,G
    1,R,G
-   3,G
+   2,R,G
+   3,R,G
    1,J,G
   24,L,J,G
    1,L,G
@@ -564,4 +573,4 @@ endrepeat
   14,R,U,X
  135
 
-ChapterTime: 1:05.569(3857)
+ChapterTime: 1:05.484(3852)
