@@ -1,4 +1,4 @@
-RecordCount: 1181
+RecordCount: 1210
 
 console load StrawberryJam2021/5-Grandmaster/alisticious
    1
@@ -128,14 +128,10 @@ console load StrawberryJam2021/5-Grandmaster/alisticious
    1,U
    1
   20,U
-   7,R
-  10,R,K
-   2,R
-   5,R,D,X
-   4,R
-   1
-   1,R
+  10,R
    3
+   7,R,X
+  10,D
   18,R,J
    5,U,X
    1,R
@@ -485,4 +481,4 @@ EndStunpause
    8,L,D,C
   64,D
 
-ChapterTime: 0:40.069(2357)
+ChapterTime: 0:40.018(2354)
