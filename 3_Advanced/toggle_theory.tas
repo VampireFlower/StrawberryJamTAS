@@ -1,4 +1,4 @@
-RecordCount: 3207
+RecordCount: 3338
 
 console load StrawberryJam2021/3-Advanced/Citrea
    1
@@ -190,21 +190,24 @@ EndStunPause
   40
 
 #lvl_a-6
-   3,R
-   7,K,G
+   2,R
+   8,K,G
    2,L,K
-   4,J
+   2,J
+   2,L,J
   12,L,K
   15,U,X
-   8,L
+   7,L
+   1
   16,R,J
-  16,L,K
-  12,R,J
-  20,R
-  18,R,D
-  16,U,X
+  15,L,K
+   1,K
   12,R,J
   26,R,D
+   8,R
+  11,U,X
+  24,R,J
+  20,R,D
   13,R,X
    6,R,J
    3,R
@@ -262,4 +265,4 @@ EndStunPause
   11,U,X
  135,D
 
-ChapterTime: 0:38.318(2254)
+ChapterTime: 0:38.267(2251)
