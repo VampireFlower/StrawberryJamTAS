@@ -1,4 +1,4 @@
-RecordCount: 2510
+RecordCount: 2521
 
 console load StrawberryJam2021/0-Lobbies/0-Prologue
    1
@@ -143,25 +143,14 @@ console load StrawberryJam2021/0-Lobbies/0-Prologue
    7,R
   12,R,U,X
    1,J,G
-   1,R,J
-   5,R
-   2,R,J
-   1,R
-   2,R,J
-   5,R
-   1,R
-   2,R,K
-   3,R,J,G
-   9,R,U,X
-   6,R,J,G
-   5,R
-   3,R,J
-   1,R
-   7,R,K
-  20,R
+  24,R,J
+   6,R,K
+   8,R
+   8,R,J
+  21,R
    1,N
    1,S
    1,D,J
   18
 
-ChapterTime: 0:13.175(775)
+ChapterTime: 0:13.124(772)
