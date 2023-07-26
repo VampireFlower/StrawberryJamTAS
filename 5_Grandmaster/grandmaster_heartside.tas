@@ -1,4 +1,4 @@
-RecordCount: 33888
+RecordCount: 33974
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -715,10 +715,15 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1,R,K,G
    1,R,J,G
    1,R,K,G
-  79,R,J,G
+   2,J,G
+   4,R,J,G
+   6,R
+   1,J
+   1
+   6,R,J
+  57,R
   14,R,U,X
  349
-
 #lvl_c0-Divinity
   22,R
    2,R,J,G
@@ -2373,7 +2378,7 @@ endrepeat
    5,R
    2
 ##spinner cycle for flag 1
-   0
+   2
 ##
    8,R,Z
    1,R,J
