@@ -1,4 +1,4 @@
-RecordCount: 4831
+RecordCount: 4841
 
 console load StrawberryJam2021/2-Intermediate/GlowWoomii
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/2-Intermediate/GlowWoomii
  190
 
 #Spinner cycle [r1]
-   2
+   0
 
 #lvl_startroom
    4,R,Z
@@ -38,9 +38,11 @@ EndRepeat
    3,R
   13,R,U,Z
   40
+
+#lvl_r1
    1,R,U,Z
    1,L,K,G
-  11,R,K
+  10,R,K
    8,R,G
    9,R,D
   13,R,U,Z
@@ -331,4 +333,4 @@ EndRepeat
    1,L,J
   53
 
-ChapterTime: 0:40.426(2378)
+ChapterTime: 0:40.375(2375)
