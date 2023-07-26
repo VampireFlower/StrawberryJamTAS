@@ -1,4 +1,4 @@
-RecordCount: 33790
+RecordCount: 33888
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -724,21 +724,26 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    2,R,J,G
    5,R,Z
    1,R,J
-   7,R
+   3,R
+   1,R,J
+   3,R
    2,R,J
-   8,R,K,G
+   4,R,K,G
+   7,R
+   1,R,J
+   1,R
    6,R,D,X
-   1,R,J,G
-   8,R
   40
 
 #lvl_c1_12-RedBatNick
-   4,R
-#really close to get -1f
-   3,R,D,J
-   3,L
-  11,R
-   1,L
+   8,R,D,X
+   6,R,J
+   1,R
+   1,R,K
+   2,R
+   2,R,K
+   1,R
+   4
    5,U,X
   16,L,D
   22,R,D
@@ -801,13 +806,14 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
   14,R,Z
    2,R,J
    4,R
-  15,R,J
-  14,R,U,Z
-   1,R,J,G
+  14,R,J
+  15,R,U,Z
+   2,J
+   1,L,J
+   1,K
    1,J,G
-   3,L,J
-   2,R,J
-   7,R
+   1
+   6,R
    1,R,J
   14,R,Z
    1,R,J
@@ -1166,10 +1172,11 @@ AnalogMode Ignore
    3,R
   11,R,C
   19,R,U,X
-  15,R,C
-  23,R,U,X
-   4,Z
-   7,L,J
+  15,R,Z
+  20,R,U,X
+   4,L,J
+  10,L,Z
+   1,L,J
    9,L
    1,L,J
   14,L,D,X
@@ -1319,8 +1326,8 @@ AnalogMode Ignore
   15,L,J,G
   18,U,X
   14,J
- 116,R,X
-  14,R,Z
+ 115,R,X
+  15,R,Z
  120,D,X
 
 #lvl_d2_08-Aiden
@@ -2366,7 +2373,7 @@ endrepeat
    5,R
    2
 ##spinner cycle for flag 1
-   1
+   0
 ##
    8,R,Z
    1,R,J
@@ -2670,4 +2677,4 @@ Repeat 34
    2,L,D
 Endrepeat
 
-ChapterTime: 7:15.778(25634)
+ChapterTime: 7:15.727(25631)
