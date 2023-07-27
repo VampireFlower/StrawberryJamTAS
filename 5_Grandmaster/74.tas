@@ -1,4 +1,4 @@
-RecordCount: 5665
+RecordCount: 6392
 
 console load StrawberryJam2021/5-Grandmaster/fishtank
    1
@@ -194,71 +194,102 @@ Repeat,4
    2,R,D,J
    3,R
 EndRepeat
-   2,R,J
+   2,R,D,J
   40
 
 #lvl_Ventilation Ducts
+   3,R
+   2,R,D,J
    3,R,D
-   1,R,D,J
-   4,R,D
    2,R,J
    1,R
    1,R,J
   10,R
   12,R,J
    8,J
-   1,R,K
-   7,R
-   9,R,J
-   1,K
-  20,R,J
-  17,R
-   7
-   7,R
-   1
-   1,R
-   1
-   1,R
-   5,R,D
+   2,K
+   6,R,K
+   5,R
+   4,R,K
+   5,R
+   1,R,J,G
    1,R,K,G
-  18,R
-   4,D
-  10,R,J
-   1,K
-   3,R,J
-   1,K
+   6,R
+   4,R,K
+   6,R
+   1,J
    1,R,J
    5,R
+   1,R,J
+   1,R
+   1,J
+   4
+   1,R
+   3
+  10,R
+   5,R,D
+#pls make this work
+#   1,R,J,G
+#  20,R
+#   3,D
+#   9,R,J
+#   4,R,K
+#   2,R,J
+#   4,R
+#   1,R,J,G
+#   5,R,K,G
+#   5,R
+#   8,R,K
+#   1,K
+#   1,R,K
+#   8,R
+#   1,G
+   1,R,J,G
+  21,R
+   2,D
+   8,R,J
+   1,J
+   4,R,K
+   3,R,J
+   3,R
    1,R,J,G
   14,R
    1,R,J
-   5,R
+   7,R
    1,R,J
-   8,R
+   6,R
    1
    1,R
    1,G
    9,R
    4
    1,R,J
-  43,R
-   3
+  23,R
+  18,R
+   1
+   1,R
+   2
+   1,R
   13,R
-  12,R,J
-   1,R,K
    8,R,J
-  16,R
-   1,D
-   2,R
+   1,J
+   1,R,J
+   2,L,J
+   1,K
+   2,J,G
+   5,R,J
+  19,R
    2,R,D,J
-   7,R
-   3,R,D,J
+   3,R
+   2,R,D,J
+   3,R
+   1,R,D,J
    1,L,J
    1,K
    1,J,G
    7
    2,R
-   1,R,J
+   1,R,K
    2,R
    1,R,J,G
    1,R,K,G
@@ -285,8 +316,8 @@ EndRepeat
    1,J
    1,K
    2,L,K
-   4,K
-   7,R
+   3,K
+   7
    8,R,J
    5,L,J
    9,R,K
@@ -409,18 +440,16 @@ endrepeat
    8,R,J
   15,R
   14,R,J
-   2,J
+   2,L,J
    1,K
-   8,R,K
-  12,R
-   1
-   2,R
-   2
-   2,R
-   3
-   3,R
+   2,J,G
+   1,R,J
    4,R,J
-   6,L,J
+   1
+  19,R
+   4,R,D
+   4,R,J
+   6,J
    1,R,J
    2,L,K,G
    1,R,K
@@ -429,61 +458,64 @@ endrepeat
    1,K
    1,R,K
    1,K
-   1,R,K
+   2,R,K
+   1,L,K
+   1,J,G
+   1,R,J
+   1,L,K,G
+   9,K
+   4,L,K
    1,K
-   1,R,K
-   1,K
-   1,J
-  18,L,J
-   1,K
-   1,J
-   9,L,J
-   6,L
-   3,L,J
+  10,L,J
    7,L
-   3
-   1,J
+   3,L,J
+   8,L
+   2,J
    2,L,J
-   6,J
+   5,J
    4,K,G
    3,L,K
    1,K
    3,L,K
    1,R,K
-   1,J
-   4,R,J
-   1,R
-  10,R,J
-  13,R,D
-   8,D
+#+1f subpixel
+   6,R,J
+  21,R
    2,R,D
-#+2f subpixel
-  19,R,J
-   7,R
-   3,L
-   6,K,G
-   4,L,K
-   4,R,K
-   1,J
+   7,D
+   1,R,D
+   1
+   1,D
+  18,R,J
+   9,R
+   1,L
+   7,J,G
+   4,L,J
    3,R,J
-  14,R,K,G
-  11,J,G
-   3,L,J
-   9,R,K
-   6,K
-  10,J
-   8,K
-   2,R,K
+   4,K
+  11,R,J,G
+   1,K,G
    1,L,K
-  11,J
-   1,K
+   1,R,K
    1,J,G
-   3,R,J
-   1,K
-   3,R,K
-   1,J
-   3,R,J
    1,L,J
+  12,J
+   4,R,K
+  10,K
+  12,J
+   1,K
+   4,R,K
+   3,K
+   9,J
+   2,R,J
+   1,J
+   1,K
+   1,R,K
+   1,K
+   6,R,K
+   1,J
+   2,R,J
+   2,L,J
    1,K
    1,J,G
    3,R
@@ -491,16 +523,11 @@ endrepeat
    1,J
    1,K,G
    1
-   5,R,J
-   1,R
-   1,R,J
-  20,R
-   6,R,D
-   2,R
-   1,R,J,G
-   6,R,K,G
-  20,R
-  17,R,D
+   3,R
+   1,R,K
+  31,R
+  10,R,J,G
+  38,R,D
    5,R
    2
    1,J
@@ -514,8 +541,7 @@ endrepeat
   19,R,J
    1,L,J
    4,K
-   1,J,G
-   1,J
+   2,J,G
    1,R
    1,R,K
    6,R
@@ -696,36 +722,30 @@ endrepeat
   20,F,19.4
    8,U
    1,R,U
-   9,U
    1,L,U
+   9,U
    1,J
-   1,K,G
-   1,K
-   6
-   1,R
-   1,R,J,G
-   1,R,K,G
+   2,K,G
    4,R
-   1
-   1,R,J,G
-   1,J
-   4,R,J
-   1,R
-   2,R,K,G
-   2,R
-   1,R,J
+   1,R,K,G
+   3,R,J,G
+   3,R
+   5,R,J,G
    1,R,K
-  15,R,D
+   2,R,J,G
+   1
+   1,R
+   1,R,J
+  16,R
   40
 
 #lvl_The End of TIMELINE
-   6,R,D
+   5,R
    1,R,J
-  21,R
-   9,R,K
-   7,R
-   1,R,J
-  18,R,D
+  18,R
+  11,R,J
+  19,R
+  10,R,D
    1,R,J
    1,R,K
    1,R,J
@@ -740,4 +760,4 @@ endrepeat
   16,L,U,X
  135
 
-ChapterTime: 1:05.178(3834)
+ChapterTime: 1:04.889(3817)
