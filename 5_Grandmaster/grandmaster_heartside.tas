@@ -1,4 +1,4 @@
-RecordCount: 33974
+RecordCount: 34033
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -99,18 +99,14 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    7,R,Z
    3,L,Z
   15,R,G
-  12,L,J
-   6,L
-   4
-   1,J
-   7
-   7,G
-   6,U,G
+   5,U,X
+   6,L,J
+  23,L
+  13,U,G
    1,L,J,G
    1,L,K,G
    1,L,J,G
-   1,L,K,G
-   3,L
+   4,L,K,G
   15,L,D,X
    7,L
   13,L,D,X
@@ -310,8 +306,6 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    3,R,K
    4,J,G
    1,L,J
-
-
   16,L,K
    3,J,G
    1,R,J
@@ -435,8 +429,7 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
   10
    4,L
    5,U,X
-  18
-  18
+  36
    5,R,U,X
    5,U
    1
@@ -572,8 +565,7 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    7,R
    1,R,J
    6,R,D,X
-  12,R,G
-   6,R,G
+  18,R,G
    2,R,J
   46,R,U,G
   90,R,U,J,G
@@ -724,6 +716,7 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
   57,R
   14,R,U,X
  349
+
 #lvl_c0-Divinity
   22,R
    2,R,J,G
@@ -1613,8 +1606,8 @@ Set CelesteTAS.SimplifiedBackdrop true
  349
 
 #lvl_e0-Clarity
-#Set CelesteTAS.SimplifiedGraphics false
-#Set CelesteTAS.SimplifiedBackdrop false
+Set CelesteTAS.SimplifiedGraphics false
+Set CelesteTAS.SimplifiedBackdrop false
   59
   13,R,Z
    1,R,J
@@ -1707,8 +1700,7 @@ Set CelesteTAS.SimplifiedBackdrop true
    4
   20,R,J
   15,R,U,X
-   3
-  41
+  44
   11,R
   13,R,U,Z
    1,L
@@ -1718,8 +1710,7 @@ Set CelesteTAS.SimplifiedBackdrop true
    1,G
    1,J
    8,L,J
-   5,L
-   2,L
+   7,L
    4,L,J
    9,L
    1,J
@@ -1769,8 +1760,7 @@ Set CelesteTAS.SimplifiedBackdrop true
   15,U,C
    1,R
    4,J
-   2
-  41
+  43
   10,L
   14,J,G
    4,K,G
@@ -2378,7 +2368,7 @@ endrepeat
    5,R
    2
 ##spinner cycle for flag 1
-   2
+   1
 ##
    8,R,Z
    1,R,J
@@ -2592,12 +2582,9 @@ EndStunPause
    1,R,J,G
    5,R,K,G
   49,R,D
-  64,R
-  64,R
-  59,R
+ 187,R
   71,R,D
-  83,R
-  60,R
+ 143,R
   23,R,D,X
   28,R
   18,R,X
@@ -2682,4 +2669,4 @@ Repeat 34
    2,L,D
 Endrepeat
 
-ChapterTime: 7:15.727(25631)
+ChapterTime: 7:15.676(25628)
