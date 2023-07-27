@@ -1,4 +1,4 @@
-RecordCount: 4237
+RecordCount: 4291
 
 console load StrawberryJam2021/5-Grandmaster/xplosives
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/5-Grandmaster/xplosives
   99
 
 #spinner_cycle
-   1
+   2
 
 #lvl_a0
    6,L,Z
@@ -40,19 +40,19 @@ console load StrawberryJam2021/5-Grandmaster/xplosives
    6,R,J
   15,R,D,X
   14,R
-  13,R,J
+   8,R,J
+   5,J
   19,R,D,X
    1,R,J
    1,K
-   1,J
-  15,U,Z
+  14,U,Z
    7,L,J
    3,R,J
    1,J
    1,K
-   1,R
+   1,R,K
    1,R,J,G
-   3,R,K,G
+   4,R,K,G
    1,R,J,G
    7,R
    2,R,J
