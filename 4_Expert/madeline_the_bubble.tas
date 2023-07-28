@@ -1,4 +1,4 @@
-RecordCount: 8274
+RecordCount: 8458
 
 console load StrawberryJam2021/4-Expert/Vina
    1
@@ -308,43 +308,24 @@ console load StrawberryJam2021/4-Expert/Vina
   15,R,U,Z
    3,L
   24,L,U,C
-   8,L,X
-  59,R
-  31,R,U,X
-  28,R,C
-   7,R,D
-   3,R
-   1,R,D
-   1,R
-   8,R,Z
-   1,R,J
-  10,R
-   1,R,J
-   1,R,K
-  13,R,J
-  15,U,X
-  13,J
-   5,R,J
-  11,L,K
+  15,L,X
+  29,R
+  15,U,Z
+  16,U,C
   40
 
 #lvl_Vina-06
-  11
-  15,U,X
-  13,R,J
-   1,R,J,N
-   8,R,J
-   6,K,G
-   1,J,G
-   3
-   3,R
-   1,L
-   1,L,J
-  11,U,X
-   5,L,J
-  11,L
-  14,L,Z
-   8,L,J
+   1,S
+   1,D,J
+  69,O
+#pufferfish cycle (47) (really fun entity)
+   1
+repeat 23
+   1,D
+   1
+endrepeat
+  13,L,Z
+  11,L,J
   15,L
    5,L,D
    1,G
@@ -365,16 +346,16 @@ console load StrawberryJam2021/4-Expert/Vina
    6,R
   10,D
   26,R,D
-   1,D
+   1
    2,R
    2
-   1,R,D
+   1,R
   15,R,X
   21
   39,R
   15,R,U,Z
    1
-  18,U,X
+  19,U,X
    5,R
    1
   13,R,D,X
@@ -406,22 +387,18 @@ console load StrawberryJam2021/4-Expert/Vina
   40
 
 #lvl_Vina-07
-   1,R,J
-   1,R,K,G
-   5
-   8,R
    2,R,J
-   2,J
-   1,R,J
-  14,R,U,X
-   1,L,J,G
-   5,R,J
-   8,R
-   3,R,J
    4,R
-   3
-  17,L,X
-  15,U,C
+   1,R,J
+  14,R,D,X
+   8,R,J
+  14,R,U,Z
+   1,L,J,G
+   7,R,J
+  15,R
+  18,R,X
+  18,L,C
+  15,U,X
   28,L,J
   21,L,X
   29,R
@@ -442,8 +419,9 @@ console load StrawberryJam2021/4-Expert/Vina
   33,L
   14,L,X
   23
-   4,L
+   3,L
    1
+   1,L
   13,L,J
   15,U,X
    1,R
@@ -455,20 +433,19 @@ console load StrawberryJam2021/4-Expert/Vina
   18,R,K
    6,R
    1,R,J,G
-   2,R,K,G
-   3,K
+   5,R,K,G
    7,R
-   5,R,J
-   4,R
+   2,R,J
+   6,R
    6
   29,L
-  19,U,X
-  29,R
+  18,U,X
+  31,R
   15,U,X
    2,R
   14,R,D,C
    1,R,J
-  10,R,D,X
+   9,R,D,X
    1,R,J
   10,R
   20,R,J
@@ -477,22 +454,24 @@ console load StrawberryJam2021/4-Expert/Vina
   15,U,X
   15,L,U,C
   10,L
-   3
+   4
    5,L
-  29,L,J
+  26,L,J
+   3,J
   18,U,X
    8,R
   15,R,D,C
    5,R
-  22,R,U,X
-  16,R
+  15,R,U,X
+  10
+  15,R
   15,U,X
-   1,R
-  15,L
-   3
-  22,U,X
+   3,R
+  19,L
+  19,U,X
   43,R
-  20,R,Z
+  18,R,Z
+   4
    4,R,V
    1,R,J
    6,R,K,G
@@ -674,4 +653,4 @@ repeat 7
    2,R,D
 endrepeat
 
-ChapterTime: 1:54.716(6748)
+ChapterTime: 1:53.424(6672)
