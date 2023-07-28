@@ -1,4 +1,4 @@
-RecordCount: 8568
+RecordCount: 8787
 
 console load StrawberryJam2021/4-Expert/Vina
    1
@@ -58,17 +58,6 @@ console load StrawberryJam2021/4-Expert/Vina
    1
   10,R,D,X
    1,L
-#   1,L
-#   6,R
-#   4,L
-#  15,R,U,X
-#   1,L,J,G
-#   2,R,J
-#   9,L,J
-#   3,L,K,G
-#   1
-#   1,J,G
-#   7,L
   27,R
   15,U,Z
    1,L,J,G
@@ -77,17 +66,17 @@ console load StrawberryJam2021/4-Expert/Vina
   14,R,J
   20,R,U,X
   34,R
-  11,R,D,X
-  18,R,J
-  15,R,U,Z
-   4,R
-  15,U,X
-  15,L,U,C
-   6,L
-  13
-  18,R
-  22,R,J
-   2,J
+  14,R,D,X
+  10,R,J
+   3,R
+   3
+  18,R,U,X
+  15,U,C
+  15,L,U,X
+   7,L
+  28,R
+  21,R,J
+   3
   15,R,Z
   17,U,X
   52,R
@@ -299,19 +288,24 @@ console load StrawberryJam2021/4-Expert/Vina
   15,L,D,X
   40,L
   18,L,U,X
-  22,L,U,C
+  15,L,U,C
+   7
   11,L
   14,L,D,X
-  18,L,J
-  20,L,U,X
-  40,R
+  16,L,J
+  15,L,U,X
+  46,R
   15,R,U,Z
+   2,R
   18,U,X
    3,R
-  22,R,C
-  15,R,U,X
-  15,L,U,C
-  14,U,X
+  20,R,X
+  12,R,U,C
+   1,L,J,G
+   2,L,K,G
+  13,U,Z
+   2,R,J
+   9,U,X
   40
 
 #lvl_Vina-06
@@ -377,25 +371,29 @@ endrepeat
   15,R,U,Z
   49,R
   24,R,U,X
-   7,J
+   6,J
+   1
    7,R,Z
    1,R,J
    6,R,K,G
-   9,R
-   1,R,J
-  10,R,D,X
+   8,R
+   7,R,J
+   5,R,D,X
   40
 
 #lvl_Vina-07
-   2,R,J
-   4,R
-   1,R,J
-  14,R,D,X
-   8,R,J
-  14,R,U,Z
+   7,R,D,X
+   1,R,K,G
+   8,R,J,G
+  11,R
+  12,R,U,X
    1,L,J,G
-   7,R,J
-  15,R
+   4,R,J
+   3,R
+   5
+   1,R
+   1,J
+   1
   18,R,X
   18,L,C
   15,U,X
@@ -420,11 +418,10 @@ endrepeat
   15,L,X
   22,D
    4,L,D
-  10,L,J
-   1,J
-   2,L,J
+  12,L,J
    2,J
    1,L,J
+   1,J
   15,U,X
    1,R
    2,L
@@ -434,26 +431,26 @@ endrepeat
    1,K
   12,R,K
    8,R
-   1
+   1,J
    3,R
    1,R,J,G
    6,R,K,G
    7,R
-   2,R,J
-   5,R
-   6
-  29,L
-  18,U,X
-  31,R
-  15,U,X
+   7,R,J
    2,R
+   9
+  28,L
+  14,U,X
+  37,R
+  15,U,X
   14,R,D,C
    1,R,J
    9,R,D,X
    1,R,J
   10,R
-  22,R,J
-   4,R
+  18,R,J
+   4,J
+   4
   15,U,X
   15,L,U,C
   10,L
@@ -464,14 +461,16 @@ endrepeat
   18,U,X
    8,R
   15,R,D,C
-   5,R
-  16,R,U,X
-   9
-  15,R
+   2,R
+   2
+  15,R,U,X
+   6
+  17,R
   15,U,X
-   3,R
+   2
+   1,R
   19,L
-  21,U,X
+  20,U,X
   43,R
   18,R,Z
    3,R
@@ -658,4 +657,4 @@ repeat 7
    2,R,D
 endrepeat
 
-ChapterTime: 1:53.169(6657)
+ChapterTime: 1:52.897(6641)
