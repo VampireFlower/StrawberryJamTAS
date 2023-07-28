@@ -1,11 +1,10 @@
-RecordCount: 16943
+RecordCount: 16956
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
 
 #Start
   36
-
 #lvl_Start
    5,L,D,X
    1,R,J
@@ -34,7 +33,6 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    3,R,J,G
    5,R
   40
-
 #lvl_heartside_oppen_a
    4,R
    3,R,J
@@ -55,7 +53,7 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
   15,D,X
    3,D
    1,L,D
-   3,D
+   2,D
   14,R,Z
   26,R,J
   20,U,X
@@ -90,7 +88,6 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1,R,J
    6,R,D,X
   40
-
 #lvl_heartside_Worldwaker2
    8,R,D,X
    1,R,J
@@ -174,7 +171,7 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1,D,J
   69,O
 #spinner cycle - slime time
-   2
+   0
 ##
    2,R,J
   11,R,Z
@@ -183,7 +180,6 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1,R,J
    8,R,D,X
   43
-
 #lvl_heartside_TiltTheStars
    4,R,D,X
    7,R,J
@@ -258,7 +254,6 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
   12,R,J
   15,R,D,X
   40
-
 #lvl_heartside_Galaksyz
   12,R,J
    6,R
@@ -335,7 +330,6 @@ EndStunPause
    6,R,J,G
    2,R
   40
-
 #lvl_heartside_mmm
    9,R
    1,R,J
@@ -393,7 +387,6 @@ EndStunPause
    4,R,J
    3,R,K,G
   40
-
 #lvl_Crest
    1,R
    4,R,J,G
@@ -442,7 +435,6 @@ EndStunPause
    1,R
   12,R,D,X
   40
-
 #lvl_heartside_Meario
    1,R,D
    1,R,J
@@ -566,7 +558,6 @@ EndStunPause
    1,R
   11,R,D,X
   40
-
 #lvl_heartside_YaGrillRobib
    3,R,D,X
    1,R,J
@@ -626,7 +617,6 @@ EndStunPause
   12,R
    1,R,J
   40
-
 #lvl_heartside_maladroit
   14,R
    1,R,J
@@ -709,7 +699,6 @@ EndStunPause
    1,R,J
    6,R,D,X
   40
-
 #lvl_heartside_pugroy
    4,R,D,X
    1,R,J
@@ -769,7 +758,6 @@ EndStunPause
    1,R,J
   14,R,K,G
   40
-
 #lvl_Ravine
   20,R,D,X
   15,D,C
@@ -782,7 +770,6 @@ EndStunPause
    7,L
    4,L,D,J
   40
-
 #lvl_heartside_astraxel
 #any potential stun route in this room seems pretty miserable
 #might still be fast though
@@ -893,7 +880,6 @@ EndStunPause
    3,R,J,G
    2,R
   40
-
 #lvl_heartside_Tortoise
 #the banger flags keep coming
    3,R
@@ -1003,7 +989,6 @@ EndStunPause
    2,R,J
    1,R
   40
-
 #lvl_heartside_bluexans
    1,R
    1,R,J
@@ -1093,7 +1078,6 @@ EndStunPause
    9,R
    4,R,J
   40
-
 #lvl_heartside_Vamp
    3,R
    7,R,D,X
@@ -1153,7 +1137,6 @@ EndStunPause
    7,R
    2,R,J
   40
-
 #lvl_heartside_Julia
 #kill me
    1,R,J
@@ -1242,7 +1225,6 @@ EndStunPause
    1,R,J
   11,R,D,X
   40
-
 #lvl_Aquifer
    3,R,D,X
    1,R,J
@@ -1277,7 +1259,6 @@ EndStunPause
    1,R,J
    5,R,D,X
   40
-
 #lvl_heartside_sp1029
    5,R,D,X
    1,R,J
@@ -1316,7 +1297,6 @@ EndStunPause
   14,R,D,X
    4,R,J
   40
-
 #lvl_heartside_hennyburgr
    2,R,J
    1,L,K,G
@@ -1370,7 +1350,6 @@ EndStunPause
    2,R
   14,R,D,X
   43
-
 #lvl_heartside_Indecx
    1,R,J
   10,R
@@ -1422,7 +1401,6 @@ EndStunPause
    5,R,J
    7,R,U,X
   40
-
 #lvl_heartside_Nic
    4,R
    1,L
@@ -1539,7 +1517,6 @@ EndStunPause
   13,L,K
    5,U,X
   40
-
 #lvl_heartside_Jan
    1
   13,R,J
@@ -1585,7 +1562,6 @@ EndStunPause
    5,R
    5,U,X
   40
-
 #lvl_Landing
    8,R
   14,L,J
@@ -1617,7 +1593,6 @@ EndStunPause
    8,R,K,G
   14,U,X
   40
-
 #lvl_heartside_citrea
 #FUCK THIS
    5
@@ -1690,7 +1665,6 @@ EndStunPause
   17,R
    9,R,U,X
   40
-
 #lvl_heartside_RadleyMcTuneston
    6,R,U,X
    9,U,C
@@ -1754,7 +1728,6 @@ EndStunPause
    2,R,J
    5,R,U,Z
   40
-
 #lvl_heartside_Goldian
    9,R,U,Z
   11,R
@@ -1805,7 +1778,6 @@ EndStunPause
    2,R,J
   31,R,D,X
   40
-
 #lvl_heartside_jolly
    3,R,D
    1,D
@@ -1870,7 +1842,6 @@ EndStunPause
   11,R
    6,R,X
   40
-
 #lvl_heartside_Viv
    9,R
   33,L,J
@@ -1946,7 +1917,6 @@ EndStunPause
   14,R
    1,R,J
   40
-
 #lvl_Fin
    9,R,J
   14,R,D,X
@@ -2020,4 +1990,4 @@ EndStunPause
   12,U,X
  135
 
-ChapterTime: 4:55.545(17385)
+ChapterTime: 4:55.494(17382)
