@@ -1,4 +1,4 @@
-RecordCount: 9895
+RecordCount: 9976
 
 console load StrawberryJam2021/3-Advanced/Jolly
    1
@@ -288,31 +288,20 @@ EndStunpause
    1,R,J
    1,R
   13,R,U,X
+   1
    1,J,G
-   1,L,J
-   1,R,K,G
-   1,R,J,G
-   1,R
-   1,R,K,G
-   2,R,J,G
+   7
+   1,G
+   2,J,G
    7,R
-   6,R,Z
+   7,R,Z
    1,R,J
-   7,R
-   1,R,J
-  10,R,D,X
-   1,R,J
-   3,R
-   1,R,K
+   3
    4,R
-   1,L,K,G
-   1,L,J,G
-   3,R,J
-   6,R
-   1,R,J
-   4,R,D
-  15,D,X
-   5,R,D
+   1,J
+  14,R,D,X
+   1,R,J,G
+  31,D
   41,R,C
    9,L,Z
    1,R,J
@@ -467,9 +456,10 @@ EndStunpause
    3,R
   13,R,D,X
    2,R,J
-###spinner cycle
-   1
-###
+## spinner cycle
+   0
+#   2
+##
   47,R,Z
   15,R,D,C
   11,R,D
@@ -527,11 +517,10 @@ EndStunpause
   14,R,D,X
    1,R,J,G
    3,L
-   8,R
+   7,R
 StunPause
-   2,R
 EndStunPause
-  25,R
+  28,R
    1,L
    3,R
   12,R,J,G
@@ -554,8 +543,7 @@ EndStunPause
 #lvl_brys3
    6,R
   16,R,U,Z
-   9,L,G
-  33,L,G
+  42,L,G
    2,U,G
    1,J,G
    1,K,G
@@ -639,4 +627,4 @@ EndStunPause
    4,X
  135,D
 
-ChapterTime: 1:26.921(5113)
+ChapterTime: 1:26.887(5111)
