@@ -1,4 +1,4 @@
-RecordCount: 4745
+RecordCount: 4934
 
 console load StrawberryJam2021/4-Expert/rdoggo8
    1
@@ -453,9 +453,9 @@ console load StrawberryJam2021/4-Expert/rdoggo8
   25,L,G
    1,L
   15,U,X
-  15,R
+  12,R
    5,R,X
-  30,R,G
+  31,R,G
    4,L,G
   33,U,X
   21,L,G
@@ -472,31 +472,34 @@ console load StrawberryJam2021/4-Expert/rdoggo8
    8,U,X
   28,G
    1,L
-  10,D
+   9,D
    5,U,X
   18,G
   21,R,D,G
-  10,D,G
-  22,R,D,G
+   9,D,G
+  23,R,D,G
    6,R
-   2
-  14,R,U,X
-  54,R,U,G
-   7,R
-  14,U,X
-  32,G
-  10,R
-   8
-  13,U,X
-  39,L,G
-  23,L,X
-  21,G
    1
-  15,R,D
-  12,D
-   2,R,D
+  14,R,U,X
+  52,R,U,G
+   8,R
+  14,U,X
+  20,G
+   6,L,G
+   4,G
+   1,R,G
+  10,R
+   9
+  13,U,X
+  34,L,G
+  21,L,X
+  26,G
+   1
+   9,R,D
+  17,D
+   3,R,D
    2,D
-  20,R,D
+  19,R,D
   15,R,X
   14,R,Z
    1,R,J
@@ -609,4 +612,4 @@ console load StrawberryJam2021/4-Expert/rdoggo8
    1,L,J
   50,L
 
-ChapterTime: 1:47.865(6345)
+ChapterTime: 1:47.729(6337)
