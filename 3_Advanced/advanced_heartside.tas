@@ -1,4 +1,4 @@
-RecordCount: 16956
+RecordCount: 16988
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -751,24 +751,31 @@ EndStunPause
    4,R
    8,R,D,X
    1,R,K,G
-   6,R
+   5
+   1,R
    1,R,J
    5,R
+   1,R,J
    5,R,D,X
    1,R,J
-  14,R,K,G
+  13,R,K,G
+
   40
+**
 #lvl_Ravine
-  20,R,D,X
+  18,R,D,X
+   1,R,D
   15,D,C
   60,D
-  28,L,D
+  27,L,D
   20,R,D
-  39,L,D
+  40,L,D
    6,L,Z
    1,L,J
    7,L
    4,L,D,J
+#-1f here
+
   40
 #lvl_heartside_astraxel
 #any potential stun route in this room seems pretty miserable
@@ -972,7 +979,7 @@ EndStunPause
   13,R
   10,R,X
 #spinner cycle
-   2
+   0
 #bad spot but w/e
    8,L,J
   18,U,X
@@ -1990,4 +1997,4 @@ EndStunPause
   12,U,X
  135
 
-ChapterTime: 4:55.494(17382)
+ChapterTime: 4:55.443(17379)
