@@ -1,4 +1,4 @@
-RecordCount: 13863
+RecordCount: 14068
  
 console load StrawberryJam2021/3-Advanced/MousseMoose
    1
@@ -67,11 +67,12 @@ console load StrawberryJam2021/3-Advanced/MousseMoose
   60
  
 #lvl_a1
-   5,R,D,X
+   6,R,Z
    1,R,J
    7,R
-   4,R,J
-  10,R
+   1,R,J
+  10,R,X
+   6,R,J
   15,U,X
    1,R
    2,R,J
@@ -108,10 +109,6 @@ EndRepeat
    2,R,J
    4,J
    7,L
-# cycle +4f
-   3
-   1,L
-#
    9,L,J
    3,J
   14,L,Z
@@ -186,9 +183,9 @@ EndRepeat
   18,U,X
   15,U,C
   15,R,X
-   6,R
-#spinner
-   1
+   5,R
+#cycle
+   2
    6,R,Z
    1,R,J
    7,R
@@ -422,9 +419,6 @@ EndStunPause
    1,L,K,G
    1,R
    6,L
- 
-################
- 
    4,Z
    2,L,J
    2,L
@@ -438,18 +432,6 @@ EndStunPause
   17,L,X
    4,R
    2,R,J,G
- 
-#---------------
- 
- 
-#  15,L,Z
-#   5,R,X
-#   1,L,J
-#   6
-#   3,L,J
-#  15,L,X
-#   5,R
-#   4,R,J,G
   14,U,G
   10,J,G
    1,J
@@ -828,4 +810,4 @@ EndRepeat
    1,R,J
   30,R
  
-ChapterTime: 1:31.426(5378)
+ChapterTime: 1:31.375(5375)
