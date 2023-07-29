@@ -1,4 +1,4 @@
-RecordCount: 14446
+RecordCount: 14549
 
 console load StrawberryJam2021/5-Grandmaster/Soloiini
    1
@@ -110,45 +110,54 @@ EndRepeat
    7,R
    6,R,J
   33,U,Z
-  16,R
-   1,J,G
-   3,R,J
-   5,J
-   1,R,J
+  15,R
+  12,U,X
+   9,L,J
+  12,L,G
+   1,K,G
+   7,R
+
+   8,L,Z
+   7,L,K,G
+   5,L
    1,L,J
-   1,R,J
-  13,R,K,G
-  27,L,J
-   1,J
-   6,G
-   7,U,G
-   4,L
-   3,L,J
-  15,L
-   1,L,J,G
-   1,L,K,G
-   6,L
+   6,J
+   1
+   2,R
+   1,R,K,G
    1,L,K
-   8,L
-  12,L,J
-   5,J
-  15,U,X
-   1,L
+   3,R,K
+   1,R,J,G
+   2,L,J
+   1,R,J
+   1,K,G
+   1,L,K
+  11,R,J,G
+   4,L
+   1,L,K,G
+   9,R
    3
-   1,L
-  13,L,J
-   8,L
-   7,L,K
-   1,L
-  12,L,J,G
-   2,J
+   1,R
+   3,L,J
+   5,R,J
+   1,L,J
+   1,K,G
+   1,R,K
+  15,L,J,G
+   1,L,K,G
+   1,L,J,G
+   3,J
+   6,L,J
+   3,J
    5,R,K
   15,U,Z
+   1,R
   15,J
    4,L,J
    3,L,K,G
    1,R,J
-  15,R,K
+  11,R,K
+   4,R
   15,U,X
   10,L,Z
    1,R,J
@@ -168,7 +177,8 @@ EndRepeat
 #lvl_Untapped
    1,J,G
    1,L
-  18
+  12
+   8,D,X
   40
 
 #lvl_Crumbling Bastions (2)
@@ -1327,4 +1337,4 @@ EndRepeat
    1,L,J
   55,L
 
-ChapterTime: 2:55.865(10345)
+ChapterTime: 2:55.219(10307)
