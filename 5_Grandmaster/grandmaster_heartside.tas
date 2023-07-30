@@ -1,4 +1,4 @@
-RecordCount: 34033
+RecordCount: 34126
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -2230,18 +2230,18 @@ endrepeat
    3,J,G
    2
    3,L
-   7,L,J
+   5,L,J
    5,U,X
-  22,G
-   1,R,G
-   1,R,D
-   7,J,G
-   1,K,G
-   6
-   1,L,K
-   3,K
+  13,G
+   9,L,G
+   1,D
+   1,L
+   4
+   1,L
+   4
+   3,L
    5,U,Z
-  56,G
+  58,G
    3,R,G
    6,R,D
    1,K,G
@@ -2285,13 +2285,13 @@ endrepeat
    4,R
   17,G
   10,J,G
-  19,R,J,G
+  18,R,J,G
    1,D
    8,K,G
-   4
+   5
    3,J,G
    1,L,J
-  22,L,K,G
+  23,L,K,G
    2,L
   11,J,G
    8,U,X
@@ -2368,7 +2368,7 @@ endrepeat
    5,R
    2
 ##spinner cycle for flag 1
-   1
+   0
 ##
    8,R,Z
    1,R,J
@@ -2669,4 +2669,4 @@ Repeat 34
    2,L,D
 Endrepeat
 
-ChapterTime: 7:15.676(25628)
+ChapterTime: 7:15.574(25622)
