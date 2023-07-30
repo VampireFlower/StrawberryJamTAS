@@ -1,4 +1,4 @@
-RecordCount: 14549
+RecordCount: 14625
 
 console load StrawberryJam2021/5-Grandmaster/Soloiini
    1
@@ -381,38 +381,27 @@ EndRepeat
    5,R,K,G
    6,R,G
    1,D
-  15,U,X
-  23
-  34,L,G
-   7,R,Z
-   7,R,J
-   5,R
-  24,R,J
-   3
-  15,L,D,X
-   5,D
-  12,R,D,X
-   3,L,J
-  14,L,D,X
-   1,R,J
-   9,R,D,X
-   1,R,J,G
-  11,R
-   6,R,D
-   9,R,J,G
-   1,K,G
-   4,R,K
-   3,L,K
-  10,L
-   5
-   1,L
-   2
+   8,U,X
+  22,R,G
+   9,L,D,G
    1,R
-   7,J,G
-  10
-   3,L
-   8
-   5,R,X
+   2,L,D
+   6,D
+   1,L,D
+  32,L,G
+   4,R,Z
+   8,R,J
+  13,R,G
+   8,R,J,G
+   1,J,G
+  16,G
+   1
+  22,L,D
+   5,R
+  15,R,D,X
+  15,R,D,C
+   4,R,J
+   7,R,X
   31,R,G
    4,L,J,G
    1,L,K
@@ -450,8 +439,9 @@ EndRepeat
    1,L,J
    7,L
    9,R,J
-   5,R,X
-  34,R,G
+   6,R,X
+  31,R,G
+   2,G
    1,D
 Repeat 22
    2,D
@@ -1337,4 +1327,4 @@ EndRepeat
    1,L,J
   55,L
 
-ChapterTime: 2:55.219(10307)
+ChapterTime: 2:54.284(10252)
