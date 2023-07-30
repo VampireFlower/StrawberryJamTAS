@@ -1,4 +1,4 @@
-RecordCount: 4756
+RecordCount: 4771
 
 console load StrawberryJam2021/1-Beginner/Circumplex
    1
@@ -437,12 +437,10 @@ EndStunPause
    3,R,J
   24,R,K,G
   10,U,X
-  23,R
-   4
-  15,R,U,Z
-   9,L
-  46,R,D
-  14
+  29,R
+  15,R,U,X
+  54,R,D
+   7
   15,R,X
   16,L
    8,R
@@ -507,4 +505,4 @@ Repeat 39
 EndRepeat
    1,R,D
 
-ChapterTime: 1:20.444(4732)
+ChapterTime: 1:20.342(4726)
