@@ -1,4 +1,4 @@
-RecordCount: 1779
+RecordCount: 2011
 
 console load StrawberryJam2021/3-Advanced/Julia
    1
@@ -337,17 +337,22 @@ EndStunPause
    5,R,G
    2,R,J,G
   24,R,G
-   1,G
-   5,D,G
-  78,R,U,J,G
-   7,R
-  14,R,U,X
-  36,R,G
-  56,R,D,G
-   4,R,G
-   4,R,D,G
+  80,R,D,G
+  11,R,J,G
+  17,R,G
    1,L
-  15,R,D
+   2,R
+   3,R,J,G
+   1,R,K,G
+   5,R
+   1,R,J
+  17,R
+  10,R,X
+  13,R,J,G
+   1,L,J
+  13,R,J
+   7,R,K,G
+   7,R
    5,R,Z
    2,R,J
    7,R
@@ -367,4 +372,4 @@ EndStunPause
   11,R,U,X
  135
 
-ChapterTime: 0:54.468(3204)
+ChapterTime: 0:53.924(3172)
