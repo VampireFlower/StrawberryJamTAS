@@ -1,4 +1,4 @@
-RecordCount: 7717
+RecordCount: 7755
  
 console load StrawberryJam2021/4-Expert/RedBoule
    1
@@ -11,7 +11,7 @@ EndRepeat
    8
  
 #Spinner cycle [b04]
-   2
+   0
  
 #lvl_a_01
   10,R,X
@@ -279,19 +279,23 @@ EndRepeat
    1,R
    1,R,D
    1,R
-  15,R,J,G
-  12,L,K
-   6,L,J,G
-   1,R,K
+   7,R,J,G
+   4,J
    1,R,J
+   1,L
+   7,K
+   1,J
+  10,K
+   2,R,K
+   1,J
    7,R
    5,R,Z
    3,R,J
    5,R,K,G
    2,R
    1
-   3,R
-   1,R,K
+   2,R
+   2,R,K
    5,R
    1,R,J
    1,R
@@ -769,4 +773,4 @@ EndStunPause
    1,R,K
   50,R
  
-ChapterTime: 1:31.120(5360)
+ChapterTime: 1:31.069(5357)
