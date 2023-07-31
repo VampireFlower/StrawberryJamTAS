@@ -1,4 +1,4 @@
-RecordCount: 6400
+RecordCount: 6791
 
 console load StrawberryJam2021/3-Advanced/BlueXans
    1
@@ -44,18 +44,22 @@ console load StrawberryJam2021/3-Advanced/BlueXans
    9,R
   29,R,U,K,G
    5,U,K,G
+
   42,D,G
-   9,R,D,G
+   6,R,D,G
+   1,D,G
+   2,R,D,G
    1,R
-  39,U,X
-   3,R
-  15,R,D,C
-  24,R
-  10,R,Z
-   7,R,J
+   8,U,X
+  13,L
+  20,R
+  15,R,D,X
+  18,R,D
+  14,R,Z
+   3,R,J
   15,R,D,X
    2,R
-   1,R,D
+   2
   40
 
 #lvl_2
@@ -73,17 +77,18 @@ console load StrawberryJam2021/3-Advanced/BlueXans
    4,R,J
   13,R,G
    1,J,G
-   3,R,D,G
-  40,L,D,G
+   2,R,D,G
+  41,L,D,G
   13,L,D,G
    1,L,U,G
    5,U,G
    1,D,G
    3,U,G
   12,L,U,G
-  12,U,G
-   6,L,U,G
+  13,U,G
+   4,L,U,G
    4,U,G
+   1,L,U,G
 #need to wait for right pink jelly to
 #be in the right place
    1,L
@@ -104,7 +109,8 @@ console load StrawberryJam2021/3-Advanced/BlueXans
   30,L,U,G
    1,U,G
    2,L,G
-  25,R,D,G
+   2,R,D,G
+  23,R,D,G
    2,U,G
    3,D,G
    1,R
@@ -145,7 +151,8 @@ console load StrawberryJam2021/3-Advanced/BlueXans
   13,U,X
   23,L,G
    1,L,D
-  30,L
+  25,L
+   5,R
   11,R,Z
    7,R,J
    1,R
@@ -250,10 +257,9 @@ console load StrawberryJam2021/3-Advanced/BlueXans
   40
 
 #lvl_5
-   1,N
-   1,J
    2
-   6,R,D,X
+   1,J
+   5,R,D,X
    1,R,J
    7,R
    7,R,J
@@ -291,29 +297,28 @@ console load StrawberryJam2021/3-Advanced/BlueXans
   17,L,J
   11,U,X
   19,G
-   6,R,G
+   8,R,G
    1,R
    9,L
-   2
+   2,J
    9,U,X
-  13,G
-  15,L,G
-   1,R
+  12,G
+  16,L,G
+   2,R
   15,R,U,X
-   2,L
-   5,L,D,C
-   4,R,J
-   1,L,K,G
-  10,R,K
-   7,R
-   9,R,K
+   2
+   5,R,Z
    1,R,J
-   8,R,D,X
+   1,R,K
+   1,L,J,G
+   9,R,J
+  10,R
+   4,R,J
   40
 
 #lvl_outro
-   1,R,J
-   9,J
+   3,R,J
+   4,J
   14,R,U,X
    4,J
   14,R,U,X
@@ -321,4 +326,4 @@ console load StrawberryJam2021/3-Advanced/BlueXans
   10,U,X
  135,R,D
 
-ChapterTime: 0:46.920(2760)
+ChapterTime: 0:46.597(2741)
