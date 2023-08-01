@@ -1,4 +1,4 @@
-RecordCount: 8787
+RecordCount: 9077
 
 console load StrawberryJam2021/4-Expert/Vina
    1
@@ -34,33 +34,30 @@ console load StrawberryJam2021/4-Expert/Vina
   15,R,U,X
   16,R
    4,R,Z
-   4,R,J
-   3,R,K,G
-   2
+   3,R,J
    1,R
-   1,R,J,G
-  11,R
-   1
-   7,R,J
-   3,R
-  10,R,D,X
-   4,R,J,G
-   3,R,K,G
-   1,R
+   5,R,K,G
+  10,R
+   1,R,J
+   6,R,D,X
+   3,R,J,G
+   3,R,K
+   5,R
+   2,R,J
+   7,R
+   2,R,J
   40
 
 #lvl_Vina-01
-   4,R
-   1,R,J
-   5,R
-   7,R,J
-   4,R
-   1
+   8,R,J
+   9,R
   10,R,D,X
-   1,L
-  27,R
-  15,U,Z
+  10,R
+   3
+  15,R,U,X
    1,L,J,G
+  11,J
+   5,L,K,G
    7,L
   10,L,X
   14,R,J
@@ -84,21 +81,24 @@ console load StrawberryJam2021/4-Expert/Vina
    1,R,J
    5,R,K,G
    1,R,J,G
-   8,R,J
+   7,R,J
+   1,R
    8,R,D,X
-   2,R,K,G
-   4,R
-   3,R,J
+   1,R,J,G
+   1,R,K
+   5,R,J
    3,R
   40
 
 #lvl_Vina-02
-   6,R
-   3,R,J
    2,R
-   2
-  20,R,U,Z
-  37,R
+   2,R,J
+   1,R
+   1,R,J
+   5,R
+   1,L
+  14,R,U,Z
+  43,R
   13,R,X
   12,R,J
   11,R
@@ -112,7 +112,9 @@ console load StrawberryJam2021/4-Expert/Vina
   28,L
   16,L,D,X
   21,L,J
-  22,L,U,X
+  18,L,U,X
+   3,R
+   1,L
   15,U,C
   12,L
   18,D
@@ -138,20 +140,24 @@ console load StrawberryJam2021/4-Expert/Vina
   29,L
   14,L,Z
    1,L,J
-  11,L,K,G
-   5,L,D,X
-   2,L,J,G
-  17,L
+   4,L,K,G
+   1,R,K
+   2,R
+   3,L
+   4,L,J,G
+   3,L,K,G
+   9,L,D,X
+   1,L,J,G
+   2,L,K
+   5,L
   40
 
 #lvl_Vina-03
-   1,L
-   1,L,J
-   1,L
-   6,L,X
-   2,L,J,G
-  15,L,K,G
-  19,L,J
+   2,L,J
+   5,L
+  10,L,J
+   3,L
+  18,L,J
    2,L,K
   14,K
   21,R,U,X
@@ -159,7 +165,8 @@ console load StrawberryJam2021/4-Expert/Vina
   15,L,U,X
    1
   10,L
-  27
+  25
+   2,L
   10,L,X
    6,R,J
   11,R
@@ -236,71 +243,81 @@ console load StrawberryJam2021/4-Expert/Vina
   14,R,X
   10,R,J
    1,R
-  25,R,J
+  15,R,J
+  10,R
    1,R,D
    4,L,D
    9,L
   10,L,D,X
   11,L,D
    1,D
-   7
-  46,R
+   1
+   6
+  45,R
+   1,R,D
   15,R,U,X
-  13,R
-   4,R,Z
-   5,R,J
+  11,R
+   7,L,Z
+   1,R,J
+   6,R
+   1,R,J
    4,R,K,G
-   7,R
-   2,R,J
+   4,R
+   5,R,D,X
+   4,R,J,G
+   3,R
   40
 
 #lvl_Vina-05
+   3,R
    1,R,J
-   2,R
-   5,R,D,X
-   1,R,J,G
-  17,R
-   2,R,J
+   1,R
+   5,R,J
   15,R,D,X
-  27,R
-   8,L
-   2
-   1,L
-   2
+  18,R,D,C
+   9,R,J
+   3,L,J
   15,U,X
-  15,L,U,C
-   7
-  45,R
-  15,R,U,Z
-  43,R,D
-  19,R,D,X
-  26,R,J
-  15,U,X
-  11,R,C
+  10,L
+  14,U,C
+   6
+  40,R,D
+  14,R,X
+  38,R,D
+  14,R,Z
+   1,R,J
+   6,R
+  28,R,J
+  18,U,X
+  13,R,C
   12,R,J
    3,J
-   2,R,J
+   1,R,J
   15,U,X
   12,L,C
-  22,L,J
+  11,L,J
+  11,L
   18,U,X
   11,L
   15,L,D,X
-  40,L
+  14,L
+  22,L,D
+   6,R
+   2,L
   18,L,U,X
   15,L,U,C
    7
   11,L
   14,L,D,X
-  16,L,J
+  17,L,J
   15,L,U,X
-  46,R
+  47,R
   15,R,U,Z
    2,R
   18,U,X
-   3,R
-  20,R,X
-  12,R,U,C
+   3
+  20,R,C
+  12,R,U,X
    1,L,J,G
    2,L,K,G
   13,U,Z
@@ -375,26 +392,27 @@ endrepeat
    1
    7,R,Z
    1,R,J
-   6,R,K,G
-   8,R
+   1,R,K,G
+   1,R
+   4,R,J,G
+   7,R
    7,R,J
-   5,R,D,X
+   6,R,D,X
   40
 
 #lvl_Vina-07
    7,R,D,X
-   1,R,K,G
-   8,R,J,G
-  11,R
-  12,R,U,X
+   1,R,J,G
+   2,R
+   1,R,J
+   1,R,K
+   9,R
+  14,R,U,Z
    1,L,J,G
+   1,L,J
    4,R,J
-   3,R
-   5
-   1,R
-   1,J
-   1
-  18,R,X
+   7,R
+  19,R,X
   18,L,C
   15,U,X
   28,L,J
@@ -416,7 +434,9 @@ endrepeat
   14,R,U,C
   33,L
   15,L,X
-  22,D
+  18,D
+   1,L,D
+   3,D
    4,L,D
   12,L,J
    2,J
@@ -438,9 +458,9 @@ endrepeat
    7,R
    7,R,J
    2,R
-   9
+   8
   28,L
-  14,U,X
+  13,U,X
   37,R
   15,U,X
   14,R,D,C
@@ -454,26 +474,26 @@ endrepeat
   15,U,X
   15,L,U,C
   10,L
-   3
-   6,L
-  26,L,J
-   3,J
+   4
+   5,L
+  25,L,J
+   4,J
   18,U,X
    8,R
   15,R,D,C
-   2,R
-   2
-  15,R,U,X
+   4,R
+  14,R,U,X
    6
   17,R
   15,U,X
-   2
+   2,R
+   2,L
    1,R
-  19,L
-  20,U,X
-  43,R
+  18,L
+  21,U,X
+  40,R
   18,R,Z
-   3,R
+   7,R
    4,R,V
    1,R,J
    1,R,K,G
@@ -657,4 +677,4 @@ repeat 7
    2,R,D
 endrepeat
 
-ChapterTime: 1:52.897(6641)
+ChapterTime: 1:52.438(6614)
