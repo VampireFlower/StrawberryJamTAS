@@ -1,4 +1,4 @@
-RecordCount: 15527
+RecordCount: 15979
 
 console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    1
@@ -7,6 +7,9 @@ console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
  190
 
 #lvl_cp1_heartside_intro
+#spinner cycle (flag 10)
+   1
+#
   15,U,X
    1,L,U
   15,U,C
@@ -118,20 +121,17 @@ EndRepeat
   40
 
 #lvl_cp1_20_heartside_hyperlife
-   1,L
-  10,L,J
-   4,R,J
-  15,R,U,X
+   6,L,J
+  10,R,J
+  14,R,U,X
    1,R,J,G
-   1,R,K,G
+  10,R
+   1,R,J
    9,R
    1,R,J
-  14,R
-   1,R,J
-  14,R
-   9,R,J
-   3,R,K,G
-   2,R
+   4,R
+  17,R,J
+   1,R,K,G
    5,R,X
   15,R,J
    2,R,K,G
@@ -156,29 +156,32 @@ EndRepeat
   13,R,K,G
   12,R,J,G
    7
-   7,J
-  15,U,X
-  16,R,J
-   1,R,K,G
-   1,R,J,G
-   9,R
+   2,J
    2,R,J
-   5,R,Z
-   1,R,J
+  16,U,Z
+   6,L,J
+  12,R,J
+   1,R,K,G
    7,R
-   8,R,J
+   4,R,Z
+   1,R,J
+   2,R
+   1,R,K,G
+   9,R
+   6,R,J
+   2,R
   15,R,D,X
    1,R,J
-   6,R,D,X
+   1,R
+   5,R,D,X
   40
 
 #lvl_cp1_19_heartside_cellularAutomaton
-   8,R,D,X
+   9,R,D,X
 # movement seems weird
    1,R,J
-   2,R
   15,R,D,X
-   2,R
+   1,R
    1,R,J,G
    1,R,K,G
    7,R
@@ -202,7 +205,8 @@ EndRepeat
    4,R,J
    7,L,J
    7,L
-   8,L,J
+   1,L,J
+   7,J
   16,U,X
   15,U,C
   18,L,J
@@ -303,15 +307,16 @@ EndRepeat
   11,L
    5,L,D,X
    1,R,J
-   7,R
+   3,R
+   1,R,J
+   3,R
    3,R,J
   14,R,U,X
-   2,R,K,G
-   6,R
-   1,R,K
-   4,R
-   7,R,J
-  15,U,X
+   1,R,K,G
+   9,R
+  
+  10,R,J
+  13,U,X
    9,R,J
    1,U
   15,R,U,X
@@ -326,14 +331,13 @@ EndRepeat
   14,R,U,X
    1,R,J,G
   10,R
-   1,R,J
    9,R,D,X
+   1,R,J
   40
 
 #lvl_cp2-17-heartside_NotYourBadeline
-   2,R,D,X
-   5,R,J
-   6,R,K,G
+   8,R
+   4,R,J
   15,R,X
    5,R
   20,R,J
@@ -356,16 +360,14 @@ EndRepeat
   15,U,X
   21,R,J
   15,U,X
-  11,J
-  13,R,Z
-   4,R,J
-   3,R,K,G
+   7,J
+   4
+  12,R,Z
+   5,R,J
+   2,R,K,G
    2,R
   15,R,D,X
-   1
-   7,R
-   3,R,D
-   1,R
+  12,R
    4,R,J,G
    7,R
   12,R,J
@@ -466,6 +468,7 @@ EndRepeat
   10,R,Z
    2,R,J
    1,R
+
 
 #lvl_cp2_15_heartside_frozenflygone_a
   41,R,D
@@ -868,64 +871,60 @@ EndRepeat
    1,R,K,G
    1,R
    1,J,G
-   5,R
+   4,R
    1
+   1,R
    1,L
-   2,L,D,J
-   5,L
-   4,L,J
-   1,R,J
-   1,K,G
-  11,K
-  10,R,Z
-   5,R,J
+   2,L,D
+   4,L,D,J
+   3,L
+   1,K
+   8,J
+   1,R
+  10,R,X
+   3,R,J
+   2,R
    6,R,U,X
-   2,R,K,G
+   1,R,K,G
    1,R,J,G
-   3,R,K,G
-   3,R
-   4,R,J,G
-   8,J,G
-   2
-   5,R
+   1
+   5,R,K,G
+   1
+  10,R,J,G
+   6,R
+   1
    2,R,J
    9,R,D,X
    2,R,J,G
    6,R
    2,R,J
    3,R
-  11,R,U,X
-   6,R,J,G
+  12,R,U,X
+   5,R,J,G
    6,R,K,G
   43
 
 #lvl_cp4_checkpoint
    3,R,K
-   5,R,J,G
+   4,R,J,G
   24,R,K,G
    1,K
-  15,U,Z
-   1,R
-   7,L,U,X
-  17,R
   15,U,X
-   3,R
+   7,L,U,C
+  18,R
+  15,U,X
+   4,R
   11,L,J,G
    1,L
    1,L,K,G
    7,L
+   2,J
+  14,U,X
    1,L,J
-   1,J
-  13,U,X
-   2,L,J
    4,L
    7,R
    8,R,J
-   2,J
-   3,R,J
-# spinner cycle (0-2)
-   0
-# -------------
+   5,J
    1,K
    1,R,J,G
    1,L,J
@@ -2001,4 +2000,4 @@ Repeat 33
    1,L,K
 EndRepeat
    1
-ChapterTime: 4:27.903(15759)
+ChapterTime: 4:27.495(15735)
