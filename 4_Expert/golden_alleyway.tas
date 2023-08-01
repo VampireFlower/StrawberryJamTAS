@@ -1,4 +1,4 @@
-RecordCount: 8006
+RecordCount: 8151
  
 console load StrawberryJam2021/4-Expert/RedBoule
    1
@@ -11,7 +11,7 @@ EndRepeat
    8
  
 #Spinner cycle [b04]
-   1
+   2
  
 #lvl_a_01
   10,R,X
@@ -378,7 +378,7 @@ EndRepeat
    1,R
    3
   40,K
- 
+
 #lvl_b_01
    1
    3,R
@@ -417,32 +417,23 @@ EndRepeat
   10,J
   14,U,X
   27,R,U
-#put exactly 2 seconds of effort into this feather
-#didn't want to mess with featherline since it won't interact with this gate push well
-  25,F,0
-  20,F,270
-  19,F,135.158
-   7,F,90
-   2,G,F,92
-  10,F,115.1
-  18,H,F,115.1
-   6,F,90
-   9,F,40
-   3,H,F,39.7
-   1,R,U
-   9,R
-   2,J
-   6,R,J
-   1,J
-   1
-  11,R,K
-  10,R
-  10,U,X
-  14,R,J,G
+  17,F,0.3
+  17,F,279
+   3,F,265
+  16,F,104.653
+   6,F,90.05
+   1,G,F,90.05
+  22,F,116.866
+   8,G,F,111.567
+   1,F,106.679
+  11,F,47
+  16,G,F,50
+   1,F,42.29
+   1,F,42.29,0.69
+  18,R
    3
-   6,R
-   1,R,J
-  13,R,G
+  15,U,X
+   8,R
    1,R,J,G
    2,R,K,H
    5,R
@@ -789,4 +780,4 @@ EndStunPause
    1,R,K
   50,R
  
-ChapterTime: 1:30.610(5330)
+ChapterTime: 1:29.896(5288)
