@@ -1,4 +1,4 @@
-RecordCount: 15410
+RecordCount: 15424
 
 console load StrawberryJam2021/5-Grandmaster/Soloiini
    1
@@ -63,27 +63,35 @@ console load StrawberryJam2021/5-Grandmaster/Soloiini
    6,R,Z
    1,R,J
    7,R
-Repeat 5
    1,R,J
   14,R,D,X
-EndRepeat
    1,R,J
-  11,R,D,X
+   1,R
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   1,R
+  14,R,D,X
+   1,R,J
+   9,R,D,X
   43
 
 #lvl_Crumbling Bastions (1)
-   3,R,D,X
+   5,R,D,X
    1,R,J
   14,R,D,X
    1,R,J
   14,R,D,X
    1,R,J
-   6,R,D,X
+   3,R
    1,R,J
-   7,R
-  15,R,J
+   3,R
+  16,R,J
   15,U,X
-   2,R
+   1,R
    7,R,J
   11,J
    1,R,K,G
@@ -92,8 +100,11 @@ EndRepeat
    8,J,G
    3,R,J
    7,R
-   1,R,J
-   5,J
+#wait for 2 frames for moonblock cycle
+   2,D
+#
+   1,J
+   5,R,J
   14,R,U,X
    1,R,J,G
    3,L,J
