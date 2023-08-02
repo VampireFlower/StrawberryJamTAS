@@ -1,4 +1,4 @@
-RecordCount: 34126
+RecordCount: 34164
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -1568,18 +1568,20 @@ Set CelesteTAS.SimplifiedBackdrop true
    7,L,D
    1,R
   11,L
-  10,R
+   6,R
+   2
+   2,R
    8,R,X
   21,L
-  17,L,U,Z
+  16,L,U,Z
   25,R
    7,U,X
   24,R
    9,U,X
-  26,R
-   7,R,D,X
+  27,R
+   6,R,D,X
   10,L
-   9
+   8
   15,U,X
   14,L,U,C
   17,R
@@ -1604,7 +1606,6 @@ Set CelesteTAS.SimplifiedBackdrop true
   46,R,K
   14,R,U,X
  349
-
 #lvl_e0-Clarity
 Set CelesteTAS.SimplifiedGraphics false
 Set CelesteTAS.SimplifiedBackdrop false
@@ -1621,7 +1622,6 @@ Set CelesteTAS.SimplifiedBackdrop false
    1,R,J
    5,R,U,X
   40
-
 #lvl_e1_06-tofu
    7,R,U,X
   35
@@ -1671,7 +1671,6 @@ Set CelesteTAS.SimplifiedBackdrop false
    1,R,J
   10,R,D,X
   40
-
 #lvl_e2_05-elio
    4,R
    1,L
@@ -1913,7 +1912,6 @@ Set CelesteTAS.SimplifiedBackdrop false
   18,U,X
   15,U,C
  310
-
 #lvl_e3_04-Linj
    1
   11,L
@@ -1978,7 +1976,6 @@ Set CelesteTAS.SimplifiedBackdrop false
   13,G
   15,L,G
  194
-
 #lvl_f0-Icarus
    4,L,G
   13,K,G
@@ -2099,7 +2096,6 @@ Set CelesteTAS.SimplifiedBackdrop false
    1,R,J,G
    9,R,D,G
   43
-
 #lvl_f2_02-Soloiini
    2,G
   11,R,G
@@ -2368,7 +2364,7 @@ endrepeat
    5,R
    2
 ##spinner cycle for flag 1
-   0
+   2
 ##
    8,R,Z
    1,R,J
