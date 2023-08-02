@@ -1,4 +1,4 @@
-RecordCount: 15527
+RecordCount: 16303
 
 console load StrawberryJam2021/5-Grandmaster/Soloiini
    1
@@ -458,203 +458,84 @@ EndRepeat
    1,R,J
    5,R,D,X
   13,R,G
-
-#crying irl
-#   1,R,J,G
-#  11,R,G
-#  40
-#   1,L
-#   2,R
-#   1,R,J
-#  14,R
-#  12,R,D,J
-#   5,R
-#  14,R,U,X
-#   2,J,G
-#   2
-#   2,K,G
-#   5,R,K
-#   7,R
-#set,Player.Speed.X,1569.9
-#   1,R
-#  10,R,X
-#   2,R,J
-#stunpause
-#   3
-#   1,J,G
-#endstunpause
-#   4,J,G
-#  14,R,U,X
-#  12,R,J,G
-#   5,R
-#  10,R,J
-#  10,R
-#   1,J,G
-#   1,L,J
-#   7,J
-#   7
-#  69,U,X
-#   1,S
-#   1,D,J
-#  69,O
-# 200
-#####
-
-#theo version
-#   1,R,J,G
-#   3,R,G
-#   8,G
-#   1,R
-#   9,R,D,X
-#  40
-#   1,R,D,X
-#  13,G
-#   4,L,J,G
-#  17,G
-#  22,L,J,G
-#   2,G
-#   1,R
-#   3,J,G
-#   1
-#  12,R,U,X
-#   1,J,G
-#   3,J
-#  31,R,J,G
-#   1,R
-#set,Invincible,true
-#  10,R,X
-#   4,R,J
-#   2,R
-#   1,R,K,G
-#   2,R
-#   1,R,J,G
-#Invoke,Player.MoveV,-2
-#   1,R,J,G
-#set,Player.Speed.X,1090
-#  21,R,J,G
-#   1,R,D,J
-#   2,R,K,G
-#  36,R,J,G
-#  15,R,U,Z
-#####
-
    1,R,J,G
-   9,R,G
-   2,G
+   7,R,G
+   4,G
+   1
+   9,R,D,X
   40
 
 #lvl_Shimmering Expanse
-   7,R,G
+   1,R,D,X
+  13,R,G
    1,R,J,G
-   1,G
+  14,R,G
+  12,R,J,G
+   3,G
+   2,R,G
+   1,R,J,G
    4,R,G
-   2,R,K,G
-   8,R,G
-  21,R,J,G
-   1,J,G
-   1,G
-   1,R
-   1,R,K,G
-   3,R
-#set,Player.Speed.X,1200
-#  12,R,U,X
-#   1,J,G
-#   4,J
-#  17,J,G
-#   6,K,G
-#   1,R,K,G
-#   1,R,G
-#   7,G
-#   1
-#   1,R,J
-#   3,R,K,G
-#  24,R,J,G
-#   1,R,D,J
-#set,Player.Speed.X,1008
-#   3,R,K,G
-#  36,R,J,G
-#  14,R,U,Z
-#   1,L,J,G
-# 200,R
-  12,R,U,X
+   1,R,J
+   7,R,K,G
+   6,R,U,X
+   1,R,J,G
+   2
    1,J,G
    4,J
-  17,J,G
-  11,K,G
-  15,R,G
-   6,D,G
-   4,L,D,G
-   4,D,G
-   7,R,D,G
-   1,D,G
-   3,R,D,G
-   1,D
-   6,R,Z
-   1,R,J
-   7,R
-   1,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-   9,R,D,X
-   1,R,J
-   3,R
-   1,R,J
-   3,R
-  15,R,J
-  15,U,X
-   2
-  18,J
-  12,L,K
-   5,L,J,G
+   1
+   1,R
+   3
+  26,R,G
+   8,R,D,G
+   8,R,G
+   2,R,J,G
+   5,R,G
+   1,R,J,G
+  10,R,G
+  16,R,J,G
+   2,R
+  14,U,X
+  23,R,G
+   8,L,J,G
+   1,L,G
+   9,R,J,G
+   2,R,G
+   9,L,J
    7,L
    4,Z
    1,L,J
-   6,L
-   4,R,J
-  67,U,X
-   1,S
-   1,D,J
-  69,O
-   9,L,Z
+   3,L
+   3
+   2,D,J
+   1,L,J
+   1,J
+   5,U,X
+  79,G
+   1,R,J,G
+  10,R,G
+   1,R,D
+  14,L,D,X
    1,R,J
-   7,R
-   1,R,J
-   5,R,D,X
+   8,R,D,X
   13,R,G
    1,R,J,G
-   9,R,G
-   2,R,J,G
-   7,R,G
+  16,R,G
    1,R,J,G
-   7,R,G
+   5,R,G
+   1,R,J,G
+   6,R,G
    1,R,J
-   6,R,D,X
+   7,R,D,X
    1,R,J
    6,R
    1,R,N
    1,R,J
   15,R,X
- 605
+ 599
    2,R
    2
+   3,R
+   3
   11,L,J
   11,L
    4,L,J
@@ -675,32 +556,34 @@ EndRepeat
    6,L
    3,L,J
   15,U,X
-   7,R,J,G
-   7,R
-   5,L,J
-   5,J
-   2,L,J
+   6,R,J,G
+   5,R
+   2
+   3,L,J
+   9,J
   15,U,X
    1,R
-   8,R,J
+   7,R,J
+   1,J
+   1,R,J
    9,J
    1,K,G
-   4,L,K
+   3,L,K
+   1,L
    1,R,J,G
+   1,L,J
    1,R,K,G
    4,L,K
-   2,K
-   1,L,K
-   3,K
+   7,K
    7,R
    1,R,J
    1,R,K,G
-   4,R,J,G
-  12,R,K,G
+   5,R,J,G
+   9,R,K,G
+   2,R
   15,U,X
    1,R,J,G
-   1,R,K,G
-   6,R
+   7,R
    1,S
    1,D,J
   69,O
@@ -1319,4 +1202,4 @@ EndRepeat
    1,L,J
   55,L
 
-ChapterTime: 2:53.621(10213)
+ChapterTime: 2:50.901(10053)
