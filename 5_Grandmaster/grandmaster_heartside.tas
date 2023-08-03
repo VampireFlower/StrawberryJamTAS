@@ -1,4 +1,4 @@
-RecordCount: 34164
+RecordCount: 34286
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -1558,7 +1558,12 @@ Set CelesteTAS.SimplifiedBackdrop true
    1,R,D
    1,D
    1,R,D
-  66,L
+  42,L
+# Everest Core fix:
+# For some reason THIS bumper gives a
+# different speed on core, causing a desync
+#Set Player.Speed 151.79552 -235.28305
+  24,L
   17,U,X
    8,L
    9,L,U,Z
@@ -2580,30 +2585,34 @@ EndStunPause
   49,R,D
  187,R
   71,R,D
- 143,R
-  23,R,D,X
-  28,R
-  18,R,X
-  69,L
+  83,R
+  34,R
+  12,R,X
+   1,R
+  12,R
+  15,R,D,X
+  14,R,D
+  12,R
+  19,R,X
+  69
   13,L,U,X
    1,L,J,G
-   1,L,K,G
-   4,L,J,G
-   8,L,K,G
-  17,L,X
-  69,R
+   3,L,K,G
+   9,L,J,G
+  18,L,X
+  69
   13,R,U,X
    1,R,K,G
    4,R,J,G
    8,R,K,G
   18,R,X
-  69,L
+  69
   13,L,U,X
    1,L,J,G
    4,L,K,G
    8,L,J,G
   18,L,X
-  47,R
+  47
   17,R,U,X
    1,R,J,G
    2,J
@@ -2663,6 +2672,6 @@ EndStunPause
 Repeat 34
    2,R,D
    2,L,D
-Endrepeat
+EndRepeat
 
-ChapterTime: 7:15.574(25622)
+ChapterTime: 7:15.404(25612)
