@@ -1,4 +1,4 @@
-RecordCount: 28487
+RecordCount: 28630
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -7,41 +7,31 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
  190
 
 #lvl_a00_intro1
-  10,L,Z
-   2,L,J
-   4,L
-   2,L,J
-   7,L
-  14,R,D,X
+   6,R,Z
    1,R,J
-   5,R,D,X
-   2,R,J,G
-   1,R,K,G
-   3
-   2,R
-   2,R,K
-   3,R
-   1
-   1,R
+   7,R
    1,R,D,J
-   1,R
-   1
-# Can get 436 but probably doesnt matter
   15,R,D,X
-   5,R,D
+   5,R
    1,R,J
    1,R,K
    1,R,J
-   2,R,K,G
-   4,R,J
+   1,R,K
+   1,R,J
+   5,R,K
    5,R,D,X
-   1,R,J,G
+   2,R,J,G
+   4,R
+   2,R,J,G
    5,R
-   1,R,J,G
-  11,R
+   1,R,J
+   4,R
+  10
+repeat 3
    5,R,X
-   3,R,C
-  21,R
+   5,R,C
+endrepeat
+   5,R
 
 #lvl_a00_intro2
    1
@@ -418,13 +408,22 @@ EndRepeat
   48,R,X
    4,R,J
    1,R,K
-   6,R
-Repeat 6
+   1,R
+   5,R,X
+   1,R
+   5,R,X
    5,R,C
+   1,R
+Repeat 2
    5,R,X
+   5,R,C
 EndRepeat
+   2,R
+Repeat 3
    5,R,X
-   3,R,C
+   5,R,C
+EndRepeat
+   3,R,X
 
 #lvl_b00_intro
    6,R,K
@@ -724,7 +723,7 @@ EndRepeat
   21,R,D
   12,R,Z
 ## Spinner cycle [b04_powerav]
-   0
+   1
 ##
   45,R,X
   15,U,C
@@ -1036,10 +1035,10 @@ EndStunPause
   15,U,Z
   10,L,J,G
    7,L
-   1,D,J
-#potential -3f to exit from spamming dash during portal, but can't resync
-   5
-  27,X
+   2,D,J
+   5,X
+   5,C
+  19
 
 #lvl_c00_intro
    5,L
@@ -1050,17 +1049,15 @@ EndStunPause
    3,L,J,G
    1,L
    4,L,K,G
-   6,L
-   1,R
-   1,R,J
-   2,L,J
+   4,L
+   3
+   2,R,J
   14,U,X
-  13,J
-   5,L
-   1,J
+  17,J
+   1,K
    1
    6,L
-   3,L,J
+   4,L,J
   14,U,X
    8,J
    1,R
@@ -1589,7 +1586,7 @@ EndRepeat
 #lvl_d00_intro
    4,R,Z
 ## Spinner cycle [d01_ru]
-   1
+   0
 ##
   13,L,V
    1,R,J
@@ -1618,36 +1615,39 @@ Endstunpause
    6,R
    4,R,J
    3,R
-   6,R,U,Z
+   7,R,U,Z
 Stunpause
-   5,R,U,Z
+   4,R,U,Z
    1,J
-Endstunpause
    1,K,G
+Endstunpause
   22,R,K
    1,R
    2,R,J,G
    7,R
 ## Lightning cycle [d02_lethargicdoggo]
-   0
+   1
 ##
    4,X
-  11,R,J
-   5,R
+  16,R,J
    1,K,G
    7,R
-   9,L,Z
+   5,L
+   5,L,Z
    1,R,J
    4
-   2,R
-  12,R,J
+   1,R,J
+   1,J
+  10,R,J
   15,R,D,X
+  12,R,J
+   6,R
+   4,R,J
+  20,R,D,G
+  11,R,G
    2,R
-  21,R,J
-  34,R,U,J,G
-   4,R
-  12,R,U,X
-   3
+  13,R,U,X
+   5
    5,U,X
   21,R,G
    1,R,D
@@ -1677,8 +1677,8 @@ Endstunpause
   10,L,G
   15,D
    9,U,X
-  22,G
-  17,L,G
+  23,G
+  16,L,G
    1,L
   15,L,X
    8,L
@@ -1689,9 +1689,9 @@ Endstunpause
    1,R
   16,U,X
   15,R,U,C
-  34,R,D
+  35,R,D
 # I did not test if this was faster
-  13,R,X
+  12,R,X
   25,R,U,G
    1,R
    8,L,D,X
@@ -1803,7 +1803,10 @@ StunPause
    6,R,D
 EndStunPause
   10,R,D,J
-   5,R
+stunpause
+   2,R
+endstunpause
+   3,R
    3,R,J
   14,R,U,X
    2
@@ -2061,7 +2064,6 @@ EndStunPause
    9,R
   14,R,J
   26,R,D,X
-
    6,R
    1,R,J
    4,R,X
@@ -2076,8 +2078,7 @@ EndStunPause
    4
    3,J
    4
-   5,R,D,X
-   9,R,D,X
+  14,R,D,X
    7
    1,L,J
   12,R,U,X
@@ -3400,4 +3401,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 7:57.615(28095)
+ChapterTime: 7:57.258(28074)
