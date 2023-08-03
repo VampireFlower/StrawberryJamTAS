@@ -1,4 +1,4 @@
-RecordCount: 28292
+RecordCount: 28364
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -414,7 +414,14 @@ EndRepeat
   13,R,J
   48,R,X
    4,R,J
- 101,R,K
+   1,R,K
+   6,R
+#i have no idea how this works
+Repeat 6
+   5,R,C
+   5,R,X
+EndRepeat
+   8,R,X
 
 #lvl_b00_intro
    6,R,K
@@ -714,7 +721,7 @@ EndRepeat
   21,R,D
   12,R,Z
 ## Spinner cycle [b04_powerav]
-   0
+   2
 ##
   45,R,X
   15,U,C
@@ -1027,6 +1034,7 @@ EndStunPause
   10,L,J,G
    7,L
    1,D,J
+#potential -3f to exit from spamming dash during portal, but can't resync
    5
   27,X
 
@@ -3385,4 +3393,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 7:58.125(28125)
+ChapterTime: 7:57.717(28101)
