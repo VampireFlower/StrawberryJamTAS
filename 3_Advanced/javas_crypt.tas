@@ -1,4 +1,4 @@
-RecordCount: 3399
+RecordCount: 3943
 
 console load StrawberryJam2021/3-Advanced/Tortoise
    1
@@ -13,65 +13,77 @@ console load StrawberryJam2021/3-Advanced/Tortoise
    1,S
    1,D,J
   34
-   4,R,Z
+   6,R,Z
    1,R,J
-   7,R
-   7,R,J
+   3,R
+   1,R,J
+   3,R
+   1,R,J
+  15,R,D,X
    6,R
-   7,R,J
-  42,R,D
-  14,R,D,X
-   3,R,J
-  11,R,Z
+  20,R,D
+   2,D
+   7
+   9,L,J
+   1,R,J
+  11,R,D,X
+   2,R,J
+   2,K,G
+  10,R,Z
 
 #lvl_1
-   2,R,Z
+   3,R,Z
   11,L,J
-  22,R,K
-  14,U,X
-  18,L,J
-  12,R,K
-   1,R,J,G
-   3,L,J
-   5,R,J
-   1,R,K,G
+   2,K,G
+   1,J
+   2,K,G
+  16,R,K
+  15,U,X
    5,R
+  16,L,J
+   2,R,J
+   8,K
    1,R,K
-   6,R
-  15,D,X
+   1,R,J,G
+   2,R,K,G
+   5,R
+   2,R,J
+   3,R
+  13,D,X
 
 #lvl_2
-#You can stunpause here, it looses time(see original wip: https://discord.com/channels/403698615446536203/1074148268407275520/1082416570212552855)
-#vamp's idea in the video was to overclock here and then somehow land crounched in the 1 tile gap on the left of the falling block
-#I could not get this to happen and decided to leave this for later(or never look at it again)
-#Vamps video: https://discord.com/channels/403698615446536203/1074148152317321316/1079990477710954497
+#You can stunpause here, it loses time (see original wip: https://discord.com/channels/403698615446536203/1074148268407275520/1082416570212552855)
+#vamp's idea in the video was to overclock here and then somehow land crouched in the 1 tile gap on the left of the falling block
+#I could not get this to happen and decided to leave this for later (or never look at it again)
+#Vamp's video: https://discord.com/channels/403698615446536203/1074148152317321316/1079990477710954497
 #   2,L
+   2,D,X
    4,L,K
   14,R,U,X
    1,J
    6,L,J
    1,L,K,G
    6,L,J,G
-   5,L,K,G
-   6,L,J,G
-   6,L
+   4,K,G
+   2
+   2,J,G
    1,L,J
    2,L
+   5
+   6,R,Z
    1,L,J
-   8,L
-   1,L,J
-  12,L
-  13,L,U,Z
-   1,R,J,G
-  12,L,J
-   2,K,G
+   1
+   2,J
+   3
    1,J
-   1,K
-   1,R,K
-   5,R
-   5,R,J
-   1,R
-   4,R,Z
+   1
+   5,L,D
+  15,L,J
+   1,L,K
+  12,L,J
+   4,R,K
+   2,R
+   7,R,Z
    1,R,J
    6,R
    5,R,J
@@ -87,7 +99,8 @@ console load StrawberryJam2021/3-Advanced/Tortoise
    9,R,K
   10,R,Z
    1,R,J
-   6,R,G
+   5,R
+   1,R,G
   10,L,Z
    1,L,J
    9,L,D
@@ -174,28 +187,30 @@ console load StrawberryJam2021/3-Advanced/Tortoise
    5,R,J
   10,R
   15,R,U,Z
-  14,L,D
-   2,L
-   2
-  23,L,D
-  15,R,Z
+  15,L
+  15,L,D
   10,D
-   1,R
-   3
-  10,R,D,X
-   1,R,J
-   6,R,K,G
+  15,R,Z
+   3,L
+   1
+   1,L
+   4
+   5,R
+   2,R,D,J
+   3,R
+   7,R,D,J
    5,R,X
-   5,R,J
-   2,R,G
+   4,R,J
+   2,R
+   1,R,G
   10,R,D
    1,R,D,J
   12,R,D
    1,K
   22,L
   13,L,Z
-   1,R,K
-  10,R,D
+   4,R,K
+   7,R
   11,L,D
    1,L,D,J
    5,L
@@ -241,7 +256,7 @@ console load StrawberryJam2021/3-Advanced/Tortoise
   12,R,J,G
    5,R,X
    9,R,K,G
-  88,R,G
+  89,R,G
    1
    7,J
    8,R
@@ -254,9 +269,12 @@ console load StrawberryJam2021/3-Advanced/Tortoise
    4
 
 #lvl_4
-   4,R,J
-   9,R
-   8
+   2,R,J
+   1,R,K,G
+   5,R
+   1,R,J
+   7,R
+   3
   15,U,Z
   15,L,J
    3,L
@@ -298,12 +316,11 @@ console load StrawberryJam2021/3-Advanced/Tortoise
    5,L
    3,L,D,J
    8,U,X
-   7,R,J
-   9,R
-   6
+   6,R,J
+  14,R
    4,R,X
    1,J
-  21
+  23
   14,L,D,C
    1,R,J
   15,R,Z
@@ -342,7 +359,7 @@ console load StrawberryJam2021/3-Advanced/Tortoise
   15,R,D
   13,L,D
   75,O
-   4,D,X
+   4,Z
    2,R,J
   13,R
   38,L,K
@@ -462,4 +479,4 @@ console load StrawberryJam2021/3-Advanced/Tortoise
   16,U,X
  135
 
-ChapterTime: 0:51.884(3052)
+ChapterTime: 0:51.442(3026)
