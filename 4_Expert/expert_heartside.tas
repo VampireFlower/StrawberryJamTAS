@@ -1,4 +1,4 @@
-RecordCount: 28630
+RecordCount: 28631
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -1626,7 +1626,7 @@ Endstunpause
    2,R,J,G
    7,R
 ## Lightning cycle [d02_lethargicdoggo]
-   1
+   2
 ##
    4,X
   16,R,J
@@ -1788,25 +1788,26 @@ Endstunpause
   80,R,G
   28,D,G
    4,G
-   1,D
-   4
+   1,L,D
    1,L
+   2
+   1,L
+   1
   14,L,Z
    1,R,J
    5,R,D,X
   13,R,G
    1,R,D,J,G
-  13,R,D,X
+  15,R,D,X
 ## Cycle in d01_ru
 StunPause
-   2,R,D,X
    6,R,D
+# The last pause could be cut
+# with better lightning drift
+   2,R,D,J
 EndStunPause
-  10,R,D,J
-stunpause
-   2,R
-endstunpause
-   3,R
+   8,R,D,J
+   5,R
    3,R,J
   14,R,U,X
    2
@@ -3401,4 +3402,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 7:57.258(28074)
+ChapterTime: 7:57.088(28064)
