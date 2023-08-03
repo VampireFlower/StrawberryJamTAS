@@ -1,4 +1,4 @@
-RecordCount: 17307
+RecordCount: 17773
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -574,47 +574,66 @@ EndStunPause
    1,R,J
    3,R
   18,R,J
-  12,U,X
-  26,L,J
+  12,U,Z
+  24,L,J
+   1,J
+   1,L
+   3,R,J
    1,R
-  15,R,X
-  15,R,U,Z
-   9,R
+   3
+   1,J
+   2
+  18,R,U,Z
+   5,R
   15,U,X
-   5
-   2,L
-  15,R,Z
-  13,R
-  14,U,X
+   6
+   1,L
+  18,R,J
+  13,U,X
+   1,U,X
   26,L,J
-   1,R
+  12,R,J
   15,R,X
-  15,R,C
-  12,R
-  17,R,U,X
-  23,R,C
-  26,R,U,X
+  11,R
+  15,R,U,C
+  16,R,X
+   4
+   2,R
   26,R,U,C
-  18,R,X
-  20,R
+  26,R,U,X
+  15,R,C
+  23,R
   13,L,D
-   3,L
+   1
+   2,L
   14,R,D,X
   25,R,J
-  34,R,U,X
-  15,D,C
-   4,R
-   7,L
-  18,R
-  13,U,X
-  32,R,J
+  18,R,U,X
+  16,R
+  15,D,X
+   3,R,D
+   4,L,D
+   1
+   1,L,D
+  19,R
+  11,U,X
+  15,R,J
+   8,R
+   9,R,J
   21,R
 #idk
-  26,R,X
+#feels like a frame is 
+#saveable here
+#i cant find it tho
+#movement is real weird
+  15,R,X
+   7,R
    1
+   3,R
   11,R
   18,R,U,C
-   4,R
+   3,R
+   2
    9,R,D,X
    1,R,J
    7,R
@@ -987,7 +1006,7 @@ EndStunPause
   13,R
   10,R,X
 #spinner cycle
-   1
+   2
 #bad spot but w/e
    8,L,J
   18,U,X
@@ -2024,4 +2043,4 @@ EndStunPause
   12,U,X
  135
 
-ChapterTime: 4:54.984(17352)
+ChapterTime: 4:54.678(17334)
