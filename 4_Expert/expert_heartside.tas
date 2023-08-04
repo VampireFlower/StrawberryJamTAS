@@ -1,4 +1,4 @@
-RecordCount: 28631
+RecordCount: 31209
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -31,86 +31,117 @@ repeat 3
    5,R,X
    5,R,C
 endrepeat
-   5,R
+   5,R,X
 
 #lvl_a00_intro2
    1
    1,S
    1,D,J
   34
-   4,R,Z
+   5,R,Z
    1,R,J
-   5,R
-   1,R,J
-   1,R
+   6,R
    9,R,J
    6,R,D,X
    1,R,J,G
-  11,R
+   3
+   9,R
    1,R,J
-   2,R
+   1,J
   15,R,D,X
-   4,R
+   3
+   1,R
    1,R,J
    1,R,K
    1,R,J
    1,R,K
-   7,R
-   3,R,J
+   2,R,J
+   4,R,K,G
   15,R,D,X
-  40,K
+   1,R,J
+  40
 
 #lvl_a01_jackal
-  10,R,J
-   2,R
-  22,R,D,X
-  10,R
-   9
-   6,R,Z
+   2,R,J
+  27,R
+  14,R
+   5
+   5,R,Z
    1,R,J,G
-  20,R,K,G
-   6,K
-   4
-   1,R
-  22,L,D
+  19,R,K,G
+   8,K
+  27
+   1,L
    1,R,J,G
-   8
-   4,R
-   1,R,G
+   7
+   5,G
    3,L,J
-  26,L
-  26,R
-  15,U,X
+   5,L
+   2,L,J
+   9,L
+  10
+  24,R
+  13,U,X
    9,R
   15,U,X
-  27
-   8,R
-   4
+  11
+  16,R
+  11,R
   15,D,X
-  10,L,D
-  10,R,D
-   5
+   3,L
+   4,L,D
+   1,D
+   1,L,D
+  11,D
+   3,R
+   2
   14,R,Z
    6,R,J
-   4,R
-   2,R,J
-   9,R
-   2,R,J,G
-   9,J
+  14,R
+   1,R,J,G
+   8,J
+   1
   21,R,U,X
-   6,L
+   8
+   1
+  20,R
+   6,R,D
    1,R
-   2
-  27,R
-   3
-  13,R
+  12
+   7,R
   14,R,D,X
    1,R,J
-  69,R,D,X
+  67,R,D,X
    4,R,J
   40
 
 #lvl_a02_skunkynator
+#   5,R,J
+#   5,R
+#  40,R,X
+#   4,R,J
+#   7,R,Z
+#   7,R,J
+#  11,R
+#  38,R,D,X
+#  10,R,D
+#  18,R,X
+#  19
+#  14,G
+#   1,L,J
+#   9,L
+#   4,R,X
+#   6,R,D,X
+#   4,R,J
+#  12,R,K
+#   4,R
+#   3
+#   1,R
+#  12,J
+#   9,R,J
+#  15,U,X
+#   4,L
+# 200,R,K
    1,R,J
    9,R
   40,R,Z
@@ -151,35 +182,35 @@ endrepeat
    4,R
   30,R,X
    4,J
-  14,U,X
-  31,R,J
-  14,U,X
-  13,R,J
-  14,U,X
-  13,R,J
-  11,R
-   9,R,Z
-   2,R,J
-   8,R
-   3,R,J
-   3,J
-   8,R
-   1,R,K
-   1,R,J,G
+  15,U,X
    1,J
-  11,R,J
+  18,R,J
+  19,R,U,X
+   4
+  12,L,J
+  18,U,X
+   1
+  20,R,J
+  14,R,Z
+   1,R,J
+   2,R
+   1,R,J
+   5,R
+   6,R,J
+   6,R
+   1,J,G
+  12,R,J
    4,X
    6,R,D,X
    4,R,J
-   1,R,K
-   3,R
+   2,R,K
   15,R,D,X
-  12,R,D
+  14,R,D
   26,R,X
    4,R,J
    7,R,Z
-   7,R,J
-   1,R
+   6,R,J
+   2,R
    2,R,J
    1,R
   39,R,Z
@@ -187,34 +218,35 @@ endrepeat
   19,R,K
   15,R,D,X
    7,R
-   7
-   2,J
-   3
+   2,R,J
    2,R
-   1
+   7,L
+   1,L,J
    6,L
-   4,R,Z
+   6,L,Z
    1,R,J
-   4,R
+   2,R,K,G
+   5,R
+   2
+#lose speed to be able to cb
    1,R,J
   40
 
 #lvl_a03_pansear
-   1,R,J
-   3,R,K,G
-   4,R
-   5,R,X
-   3,R,J,G
-   7,R
-  11,R,J
    1,J
-   3
+   4,R,K,G
+   4,R
+   2,R,J,G
+   4,R
+  16,R,J,G
   22,R,D,X
   23,D,C
   18,L,X
-  21,D,C
+  15,D,C
+   3,L,D
+   3,D
   12,R
-  29,R,X
+  28,R,X
   19,D,C
   18,R,D,X
    2,R
@@ -258,9 +290,10 @@ endrepeat
   10,L
   33,D,X
   10,L,D,C
-   1,R,J
-   4,R
-  17,R,D,X
+   2,R,J
+   3,R
+  15,R,D,X
+   2,R
    8,R,J
   15,R
   26,R,U,X
@@ -279,179 +312,195 @@ endrepeat
 #lvl_a04_agent
   14,R,D,X
    1,R,J
-  17,R,D,X
-   5,R,J
-  25,L,J
- 196,G
+  15,R,D,X
+   1,J
+   7,R,J
+  21,J
+   1,L
+ 164,G
    3,U,G
-   8,J
-   4,K
-  13,R,K
-   6,R,Z
+   6,J
+  13,L
+   7,L,J
+   6,G
+   1,U,G
+   7,J
+   1,K
+  13,J
+   3,R,J
+   7,R,Z
    1,R,J
    7,R
    1,R,J
   14,R,D,X
-   1,R,J
+   2,R,J
+  15,R,D,X
    2,R
-  17,R,D,X
-   6,R
-  27,R,J
-  13,R,U,Z
-   4,R,J
-   7,R,K
-   8,K
+   7,R,J
+  15,R
+  20,R,U,Z
+   8,R,J
+   5,R,K
+   4,K
   15,L,U,X
-   4,L
-  15,L,U,X
-  19,L
+  15,L,U,C
+  18,L
   15,L,X
-  19,L
-# Need to wait exactly 135f after activating first block
-# for the multiboost to align
+  17,L
    1,G
-  12,L,J,G
+   1,L,J,G
+   4,R,J
+   6,L,J
    7,L
-   4,L,Z
+   4,Z
    1,L,J
-  16,L
-  26,D
-   1,L
-Repeat 39
+  31,L
    1
-   1,D
-EndRepeat
-   1,D
-   3,J
-   9
+   2,L
    1,J
-   6
-   1,L
-   6,R,Z
-   1,R,J
+  11
    4,R
-   2,R,D
-   3,R
-   1,R,J
-  10,R,D,X
+  36,G
+   1,D,G
+   1,G
+   1,D,G
+   1,G
+   1,D,G
+   1,G
+   4,U,G
    1,J,G
+  11,K,G
+   1,L,K
+   3,K
+  15,D,X
+   4,Z
+   1,R,J
    1,R,K,G
    1,R,J,G
-   2,R,K,G
-   2,K
-  64,R,D
+   1,R,K,G
+   1,R,J,G
+   7,R
+   2,R,J
+  15,R,D,X
+  12,R,D
+   2,R,J
+  15,R,D,X
+   7,R,J
+  15,R,D,X
+  27,R
+   1,R,J
   40
 
 #lvl_a05_flamecrafter
-   3,R
-   7,R,J
-  11,J
-   3,R,J
-  15,U,X
-  16,L,J
-  13,L,X
-   5,R,J
+  21,R,J
+   2,J
+   1,R,J
+   1,J
+  17,U,X
+  14,L,J
+  12,L,X
+   6,R,J
   15,R,D,X
-  10,D,C
-  13,R,J
-   6,R
-  15,R,U,X
-   9,R
-   4,L,Z
-   1,L,J
-   7,R,J
-  15,L,J
-  14,R,X
+   9,D,C
+  23,R,J
+  18,R,U,X
+  10,R,D,C
+  14,L,J
+   4,X
+  14,L,J
+   1,L
+  11,L,J
+   8,L
    1,L,J
    9,D,X
-   3,L,J
-   9,L
-  14,L,D,X
-   1,L,J
-   9,D,C
-  11,R,J
-  11,L,J
+  22,J
   15,U,X
-   9,R,J
-   9,J
-   5,R,J
+  10,R,J
+   6,J
+   1,R,J
+   6,J
   15,R,X
   15,R,C
   14,R,D
   16,L,D
   10,R,D,X
-  20,R,J
-  30,R,X
-   4,R,J
-  10,R,X
-  26,R,J
-  11,R
-  26,R,Z
-   5,L,X
-   1,R,J
-  10,R,D
-  10,L,D
-   3,R,D
+  21,R,J
+  32,R,X
   10,R,C
-  17,R,J
-   6,R
-  38,R,X
-  15,L,D
-   6,D
-  47,D,X
-  33,R,U,C
-   5,R
-   3,R,K
+   8,R,J
+  13,R
+   4
+  10,R,X
+   3,R,J
    3,J
+   2,R,J
+#need speed between 331 and 334
+#might be able to save a frame
+  14,R,Z
+   1,R,J
+#please find something better here
+  12,R
+   2
+  10,R,D
+   1,R,J
+  10,D,X
+   1,R,J
+  16,R
+   1,R,J
+   7,R
+  41,R,X
+   9,L,D
+   7,D
+  47,D,X
+  37,R,U,Z
+   2,R
+   1,R,J
+   1,L,K
+   2,L
    9,D,X
   13,R,J
   48,R,X
    4,R,J
    1,R,K
-   1,R
-   5,R,X
-   1,R
-   5,R,X
-   5,R,C
-   1,R
-Repeat 2
+   3,R
+Repeat 7
    5,R,X
    5,R,C
 EndRepeat
-   2,R
-Repeat 3
-   5,R,X
-   5,R,C
-EndRepeat
-   3,R,X
 
 #lvl_b00_intro
-   6,R,K
+   8,L
   13,R,D,X
-   3,R,J
+   1,R,J
+   1,R,K,G
+   4,K
+   5,R,K
    1,R
-   2,R,J
-  11,R,D
-  10,L,D,X
-   2,R,J
-Repeat 3
+  15,R,D,X
+   1,R,J
    1,R,K
    1,R,J
-EndRepeat
+   1,R,K
+   1,R,J
    1,R,K
    1,R,J,G
-   2,R,K
-   8,R
-   9,R,J
-  16,R,D,X
+   1,R,K
+   7,R
+   4,R,J
+   1,R
    2,R,J
-   6,R,K,G
-  10,R
-   9,R,U,Z
+   4,R
+   3,R,J
+   5,R
+   2,R,J
+  12,R
+   3,R,J
+   3,R
+   7,R,U,Z
   40
 
 #lvl_b01_stotch
-   6,R,U,Z
+   8,R,U,Z
   12,U,X
    9,R
   15,R,X
@@ -526,13 +575,13 @@ EndRepeat
   11,R,D
   15,R,X
   11,R
-  12,R,C
+  12,R,X
   40
 
 #lvl_b02_alt_alt
-   3,R
-  15,R,X
-  16,R,C
+   3,R,X
+  15,R,C
+  16,R,X
   14,R,Z
    1,R,J
 
@@ -548,46 +597,60 @@ EndRepeat
   14,R,J
   14,R,Z
    1,L,J
-  23,L,D
-   1,R,J
-   1,R
-  13,R,Z
+   4,L
+  15
+   1,L
+   4
+  14,R,Z
    1,R,J
    1,L,K,G
-   3,R,K
-  16,R,D,X
-  19,R,J
-  11,R
-  14,R,U,Z
-   4,J
-  15,L,U,X
-  15,R
-   3,L
-   9,R,Z
-  11,R,J
-  13,R
-   9,L,J
-   6
-  11,R,D
-   9,D
-  15,R,Z
-  14
-   9,L,D
-  17,D
-   1,R
-   1
-   3,L
-   8,R
+  15,R,D,J,X
+   3,R,D,J
+   1,R,D,J
    1,R,J
+   1,R,D,J
+   9,R,J
+  19,R,K
+   4,K
+   1,R,K
+   5,K
+  17,U,X
+   3,J
+  11,L,Z
+   4,R,J
+   9,R,Z
+   8,R,J
+   2,R
+   2,R,J
+   1,R
+   1,R,J
+   3,R
+   1
+   8,L,J
+  19
+   3,D
+   2,R,D
+   1,D
+   1,R,D
+  15,R,Z
+  32,D
+   1,L,D
+   1,D
+   6,L,D
+   7,R,D
+   3,R
+   2,R,J
   10,R,D,X
    1,L,D,X
-   2,R,D,X
-   7,R,J
+   3,R,D,X
+   6,R,J
    8,R
   38,U,G
-   1,J
-   2,K,G
-  13,R,K
+   1,J,G
+   1,K,G
+   1,R,K
+   1,K
+  11,R,K
   14,R,X
    6,R,J
    3,R
@@ -599,46 +662,43 @@ EndRepeat
    1,R,K,G
    3,K
   22,R,K
-  45,R,D,X
-  15,L,C
-  15,D,X
-   6,R
-  20
-   1,R,J
-   5
-   3,J
-   2,R,J
-   2,R
-   1,R,J
-   3,R
+  15,R,D,X
+   4,R,D
+  26,D
+  20,J
+  12
+   9,J
+   6
+   4,J
+   3
   14,L,Z
    1,R,J
-   7,R,D,X
+   6,R,D,X
    1,R,J,G
    1,R,K,G
    1,R,J,G
-   2,R,K,G
-   6
-   8,R
-   9,R,J
+   1,R,K,G
+  12,R
+  16,R,J
   15,R,D,X
-  14,R
-   4,R,J
+  13,R
+   5,R,J
 
 #lvl_b02_alt
-   4,R,J
-  13,R
+   6,R,J
+  14,R
   40
+
 
 #lvl_b03_banana
    6,R
-   1,R,N
-   4,R,J
+   1,D,N
+   4,J
   10,R,Z
    5,R,J
   12,R,U,Z
-  16,R,C
-  15,L,U,X
+  16,R,X
+  15,L,U,C
    9,L,U,Z
   35,R,X
    9,R,K,G
@@ -655,24 +715,28 @@ EndRepeat
   11,R,J
    8,U,X
   17,J
-  13,U,X
+  14,U,X
   36,R,J
-  12,K,G
+   1,G
   12,J,G
   12,K,G
-   2,J,G
-   1
+  12,J,G
   15,U,X
-   5,J
-   9,L,J
-   2,L
-   5,L,Z
-   6,R,J
-   9,R
-   1,R,K,G
-   9,R
+   4,J
+  11,L,J
+   1,K,G
+   1
+   9,R,Z
+   3,R,J
+   4,R
+   1,R,J
+   2,R
+   1,R,J,G
+   1,R
+   1
+   7,R
    9,R,J
-  18,R
+  15,R
   15,R,X
   36,D,C
    2,R,D
@@ -715,7 +779,8 @@ EndRepeat
   33,U,X
    5
   15,R,U,X
-  30,R,C
+  24,R,C
+   6,R
    9
   15,R,D,X
   16,R,D,C
@@ -723,7 +788,7 @@ EndRepeat
   21,R,D
   12,R,Z
 ## Spinner cycle [b04_powerav]
-   1
+   0
 ##
   45,R,X
   15,U,C
@@ -3402,4 +3467,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 7:57.088(28064)
+ChapterTime: 7:55.507(27971)
