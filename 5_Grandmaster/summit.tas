@@ -1,4 +1,4 @@
-RecordCount: 7796
+RecordCount: 8340
 
 console load StrawberryJam2021/5-Grandmaster/math
    1
@@ -296,6 +296,31 @@ console load StrawberryJam2021/5-Grandmaster/math
    3,R
   10,L,D,X
   29,R,J
+## -3f, but...
+#  15,R,U,Z
+#   4,R
+#   5
+#   4,G
+#   2,L
+#   1,R
+#   9
+#   1,G
+#   2,L
+#   1,R
+#  10,D
+#   1,G
+#  10,R,J,G
+#   4,R
+#   7
+#   3,L
+#  10,G
+#   1,R,J
+#  12,R,K
+#   5,R
+#  10,R,K
+#  15,R,U,Z
+#  11,R
+##
   15,R,U,Z
    5,R
    4
@@ -339,26 +364,40 @@ console load StrawberryJam2021/5-Grandmaster/math
    9,R,D
   15,R,X
   15,U,Z
-   8
-   5,L
-  15,D,X
-  19,D
-  15,R,D,X
-   2,D
+   3,L
+   3,R
+   7
+  14,D
+   5
+   1,R
+   1,J
+   5,R
+   3,R,J
+   6,R
   15,R,Z
-  15,R,J
-   5,K,G
-   1,J
-  10,L,J
-   1,J
-  18,U,X
+   3,R,D
+  16,R,D,J
+  13,U,X
+## Cycle skip in -15f (-76f improvement)
+#Set Invincible true
+#  27,R,J
+#   7,K,G
+#   1,L
+#   1,L,J
+#  16,L,K
+#   1,L,J,G
+#  14,L,K,G
+# Current:  0:52.751(3103)
+# Required: 0:52.496(3088)
+##
   25,R,J
    1,J
    1,R,J
-#i love cycles
+# I hate cycles with every cell of my body
    1,G
    1
-  29,G
+  10,G
+  47,G
    1,D,G
    8,J,G
    1,L
