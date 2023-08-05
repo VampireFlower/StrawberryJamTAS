@@ -1,4 +1,4 @@
-RecordCount: 31209
+RecordCount: 31463
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -27,10 +27,10 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1,R,J
    4,R
   10
-repeat 3
+Repeat 3
    5,R,X
    5,R,C
-endrepeat
+EndRepeat
    5,R,X
 
 #lvl_a00_intro2
@@ -63,8 +63,7 @@ endrepeat
 
 #lvl_a01_jackal
    2,R,J
-  27,R
-  14,R
+  41,R
    5
    5,R,Z
    1,R,J,G
@@ -85,8 +84,7 @@ endrepeat
    9,R
   15,U,X
   11
-  16,R
-  11,R
+  27,R
   15,D,X
    3,L
    4,L,D
@@ -102,8 +100,7 @@ endrepeat
    8,J
    1
   21,R,U,X
-   8
-   1
+   9
   20,R
    6,R,D
    1,R
@@ -605,8 +602,7 @@ EndRepeat
    1,R,J
    1,L,K,G
   15,R,D,J,X
-   3,R,D,J
-   1,R,D,J
+   4,R,D,J
    1,R,J
    1,R,D,J
    9,R,J
@@ -2390,8 +2386,7 @@ EndStunPause
   10,R
   22,L,G
    1,D,G
-   1,U,G
-   4,U,G
+   5,U,G
    5,L,X
   12,L,J
    3,R
@@ -2959,70 +2954,80 @@ EndStunPause
    2,R,J
    5,R
    9,L
-  21,U,G
+  18,G
+   5,U,G
    1
+   1,K
    1,J,G
-   5,K,G
+   2,K,G
   15,R,D,X
-   7,R,D
-  12,R,J
-  15,R,D,X
-  37,R,D
-   1,L,D
-   2,R,D
-   1,R,J
-  16,R,U,X
-   1,R,J,G
    7,R
-  10,R,G
-  12,U,G
-   2,J,G
-  14,R,D,X
    6,R,J
-  15,R,D,X
-  26,R,J
-  15,U,X
-  15,R
-  27,R,X
-   1,L,J
-  16,L,D
-  16,D
-   1,R,D
-   1,D
-   1,R,D
-   3,D
    4,R
-  15,R,Z
-  38,L
-  10,L,D,X
-   1,L,J
-   6,L
-  12,D,G
-  14,G
+  15,R,D,X
+  24,R,D
+   7,D
+   5,R
+   1,R,D
+   4,D
    1
+  15,U,X
+   4
+   1,R
+   9
+   1,L
+   2,R
+   7,G
+   3,U,G
+  14,R,Z
+   3,R,J
+  15,R,D,X
+  27,R,J
+  15,U,X
+  16,R
+  26,R,X
+   1,L,J
+  18,L,D
+  10,D
+   7,R,D
+   8,L,D
+  15,R,U,Z
+  16,L,D
+   1
+  11,L
+   1
+   1,L
+   4
+  13,L,D,Z
+   1,L,J
+   5,L
+   1,G
+   3,L
+   1
+   2,G
+  24,D,G
+   2,G
+   1
+   1,K
    1,J,G
    1,K,G
    1,J,G
-  21,R,D,X
-   3,R
+  17,R,D,X
+   1,R
    1,R,D
    1,R,J
-   1
-   4,R
-   4,R,J
-   3,R
+  10,R
   13,R,U,X
-   8,R,J,G
+   7,R,J,G
   40
 
 #lvl_f04_alt
-   5,R,J
+   5,J
   18,U,X
   29,D
    2
    2,D
-   3,R,J
-   4,J
+   7,J
   27,U,X
   70
 
@@ -3467,4 +3472,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 7:55.507(27971)
+ChapterTime: 7:55.320(27960)
