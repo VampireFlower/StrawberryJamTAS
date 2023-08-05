@@ -1,4 +1,4 @@
-RecordCount: 5935
+RecordCount: 5996
 
 console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1
@@ -523,25 +523,26 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1,R,J,G
   14,R
    1,R,J
-  14,R,D,X
+   8,R
+   8,R,D,X
   40
 
 #lvl_start-02-Radley (1)
+   6,R,D,X
    1,R,J
-  14,R,D,X
-   4,R,J
+   4,R
 
 #lvl_hub (3)
-   1,R
-  16,R,J
-   5
+   4,R,J
+  14,R
+   1
   15,R,Z
    1
   10,R,J
    8,L
   25,D
 #key cycle
-  56
+  57
   20,J
   15,U,X
    1
@@ -741,4 +742,4 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1,R,K,G
   32,R
 
-ChapterTime: 1:29.641(5273)
+ChapterTime: 1:29.556(5268)
