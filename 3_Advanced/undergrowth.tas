@@ -1,4 +1,4 @@
-RecordCount: 7158
+RecordCount: 7231
 
 console load StrawberryJam2021/3-Advanced/Nic
    1
@@ -366,7 +366,7 @@ EndStunPause
    8,D,X
    1,L
 ### 06-b Spinner Cycle
-   0
+   2
 ###
    1,J,G
    1,R,J
@@ -557,44 +557,53 @@ EndRepeat
    5,L,Z
    1,R,J
    6,R
-   3,R,J
+   1,R,J
+   2,R
    5,R,D,X
    1,R,J,G
-   5,R,K,G
+   1,R,K,G
+   1,R
    1,R,J,G
-  10,R,K,G
-  11,R
-   8,R,J
-   5,R,K,G
-  15,R,D,X
-   2,R,D
-   2,R,J
+   2,R,K,G
+   6,R
+   1,R,J
+   3,R
+  10,R,J
+   7,R,D,X
+   1,R,J,G
+   1,R,K,G
+   7,R
+   3,R,J
+   7,R,K,G
+   3,R
+  17,R,D,X
+   1,L,J
   40
-
 #lvl_06-b
    2,R,J
 StunPause
-   2,R,J
-   5,L,J
-   5,L
+   6,R,J
+   3,J
 SkipInput 3 1
-  14,U,X
+  15,U,X
    1,L,J
 EndStunPause
    7,R
-  21,D
+  10,D
+   1,L,D
+   8,D
+   2
   17,L
    1,R
    1,L
    1,L,J,G
    7,L
-   7,L,Z
+   6,L,Z
    1,L,J
-   6,L
+   7,L
    1,L,J
    8,L,D,X
   43
-
 #lvl_06-a(1)
    6,L,D,X
    1,L,J
@@ -638,7 +647,6 @@ EndStunPause
    3
   16,U,X
   40
-
 #lvl_07-a
    2,L,J
    9,R,J
@@ -720,7 +728,6 @@ EndStunPause
    3,R,K,G
   15,U,X
   40
-
 #lvl_08-a
   16,J
   14,U,X
@@ -739,4 +746,4 @@ EndStunPause
   14,R,U,X
  135
 
-ChapterTime: 1:27.006(5118)
+ChapterTime: 1:26.989(5117)
