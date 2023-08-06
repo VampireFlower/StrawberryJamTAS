@@ -1,4 +1,4 @@
-RecordCount: 34286
+RecordCount: 35289
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -992,43 +992,60 @@ EndRepeat
    2,R,K
    1,R
   23,R,J
-   8,R,K,G
-   5,R,J,G
-   8,R,K,G
-   7
-  13,J
-   4,K,G
-   3
-   1,L
-   2
-   1,L
-   7,J
-   7,L,J
-   1,J
-
-#ice ball ? keep dash
-#skip dash refill
-   3,R,K,G
-   1,L,K
-   1,R,K
-   1,L,K
-   1,R,K
-   1,L,K
-   1,R,K
-   1,L,K
-   2,R,K
-  15,U,X
-   1,R
-   6,J
-   6,L,J
-   2,L
-   7,J,G
+   1,R,K,G
+   2,L,K
+   5,R,K
+   1,R,J,G
+   3,J
+   8,R,J
+   1,K,G
+   3,R,K
+   1,J,G
    2,R,J
+   1,J
+   1,R,J
    2,J
-   2,R,K
-   4,R
-   2,R,K,G
-  12,R
+   1,L,J
+   6,R,J
+   4,R,K,G
+   1,K
+   2
+   5,L
+   3,L
+   1
+   1,L
+   2,J
+   1,L,J
+   1,R,J
+   2,L,J
+   1,R,K,G
+   3,K
+   1,L,K
+   1,R,K
+   1,L,K
+   1,R,K
+   1,L,K
+   1,R,K
+   1,L,K
+   1,L,K
+   1,J
+  15,U,X
+   3,R
+   3,J
+   4,L,J
+   7,J
+   5,K,G
+   1,L,K
+   3,K
+   1,R,K
+   1,L
+   2,J,G
+   1,R,J
+   3,R
+   1,R,K,G
+   5,R
+   1,R,K
+   6,R
    1,L
    1
    2,L,D,J
@@ -1068,7 +1085,8 @@ EndRepeat
    2,R,K,G
   15,J
    9,R,K
-   3,U
+   1,F,1
+   2,U
    1,K
    1,J
    1,K
@@ -1076,25 +1094,25 @@ EndRepeat
    1,K
    1,L,J
    4,L,K
-   1,L,J
+   1,R,J
    1,L,K
-  11,R,K
-   1,J
-   2,U
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
+   8,R,K
    1,K
-   4,J
-   1,L,K
+   2,R,K
+   1,J
+   1,U
+   1,F,0.1
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   4,R,J
+   1,R,K
    6,L,J
-   7,L,K
-   2,K
-   3,L,K
-   1
-   2,L
+  12,L,K
+   3,L
   27
 AnalogMode Square
    1,F,251.3
@@ -1123,10 +1141,10 @@ AnalogMode Ignore
    2,R
   12,R,J
   14,R,U,X
- 350
+ 346
 
 #lvl_d0-Purity
-  69
+  73
    6,R,Z
    1,R,J
    7,R
@@ -1611,6 +1629,7 @@ Set CelesteTAS.SimplifiedBackdrop true
   46,R,K
   14,R,U,X
  349
+
 #lvl_e0-Clarity
 Set CelesteTAS.SimplifiedGraphics false
 Set CelesteTAS.SimplifiedBackdrop false
@@ -1627,6 +1646,7 @@ Set CelesteTAS.SimplifiedBackdrop false
    1,R,J
    5,R,U,X
   40
+
 #lvl_e1_06-tofu
    7,R,U,X
   35
@@ -1676,6 +1696,7 @@ Set CelesteTAS.SimplifiedBackdrop false
    1,R,J
   10,R,D,X
   40
+
 #lvl_e2_05-elio
    4,R
    1,L
@@ -1917,6 +1938,7 @@ Set CelesteTAS.SimplifiedBackdrop false
   18,U,X
   15,U,C
  310
+
 #lvl_e3_04-Linj
    1
   11,L
@@ -1981,6 +2003,7 @@ Set CelesteTAS.SimplifiedBackdrop false
   13,G
   15,L,G
  194
+
 #lvl_f0-Icarus
    4,L,G
   13,K,G
@@ -2101,6 +2124,7 @@ Set CelesteTAS.SimplifiedBackdrop false
    1,R,J,G
    9,R,D,G
   43
+
 #lvl_f2_02-Soloiini
    2,G
   11,R,G
@@ -2369,7 +2393,7 @@ endrepeat
    5,R
    2
 ##spinner cycle for flag 1
-   2
+   0
 ##
    8,R,Z
    1,R,J
@@ -2674,4 +2698,4 @@ Repeat 34
    2,L,D
 EndRepeat
 
-ChapterTime: 7:15.404(25612)
+ChapterTime: 7:15.302(25606)
