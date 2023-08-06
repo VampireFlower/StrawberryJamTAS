@@ -1,4 +1,4 @@
-RecordCount: 8478
+RecordCount: 8751
  
 console load StrawberryJam2021/4-Expert/RedBoule
    1
@@ -11,7 +11,7 @@ EndRepeat
    8
  
 #Spinner cycle [b04]
-   0
+   1
  
 #lvl_a_01
   10,R,X
@@ -686,59 +686,63 @@ EndRepeat
   21,R,K,G
    3
   10,U,X
-  13,L,J,G
-   4,L
+  17,L,J,G
   13,R
    1,R,J,G
-   8,R
-  14,R,D,X
-  15,R,J
+   4,R,J
+   1,J
+   1,R,J
+  15,R,D,X
+   1,R
+  14,R,D,C
+   7,R,J
    4,R,K,G
   15,R,D,X
-   5,R,D
-   2,R,D,J
-   6,R
-  19,R,K,G
-   9,U,Z
-  23,R,J
-   2,J,G
-   4,K,G
-   1,L,K
-   1,L,J
-  28,L,K
-   2,K
-   2,L,J,G
-   4,R,J,G
-   6,L,J,G
+   3,R,D
+   1,R
+   3,R,D,J
+   3,R
+  12,R,J,G
+   3,R
+   1,L
+   8,K,G
+   4,R,K,G
+  16,U,X,G
+  22,L,J,G
    1,L,K,G
-   2,L,J,G
+   4,L,J,G
    5,L
-  14,L,J
-   5,L,K
-   5,L
-  20,L,K
+   2,L,J
+   2,L
+   3
+   3,L
+   1,K
+   3,L,J,G
+   6,L
    1,L,J
-  10,L
-   2
-  27,R,U,G
+  13,L
+   1,J,G
+   5,L
+   4,L,J
+   2,L
+   1
+  27,R,U
    2,R
 StunPause
-   2,R
 SkipInput,3,1
-  11,R,Z
+  13,R,Z
   12,R,J,G
    5,R
    2,R,J
    1,R
 EndStunPause
-  11,R,J
-  22,R
-   6,R,D
+   8,R,J
+  19,R
+   7,R,D
   14,R,X,G
   27,R,U
- 120,F,92.4
-   1,R
-   3
+ 120,F,92.2
+   4
   14,R,Z
    1,R,J
   11,R,D,X
@@ -777,4 +781,4 @@ EndStunPause
    1,R,K
   50,R
  
-ChapterTime: 1:29.743(5279)
+ChapterTime: 1:28.944(5232)
