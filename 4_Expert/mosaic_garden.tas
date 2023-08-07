@@ -1,4 +1,4 @@
-RecordCount: 2742
+RecordCount: 2878
 
 console load StrawberryJam2021/4-Expert/Scroogle
    1
@@ -283,23 +283,40 @@ console load StrawberryJam2021/4-Expert/Scroogle
    2,R
    1
    1,D
-   2,R
-   2
-   1,R
-   1,L,J,G
-   6
+## multiboost early
+## +4f
+#   2,R
+#   2
+#   1,R
+#   1,L,J,G
+#   6
+#   1,J
+#   1,K,G
+#  10,R,D,X
+#   1,L,J,G
+#   5,L,D
+#  18,R,D
+#   5,R,U,X
+#  43
+#   9,R,U,X
+#   3,R
+#   6,U,X
+##
+   4,R,D
+   1,K
+   1,J
+   6,R
+  11,L,D
    1,J
    1,K,G
-  10,R,D,X
+   6,R,D,X
    1,L,J,G
-   5,L,D
-  18,R,D
-   5,R,U,X
+   4,R,J
+  15,R
   43
 
 #lvl_outro
-  12,R
-   6,U,X
- 135
+  13,R,U,X
+ 135,R,D
 
-ChapterTime: 0:32.776(1928)
+ChapterTime: 0:32.708(1924)
