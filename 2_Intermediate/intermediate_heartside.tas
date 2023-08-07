@@ -1,4 +1,4 @@
-RecordCount: 16571
+RecordCount: 16591
 
 console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1
@@ -664,8 +664,11 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    3,K,G
   14,R,X
 #Spinner cycle
-   0
+   9
 ##
+#waiting more than 2 frames for drift
+#see this message to know of to fix drift issues :
+#https://discord.com/channels/403698615446536203/1074148152317321316/1138079656348758077
    1,S
    1,D,J
   69,O
@@ -701,6 +704,7 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
   17,U,X
   43
 
+#stunpausemode simulate
 #lvl_cp2-4-ice
   40,U,X
   12,R,C
@@ -714,16 +718,17 @@ SkipInput,3,1
    4,R
    7,R,K
    2,R
-EndStunPause
-StunPause
    1,L
-  13,J,G
+endstunpause
+   2,J,G
+stunpause
+  11,J,G
   11,L,K,G
    4,L,J,G
 SkipInput,3,1
-  10,U,X
+   8,U,X
 EndStunPause
-   4,U,X
+   6,U,X
   23,L,G
   27,L,U,G
    8,J,G
@@ -762,10 +767,6 @@ EndStunPause
 #   3
 #------------
 
-
-#+1f of waiting here
-   1
-#
   17,R,U,Z
 StunPause
    4,R
@@ -1447,15 +1448,20 @@ EndStunPause
    2
    5,R
    4,R,J
-   4,R,U,Z
+   6,R,U,Z
 #currently no wait spot
 #for this lightning cycle
 StunPause
    2,R,U
-EndStunPause
-
-StunPause
-   8,R,U
+endstunpause
+   1,S,N
+  10,O
+   1,R,U
+   1,S,N
+  10,O
+   1,R,U
+stunpause
+   4,R,U
    1,R,J,G
    4,R
 EndStunPause
@@ -1709,4 +1715,4 @@ EndStunPause
    5,R,J
   13,R,U,X
  135
-ChapterTime: 4:16.020(15060)
+ChapterTime: 4:15.782(15046)
