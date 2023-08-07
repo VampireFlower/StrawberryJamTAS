@@ -1,4 +1,4 @@
-RecordCount: 16494
+RecordCount: 16571
 
 console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1
@@ -178,9 +178,6 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    2,R
    1
    4,R
-#spinner cycle
-   2
-#
    6,R,Z
    1,R,J
    7,R
@@ -226,31 +223,18 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
   26,R,D
   15,U,X
   15,R,Z
-   5,R
-StunPause
-  12,R
-SkipInput 3 1
-   8,R,D,X
-EndStunPause
-   6,R,D
+   2,R
+   1,S
+   1,D,J
+  69,O
+   4,R,X
   10,R,J
-  14,R
-  14,R,U,X
-   9,R,J,G
-  58,R
-   3,R,D
-   2,R,J
-   5,R,X
-  10,R,J
-   3,R
-   1,R,K
+   4,R
 
 #lvl_cp1-4-ezel
-   1,R,K
-   1,R
-   2,R,K
    2,R
-  10,R,D,J
+   2,R,K
+  11,R,D,J
    1,K
    5,R,Z
    1,R,J
@@ -521,7 +505,7 @@ EndStunPause
    1,R,J
   15,R,D
 #spinner cycle
-   0
+   1
 #
   27,R,X
   40
@@ -680,7 +664,7 @@ EndStunPause
    3,K,G
   14,R,X
 #Spinner cycle
-   2
+   0
 ##
    1,S
    1,D,J
@@ -723,8 +707,6 @@ EndStunPause
    1,R,J
    2,R
   31,R,Z
-#stunpausing save ~300f
-#from intended route
 StunPause
    1,R,Z
 SkipInput,3,1
@@ -732,14 +714,16 @@ SkipInput,3,1
    4,R
    7,R,K
    2,R
+EndStunPause
+StunPause
    1,L
   13,J,G
   11,L,K,G
    4,L,J,G
 SkipInput,3,1
-   8,U,X
+  10,U,X
 EndStunPause
-   6,U,X
+   4,U,X
   23,L,G
   27,L,U,G
    8,J,G
@@ -777,6 +761,11 @@ EndStunPause
 #   9,L
 #   3
 #------------
+
+
+#+1f of waiting here
+   1
+#
   17,R,U,Z
 StunPause
    4,R
@@ -1357,6 +1346,8 @@ EndRepeat
 #spinner cycle
    1,G
 #
+#
+#
    1,J
    1,L,J
    1,K
@@ -1456,11 +1447,15 @@ EndStunPause
    2
    5,R
    4,R,J
-   7,R,U,Z
+   4,R,U,Z
 #currently no wait spot
 #for this lightning cycle
 StunPause
-   7,R,U
+   2,R,U
+EndStunPause
+
+StunPause
+   8,R,U
    1,R,J,G
    4,R
 EndStunPause
@@ -1714,4 +1709,4 @@ EndStunPause
    5,R,J
   13,R,U,X
  135
-ChapterTime: 4:18.264(15192)
+ChapterTime: 4:16.020(15060)
