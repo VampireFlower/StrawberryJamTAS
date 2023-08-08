@@ -1,4 +1,4 @@
-RecordCount: 4066
+RecordCount: 4289
 
 console load StrawberryJam2021/3-Advanced/Meario
    1
@@ -101,11 +101,12 @@ console load StrawberryJam2021/3-Advanced/Meario
    4,L,G
   15,L,J
   28
-  23,R,G
-   3,K
+  20,R,G
+   1,J,G
+   3
   10,R,X
-   4,R,J
-  29,R,K
+   6,R,J
+  28,R,K
   14,R,Z
    1,R,J
   12,R,D,X
@@ -118,22 +119,24 @@ console load StrawberryJam2021/3-Advanced/Meario
   23,R,J
   23,R,U,X
    4,L,J
-   7,L,K
-  13,R,U,X
+   6,L,K
+   4,R,K
+  10,R,X
    4,R,J
    1,R,K
-  16,R
-   1,G
-  21,D,X
-   6,R
+   6,K
+   7
+   1,R,G
+  25,D,X
+   2,R
   16,R,Z
    4,R,J
    9,R,K
-  19,R,U,X
-   6
-   2,L,J
-   1,R,J
-   2,R,K,G
+  23,R,U,X
+   2
+   3,L,J
+   1,R,K,G
+   1,R,J,G
    1,R
   17,R,X
    4,L,G
@@ -185,7 +188,7 @@ console load StrawberryJam2021/3-Advanced/Meario
    4,R,J
    5,R,K
   25,R,D
-  10,L,D
+  10,D
    6,R,D
   15,U,G
    5,K
@@ -194,12 +197,13 @@ console load StrawberryJam2021/3-Advanced/Meario
   19,R,K
   24,R,U,X
   10,L,C
-  13,R,G
-   5,D,G
-  10,R,X
+  14,R,G
+   2,R,J,G
+  10,R,Z
    4,R,J
-  18,R,K
-  17,R,D,X
+  17,R,K
+  15,R,D,X
+   4,R
    1,R,J
    7,R,D,X
   40
@@ -528,4 +532,4 @@ console load StrawberryJam2021/3-Advanced/Meario
   13,R,U,X
  135,R,D
 
-ChapterTime: 1:08.425(4025)
+ChapterTime: 1:08.340(4020)
