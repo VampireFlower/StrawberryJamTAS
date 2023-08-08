@@ -1,4 +1,4 @@
-RecordCount: 9976
+RecordCount: 10130
 
 console load StrawberryJam2021/3-Advanced/Jolly
    1
@@ -456,50 +456,46 @@ EndStunpause
    3,R
   13,R,D,X
    2,R,J
-## spinner cycle
-   0
-#   2
-##
-  47,R,Z
+# spinner cycle
+   2
+#####
+# second spinner cycle in later bubble
+  45,R,Z
+   1,R,J
   15,R,D,C
-  11,R,D
-   1,L,J,G
-   1,K,G
-   1,L,J,G
-   5,R
-   2
-   4,R
-   6,J
-   3,R,J
-  18,U,X
-   1,R
-  15,U,C
-  12,U,X
-  20,R,C
-  15,R,X
-  11,R
-   2
-   1,J
-   1,L,K,G
-  16,R,K
-   6
-  25,L,C
-  15,L,D,X
-  11,L,D
-   3,R,D
+  12,R,D
+   1,L,D
    1,J,G
    1,K,G
-   1,R,J,G
+   1,L,J,G
+   1,R,J
+   3,R
+StunPause
+   5,R
+   2,R,J
+SkipInput,3,1
+  12,U,X
+EndStunPause
+   2,U,X
   14,L
+   4,R
+   1,R,J
+  15,R
+   1
+   1,J
+   6
+   3,L
+   6,L,Z
    1,L,J
-   7,J
+   6,L
+  12,L,J
+   1,L
   18,U,X
   15,R,U,C
   15,R,U,X
-   6,R
-   2,R,J,G
-   8,R
-   8,L
+  10
+   1,R
+   6,L
   14,R,Z
    1,L,J
   11,L,Z
@@ -508,6 +504,9 @@ EndStunpause
    6,R,J,G
    4,R
   13,R,U,Z
+# Spinner Cycle
+   0
+#####
   32,R,X
   15,R,D,C
    6,L,Z
@@ -627,4 +626,4 @@ EndStunPause
    4,X
  135,D
 
-ChapterTime: 1:26.887(5111)
+ChapterTime: 1:26.564(5092)
