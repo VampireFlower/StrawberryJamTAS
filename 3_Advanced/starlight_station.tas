@@ -1,4 +1,4 @@
-RecordCount: 10130
+RecordCount: 10654
 
 console load StrawberryJam2021/3-Advanced/Jolly
    1
@@ -10,51 +10,57 @@ console load StrawberryJam2021/3-Advanced/Jolly
    1,L
    1,L,J
   10,R,X
-   9,J
-   8,R,D
-   6,R,G
-   9,U,G
+   7,J
+   7
+   6,G
+   8,U,G
+   1,G
    1
    1,R,J,G
    1,R,K,G
    1,R,J,G
-   6,R,K,G
-   6,R
+   8,R,K,G
+   5,R
    2,R,J
+   1,R
    1
-   3,R
+   2,R
   13,R,D,X
-  40
+  40,X
 
 #lvl_a1
-   2,R,D,X
-   4,R
+   5,R,D,X
+   1,R
    3,R,D
-   2,R,J
+   2,R,D,J
    5,R
-   5,R,J
-  10,R,U,Z
+   5,R
+  11,R,U,Z
   40
 
 #lvl_a2
    1,L
-   4,J,G
+   5,J,G
    1,R
-  24,R,U,X
-  38,U,G
+  12,R,U,X
    1,J,G
+   7
+   8,G
+  28,U,G
+   2,G
+   1,J
    1,K
    2,L,K
-   1,R,K
-   6,K
-   4
-   1,J,G
+  10,R,K
+   1,R,J,G
    7,R
    1,J
-  11,D
+   2,R
+   9
    6,R,D
    4,D
-   5,R,D
+   4,R,D
+   1,D
   15,R,Z
    2,R
    4
@@ -67,51 +73,54 @@ console load StrawberryJam2021/3-Advanced/Jolly
    7,D,G
    7,G
    2,U,G
-   7,G
+   6,G
+   1,D,G
    5,R,Z
    1,R,J
-   7,R
-   2,R,J
+   6,R
+   1,R,J
+   2,R
   13,R,D,X
-  40
+  40,X
 
 #lvl_a3
+   1,R,D,X
    1,R,J
    7,R
    1,R,J
   14,R,D,X
-   4,R,J
-   1
-  13,R,U,Z
+   2,R,J
+  14,R,U,Z
    1,J
   30,R
    3
   29,L,X
-  15,L,D
-  10,R,D
-   5,D
-   8,L,D
-  18,L,X
-  10,L,D,C
+  13,L,D
+   1
+   1,L,D
+   7,R,D
+  20,L,D
+  14,L,Z
   10,R,J
   10,R
   24,R,D
   20,R,X
    1,G
-   8
+   6
+   2,R,D
   11,G
    1
    1,R,J,G
    1,R,K,G
   18,L
-   3,L,D
-   8,L
+   2,L,D
+   9,L
   15,R,X
   20,L,D
    2,D
-## Spinner cycle [b2]
-   0
-##
+#[b2] spinner cycle
+   1
+###
    9,R,Z
   17,R,J
    3,R
@@ -626,4 +635,4 @@ EndStunPause
    4,X
  135,D
 
-ChapterTime: 1:26.564(5092)
+ChapterTime: 1:26.411(5083)
