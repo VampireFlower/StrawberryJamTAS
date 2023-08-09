@@ -1,13 +1,13 @@
-RecordCount: 5687
-
+RecordCount: 6189
+ 
 console load StrawberryJam2021/3-Advanced/sp1029
    1
-
+ 
 #Start
 #spinner cycle
 #works with 2 cycles so should never be 2
    0
-
+ 
 #lvl_a-01
    9,L,X
    1,R,J
@@ -31,7 +31,7 @@ console load StrawberryJam2021/3-Advanced/sp1029
    4,Z
    2,R,J
   40
-
+ 
 #lvl_a-02
    2,R,J
   22,R,J,G
@@ -40,22 +40,33 @@ console load StrawberryJam2021/3-Advanced/sp1029
    1,L
    7,R
   13,U,X
-  30,R,J,G
-   1,J
-  18,R,U,X
-   3
-  10,R,X,G
-  33,R,D,G
-  21,L
-   9
-  19,R,G
-  10,L,Z
-   7,L,K,G
+  27,R,J,G
+   1,R,J
+  18,R,X
+  15,R,U,C
+   3,L,G
+  15,R,G
+  16,D,G
+  10,R,D,G
+   2,R,G
+   1,L
+   5,R
+   1,R,K,G
+   5,R
+   1
+   1,R
+   3,L
+   9,R,D
+   4,L
+   8,L,Z
+   3,L,J,G
+   1,K,G
+   5,L,K
    2,R,K
    1,J
    8,R,K,G
   40
-
+ 
 #lvl_a-04
    8,R
    8,R,K,G
@@ -87,62 +98,62 @@ console load StrawberryJam2021/3-Advanced/sp1029
    1,R,J
    1,R
   40
-
+ 
 #lvl_a-05
    2,R,J
    8,R
-  19,D,X
-   3,D
-   6,R,D
-   1,D
-   9,R,D
-   1,R,J,G
+  18,D,X
+   2,L,D
+   2,D
+  10,R,D
+   7,R,U,X
    1,R,K,G
-  15,R
-  14,D,X
    2,R,D
-   8,J
+  21,D
+  12,D,X
+   8
   21,L,G
    1,L
-  15,D,X
-  10,R,D
-  10,R,J
-  15,U,X
-   3,L,K,G
    1
+  15,D,X
+   7,D
+  16,L
+  15,U,Z
    3,L,K,G
    1,R
    6,L
-   7,L,Z
-  12,R,J
-   4,R
-  21,R,G
-   1,R
-  11,R,U,X
-   3,L,D,K
-   2,G
-   3,D
-  41,D,G
+   4,R,X
+   1,R,J
+  20,R
+   6,U,X
+  25,R,G
+  13,D,G
+   5,L,D,G
+   9,D,G
    1,L
-  10,R,D
-   1,K
-  11,L
+   6,R,D
+   3,R
+   1,L
+   1,K,G
+   2
+   8,R
    4,R,Z
    2,R,J
-   7,R
+   8,R
   40
-
+ 
 #lvl_a-06 (0)
-   1,R
    1,R,J
-  14,R,D,X
+  13,R,D,X
    1,R,J
-   7,R
-   9,R,J
-   2,J
-  14,U,X
+   3,R
+   1,R,J
+   3,R
+  10,R,J
+   3,J
+  13,U,X
   43
-
+ 
 #lvl_a-07 (0)
    6,R,J
    5,R
@@ -156,98 +167,66 @@ console load StrawberryJam2021/3-Advanced/sp1029
   14,U,Z
    2
    2,L,K,G
-   7,L
-   4,L,J
+   6,L
+   1
+   2,L,J
+   1,J
+   1,L,J
    5,D,X
 #box route loses 12f
 #box route
-#   3,R
-#   7
-#   7,R,D,X
-#   4,L,K
-#  18,L,J,G
-#  17,L,D,G
-#  17,R,J,G
-#   1,L,D,G
-#  16,R,D,G
-#   4,R,G
-#   9,R
-#  15,R,Z
-#  19,L,D
-#  22,L,D,G
-#   1,L,D
-#   7,U,X
-#  21,D,G
-#  12,R,D,G
-#  11,D,G
-#  11,J,G
-#   1,D
-#  10,U,X
-#  14,J,G
-#   9,L,J,G
-#   9,L
-#  10,R,Z
-#   1,L,J
-#  12,L
-#  11,L,U,X
-#  27,L,G
-#   1,L
-#  12,D
-#   5,L,D
-#  18,R,D
-#   6,R,Z
-#   1,R,J
-#   5,R,K,G
-#   2,R
-#   2,R,J,G
-#   4,R
-#   1,R,J
-#   1,R
-#  40
-
-##lvl_a-08
-#   5,R
-#  19,R,D,G
-#   7,L,D,G
-#   6,R,J,G
-#   2,J,G
-#   1,R
-#end of box route
-   7
    3,R
-   7,R,D,X
-  12,L,J
-  17,L,D
-  26,R,D
-   3,R
-  24,R
-  18,D,X
-  13,U,C
-  18,D
-  14,R,D
-   6,L
+   4,R
+   1,R,K,G
+   2,R
+   8,L,Z
+   1,L,K
+  21,L,J,G
+  10,L,D,G
+  35,R,D,G
+   4,R,G
+   9,R
+  15,R,Z
+  19,L,D
+  21,L,D,G
+   1,G
+   1,R
+  11,U,X
+  29,R,G
+   1,R
+   1
+   2,R
+  10,D,X
+   3,L
+   5,R
+  25,R,G
+   3,L,J,G
+   7,L,D,J
+  13,R,Z
+   1,L,J
+   1,L
+   5,L,D,X
+  13,L,G
+  26,L,J,G
+   1,L
   15,D,X
    9,D
-  10,L,D
-  40
-
-#lvl_a-06 (1)
-   6,U,X
-  43
-
-#lvl_a-07 (1)
-   1
-  72,O
-   4,R,Z
-   3,R,J
+   8,R,D
+   3,D
+   7,R,Z
+   1,R,J
+   5,R,K,G
+   2,R
+   2,R,J,G
+   4,R
+   1,R,J
    1,R
   40
-
+ 
 #lvl_a-08
    5,R
   23,R,D,G
    3,L,D,G
-#resync here for box route
    9,L,J,G
    1,R
   15,R,U,X
@@ -275,7 +254,7 @@ console load StrawberryJam2021/3-Advanced/sp1029
    4,R
    7,R,D,X
   40
-
+ 
 #lvl_a-09
    7,R,D,X
    9,R,J
@@ -320,7 +299,7 @@ console load StrawberryJam2021/3-Advanced/sp1029
    1,R,J,G
   14,R,D
   43
-
+ 
 #lvl_a-11
    1,R
    1,R,J
@@ -393,7 +372,7 @@ console load StrawberryJam2021/3-Advanced/sp1029
 
 #lvl_a-13
 #this powerbox is a global cycle for some reason
-#might need to redo from scratch any time you make an improvement
+#might need to redo from scratch any time you make an improvement 
    1,R,J
    4,R
    1,R,J
@@ -404,8 +383,8 @@ console load StrawberryJam2021/3-Advanced/sp1029
    3,R
    7,R,J
   13,R,U,X
-  12,R
+  11,R
    4,U,X
  135,U
 
-ChapterTime: 0:51.476(3028)
+ChapterTime: 0:50.830(2990)
