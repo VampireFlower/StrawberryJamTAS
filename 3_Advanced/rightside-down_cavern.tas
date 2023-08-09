@@ -306,7 +306,6 @@ EndRepeat
    8,R,J
    8,R
    2,R,J
-   0,R,U
   11,U
   11,R,U
    2,L,U
@@ -432,7 +431,6 @@ EndRepeat
   13,R,Z
   10,R,J,G
   26,R
-
   14,L,U,X
    1,R,J
    5,R,U,X

@@ -1,10 +1,11 @@
-RecordCount: 5699
+RecordCount: 5700
 
 console load StrawberryJam2021/3-Advanced/mmm
    1
 
 #Start
   91
+
 #lvl_a00
    6,L,Z
    1,R,J
@@ -70,8 +71,7 @@ console load StrawberryJam2021/3-Advanced/mmm
    2,R,D
    1,R,D,J
    1,R
-   5,R
-   2
+   7,R
   16,L
   26,R
   10,R,J

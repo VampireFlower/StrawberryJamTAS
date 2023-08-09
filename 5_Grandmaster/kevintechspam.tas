@@ -1,4 +1,4 @@
-RecordCount: 7714
+RecordCount: 7716
 
 console load StrawberryJam2021/5-Grandmaster/Todd
    1
@@ -593,7 +593,8 @@ AnalogMode,Ignore
   15,U,X
   15,U,C
   14,U,X
- 171
+ 134
+  37
    3
   18,R,U,C
    3,L,J

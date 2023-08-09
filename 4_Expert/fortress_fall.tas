@@ -241,8 +241,7 @@ EndRepeat
    2
    9,K
   62,D
-   8,R,D
-   1,R,D
+   9,R,D
    3,D
   18,R,Z
    1,L,Z
@@ -268,8 +267,7 @@ EndRepeat
    9,R
    1,R,J
   24,R,D
-   9,D
-   2,D
+  11,D
   20,L
    2,L,D
    2,L,J,G

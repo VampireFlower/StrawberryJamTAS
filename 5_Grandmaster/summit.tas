@@ -1,4 +1,4 @@
-RecordCount: 8639
+RecordCount: 8645
 
 console load StrawberryJam2021/5-Grandmaster/math
    1
@@ -186,7 +186,8 @@ console load StrawberryJam2021/5-Grandmaster/math
    1
    1,R
   16,L
- 356
+ 349
+   7
 
 #lvl_1000M
   11
@@ -266,14 +267,11 @@ console load StrawberryJam2021/5-Grandmaster/math
    4
    1,L,J
   13,L,U,X
-#   5,L,J
-#  12,L,K
-#  13,U,X
-   5,L
-   4,X
-  16,L,J
-  11,U,X
- 307
+   5,L,J
+  12,L,K
+  13,U,X
+ 303
+   4
 
 #lvl_1500M
 #entire room is cycle locked probably
@@ -396,8 +394,7 @@ console load StrawberryJam2021/5-Grandmaster/math
 # I hate cycles with every cell of my body
    1,G
    1
-  10,G
-  47,G
+  57,G
    1,D,G
    8,J,G
    1,L
@@ -445,7 +442,8 @@ console load StrawberryJam2021/5-Grandmaster/math
   15,J
   15,U,X
    1
- 305
+ 301
+   4
 
 #lvl_2000M
   11,R
@@ -540,7 +538,8 @@ console load StrawberryJam2021/5-Grandmaster/math
    8
 #being .025 lower would save a frame
    1,R
- 321
+ 317
+   4
 
 #lvl_2500M
   11,R
@@ -619,7 +618,8 @@ console load StrawberryJam2021/5-Grandmaster/math
   22,J
   15,U,X
    2
- 304
+ 297
+   7
 
 #lvl_2501M
 #BIS messes up wind OoO
@@ -759,7 +759,8 @@ console load StrawberryJam2021/5-Grandmaster/math
   18,U,C
   15,U,X
    1
- 306
+ 298
+   7
 
 #lvl_3000M-00
   59

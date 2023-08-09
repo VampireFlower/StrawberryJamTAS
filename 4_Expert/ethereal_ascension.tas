@@ -2,7 +2,7 @@ RecordCount: 5150
 
 console load StrawberryJam2021/4-Expert/QuantumSpaceman
    1
- 
+
 #Start
  190
 
@@ -146,7 +146,7 @@ console load StrawberryJam2021/4-Expert/QuantumSpaceman
   20,R,X
   21,R,Z
   40
- 
+
 #lvl_a-02
    1
   72,O
@@ -182,7 +182,6 @@ console load StrawberryJam2021/4-Expert/QuantumSpaceman
   13,R
    1,R,J
    2,R
- 
   10,R,X
    5,J
   13,R,J
@@ -469,8 +468,7 @@ EndStunPause
 #might want to accel right further here before grabbing lantern
    7,R
   20,R,G
-  33,R,U,G
-  29,R,U,G
+  62,R,U,G
    1,R
   21,R,X
   15,R,U,C

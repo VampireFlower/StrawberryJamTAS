@@ -108,13 +108,12 @@ console load StrawberryJam2021/1-Beginner/cellularAutomaton
    2,L,K
    4
    1,L
-   1
-   1
+   2
    1,L,D
    1,D
    2,L,D
    1,R,J
-#-1f 
+#-1f
 #Set Player.Speed.X -233
 #Set Player.Position.X 67.49999998
 #   1,K,G
@@ -124,8 +123,6 @@ console load StrawberryJam2021/1-Beginner/cellularAutomaton
   14,L,U,Z
    2,R,J,G
    7,U,X
-#0:12.529(737)
-
   40
 
 #lvl_07

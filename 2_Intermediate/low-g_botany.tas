@@ -316,8 +316,7 @@ console load StrawberryJam2021/2-Intermediate/marlin
 #lvl_6
    2,R,D,X
    1,R,J
-  43,R,D
-   7,R,D
+  50,R,D
    6,R
    8,R,U,Z
    1,J
@@ -348,8 +347,7 @@ console load StrawberryJam2021/2-Intermediate/marlin
   26,D
   43,R,D
    3,D
-   9,R,D,X
-   5,R,D,X
+  14,R,D,X
   50,R,J
   30,R,U,X
    2,R,J,G

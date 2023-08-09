@@ -1,11 +1,11 @@
 RecordCount: 14068
- 
+
 console load StrawberryJam2021/3-Advanced/MousseMoose
    1
- 
+
 #Start
  264
- 
+
 #lvl_intro_fall
 #spinner cycle
    1
@@ -25,7 +25,7 @@ console load StrawberryJam2021/3-Advanced/MousseMoose
    1,R,K
   11,R,D,X
   40
- 
+
 #lvl_intro_a1
    3,R,D,X
    1,R,J
@@ -65,7 +65,7 @@ console load StrawberryJam2021/3-Advanced/MousseMoose
   25,D,Z
    1,R,D
   60
- 
+
 #lvl_a1
    6,R,Z
    1,R,J
@@ -131,7 +131,7 @@ EndRepeat
    6,L
    7,L,J
   10,R,D,X
- 
+
 #lvl_a2
    4,R,D,X
    1,R,J
@@ -194,7 +194,7 @@ EndRepeat
    5,L,J
   10,L
    1,L,J
- 
+
 #lvl_a3
    3,L,J
 StunPause
@@ -259,7 +259,7 @@ EndRepeat
    6,L
    7,L,J
   15,L,D,X
- 
+
 #lvl_a4
    6,L,J
   10,L,D,X
@@ -316,7 +316,7 @@ EndRepeat
    1,L,J
    4,L
    1,L,J
- 
+
 #lvl_a5
    8,J
    1
@@ -382,7 +382,7 @@ EndStunPause
   14,R,D,X
   35
   13,L,Z
- 
+
 #lvl_b1
    2,R,J
   32,R
@@ -499,7 +499,7 @@ EndStunPause
    7,R
    3,R,J
   13,L,D,X
- 
+
 #lvl_b2
    3,L,J
    3,L
@@ -525,7 +525,7 @@ EndStunPause
    7,R
    4,R,J
   11,L,D,X
- 
+
 #lvl_b3
   11,L,J
    1,L
@@ -595,7 +595,7 @@ EndRepeat
   14,R
   14,R,D,J
   11,R,D,X
- 
+
 #lvl_c1
    9,R,D
    1,R,J
@@ -809,5 +809,5 @@ EndRepeat
    4,R,Z
    1,R,J
   30,R
- 
+
 ChapterTime: 1:31.375(5375)

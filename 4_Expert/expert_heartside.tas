@@ -685,7 +685,6 @@ EndRepeat
   14,R
   40
 
-
 #lvl_b03_banana
    6,R
    1,D,N
@@ -694,7 +693,7 @@ EndRepeat
    5,R,J
   12,R,U,Z
   16,R,X
-  15,L,U,C
+ 415,L,U,C
    9,L,U,Z
   35,R,X
    9,R,K,G

@@ -129,8 +129,7 @@ console load StrawberryJam2021/2-Intermediate/Jems
   24,R,J
   44,U,G
   21,R,J,G
-  40,G
-  18,G
+  58,G
    6,R,J,G
    8
   30,R,D
@@ -536,8 +535,7 @@ console load StrawberryJam2021/2-Intermediate/Jems
   40
 
 #lvl_btd-09 (1)
-   7,L
-   1,L
+   8,L
    7,L,D,J
    4,J
    1

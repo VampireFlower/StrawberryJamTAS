@@ -124,7 +124,6 @@ EndRepeat
   39,L,J
    2,L
    1,L,D
-   0,L
    8,K,G
    1,R,K
    1,K
@@ -176,7 +175,6 @@ EndRepeat
    1,R,J
    2,R
    1,R,J
-   0,L
    4,R
   14,L,Z
    1,R,J
@@ -439,8 +437,7 @@ StunPause
    7,R,D
    5,R,D,J
 EndStunPause
-   5,R,J
-   1,R,J
+   6,R,J
    7,R
    3,R,J
   15,R,U,Z
@@ -743,8 +740,7 @@ EndRepeat
    1,K,G
    9
    3,J
-   1,R,J
-   1,R,J
+   2,R,J
    7,R,U,G
   12,J
    2,L,J

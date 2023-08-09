@@ -44,7 +44,6 @@ console load StrawberryJam2021/3-Advanced/BlueXans
    9,R
   29,R,U,K,G
    5,U,K,G
-
   42,D,G
    6,R,D,G
    1,D,G
@@ -78,8 +77,7 @@ console load StrawberryJam2021/3-Advanced/BlueXans
   13,R,G
    1,J,G
    2,R,D,G
-  41,L,D,G
-  13,L,D,G
+  54,L,D,G
    1,L,U,G
    5,U,G
    1,D,G
@@ -109,15 +107,13 @@ console load StrawberryJam2021/3-Advanced/BlueXans
   30,L,U,G
    1,U,G
    2,L,G
-   2,R,D,G
-  23,R,D,G
+  25,R,D,G
    2,U,G
    3,D,G
    1,R
   17,L,U,X
    2,L,J,G
-   7,L
-   1,L
+   8,L
    8,R,Z
    1,L,J
    7,L,D
