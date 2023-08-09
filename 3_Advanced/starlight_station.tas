@@ -1,4 +1,4 @@
-RecordCount: 10823
+RecordCount: 10849
 
 console load StrawberryJam2021/3-Advanced/Jolly
    1
@@ -122,7 +122,7 @@ console load StrawberryJam2021/3-Advanced/Jolly
    1
    1,D
 #Spinner cycle [b2]
-   1
+   0
 #
 
    9,R,Z
@@ -189,12 +189,12 @@ console load StrawberryJam2021/3-Advanced/Jolly
 #but you have to shift the pause accordingly.
 #Waiting for the second spinner cycle is done in a3
    4,R,J
-  13,R,U,Z
-StunPause
-EndStunPause
-   1,R,U,Z
+  14,R,U,Z
   11,R,J,G
-   6,K,G
+#Spinner Cycle
+   3,K,G
+   5
+###
    1,J
    3,L
   15,R,X
@@ -652,4 +652,4 @@ EndStunPause
    2,U,X
   39,L,J
 
-ChapterTime: 1:25.952(5056)
+ChapterTime: 1:25.782(5046)
