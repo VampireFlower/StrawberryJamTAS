@@ -1,4 +1,4 @@
-RecordCount: 10849
+RecordCount: 11506
 
 console load StrawberryJam2021/3-Advanced/Jolly
    1
@@ -124,7 +124,6 @@ console load StrawberryJam2021/3-Advanced/Jolly
 #Spinner cycle [b2]
    0
 #
-
    9,R,Z
   12,R,J
    3,R
@@ -142,105 +141,117 @@ console load StrawberryJam2021/3-Advanced/Jolly
    1,R,J
    4
    1,R,D,J
-   7,R
-   4
-   1,J
-  10
-  15,R,X
-   9
-   4,R,Z
+   8,R
    1,R,J
-   6,R
-   9,R,J
-  40
+  14,R
+  20,R,X
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   6,R,D,X
+  40,X
 
 #lvl_b1
-   1,J
-  10,R,Z
-   5,R,J
-  15,R,D,X
+   8,R,D,X
    1,R,J
-  16,R
-  16,R,D
-  13,L,D,X
+   7,R
    1,R,J
-   4,K,G
-   7
-   1,L
-#overclocked
-   4,R,J
-   2,L,J
-  19
-  34,G
-   2,D,G
+  11,R,D,X
+   3,R,J
    1,R
+   2,R,J
+  26,R,D
+   2,R
+  15
+   9,R,J
+   5,R
+  11
+  42,L,G
+   1
    1,G
-   1,K,G
    1,J,G
    1,K,G
    1,J,G
-  14,R,D,X
-   4
+   1,K,G
+  15,R,D,X
+   3
    2,J
   40
 
 #lvl_b2
-#The first stun works regardless of spinner cycle
-#but you have to shift the pause accordingly.
-#Waiting for the second spinner cycle is done in a3
    4,R,J
   14,R,U,Z
   11,R,J,G
-#Spinner Cycle
-   3,K,G
-   5
-###
-   1,J
-   3,L
-  15,R,X
-  15,R,U,C
-  13,R
-  11,L
-  11,L,Z
-  12,L,J
-   6,L
-   3,L,J
-   1,J
+   4,K,G
+   1,L,K
    2,L,J
- 152,J,G
-   2,D,J,G
-   2,J,G
-   1,D,J,G
-   1,J,G
-   3,U,J,G
-   4,J
+   2
+   8,R,U,X
+   7
+  28,R,U,C
+  11,L
+  14,L,Z
+   1,L,J
+  10,L,D,X
+  10,L,J
+   1,L
+   4,R,J
+   5,R
+   1,R,J,G
+  13,L
+  24,R,G
+  10
+   6,G
+   5,D,G
+   1
+   3,L
+  22,R,D
+   5,R
+   3
+   1,R
+   6
+#0.024 precise x pixel
+   2,L
    1
    1,R
-   1,L,K,G
-   1,L,J,G
-   1,R,J
-  18,R,D,X
-   1
-   3,R,D
-StunPause
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   6,L,G
+   3,U,G
    2,R
-SkipInput,3,1
-   9,R,U,Z
-EndStunpause
-   4,R,U,Z
-   2,J,G
-   5
-   8,R,U,X
-  40
-
-#lvl_b3
-   4,R,U,X
+   1,L
+   1
+   7,G
+#+2f spinner cycle
+   2
+  20,U,G
+   4,G
    1,L,J,G
-   8,R,J
-   2,J
-  59,D
-   5,L,D
-  16,R,D
+   1,K,G
+   1,J,G
+  21,R,D,X
+   2,R
+   1
+StunPause
+   1
+skipinput,3,1
+   9,R,U,Z
+EndStunPause
+   5,R,U,Z
+   6,J,G
+   3
+  50,R,U,X
+  10,L,J,G
+   5,R
+   2,R,J
+   6,R,D
+  54,L,D
+  10,R,D
+   4,R
    6,R,Z
    1,R,J
    7,R
@@ -467,6 +478,7 @@ EndStunpause
    3,R
   13,R,D,X
    2,R,J
+Set,Invincible,false
 # spinner cycle
    2
 #####
@@ -652,4 +664,4 @@ EndStunPause
    2,U,X
   39,L,J
 
-ChapterTime: 1:25.782(5046)
+ChapterTime: 1:25.527(5031)
