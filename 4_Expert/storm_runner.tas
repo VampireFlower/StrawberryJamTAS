@@ -1,4 +1,4 @@
-RecordCount: 4529
+RecordCount: 4609
 
 console load StrawberryJam2021/4-Expert/LethargicDoggo
    1
@@ -349,26 +349,34 @@ EndStunPause
    1,R,J
    1,R
   16,R,D,X
-  37,R,J
-   9,R,D
-  14,R,X
-#Lightning cycle [a-08]
+  26,R,J
+  21,R
+  14,R,Z
+   2,R,J
+#spinner cycle 0
+#   4,R,K,G
+#  13,R,D,X
+
+#spinner cycle 1
+   1,R,K,G
    2
-#
-   3,R,J
-   8,R,Z
-   1,R,J
-   7,R
-   1,R,J
+   4,R,K,G
+  11,R,D,X
+
+#spinner cycle 2
+#   1,K,G
+#   1
+#   4,R,K,G
+#  13,R,D,X
   40
 
 #lvl_a-08
-   6,R,D,X
+   1,R,D,X
    1,R,J
    7,R
   12,R,J
   15,R,D,X
-  24,R,J
+  26,R,J
   18,R,X
   14,R,D,C
    1,R,J
@@ -376,7 +384,7 @@ EndStunPause
    1,R,J
    5,R
    6,R,J
-   9,R
+   8,R
   14,R,U,Z
    1,R,J
    3,R
@@ -386,9 +394,9 @@ EndStunPause
   15,L,D,X
    6,L
   13,R,D,X
-   8,L,J
+   6,L,J
   15,L,D,X
-  26,L,J
+  27,L,J
   17,U,X
   14,G
   14,L,G
@@ -422,8 +430,8 @@ EndStunPause
   15,L,C
    6,L,J
   18,L,U,X
-  13,L
-   3,R
+  14,L
+   2,R
   12,R,Z
    1,R,J
   26,R,U,G
@@ -476,4 +484,4 @@ EndStunPause
   15,U,X
  135
 
-ChapterTime: 1:14.205(4365)
+ChapterTime: 1:14.154(4362)
