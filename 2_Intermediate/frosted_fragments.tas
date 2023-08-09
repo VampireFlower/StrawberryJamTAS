@@ -1,5 +1,6 @@
-RecordCount: 14697
+RecordCount: 17074
 
+#console evalcs Action<float, long> i1 = (float timeRate, long frames) =>{long num4 = Math.Abs(frames);bool flag = frames < 0;float num5 = 0.0166667f * timeRate * (flag ? (-1f) : 1f);for (long num6 = 0L; num6 < num4; num6++){((Level)Engine.Scene).TimeActive += num5;}}
 console load StrawberryJam2021/2-Intermediate/Dooshii
    1
 
@@ -17,15 +18,14 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
    1,R,J
    1,R
   15,R,D,X
-  10,L,D,C
-   5,R,J
-  12,R,U,X
-   1,R,J,G
-   2,R,J
-   1,R,D,K
-   6,R
-  15,R,D,X
+  15,R,C
+   2
+   4,R,Z
+   7,R,J
+   5,R
+   3,R,J
    2,R
+  15,R,D,X
   15,R,C
    4,Z
    7,R,J
@@ -75,12 +75,14 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
   15,R,D,X
    1,R
   10,R,C
-  12,R,K
-   8,J,G
-   2,L,J
-  14,U,Z
-  18,J
-   3,L,K,G
+   6,R,K
+   7,J
+   4,K
+   1,J
+   1,L,K,G
+  16,U,X
+  19,J
+   3,K,G
   40
 
 #lvl_a3v2
@@ -106,24 +108,44 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
   13,R,D
    1,R
    6,R,D
-   1,R
-   8,R,D
-   3,R
    1,R,D
-   2,R
+   7,R,D
+   1,R,D
+   1,R
+   1,R
+   1,R
+   1,R,D
+   1,R
+   1,R
    1,R,J,G
   15,R,K,G
    3,J,G
-   6
-   1,L
-   3,L,J
-   9,J
-  12,R,Z
+   7,R
+   9,R,J
    1,R,J
-   2,R
-  15,R,D,X
+   1,K,G
+   1,R
+   5,R,Z
+   1,R,J
    6,R
-  15,D,C
+   2,R,J
+   1,R
+  13,R,U,X
+   1,K,G
+   1,J
+   1,K
+   5,L,K
+   2,L
+   3
+   4,N
+  15,R,D,X
+   1,L,D
+   3,R,D
+   4,D
+   1,L
+   5,R,D,X
+   1,R,J
+  29,D
   15,R,X
    9,R,U,C
    3,R
@@ -146,6 +168,9 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
   15,R,X
   24,R,C
   14,U,X
+#cycle wait
+   2
+#/cw
   15,U,C
    1,R
   15,R,U,X
@@ -154,79 +179,80 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
    1,R
    1,J
   18,R,J
-   7,R
-   1,R,K,G
-   1,R
+   3,R,J
+   2,R
    1
-   9,R
-   6,R,Z
+   1,R
+   1,R,K,G
+  13,R
+StunPauseMode, Input
+#StunPauseMode, Simulate
+  14,L,D,X
    1,R,J
-   7,R
-   1,D,J
-   6,R,D,X
-  40
+   5,R,D,X
+   1,R,J,G
+  13,R
+   1,R,J
+   5,R,D,X
+  40,J
 
 #lvl_a4v2 (0)
-   3
-   1,R,J
-   3,R
-   1,R,J
-   3,R
-  11,R,J
-   1,L,J
-   1,K,G
+#console evalcs i1(1f,2)
    1,R,K
-   5,U,X
-  10,R
-   1
-  15,L,U,X
-   1
-  35,R,U,C
-  14,R,X
-   8,L
-  18,L,D,X
-  12,R,D,C
-  15,D,X
-   1,D
-  14,R,D,C
-   4,R,J
-  15,R,Z
-  29,R
-  15,R,X
-  16,R
-  10,R,Z
+   7,R
    1,R,J
-   5,R,K,G
-   4,R
-   7,R,D,X
+   2,R
+StunPause
+   5,R
+   9,R,D,K
+EndStunPause
+   5,R
+   2,R,J
+   6,R,J
+   1,R
+   7,R
+  14,R,X
+   2,R,J,G
+   7,R
+   1,R,D,J
+   1,R
+   1
+   6,R,D,X
    1,R,J,G
    2,R,J
   40
 
 #lvl_a5_
-   7,R,J
-   3,R
-  15,R,D,X
-   1,R,D
-   4,R,J
-   3,R
-  14,R,U,Z
-   2,R,J,G
-  18,R,D
+   1,R,J
+   1,J
+   3,R,J
    1,R
-   1,R,J
+   1,R
+   2
   15,R,D,X
-   5,R
-   1,G
    1,R,J
-   9,J
-   2,R
-  26
+   1,R,J
+   1,R,J
+   2,R,J
+  10,R,U,Z
+   4
+   2,R,J,G
+   1,J
+   1,R,J
+   5,R
+  29,R,J
+  15,D,X
+   3,L
+   1
+   1,L
+   1,D
+  20
    1,L
    4
    2,J
    9
-   5,J
+   4,J
+   1,J
    7,R,U,G
    1,K,G
   15,R,K
@@ -292,7 +318,8 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
    7,K,G
    1,J
   10,L,J
-  15,L,U,Z
+  14,L,U,Z
+   1
   12
    1,R,J,G
    1
@@ -378,7 +405,9 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
    1,R,K,G
    2,J,G
    4,R,J
-   5,R
+   4,R
+   1,R
+   0,R,J
    1,L
    1,R,K,G
    1,L,K
@@ -524,7 +553,8 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
    2,R,D
    2
    1,R,D
-   2,R
+   1,R
+   1,R
    1
    1,J
   31,R,J
@@ -536,25 +566,24 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
    1,L,K,G
    3,L,J,G
   13,U,Z
-   8,L,J
-   2,L
+   9,L,J
+   1,L
    1,K,G
-   2
+   1
    1,L
    1
    1,L
    1
    1,L
    3,R
-  10,L,X
-  11,R,J
-   3,R
-   1
+  24,R,J
    1,R
-   2,R,J
   15,U,X
   17,R
-  21,J
+  12,J
+   5
+   2,J
+   1
   11,U,X
   11,U,C
    4,L
@@ -562,7 +591,8 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
    1,L,J
    4,L
    1,J
-   2,L
+   1,L
+   1,L
    1,L,D,J
    7,J
   15,U,X
@@ -691,25 +721,21 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
    6,L
   15,L,D,X
   16,R,D
-   4,R
-   5
+   4,R,D
+  11,D
+   5,L
    1,D
-   6
-   1,L
    1
-   8,L
-   2
-   4,L,Z
+   7,L,Z
    1,R,J
    6,R
-  14,R,J
+  16,R,J
    2,R,K,G
    1,K
    1,J,G
-  20,R,J
-   1
-  14,U,X
-   2,R,J
+  21,R,J
+  13,U,X
+   3,R,J
   11,R
    4,R,X
    3,R,J
@@ -717,9 +743,9 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
    2
    8,L,K,G
    5
-   1,R,K
+   1,K
    1
-   1,R,K
+   1,K
    4,R,Z
    1,R,J
    6,R
@@ -729,29 +755,27 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
    3,R
    9,R,X
    1,R,J,G
-   1,R
    3
-   3,R
-   1,R,J
-   9,R
-   2
-   6,R,Z
-   1,R,J
-   4
-   3,R
-   7,R,J
-   4,R
-  14,R,D,X
-   3,R,D
-   3,L
-  13,R,X
-   2,R,J,G
-   1,J
-   2,R,J
-   7,R,D,Z
-  35,R,J
-   1,J
+   5,R
+   3,R,J
+   8,R,D
+   1,D
    5,R,Z
+   1,R,J
+   6,R
+   7,R,J
+   1,R,J
+   1,R
+   1,R
+  15,R,D,X
+   1,R
+   4,R
+  14,R,Z
+   1,R,J
+  10,R,D,V
+   7,R,J
+  17,R
+  14,R,Z
    1,R,J
    3,R
    1,R,J
@@ -767,31 +791,23 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
    1,R,J
    3,R
   14,R,D,X
+   1,R
+  15,L,J
+  15,D,X
+  14,L,Z
    1,R,J
-  20,G
-  20,D
-   1
-   1,D
-   1
-  14,L,D,Z
-   1,R,J
-  10,R,D,X
-   5
-  22,R,D
-   1,D
-  15,L,D,X
-  26,L,D
-   6,D
-   1
-   1,D
-   4
-   1,L
-   1,L,D
-   1,L
-  10,R,D,X
-   1,R,J
+  39,R,D
+  15,L,D,C
+  15,L,D
+  24,D
    6,R
-   5,R,U,X
+   4,R,Z
+   1,R,J
+   4,R
+   1,R,J
+   1,R
+   1,J
+   1,R
    6,L,C
    5,R,J
    4,J
@@ -820,7 +836,8 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
    1,D
    1,L,D
    1,D
-  18,L,D
+  17,L,D
+   1,L,D
    1
   15,L,X
   15,L,C
@@ -828,7 +845,8 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
    3,D
   20,L,D
    1,L
-  42,L
+  39,L
+   3,L
   14,L,Z
    1,L,J,G
    1,R
@@ -877,4 +895,4 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
    5
   14,R,U,X
  135,D
-ChapterTime: 1:34.231(5543)
+ChapterTime: 1:33.364(5492)
