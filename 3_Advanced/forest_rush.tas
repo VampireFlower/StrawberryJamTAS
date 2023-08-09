@@ -1,11 +1,10 @@
-RecordCount: 5013
+RecordCount: 5699
 
 console load StrawberryJam2021/3-Advanced/mmm
    1
 
 #Start
   91
-
 #lvl_a00
    6,L,Z
    1,R,J
@@ -98,89 +97,114 @@ console load StrawberryJam2021/3-Advanced/mmm
   40
 
 #lvl_a03
-  17,R,D
+  18,R,D
   18,R,D,X
-   2,R,D
-   3,L,D
-  10,R,D
-   4,R
+   1,R,D
+  15,L,D
+   2,L
+   1
+   2,L
    2
-   8,L,D,X
+   4,R,Z
   12,R,J
    2,R
    1,R,J
    1,R
    3,R,J
-  13,R
-  28,R
+  41,R
   13,U,X
    8,L,J
    2
    5,R,J
-   6,R
-  14
+   2,R
+   3
+   5,R
+   5
+   3,R
+   1
+   1,R
    4,R,Z
    1,R,J
    6,R
    1,R,J
-  29,R
+   5,R
+   1,R,J
+  23,R
   30,R,J
-   1,K
+   1,L,K
   14,L,J
-  14,R,K
-  16,R,J
-   2,L,K
+  12,R,K
+   2,L
+   1,R
+   1,R,J
+  15,R,K
+   1,R,J
   40
 
 #lvl_a04
-  12,R
-  12,L,J
+  11,R
+   1,R,K
+  12,R,J
    1,K
-  12,R,J
-   3,K
-  11,R,Z
-   3,R,J
-   9,R
-  12,R,J
-   5,R
-   8,R,J
-  10,R
-   7,R,K
-  10,L,K
-  17,L,J
-   1,R
-   5,R,U,X
-   1,L
-   1,J,G
-   4,J
+  12,L,J
+   4,L
+   5,R,Z
+   1,R,J
    7
-  12,R
-  10,R,D
-  14,R,J
+   4,R
+   1,R,J
+   5,R
+   1
+   4,R
+   9,R,J
+   8,R
+   3,R,J
+   7,R
+   1,R,J
+  11,L,J
+   4,L
+  12,L,J
+   5,L
+   2,L,J
+   1,R
+   5,R,D,X
+   1,L
+   8,J,G
+   4
+  24,R
+   9,R,J
   14,R
-  38,R,J
-  10,R
-   2,L
-   6,L,D
-   4,J
-  14,U,X
-  17,J
-   4,R,K
-   2,R,J
+  10,R,J
+  23,R
+   7,R,D
+   3,D
+   4
+   1,J
+   2,L,J
   15,U,X
+  11,L,J
+   4,R,J
+   2,R
+   4,R,J
+   1,R,K
+  16,U,X
   10,J
   40
 
 #lvl_a05
   11,L
-  10,L,Z
-   8,L,J
-   7,L
+   8,L,Z
+   7,L,J
+   1,L
    2,L,J
-   8,L
-   1,L,D
-   1,L,D,J
+   5,L
+   2,L,J
+   5,L
+   2,L,J
    2,L
+   2,L,D
+   1,L,D,J
+   1,L
    5,L,D,X
    1,R
    1,J,G
@@ -190,13 +214,13 @@ console load StrawberryJam2021/3-Advanced/mmm
    3,L
    2,L,D
    2,L
-#optimize this
+  12,L,J
+  31,L
   15,L,J
-  49,L
-   1
-   3,L
-   5,L,J
-   1
+   7,L
+   2
+   6,L,K
+   1,L
   13,L,Z
    1,R,J
    6,R
@@ -209,7 +233,6 @@ console load StrawberryJam2021/3-Advanced/mmm
    1,J
    5
    1,J
-
    2
    1,J
   13
@@ -440,4 +463,4 @@ console load StrawberryJam2021/3-Advanced/mmm
   29,R,J,G
    4,X
  135,D
-ChapterTime: 1:02.186(3658)
+ChapterTime: 1:01.931(3643)
