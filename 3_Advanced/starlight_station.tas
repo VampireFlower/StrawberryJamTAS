@@ -478,7 +478,6 @@ EndStunPause
    3,R
   13,R,D,X
    2,R,J
-Set,Invincible,false
 # spinner cycle
    2
 #####
@@ -663,5 +662,4 @@ EndStunPause
    1,L,J
    2,U,X
   39,L,J
-
 ChapterTime: 1:25.527(5031)
