@@ -1,4 +1,4 @@
-RecordCount: 16041
+RecordCount: 16050
 
 console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    1
@@ -8,7 +8,7 @@ console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
 
 #lvl_cp1_heartside_intro
 #spinner cycle (flag 10)
-   1
+   0
 #
   15,U,X
    1,L,U
@@ -985,13 +985,15 @@ EndRepeat
    1,R
    2,R,K
   19,R,D
-   2,L,D
+# Spinner drifts before stun, allowing to start it later.
+# This will probably not work in the future.
+   3,L,D
 StunPause
-   7,L,D
+   6,L,D
    7,D
-  10,R,D
+  11,R,D
 EndStunPause
-   7,R,D
+   6,R,D
    1,D
    1,R,J
   14,R
@@ -1995,4 +1997,5 @@ Repeat 33
    1,L,K
 EndRepeat
    1
-ChapterTime: 4:27.359(15727)
+
+ChapterTime: 4:27.342(15726)
