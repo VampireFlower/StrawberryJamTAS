@@ -1,4 +1,4 @@
-RecordCount: 3665
+RecordCount: 3666
 
 console load StrawberryJam2021/3-Advanced/Citrea
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/3-Advanced/Citrea
  190
 
 #spinner
-   2
+   0
 
 #lvl_intro
   15,D,X
@@ -17,7 +17,6 @@ console load StrawberryJam2021/3-Advanced/Citrea
    3,R
    1
   15,D,Z
-   1
   13,R,D,X
    1,R,K
    2,R,J,G
@@ -269,4 +268,4 @@ EndStunPause
   11,U,X
  135,D
 
-ChapterTime: 0:38.165(2245)
+ChapterTime: 0:38.114(2242)
