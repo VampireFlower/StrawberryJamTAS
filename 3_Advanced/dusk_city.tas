@@ -1,4 +1,4 @@
-RecordCount: 4347
+RecordCount: 4805
 
 console load StrawberryJam2021/3-Advanced/Meario
    1
@@ -372,11 +372,12 @@ console load StrawberryJam2021/3-Advanced/Meario
   40
 
 #lvl_a-08
-  25,R,J
-   3,J
-   1,R,J
-  27,R,K,G
-   1,G
+  15,R,J
+   1,J
+  13,R,J
+  21,R,K,G
+   4,R
+   1,R,G
    5,K
    9,R
   10,R,X
@@ -409,12 +410,13 @@ console load StrawberryJam2021/3-Advanced/Meario
    3,R
   10,R,X
    4,R,J
-   1,R,K
-  17,R
-  23,R,X
-  11,L,C
-   5,R,G
-   8,D,G
+  10,R,K
+  15,R,D,X
+  11,R
+   4,R,J
+   2,R,K
+  13,L,U,X
+  10,R,D,G
   10,R,Z
    4,R,J
    1,R,K
@@ -440,8 +442,8 @@ console load StrawberryJam2021/3-Advanced/Meario
   11,R,X
    4,R,J
    1,R,K
-   2,R
    4
+   2,R
   13,R,U,X
    1,R,K,G
    4,R
@@ -454,8 +456,8 @@ console load StrawberryJam2021/3-Advanced/Meario
    1,N
    1,R,J
    2,R
-  14,R,U,X
-  15,R
+  15,R,U,X
+  14,R
   19,R,J
   28,R,X
   19,U,C
@@ -466,49 +468,55 @@ console load StrawberryJam2021/3-Advanced/Meario
   16,R,X
   13,R
   13,D,C
-   9,R,D
-  15,R,Z
+  12,R,D
+  14,R,Z
    4,R,J
-   3,R,K
-  15,U,X
-   7,R
-  21,R,X
-   9,R
-  17,D,X
-   3,R
+   1,R,K
+   3
+   1,R
+  18,U,X
+   6,R,C
+   5,R,J,G
+  15,R
+  14,D,X
+   4,R
   18,R,Z
    4,L,G
-   2,L,J,G
-   2,R
+   1,L,J,G
+   1,R,J
+   5,R
    7,L
-   3,R
   10,R,D,X
    4,R,K
    9,R,J
-   5,R
-   6,L,J
-  16,L,D
-  10,R,D
-   8,R
-   7
-  23,L,X
-  25,R,U,G
-  10,R,X
-   4,R,J
-   1,R,K
    3,R
-  12,R,X
+   2
+   3,J
+   1,R,J
+   2,J
+  13,D
+  13,R,D
+   6,R
+   9
+  23,L,X
+  22,R,U,G
+  11,R,U,X
    4,R,J
    1,R,K
-   1,R
-  20,R,C
-  15,D,G
-  12,G
+   2,R
+  13,R,X
+   4,R,J
+   1,R,K
+   2,R
+  14,R,X
+   5,R
+  16,D,G
+  11,G
   10,R,Z
    4,R,J
    1,R,K
-  11,R
-  25,R,X
+  12,R
+  24,R,X
   11,L,C
   17,R,G
   10,R,X
@@ -525,7 +533,7 @@ console load StrawberryJam2021/3-Advanced/Meario
    1,R,K
   15,R,D,X
   13,R,D
-   8,L,D
+   8,D
    4,R,D
    1,L,K,G
   11,R,K
@@ -540,4 +548,4 @@ console load StrawberryJam2021/3-Advanced/Meario
   13,R,U,X
  135,R,D
 
-ChapterTime: 1:08.306(4018)
+ChapterTime: 1:08.187(4011)
