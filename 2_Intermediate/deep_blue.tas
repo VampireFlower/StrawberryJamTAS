@@ -1,4 +1,4 @@
-RecordCount: 4334
+RecordCount: 4360
 #draft had 0
 
 console load StrawberryJam2021/2-Intermediate/Emik
@@ -36,12 +36,11 @@ console load StrawberryJam2021/2-Intermediate/Emik
    2,D
    4,R,D
   16,L,Z
-  15,L
-  25,L,U,X
+  27,L
+  18,L,U,X
    4,L,J
    1,L,K
-   2,L
-  38,D,X
+  34,D,X
   19,L,Z
    4,L,J
    3,L,K
@@ -100,7 +99,7 @@ console load StrawberryJam2021/2-Intermediate/Emik
    6,L,K
    7,L
 #Spinner cycle
-   2
+   0
 ##
    6,L,Z
    1,L,J
@@ -254,13 +253,14 @@ EndStunPause
    2,L,K
    3,J,G
    1,R,K,G
-  10,L,K
+   7,L,K
+   3,L
   14,L,U,Z
-  85,L,D,G
+  84,L,D,G
    1,L
    8,D
-  15,L,D
-   4,L
+  16,L,D
+   3,L
    1,L,J,G
   25,L,K,G
    1,L,J,G
@@ -442,4 +442,4 @@ EndStunPause
   45,L,J
   90,G
 
-ChapterTime: 1:00.061(3533)
+ChapterTime: 0:59.993(3529)
