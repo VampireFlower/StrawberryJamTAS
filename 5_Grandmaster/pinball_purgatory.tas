@@ -1,4 +1,4 @@
-RecordCount: 5886
+RecordCount: 5987
 
 console load StrawberryJam2021/5-Grandmaster/maya
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/5-Grandmaster/maya
  190
 
 #Spinner Cycle [Phase]
-   2
+   1
 
 #lvl_Insert Coin
    4,R,Z
@@ -342,36 +342,35 @@ console load StrawberryJam2021/5-Grandmaster/maya
    3,L
   11,R
    1,R,J
-   9,R
+   7,R
    1,R,J
+   2,R
    8,L
   15,U,X
-  13,L
-   2,R
-   1,L
-  23,R
-  11,R,X
+   6,L
+   2
+   9,L
+  30,R
+#gain height for bumper position
+   5,R,U,X
   18,R
-  27,R,X
-   6
-   2,R
+  23,R,X
+   4,L
+   7,R
 StunPause
-  12,R
+  13,R
 SkipInput 3 1
    8,R,D,X
 SkipInput 3
-   3,R,D,X
-   7,R,D,X
-   1,R,D
-SkipInput 3 1
-  12,L,D,C
+  10,R,D,X
+   1,L,D
+   7,R,D
+   1,L,D
 EndStunPause
-   3,L,D,C
-   1,L,G
-   2,L,J,G
-  11,L
-   2,R
-  37,R
+#resync here might be improvable
+   2,R,D
+  16,R,Z
+  17
   15,R,D,X
   19,R
   27,R,X
@@ -387,7 +386,7 @@ EndStunPause
   22,R,U,X
    2
 #Spinner Cycle [Delta]
-   0
+   1
 #
    6,R,Z
    1,R,J
@@ -407,11 +406,16 @@ EndStunPause
   15,D,X
   17,D
    8,R,D
-  10,D
-   2,L,D
+   5
+   1,D
+   1
   15,R,D,X
-  36,R,D
-  15,D
+  13,L,D
+   9,R,D
+   9,D
+   1,R
+   5
+   6
   13,R
   15,R,D,X
   15,R,C
@@ -439,7 +443,8 @@ EndStunPause
    2,R
   15,L,Z
   46,D
-   6,R
+   5,R
+   1,R,D
   10,R,D,X
    5,R,J
    7,R,D,X
@@ -569,39 +574,41 @@ EndStunPause
    6,R,D
   10,R
   18,R,X
-   7,R
-   1
-  12,R,U,X
-  19,L
-  11,R
-  15,R,D,X
-   6,R,D
-  27,R,J
-  20,R,U,X
-  15,L
-  20,L,U,X
-  16,R
-   9,R,U,X
-   1,R,K,G
+   5,R
+  15,R,U,X
+  12,L
+  18,R
+  16,R,D,X
+  29,R,J
+  14,R,U,X
+  21,L
+  14,L,U,X
+  21,R
+  10,R,U,X
    1,R,J,G
-   1,R
    1,R,K,G
-   2,R,J,G
-   1,J
+   1
+   1,R,J,G
+   1,R,K,G
+   2,K
   15,R,D,X
    2,R
   12,R,J
-   4,R
+   3,R
+   1,L
   14,R,D,X
    1,R,J,G
-   7,R
-   1,D,J
-   1,R
+   5,R
+   2,L
+   1,R,J
+   1,L
   13,R,D,X
-  36,R,D
+  29,R,D
+   6,R,D
+   1,L,D
   11,R,U,Z
-  14
-   6,U,X
+  15
+   5,U,X
   16
    7,U,X
   36,L
@@ -819,4 +826,4 @@ EndStunPause
   19,R,D,X
   54,R,J
 
-ChapterTime: 2:25.724(8572)
+ChapterTime: 2:25.265(8545)
