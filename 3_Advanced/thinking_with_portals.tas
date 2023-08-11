@@ -1,4 +1,4 @@
-RecordCount: 6189
+RecordCount: 6447
  
 console load StrawberryJam2021/3-Advanced/sp1029
    1
@@ -244,49 +244,62 @@ console load StrawberryJam2021/3-Advanced/sp1029
    1,R
   10,L,Z
   38,R,J,G
-  12,R
-  11,L,X
-  14,R
-  14,L,Z
-   1,R,J
-  10,R,D,X
-   1,R,J
-   4,R
+   6,R,G
+   1,R
+  15,L
+   1,R,J,G
+   1,R
+  14,R,Z
+   1,L,J
+  10,L,U,X
+   3,R
+   2,R,J
    7,R,D,X
+   1,R,J
+   7,R
+   1,R,J
   40
  
 #lvl_a-09
-   7,R,D,X
-   9,R,J
-  14,R,D,G
-   6,G
-   4,D,G
+   2,R,J
+  11,R
+  21,R,D,G
+  12,D,G
+   3,R,D,G
    1,R
-  12,L,D
-  15,L,Z
-   9,L
-  15,L,D,X
-  19,R,D
-  38,R,D,G
-   1,R
-   5,L,D
-  12,D
-  10,R,Z
-   4,R,J
-   4,R
-  11,R,U,X
-  23,R,D,G
-  15,R,K,G
-   1,R
-  14,R,Z
-   8,R,J
-  12,R,D
-   8,L,D
-  11,L,D,X
+   3,R,D
+   2,D
+  10,L,D,X
    1,L,J
-   9,L
-  13,L,X
-  18,L,D
+   3,L
+   1,L,J
+   4,L
+  10,L,J,G
+   8,L
+  13,D,X
+  12,D
+  14,R,D
+   5,R
+   1,R,D
+   1,R
+   2,R,D
+   4,D,X
+   1,R,J
+  17,R,J,G
+  16,R,K,G
+   1,R,K
+  12,R,U,X
+  21,R,G
+   1,R
+   1,R,K,G
+  12,R,Z
+   7,R,J
+   1,R
+   1,R,J
+  18,R,D
+  14,L,D,X
+  18,L,J
+  19,L,D
   22,L,D,G
   16,R,D,G
   11,R
@@ -302,63 +315,60 @@ console load StrawberryJam2021/3-Advanced/sp1029
  
 #lvl_a-11
    1,R
-   1,R,J
-  14,R,D,X
-  21,R,J
-  42,L,D
+  36,R,J
+   4,L,D
+  15,D,X
+  10,L,D
+  11,D
   10,R,D,X
-   7,L,J
-  25,L,D
-   9,R,D
-  15,R,X
-  14,R
-   9,R,D
-  16,D
-   3,L,D
+   6,L,J
+  18,L,D
+  23,R,D
+  14,R,D,X
+   1,R,J,G
+  16,R,D
+   4,D
+  13,L,D
+   1,D
    1,L,J,G
    1,L
   19,R
-  40,D
-  12,L,D
+  34,D
+   1,L,D
+   1,D
+   1,L,D
+   2,D
+  13,L,D
   12,L,D,X
    8,L,J
    4,L,D
-   2,L,J
-  12,L,D
+   1,L,J
+  13,L,D
   21,R,D
-  16,D
-  13,L,D,X
-#+5f
-#  27,R,D
-#  34,L,D
-#   7,D
-#   1,L,D
-#   4
-#   1,L
-#  47,L,U,Z
-#  13,D
-#  18,L,D
-#  50,L,Z
-##
-  33,R,D
-  35,L,D
-   3,L
-   3
+   9,D
+  12,L,D
+   4,L,X
+   1,L,D,X
+  30,R,D
+  26,L,D
+  20,L
+   2,L,D
   15,L,X
-  15,L,C
-  25,R,D
-  18,L,D
-  13,L,Z
+  13,L
+   1
+  16,D
+  13,L,D
+   4
+  10,L,Z
   24,R,J
    7,R
-  22,R,X
+  21,R,X
    1,R,J,G
-   5,R
-   5
+  10
    1,J
    2
   15,R,U,X
-   5
+   5,R
    4,R,D
   10,D
   10,R,D
@@ -369,7 +379,7 @@ console load StrawberryJam2021/3-Advanced/sp1029
    1,R,J
    3,R
   40
-
+ 
 #lvl_a-13
 #this powerbox is a global cycle for some reason
 #might need to redo from scratch any time you make an improvement 
@@ -382,9 +392,9 @@ console load StrawberryJam2021/3-Advanced/sp1029
    1,R,J
    3,R
    7,R,J
-  13,R,U,X
+  14,R,U,X
   11,R
    4,U,X
  135,U
-
-ChapterTime: 0:50.830(2990)
+ 
+ChapterTime: 0:50.201(2953)
