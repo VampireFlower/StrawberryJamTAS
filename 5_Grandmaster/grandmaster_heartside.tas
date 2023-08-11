@@ -1,4 +1,4 @@
-RecordCount: 35847
+RecordCount: 35848
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -2600,7 +2600,7 @@ EndStunPause
  187,R
   71,R,D
   83,R
-  60,R
+  61,R
   15,R,D,X
   35,R
   19,R,X
