@@ -1,4 +1,4 @@
-RecordCount: 31882
+RecordCount: 31929
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -44,9 +44,7 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
 
 #lvl_a00_intro2
    1
-#+6f, I'm not willing to understand how to spx manip this
-   0
-#
+#6f bhop saves 3f
    1,S
    1,D,J
   34
@@ -471,6 +469,7 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    9,D,X
   13,R,J
   48,R,X
+#loses 1f on purpose for drift
    8,R,J
   30,R,K
   68,R
@@ -793,8 +792,8 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
   21,R,D
   12,R,Z
 ## Spinner cycle [b04_powerav]
-   2
-##
+   0
+#2/3
   45,R,X
   15,U,C
    1,L
@@ -901,36 +900,45 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    8,R
    5,R,D
    6,L,D
-   7,D
 ## Cycle in b03_banana
+#   7,D
+#StunPause
+#   9,D
+#   6,R,D
+#   3,R
+#EndStunPause
+#
+   6,D
 StunPause
-   9,D
+  10,D
    6,R,D
-   3,R
+   2,R
 EndStunPause
+   1,R
+#
    7,R
   15,R,Z
-  68,R
-   1,G
-  10,J,G
-   1,L,J
-   1,R,J
-  14,R,K,G
-  12,J,G
+  66,R
+   3,L
+  12,R,J,G
+   1,K,G
+   3,R,K
+   5,K
+   1,R,K
+   1,L,K
+   1,R,K
+  13,R,J,G
   12,K,G
    2,J,G
   15,U,X
   22,R,J
-  31,L
+  30,L
   17,U,X
-  13,L,J
-   2,J
-   3
+  15,L,J
+   3,J
   15,R,U,X
   16,R
-   2
-   1,R
-   1
+   4
    5,R,Z
    1,R,J
    7,R
@@ -1648,7 +1656,7 @@ EndRepeat
 #lvl_d00_intro
    4,R,Z
 ## Spinner cycle [d01_ru]
-   2
+   0
 ##
   13,L,V
    1,R,J
@@ -3509,4 +3517,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 7:56.272(28016)
+ChapterTime: 7:56.170(28010)
