@@ -1,5 +1,5 @@
 #By Kataiser
-RecordCount: 6398
+RecordCount: 6522
 
 console load StrawberryJam2021/3-Advanced/Worldwaker2
    1
@@ -537,29 +537,35 @@ EndStunPause
   10,L,K,G
    7,L
 #spinner cycle
-   1
+   2
+#
    6,L,D,X
    1,R,J,G
   13,R,K,G
-   4,R,U,J,G
+   3,R,U,J,G
   28,R,G
    3,R
   13,R,U,X
-  14,R,U,G
+  17,R,U,K,G
 StunPause
-  24,R,U,G
-   6,R,J,G
+  22,R,U,K,G
+   1,R,J,G
+   5,J
 EndStunPause
-   5,R,J
-   3,R,K,G
-   1,J,G
-   7,R
-   5,L
-#bad but i need to sleep
-#cutting the dash and just removing the landing makes you run out of stamina for umbrella at end
+   5,J
+   1
+   4,K,G
+   1,R
+   1
+   1,R
+   2
+   1,R
+   4,L
   13,L,U,X
-   2,K,G
-   7,L
+   1,J,G
+   5,L
+   1,L,J
+   2,L
    3,J
   10,L,J
    2,K,G
@@ -641,4 +647,4 @@ EndStunPause
   18,R,U,X
  135,R,D
 
-ChapterTime: 1:35.387(5611)
+ChapterTime: 1:35.200(5600)
