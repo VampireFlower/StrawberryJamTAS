@@ -1,4 +1,4 @@
-RecordCount: 19063
+RecordCount: 19066
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -271,6 +271,7 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
   18,L,K,G
    1,J
    7,R,J
+  29,L,J
   10,G
    1,D,G
    1,J,G
