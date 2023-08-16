@@ -1,4 +1,4 @@
-RecordCount: 18777
+RecordCount: 19063
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -174,7 +174,7 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1,D,J
   69,O
 #spinner cycle - bee berserk
-   0
+   2
 ##
    2,R,J
   11,R,Z
@@ -190,7 +190,16 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    3,R,K,G
   14,R,U,Z
   80,R,U,C
-#get bino storage +30f
+## -27f, dont get bino storage
+#  13,R,Z
+#   1,R,J
+#   7,R
+#   1,R,J
+#   3,J
+#   3
+#  15,R,D,X
+#  16,D
+#
   14,R,Z
    1,R,J
   14,R,D,X
@@ -198,11 +207,14 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
   11,R,D,X
    1,R,J
   13,R,D
-   6,L,D
-   1,N
-   1,L,J
-   6,L,J
-  26,L,D,C
+   5,D
+   1,D,N
+   4,L,J
+   2,L
+  15,L,D,C
+  10,L,D
+# Please resync
+   3
    7,D,X
    1
    5,L
@@ -218,12 +230,14 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1,L,K
   14,R,J,G
    1,R,K,G
-   3,R,J,G
+   2,R,J,G
+   1,J
    7,R
    1,R,J
    1,R
    1,R,J
-   3,R
+   2,R
+   1,R
 #these demos might be improvable
    3,R,K
    5,R
@@ -238,32 +252,29 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    2,R
    4,R,D
   13,U,X
-  20,R,J
+  21,R,J
   15,R,D,X
-  10,R,D
-   4,D
-   1,R,D
-#this setup might be improvable
-   1,G
-   1,R,J,G
-   7,R
-   9,L,Z
+   8,R
+   6,R,D
+   1,D
+   1
+   8,L,Z
    1,R,J
-  12,R,D
+   6,R
+   5,R,D
   11,R,J
-   5,R
-   7,R,J
-   4,L,J
-  23,L,K,G
+   6,R
+   1,R,J
+   7,J
+   1,R,J
    1,J
-   8,R,J
-  29,L,J
-   1,G
-   2
-   3,G
-   3,J,G
-   4
-   4,L
+  18,L,K,G
+   1,J
+   7,R,J
+  10,G
+   1,D,G
+   1,J,G
+   6
    1,R
    1
    3,R,J
@@ -291,28 +302,27 @@ EndStunPause
 #only 1 cycle works
   19,R
    1,R,J
-   7,R
-   1,L
   17,R
+   8
    7,R,U,Z
    1,L
-   2,J,G
-  10,R,J
-  11,R
-   4,R,Z
+   3,J,G
+   1,R,J
+   5,J
+   2,R,J
+   1,R
+   6,R
+   7,R,Z
    1,R,J
    7,R
-  26,R,J
+  22,R,J
    1,G
-   7,J,G
-#wait 1 frame to not die later
-   1
-#
+   6,J,G
    7,U,X
   14,L,J
   12,L,U,Z
 #spinner cycle - synapse
-   2
+   1
 #
   89,R,C
   17,R,U
@@ -2035,4 +2045,4 @@ EndStunPause
   12,U,X
  135
 
-ChapterTime: 4:49.680(17040)
+ChapterTime: 4:49.323(17019)
