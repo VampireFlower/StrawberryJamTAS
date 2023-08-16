@@ -1,5 +1,5 @@
 #By Kataiser
-RecordCount: 6522
+RecordCount: 6701
 
 console load StrawberryJam2021/3-Advanced/Worldwaker2
    1
@@ -441,44 +441,41 @@ EndStunPause
   14,L,D
    1,L
    5,L,D
-  16,D
+   2
+  14,D
    2,L,D
    1,D
    1,L
    7,L,Z
    4,R,J
    4,R
-  43,R,J,G
-   5,K,G
-   1
-  10,R,X
-   1,L,J
-   4,J
-  18,G
-   3,L,G
-   1
-  15,R,U,Z
-   7,R
-   1,J,G
-   6
+   1,R,J,G
+  21,R,D,G
+  14,D,G
+   3,R,D,G
    1,R
+  15,U,X
+  39,R,G
+   1,R,J,G
    1
    1,L
-   1
+   5,R
    4,X
-   2,R,J
+   1,R,J
+   4,R
   50,R,U,J,G
-  60,U,G
-  37,R,U,G
+  58,U,G
+  39,R,U,G
    1,L,J,G
   25,L,U,K,G
-  37,U,G
-   4,R,U,G
+  36,U,G
+   1,R,U,G
+   4,R,G
    1,R
    1,R,J,G
    3,L
    4
-   7,R
+   5,R
   10,R,X
   11,R,J
   15,U,X
@@ -494,7 +491,7 @@ EndStunPause
    7,D
    1
 #key cycle
-  46
+  50
    7,R
   11,R,J
   14,L,D,X
@@ -562,10 +559,9 @@ EndStunPause
    1,R
    4,L
   13,L,U,X
-   1,J,G
-   5,L
-   1,L,J
-   2,L
+   1,L,J,G
+   1,R
+   6,L
    3,J
   10,L,J
    2,K,G
@@ -579,11 +575,12 @@ EndStunPause
    3,R,K
    1,L,J,G
    1,R,J
-   9,L,J
+   6,L,J
+   3,L
   15,U,X
    2,L
   34,L,U,G
-   5,L,J,G
+   6,L,J,G
    5
    2,L
    4,R,X
@@ -647,4 +644,4 @@ EndStunPause
   18,R,U,X
  135,R,D
 
-ChapterTime: 1:35.200(5600)
+ChapterTime: 1:35.047(5591)
