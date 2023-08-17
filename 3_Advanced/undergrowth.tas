@@ -1,4 +1,4 @@
-RecordCount: 7882
+RecordCount: 8009
 
 console load StrawberryJam2021/3-Advanced/Nic
    1
@@ -262,20 +262,24 @@ EndStunPause
   40
 
 #lvl_04-a
-  15,L,D
-   9,D
-  17,R,D,X
-   6,L,D
-  21,L,D,X
-  15,R,D,C
-   6,D
+  20,L,D
+  15,R,D,X
+   6,R
+  11,L,D
+   6,L
+   1,L,D
+   9,R
+  10,R,D
   13,L,D,X
    1,L,J
-   7,L
-  21,D,X
-   3,R,D
-   1,R,K
-   1,R
+   2,L
+   2,L,J
+   2,L
+  15,D,X
+   4,L,D
+   4,D
+   1,R,D
+   2,R,K
   10,R,D,X
    1,R,J
   14,R,D
@@ -756,4 +760,4 @@ EndStunPause
   14,R,U,X
  135
 
-ChapterTime: 1:26.224(5072)
+ChapterTime: 1:26.173(5069)
