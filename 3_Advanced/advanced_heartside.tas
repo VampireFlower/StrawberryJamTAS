@@ -1,4 +1,4 @@
-RecordCount: 19066
+RecordCount: 19152
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -301,27 +301,29 @@ EndStunPause
   15,R,D,X
 #this depends on spinner cycle
 #only 1 cycle works
-  19,R
-   1,R,J
-  17,R
-   8
-   7,R,U,Z
+  31,R
+   3,R,D
+   3,D
+   1
+   1,D
+   1
+  13,R,U,Z
    1,L
    3,J,G
    1,R,J
-   5,J
-   2,R,J
-   1,R
-   6,R
-   7,R,Z
-   1,R,J
+   3,J
+   3,R,J
    7,R
-  22,R,J
-   1,G
-   6,J,G
+   9,R,Z
+   1,R,J
+   6,R
+  17,R,J
+   4,J
+   6,R,K,G
    7,U,X
   14,L,J
   12,L,U,Z
+   1
 #spinner cycle - synapse
    1
 #
