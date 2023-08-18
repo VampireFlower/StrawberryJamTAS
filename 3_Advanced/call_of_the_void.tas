@@ -1,4 +1,4 @@
-RecordCount: 3729
+RecordCount: 4044
 
 console load StrawberryJam2021/3-Advanced/Viv
    1
@@ -127,25 +127,23 @@ endrepeat
    1,R,J
    7,R
   18,R,J
-   3,R
+   4,R
    1,R,J
-  30,R
-  27,L,Z
+   5,R
+  24
+  26,L,Z
   14,L,D,X
-   7,L,J
-  16,L
-  12,L,D
+   6,L,J
+  23,L,D
+   6,L
   10,R,D,X
    7,R,J
-   1,R
-   1,R,J
-   8,R
-   7,D
-  11,R,D
-  10,R
+   2,D
+  29,R,D
+   5,R
   13,U,X
   23,R,J
-  24,L,C
+  23,L,C
   11,D,G
   11,R,J
  154,D,G
@@ -177,10 +175,10 @@ endrepeat
   14,R,Z
    1,L,J
   15,L,D,X
-  24,L
+  23,L
   15,R,D,X
   37,R
-   3,L,J
+   2,L,J
   14,L,Z
   59,R,J
   38,L,K
@@ -202,18 +200,18 @@ endrepeat
 
 #lvl_viv5 (0)
    1,L,J
-   3,R,J
+   2,R,J
+   1,R
   98,R,U,Z
   51,L,J
-  40,D,G
+  39,D,G
   25,U,G
   15,D,X
    3,R
-  19,R,D,J
-   1,L
-   1,L,J,G
-   7,K,G
-  60,R,K
+  20,R,D,J
+   1,L,K,G
+   7,J,G
+  60,R,J
   20,U,X
   25,L,J
    1,G
@@ -273,12 +271,11 @@ endrepeat
   40
 
 #lvl_viv6
-   1,L
-   5
+   6,L
    1,L,J,G
    3,K,G
    4,R,J
-   1,R,J,G
+   1,R,K,G
   18,R
  102,R,X
   52,R,D,C
@@ -311,8 +308,7 @@ endrepeat
    1,R,J
    1,L,K,G
   15,R,D,X
-  79,R,J
-   4,R
+  83,R,J
   36,D,X
    4,R
    1,R,J
@@ -336,24 +332,25 @@ endrepeat
    1,R,J
    6,R,D,X
    1,R,J
-   7,R
+   3,R
+   1,R,J
+   3,R
    1,R,J
   18,R,K,G
-   1
   15,R,D,X
   77,R
    4,R,J
   15,R,D,X
   15,D,C
-  14,D
+  15,D
  103,R,J
   10,L,K
   43,R,J
   12,K,G
    9
- 117,R,J
-  40,D,G
- 200,U,G
+ 118,R,J
+  41,D,G
+ 198,U,G
   45
   16,R,J
   13,U,X
@@ -374,4 +371,4 @@ endrepeat
    1
   28,L,D,J
  139,R,X
-ChapterTime: 1:38.566(5798)
+ChapterTime: 1:38.447(5791)
