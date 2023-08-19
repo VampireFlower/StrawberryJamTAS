@@ -1,4 +1,4 @@
-RecordCount: 17074
+RecordCount: 18561
 
 #console evalcs Action<float, long> i1 = (float timeRate, long frames) =>{long num4 = Math.Abs(frames);bool flag = frames < 0;float num5 = 0.0166667f * timeRate * (flag ? (-1f) : 1f);for (long num6 = 0L; num6 < num4; num6++){((Level)Engine.Scene).TimeActive += num5;}}
 console load StrawberryJam2021/2-Intermediate/Dooshii
@@ -674,22 +674,19 @@ EndStunPause
   13,L,U,X
    7,L,J,G
   15,L,X
-   8,L,Z
-  15,L,X
-   1,G
-   1,L,J,G
-   2,L,K,G
-   1,L,K
-   1,K
-   1,L,K
-  16,U,Z
-   3,J
-  11,R
-   6,R,J
-   5,J
+   8,L,C
+  15,L,Z
+   2,L,J,G
+   1,J
+   2,L,J
   15,U,X
-  13,J
+   4,R,J
+  11,R
    5,R,J
+   6,J
+  16,U,X
+  13,J
+   4,R,J
    1,K
    5
    2,L
@@ -701,13 +698,15 @@ EndStunPause
    5,R,Z
   10,R,J
   11,R
-  18,R,C
-   1
-  15,R,X
-   3
-   2,R
-  10,R,Z
-   2
+   5,R,X
+   5
+   8,L
+  14,R,C
+   1,R,J,G
+   1,L,J,G
+   1,R,D,K,G
+   3,R
+  13,R,Z
    6,R,J
    2,R
   10,R,D,X
@@ -715,25 +714,18 @@ EndStunPause
    9,R
    1,R,J
   17,R
+   2
   15,R,X
-  18,R,C
-   5
-   6,L
-  15,L,D,X
-  16,R,D
+   3,R
+   2
+  15,D,C
    4,R,D
-  11,D
-   5,L
-   1,D
-   1
-   7,L,Z
+   2,R
+  14,L,D,Z
    1,R,J
-   6,R
-  16,R,J
-   2,R,K,G
-   1,K
-   1,J,G
-  21,R,J
+  15,R,D,X
+  26,R,J
+   1,R
   13,U,X
    3,R,J
   11,R
@@ -742,10 +734,9 @@ EndStunPause
    8,J
    2
    8,L,K,G
-   5
+   6
    1,K
    1
-   1,K
    4,R,Z
    1,R,J
    6,R
@@ -836,38 +827,42 @@ EndStunPause
    1,D
    1,L,D
    1,D
-  17,L,D
-   1,L,D
-   1
+  13,L,D
+   5,D
+   2,L,D
   15,L,X
   15,L,C
-   2,L,D
-   3,D
-  20,L,D
+  11,L,D
+   2,D
+   8,L,D
+   2,L
+   1,L,D
    1,L
-  39,L
-   3,L
+  42,L
   14,L,Z
    1,L,J,G
-   1,R
+   1,L
+   1
    6,L
-  10,L,Z
-   3,L,J
-   2,L
-   2,L,J
-   8,L,D
-   5,D
-  15,D,X
-  15,R,D
-  10,R,Z
+   1,L,K
+   4,L,D,J
+   4,L
+   1
+   6,L
+  12,D
+  18,R,D
+  14,R,D,X
    1,R,J
-  78,R,D
-   7,D
+  86,R,D
   15,L,D,X
-  16,L,D
-  18,D
-  34,R,D
-   5,R
+  15,L,D
+  17,D
+  33,R,D
+   1,R
+   1,R,D
+   3,R
+   1,R,D
+   1,R
   15,R,Z
    1,R,J
    1,R,K
@@ -895,4 +890,5 @@ EndStunPause
    5
   14,R,U,X
  135,D
-ChapterTime: 1:33.364(5492)
+ChapterTime: 1:32.446(5438)
+# 999
