@@ -1,4 +1,4 @@
-RecordCount: 3532
+RecordCount: 3541
 
 console load StrawberryJam2021/2-Intermediate/SpoopySoup
    1
@@ -130,15 +130,10 @@ EndRepeat
   43
 
 #lvl_soup-4
-  17,R
-  14,U,X
-   3,R,J
-   2,R
-   1,L,K,G
-   2,R,K
-   4,L,K
-   9,L
-  13,R,J
+  30,R
+  16,U,X
+  15,U,C
+   2,L
   43,R,X
   16,R,D,C
   41
@@ -284,35 +279,35 @@ EndRepeat
 # use strat 2
 
 # strat 1 start
-#   2,R,D
-#   3,D
-#   4,R,D
-#   3,R
-#  10,R,D
-#   9,D
-#   1,R,D
-#  18,D
-#   1,L,D
-#   1,D
-#   1,R,D
-#   3,D
-#   4,R,D
-#  14,D
-# strat 1 end
-
-# strat 2 start
    2,R,D
    3,D
    4,R,D
    3,R
   10,R,D
-  28,D
+   9,D
    1,R,D
-   2,D
+  18,D
    1,L,D
-   4,D
+   1,D
+   1,R,D
+   3,D
    4,R,D
-  12,D
+  14,D
+# strat 1 end
+
+# strat 2 start
+#   2,R,D
+#   3,D
+#   4,R,D
+#   3,R
+#  10,R,D
+#  28,D
+#   1,R,D
+#   2,D
+#   1,L,D
+#   4,D
+#   4,R,D
+#  12,D
 # strat 2 end
 
   50,R,U,X
@@ -340,4 +335,4 @@ EndRepeat
    4,X
  135,R
 
-ChapterTime: 0:53.737(3161)
+ChapterTime: 0:53.652(3156)
