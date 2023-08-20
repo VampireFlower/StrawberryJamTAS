@@ -1,4 +1,4 @@
-RecordCount: 8233
+RecordCount: 8236
 
 console load StrawberryJam2021/5-Grandmaster/Todd
    1
@@ -442,10 +442,7 @@ EndStunPause
    1,J
    7,R,J
    5,R
-StunPause
-   2,R,J
-EndStunPause
-   1,R,J
+   3,R,J
   17,R
    1,R,J
    9,R,D,X
@@ -646,4 +643,4 @@ AnalogMode,Ignore
    4,C
  135,U
 
-ChapterTime: 1:39.739(5867)
+ChapterTime: 1:39.552(5856)
