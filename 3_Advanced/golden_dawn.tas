@@ -1,4 +1,4 @@
-RecordCount: 4472
+RecordCount: 4518
 
 console load StrawberryJam2021/3-Advanced/Maladroit
    1
@@ -172,25 +172,25 @@ endstunpause
   14,R,X
    7,R,J
   16,U,X
-   9,R,J,G
-   1
-   1,J,G
+  10,R,J,G
+   1,K,G
    5,R
-   9
-#Lightning Cycle
    2
-#####
-   2,R
-   9,R,Z
-   3,R,J
-   8,R,K,G
+   5,L
+   4,R,Z
+   1,R,J
+   4,R
+   5,R,D,J
+   6,R,K,G
   40
 
 #lvl_A5
-   5,R,K
-  11,R,D,X
+   4,R,K
+  10,R,D,X
    1,R,J
-   8
+   3,R
+   1,R,J
+   5,R
    1,G
   79,R,J,G
    3,R,J
@@ -219,7 +219,20 @@ endstunpause
   36,R
   21,U,X
    1,D
-  46,R,D
+
+#spinner cycle 0
+#  46,R,D
+
+#spinner cycle 1
+  40,R,D
+   7,R
+
+#spinner cycle 2
+#  30,R,D
+#  18,R
+
+###
+
   14,R,Z
    1,R,J
    8,R,D,X
@@ -392,4 +405,4 @@ EndStunPause
    5,U,X
  134
 
-ChapterTime: 1:10.176(4128)
+ChapterTime: 1:10.074(4122)
