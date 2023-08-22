@@ -1,4 +1,4 @@
-RecordCount: 4390
+RecordCount: 4623
 
 console load StrawberryJam2021/5-Grandmaster/tofu
    1
@@ -260,44 +260,71 @@ EndStunPause
   40
 
 #lvl_Rat Run
-   1,R,D,X
-   2,R,J
+   2,R,D,X
+   1,R,J
   15,D,X
-   8,R,J
+   2,R,J
+   4,J
+   1,R,J
+   1,J
    7,R,Z
-   6,R,J
-  11,R,D
-  20,D
+   5,R,J
+   6,R
+   1,R,J
+   4,R
+  16,D
+   5,R,D
   12,R,D,X
+## gultra gets too much speed
+## or skip yellow coin?
+#   2,R,J
+#   1,J
+#  12,L,D,X
+#   1,R,J
+#   2,R
+#  13,R,D,X
+#  20,R,G
+#   3,R
+#   7,R,D
+#   1,R,J
+#   9,R
+#  13,U,X
+##
    3,R,J
-  12,L,D,X
-   3,R,J
-  14,R,X
+  10,L,D,X
+   1,R,J
+   4,R
+   9,R,X
   21,R,G
    1,D
-  17,R,D,X
-  13,R,G
-  18,R,X
-  13,U,C
-   2,L,J
-   7,L,X
-  15,L,G
-   9,L,D
-   1,L,J
-  13,L,U,X
-  13,L,G
-  17,L,X
+   3,R
+   8,R,D
    1,R,J
-   9,R,U,X
+   5,R
+   8,R,J
+  10,U,X
+   5,L,J
+   1,J
+   5,L,D,X
+  14,L,G
+   9
+   5,R,J
+   3,L
+  15,L,X
+   2
+  16,L,U,X
+   1,R,J
+   1,R,K
+  10,R,X
   13,R,G
-  16,R,U,X
+  15,R,U,X
   13,R,G
   10,R,D,X
   13,R,G
    1,R,J
   15,R,U,X
   13,R,G
-  14,R,U,X
+  13,R,U,X
   13,R,G
   16,R,D,J
    5,R,K
@@ -388,4 +415,4 @@ EndStunPause
   15,R,U,X
  127
 
-ChapterTime: 0:56.559(3327)
+ChapterTime: 0:56.253(3309)
