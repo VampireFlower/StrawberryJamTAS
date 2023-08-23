@@ -1,4 +1,4 @@
-RecordCount: 4984
+RecordCount: 5079
 
 console load StrawberryJam2021/1-Beginner/Circumplex
    1
@@ -291,7 +291,7 @@ EndStunPause
    1
   72,J
 ### spinner cycle [09]
-   0
+   1
 ###
    7,L,Z
    1,R,J
@@ -300,14 +300,14 @@ EndStunPause
    1,L,D
    6,D
    2,L,D
-   5,D
+   4,D
    4,R,D
   29,R
   14,R,Z
    1,L,J,G
-   3,R,J
-   5,R
-  21,R,J
+   1,R,J
+   6,R
+  22,R,J
   15,U,X
   17,R
   11,D,X
