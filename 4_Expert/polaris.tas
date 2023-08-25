@@ -1,12 +1,13 @@
-RecordCount: 8400
+RecordCount: 8502
 
 console load StrawberryJam2021/4-Expert/Yoshachobi7
    1
 
 #Start
  190
+
 #spinner cycle
-   0
+   1
 
 #lvl_a0
    4,L,J
@@ -165,12 +166,19 @@ console load StrawberryJam2021/4-Expert/Yoshachobi7
    1,R,J
    8,R
   16,R,J
-  21,L,J,G
+#-1f
+  14,L,J,G
+   1,L
+   6,R,G
    1,D
    8,U,X
-  21,G
+  16,G
+   1,R,G
+   1,G
+   1,R,G
+   2,G
    1,L
-  39,R
+  38,R
   16,D,X
   11,L,D,C
   28,R,J
@@ -586,10 +594,9 @@ EndStunPause
   15,R,U,X
   10,R,Z
    1,R,J
-  16,R,D
-   8,D
+  24,R,D
   30,R,Z
-   9,R,V
+   8,R,V
    1,R,J
    3,J
   34,R,J,G
@@ -687,4 +694,4 @@ EndStunPause
   15,R,U,X
  135,D
 
-ChapterTime: 1:35.336(5608)
+ChapterTime: 1:35.319(5607)
