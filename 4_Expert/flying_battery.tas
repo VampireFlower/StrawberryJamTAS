@@ -1,4 +1,4 @@
-RecordCount: 4409
+RecordCount: 4642
 
 console load StrawberryJam2021/4-Expert/alicequasar
    1
@@ -12,7 +12,7 @@ console load StrawberryJam2021/4-Expert/alicequasar
    7,R,D,J,X
   13,R,J,G
    2,J,G
-   1,R,J
+   1,R,J,G
   11,R,K,G
    1,K,G
   10,R,K,G
@@ -21,65 +21,48 @@ console load StrawberryJam2021/4-Expert/alicequasar
   15,R,U,Z
    1,J,G
   25,L,J,G
-   1,K,G
-   4,R,K,G
+   2,K,G
+   3,R,K,G
    3,R,G
    1,L
-  10,D
-   1,R,D
-   2,D
-  15,R,D
-   5,D
+  22,R,D
+   8,D
+   3
    5,R,X
    1,R,J,G
-  14,R
+   1,R
+  13,R
    1,R,J
-   9,R,X
+   8,R,X
    4,R,Z
    5,R,J
    8,R,K,G
   18,R
   14,R,Z
    1,R,J
-#cool strat that would frametie
-#cant get it to work
-#  10,R,D,X
-#  13,R,G
-#   5,R,G
-#   3,R,J,G
-#   1,D,J
-#   3,R,J
-#  12,L,Z
-#   1,G
-#  13,R,X
-#  18,U,C
-#  10,R,G
-#   1,G
-#   1,L
-#   1,R
-#  20,R,D,X
-#   7,R
-#   6,L,D,X
-#   1,R,J
-#   3,R
-#   1,R,J
-#   3,R
-#   1,R,J
-#  50,R,D,X
-##
-   7,R,D,X
+   9,R,D,X
   13,R,G
-   6,R,J,G
-  33,R,X,G
-  18,U,C,G
+   5,R,G
+   2,R,J,G
+   2,R,G
+   1,D,J
+   3,J
+  12,L,Z
+   1,G
+  13,R,X
+  18,U,C
    9,R,G
    1,L
    3,R
-  24,R,D,X
-   2,R
+  15,R,D,X
+   4,R,D
+   6,R,D
+   1,R
    6,L,D,X
    1,R,J
-   7,R
+   3,R
+   1,R,J
+   3,R
    1,R,J
    5,R,D,X
    1,R,J
@@ -489,4 +472,4 @@ console load StrawberryJam2021/4-Expert/alicequasar
   14,R,U,X
  135
 
-ChapterTime: 0:56.576(3328)
+ChapterTime: 0:56.542(3326)
