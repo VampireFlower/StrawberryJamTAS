@@ -1,4 +1,4 @@
-RecordCount: 4642
+RecordCount: 4981
 
 console load StrawberryJam2021/4-Expert/alicequasar
    1
@@ -71,16 +71,16 @@ console load StrawberryJam2021/4-Expert/alicequasar
   40
 
 #lvl_a-02
-  15,R,J
-   5,J
-   1,R,J
+  14,R,J
    1,J
-  11,U,X
-   5,R,J
-   5,R
+   4,R,J
+   1,J
+   9,U,X
+  10,R,J
+   2,R
    1,R,J,G
    3,R,K,G
-  25,R
+  27,R
    7,R,D,X
   15,R,Z
    5,R
@@ -117,42 +117,41 @@ console load StrawberryJam2021/4-Expert/alicequasar
   16,D,X
   19,R,C,G
   10,U,X
-  14,R,J,G
-   4,R,G
+  15,R,J,G
+   2,R,G
    1,L
   18,R,X
   13,R,D,C
-   1,R,J
-   1,J
-   6,R,J
+   8,R,J
    1,R
   14,R,X
    2,R,J,G
    7,R
-   6,R,J
-   1
-   5,R
+   8,R,J
+   3,R
   14,R,U,X
    1,R,J,G
   12,R
-   1,R,D,J
   40
 
 #lvl_a-03
-   7,R,D,X
+   1,R
+   1,R,J
+   6,R,D,X
    1,R,J
    3,R
    1,R,J
    3,R
-  24,R,J
-  12,U,X
-  13,R,J
-  21,R,J,G
+  23,R,J
+  14,U,X
+   7,R,J
+  24,R,J,G
    1,R,D
    8,U,X
   21,R,G
    1,L
    9,R,Z
+# could maybe not archie? -sky
   15,R,C
    1
    8,U,X
@@ -472,4 +471,4 @@ console load StrawberryJam2021/4-Expert/alicequasar
   14,R,U,X
  135
 
-ChapterTime: 0:56.542(3326)
+ChapterTime: 0:56.474(3322)
