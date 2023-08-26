@@ -1,5 +1,6 @@
-RecordCount: 4563
+RecordCount: 5707
 
+#console evalcs Action<float, long> i1 = (float timeRate, long frames) =>{long num4 = Math.Abs(frames);bool flag = frames < 0;float num5 = 0.0166667f * timeRate * (flag ? (-1f) : 1f);for (long num6 = 0L; num6 < num4; num6++){((Level)Engine.Scene).TimeActive += num5;}}
 console load StrawberryJam2021/2-Intermediate/Luma
    1
 
@@ -14,72 +15,96 @@ console load StrawberryJam2021/2-Intermediate/Luma
    2,R,J
    3,R
    1,R,K,G
-   9,R
-   4,R,K
    1,R
-  24,R,J
-  14,R,Z
-  11,R,J
- 141,R,U,J,G
-   2,R,K,G
-  24,R,G
-   1,L
-  14,R
-   4,R,J
-  17,R
-   1,R,J
-   8,R
    1
+   6,R
+   1,R,J
+   3,R,K
    4,R
+   3,R
+  12,R
+  30,R,K
+   1,J
+   2,R,K
+   2,J
+  28,L,U,J,G
+  56,L,U,G
+   1,D,J
+   1,L,K,G
+   1,L,J,G
+   4,L,J
+   3,L
    1
-   5,R
-   1
-   1,R,J
-   1,R,K,G
-   1,R,J,G
-  11,R
-   1,R,J
-   7,R
-   1
-  15,R,D
-   1,R,J
-   1,R,K,G
-   1,R,J,G
-  11,R
+   1,L
+   3
+   2,J
+   7
+   1,L
+   1,R
+   6,L,Z
    3,R,J
-   1,R
-   4,R,J,G
-  19,R
-   9,R,J
+   1,J
+   7,R
+   1,R,K
+   5,R,D,X
+  14,R,K,G
+  50,R,U,J,G
+   7,R,U,J,G
+   1,R,G
+   1,R,U,G
+   1,R,J,G
+   5,R,D,G
+   1,R,G
+  10,R,D,G
+   1,L
+   7,R,D
+   5,R,J
    5,R
-   7,R,J
-   1,R,K
-  13,G
-   1,R,K
-   7,K
-   1,D
-   8,U,X
-  13,G
-   8,R,G
-   1,R
-   5,L
-   3,J
-   7,R,J
-   1,R
-   1
-  17,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  17,R
-   1,R,J
-  18,R
-   6,R,D
+   3,R,K,G
    2,R
-   1,R,D
-  42,R,U,G
+  12,R,J,G
+  21,R
+   5,R,D
+   1,L,D
+   3,F,
+   4,J,G
+   2,J
+   2
+   3,R
+  20,R,J,G
+   1,R,J,G
+   1,J,G
+   1,R,J,G
+   1,J,G
+   2,K,G
+   1,K,G
+   1,K,G
+   3,K,G
+   1,K,G
+   1,G
+   1,G
+   1,R,G
+   1,J,G
+  13,R,J,G
+   1,R,J
+   3,J,O
+   1,R,J
+  16,R,K
+   1,K
+   1,R,K
+   1,K
+  11,R,D,X
+   8,R,J
+   6,R
+   1,R,J
+   6,R,D
+  14,D
+  15,G
+   3,G
+   1,R,G
+   3,R,G
+   1,U,G
+  19,R,U,G
    5,L,U,G
    1,R
    5,L
@@ -120,24 +145,40 @@ console load StrawberryJam2021/2-Intermediate/Luma
   18,R,G
    3,G
    1
-  22,L,D
-  12,D
-  10,R,X
-   3,J
-  10,R,J
-  17,R,U,X
-  20,R,G
-   5,R
-  15,R,U,X
-  22,J,G
+   2,D
+   1,R,D
+  17,L,D
+   5,D
+   1,L,D
    1,L
-  10,R,D
-  12,D
-  21,R,D
-  21,R,G
-   1,R
-   2
-  10,L,D,X
+   1,L,D
+   1
+   1,L,D
+   1,D
+   3,O
+  10,R,X
+   2,J
+   1,J
+   9,R,J
+  17,R,U,X
+  18,R,U,J,G
+   3,J
+   1,R,J
+  15,R,U,X
+   2,L
+  21,L,U,J,G
+   1,L
+   9,D
+  15,R,D
+   2,D
+   1,R,D
+   1,D
+  14,R,D
+   1,D
+   1,R,D
+  13,R,D,G
+   9,R
+  11,L,D,X
    4,R,J
    4,R,K,G
    8,R
@@ -565,4 +606,4 @@ ENdStunPause
    1,L,J,G
   47,L,K,G
 
-ChapterTime: 1:26.156(5068)
+ChapterTime: 1:24.881(4993)
