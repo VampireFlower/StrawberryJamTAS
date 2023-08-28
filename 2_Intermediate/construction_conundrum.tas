@@ -1,4 +1,4 @@
-RecordCount: 7253
+RecordCount: 7305
 
 console load StrawberryJam2021/2-Intermediate/thebreadstick1
    1
@@ -47,7 +47,8 @@ console load StrawberryJam2021/2-Intermediate/thebreadstick1
   15,D,X
    2
    3,R
-   6,R,D
+   5,R,D
+   1,R
    5,L,X
    4,L,J
   15,L
@@ -317,8 +318,7 @@ EndRepeat
   15,U,X
    3,L
    1,L,J,G
-   3
-   4
+   7
    7,R,Z
    1,L,J
   12,L,D
@@ -544,9 +544,9 @@ EndRepeat
   40
 
 #lvl_a-005 (2)
-#lightning cycle
-   2
-#
+##lightning cycle
+   0
+##
   10,R,D
   11,R,D,X
    1,R,J
@@ -586,41 +586,43 @@ endrepeat
    5,R,K
    4
   15,R,X
-   3,R,D
-  21,D
-  19,L,D
-  17,R,D
+   2,R,D
+   3,D
+   1,R,D
+  13,D
+  21,L,D
+   9,D
+  15,R,D
+   5,R,J
    5,R
-  10,R,J
+   1,R,J
    2,R,K
-   5,R,D
-  14,R,D,X
+   5,R
+  13,R,D,X
 stunpause
   40,R,D
 endstunpause
-  11,D
-   1,L,D
-   6,D
-   1,L,D
-   6,D
-  11,L,D
+   2,L
+   1
+   1,L
+   1
+  19,D
+   3,L
+  16,L,D
+   1,L
+  31,L,D
    7,L
-   1,D
-  23,L,D
-   8,L
-  15,L,D,X
-  14,L
-   4,L,D
-  15,L,C
-  28,L,D
-#currently gets a really good powerbox cycle
+  15,L,X
+  16,L
+  15,L,D,C
+  22,L
    3,J
   21,L,U,X
   20,U,C
    7,R
   15,R,D,X
   15,D,C
-   3,L,D
+   3,D
   40
 
 #lvl_a-012
@@ -711,4 +713,4 @@ endstunpause
   37,R
   61,R,J
 
-ChapterTime: 1:30.729(5337)
+ChapterTime: 1:30.661(5333)
