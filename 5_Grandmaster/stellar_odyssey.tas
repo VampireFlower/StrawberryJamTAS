@@ -1,4 +1,4 @@
-RecordCount: 5171
+RecordCount: 5177
 
 console load StrawberryJam2021/5-Grandmaster/Ecl1psed
    1
@@ -225,7 +225,7 @@ EndRepeat
    3,R
   24,R,G
 #spinner cycle
-   2,G
+   0,G
 #
    4,R,D,G
   12,R,X
@@ -270,10 +270,9 @@ EndRepeat
    7
   15,U,X
   26,D
-   6,L,J
-   5,J
-   3,R,J
-  15,U,X
+   5,L,J
+   7,J
+  16,U,X
   15,R,J
   14,R,Z
    9,R,J
@@ -690,4 +689,4 @@ EndStunPause
   16,U,X
  135
 
-ChapterTime: 1:45.009(6177)
+ChapterTime: 1:44.958(6174)
