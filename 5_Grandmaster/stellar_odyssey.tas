@@ -1,4 +1,4 @@
-RecordCount: 5212
+RecordCount: 5223
 
 console load StrawberryJam2021/5-Grandmaster/Ecl1psed
    1
@@ -670,14 +670,15 @@ EndStunPause
    1,R
   15,R,U,X
    5,R,C
-  23,R,G
+  21,R,G
+   2,L,G
    1,R
-   2,L,J
-  10,R,D,X
-   5,R,J
-  39,R,U,X,G
+   1,L,J
+  12,R,D,X
+   3,R,J
+  37,R,U,X,G
    3,R,J,G
-  10,R,G
+  12,R,G
    1,R
   15,L,X
   55
@@ -688,4 +689,4 @@ EndStunPause
   16,U,X
  135
 
-ChapterTime: 1:44.839(6167)
+ChapterTime: 1:44.822(6166)
