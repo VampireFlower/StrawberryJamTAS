@@ -1,4 +1,4 @@
-RecordCount: 8308
+RecordCount: 8314
 
 console load StrawberryJam2021/3-Advanced/Vamp
    1
@@ -420,19 +420,20 @@ EndRepeat
   13,R
   15,R,X
    8,R
-   7,L
+   6,L
+   1,L,U
   11,R,J
    7,R
 #jump to reset vertical subpixel
 #could probably be removed
-   1,J
    7,R,Z
    1,R,J
    3,R
    1,R,K
-   3,R
+   2,R
+   1,R,K
    4,R,J
-   1,L,J
+   1,R,J
   14,R,D,X
    9,L,U
   13,R,Z
@@ -484,5 +485,4 @@ Repeat 50
    1
 EndRepeat
    1,G
-
-ChapterTime: 0:59.245(3485)
+ChapterTime: 0:59.228(3484)
