@@ -1,4 +1,4 @@
-RecordCount: 7028
+RecordCount: 8308
 
 console load StrawberryJam2021/3-Advanced/Vamp
    1
@@ -208,95 +208,96 @@ EndRepeat
    1,R,K,G
    1,R
    1
-  12,R
-  33,R,J
-  13,U,X
+   7,R
+  11,R,J
+   7,R
+   1,R,J
+   7,R
+  15,R,U,X
+   6
+  15,D,X
+  24,R
+   2,R
+  16,R,U
+  10,L,U,X
+   4,R,J
+  26,R
+   0,L
+   1,R
+   2,R,U
+   2,L,U
+   5,J,G
    8,R,J
-   6,R
-  15,U,Z
-  19,L
-   8
-  24,R,D
-   1
-  15,R,Z
-  10,U,X
-  13,R,J
-  11,R
-   1,R,J
-   1
-   1,R,J
-   5,R
-   5,L,Z
-   1,R,J
-   6,R
-   3,R,J
-   5,R,D,X
-   1,R,J,G
-   5,R
-   1,R,J
-   6,R
-   1,R,J
-   5,R
-   6,R,U,Z
+  19,R,X
   40
 
 #lvl_Vamp_6
-   8,R,U,Z
-   1,L,J,G
-   1,L,J
+   3,R
+  12,R,U,X
+   1,R,J
+   4,R,K,G
    5,R
    1,R,J
-   8,R
-  17,R,X
-   1,R,J,G
-   5,R
-   2,R,J
-   9,R
-   2,L
-   7,R,J,G
-   5,R
+   1,R
    1,R,J
-  43,R
-   3,R,D
+  12,R
+  17,R,D,Z
+   1,J,G
+  25,R,U
+   4,R
+   1,R,U
   14,R,X
-   5,R,J,G
-   7,R
-   4,R,Z
-   1,R,J
-   6,R
-   9,R,J
-   5,R
-   2,L
-   1,R,J
-  15,R,U,Z
-  31,L,U,X
-  12,R,U,C
-   5,R,J,G
-  22,R
-   3,L
-   2,R
-  14,R,U,X
-   7,R,J
-   3,R
-   3,R,J
-  18,R,U
-  34,R,D,X
-   3,R
-   3,L
+   1,R,J,G
+   8,L,U
+  16,R,U
    1,J
-   5,R,J
-   7,R
+   9,R,J
+   1,R,J
+   1,R
    2
    4,J,G
-   3,R,J
-   2,R
-   3
+   2,R,J
+   5,R
+   4,R,J
+   5,K,G
+   6,R,K
+  15,R,D,X
+  16,R
+   1,R,J
+   1,R
+   1,K
+   8,L
+   3,R
+  13,R,Z
+   1,R,J
+   1,L
+  15,R,U,X
+   1,L
+   1,R,J
+   1,L,J
+   6,R,J
+   6,R,K,G
+  15,R,U,X
+  16,R,J
+   5,R,U,J
+   4,R,K
+   5,R
+   4,R,J
+  12,R
+  15,R,X
+   7,R
+   2,L
+   1,R
+   4,J
+   3,K,G
+   7,R,J
   15,D,X
   10,R
-   4,R,Z
+   5,R,Z
    1,R,J
    7,R
-   3,R,J
+   1,R,J
+   2,R
    6,R,U,X
    1,R,J,G
    1,L,J
@@ -366,35 +367,32 @@ EndRepeat
   18,R,U
   10,R
    9,U,X
-   8,R,J
-  38,R,D
-   2,D
-   2
-   2,R
-  14,D,X
-   9,R,J
-  25,R
-   5,R,U
-   1
-   1,U
-   1,R,J,G
-   1,R,K,G
-   5,R
+   7,R,J
+   8,R
    1,R,J
-  16,R
-   4,R,Z
+  46,R,D
+  13,L,J
+   1,K
+   1,J
+   6,L,J
+   5,R,J
+  10,L,Z
+   6,R,J
+  15,R,U,X
+   6,R,U
+   4,L,U
    1,R,J
-   7,R
-   8,R,J
-   8,R,U,X
-   1,R,J,G
-  14,R
-   1,U
-   7,R,U,J
+  13,R,U,X
+   5,R,J
+   5,R,U,X
+   2,R,J,G
+  12,R
+   8,R,U,J
   40
 
 #lvl_Vamp_9
-  17,R,J
+  12,R,J
+   4,L,J
   14,D,X
   16,R
   15,D,X
@@ -407,32 +405,34 @@ EndRepeat
    1,R,J
   14,R,U,X
    1,R,J
-   1,J
-   5,R,J
-   5,R
-  14,R,X
-  14,R,K,G
-   6,L,K
-   3,R,K
-   2,L,K
-   1,R,K
-  10,U,X
-   9,R,K
-  15,R
-  14,L
-   9,D,X
-   1,R,J
-  23,R
-   8,R,D
-  14,R,Z
-   7,R,J
+   1,L,J
+  11,R,J
+   2,R,J
+   7,R
+   1,L
+   2,R,J,G
   10,R
-  14,R,U,X
+   5,L
+  10,L,U,X
+   7,R,J
+   3,R
+   5,R,J
+  13,R
+  15,R,X
+   8,R
+   7,L
+  11,R,J
+   7,R
+#jump to reset vertical subpixel
+#could probably be removed
+   1,J
+   7,R,Z
    1,R,J
    3,R
    1,R,K
    3,R
-   5,R,J
+   4,R,J
+   1,L,J
   14,R,D,X
    9,L,U
   13,R,Z
@@ -485,4 +485,4 @@ Repeat 50
 EndRepeat
    1,G
 
-ChapterTime: 1:01.149(3597)
+ChapterTime: 0:59.245(3485)
