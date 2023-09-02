@@ -1,4 +1,4 @@
-RecordCount: 16050
+RecordCount: 16349
 
 console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    1
@@ -482,7 +482,7 @@ EndRepeat
    3,R,J
 
 #lvl_cp2_15_heartside_frozenflygone_b
-   1,R,J
+   1,R
   10,L,D,X
    7,L,J
   17,L
@@ -989,9 +989,9 @@ EndRepeat
 StunPause
    6,L,D
    7,D
-  11,R,D
+  10,R,D
 EndStunPause
-   6,R,D
+   7,R,D
    1,D
    1,R,J
   14,R
@@ -1192,25 +1192,30 @@ EndStunPause
   29,R
   16,R,X
   14,R,C
-   1,R,J
+   1,L,J
    1
   15,R,Z
-   5,R
-  15,R,U,X
-   9,R
-  15,D,X
   17,R,D
+  15,R,U,X
+  15,R,D,C
+  11,L,D
+   4,R,D
+   4,R
   15,R,Z
-  16,R,D
-  29,R
+   6,R
+  15,U,X
+  12,R
   15,R,U,X
    1,R
-  12,R,C
-  11,R,J,G
+  10,R,C
+  12,R,J,G
    5,R
-   1,R,K
-  21,R,J,G
-  36,R
+  20,R,J,G
+   1,R
+   1,R,J
+  11,R
+   1,R,D
+  23,R
   15,R,X
    1,R
   15,U,C
@@ -1996,4 +2001,4 @@ Repeat 33
 EndRepeat
    1
 
-ChapterTime: 4:27.342(15726)
+ChapterTime: 4:27.138(15714)
