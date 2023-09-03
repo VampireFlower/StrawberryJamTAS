@@ -1,4 +1,4 @@
-RecordCount: 5016
+RecordCount: 5214
 
 console load StrawberryJam2021/3-Advanced/pugroy
    1
@@ -16,10 +16,9 @@ console load StrawberryJam2021/3-Advanced/pugroy
    9,L
    1,L,D
   15,L,Z
-# 48
+# 47
    1,G
    1
-   1,G
    1,J
   14
    1,J
@@ -31,31 +30,35 @@ console load StrawberryJam2021/3-Advanced/pugroy
    5,R,J
    5,R,D,X
    1,R,J,G
-   4
-   2,R
+   3
+   3,R
    1,R,J
    4,R
-   9,R,J
+   1,R,J
+   1,J
+   6,R,J
+   1,R
   11,R,D,X
-   3,R,K,G
-   6,R
-   3,R,K,G
-   5,R,J,G
-   3,R,K,G
-   5,R,J,G
-   3,R,K,G
+   1,R,K,G
+   1
+   2,R,K,G
+   7,R
+   3,R,K
+   1,K
+   1,R,K
+   6,R,U,X
+   2,R,J,G
+   5,R,K,G
+   3,R,J,G
    6,R,D,X
    1,R,J
   10,R
-   1,R,J
-   1,R
-  10,R,D,X
-   6,R,J
+   2,R,J
+  11,R,D,X
+   7,R,J
    8,R
-   1,R,J,G
   31,L,D,X
-  15,L,D,C
-   1
+  16,L,D,C
   10,R,D,X
    1,R,J
    5,R,K,G
@@ -138,12 +141,11 @@ console load StrawberryJam2021/3-Advanced/pugroy
    8,L,J
   15,L,U,X
   12,L,C
-   4,L,J
+   8,L,J
    3,L
   11,K,G
    1
   12,J,G
-   4,K,G
    6
    1,L
    1,G
@@ -450,25 +452,24 @@ console load StrawberryJam2021/3-Advanced/pugroy
    1,L,J,G
    8,L,K,G
    6,L
-   5,K
+   3,L,K
+   1,L
    2,L,K
-   1,K
   10,L
    1,L,J,G
-   1,L,K,G
-   1,J,G
-   1,L,J
+   1,K,G
+   3,L,K
+   3,L
    1
-   4,L
+   1,L
+   2
    5,R
    1,R,J
    8,R
-   1,R,J
-   5,R
-   1,R,J
-   1,R
+   2,R,J
+   8,R
    3,R,J
-   6,R
+   4,R
    1,R,J,G
    5,R
    1,R,J
@@ -549,4 +550,4 @@ console load StrawberryJam2021/3-Advanced/pugroy
   14,R,D,X
  135
 
-ChapterTime: 1:06.351(3903)
+ChapterTime: 1:06.385(3905)
