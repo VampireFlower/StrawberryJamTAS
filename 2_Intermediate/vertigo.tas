@@ -1,4 +1,4 @@
-RecordCount: 2513
+RecordCount: 2573
 
 console load StrawberryJam2021/2-Intermediate/Evilleafy
    1
@@ -124,22 +124,20 @@ console load StrawberryJam2021/2-Intermediate/Evilleafy
    6,L
    1
    1,L
-   9,R,J
-  13,D,Z
-  26,R,J
-   2,J
-  15,R,D,X
-  11,R
-   2,R,J,G
-   4,L,J
-   1,J
-   1,R,K,G
+  11,R,J
+   4,R
+  15,D,X
+   1,R
+  28,R,J
+  23,R,D,X
    1,R,J,G
-   2,R,K,G
-  13,R
-   7,L,U
-   4,L
-   1,L,U
+   1,R
+   1
+   3,R
+   2,R,J
+   6,R
+   9,U
+   3,L,U
    5,U
    5,L,J,G
    1,L
@@ -335,4 +333,4 @@ console load StrawberryJam2021/2-Intermediate/Evilleafy
   10,D,X
  135
 
-ChapterTime: 0:46.784(2752)
+ChapterTime: 0:46.716(2748)
