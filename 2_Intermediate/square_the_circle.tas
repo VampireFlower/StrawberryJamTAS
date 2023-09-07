@@ -1,5 +1,6 @@
-RecordCount: 8672
+RecordCount: 10474
 
+#StunPauseMode, Simulate
 console load StrawberryJam2021/2-Intermediate/bryse0n
    1
 
@@ -293,6 +294,8 @@ console load StrawberryJam2021/2-Intermediate/bryse0n
   10,R
    1,L
   15,R,D
+#Lightning cycle (avoids camera side effects in next room)
+   0
   45,L,C
    4,L,K
    1,K
@@ -408,103 +411,90 @@ console load StrawberryJam2021/2-Intermediate/bryse0n
   14,R,D,X
    1,R,J
    8,R,U,Z
-#Lightning cycle
-   1
-  63,R,C
-   1,K,G
-   1,J,G
+  58,R,X
+   1,R,J,G
    1,L,J
-  13,R,J
-   5,R,D,X
-   8,R
-  43
-  14
-   5,R,Z
-   1,R,J
-   8
    3,R,J
-   5,U,X
-Stunpause
-  15,L,J
-   5,L
-Endstunpause
-   9,L
-   1
-   1,L
-   1
-   1,L
-   1,R,J
-   3,R
-   1,R,J
-   5,R
-   5,R,Z
+   1,K,G
+   2,J,G
    1,L,J
+   7,J
    2
-   1,J
-   1,L
-   8,L,J
-   4,L,K,G
-  15,L,U,C
-  26,L,D
-   1,L
-   5,L,Z
+   6,R,D,X
    1,L,J
-   6,L
-   1,L,J
-  40
-
-#lvl_a_07
-   9,L,J
-  14,L,U,V
-  14,U,X
-  11,L,K
-  14,U,C
-  25,L,D
-  14,D
-  17,L,U,C
-  15,L,D,X
-   7,L
-  71,L,U,C
-   9,L,D,X
-  15,L,C
-   7,L,U,X
-  12,U,C
+  24
+   4,L
+   5,R,X
    1,R,J
-   3,R
-   5,R,D,X
-   9,R
-  30,R,U,C
-  15,D,X
-  13
-   7,L,D,X
-   1,R,J
-   8,R
-  11,R,K
-  10,R
-   9,R,D,X
-   6,R
-  30,D,C
-  15,R,V
-  40,D
-   6,L,V
-   1,R,J
-   9,R
-   9,R,D,K
-  13,R
-   7,R,K
-  15,R,U,X
-   4,R,J,G
-   7,R
+  27,R
+  10
+   1,R
    6,R,Z
    1,R,J
-   2,R
+   8,R
+   5,L,X
+   1,L,J
+  23,L
+   2
+   4,R,J
+  12,J
+  14,R,D,X
+   1,J
+   5,D,X
+  47,D
+   1
+   8
+   5,R,X
+   3,J
+   1,R,J
+   4,J
+   1,R,J
+   3,R
+   6,L
+StunPause
+   4,L
+   1,L,J
+   5,L
+   6,G
+   9,U,G
+EndStunPause
+   1,U,G
+   1,G
+   1,U,G
+   1,J,G
+   4,L,X
+StunPause
+   1,L,X
+   1,L,J
+   1,J
+   5,J
+EndStunPause
+   2,J
+StunPause
+   4,J
+   1,J
+EndStunPause
   40
 
+#lvl_b_04
+   1
+  72,O
+  13,L,J
+   1,J
+   1,L,J
+   1,J
+  12,U,X
+   1,J
+  43
+
 #lvl_a_08
-   5,R
-   2,R,J
-  11,R,D,X
-   1,R,J
+   1,R,J,G
+   1,R,K,G
+   1,R
+   1
+   7,R
+   4,R,D,Z
+   4,R,J
    4,D,X
    1,R,K
    7,R
@@ -803,4 +793,4 @@ Endstunpause
 #lvl_outro
   42,R,D
  139,D,X
-ChapterTime: 1:49.752(6456)
+ChapterTime: 1:46.097(6241)
