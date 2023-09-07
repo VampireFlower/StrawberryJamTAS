@@ -1,4 +1,4 @@
-RecordCount: 7643
+RecordCount: 7650
 
 console load StrawberryJam2021/5-Grandmaster/xlibiza
    1
@@ -40,26 +40,31 @@ console load StrawberryJam2021/5-Grandmaster/xlibiza
 #lvl_a-01
    5,R
    9,R,D,J
-   9,U,X
-  13,J
-   2
+  14,U,X
+   7,L,J
   15,R,Z
    1
-  26
-AnalogMode Square
-   7,F,175.4
-   7,F,147.1
-   2,F,143.7
-  11,F,108.8
-  10,F,103.8
-   2,F,90
-   3,F,89
-  38,F,76.2
-  23,F,89.2
-   1,F,93.2
-   7,F,106.5
+  26,L,D
+AnalogMode, Square
+   1,F,145.18
+AnalogMode, Precise
+   5,F,166.483
+   1,F,165.016
+   2,F,161.076
+   1,F,155.752
+  13,F,117.595
+  13,F,101.874
+   1,F,96.659
+   2,F,87.72
+   1,F,84.386
+  38,F,76.418
+   1,F,79.885
+  20,F,89.299
+   3,F,90
+   7,F,107
   15,R,D,X
-  10,R
+   2,R,D
+   8,R
   15,R,Z
    5,R,D,X
    1,R,J
@@ -165,7 +170,7 @@ AnalogMode Square
   25,R,J
   14,R,Z
 ##Spinner cycle
-   1
+   0
 ##
    9,R,U,X
    7,L,J,G
@@ -1036,4 +1041,4 @@ AnalogMode Ignore
   14,R,U,X
  135,D
 
-ChapterTime: 2:40.922(9466)
+ChapterTime: 2:40.820(9460)
