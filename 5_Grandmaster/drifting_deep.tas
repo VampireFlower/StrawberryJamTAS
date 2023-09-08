@@ -1,4 +1,4 @@
-RecordCount: 8661
+RecordCount: 9066
 
 console load StrawberryJam2021/5-Grandmaster/xlibiza
    1
@@ -168,88 +168,59 @@ AnalogMode Square
   15,R,D,X
    2,R
   25,R,J
-
-# would save over a second but couldn't get it to work
-# -sky
-#  14,R,Z
-#   9,R,U,X
-#   7,L,J,G
-#   7,L,X
-#   1,J,G
-#  10
-#   2,R
-#   5,L,Z
-#   1,R,J
-#   3,R
-#   1,R,J
-#  12,R,K
-#   5,R
-#   1,R,J
-#   1,J
-#   9,L,Z
-#   1,R,J
-#   5,R
-#   2,R,J
-#   2,R,D
-#   2,R,D,J
-#   4,R
-#   1
-#   2,J
-#   4,R
-#  15,R,Z
-#   4,L,D
-#   1,L,D,J
-#   1,R
-#   4,L
-#  10,D
-#   6,L,D
-#   1,D
-#   1,R,D,J
-#   2,D,J
-#   1,D
-#   1,L,D
-#   1,K,G
-#   3,R,K
-#   6,R
-#   3,R,J
-
-
   14,R,Z
-##Spinner cycle
-   0
-##
-   9,R,U,X
-   7,L,J,G
-   7,L,X
-   1,J,G
-  10
-   2,R
-   5,L,Z
+  16,R,U,X
+  10,L,C
+  10,R,J
+   4,J
+  15,R,X
+   9,L,D,C
    1,R,J
-   4,R
-   3,R,J
-StunPause
-   9,R,J
-   7,R
-   3,R,J
-SkipInput 3 1
-   7,R,U,Z
-EndStunPause
-   7,R,U,Z
-  27
+   6,R
    1,R,D
+   1,D
+   1,R,D,J
+   8
+   6,R
+  10,R,Z
+   1,R,J,G
+   1,L
+   3,R
+   1
+   1,R
+   2,L
+   1
+   2,L
+   1,D
+   3,R,D
+   1,L,D
+##setup could be better
+   1,D,J
+   1,L
+   2,R
+   5,J,G
+   6,L
+   1,L,J
+   1,L
+##dash to feather?
+  15,L,U,X
+   5,L
+   1,R
+  15
+   1,R
+   1,R,D
+   1,R
+   5,R,X
+  27
 AnalogMode Precise
-  43,F,108.269
-   1,F,109.579
-  12,F,157.6
-   1,F,158.235
-  14,F,215.116
-   1,F,213.169
-  11,F,153
-  14,F,117.696
-   1,F,123.004
-  16,F,133.5
-   3,F,133.5,0.2
+   1,R,U
+  40,F,92
+  18,F,120
+  13,D
+  13,F,221
+  26,R
+  29,R,D
+   3,R
   14,R,Z
    4,R,J
    1,R
@@ -328,8 +299,7 @@ AnalogMode Precise
    1
   15,L,U,X
    4,L
-   3
-  26
+  29
    1,R,D
    3,F,126.693
    1,F,130.7
@@ -347,8 +317,7 @@ AnalogMode Precise
    2,R,D
   28,R,X
   15,R,D,C
-   3,R
-   1,R
+   4,R
   12,R,J
    5,R
   10,R,J
@@ -397,9 +366,9 @@ AnalogMode Precise
   15,R,D,X
   26
   17,R
-# Spinner Cycle
-   2
-#####
+## Spinner Cycle
+   0
+##
   15,R,U,Z
   15,R,D,C
    9
@@ -1075,4 +1044,4 @@ AnalogMode Ignore
   14,R,U,X
  135,D
 
-ChapterTime: 2:40.191(9423)
+ChapterTime: 2:39.732(9396)
