@@ -184,7 +184,7 @@ Read,4_Expert/mosaic_garden,Start
   32
 
 Read,4_Expert_Lobby/exp_15-30,Start
-Read,EnterHeartSide,Start
+Read,EnterHeartside,Start
 Read,4_Expert/expert_heartside,Start
   61
    1,O

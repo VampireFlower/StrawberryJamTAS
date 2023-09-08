@@ -118,7 +118,7 @@ Read,5_Grandmaster/cycle_madness_b-side,Start
   32
 
 Read,5_Grandmaster_Lobby/gm_9-19,Start
-Read,EnterHeartSide,Start
+Read,EnterHeartside,Start
 Read,5_Grandmaster/grandmaster_heartside,Start
   61
    1,O

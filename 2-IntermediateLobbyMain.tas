@@ -116,7 +116,7 @@ Read,2_Intermediate/square_the_circle,Start
   32
 
 Read,2_Intermediate_Lobby/int_18-19,Start
-Read,EnterHeartSide,Start
+Read,EnterHeartside,Start
 Read,2_Intermediate/intermediate_heartside,Start
   61
    1,O
