@@ -1,4 +1,4 @@
-RecordCount: 9229
+RecordCount: 9281
 
 console load StrawberryJam2021/5-Grandmaster/xlibiza
    1
@@ -212,8 +212,8 @@ AnalogMode Square
    1,R
    5,R,X
   26
-AnalogMode Precise
    1,R,U
+AnalogMode Precise
   22,F,115
    7,F,110
   22,F,108.269
@@ -320,18 +320,21 @@ AnalogMode Precise
   15,R,D,X
   15,R,D,C
    2,R,D
-  28,R,X
+  20,R,X
   15,R,D,C
-   4,R
-  12,R,J
+   1,R
+   2
+   1,R,J
+   4,Z
+   1,R,J
    5,R
-  10,R,J
-  10,R
+  11,R,J
+   8,R
+   1,R,J
+  11,R
   14,R,Z
    1,R,J
-   3,R
-   1,R,J
-   3,R
+   7,R
    4,R,J
    5,R,D,X
    3,R,J,G
@@ -369,7 +372,7 @@ AnalogMode Precise
    5,F,97
   13,R
 ## Spinner Cycle
-   1
+   2
 ##
   14,R,U,X
   14,R,D,C
@@ -1046,4 +1049,4 @@ AnalogMode Ignore
   14,R,U,X
  135,D
 
-ChapterTime: 2:39.069(9357)
+ChapterTime: 2:38.967(9351)
