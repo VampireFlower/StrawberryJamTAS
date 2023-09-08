@@ -1,4 +1,4 @@
-RecordCount: 10591
+RecordCount: 10887
 
 console load StrawberryJam2021/5-Grandmaster/xlibiza
    1
@@ -614,8 +614,7 @@ AnalogMode Square
   26,R,D
    8,D
    2,L,D
-   2,D
-   1,D
+   3,D
 StunPause
   10,D
 EndStunPause
@@ -633,8 +632,7 @@ EndStunPause
 StunPause
    4,R,D
 EndStunPause
-   1,R,D
-   1,R,D
+   2,R,D
    2
    1,J
    3
@@ -702,18 +700,28 @@ EndStunPause
 
 #lvl_a-07
    5,R
-  22,R,D,J
    1,R
-   6,R,U,X
-  27,R
-  21,F,92.9
-   1,F,95.024
-  29,F,106.4
-  31,F,67.682
-   1,F,64.759
+   1,R,J
+   5,R
+   1,R,J
+   1,R
+   3
+   1,J
+   1
+   1,R
+   1
+  11,R,U,X
+AnalogMode Square
+  28,F,108.338
+AnalogMode Precise
+   7,F,90
+   3,F,100.563
+  34,F,103.1
+  30,F,64.8
    5,F,38
   34,F,35.3
-  17,F,33
+   1,F,33
+  15,F,32.9
   10,F,72
   15,R,Z
    6
@@ -733,20 +741,24 @@ EndStunPause
   16,R,D
   50,F,83
   11,F,60
-  13,R,Z
+  12,R,Z
+# 2/3f
 StunPause
-   2,R,Z
+   3,R,Z
 SkipInput 3 1
-   9,R,U,X
+   8,R,U,X
 EndStunPause
+   1,R,U,X
   34,R,C
   15,R,D,X
-   4,R
-   4
-   6,L,Z
+   3,D
+   1,R,D
+   2,D
+   4,R,Z
    1,R,J
    7,R
-   3,R,J
+   2,R,J
+   1,R
    1
   15,R,D,X
    7,R,D
@@ -1087,4 +1099,4 @@ AnalogMode Ignore
   14,R,U,X
  135,D
 
-ChapterTime: 2:36.876(9228)
+ChapterTime: 2:36.621(9213)
