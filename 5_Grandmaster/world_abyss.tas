@@ -1,4 +1,4 @@
-RecordCount: 23787
+RecordCount: 24648
 
 console load StrawberryJam2021/5-Grandmaster/Dav
    1
@@ -350,148 +350,91 @@ EndStunPause
    3,R
    8,L
    9,L,D
-   2,R
-###pretty close to saving 40f+
-#   2,R,D
-#   4,R,Z
-#   1,R,J
-#   1,R,K,G
-#   1,R,J,G
-#   1,R,K,G
-#   1,R,J,G
-#   7,R
-#   1,R,D
-#StunPause
-#   3,D
-#   1,R,J
-#   4,J
-#   1,R,J
-#   1,R,J
-#   5,R
-#   2,R,K
-#   2,R,K
-#   1,R,J,G
-#   1,L,J
-#   3,R,J
-#   1,R,J
-#EndStunPause
-#StunPause
-#   1,R,J
-#   5,R
-#   1,R,J
-#SkipInput 3 1
-#   6,R,U,Z
-#EndStunPause
-#  10,R,U,Z
-#   1,R,J,G
-#   5,R
-#   6,R,D,X
-#StunPause
-#   9,R,D,X
-#   1,R
-#EndStunPause
-#   8,R
-#StunPause
-#   8,R
-#EndStunPause
-###
-   2,R,D
-   4,R,Z
+   4,R
+   4,Z
    1,R,J
    1,R,K,G
    1,R,J,G
    1,R,K,G
    1,R,J,G
-   7,R
+   6,R
+   1
 StunPause
-   1,R,D
-   3,D
-   2,R,J
-   4,J
-   1,R,J
+   5,R,D
+   7,R,J
    5,R
-   2,R,K
-   2,K
-   1,R,J,G
-   4,J
-EndStunPause
    1,R,J
-   7,R
-  10,R,U,Z
-StunPause
-   2,R,U,Z
-SkipInput 3
-   5,R,U,Z
-   6,R,J,G
-EndStunPause
-   1,R,J
-StunPause
-   3,R,J
-SkipInput 3 1
-  12,R,D,X
-EndStunPause
-   3,R,D,X
-   5,D
-StunPause
-   4,D
-   7,R,D
-   5,R,D,J
-EndStunPause
-   6,R,J
-   7,R
-   3,R,J
-  15,R,U,Z
-  16,R
-   1,J,G
-   4,L,J
-   1,R,K,G
-   1,R,J,G
-   8,R,J
-   3,R
-   4,R,K,G
-   7,R
-   5,R,D,X
-   1,R,J
+   1,J
+   6,R,K,G
    1,R
-   3,R,J
-   1,R,K,G
-   9,R
-   1,R,J
-   2,R
-  13,R,U,X
-   1,R,J,G
-  13,R
-   2,R,J
-   5,R
-   1,R,J
+EndStunPause
+   4,R
+   2
+  16,R,U,Z
+   5,J,G
+   3
+StunPause
+   4
+   4,R
+SkipInput 3 1
+   9,R,D,X
+EndStunPause
+   6,R,D,X
+   2,R,D
+StunPause
+  12,R,D
+   4,R,D,J
+EndStunPause
+   8,R,J
   10,R
+  15,R,U,Z
+  18,R
+   1,J,G
+   2,L,J
+   4,K
+   1,R,J,G
+   5,J
+   3,R,J
+   3,J
+   2,K,G
+   1,R,J,G
+   1,R,K,G
+   7,R
+#spinner cycle [big-2]
+   2
+####
+   5,R,Z
+   1,R,J
+   3,R
+   1,R,J,G
+  10,R
+   1,R,J
+  14,R,U,X
+   1,R,J,G
+   6,R
+   3,R,J
+   4,R
+   2,R,J
+   7,R
+   1,R,J
+   8,R
   15,D,X
-   4,R,D
-  11,L,D
+   3,R,D
+  12,L,D
   16,L,Z
    7,U,X
 
 #lvl_big-2
-   1,U,X
-### spinner cycle [big-2]
-#+0f
-#   7,J
-#+1f
-#   4,J
-#   2
-#   1,R,J,G
-#   1
-#+2f
-   2,J
-   3
-   3,R,J,G
-   1,R
-###
+   4,U,X
+   3,R,J
+   1
   14,L,Z
    1,R,J
    5,R,D,X
-   3,R,J,G
-   9,R
+   2,R,J,G
+   5,R
+   2,R,J
+   2,R
    2,R,J
   25,R,D,X
    4,R,J
@@ -499,7 +442,7 @@ EndStunPause
    8,R,U,X
   22,R,J,G
    2,R
-   9,L,D
+   9,L
    1,R,J
   11,L,J
    3,R,J
@@ -1105,4 +1048,4 @@ EndRepeat
   15,L,U,X
  133
 
-ChapterTime: 2:44.169(9657)
+ChapterTime: 2:43.489(9617)
