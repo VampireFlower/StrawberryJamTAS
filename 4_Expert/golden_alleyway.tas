@@ -1,4 +1,4 @@
-RecordCount: 9700
+RecordCount: 10046
 
 console load StrawberryJam2021/4-Expert/RedBoule
    1
@@ -11,7 +11,7 @@ EndRepeat
    8
 
 #Spinner cycle [b04]
-   1
+   0
 
 #lvl_a_01
   10,R,X
@@ -190,20 +190,25 @@ EndRepeat
   16,R,J
   14,U,X
   27,J
-  18,L
-  14,U,G
-  19,G
+  16,L
+   2
+   1,L
+  17,U,G
+  13,G
+   1,U,G
    1,L,K,G
    1,J
   10,K,G
-   1
-  24,R,D
-  11,D
-   4,R,D,G
-   7,R
+   1,R
+  25,R,D
+   8,D,G
+   1,R,D
+   1,D
+  10,R,D
    8,R,Z
    2,R,J,G
-   8,R
+   5,R
+   3,R,J
    9,U,X
   10,R,J
    7,R
@@ -488,25 +493,20 @@ EndRepeat
 
 #lvl_b_02
    3,G
-   1,J
-   9,R,J
-   2,J
-   1,R,J
+   1,J,G
+  12,K,G
   14,U,X
-  27,L,U
-  11,F,15
-  30,F,59.537
-   1,F,63.055
-  11,F,81.838
-   1,F,85.127
-  23,F,101.722
-  13,G,F,104.88
-   8,F,74.335
-   1,F,72.14
-  11,F,12
-   1,F,8
-   9,F,354
+  27,R,U
+  40,F,44.36
+   2,F,90
+  10,F,101.2
+  29,G,F,101.2
+   8,F,85.3
+   5,F,45
+   7,F,0
+   9,F,348
   15,U,X
+   1,L
   12,L,J,G
    1,K,G
    1,R,K
@@ -555,11 +555,15 @@ EndRepeat
    1,R,J,G
    5,R
    1,R,J
-  16,R
-  14,U,Z
-   7,R,J
+   1,R
+   5,R,J
+   2,R
+   8,R,G
+  14,U,X
+   5,R,J
+   1,J
   11
-   5,R,Z
+   5,R,D,X
    7,R,J
    3,R,K,G
    3,R
@@ -659,37 +663,30 @@ EndRepeat
    6,L,D,X,G
    1,R,J
    7,R
-   1,R,J
+   1,R,D,J
    9,R,D,X
-   1,R,J,G
-   9,R
+   1,R,J
+  10,R,K,G
   40
 
 #lvl_b_04
-   6,R
-   2,R,J
-   7,R
-  17,R,J
   15,R,D,X
-   5,R
-  27,R,U
-  11,F,105
-   4,F,112.394
-   1,F,109.212
-   5,F,89.467
-   1,F,87.893
-  16,F,81.062
-   1,F,80.497
-   3,F,53.723
-   7,F,54.92
-   1,F,50.6
-   1,F,35.849
-  22,F,35
+   1,R,J
+   3,R,K,G
+  17,R,J,G
+  15,R,D,X
+   1,R
+  34,R,U,G
+  12,F,80.191
+  12,F,51
+  26,F,36.9
   17,R,Z
-   8,R,J
+   7,R,J
   14,R,D,X
-   7,R,J,G
-  16,R
+   6,R,J,G
+   5,R
+   2,R,J
+   9,R
    1
   14,R,D,X
    7,R,J
@@ -790,4 +787,4 @@ EndStunPause
    1,R,K
   50,R
 
-ChapterTime: 1:28.264(5192)
+ChapterTime: 1:27.703(5159)
