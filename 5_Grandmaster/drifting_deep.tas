@@ -1,4 +1,4 @@
-RecordCount: 10926
+RecordCount: 11455
 
 console load StrawberryJam2021/5-Grandmaster/xlibiza
    1
@@ -706,7 +706,8 @@ EndStunPause
   43
 
 #lvl_a-07
-   6,R
+   5,R
+   1,R
    1,R,J
    5,R
    1,R,J
@@ -808,34 +809,32 @@ EndStunPause
    4,R,J
    7,R,Z
   17,R,J
-  11,R
+  10,R
   26,U,X
    5
-   6,L
-  10,R,Z
-  16,L,J
-  20,L,X
-   7,L,J
-   4,L,Z
-  16,L,J
-   2,L
-   2,L,J
-   4,J
-  23,L,U,Z
-   4,R,J
-  10,U,X
-   9,L,J
-   9,U,X
-  10,R,J
+   6,R
   14,R,Z
-   7,R,J
-  15,R,D,X
-  18,R
-  15,L,D,X
-  10,R,D,C
-   1,R,J
-  11,R
-  15,R,U,Z
+   1,L,J
+  15,R,Z
+   5,L,D
+  10,R,D
+   6,D
+  11,L,J
+   5,L
+   2,L,J
+  15,R,U,X
+  14
+   2,R,J
+  15,R,Z
+  10,R,V
+   3,R,J
+   6,K,G
+   6,L,K
+   5,L,J,G
+  18,L,Z
+   9,L,X
+  21,L,U,C
+  15,L,Z
   15,U,X
   15,D,C
   15,R,X
@@ -876,36 +875,37 @@ EndStunPause
    7,R,C
   15,R,X
   21,R,D,C
-  14,R,X
-   4,R,J
-   8,R
-  33,R,U,X
-  15,D,C
+  10,R,Z
+   9,R,J
+  15,R,U,X
+  20,R
+  15,D,X
   12,R,Z
    1,R,J
    1,R
    1,R,J
    9,R
    2,R,J
-  21,R,D
+  14,R,D
+   7,L,D
   15,R,Z
-   6,L,D
-  10,R,D
-  14,L,X
+  15,L,D
+   1,L,J
+   4,L
+  10,R,D,X
    1,R,J
-  14,R,D,X
-   1,R,J
-  15,R,D,X
-  22,R,J
-  22,R,X
+   4,R
+  17,R,D,X
+  26,R,J
+  21,R,X
    4,R,J
   10,R,K
   12,R,Z
    4,R,J
-   3,L,K
+   3,R,K
   19,U,X
-   8
-  10,R
+  10
+   7,R
   18,R,Z
   15,U,X
   17,U,C
@@ -925,17 +925,18 @@ EndStunPause
   21,R,X
    4,R,J
    7,R,Z
-  30,R,J
-  15,R,U,Z
-   1,R
-  27,R,U
-  50,F,90
-   8,F,95.33
-   9,F,90
+  31,R,J
+  14,R,U,X
+  26
+AnalogMode Square
+   1,F,57.58
+AnalogMode Precise
+   7,F,95
+  57,F,91.28
   11,R,D,X
-   1,R,J
+   2,R,J
    1,J
-   4,R,J
+   3,R,J
    5,R,K,G
   10,R,D,X
    3,R,J,G
@@ -989,9 +990,10 @@ EndStunPause
   22,F,74.244
    1,F,78.445
   12,F,98.333
-  11,F,156
-  10,F,210.458
-  21,L,X
+  10,F,156
+   1,F,156.58
+   9,F,199.8
+  22,L,X
   16,R,Z
    4,R,J
    8,R,K
@@ -1011,16 +1013,16 @@ EndStunPause
   14,R,J
   15,R,D,X
    1,R
-   3,R,J
+   1,R,J
+   2,R
   15,R,D,X
-   6,R,D
+   5,R,D
   30,R,U
   11,F,105
   42,F,159.773
-   1,F,155.124
-  25,F,127.512
-   1,F,127.245
-   1,F,120
+   2,F,155
+  26,F,124
+   1,F,118
 AnalogMode Ignore
   14,R,Z
    4,R,J
@@ -1068,8 +1070,8 @@ AnalogMode Ignore
    1,L
    6
    5,R
-   2,R,J
-   1,R
+   1,R,J
+   2,R
   14,R,Z
    1,J
    1,R,K,G
@@ -1105,4 +1107,4 @@ AnalogMode Ignore
   14,R,U,X
  135,D
 
-ChapterTime: 2:36.468(9204)
+ChapterTime: 2:35.635(9155)
