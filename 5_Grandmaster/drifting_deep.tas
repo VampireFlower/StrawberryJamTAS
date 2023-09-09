@@ -514,12 +514,16 @@ AnalogMode Square
    8,F,89.905
   14,R,Z
   33,R,C
-  22,R,J,G
-  11,R,U,X
-  10,R,U,C
    1,R,J,G
-  20,R,K,G
-   8,R
+   1,R
+   1,J,G
+   9,R,J
+   7,R
+  13,R,U,Z
+  10,R,U,X
+   1,R,J,G
+  12,R,K,G
+  15,R
   15,R,X
    2,R
   15,L,C
@@ -528,8 +532,9 @@ AnalogMode Square
   15,R,Z
    3,R
   15,L,D,X
-  14,D,C
-  13,L,X
+   4,D
+   8,L,D
+   9,L,X
   13,D,C
   11,R,X
    9,R,Z
@@ -605,7 +610,7 @@ AnalogMode Square
    8,L,D
   16,L,X
 ## Spinner cycle
-   0
+   2
 ##
   14,R,Z
   20,R,J
@@ -701,8 +706,7 @@ EndStunPause
   43
 
 #lvl_a-07
-   5,R
-   1,R
+   6,R
    1,R,J
    5,R
    1,R,J
@@ -1101,4 +1105,4 @@ AnalogMode Ignore
   14,R,U,X
  135,D
 
-ChapterTime: 2:36.519(9207)
+ChapterTime: 2:36.468(9204)
