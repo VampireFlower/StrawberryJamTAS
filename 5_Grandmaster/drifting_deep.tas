@@ -337,7 +337,7 @@ AnalogMode Precise
   15,R,D,C
    2,R,D
 ## Spinner cycle
-   0
+   1
 ##
   20,R,X
   15,R,D,C
@@ -373,30 +373,42 @@ AnalogMode Precise
    2,R,J
    9,R
    5,D,X
-  26
-   1,R,D
-  16,F,144.007
-   1,F,144.023
-  27,F,188.165
-   1,F,192.832
-   3,F,211.973
-  14,R,D,X
+  27,R,D
+  10,F,120
+  18,D,X
+   6,D
+  10,L,D
+  13,R,D,X
    4
+   1,L
   15,R,D,X
-  44,L,D
-  11,R,D
+   1
+   1,R
+   1
+   1,R
+  36,L,D
+   1,L
+   3,L,D
+   9,R,D
+   2,L,D
   18,R,D,X
    2,R,D
 AnalogMode Square
-  27,F,99
+  27,F,100
 AnalogMode Precise
-   4,F,96.5
-   3,F,87.5
+   2,F,101
+   1,F,98.1
+   1,F,92.5
+   2,F,81.9
+   1,F,87.4
    4
    8,F,159
    4,F,140.5
-   9,F,92.9
-   5,D
+   8,F,90.6
+   1,F,93.45
+   3,D
+   1,F,270
+   1,D
    5,F,115
    3,F,114
   20,F,40
@@ -410,9 +422,9 @@ SkipInput 3 1
    1,R,D
   13,F,109
    9,F,90
-   4,F,63.5
+   4,F,63.37
 EndStunPause
-  11,F,63.5
+  11,F,63.37
   41,F,85.1
   26,F,91.5
   13,R,Z
@@ -1111,4 +1123,4 @@ AnalogMode Ignore
   14,R,U,X
  135,D
 
-ChapterTime: 2:35.414(9142)
+ChapterTime: 2:35.312(9136)
