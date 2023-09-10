@@ -1,32 +1,31 @@
-RecordCount: 9574
+RecordCount: 10217
 
 console load StrawberryJam2021/4-Expert/Vina
    1
 
 #Start
 #lvl_Vina-00
-   1,R
-  14,R,Z
-   4,R,J
-   3,R
-  11,R,D,X
-   2,R,J,G
-   6,R
-   1,R,J
-   2,R
-   1,R,J
+  10,R,D,X
+   2,R,J
    1,J
-   3,R
+   3,R,J
+  15,R,D,X
+   1,R,J
+   5,R,K,G
+   7,R
+   4,R,J
    7,R,D,X
-   5,R,J,G
-  17,R
+   7,R,J,G
+   5,R
    3,R,J
    8,R
-  14,R,J
+   8,R,J
+   8,J
    9,U,X
-  15,R,J
+  14,R,J
   11
-   2,J
+   1,J
+   2
   10,R,X
   19,J
   18,U,X
@@ -70,59 +69,61 @@ console load StrawberryJam2021/4-Expert/Vina
   20,R,U,X
   34,R
   14,R,D,X
-  10,R,J
-   3,R
-   3
+  15,R,J
+   2,J
   18,R,U,X
+   1,L
   15,U,C
-  15,L,U,X
-   7,L
-  28,R
-  21,R,J
-   3
+   6,L
+   1
+  15,L,X
+  15,R,C
+  10,L
   15,R,Z
-  17,U,X
-  52,R
-  14,R,Z
+  15,U,X
+# can hit puffer up to 30f earlier with upleft
+# but can't seem to get enough height for landing strat
+# -sky
+  18
+  60,R
+  13,R,Z
    1,R,J
    5,R,K,G
-   8,R,J,G
+   1,K
+   3,R,K
+   9,R,D,X
+   2,R,J,G
    1,R
-   8,R,D,X
-   1,R,J,G
+   1,R,J
    1,R,K
-   5,R,J
-   3,R
+   8,R
   40
 
 #lvl_Vina-02
-   2,R
+   7,R,D
    2,R,J
-   1,R
-   1,R,J
-   5,R
-   1,L
-  14,R,U,Z
-  43,R
-  13,R,X
+  14,R,U,X
+  45,R
+  14,R,X
   12,R,J
   11,R
   15,R,X
   21,R
   10,R,J
-   3,R
-   3
    1,R
+   6
   20,R,U,X
   28,L
   16,L,D,X
   21,L,J
   18,L,U,X
-   3,R
-   1,L
+   4,R
   15,U,C
-  12,L
-  18,D
+  11,L
+   7,D
+   1,L,D
+   6,D
+   5
   15,R,U,X
   15,R
   12,R,J
@@ -131,18 +132,23 @@ console load StrawberryJam2021/4-Expert/Vina
    3,R
   12,R,U,X
   20,R,J
-  17,U,C
+  16,U,C
   19,L
   17,L,U,X
-  17,R
+  14,R
+   1,R
+   1,R
   17,R,J
   15,U,X
   18,R
   10,L
-  12,L,J
-   2
+   9,L,J
+   1,J
+   4
+   1,L
+   1
   41,L,U,X
-  29,L
+  28,L
   14,L,Z
    1,L,J
    2,L,K,G
@@ -173,25 +179,25 @@ console load StrawberryJam2021/4-Expert/Vina
   10,L
   25
    2,L
-  10,L,X
-   6,R,J
-  11,R
-  20,R,U,Z
-  43,R
+  10,L,Z
+  10,R,J
+  22,R,U,Z
+  41,R
   14,U,Z
   12,R,J
   22,R
    5,L
-  14
+   9
+   5,L
   15,U,X
-   9,L,J
-  16,J
+  10,L,J
+  15,J
   11,L
   19,L,D,X
   32,L,J
   15,L,U,X
-   3,L
-  29
+   2,L
+  30
   18,U,X
   15,R,U,C
   76,R
@@ -229,35 +235,39 @@ console load StrawberryJam2021/4-Expert/Vina
   16,U,X
   10,L
   17,L,X
-   2,L,J,G
-   1,L,K,G
-   1,K
-  10,L,K
-   7,U,X
-  17,R,J
-  23,R
-  29,R,J
+   1,L,J,G
+   1,J,G
+   8,K,G
+  17,U,X
+  35,R
+  20,R,J
+   9,J
   44,U,X
   27,R,U,C
   14
    2,L
-  12,L,J
-   4,J
+  11,L,J
+   5,J
    1,L,J
   16,U,X
-  62,R,J
+  60,R,J
   14,R,X
   10,R,J
    1,R
   15,R,J
-  10,R
-   1,R,D
-   4,L,D
-   9,L
+  11,R
+   2,R,D
+   5,L,D
+   4,L
   10,L,D,X
-  11,L,D
+   1,L
+   8,L,D
+   1,L
+   2
    1,D
-   7
+   1
+   1,L
+   6
   45,R
    1,R,D
   15,R,U,X
@@ -689,4 +699,4 @@ repeat 7
    2,R,D
 endrepeat
 
-ChapterTime: 1:51.979(6587)
+ChapterTime: 1:51.622(6566)
