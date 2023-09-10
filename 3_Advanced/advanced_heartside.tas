@@ -1,4 +1,4 @@
-RecordCount: 19152
+RecordCount: 19430
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -1145,7 +1145,6 @@ EndStunPause
    1,R,U
   11,U
    1,R,U
-
 #   4,R
 #  40,L
 #   6
@@ -1203,24 +1202,18 @@ EndRepeat
   15,U,X
    1
    6,R
-  17,R,G
-   4,G
-   1,D
-  12
-   1,L,J,G
-   1,L,J
-   1,R
-   1,L
-  16,K,G
+  14,R,G
+  23,L,G
    1,R,J,G
-  49,R,D,K,G
-   6,R,G
+  47,R,D,K,G
+   9,R,G
    1,R
   15,R,X
   16,R,D
-   1,D
+   1,R
   15,L,D,X
-  16
+   1,L
+  15
   11,L
   13,L,Z
    1,R,J
@@ -1770,7 +1763,7 @@ EndRepeat
    1,K,G
    5
 #spinner cycle
-   0
+   1
 #
   15,D,X
   14,R,D,C
@@ -2048,4 +2041,4 @@ EndStunPause
   12,U,X
  135
 
-ChapterTime: 4:49.323(17019)
+ChapterTime: 4:49.068(17004)
