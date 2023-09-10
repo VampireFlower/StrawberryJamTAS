@@ -1,5 +1,5 @@
 #By Kataiser
-RecordCount: 7340
+RecordCount: 7361
 
 console load StrawberryJam2021/3-Advanced/Worldwaker2
    1
@@ -553,7 +553,6 @@ EndRepeat
   19,L,J
   30,U,J,G
   15,L,U,J,G
-
 #1f late climbjump for spx manip
 #real bad but it works and don't see an option for more height to land frame sooner
    1,L,K,G
@@ -609,7 +608,8 @@ EndStunPause
   15,U,X
    4
   24,R,G
-  16,G
+  14,G
+   1
    2,R
    2
    1,R
@@ -671,4 +671,4 @@ EndStunPause
   18,R,U,X
  135,R,D
 
-ChapterTime: 1:34.809(5577)
+ChapterTime: 1:34.792(5576)
