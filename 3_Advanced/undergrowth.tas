@@ -1,4 +1,4 @@
-RecordCount: 8454
+RecordCount: 8806
 
 console load StrawberryJam2021/3-Advanced/Nic
    1
@@ -311,33 +311,52 @@ EndStunPause
    4,J,G
   12,L,J
    6,L,K,G
+#####
+#getting around the corner crouched
+#would save like 20f
+#  12,L,J,G
+#   8,L
+#   1,J
+#   3,L,J
+#  15,J
+#   2,L,J
+#  15,U,Z
+#   1
+#   3,R
+#   1,L
+#   1,J,G
+#   1,R,J
+#   1,L
+#  99,L,J
+#####
    4,L,J,G
    5,R,J
    2,L,J
    1,J
   10,L,Z
   19,R,J
-   5,K,G
-   1,L,K
-   1,J
-   5,L,J
-   5,R,J
    2,K,G
    1,L,K
-   9,R,K
    1,R,J,G
-   1,L,J
+   7,L,J
+   2,R,J
+   2,R
+   1,K
+   2,J,G
+  18,L,J
+  22,L,U,Z
+   4,L,J,G
+   5,L
+   2,R
    1,R,J
-   9,J
-  11,K,G
+   1,L,J
+   1,K
    1,J
-   2,K,G
-  28,L,K
+   4,R,J
   15,U,X
-   2,L
-  35,R,J
+  34,R,J
   15,U,X
-   3,R
+   5,R
    9,R,J
    6,L,J
    3,R,J
@@ -356,7 +375,7 @@ EndStunPause
    4,L,Z
    9,L,J
 ### 06-b Spinner Cycle
-   0
+   1
 ###
    1,S
    1,D,J
@@ -755,4 +774,4 @@ EndStunPause
   14,R,U,X
  135
 
-ChapterTime: 1:25.663(5039)
+ChapterTime: 1:25.510(5030)
