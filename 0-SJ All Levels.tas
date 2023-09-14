@@ -6,8 +6,6 @@
 #Appear to be desyncing the TAS
 
 #Use the bindings in the CelesteTAS readme
-#Turn on speedrun timer
-#Turn on show Mod Options in game
 #Change your default map to Strawberry Jam Collab
 #Start from file creation "Begin"
 #Make sure map select shows up
@@ -15,7 +13,7 @@
 
 Read,StartFullCollabFile
 
-Read,0-SJ_Prologue,Start
+Read,0-SJ_prologue,Start
 
 Read,LoadBeginnerLobby
 

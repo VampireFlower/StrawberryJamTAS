@@ -1,8 +1,13 @@
-Set,DisableScreenShake,true
+Set,Language,english
+Set,ScreenShake,Off
 Set,DisableFlashes,true
 Set,SpeedrunClock,2
-Set,Everest.ShowModOptionsInGame,false
+Set,Everest.ShowModOptionsInGame,False
+Set,Everest.UseKeyboardForTextInput,False
 Set,CollabUtils2.DisplayEndScreenForAllMaps,False
+Set,CrouchDashMode,Press
+Set,GrabMode,Hold
+Set,GravityHelper.ControlScheme,Absolute
 EnforceMaingame
 Unsafe
 Add 2
@@ -34,4 +39,4 @@ Add 41
    1,U
    1,J
 Add 131
-1
+   1
