@@ -1,4 +1,4 @@
-RecordCount: 3697
+RecordCount: 3913
 
 console load StrawberryJam2021/5-Grandmaster/tcookiem
    1
@@ -248,18 +248,15 @@ console load StrawberryJam2021/5-Grandmaster/tcookiem
    5,R
   24,R,J
   48,R,U,X
-   4,J
-   2
+   4
    4,R,Z
-   1,R,J
-   1,J
-   4,R
-   1,R,J
-   4,R
-   5,R,D,X
-   1,R,J,G
-  12,R
    3,R,J
+   4
+   6,R,J
+   6,R,D,X
+   1,R,J,G
+  13,R
+   1,R,J
   40
 
 #lvl_Basin
@@ -267,7 +264,7 @@ console load StrawberryJam2021/5-Grandmaster/tcookiem
   17,R,U,X
   14,R
  126,G
-   1,D,G
+   1,U,G
    1,G
    3,L
    2
@@ -380,27 +377,24 @@ console load StrawberryJam2021/5-Grandmaster/tcookiem
   18,R,J
    7,R
   37,R,D,X
-   8,J
-   6,L,K
-   3,J,G
-   1,L,J
-  12,R,K
-   2,K
-   4,R,J
-  17,R,Z
-   1,R,J
-  13,R,Z
-   1,R,J
-   4,R
+   7,R,J
+   4,R,K
+   7,K
+  14,R,U,X
+   3,R,J,G
+   5
+  16,R,Z
+   2,R,J
+   2,R
+   2,R,J
   15,R,D,X
-   1,D
-   5,R
+   6,R,D
    1,R,J,G
   11,R
-  11,R,J
-   5,R
-   2,R,J
-  13,R
+  10,R,J
+   7,R
+   4,R,J
+   9,R
   14,R,U,X
    1,R,J,G
    9,R
@@ -539,41 +533,40 @@ console load StrawberryJam2021/5-Grandmaster/tcookiem
    1,R,K
    3,R
   14,R,U,X
-   2,R,J,G
-   7,R
+   2,J,G
+   5,R
+   1,L
+   1
    7,J
   10,R,X
-  12,R,J
-   4,R,K,G
-  11,R,X
-   7,R,J
-   3,K,G
-   2,L,K
-   1,L
+   5,R,J
+  10,R,U,X
+   1,R,K,G
+   9,R
+  12,J
   14,R,U,X
-   1,R,J,G
-   1,R
-   1
-   4,R
-   5
-   7,R,D,X
-   1,L,J
-   6,L
-  15,L,J
-  14,L,U,X
-  12,L,J,G
-   7,L
-   2,L,J
-  15,U,Z
-  10,R,J,G
-   7,R,K,G
-   7,R
+   2,R,J,G
+   6,R
    2,R,J
+   5,R
+   4,L,Z
+   1,L,J
+   5,L
+  14,L,J
+  17,L,U,X
+  11,L,J,G
+   7,L
+   3,J
+  15,U,X
+   6,R,J,G
+   7,R
+   7,L,J
   10,R,X
-   7,R,J
+   3,R,J
+  10,R,K,G
   18,U,X
   25,R
-  29,R,U,X
+  28,R,U,X
    4,R,J
    1,R,K
    3,R
@@ -597,26 +590,19 @@ console load StrawberryJam2021/5-Grandmaster/tcookiem
  165,U,Z
    4,L
   10,L,X
-   7,L,J
-  15,U,Z
-   1,R,J,G
-   1,J
-   3,L,J
-   1,J
-   1,R,K,G
-   1,R,J,G
-   7,R
-  10,R,J
+   8,J
   15,U,X
-  16,J
-   2,K,G
-   2,R,K
-   1,K
-   5,R,K
-   1,R
    1,R,J,G
+   4,L,J
+   1,R,K,G
+   7,R
+  11,R,J
+  15,U,Z
+  16,J
+   4,K,G
+   7,R,K
    7,R
    8,U,X
  135,D
 
-ChapterTime: 1:12.930(4290)
+ChapterTime: 1:12.675(4275)
