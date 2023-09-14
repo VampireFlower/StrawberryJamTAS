@@ -1,4 +1,4 @@
-RecordCount: 5954
+RecordCount: 5955
 
 console load StrawberryJam2021/2-Intermediate/vitellary
    1
@@ -416,6 +416,6 @@ console load StrawberryJam2021/2-Intermediate/vitellary
   27,R,U,X
   31,R,D,C
   40,L,D,X
-  57,L,D
+  58,L,D
 
 ChapterTime: 0:49.045(2885)
