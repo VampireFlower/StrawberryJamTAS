@@ -1,4 +1,4 @@
-RecordCount: 5495
+RecordCount: 5944
 
 console load StrawberryJam2021/4-Expert/powerav
    1
@@ -557,104 +557,110 @@ EndStunPause
 #lvl_a-7
   11,R,D,X
    1,R,J
-   4,R
+   1,R
   14,R,D,X
    1,R,J
-  13,R,D,X
-  17,R,J
-  14,U,X
-  21,L,J
-  15,L,X
-   7,L
-   6
-   9,R,X
-  10,R,J
-  13,R
-  18,U,X
-  15,U,C
-  15,L,X
-   2,L
-  12,D
-  17,R,D
    1,R
-  20,R,D,X
-   8,R,Z
+  14,R,D,X
+  17,R,J
+  15,U,X
+  17,L,J
+   1,L
+  24,L,X
+   6,R,C
+  19,R,J
+  16,R,U,Z
+   5,L,J
+   2,L
+  15,R,Z
+   5,L
+   5,L,J
+   2,L
+  15,R,Z
+  21,L,D
+   1,R,D
+   1,L
+  13,L,Z
+  49,R,J
+  15,U,X
+   5
+  29,L,J
+   5,U,X
+  18,G
+   3,R,G
+   1,L
+  46,R
+  14,R,D,X
+   1,R,J
+  10,R,D,X
+   1,R,J
+  22,R
+  15,R,X
+   5,R,Z
    1,R,J
    6,R
-   9,R,J
-   5,R
-   1,R,J
-   5,R
-  15,Z
-  14,D
-   4
-  26,R
-  13,R,U,X
-  31,R,G
-   1,R
-  39,L
-  14,U,X
-   6,L,J
-  21,L,J,G
+  21,R,J
+  15,U,Z
+  29,R,J
+  23,R,U,X
+  30,R,C
   15,U,X
-  25,R
-  15,R,D,X
-   7,R
-  14,R,D,X
-   3,R,J
-   9,R
-   1,R,D,G
-  18,R,X
-  15,R,C
-  14,R,D,X
-  20,R,J
-   7,R
-  15,U,X
-   1,L,J,G
-   7,L
-#wait for fibsh :3
-  23,L,G
-  17,L,U,G
-   1,J,G
-   1,R,J
-   1,L,J
-   2,K,G
-  27,R,K
-  15,R,U,X
-  21,R,U,C
-  21,R,X
   15,U,C
-  15,U,X
-  29,L,D
-  34,D
-   2,L,D
-  32,D
-  57,R,D
-   2,D
-   4,K
-  12,J,G
-  12,K,G
-  12,J,G
-   6,K,G
+   5,L
+  14,R
+   9
+   2,L
+   7
+   7,L
+  21,L,D
+  12,D
+  13,R,D
+   8,D
+  15,R,X
+  15,R,C
+  11,R
+   2,G
+   2,R,J
+   1,G
+  21,R,J,G
+  24,R,D
+   1,G
+   1
+   2,J
+   1,G
+   1,J,G
+   1,L,J
+   1,R,J
+   2,K,G
+   3,L,K
    2,R,K
-   1,R
+  22,R,J,G
+   1,R,K,G
+   1,K
+   1,R,K
+   5,L,K
+   5,K
+   4,R,K
+   2,R,J,G
+  14,R,K,G
   15,R,X
-  11,R,D
-  11,D
-   4,J
-  15,U,X
-  35,D
-   9,R
-  59,R,D
-  15,R,X
-   8,R
-   4,G
-   8,U,G
-  22,G
+   5,D
+  24,R,D
+  15,D,X
+   1
+   8,D
+  45,R,D
+  23,R,X
+   6,G
+   9,U,G
+   3,G
+   1,D,G
+  14,G
   20,D
    2,R,D
    1,D
-   3,L,D
+   2,L,D
+   1,D
    5,L,D,X
    1,R,J
    7,R
@@ -692,4 +698,4 @@ EndStunPause
   16,U,X
  135
 
-ChapterTime: 1:46.709(6277)
+ChapterTime: 1:44.176(6128)
