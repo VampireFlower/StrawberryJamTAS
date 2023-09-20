@@ -1,4 +1,4 @@
-RecordCount: 35848
+RecordCount: 35869
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -1126,10 +1126,11 @@ EndRepeat
 AnalogMode Square
   28,F,251.354
 AnalogMode Ignore
-   6,F,280
-   2,F,293
-  26,F,2
-  82,F,9
+   1,F,258.36
+   1,F,261.727
+  11,F,322
+  20,F,5.256
+  81,F,8.648
   14,U,X
  346
 
@@ -2383,7 +2384,7 @@ endrepeat
    5,R
    2
 ##spinner cycle for flag 1
-   1
+   0
 ##
    8,R,Z
    1,R,J
@@ -2684,4 +2685,4 @@ Repeat 34
    2,L,D
 EndRepeat
 
-ChapterTime: 7:14.945(25585)
+ChapterTime: 7:14.894(25582)
