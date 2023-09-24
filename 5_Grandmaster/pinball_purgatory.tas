@@ -1,4 +1,4 @@
-RecordCount: 6821
+RecordCount: 6964
 
 console load StrawberryJam2021/5-Grandmaster/maya
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/5-Grandmaster/maya
  190
 
 #Spinner Cycle [Phase]
-   1
+   2
 
 #lvl_Insert Coin
    4,R,Z
@@ -174,14 +174,14 @@ console load StrawberryJam2021/5-Grandmaster/maya
   14,L
   20,L,U,X
   30,R
+#resync
   27,D,X
   50,R,D
   15,L,D,X
-   9,R,D
-  15,R,D,X
-   5,R
-   3
-  18,R,U,Z
+   6,L,D
+   7,L,X
+  26,R,D
+  16,R,U,Z
   11,R
   15,R,D,X
   20,R,D,J
@@ -561,24 +561,26 @@ EndStunPause
    8,R,X
    4,R
    9
-  10,L,X
-  20,L
-   1
-  19,L
-  31,R
+   9,L,X
+  35,L
+  33,R
+#resync
   14,R,Z
-   4,R,J
+   1,R,J
+   3,R
   15,R,D,X
-   1,R,D,J
-  37,R,J
-   6,R,D
-  10,R
-  18,R,X
-   5,R
-  15,R,U,X
+   4,R
+  26,R,K
+  10,R,D
+   6,D
+  11,L,D,X
+  18,R
+  15,R,D,X
+   6,R
+  11,R,U,C
   12,L
   18,R
-  16,R,D,X
+  15,R,D,X
   29,R,J
   14,R,U,X
   21,L
@@ -745,21 +747,28 @@ EndStunPause
   42,U,X
   13,R
   10,R,U,X
-  44,R,J,G
-  15,R,U,X
+#resync
+  14,R,J,G
    5,R
-  16
+   2,R,J
+  19,R
+  15,R,U,X
+   6
+  11
   11,R
   15,R,D,X
-  42,R,J
-  15,R,X
+   1
+   1,R,K,G
+   5
    6,R
-  11,R,Z
-   1,R,J
-   3,R
+  42,R,J
+  18,R,X
+  12,R,Z
+   2,R,J
+   1,R
   15,R,D,X
   40,R
-  21,R,D
+  22,R,D
   14,R,U,Z
   17
    8,R,X
@@ -854,5 +863,4 @@ EndStunPause
    1,R,K
   19,R,D,X
   54,R,J
-
-ChapterTime: 2:24.602(8506)
+ChapterTime: 2:24.721(8513)
