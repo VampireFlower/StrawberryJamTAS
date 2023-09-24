@@ -1,4 +1,4 @@
-RecordCount: 32017
+RecordCount: 32044
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -242,14 +242,14 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
 #lvl_a03_pansear
    3,R,J
    1,J
-   1,R,J
+   5,R,J
+   1,R
+   8,R,J
+   9,R,K
+   1,K
+   1,R,K
    7,R
-   2,R,J
-   6,R
    1,R,J
-   2,R
-  14,R,K
-   2,R
   23,R,D,X
   23,D,C
   18,L,X
@@ -794,7 +794,7 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
   21,R,D
   12,R,Z
 ## Spinner cycle [b04_powerav]
-   0
+   2
 #2/3
   45,R,X
   15,U,C
