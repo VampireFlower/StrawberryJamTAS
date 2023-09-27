@@ -65,10 +65,9 @@ console load StrawberryJam2021/2-Intermediate/Liero
   23,R,J
    4,R
   15,R,X
-  24,R,D
-   3,R
+  27,R,D
    8,D
-   3,R,D
+   2,R,D
   15,L,U,X
   15,L,C
   19,L,D
@@ -255,7 +254,7 @@ console load StrawberryJam2021/2-Intermediate/Liero
   10,R,X
   24,R,J
 ##Spinner cycle
-   1
+   2
 ##
   12,U,X
   36,R,J
