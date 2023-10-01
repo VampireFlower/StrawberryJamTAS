@@ -1,4 +1,4 @@
-RecordCount: 24648
+RecordCount: 24989
 
 console load StrawberryJam2021/5-Grandmaster/Dav
    1
@@ -931,16 +931,16 @@ EndRepeat
 ### spinner cycle for final stun
 ### dont see a good spot to wait
 ##+0f
-#   2,J,G
-#   1,K
+   2,J,G
+   1,K
 ##+1f
 #   1,J,G
 #   2
 #   1,K
 ##+2f
-   1,J,G
-   3
-   1,K
+#   1,J,G
+#   3
+#   1,K
 ###
    6,L,Z
    2,L,J
@@ -950,41 +950,54 @@ EndRepeat
    1,L
    1
    7,L
-  16,L,J
-#If this moonblock desync try to
-#change UX to UZ or vice versa
-  15,U,X
-   5,L
-  38,L,J
-  15,U,X
-  23,L
-   4
-   6,D
-   2,R,D
-#if the multiboost desyncs change
-#these L and LD inputs
-   1,L
-   2,L,D
-   1,L
-   4,L,Z
-   1,L,J
-   1,L,K,G
-   1,L,J,G
-   1,L,K,G
-   1,L,J,G
-   7,L
   10,L,J
+   2,L
+   3,R
+   1,R,J
+   1,L,J
+   1,R
+  14,U,X
+  32,L,J
+   4,J
+   1,K,G
+   2
+   2,L
+#with better subpixel you could activate
+#1f sooner
+   3
+   1,R
+   1,L,J
+  19,L
+   2,L,G
+   3,L
+   1,L,G
+   1
+   2,L,G
+   1
+   5,L,D,X
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+   6,L
+   1,S
+  10,J
+   1,L,J
+   1,L
+  11,L,J
    1,L
   15,L,D,X
-  20,L,D
-  11,L
-  59,L,D
+  18,L,D
+   9,L
+  64,L,D
    1,R,D
-Repeat 16
+Repeat 15
    2,L,D
    2,R,D
 EndRepeat
-   1,L,D
+   2,L
+   1,R,D
 
 #lvl_a-intro (1)
   49,D
@@ -1048,4 +1061,4 @@ EndRepeat
   15,L,U,X
  133
 
-ChapterTime: 2:43.489(9617)
+ChapterTime: 2:43.370(9610)
