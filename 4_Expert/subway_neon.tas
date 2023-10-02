@@ -1,4 +1,4 @@
-RecordCount: 591
+RecordCount: 337
 
 console load StrawberryJam2021/4-Expert/nyan
    1
@@ -90,12 +90,12 @@ console load StrawberryJam2021/4-Expert/nyan
    4,R,Z
    1,R,J
    5,R
-  15
+  15,L
    4,Z
    1,R,J
-   8
+   8,L
    1,R
-  13,D
+  13,L,D
   15,D,X
   54,D
    1
@@ -105,10 +105,10 @@ console load StrawberryJam2021/4-Expert/nyan
   50,L,D
    4,Z
    3,R,J
-   5,J
-   2
+   5,L,J
+   2,L
    1,R,J
-  17
+  17,L
   13,L,Z
    1,R,J
    1,J
@@ -137,8 +137,8 @@ console load StrawberryJam2021/4-Expert/nyan
    1
    1,D
    1
-   2,L,D
    1,L
+   2,L,D
    1,K,G
    1,R,K
    5,K
@@ -176,15 +176,17 @@ EndStunPause
   14,L
   15,L,Z
   15,L,X
-  20,L,D
+  21,L,D
   12,L,J
    5,L,Z
    8,L,J
   40
 
 #lvl_a-03
-   2,L,J
-   6,L
+   3,L,J
+   1
+   1,L,J
+   3
   18,G
    1,L,K,G
    1,L,J,G
@@ -205,8 +207,6 @@ EndStunPause
    1,L,J,G
    8,L,D
   40
-
-#lvl_a-04
   11,L,D
   15,L,X
    2,L,G
@@ -250,7 +250,7 @@ EndStunPause
   12,R
   14,R,U,X
    1,R,J,G
-  11,R
+  11,R,D
   40
 
 #lvl_a-05
@@ -548,13 +548,12 @@ EndStunPause
    1,G
    3
    6,G
-  15
-   1,G
+  16
+   1,U,G
    2
    1,J,G
    4,K,G
   15,R,X
-  15,L,D,C
  125
 
-ChapterTime: 1:10.873(4169)
+ChapterTime: 1:10.856(4168)
