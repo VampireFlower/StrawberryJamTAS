@@ -1,4 +1,4 @@
-RecordCount: 7646
+RecordCount: 7810
 
 console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1
@@ -143,15 +143,13 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    4
   12,J,G
    7,L
-   6,L,Z
+   8,L,Z
    1,L,J
    7,L
-   3,L,J
-   5,L,D,X
-   1,L,J,G
-  11,L
-   1,L,J
-   3,L
+   2,L,J
+   1,L,K,G
+   7,L
+  12,L,U,Z
   40
 
 #lvl_hub (0)
@@ -161,15 +159,16 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
 #- right, left, middle
 #- right, middle, left
 #- middle, left, right (current)
-  11,L
-   6,L,J
-   9,L
-   1,L,J
-   4,L
+   1,L,U,Z
+   1,R
+   1,J,G
+  15,L,D,X
+   7,L,J
+   5,L
+  11,J
+  15,D,X
 
 #lvl_evade-01-Quantum
-   7,L
-  15,D,X
   14,R,D
    3,R
    8,L
@@ -179,7 +178,6 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1,K,G
   14,R,U,X
   15,D,C
-#+1f to wait for liftboost
   13,U,Z
   15,R,X
    2,R
@@ -351,8 +349,11 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    2,J
    4,R,J
   15,R,U,X
-  18,R
-  11,U,Z
+   1,R
+   1,R,J
+   6,R
+   8,R,J
+   8,U,Z
   21,R,J
    1,R,K
   11,R,J
@@ -760,4 +761,4 @@ EndRepeat
    1,R,K,G
   32,R
 
-ChapterTime: 1:28.842(5226)
+ChapterTime: 1:28.757(5221)
