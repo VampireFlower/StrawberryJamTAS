@@ -1,4 +1,4 @@
-RecordCount: 8539
+RecordCount: 9125
 
 console load StrawberryJam2021/3-Advanced/Roborb
    1
@@ -100,8 +100,7 @@ console load StrawberryJam2021/3-Advanced/Roborb
    3,R
   12,R,J
   15,R,U,Z
-   4
-   2
+   6
    1,R
   15,L,U,X
    1,L
@@ -163,18 +162,20 @@ console load StrawberryJam2021/3-Advanced/Roborb
    7,R
    7,R,J
   15,R,D,X
-   1,R
   15,R,Z
-  11,R
+   5,R
   15,R,U,X
-  17,R
+  21,R
   15,R,X
-  20,R
-  10,L
-  23,R
+  18,R
+   2
+   1,R
+   4,L
+   5,L,D
+  22,R,D
   15,R,U,X
-   3,R
-   2,R,J,G
+   4,R
+   1,R,J,G
    5
    2,R
    4,R,Z
@@ -186,16 +187,17 @@ console load StrawberryJam2021/3-Advanced/Roborb
   15,U,X
    4,L
    1
-   2,L
+   1,L
+   1
   15,U,X
    2,R
   15,R,Z
-  11,R
+  10,R
    6,R,Z
    1,R,J
    7,R
    1,R,J
-   5,R,D,X
+   6,R,D,X
   40
 
 #lvl_1-g
@@ -216,28 +218,29 @@ console load StrawberryJam2021/3-Advanced/Roborb
    5,R
    3,L
   15,U,X
-   4,L
-   1
-   1,L
-   1
+   3,L
+   1,R
+   3,L
   21,R
    1
   14,U,Z
   23,L,J
-   3,L
-   1,L,J
-  29,R,D
-  10,L,D,X
-  22,R,J
+   4,L
+  22,R,D
    6,R
+   2
+  10,L,D,X
+  20,R,J
+   9,R
   15,R,U,X
-  16,R
+   9,R
   15,R,U,X
    7,R
-  12,R,C
+  13,R,C
    1,R,J,G
    9,R
-   5,R,D,X
+   1,R,J
+   4,R,D,X
    1,R,J
    4,R
   40
@@ -245,19 +248,13 @@ console load StrawberryJam2021/3-Advanced/Roborb
 #lvl_1-h
    1,R,J
    2,R
-  12,R,J
-   6,R
-   
+  18,R,J
    1,R,K,G
-   8,R
-   1,R,K
-   1,R
+  10,R
   13,R,J
   15,R,U,X
-   1,R
-   3
-   2,R
-   1
+   5,R
+   2
   15,U,C
    9,L
   15,U,X
@@ -340,11 +337,12 @@ console load StrawberryJam2021/3-Advanced/Roborb
   12,U,X
   15,L,J
    8,L
-   5,L,J
+   3,L,J
+   2,J
   15,R,U,X
    3,R
   15,R,U,C
-  16,R
+  15,R
    6,R,Z
    1,R,J
    7,R
@@ -391,13 +389,23 @@ console load StrawberryJam2021/3-Advanced/Roborb
   40
 
 #lvl_2-d
-   3,R,D,X
+   2,R,D,X
    1,R,J
-   7,R
-  16,R,J
-  25,R,D,X
-  26,R,J,G
-  12,R
-  84,R,J
+   3,R
+   3,R,J
+   2,R
+  15,R,J
+  26,R,D,X
+   1,J,G
+   8,R
+   1,L
+   7
+  26,L
+   4,R,X
+   4,R,J
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+  71,R,J,G
 
-ChapterTime: 0:51.136(3008)
+ChapterTime: 0:50.983(2999)
