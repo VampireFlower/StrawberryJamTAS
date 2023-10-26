@@ -1,4 +1,4 @@
-RecordCount: 14068
+RecordCount: 14533
 
 console load StrawberryJam2021/3-Advanced/MousseMoose
    1
@@ -266,34 +266,30 @@ EndRepeat
 StunPause
    5,L
    4,L,D,J
-   5
-   3,J
+   5,L
+   3,L,J
 EndStunPause
-   2
+   1,L
+   1,L,J
   18,L,Z
   15,U,X
-  15,L,U,C
-  31,L,D
-   6,L
-   6,L,Z
-   1,L,J
-   6,L
-   9,L,D,J
+   7,L
+   5,J,G
+   7,L,J
    8,L
-   1,G
-   1
-   1,G
-   1,J,G
-   1
-   1,J,G
-   1
-   1,J,G
-   1,R,J
-   1,L
-   2,J,G
-   9,R,J
+  15,L,D,X
+  10,L,D
+   4,Z
+   1,L,J
+   7,L
+  15,L,D,J
+   2,L,K,G
+   1,K
+   1,J
+   2,K,G
+   8,R,K
+   2,K
    2,R
-   1
   15,R,U,Z
    4,R
    4
@@ -308,17 +304,17 @@ EndRepeat
   11,K,G
    1
    6,L
-#spinner
-   1
-  11,L,Z
-   5,L,J
-   4,L
-   1,L,J
-   4,L
-   1,L,J
+#cycle
+   3
+  15,L,X
+   4,Z
+   4,L,J
+   1,L
+   3,L,J
+   7,L
 
 #lvl_a5
-   8,J
+   7,J
    1
   15,L,Z
    2,L
@@ -328,8 +324,10 @@ EndRepeat
    2,R,D
    1,R
    5,R,X
-  20,R,J,G
-  15,R
+  19,R,J,G
+   1,R
+   1,R,J
+  14,R
   11,R,X
    2,R,J,G
    2,R
@@ -810,4 +808,4 @@ EndRepeat
    1,R,J
   30,R
 
-ChapterTime: 1:31.375(5375)
+ChapterTime: 1:31.324(5372)
