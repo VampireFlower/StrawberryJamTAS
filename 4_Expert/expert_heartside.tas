@@ -1,4 +1,4 @@
-RecordCount: 33023
+RecordCount: 33394
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -1848,37 +1848,38 @@ Endstunpause
 #lvl_d02_lethargicdoggo
    2,R,J
    1,R
-  10,R,J
-   6,J
-  18,U,X
-   5,L,Z
-   5,R,J,G
-   3,R
-  56,R,D,G
-   1,R
-  16,R,X
-  27,R,U,J,G
-   1,U,J,G
-  16,R,U,J,G
-   1,R,J
-  14,R,X
-  54,R,U,J,G
-   1,R
+  16,R,J
   14,U,X
-   5,J
-  11,L,J
+   3,R,J
+   3,R
+  10,L,Z
+   2,R,J
+  33,R,U,J,G
+   1,L
+  18,R,D,X
+  14,R,C
+  61,R,U,G
+   0,R,D,G
+   1,L
+  15,R,X
+  16,R,G
+   1,L,G
+   5,R,G
+   1,R
+   9,U,X
+   6,L,J
+  13,J
   12,R,Z
-  17,L,J
+  23,L,J
   15,L,D,X
-   4,D
-  13,L,D
-  15,U,C
-  13,U,G
-  13,R,U,G
-  11,D
-   2,R,D
-   8,U,X
-  24,R,G
+  10,L
+   2
+   1,L
+   1
+  15,U,X
+   1
+  10,U,C
+  37,R,G
    1,R
   18,U,X
   15,U,C
@@ -1889,13 +1890,13 @@ Endstunpause
   15,R,D,X
    8,R,D
   15,R,J
-  80,R,G
-  28,D,G
-   4,G
-   1,L,D
-   1,L
+  79,R,G
+   1,G
+  24,D,G
+   8,G
+   1,D
    2
-   1,L
+   2,R
    1
   14,L,Z
    1,R,J
@@ -1908,12 +1909,13 @@ StunPause
    6,R,D
 #might need an extra pause depending on drift
 EndStunPause
-  10,R,D,J
+   3,R,D,J
+   5,R
+   3,R,K,G
    5,R
    3,R,J
   14,R,U,X
-   2
-   1,J,G
+   3,J,G
    7,R
    5,R,J
    2
@@ -2695,11 +2697,11 @@ EndStunPause
    1,K,G
 ## Spinner cycle [f01_quantumspaceman]
 # Cycle 0
-   7,R
+#   7,R
 ## Cycle 1
-#   5,R
-#   2
-#   1,R
+   5,R
+   2
+   1,R
 ## Cycle 2
 #   7,R
 ##
@@ -3551,4 +3553,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 7:55.915(27995)
+ChapterTime: 7:55.184(27952)
