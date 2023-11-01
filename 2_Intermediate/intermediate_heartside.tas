@@ -1,4 +1,4 @@
-RecordCount: 17100
+RecordCount: 17465
 
 console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1
@@ -1145,83 +1145,88 @@ EndRepeat
    7,J
   15,D,X
   10,L
-  26,L,D
-   4,L
+  23,L,D
+   3,D
+   4,L,D
   15,R,D,X
-   2,R
-   1
-   5,R
+   7,R
    1,R,J,G
    1,R,K,G
-  14,R
+  17,R
    1,R,J
-  12,R
+   5,R
   40
 
 #lvl_cp3-4-vitellary
-  11,R,D,X
-   1,R,J
-   9,R,D
-  15,D,X
-   5,L,D
-  14,R,D,C
-   1,R,J
   10,R,D,X
-   3,R,J
-  18,R,D
-  12,D,X
-   5,J
-   7,R,J
-   1,R
-  15,R,X
-  16,R,U,C
-  15,R,U,X
-  15,R,U,C
-  18
+   1,R,J
+   1,R,D
+   2,D
+   9,R,D
+  17,D,X
+   1,L,D
+  14,R,D,X
+   8,R,J
+   1,J
+   2,R,J
+  11,R
   15,D,X
-  63
-   8,R
-  16,R,D
-   6,R
+   7,R,D
+   1,R
+   1,G
+  14,R,J,G
+  10,U,X
+   9,R,J
+   1,J
+  94,R,J
+  44,R,X
+   1,G
+   2,R,J,G
+  10,J
+  12,K,G
+   3,J,G
    2
-  17,R,Z
-   1,L,K,G
-  33,R,K
-   2,K
-   8,R,J,G
-  15,K,G
-   1,L,K
+  17,K,G
   15,U,X
-   1,L
-   1
-   6,R
+   2
+   4,R
   15,U,X
    6,L
   15,U,X
-   7,L
-  15,R,U,X
-  41,R
-   4
-   5,D,X
-  24,L
-  15,U,X
    5,L
-  14,U,X
-   7,L
-   8,U,X
-  23,R
-  15,R,X
-   8,R
-  15,U,Z
-   2,R
-  11,R,J
-   2,R
+   1
   15,R,U,X
-  13,R,Z
-   1,R,J
-  32,R,D
-   4,L,D
-  14,R,D
+  38,R
+   3,R,D
+   4,R
+   5,D,X
+  23,L
+  15,U,X
+   6,L
+  15,U,C
+   1,L
+   1
+   1,L
+   6
+   7,U,X
+  12
+   9,R
+  15,R,X
+  10,R
+  15,U,Z
+   1,R
+#1 frame away
+#  12,R,J
+#  15,R,U,X
+#   6,R,Z
+  11,R,J
+  15,R,U,X
+   6,R,C
+   1,R,J,G
+   5,R,K,G
+  30,R,D
+  12,D
+  13,R,D
    4,R,Z
    1,R,J
    5,R
@@ -1351,7 +1356,7 @@ EndRepeat
   11,R
    1,G
 #spinner cycle
-   0,G
+   1,G
 #
    1,J
    1,L,J
@@ -1456,16 +1461,7 @@ EndStunPause
 #currently no wait spot
 #for this lightning cycle
 StunPause
-   4,R,U
-endstunpause
-   1,S,N
-  10,O
-   1,R,U
-   1,S,N
-  10,O
-   1,R,U
-stunpause
-   1,R,U
+   7,R,U
    1,R,J,G
    4,R
 EndStunPause
@@ -1728,4 +1724,4 @@ EndStunPause
    5,R,J
   13,R,U,X
  135
-ChapterTime: 4:15.255(15015)
+ChapterTime: 4:14.354(14962)
