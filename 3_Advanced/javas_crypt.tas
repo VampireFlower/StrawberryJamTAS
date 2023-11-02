@@ -1,4 +1,4 @@
-RecordCount: 4258
+RecordCount: 4361
 
 console load StrawberryJam2021/3-Advanced/Tortoise
    1
@@ -193,20 +193,28 @@ console load StrawberryJam2021/3-Advanced/Tortoise
    5,R
    2,R,D,J
    3,R
-   7,R,D,J
-   5,R,X
-   4,R,J
-   2,R
+   2,R,D,J
+   4,K
+   1
+   5,R,Z
+   1,R,J
+   4,R
    1,R,G
-  10,R,D
-   1,R,D,J
-  12,R,D
-   1,K
-  22,L
-  13,L,Z
+   4,L
+   4,L,D,X
+   1,L,K
+  13,R,D
+   1,D
+   5,R,D
+   6,D
+   8,L,Z
    4,R,K
+   1,R
+   1,R,K
    7,R
-  11,L,D
+   3,R,D
+   7,L,D
+   3,L
    1,L,D,J
    5,L
   14,L,D,X
@@ -215,7 +223,7 @@ console load StrawberryJam2021/3-Advanced/Tortoise
   14,L,D,X
    1,R,J
   11,K,G
-  10,J,G
+   7,J,G
   15,D,X
   10,R,Z
    4,R,J
@@ -251,7 +259,7 @@ console load StrawberryJam2021/3-Advanced/Tortoise
   12,R,J,G
    5,R,X
    9,R,K,G
-  94,R,G
+  99,R,G
    1
    7,J
    8,R
@@ -472,4 +480,4 @@ console load StrawberryJam2021/3-Advanced/Tortoise
   16,U,X
  135
 
-ChapterTime: 0:51.068(3004)
+ChapterTime: 0:50.915(2995)
