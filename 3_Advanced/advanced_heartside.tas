@@ -1,4 +1,4 @@
-RecordCount: 20955
+RecordCount: 20964
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -1761,10 +1761,10 @@ EndRepeat
    1,J,G
    1,K,G
    5
-#a spinner turn red to yellow
-#idk how to deal with it, just wait for a cycle
+#due to drift you may need to
+#wait more than 2f here
 #spinner cycle
-   4
+   2
 #
   15,D,X
   14,R,D,C
@@ -1873,8 +1873,10 @@ EndRepeat
    5,R
    3,R,J
    1,R
+### use drift to cut pause
+   2,R
 StunPause
-   5,R
+   3,R
 SkipInput 3 1
    5,D,X
   20,R
@@ -1883,6 +1885,18 @@ SkipInput 3 1
    3,R,J
    3,R
 EndStunPause
+### non-drift stunning
+#StunPause
+#   5,R
+#SkipInput 3 1
+#   5,D,X
+#  20,R
+#SkipInput 3 1
+#  11,R,D,X
+#   3,R,J
+#   3,R
+#EndStunPause
+###
   10,R
   15,D,X
   68
@@ -2043,4 +2057,5 @@ EndStunPause
   16,L,K,G
   12,U,X
  135
-ChapterTime: 4:49.459(17027)
+
+ChapterTime: 4:49.238(17014)
