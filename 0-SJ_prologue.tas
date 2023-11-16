@@ -1,4 +1,4 @@
-RecordCount: 2521
+RecordCount: 3218
 
 console load StrawberryJam2021/0-Lobbies/0-Prologue
    1
@@ -89,69 +89,68 @@ console load StrawberryJam2021/0-Lobbies/0-Prologue
    3,D
    2
    4,D
-  20,R,D,X
-   7,R,D,C
-   2,R,J
-   1,R
-   8,R,J
-  10,R
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
   16,R,D,X
+   4,R,J
+   6,R,D,C
+   3,R,J
+   2,R
+  15,R,J
+  10,L,D,X
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+  15,R,D,X
    1,S
-   1,D,O
+   1,D,J
   34
-#doesnt land ultra
-#idk if possible
-  10,R,J
-   5,R,K,G
-   4,R
-  16,R,D,X
-  13,R,J
+   1,R
+  10,R,U,X
+   3,R,J,G
+  22,R
+   2,R,J
   40
 
 #lvl_prologue-01
+   5,R,J
    1,R
   15,R,D,X
-   4,R,D
-   2,R,J
-   2,J
-  11,R,D,X
-   4,R,K,G
-   6,R
-   1,R,K
-   1,R
    1,R,J
-  12,R,K,G
-   1,R
-   1
-   5,R,D,X
-   2,R,J,G
-   5,R
-   4,R,J
+   9,R,D,X
+   9,R,J,G
    2,R
-   7,R,D,J
+   7,R,K,G
+   6,R
+   1,R,J
+   2,R
+   1,R,J
+   6,R
+   8,R,K,G
   15,R,D,X
-   9,R,D,J
-   3,J
-   4,K,G
-   1,R
+   7,R,D,J
+   2,J
+   3
+   3,K,G
+   2,K
+   1,R,K
   14,R,U,X
-   1,R,J,G
-   4,R,J
+   2,R,J,G
+   1,R
+   2,R,K,G
    7,R
   12,R,U,X
-   1,J,G
-  24,R,J
-   6,R,K
-   8,R
-   8,R,J
-  21,R
+  25,R,J,G
+   1,R,K
+   5,R
+   2,R,J
+   1,R
+   4,R,J
+   9,R,K,G
+  20,R
    1,N
    1,S
    1,D,J
   18
 
-ChapterTime: 0:13.124(772)
+ChapterTime: 0:12.852(756)
