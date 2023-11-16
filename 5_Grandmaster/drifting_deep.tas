@@ -1,4 +1,4 @@
-RecordCount: 12960
+RecordCount: 12998
 
 console load StrawberryJam2021/5-Grandmaster/xlibiza
    1
@@ -856,9 +856,9 @@ EndStunPause
   18,R
   15,L,D,X
   10,R,D,C
-   1,R,J
-  11,R
-  15,R,U,Z
+   2,R,J
+  10,R
+  14,R,U,Z
   15,U,X
   15,D,C
   15,R,X
@@ -886,7 +886,8 @@ EndStunPause
    4,R,Z
   10,R,J
   22,R,U,X
-   6,R,J
+   4,R,J
+   2,R
   20,R,D,X
    4,L,G
   13,U,X
@@ -900,9 +901,11 @@ EndStunPause
   15,R,X
   21,R,D,C
   14,R,X
-   4,R,J
+   3,R,J
    8,R
-  33,R,U,X
+   1
+  15,R,U,X
+  18,R,D
   15,D,C
   12,R,Z
    1,R,J
@@ -912,8 +915,8 @@ EndStunPause
    2,R,J
   21,R,D
   15,R,Z
-   6,L,D
-  10,R,D
+   3,L,D
+  13,R,D
   14,L,X
    1,R,J
   14,R,D,X
@@ -1137,4 +1140,4 @@ AnalogMode Ignore
   14,R,U,X
  135,D
 
-ChapterTime: 2:35.822(9166)
+ChapterTime: 2:35.805(9165)
