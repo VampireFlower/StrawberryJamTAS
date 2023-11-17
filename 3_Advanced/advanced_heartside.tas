@@ -1,4 +1,4 @@
-RecordCount: 20964
+RecordCount: 21665
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -1411,35 +1411,32 @@ EndRepeat
    6,L,D,X
    1,R,J
    6,R
-   9,R,J
-  11,J
-  16,D
-   4,R,D,G
+   6,R,J
+   2,J
+   7
+   1,R,J
+   3,J
+  12
+   1,D
    2,R,D
-  10,G
-   2,D,G
-   2,G
-   1,D,G
-   1,G
-   1,D,G
-   1,G
-   2,D,G
-   2,G
-   1,U
-   1,R,K,G
+   2,R
+   1,R,G
    5,R,D,X
    1,R,J,G
    1,R,K,G
    1,R,J,G
-   7,R
-   1,R,K
-   4
-   1,D
-  16,R,D
+   1,R,K,G
+   6,R
+   1,R,J
    2,R
+   4,R,J
+   3,R
+   1
+  14,R
+   4,R,D
+   3,R
   15,R,U,Z
-  33,R
-  25,R,D
+  53,R,D
   10,R,X
    5,R,J
    7,R,U,X
@@ -1761,10 +1758,8 @@ EndRepeat
    1,J,G
    1,K,G
    5
-#due to drift you may need to
-#wait more than 2f here
-#spinner cycle
-   2
+#spinner cycle [heartside_jolly]
+   0
 #
   15,D,X
   14,R,D,C
@@ -1869,37 +1864,30 @@ EndRepeat
   15,R,X
   27,R,C
   10,R,Z
-   5,R,J
+   3,R,J
+   1,J
+   1,R,J
    5,R
    3,R,J
-   1,R
-### use drift to cut pause
-   2,R
+   6,R
 StunPause
-   3,R
 SkipInput 3 1
-   5,D,X
-  20,R
+   8,D,X
+  17,R
 SkipInput 3 1
-  11,R,D,X
-   3,R,J
-   3,R
-EndStunPause
-### non-drift stunning
-#StunPause
-#   5,R
-#SkipInput 3 1
-#   5,D,X
-#  20,R
-#SkipInput 3 1
-#  11,R,D,X
-#   3,R,J
-#   3,R
-#EndStunPause
-###
-  10,R
-  15,D,X
-  68
+  13,R,D,X
+   1,L,J
+   2,L
+SkipInput 3 1
+   8,D,X
+EndStunpause
+   7,D,X
+  12,R
+  10
+   1,L
+   1
+   1,L
+  54
   13,L,D,X
    2,R,J
    2,R,K,G
@@ -2058,4 +2046,4 @@ EndStunPause
   12,U,X
  135
 
-ChapterTime: 4:49.238(17014)
+ChapterTime: 4:48.762(16986)
