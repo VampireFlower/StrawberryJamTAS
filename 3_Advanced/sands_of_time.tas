@@ -1,4 +1,4 @@
-RecordCount: 5752
+RecordCount: 6321
 
 console load StrawberryJam2021/3-Advanced/astraxel
    1
@@ -159,33 +159,40 @@ console load StrawberryJam2021/3-Advanced/astraxel
    1,R,K,G
    1,R,J,G
    1,R,K,G
-   1,R
-   3,R,J,G
-  18,R
-   8,R,D
-   7,R,U,Z
+  23,R,D
+   9,R,U,Z
    1,L,J,G
-  11,R,J
-   2,R
+   1,R,J
+   4,R
+   3
+  13,R,U,X
   40
 
 #lvl_a-03
+   1,R,U,X
+   1,J
+   9,U,X
    2,R,J
-  13,U,X
-   1,R,J
   11,R
   11,R,Z
-   1,R,J
-   6,R
-#didn't try climbhop cancel
-  12
+   6,R,J
+   1,R
+   1,R,K,G
+   2,L,K
    1,K
-  14
-   2,K
-   1
-   9,J
-  19,K,G
-   5,R,Z
+   1,R
+   2,J,G
+   3,R,J
+   6,R
+   1,L
+   9,U,G
+   9,J,G
+   2
+   1,K
+  10,R,K
+   1,R
+   5,R,K
+   7,R,Z
    1,J,G
    5,R,J
    8,R
@@ -528,4 +535,4 @@ console load StrawberryJam2021/3-Advanced/astraxel
   16,U,X
  135
 
-ChapterTime: 1:00.316(3548)
+ChapterTime: 1:00.180(3540)
