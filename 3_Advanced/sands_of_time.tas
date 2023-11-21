@@ -1,4 +1,4 @@
-RecordCount: 6321
+RecordCount: 6957
 
 console load StrawberryJam2021/3-Advanced/astraxel
    1
@@ -129,23 +129,22 @@ console load StrawberryJam2021/3-Advanced/astraxel
    3,L,J
   15,L,D,X
   12,L,D
-   4,L,J
-   2,J
-   1,L,J
-   6,U,X
-   1,J
-   3,R,K,G
-  19,D
-   4,L,D
-   1,L,J
-   5,L
-   1,L,J
-   9,L
-  15,L,U,X
-   5,R
-   1,J
-   3,K,G
-   6
+   1,L
+  11,L,U,Z
+   3,J
+  23,D
+  15,L,U,Z
+   1,R,J,G
+   1,K,G
+   4,L,K
+   4,R
+  10,R,G
+   1
+   1,J,G
+   1,R,K,G
+   2,L,K
+   2,R,K
+   4,R
    5,R,J,G
   15,U,X
   15,U,C
@@ -264,55 +263,38 @@ console load StrawberryJam2021/3-Advanced/astraxel
    2,R
   15,R,X
    9,R
-   4,R,Z
-   1,R,J
-   1
+   4,R,J
   40
 
 #lvl_a-06
-   2
-   1,R
-   6
-   9,L,D,X
    1,R,J
-   8,R,K
-  13,R
-   7
+  14,R,D,X
+  23,R
+  10
   10,R,D,X
-   1,R,J
-   1,J
-  14,R,J
-  17,U,X
-   8,L,J
-   3
-   1,K
-   2,J,G
-   7,R,J
+  17,R,J
    2,J
-  11,L,K
-  10,R,J
-   1,R
-   9,L,K
-   2,L
-   1,L,J,G
-   1,L,K,G
-  20,L
-   8,L,D
-   1,D
-   1,L,D
-   1
-   1,L,D
-   1,D
-   2,L,D
-   2,D
-   6
+  14,U,Z
+   6,J
+   3
+  11,R,K
+  11,L,J
+   9,R,K
+   2,R
+   8,L,J
+   7
+   5,L,J
+  15,L,D,X
+   2
+  14,D
+   1,R,D
+   5,D
    1,R
    6,D,X
-   3
-   1,L,J,G
-   1,L,K,G
-   9,L
- 102
+  15,L
+   9
+   1,L
+  91
    1,R
   12,J
    3
@@ -438,7 +420,7 @@ console load StrawberryJam2021/3-Advanced/astraxel
   30
    5,R
   54
-  19,D
+  13,D
    6,R
    1,L,J
    6,L,D,X
@@ -446,14 +428,13 @@ console load StrawberryJam2021/3-Advanced/astraxel
    1,L,J,G
    7,L
    4
-   8,L,Z
+  14,L,Z
    1,R,J
    6,R
-  11,R,J
-   6,R
-   1,R,J
-  14,U,X
-  18,L,J
+  12,R,J
+   3,R
+  15,U,X
+  16,L,J
    6,L,Z
    1,L,J
    6,L
@@ -506,10 +487,12 @@ console load StrawberryJam2021/3-Advanced/astraxel
   14,R,U,X
    2,R,J,G
    7,R
+   1,R,J
+   5,R
    2,R,J
-  14,R,U,X
-  10,R,J,G
-   1,K,G
+   1,R
+  15,U,X
+   1,J,G
    6,R
    1,L
    6,L,J
@@ -535,4 +518,4 @@ console load StrawberryJam2021/3-Advanced/astraxel
   16,U,X
  135
 
-ChapterTime: 1:00.180(3540)
+ChapterTime: 0:59.993(3529)
