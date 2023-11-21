@@ -1,4 +1,4 @@
-RecordCount: 5911
+RecordCount: 6201
 
 console load StrawberryJam2021/3-Advanced/Goldian
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/3-Advanced/Goldian
  190
 
 #spinner cycle
-   0
+   1
 
 #lvl_start
    4,Z
@@ -65,9 +65,9 @@ console load StrawberryJam2021/3-Advanced/Goldian
    4,R,D
    1,R,J,G
    1,R,K,G
-   9,R
+   7,R
    1,R,J
-   3,R
+   5,R
   16,R,D,J
    2,J
    1,R,K
@@ -76,47 +76,45 @@ console load StrawberryJam2021/3-Advanced/Goldian
    1,R,J,G
    1,R,K,G
   20,R
-   5,R,Z
+   4,R,Z
    1,R,J
    7,R
-   2,R,J
+   3,R,J
   40
 
 #lvl_goldian-1
-  10,R,J
-  10,R,Z
+   8,R,J
+   1,R
+  13,R,Z
    1,R,J
-   7,R
-   5,R,J
    6,R
+   4,R,J
+   4,R
   15,R,U,X
-   5,R
-  13,G
-  17,L,G
-   5,L,D,G
-   7,D,G
-   8,R,D,G
+   8,R
+  33,L,D,G
+   6,R,D,G
+   4,R,G
+   4,G
   12,R,J,G
    5,R,G
   10,R,J,G
   16,R,G
    1,R
   10,R,U,X
-  22,R,J,G
+  14,R,J,G
+   7,L,J,G
    1,R
   14,R,U,Z
   22,L,G
    1,R
    8,L
-   7,R,D
-   8,D
-   9,R,D
-   9,R,D,X
+  16,R,D
+   5,D
+   1,R,D
+  12,R,D,X
    1,R,J
-   1,R,K,G
-  11,R,K
-   5,R
-   4,R,J
+  20,R,K,G
   14,U,Z
    6,R,J
   11,R
@@ -203,24 +201,31 @@ console load StrawberryJam2021/3-Advanced/Goldian
   15,R,X
    7,R,J
   15,U,X
-   8
-   8,R,J
-  30,R,G
-   4,R,D,G
+   1,L
+   4,J,G
+   1,R,J
+   1,L,J
+   2,K,G
+   2,R,K
+   3,R
+  28,R,G
+   2,R,D,G
    1,R
-   6,R,D
-   4,D
-  12,R,D,X
-   5,R,J
-  10,R
+  11,R,D
+  14,R,D,X
+   4,R,J
+   9,R
    1,R,D,J
-  24,R,K,G
-   3,K
-  22,L,J
-   1,K
-  22,L,K
-   3,K
-  12,R,J
+   1,R,K,G
+  23,R,J,G
+   3,J
+  19,L,K
+   3,L
+   1,J
+  20,L,J
+   2,L
+   3
+  12,R,K
    5,R
    8,R,J
   12,R
@@ -267,16 +272,17 @@ console load StrawberryJam2021/3-Advanced/Goldian
    1,R
    1,L
    7,L,D,J
-   5,R,D,J
+   3,R,D,J
+   2,L,D,J
   14,R,X
-  23,L
-   4
+  15,L
+  11,L,D
   12,R,J
    5,R
    8,R,J
-  11,U,X
-  12,R,J
-  13,R,Z
+   9,U,Z
+  14,R,J
+  12,R,Z
   12,R,J
   11,R
    3
@@ -289,8 +295,8 @@ console load StrawberryJam2021/3-Advanced/Goldian
   10,R,D,G
    1,R
    9,R,D
-   9,R,D,X
-  15,R,J
+  10,R,D,X
+  14,R,J
    5,R
   10,U,X
   13,R,G
@@ -599,4 +605,4 @@ endrepeat
   13,R,U,X
  135
 
-ChapterTime: 1:16.925(4525)
+ChapterTime: 1:16.772(4516)
