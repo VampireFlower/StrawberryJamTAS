@@ -1,4 +1,4 @@
-RecordCount: 26644
+RecordCount: 26865
 
 console load StrawberryJam2021/5-Grandmaster/Dav
    1
@@ -683,26 +683,102 @@ EndRepeat
   26,R
   15,U,X
   11,R,G
-  80,U,G
-  20,L,J
-   1,R,J
-   8,L
-  15,L,U,X
- 100,L,G
-   8,L,J,G
-  10,L
-  34
-  15,U,X
-  27,L,J
-  83,L,G
-  20,R,X
-  43,R,U,C
-  30
-  10,R
-  10,L,X
-  54,L,J,G
-  30,R,X
+##flair
+  33,U,G
+   1,J,G
   18
+   1,R
+Repeat 20
+   2,L
+   2,R
+EndRepeat
+  10,L,Z
+  10,L,J
+   6,L
+   1,G
+   8,J,G
+  10
+   2,L
+   1,L,J
+   3,L
+   7
+   1,J
+   4
+Repeat 3
+   1,J
+  10
+   2,J
+   3
+EndRepeat
+   1,L,J
+   6,L
+  10
+  23,L
+  11,J,G
+   1,R,J
+   1,K
+  21,J
+   1,L,G
+Repeat 3
+   1
+   4,G
+EndRepeat
+   1
+   1,J
+  16,L,J
+   2,L
+   1,L,J
+  12
+   8,R
+   6,G
+  20,U,G
+  20,G
+   1,D,G
+   2,U,G
+   1
+   1,R,J,G
+   1,R,K,G
+  10,R,J,G
+   4,R
+  14,R,U,X
+   1,J,G
+  10,R,J
+   1,L
+  10
+Repeat 25
+   1,L
+   1,R
+EndRepeat
+  10,R,Z
+   1,L,J
+   9,L
+  16,L,U,X
+  35,R,U,C
+   6
+   1,R
+   5
+##no flair
+#  80,U,G
+#  20,L,J
+#   1,R,J
+#   8,L
+#  15,L,U,X
+# 100,L,G
+#   8,L,J,G
+#  10,L
+#  34
+#  15,U,X
+#  27,L,J
+#  83,L,G
+#  20,R,X
+#  43,R,U,C
+#  30
+#  10,R
+#  10,L,X
+#  54,L,J,G
+#  30,R,X
+#  18
+##
    7,L
    6,R
    1,K,G
@@ -1086,10 +1162,27 @@ EndRepeat
    1,L,K,G
    1,R
    6,L
-   6,L,J
-  90,U,X
-   7,L
-  15,L,U,X
- 133
+   5,L,U,X
+   8,R
+#heart collected
+  13,R
+  25,D
+   8,R,D
+   8,D
+   1,R,D
+  43,D
+   4,L,D
+   8,R,D
+Repeat 5
+   1,G
+   1
+EndRepeat
+   1,L,Z
+   1,L,J
+Repeat 6
+   1,K
+   1,J
+EndRepeat
+   1
 
-ChapterTime: 2:43.064(9592)
+ChapterTime: 2:43.047(9591)
