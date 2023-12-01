@@ -1,4 +1,4 @@
-RecordCount: 3665
+RecordCount: 4369
 
 console load StrawberryJam2021/1-Beginner/Eclipse
    1
@@ -260,38 +260,72 @@ console load StrawberryJam2021/1-Beginner/Eclipse
   32,R,U,Z
    4,L,G
   30,L,U,X
-  27,R,U,C
+  27,R,U,Z
    4,L,G
-  28,L,U,X
-  18,R,C
-   8,R,J
-   4,R,K
+   1,J,G
+   1
+   1,K,G
+   1
+   1,L,J,G
+   1,R,J,G
+   1,L
+   1
+   2,K,G
+   1,K
+   6,R
+   2,R,J
+   7,R,U,X
+   2,R,J,G
+   5,R
   40
 
 #lvl_b_04
-   6,R,K
-   5,R
-  14,R,Z
+   1,J
+  10,R,X
+   5,J
+  15,R,U,X
+   4
+   1,R,J
+   1,J
+   2,R,J
    1,R,J,N
-   7,R
-  25,R,Z
+   1,R,J
+   1,R
+   1,R,J
+  15,R,Z
+   5,R
+   7
    4,R,J
-  28,R,D,X
-  40
-  56,U,X
-   2,L
-  15,L,C
-   4,L
+   2
+   1,R,K
+   7,R,Z
+   7
+   4,R,J
+   1,L,K
+  10,U,X
+  42
+   8,L
+  15,L,D,X
+   1,L
+   1
+   8,L,Z
+   1,R,J
+   6
+   4,X
+  20,L,D
+   1,L
+   1,L,J
+   3,L
    1
    1,L
+   1,L,J
+   6,L
+  22,L,U,Z
+  21,L,U,X
+   8
+   4,O
+  11,U,X
    9
-  16,D,X
-   2,L
-  20,L,C
-  18,L,X
-  37
-  24,L,U,X
-  19,U,C
    6,R
   16,R,X
   20,R,C
@@ -378,19 +412,24 @@ console load StrawberryJam2021/1-Beginner/Eclipse
   65
    7,L,J
   52,L,X
+   4,J
+  15,U,X
+   5,L,J
+   2,L
+  21,R,U,Z
+   8,R
+   1,J
    4,R,J
-  15,U,X
-  12,R,J,G
-  11,K,G
-  13,R,U,Z
-   8,J
-   4,K
-  12,R,K
+   1,J
+   1,R,J
+   5,J
+   2,R,J
+   1,J
   18,U,X
-   5,R
+   3,R
   15,U,X
-   6,R
-  30,R,U,Z
+   3,R
+  32,R,U,Z
    4,R,J
    1,R,K
   15,R,D,X
@@ -458,4 +497,4 @@ console load StrawberryJam2021/1-Beginner/Eclipse
   15,U,C
  135
 
-ChapterTime: 1:45.689(6217)
+ChapterTime: 1:44.312(6136)
