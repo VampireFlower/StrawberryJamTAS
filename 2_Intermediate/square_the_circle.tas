@@ -466,13 +466,11 @@ EndStunPause
 StunPause
    1,L,X
    1,L,J
-   1,J
-   5,J
+   6,J
 EndStunPause
    2,J
 StunPause
-   4,J
-   1,J
+   5,J
 EndStunPause
   40
 

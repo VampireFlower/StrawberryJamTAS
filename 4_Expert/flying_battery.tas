@@ -30,8 +30,7 @@ console load StrawberryJam2021/4-Expert/alicequasar
    3
    5,R,X
    1,R,J,G
-   1,R
-  13,R
+  14,R
    1,R,J
    8,R,X
    4,R,Z
@@ -41,8 +40,7 @@ console load StrawberryJam2021/4-Expert/alicequasar
   14,R,Z
    1,R,J
    9,R,D,X
-  13,R,G
-   5,R,G
+  18,R,G
    2,R,J,G
    2,R,G
    1,D,J
@@ -55,8 +53,7 @@ console load StrawberryJam2021/4-Expert/alicequasar
    1,L
    3,R
   15,R,D,X
-   4,R,D
-   6,R,D
+  11,R,D
    1,R
    6,L,D,X
    1,R,J

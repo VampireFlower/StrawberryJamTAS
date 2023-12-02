@@ -1,4 +1,4 @@
-RecordCount: 17311
+RecordCount: 17312
 
 console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    1
@@ -462,9 +462,8 @@ EndRepeat
    3,R,J
    6,R
    3,R,K
-   1,D
-   1,R,D
-   7,R,D
+   1
+   8,R
    3,L,D
   16,R,D
 # Somehow make it past the

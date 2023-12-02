@@ -5,6 +5,7 @@ console load StrawberryJam2021/3-Advanced/mmm
 
 #Start
   91
+
 #lvl_a00
    6,L,Z
    1,R,J
@@ -36,11 +37,6 @@ console load StrawberryJam2021/3-Advanced/mmm
    1,R
    1,R,D
    2,R
-
-
-
-
-
    1,R,D
    1,R,D,J
   18,L,J
@@ -223,7 +219,6 @@ console load StrawberryJam2021/3-Advanced/mmm
   10,L
    3,R
    7,L,K
-   0,L
   13,L,Z
    1,R,J
    6,R
@@ -334,7 +329,6 @@ console load StrawberryJam2021/3-Advanced/mmm
    1,K
   12,J
   10,D
-
   39,R,D
    4,R
    6,R,Z
@@ -344,9 +338,7 @@ console load StrawberryJam2021/3-Advanced/mmm
    6,R,J
    7,R
    2,R,J
-   2,R
-   5,R
-   1,R
+   8,R
   40
 
 #lvl_a08
@@ -364,7 +356,6 @@ console load StrawberryJam2021/3-Advanced/mmm
    8,R
    2,R,J
    2,R
-#0:42.075(2475)
   40
 
 #lvl_a09
@@ -392,7 +383,6 @@ console load StrawberryJam2021/3-Advanced/mmm
    6,L,Z
   25,R,J
   66,R
-
    7,R,D
    5,R
   24,R,J

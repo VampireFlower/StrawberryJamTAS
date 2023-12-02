@@ -248,15 +248,12 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
   15,R,D,X
    5,R
    4,R,D
-   0,R
-   4
-   1
+   5
    1,D
    1,R,D
    8,L,D,X
    1,R,J
-   5,R
-   1,R
+   6,R
    5,R,D
   11,R,J
    6,R
@@ -298,8 +295,7 @@ EndStunPause
   15,R,D,X
 #this depends on spinner cycle
 #only 1 cycle works
-   3,R
-  16,R
+  19,R
    1,R,J
    5,R
    1,R,J

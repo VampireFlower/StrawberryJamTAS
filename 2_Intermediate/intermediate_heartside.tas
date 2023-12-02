@@ -951,9 +951,6 @@ EndStunPause
   11,R,J
   15,D,X
   18,L,Z
-   
-
-
    3,K
    6
    8,R
@@ -962,9 +959,6 @@ EndStunPause
   30,R,J
    6,R
   16,R,U,X
-
-#764
-
    4,L,J,G
   13,L
    3,L,J
@@ -1542,8 +1536,7 @@ EndStunPause
   34,R,X,G
   15,U,C,G
    8,R,G
-  11,R
-   3,R
+  14,R
   15,R,Z
   10,R
   15

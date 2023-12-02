@@ -1,4 +1,4 @@
-RecordCount: 6990
+RecordCount: 6995
 
 console load StrawberryJam2021/5-Grandmaster/maya
    1
@@ -27,8 +27,7 @@ console load StrawberryJam2021/5-Grandmaster/maya
 #lvl_Tutorial
    6,L,Z
    1,R,J
-   6
-   1
+   7
    4,L,J
    1
   15,R,U,X
@@ -129,8 +128,7 @@ console load StrawberryJam2021/5-Grandmaster/maya
   11
   15,U,Z
    2,R
-   2
-   6
+   8
   12,R
   15,R,D,X
    1,R,J
@@ -414,8 +412,7 @@ EndStunPause
    9,R,D
    9,D
    1,R
-   5
-   6
+  11
   13,R
   15,R,D,X
   15,R,C
@@ -605,8 +602,7 @@ EndStunPause
    1,R,J
    1,L
   13,R,D,X
-  29,R,D
-   6,R,D
+  35,R,D
    1,L,D
   11,R,U,Z
   15
@@ -618,8 +614,7 @@ EndStunPause
    8,R,D,X
   19,R,D
    3,D
-   1,R,D
-   1,R,D
+   2,R,D
   19,R,U,X
   11,L
    8,L,U,X
@@ -667,9 +662,9 @@ EndStunPause
   15,R,U,Z
    9,L
   25,R
-  10,D,X
+  16,D,X
   31,R
-  18,R
+  12,R
    9,R,U,X
   17,L
    7,D,X
@@ -705,8 +700,7 @@ EndStunPause
   15,R,U,X
    1,R
    3
-   1,R
-   1,R
+   2,R
   16,U,X
   11,L
   11,L,X
@@ -753,8 +747,7 @@ EndStunPause
    2,R,J
   19,R
   15,R,U,X
-   6
-  11
+  17
   11,R
   15,R,D,X
    1
@@ -790,8 +783,7 @@ EndStunPause
   11,L
   25,L,D,X
   12,D
-   2,L,D
-   4,L,D
+   6,L,D
   18,L,X
   11,R
   15,R,D,X
@@ -817,8 +809,7 @@ EndStunPause
   15,R,X
   11,R
    1
-   7,R
-  17,R
+  24,R
    8,U,X
    8
   18,R

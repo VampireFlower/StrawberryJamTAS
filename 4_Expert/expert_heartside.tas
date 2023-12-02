@@ -402,8 +402,7 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1,U,G
    1,G
    1,U,G
-   1,G
-  11,G
+  12,G
    1
    5,R,D,X
    1,R,J,G
@@ -1864,7 +1863,6 @@ Endstunpause
   18,R,D,X
   14,R,C
   61,R,U,G
-   0,R,D,G
    1,L
   15,R,X
   16,R,G
@@ -2161,7 +2159,6 @@ EndStunPause
   15,R,D,X
    2,R,D,J
   40
-
 
 #lvl_d05_warp
   10,R,J

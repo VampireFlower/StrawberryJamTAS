@@ -1,4 +1,4 @@
-RecordCount: 5707
+RecordCount: 5710
 
 #console evalcs Action<float, long> i1 = (float timeRate, long frames) =>{long num4 = Math.Abs(frames);bool flag = frames < 0;float num5 = 0.0166667f * timeRate * (flag ? (-1f) : 1f);for (long num6 = 0L; num6 < num4; num6++){((Level)Engine.Scene).TimeActive += num5;}}
 console load StrawberryJam2021/2-Intermediate/Luma
@@ -20,9 +20,7 @@ console load StrawberryJam2021/2-Intermediate/Luma
    6,R
    1,R,J
    3,R,K
-   4,R
-   3,R
-  12,R
+  19,R
   30,R,K
    1,J
    2,R,K
@@ -48,8 +46,7 @@ console load StrawberryJam2021/2-Intermediate/Luma
    1,R,K
    5,R,D,X
   14,R,K,G
-  50,R,U,J,G
-   7,R,U,J,G
+  57,R,U,J,G
    1,R,G
    1,R,U,G
    1,R,J,G
@@ -71,23 +68,17 @@ console load StrawberryJam2021/2-Intermediate/Luma
    2,J
    2
    3,R
-  20,R,J,G
-   1,R,J,G
+  21,R,J,G
    1,J,G
    1,R,J,G
    1,J,G
-   2,K,G
-   1,K,G
-   1,K,G
-   3,K,G
-   1,K,G
-   1,G
-   1,G
+   8,K,G
+   2,G
    1,R,G
    1,J,G
   13,R,J,G
    1,R,J
-   3,J,O
+   3,J
    1,R,J
   16,R,K
    1,K
@@ -99,10 +90,8 @@ console load StrawberryJam2021/2-Intermediate/Luma
    1,R,J
    6,R,D
   14,D
-  15,G
-   3,G
-   1,R,G
-   3,R,G
+  18,G
+   4,R,G
    1,U,G
   19,R,U,G
    5,L,U,G
@@ -154,11 +143,9 @@ console load StrawberryJam2021/2-Intermediate/Luma
    1,L,D
    1
    1,L,D
-   1,D
-   3,O
+   4,D
   10,R,X
-   2,J
-   1,J
+   3,J
    9,R,J
   17,R,U,X
   18,R,U,J,G

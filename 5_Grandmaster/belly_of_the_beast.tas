@@ -1,14 +1,14 @@
 RecordCount: 3708
- 
+
 console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
    1
- 
+
 #Start
  190
- 
+
 #Spinner cycle [a-03]
    0
- 
+
 #lvl_a-01
   14,R,Z
    1,R,J
@@ -20,7 +20,7 @@ console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
   28
    3,J
    5,D,X
- 
+
 #lvl_a-02intro
  171
    3,R,J
@@ -32,7 +32,7 @@ console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
    8,R,G
    3,R,J,G
   40
- 
+
 #lvl_a-02
    7,R,J,G
    4,R,G
@@ -135,7 +135,7 @@ console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
    2,R,J,G
    5,R,G
   40
- 
+
 #lvl_a-03
    1,R,J,G
    3,G
@@ -240,7 +240,7 @@ EndStunPause
    1,R,K,G
   13,R,G
   40
- 
+
 #lvl_a-04
    8,R,G
    4,R,J,G
@@ -306,7 +306,7 @@ EndStunPause
    7,R,J,G
    7,R,G
   40
- 
+
 #lvl_a-05
    2,R,J,G
   17,R,D,G
@@ -389,7 +389,7 @@ EndStunPause
    5,R,D
    5,R,D,X
   40
- 
+
 #lvl_a-06
    9,R,D,X
    1,R,J
@@ -467,7 +467,7 @@ EndStunPause
    2,R,D
    8,R,D,X
   40
- 
+
 #lvl_a-07
    6,R,D,X
   13,R,G,N
@@ -550,7 +550,7 @@ EndStunPause
    1,R
    9,R,D,X
   40
- 
+
 #lvl_a-08
    5,R,D,X
    1,R,J
@@ -608,5 +608,5 @@ EndStunPause
   22,R
   18,R,J
   35,R,D,X
- 
+
 ChapterTime: 1:42.017(6001)

@@ -218,7 +218,6 @@ EndStunPause
 ###spinner cycle [chill-0(0)]
    2
 ###
-
    5,L,Z
    1,R,J
    7,R
@@ -857,8 +856,7 @@ EndRepeat
    1,L
    6,G
    5,U,G
-   5,G
-  17,G
+  22,G
    2,R,J
    6,U,X
   35,R,J
