@@ -1,4 +1,4 @@
-RecordCount: 26956
+RecordCount: 26987
 
 console load StrawberryJam2021/5-Grandmaster/Dav
    1
@@ -47,15 +47,16 @@ EndStunpause
    7,R,J
    4,R
   15,R,D,X
-  16,R,D
-  10,R
-   2,R,D
+  15,R,D
+  13,R
+   1,R,D
+   1,R
   15,R,Z
-  52,R,D,X
-##teleports 3 frames after
-##touching orange line
-##resets position but not subpixel
-   3,R,D
+  48,D,X
+#teleports 3 frames after
+#touching orange line
+#resets position but not subpixel
+   3,D
 
 #lvl_big-1
    1,R,D
@@ -63,7 +64,7 @@ EndStunpause
    1,D,O
   69,J
 ###spinner cycle [big-1]
-   0
+   2
 ###
    4,X
    2,R,J
