@@ -1,4 +1,4 @@
-RecordCount: 26987
+RecordCount: 27358
 
 console load StrawberryJam2021/5-Grandmaster/Dav
    1
@@ -919,79 +919,56 @@ EndRepeat
    9,L,J
   14,L,U,X
   10,L,J,G
-   7,L
-   2,L,J
-   1,J
-  22,L,D,X
-#I dont see a way to keep
-#this speed to the end.
-#you can get a bit more speed tho
-   1,D
-  10,J
-  34,D
-   2,L,D
-   1,D
-  23,U,Z
-   2,R
-   1,L,G
-   5,R,D
-   7,D
-   9,L,D
    6,L
-  14,L,D,X
-   9,L,J
-  15,L,U,X
-   9,L
-  15,L,U,X
-  12,R
-   1,L,G
-   1,L,J,G
+   2,L,J
+   6,L
   12,L,J
-  15,L,X
-  43,L
-  47,L,U,X
-  12,R
-   2
-  15,D,X
-   3,L
-   3
-Repeat 14
-   2,U
-   2,R,D
-   2,U
-   2,L,D
-EndRepeat
-   4
-  16,R
-  10,L,D,X
-  14,L,J
-   1,K
-   7,R,K
-  18,U,X
-  15,U,C
-   3
+   5,L
+   3,L,J
+   1,L
+   4,L,J
   15,L
-  15,U,X
-  32
-  11,R
-   5,J
-  14
-  15,L,Z
-  10,R
-   2
+  15,L,U,X
+   5
+   1,L
+   1
+  12,L
+   1,L,J,G
+   6,L,K,G
+   9,L
    1,L,J
-   7,L
+  14,L,D
+   8,L
+  41
    1,L,J
-   2,L
+   5,L
+   5,R
+  10,R,D,X
+   1,L,J
+   1
+   2,J
+   1
    1,J
-   4
+  15
+   5,L,X
+  11,R,J
   14,R,Z
    1,L,J
    5,L,D,X
    1,L,J,G
-  23,L,K,G
-  15,L,D,X
+   1,L,K,G
+   2
    4,L
+   1,L,J
+   2,L
+   6,L,J
+  11,L
+  11,L,J,G
+  15,L,D,X
+  11,L
+   3,L,D
+   3,D
+   6,L,D
    7,L,J
    6,L,D,X
    3,L,J,G
@@ -1000,14 +977,15 @@ EndRepeat
    4,L
    5,L,J
   15,L,D,X
-   7,L
+#lose 1f to manip spinner cycle
+   8,L
    2,L,J
-  33,L,D,X
-   1,L
-   1,L,J
+  15,L,D,X
+  17,L,D
+   1,L,D
+   1
+   1,L,D,J
   17,L,U,X
-##this depends on spinner cycle
-##change earlier comment if you die
    1,L,J,G
    1,J
    4,L
@@ -1177,4 +1155,4 @@ Repeat 6
 EndRepeat
    1
 
-ChapterTime: 2:42.299(9547)
+ChapterTime: 2:35.618(9154)
