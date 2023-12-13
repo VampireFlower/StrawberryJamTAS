@@ -1,4 +1,4 @@
-RecordCount: 4342
+RecordCount: 4840
 
 console load StrawberryJam2021/1-Beginner/skeleton
    1
@@ -7,22 +7,21 @@ console load StrawberryJam2021/1-Beginner/skeleton
   91
 
 #spinner cycle
-   1
+   2
 
 #lvl_skeleton_00
-  10,L,Z
+   4,D,X
+   1,R,J
+  12,R
+   1,R,J
+  11,R,D,X
    1,R,J
    7,R
-   1,R,J
-   9,R,D,X
-   1,R,K,G
-   7,R
-   1,R,J
-   4,R
    7,R,J
   15,R,D,X
   12,R,J
- 187,R,X
+#nice subpixels
+ 189,R,X
    4,L,J
   10,U,X
   14,L,J
@@ -98,32 +97,30 @@ console load StrawberryJam2021/1-Beginner/skeleton
    4,R,K
   72,R,U,X
    4,R,J
-   1,R,K
   61,R,U,X
    4,R,J
    4,R,Z
    1,R,J
   13,R
-  10,R,J
-   3,R
+   9,R,J
+   5,R
   46,R,U,Z
-   4,R,K
-   1,R,J
+   4,L,K
   34,R,U,X
-   4,R,K
-   6,R,J
-  13,U,X
+   4,L,J
+  15,U,X
+   1,L
   40
 
 #lvl_skeleton_02
-   1,L
-   2,L,J
-   8,J
-  17,R,U,X
+  11
+  20,R,U,X
    4,R,J
-  10,R,X
+   4,R,D,X
+   1,R,J
+   7,R
    6,R,J
-  34,R,X
+  31,R,X
    7,R,J
    4,R,Z
   32,R,K
@@ -230,9 +227,9 @@ console load StrawberryJam2021/1-Beginner/skeleton
 
 #lvl_skeleton_04
   15,R,D,X
-  11,R
-   2,R,D
-  11,R,D,J
+  11,R,J
+   2,R,D,J
+  11,R,D,K
    2,R
    6
   11,L,J
@@ -247,27 +244,28 @@ console load StrawberryJam2021/1-Beginner/skeleton
   18,U,X
    3,R
   28,L,U,Z
-   4,L,K
-   3,L,J
+   4,L
+   2,L,J
   11,U,X
+   1,R,J
   40
 
 #lvl_skeleton_05
-   2
-   1,L
-   1,R,J,G
-   7,R,K,G
-  56,R,U,X
+   3,R
+   1,R,K,G
+   7,R,J,G
+  55,R,U,X
    4,L,J
    5,L,Z
-   5,L,J
-  10,L
-  10,L,J
+   6,L,J
+   4,L
+   3,L,K
    2,L
+  11,L,J
    5,L,K,G
-   1,J
-   2,K
-  22,L,Z
+   2,R,K
+   1,L,K
+  21,L,Z
    4,R,G
   29,R,U,X
   15,L,D,C
@@ -281,14 +279,15 @@ console load StrawberryJam2021/1-Beginner/skeleton
   10,R
    4,R,Z
    1,R,J
-   7,R
-   2,R,J
-   1,R
-   5,R,D,X
+   6,R
+   1
+   4,R,K
    1,R,J,G
-  11,R
-  14,R,J
-  10,R,X
+  12,R,D,X
+   1,R,J
+   7,R
+  12,R,J
+   7,R,X
   62
    4,J
   11,L,X
@@ -318,7 +317,8 @@ console load StrawberryJam2021/1-Beginner/skeleton
 #lvl_skeleton_outro
    2,R,U,X
    1,L,J,G
-  11,R,J
+   6,R,J
+   5,J
   34,U,X
    2
    1,R
@@ -332,16 +332,15 @@ console load StrawberryJam2021/1-Beginner/skeleton
    5,L
    1,L,J
   32,L,U,Z
-   4,L,J
-  10,R,X
-   2,R,J
-   5,R,K,G
-  10,R,Z
    4,R,J
-   3,R,K,G
-   2
-   4,R
-   3,R,J,G
+   4,R,X
+   2,R,J
+   5,R
+   3,R
+   2,R,J
+  10,R,Z
+   3,R,J
+  11,R,K,G
   19,R,Z
    6,R,K
   12,R,J
@@ -356,31 +355,23 @@ console load StrawberryJam2021/1-Beginner/skeleton
    3,R
    1,R,J
    3,R
-  12,R,J
+  10,R,J
+   2,J
   58,U,X
-   5,L,D
-  14,L,D,X
-   1,L,J
-   3,L
-   1,L,J
-   3,L
-   3,J
-  14,U,X
-  14,L,J
+   4,L,D
+  15,L,D,X
+  16,L,J
+  12,U,X
+  22,L,J
+   3,K,G
+   6,L
+   1,R
+   2,R,J
+  14,U,Z
+  13,L,J
   11,L
-   1,L,D,J
-   1,J
-   1,K
-   1,J
-  15,U,Z
-  19,R,J
-   1,R,K,G
-   1,K
-   5,L,K
-   7,L
-   6,L,J
-   1,R,J
+   7,J
   17,U,X
  135
 
-ChapterTime: 1:03.495(3735)
+ChapterTime: 1:03.308(3724)
