@@ -1,4 +1,4 @@
-RecordCount: 4941
+RecordCount: 4959
 
 console load StrawberryJam2021/3-Advanced/Meario
    1
@@ -379,16 +379,15 @@ console load StrawberryJam2021/3-Advanced/Meario
    1,L,G
    1
   10,L,X
-   4,L
-   1,L,K
-   3,L
+   6,L
+   2,L,J
   10,L,X
    4,R,G
-   6,L
+   3,L
+   1,R
   10,R,X
+   4,R,K
    4,R,J
-   1,R,K
-   3,R
   10,R,X
    4,R,J
   10,R,K
@@ -529,4 +528,4 @@ console load StrawberryJam2021/3-Advanced/Meario
   13,R,U,X
  135,R,D
 
-ChapterTime: 1:06.147(3891)
+ChapterTime: 1:06.113(3889)
