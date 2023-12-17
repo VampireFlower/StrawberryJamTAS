@@ -1,4 +1,4 @@
-RecordCount: 2932
+RecordCount: 3070
 
 console load StrawberryJam2021/1-Beginner/snas
    1
@@ -220,48 +220,40 @@ console load StrawberryJam2021/1-Beginner/snas
    6,L,D
   25,R,D
   17,R,D,X
-   1
-   2,R,G
-   1,R,J,G
-   2,L,J
-   1,R,J
-   8,R,G
-   5,R,Z
-   1,R,J,G
+   2
+  17,R,U,G
    1,R,K,G
    1,R,J,G
-   6,R,K,G
-   8,R
-   1,J
-   4,R,D
-  20,R,J
-  23,R,D
+   1,R,K,G
+   9,R,J,G
    5,R
-   4
-   1,J,G
-   2,R,J
-   3,J
    1,R,J
-   2,J
-   1,L,J
-  14,L,J
-  15,U,X
-   2,L
-   1
-   1,J
-   3,K,G
-   5
-   2,R,J
-   3,R
-   1,R,J
-   1,R,J,G
-   6,R,K,G
-  35,R,D
-  24,D
-   1,R,D
-   2,R
+   3,R,D
+   1,D
+   3,R,D
+   3,R,K
+  15,R,D,X
+   7,D
+   2
+   4,R
    1,R,D
    1,R
+   1,R,D
+   9,R,J,G
+   3,J
+  15,U,X
+   6,R,J
+   1,R
+   1,R,K
+   4,R,J
+  12,R
+   1,R,J,G
+   8,R,K,G
+  37,R,D
+  11,D
+   1,L,D
+  11,D
+   5,R,D
   10,R,X
    7,R,J
   14,R,U,Z
@@ -289,5 +281,4 @@ console load StrawberryJam2021/1-Beginner/snas
    4,R
   12,R,U,X
  135
-
-ChapterTime: 0:27.982(1646)
+ChapterTime: 0:27.659(1627)
