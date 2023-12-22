@@ -1,4 +1,4 @@
-RecordCount: 16947
+RecordCount: 17357
 
 console load StrawberryJam2021/5-Grandmaster/Soloiini
    1
@@ -268,35 +268,47 @@ EndRepeat
   32,G
    4,R,J
   11,R,D,X
-  18,R,J,G
+  14,R,J,G
+   1,J,G
+   3,R,J,G
    5,R,G
    1,R,J,G
-   2,R,G
-   2,R,J,G
-  20,J,G
-   1,J
-  14,R,U,X
-  26,R,G
-   1
-#badly optimized
-  33,D
-   5,L
-  17,R
-   8,R,X
-  30,R,G
-   4,R,J,G
-   1,R,K,G
-  24,R,D,G
-  18,D,G
+   1,R,G
+   1,G
+   1,R,J,G
+   1,G
+  21,R,D,G
+  11,R,G
    1,R
-  15,R,X
-  54,D
-   3,L,D
-   6,L
-   2,D
-   7,L,D,X
-   1,R,J
+   5,R,J,G
    6,R
+   7,R,J
+  15,R,D,X
+   4,D
+   5,R,D
+  10,R
+   1,R
+   7,L,Z
+   4,R,J
+  30,R,K,G
+   2,G
+   5,R,G
+   2,G
+  13,R,D,G
+  11,R,G
+   3,R,D,G
+   2,R,G
+   1,R,J,G
+   9,R,G
+   1,R,J,G
+   6,R,G
+   1,R,J,G
+   4,R,G
+   1,R
+  20,R,D
+   5
+   8,R
+  14,R,D,X
    1,R,J
    5,R,D,X
   13,R,G
@@ -305,8 +317,7 @@ Repeat 3
   14,R,G
 EndRepeat
    1,R,J,G
-   4,G
-   1,R,G
+  11,R,G
   40
 
 #lvl_Miser's Warren
@@ -340,7 +351,8 @@ EndRepeat
    4,R,G
    1,R
   11,R,X
-   4,R,J
+   3,R,J
+   1,J
   12,R,U,X
   22,R,G
    5,R,J,G
@@ -387,7 +399,8 @@ EndRepeat
    5,D,G
    1,R
   18,L,D
-   5,L
+   3,L
+   2,L,J
   15,R,D,X
   15,R,Z
    4,J
@@ -1183,4 +1196,4 @@ EndRepeat
    1,L,J
   55,L
 
-ChapterTime: 2:45.801(9753)
+ChapterTime: 2:44.951(9703)
