@@ -1,4 +1,4 @@
-RecordCount: 4623
+RecordCount: 4717
 
 console load StrawberryJam2021/5-Grandmaster/tofu
    1
@@ -188,25 +188,25 @@ EndStunPause
    5,R,J
   17,R,U,X
   13,G
-  15,R,D,X
+  15,R,D,J,X
    1,R,J
-  17,R,U,X
-  13,G
-   3,R
-  14,R,U,X
-  21,R,G
-   1,R,D
-   4,R
-   3,R,J
-  11,R,X
-  13,G
+   1,R,D,J
+  10,R,D,K
+   6,R
+   2,R,J
+   1,R
+  10,R,U,X
+   1,R,G
+  29,R,D,J
+  10,R,X
+  22,R,U,J,G
   15,R,D,X
-   2,R
-   3,R,J
+   8,R
+   1,R,J
   15,R,D,X
-  12,R
-  15,D,X
-  22
+  10,R
+  10
+  13,L
   14,L,Z
    1,R,J
   15,R,D,X
@@ -415,4 +415,4 @@ EndStunPause
   15,R,U,X
  127
 
-ChapterTime: 0:56.253(3309)
+ChapterTime: 0:56.066(3298)
