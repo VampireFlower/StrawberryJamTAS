@@ -1,4 +1,4 @@
- fileRecordCount: 28602
+RecordCount: 28821
 
 console load StrawberryJam2021/5-Grandmaster/Dav
    1
@@ -615,27 +615,26 @@ EndRepeat
    1,L,J,G
    3,L
    4
-   1,R,D,J
+#get ground friction for speed manip (+1f)
+   1,L
+   1,R,J
    8,L,U,X
-   3,J,G
+   2,J,G
+   1,L,J
    5
    2,L
-  11,L,J
+   2,L,J
    1,J
-   2
+   9,L,J
+   2,L
   14,L,U,Z
    1,R,J,G
-   4,L,J
-   4,J
-#if speed is between
-#-1018.4 and -1020 (during freeze)
-#it would save ~3f on the climb
-  21,L,J
+   5,J
+  24,L,J
    2,L,K,G
-  43,L,J,G
+  42,L,J,G
   14,L,U,X
    2,L,J,G
-   2,L
   12,L,K,G
    7,L
   12,L,J
@@ -896,10 +895,10 @@ EndRepeat
 ### spinner cycle for [big-3]
 ### bad spot
 ##+0f
-#   7,L
+   7,L
 ##+1f
-   2,L
-   6
+#   2,L
+#   6
 ##+2f
 #   2,L
 #   1,R
@@ -1156,4 +1155,4 @@ Repeat 6
 EndRepeat
    1
 
-ChapterTime: 2:35.210(9130)
+ChapterTime: 2:35.159(9127)
