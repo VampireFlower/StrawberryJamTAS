@@ -1,4 +1,4 @@
-RecordCount: 5486
+RecordCount: 5618
 
 console load StrawberryJam2021/2-Intermediate/Arphimigon
    1
@@ -409,38 +409,33 @@ EndRepeat
    9,R,J
   15,U,X
   18
-#Spinner cycle [b_03]
-   2
-##
   14,R,D,X
    1,R,J
-   5,R,D,X
+   5,R,U,X
   40
 
 #lvl_b_03
-   4,R,J
-   7,R
-  25,R,G
-StunPause
-  20,R,G
-   1,R,D,G
-EndStunPause
-   9,R,D,G
-  11,R,G
-   3,R,D,G
-  32,R,G
+  62,R,J,G
+  27,R,D,G
+  22,D,G
+  11,D,G
+   1,R
+  14,L,Z
+   9,R,J
+  12,R
+  35,R,G
+   7,R,D,G
   15,R,Z
-  27,L
-  12,L,D
+  28,L
+  11,L,D
   13,L,Z
    9,R,J
+   1,R
   13,R,U,J,G
-   2,U,J,G
+   1,U,J,G
   16,R,U,J,G
    4,R,U,J
-   1,U,J
-   2,R,U,J
-   1,U,J
+   4,U
   15,U,X,G
   48,R
   15,R,X
@@ -554,4 +549,4 @@ EndStunPause
   14,R,U,X
  135
 
-ChapterTime: 1:53.747(6691)
+ChapterTime: 1:53.101(6653)
