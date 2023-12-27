@@ -1,4 +1,4 @@
-RecordCount: 7377
+RecordCount: 7745
 console load StrawberryJam2021/2-Intermediate/Ezel
    1
 
@@ -507,28 +507,25 @@ console load StrawberryJam2021/2-Intermediate/Ezel
    4,R
    2,D
 #a-05 alt route files start here
-  14,U,X
-   2,R,J
-   2,R,K,G
-   1,K
-   6,R,K
-   7,J
-   1,L,J
-   1,K
-   1,J,G
-   1,R,J
-   1,K
-   2,R
-   1
-   4,R
+  13,U,X
+   3,R,J
+   1,R,K,G
+   1,L
+   6,R
+   4,R,D,J
+   3,R
+  10,J
+   2,K
    5,L,Z
    1,R,J
-   6,R
-   1,R,J
    2,R
+   1,R,J
+   6,R
   15,R,D,X
-   5,R
-   6,R,D,J
+   3,R,D
+   1,R
+   5,R,D,J
+   2,R
    5,K
    6,J
   15,L,D,X
@@ -727,12 +724,14 @@ console load StrawberryJam2021/2-Intermediate/Ezel
    1
    4,L
    4,Z
-   2,L,J
-  11,L
-   6
-   1,G
-   1,J
-   7,K
+   1,L,J
+   1,L
+   1,L,J
+   1,L
+   1,L,J
+   6,L
+   8
+   8,J
    1
   14,R,Z
    1,R,J
@@ -824,14 +823,13 @@ console load StrawberryJam2021/2-Intermediate/Ezel
    4,J
   15,R,X
   15,D,C
-   1,R,D
-   4,Z
+   1,L,D
+   4,L,D,X
    1,R,J
-   6,R
-   1,R,J
-   3,R
-   6
-  10,L,D
+  10
+  15,D,X
+   1,L
+   1,L,J
   29
   14,L,D,X
    1,R,J
@@ -1368,4 +1366,4 @@ console load StrawberryJam2021/2-Intermediate/Ezel
    2,R
   11,R,U,Z
  135
-ChapterTime: 1:33.398(5494)
+ChapterTime: 1:33.330(5490)
