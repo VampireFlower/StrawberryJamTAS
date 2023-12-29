@@ -1,4 +1,4 @@
-RecordCount: 4424
+RecordCount: 4450
 
 console load StrawberryJam2021/3-Advanced/Tortoise
    1
@@ -455,28 +455,23 @@ console load StrawberryJam2021/3-Advanced/Tortoise
    1,R
    1,J,G
   15,L,D,X
-   1,L,J
-   4,L
+   1,L,D,J
+   3,L
+   1
   43
 
 #lvl_6
-   3
-   7,L
-   2,L,J
-   7,L,D,X
-   1,L,J,G
+  10,L
+   5,L,K
    5,L
-   2,L,J
+   1,L,K
    6,L
-   4,L,J
   14,L,U,X
-   1,L,J,G
+   3,L,K,G
    5,L
-   2,L,J
-   2,L
-   1,L,J
-   7,L
-  13,R,D
+   1,L,K
+  15,L,D
+  10,R,D
   11,L,D,X
    1,L,J
    3,L
@@ -487,4 +482,4 @@ console load StrawberryJam2021/3-Advanced/Tortoise
   16,U,X
  135
 
-ChapterTime: 0:50.847(2991)
+ChapterTime: 0:50.779(2987)
