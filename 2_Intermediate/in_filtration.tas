@@ -1,4 +1,4 @@
-RecordCount: 8906
+RecordCount: 9425
 
 console load StrawberryJam2021/2-Intermediate/Jems
    1
@@ -80,12 +80,14 @@ console load StrawberryJam2021/2-Intermediate/Jems
   22,R,J
    9,K,G
    1
-  21,L
-  15,U,X
-  16,R
-   5,R,J
-  25,R,D
-  29,L,D
+  37,L
+  14,R,U,X
+   4,R,K,G
+  19,R,D
+  25,L,D
+   7,L
+   2,L,D
+   1,L
   13,R,D,X
    1,J,G
    5,R,J,G
@@ -162,24 +164,34 @@ console load StrawberryJam2021/2-Intermediate/Jems
    4,L,J
   13,R,Z
    1,R,J
-   7,R
+   3,R
+   1,R,K
+   3,R
   10,R,J
-   2,R,K,G
+   1,R,K,G
   11,R
    3,R,J
-  13,R
-   8,R,J
-   2,R,K,G
-   9,J,G
-   1,L,K
-  11,L,J,G
+   5,R
+   1,R,K
+   8,R
+   8,R,D,K
+   1,R,J,G
+   1,K,G
+   2,R,K
+   5,R
+   1,L
+   3,L,J,G
+   2,R,J
+   1,L,K,G
+   2,L,J,G
    1,K
   40
 
 #lvl_btd-05
    1,L,J,G
    1,L,K,G
-  17,L
+   8,L
+   4
   11,L,D,J
    2,R,K,G
    1,K
@@ -361,7 +373,8 @@ console load StrawberryJam2021/2-Intermediate/Jems
    7,L,J
    1,J
    1,R,J,G
-   7,L,J
+   2,L,J
+   5,L,J
    5,L
    6
    1,D,J
@@ -395,20 +408,27 @@ console load StrawberryJam2021/2-Intermediate/Jems
    1,R,D,J
    2,J
    1,R,J
-   3,J
-   3
+   1,J
+   1,J
+   1,J
+   1
+   2
    1,R
-   3
+   1
+   2
    1,J
    1
    2,J
    1,R
    1
-   2,L
-   2,R
+   1,L
    1,L
    1,R
-   4
+   1,R
+   1,L
+   1,R
+   1
+   3,O
    1,L
    1,R,D
    1,R,J
@@ -456,25 +476,46 @@ console load StrawberryJam2021/2-Intermediate/Jems
   40
 
 #lvl_btd-13
-   4
-   4,L
-   2,L,J
+   3
+   1,R
+   1,K,G
+   1,R
+   1,K
+   1,J,G
+   1,L,J
    1,L,K,G
-  11,L
+   1,L,J,G
+  10,L
    1,L,J
   14,L
-   7,L,J
    1,S
    1,D,J
   34
-  21,L,J
-  16,L
- 125
+  11,L,J
+   9,L
+   7,K
+   2,L
+   3
+   1,L,J
+   2,L
+  36,X
+Repeat 15
+   1,L,U
+   1,R,U
+   1,L,D
+   1,R,D
+EndRepeat
+   1,K
+  20
+   5,L
    7,J
-  24,D
+  25,D
    5,D,J
- 154,D
-  26,L
+   2,R
+ 145,D
+   1,R
+   5,D
+  27,L
    3,L,J
    1,L,D,J
   16,L,D
@@ -510,22 +551,23 @@ console load StrawberryJam2021/2-Intermediate/Jems
    4,L
    1,L,J
    2,L
+   3,L,K
+   1,L
    1,L,K
+   4,L
+   3,L,K
    9,L
-   3,L,D,K
-   2,L
-   1
-   2,L
-  17,L,J
-   3,L,D
+   1,R,D,J
+   2,L,J
+  11,R,J
+  10,R,D
   40
 
 #lvl_btd-11 (1)
-   2,L,D
-   1,R,D
-   1,R,J
-  13,R,G
-  21,R,D
+   2,R,D
+   1,R,G
+  19,R,D
+   2,R
    2,R,J
   15,R,D
   20,D
@@ -595,7 +637,7 @@ console load StrawberryJam2021/2-Intermediate/Jems
    5
    1,R
 # Adjust for key cycle
-  32
+  38
    2,L
    4,R,J
    8,R
@@ -644,13 +686,28 @@ console load StrawberryJam2021/2-Intermediate/Jems
    1,K
    1
    1,J
-  22,L,J
+  21,L,J
+   1,L
   19,D
-  27,R,D
-   7,R
-  33,R,J
-   4,D
+  18,R,D
+   1,R
+   1,R,D
+   2,R
+   1,R,D
+   1,R
    2,R,D
+   1,R
+   8,R,J
+   5,R
+   1,R,J
+  12,R
+   1,R,K,G
+   5,R
+   4,R,J
+   2,R
+   3
+   1,R
+   2
    1,R
   19,R,J
    1,L,J
@@ -665,21 +722,22 @@ console load StrawberryJam2021/2-Intermediate/Jems
   28,R,D
    9,D
   15,R,D
-   1,R,J
-   4,R
+   6,R
   40
 
 #lvl_btd-30
-  10,R
-  25,R,J
-  16,L
-  13
+  19,R,D,J
+   1,K
+  16,L,J,G
+   1,K
+   6,R,K
+   2,K
    1,J
    1,L,K,G
-   8,R,J
-  13,R
-  13,L
-  10,L,D
+   3,R,K
+   7,K
+  20
+  15,D
   22,R
   12,J,G
   12,K,G
@@ -735,44 +793,41 @@ console load StrawberryJam2021/2-Intermediate/Jems
   36,U,G
    1
    1,J
-   1,L,K,G
-   2,R,J
-   1,L,K,G
-   6,R,J
+   3,K,G
+   9,J,G
+   2
+   1,R
+   4,R
+   1,G
+  10,J,G
    7,R
    1,G
-   1,J,G
-   2,R,J,G
-   1,L,J
-   1,R,J
-  11,R,K,G
-   7,R
-   1,G
-  33,R,J,G
-  12,R
-   1,R,J
-  16,R
-  30,R,J
-  12,R,K,G
    1,R,J,G
-   4,L,J
-   7,R,J
-   7,R
-   3,R,J
+   2,L,J
+   1,R,J
+   2,R
+  40,R,K,G
+   1,R,J
+  24,R
+  21,R,J
+   1,R,K,G
+   1,L,K
+   1,J
+  11,R,K,G
    5,R
+   1,R,J,G
+   1,R,K,G
+   9,R
+   1,R,K
   40
 
 #lvl_btd-33
-   2,R
-   3,R,J
-   7,R
-   1,R,J
-  14,R
-   5,R,J
-  14,R
-   4
-  15,R,X
+   2,R,K
    6,R
+  12,R,J
+  23,R
+  15,R,X
+   5,R
   15,R,X
    1,R
   25,G
@@ -789,20 +844,26 @@ console load StrawberryJam2021/2-Intermediate/Jems
    7,L,J
    7,L
   13,U,G
-   8,G
-   5
+   9,G
+   4
    1,J
    1,L,K,G
-  20,R,J
+  16,R,J
+   2,R
+   1,R,J
+   2,J
    4,L
   15,L,X
   22,L
   25,G
    1,D,G
-  15,L,D
-  26,D
-   3,R,J
-  19,R
+  16,L,D
+  23,D
+   2,L,D
+   2,R,J
+   5,R
+   2,R,J
+  13,R
   15,R,X
   17,R
   15,R,U,Z
@@ -1031,4 +1092,4 @@ console load StrawberryJam2021/2-Intermediate/Jems
   17,L,D,J
   14,L,K,G
 
-ChapterTime: 2:20.369(8257)
+ChapterTime: 2:19.298(8194)
