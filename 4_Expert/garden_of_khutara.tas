@@ -1,4 +1,4 @@
-RecordCount: 6742
+RecordCount: 7566
 
 console load StrawberryJam2021/4-Expert/DanTKO
    1
@@ -197,12 +197,16 @@ console load StrawberryJam2021/4-Expert/DanTKO
    7
   14,R,U,X
    1,J,G
-   2,R,J
-   3
+   1,R,J
    4,R
-  13
-  17,D
-   4,R,D
+   2
+   1,J
+   1
+   1,J
+   2
+   1,R
+  26,D
+   3,R,D
    1,R,J
    1,R,K
    1,R,J
@@ -214,27 +218,29 @@ console load StrawberryJam2021/4-Expert/DanTKO
    2,R
    1
   14,R,U,X
-   1,R,J,G
-   8,J
-   2,R,J
-  24,L,D
-   1,R,D
-   1,D
+   4,R,J,G
+   4,J
+  15
    1,R
   11,L
-  13,J,G
-  17,R
-   3,R,J,G
-   7,J,G
-   3,R,J
+   9,L,D
+   2,L
+   3,L,J
+  11,K,G
+  18,R
+   2,R,J,G
+   2,J
+   4,R,J
+   1,J
+   4,R,J
    1,R,K,G
    1,R
   11,R,X
    1,R,J
    5,J
-   9
+   5
    1,R
-   1
+   5
    1,R
    8,D
    1,R,D
@@ -556,65 +562,66 @@ console load StrawberryJam2021/4-Expert/DanTKO
    8,R,J
    6,R
   15,R,X
-  10,R
-  14,R,D,C
-   5,R,J
+   2,R
+  15,R,D,C
    1,R
-   2,R,K
-   6,R
-   1
+  10,R,Z
+   1,R,J
+   1,J
+   3,R,J
+   8,R
   14,R,U,Z
    1,R,J,G
-   3
-   2,K
+   2
+   1,K
+   1,R,K
+   1
    1,J
    8,L,J
    5,L
-   7,L,K
-   2,K
-   1,L
-   1
+   5,L,J
+   1,J
+   3,L,J
+   2,L
    2,J
    1,R,J
-  10,J
-   1,R,J
-  14,R,K,G
-  28,R,D
+  11,J
+   1,R,K,G
+  12,R,J,G
+   9,R
+   2,R,J
+  17,R,D
   10,L,D,X
   21,R,J
   14,R,U,Z
    1,R,J,G
    7,L
   18,R,U,X
-  14,L
-  10,L,D,X
-   5,R,J
+   9,L
+  13,L,Z
+   4,R,J
+   3,R
+   2,R,J
    1,R
-   3
-   1,K
-   1
-   1,K
-   2
+  11,D
    2,R,D
-   3,D
-   8,R,D
-  14,R,D,X
+  15,R,D,X
+   2,R,D
    1,R,J
   14,R,D,X
    1,R,J
    7,R
    1,R,J
-   7,R,D,X
+   6,R,D,X
   43
 
 #lvl_DanTKO_09
    5,R,D,X
    1,R,J
-   2,R
-  14,R,D,X
-   1,R,J
-   1,R
-  18,U,C
+   5,R
+  18,R,U,X
+   1,L,J,G
+   4,L,K,G
    9,L,G
    1,L,D,G
    1,L,G
@@ -642,22 +649,24 @@ console load StrawberryJam2021/4-Expert/DanTKO
   19,R,J
    8,L
   14,L,Z
-   3,R,J
-   1,R
-  10,R,J
-  19,R,D
-   1
-  17,R,X
-   8,R,J,G
+   1,R,J
+   2,J
+   2,R,J
   12,R,D,X
-   8,R,J,G
-   1,R
-   5
+   1,R,J,G
+  10,R
+   1
+  17,R,D
+   6,R,X
+   9,R,J,G
+   7,R
+   1,R,J
+  11,R
   15,R,D,X
-  11,R,D
-   3,R
-   1,R,D
-  19,R,D,J
+   4,R,D
+   2,D
+  10,R,D
+  20,R,D,J
    1,R,K,G
    1,L,K
    4,R,J,G
@@ -711,4 +720,4 @@ Repeat 67
    1,R
 EndRepeat
    1,L
-ChapterTime: 1:17.996(4588)
+ChapterTime: 1:17.724(4572)
