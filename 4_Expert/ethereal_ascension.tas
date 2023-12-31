@@ -1,4 +1,4 @@
-RecordCount: 5201
+RecordCount: 5945
 
 console load StrawberryJam2021/4-Expert/QuantumSpaceman
    1
@@ -151,7 +151,7 @@ console load StrawberryJam2021/4-Expert/QuantumSpaceman
    1
   72,O
 #Spinner cycle
-   0
+   2
 #
    6,L,D,X
    1,R,J
@@ -159,29 +159,30 @@ console load StrawberryJam2021/4-Expert/QuantumSpaceman
    1,R,K
    1,R
    5,R,J
-  58,R,U,J,G
-   1,R
+  63,R,U,J,G
+   6,R
   15,R,D,X
-   3,R
-   1,R,D
+  30,U,G
+  42,R,U,G
+   4,R
+  14,R,D,X
+   1,R,J
+   5,R,D,X
+  14,R,G
+  20,R,K,G
+  12,K,G
+  42,U,G
+   3,R,U,G
+   1,U
+  14,U,Z
+  10,R,J
+   9,R
+   3,R,J
    1,R
-  66,R,U,G
-   9,R,G
-   1,R,U,G
-   1,D
-  13,R
-   4,J
-   5,R,Z
    1,R,J
-  13,R,G
-   6,R,J,G
-  80,R,U,G
-   1,L
-  12,U,Z
-  11,R,J
-  13,R
+   1,R
    1,R,J
-   2,R
+   1,R
   10,R,X
    5,J
   13,R,J
@@ -463,36 +464,28 @@ EndStunPause
   11,R
    9,R,J
   29,R,U,G
-  50,U,G
-   1,R,U,G
-   2,U,G
-  14,R,U,G
+  35,U,G
+  13,R,U,G
+   6,R
+  14
+  10,L,Z
+   3,R,J
+  44,R
+   1
+   9,R,X
+  35,R,U,J,G
+   8,U,J,G
+  29,L
+  10
+   3,R
+  77,R,U,G
    1,R
-  10,L,D,X
-   5,R,J
-  12,R,D,X
-  56,R,D,G
-   4,R,U,G
-  13,U,G
-   1,U
-   6,L
-   5,R
-  14,D,X
-  30,L,G
-   3,G
-   1,L
-   8,R
-  17
-   1,L
-#might want to accel right further here before grabbing lantern
-   7,R
-  20,R,G
-  62,R,U,G
-   1,R
-  21,R,X
+  15,R,X
+   6,R
   15,R,U,C
   43,R,D
-   4,D
+   3,D
+   1,R,D
   12,R,X
   47,R,G
   28,R,U,G
@@ -512,4 +505,4 @@ EndStunPause
   15,U,X
  124
 
-ChapterTime: 1:46.148(6244)
+ChapterTime: 1:45.366(6198)
