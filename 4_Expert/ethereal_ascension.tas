@@ -1,4 +1,4 @@
-RecordCount: 5945
+RecordCount: 6509
 
 console load StrawberryJam2021/4-Expert/QuantumSpaceman
    1
@@ -56,16 +56,17 @@ console load StrawberryJam2021/4-Expert/QuantumSpaceman
    1
    1,L
   24,G
-  68,R,U,J,G
-  18,R
-   6
-   1,G
+  69,R,U,J,G
+  20,R
   12,J,G
+   1
   12,K,G
   11,J,G
-   7
-   1,G
-   2,J,G
+   2,K,G
+   5
+   2,R
+   3
+   1,R
   15,R,Z
   13,R
    4,R,D
