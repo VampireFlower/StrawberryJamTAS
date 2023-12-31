@@ -1,4 +1,4 @@
-RecordCount: 7855
+RecordCount: 8115
 
 console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1
@@ -300,23 +300,22 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    5
    9
   15,R,X
-  12
+   1,G
+  10
   15,R,Z
    5
-   4,R,J
+   5,R,J
    5,R
-   3,R,J
-   2,R
-   2,R,J
-   6,R
+   1,R
+   1,R,J
+  10,R
    1
 #shoutout to bryse0n
   15,U,Z
    1,R
    8,R,J
    8,R
-   3,R,J
-   2,R
+   5,R,J
    1,R,J
    1,R,K,G
    2,R,J,G
@@ -453,101 +452,99 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    7,R,K
   14,R,D,X
   15,R,U,C
-  10,L,D,X
+  10,L,X
   15,L,U,C
   15,L,X
   14,L
   15,U,Z
-   1
-   7,R,J,G
-   1,K
-  14,R,Z
-   2,R,J
+   6,R,J
+  10,R,Z
+   5,R,J
+   2,R
   15,R,D,X
-   2,R,D
+   3,R,D
    1,R,J
    5,R,D,X
   40
 
 #lvl_cross-02-TiltTheStars
-   8,R,D,X
-   2,R,J
-  15,R,D,X
-   7,R,D
-   2,R
-   1,R,D
-   9,R,X
-   8,R,J,G
-  32,R,D
-  12,R,X
-   1,R,J,G
+   9,R,D,X
+   1,R,J
+  16,R,U,C
+  14,R,Z
+   5,R,J
    1,R
-   2
-   2,R
-   3,R,J
-   8,R
-   5,R,J,G
-  17,R
-   6
-  15,D,X
-  15,L,C
-  16
-  15,L,X
-  12,L
-   1
-   1,L
-   1
-  15,L,X
-   4,L
-   4
-  15,U,X
+   5,R,J
    5,R
-   4,R,J,G
-   3,L,K,G
-   1,R,K
-  15,R,J
+  15,R,Z
+   8
+  30,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R,D
+   4,D
+   1,D
+   1,R
+   1,R,D
+   1,R
+   1
+  15,R,X
+  15,L,C
+   7,L
+   1,L,K,G
+  24,L,J,G
+  16,L
+   1
+   8,L
+  15,L,D,X
+   8,L,D
+   1,L,G
+   1,L,J,G
+   7,L,D
+  25,R,D
   14,R,X
    2,R,J,G
-   6,R
-  10,R,J
-   9,R
-   4,D
-  14,R,U,X
+   2
+  13,R
+  12,R,J,G
+  17,R
+   2
+   1,R
+  15,R,U,Z
+   5,L,K,G
+  43,L,G
    1
-   2,L,J
-  10,L
-  34,L,G
-   1
+   1,K,G
    1,J,G
-   1,L,K,G
-   8,R
-   2,R,J
-  21,R,D
-   5,R,J
+   1,K,G
+   3,K
+  14,R,U,X
+   4,R,J,G
   40
 
 #lvl_cross-03-TiltTheStars
-   1,R,J
-   4,R
-  10,R,D,X
-   1,R,J,G
-  14,R
-   4,R,J
+   3,R,J
+   5,R
+   3,R,J
    9,R
   40
 
 #lvl_start-02-Radley (1)
-  12,R
+   5,R
 
 #lvl_hub (3)
-  14,R,D
+  16,R,D
+   1,D
+   1
   15,R,Z
-   1,R
-  10,R,J
+   2
+   9,R,J
    8,L
-  25,D
+   2,L,D
+  23,D
 #key cycle :)
-Repeat 3
+Repeat 2
    3
    1,D
    1
@@ -558,7 +555,7 @@ Repeat 3
    1,D
    5
 EndRepeat
-  11,D
+   9,D
 #
   20,J
   15,U,X
@@ -764,4 +761,4 @@ EndRepeat
    1,R,K,G
   32,R
 
-ChapterTime: 1:28.740(5220)
+ChapterTime: 1:27.924(5172)
