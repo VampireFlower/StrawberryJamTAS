@@ -1,4 +1,4 @@
-RecordCount: 8161
+RecordCount: 8207
 
 console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1
@@ -520,28 +520,25 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1
    1,R
   14,R,U,X
-   4,R,J,G
+   1,R,J,G
+   3,R
   40
 
 #lvl_cross-03-TiltTheStars
-   3,R,J
-   5,R
-   3,R,J
-   9,R
+  11,R
+   1,R,J
+   8,R
   40
 
 #lvl_start-02-Radley (1)
    5,R
 
 #lvl_hub (3)
-  16,R,D
-   1,D
-   1
+  13,R,D
   15,R,Z
-   2
+   1
    9,R,J
-   8,L
-   2,L,D
+   9,L
   23,D
 #key cycle :)
 Repeat 2
@@ -555,7 +552,7 @@ Repeat 2
    1,D
    5
 EndRepeat
-  12,D
+  15,D
 #
   20,J
   15,U,X
@@ -761,4 +758,4 @@ EndRepeat
    1,R,K,G
   32,R
 
-ChapterTime: 1:27.839(5167)
+ChapterTime: 1:27.771(5163)
