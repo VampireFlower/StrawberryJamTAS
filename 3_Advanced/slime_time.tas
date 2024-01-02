@@ -1,4 +1,4 @@
-RecordCount: 5468
+RecordCount: 5563
 
 console load StrawberryJam2021/3-Advanced/galaksyz
    1
@@ -136,17 +136,16 @@ console load StrawberryJam2021/3-Advanced/galaksyz
    1,R,J,G
    7,R
    7,R,J
-  10,R,X
-   4,R,J
-   1,R,K,G
-  11,R,D,X
+   5,R,Z
+   8,R,J
+   4,R
    1,R,J
-   1,R
+  10,R,D,X
   40
 
 #lvl_a_03-Oppen_heimer
-   6,R
-   4,R,J
+   4,R,D,X
+   5,R,J
   15,R,U,X
   14,R,Z
   15,R,J
@@ -456,7 +455,7 @@ console load StrawberryJam2021/3-Advanced/galaksyz
   15,U,X
   18,R,J
 #spinner cycle
-   0
+   1
 ##
   15,U,X
   18,R,J
