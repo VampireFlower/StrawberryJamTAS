@@ -1,4 +1,4 @@
-RecordCount: 5851
+RecordCount: 6139
 
 console load StrawberryJam2021/3-Advanced/galaksyz
    1
@@ -76,34 +76,30 @@ console load StrawberryJam2021/3-Advanced/galaksyz
    3
    1,R
   16,R,Z
-   2,R,J,G
-   1,R
-   1,R,J,G
-   1,R
-   1,R,J,G
+   6,R,J,G
    7,R
    6,R,Z
    1,R,J
-   1,R,K,G
-   7,R
-  13,R,J
+   2,R,K,G
+   1,R,J,G
+   3,R,K,G
+  12,K
   40
 
 #lvl_a_02-Gala
-   1,R,J
-   1,R
-   7,R,Z
-   2,J,G
-   1,R
-   1,J,G
-   7,R
-  10,R,D,X
-  23,R,J
-  14,R,U,X
+   1
+   8,R,Z
+   4,J,G
+   3,R
+   1
+   3,R
+  14,R,D,X
+  19,R,J
+  14,R,U,Z
   15,U,C
    2,R,J,G
    4,J
-   5,K,G
+   4,K,G
    7
    1,G
    3,K,G
@@ -190,18 +186,14 @@ console load StrawberryJam2021/3-Advanced/galaksyz
   40
 
 #lvl_a_04-Gala
-   5,R,D,X
-   8,R,J
-   4,R
+  14,R,D,X
    1,R,J
-   5,R,D,X
-   1,R,J
-   7,R
-   5,R,D
+   3,R,K,G
+  16,R,D
    3,R,J
    5,R
-  16,R,J
-  15,R,U,Z
+  14,R,J
+  14,R,U,Z
   24,R,X
   16,U,C
    6,R
@@ -286,27 +278,28 @@ console load StrawberryJam2021/3-Advanced/galaksyz
    1,R,J
   15,R
   27,R,Z
-  15,R,D
-  32,R,J
-   2,R,D
-  21,R,X
-  32,D
-  10
-  16,R,X
+   4,D
+  15,R,Z
+  10,L,D,X
+  23,R,J
+  11,R,D
+  19,R,X
+  33,D
+  15,R,X
    9,L,U,Z
-  38,R
+  38,R,D
   18,R,X
+ 
    4,R,Z
    2,R,J
    2,R,K,G
-   9,R
-   1,R,K
+  10,R
    4,R
    1,R,J
    3,R,K,G
    8,R,D,X
   40
-
+ 
 #lvl_a_06-TiltTheStars
    1,R
    8,R,J
@@ -378,7 +371,7 @@ console load StrawberryJam2021/3-Advanced/galaksyz
    1,R,J
    5,R,U,X
   40
-
+ 
 #lvl_a_07-TiltTheStars
    4,R,U,X
   15,R,J,G
@@ -434,7 +427,7 @@ console load StrawberryJam2021/3-Advanced/galaksyz
   15,U,X
   18,R,J
 #spinner cycle
-   1
+   2
 ##
   15,U,X
   18,R,J
@@ -470,7 +463,7 @@ console load StrawberryJam2021/3-Advanced/galaksyz
    1,R,D
    1,D
   40
-
+ 
 #lvl_a_08-TiltTheStars
    6,R,D
    3,R,J
@@ -515,7 +508,7 @@ EndStunPause
    1,R,J
    6,R,U,X
   40
-
+ 
 #lvl_heart_room
    1,R,U,X
    3,R,K,G
@@ -527,5 +520,5 @@ EndStunPause
    3,R,J
   14,R,X
  135,D
-
-ChapterTime: 1:20.716(4748)
+ 
+ChapterTime: 1:20.614(4742)
