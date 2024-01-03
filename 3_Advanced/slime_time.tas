@@ -1,4 +1,4 @@
-RecordCount: 6139
+RecordCount: 6421
 
 console load StrawberryJam2021/3-Advanced/galaksyz
    1
@@ -347,16 +347,15 @@ console load StrawberryJam2021/3-Advanced/galaksyz
   12,R,J
   11,R,X
   11,R,C
-  19,R,D,X
-  19,R,C
-  10,R,Z
-   3,R,J
-  13,R
-   1
-  14,R,X
+  19,R,X
+  15,R,D,C
+   3,R
    1,R,J
-  14,R,Z
-  17,R,J
+  14,R,D,X
+   7,R,J
+  15,R
+  11,R,D,X
+  21,R,J
    9,U,X
   13,R,J
    8,R
@@ -427,7 +426,7 @@ console load StrawberryJam2021/3-Advanced/galaksyz
   15,U,X
   18,R,J
 #spinner cycle
-   2
+   1
 ##
   15,U,X
   18,R,J
@@ -521,4 +520,4 @@ EndStunPause
   14,R,X
  135,D
  
-ChapterTime: 1:20.614(4742)
+ChapterTime: 1:20.563(4739)
