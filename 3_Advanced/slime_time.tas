@@ -1,4 +1,4 @@
-RecordCount: 6421
+RecordCount: 6845
 
 console load StrawberryJam2021/3-Advanced/galaksyz
    1
@@ -227,26 +227,33 @@ console load StrawberryJam2021/3-Advanced/galaksyz
   14,R
   15,R,U,X
   22,R
-  13,R,D,X
-  27,R,J
-   3,J
-  15,R,X
-   1
-   1,R
-   7,L,Z
+  14,R,D,X
    1,R,J
-   2,R
-   3
-   1,R,K
+   9,R,D,X
+  10,R,J
    1,R
-   1,R,D,J
+   3,R,J
+  13,R
+   3,R,D
+   1,R,J
+   3,L,J
    1,J
-   7,R,J
-   5,R
-   6,R,K
-  11,R,D,X
-  13,R,J
-  25,R,D,X
+   3,L,J
+   1,L
+   5,R,Z
+   1,R,J
+   1,R
+   4
+   1,R
+  11,R,D,J
+   2,R
+   1
+   2,R
+  14,R,D,X
+  11,R,J
+  15,R,D,X
+   9,R,D
+   1,D
   40
 
 #lvl_a_05-TiltTheStars
@@ -289,7 +296,6 @@ console load StrawberryJam2021/3-Advanced/galaksyz
    9,L,U,Z
   38,R,D
   18,R,X
- 
    4,R,Z
    2,R,J
    2,R,K,G
@@ -375,18 +381,22 @@ console load StrawberryJam2021/3-Advanced/galaksyz
    4,R,U,X
   15,R,J,G
   44,R,X
-  14,R,Z
-   7,R,J
-  25,R,D
-  30,L,D
-  29,R,D
-  61,L,D
+  12,R,Z
+   8,R,J
+  22,R,D
+  27,L,D
+  34,R,D
+  63,L,D
   15,L,X
-   8,L
+   6,L
    1
    1,L
+   1
+   1,G
+   1,R
+   1,L
    5
-  15,G
+  12,G
    1,K,G
    1,J,G
    1,L,K,G
@@ -405,10 +415,11 @@ console load StrawberryJam2021/3-Advanced/galaksyz
    2,R,J
   14,R,U,X
   56,R,C
-  24,R,D,X
-  14,R,D,C
+  25,R,D,X
+  13,R,D,C
+   2,R,J
+   9,R,D,X
   25,R,J
-  15,R,X
  108,R,C
   30,R,D,X
    7,R,Z
@@ -426,7 +437,7 @@ console load StrawberryJam2021/3-Advanced/galaksyz
   15,U,X
   18,R,J
 #spinner cycle
-   1
+   0
 ##
   15,U,X
   18,R,J
@@ -520,4 +531,4 @@ EndStunPause
   14,R,X
  135,D
  
-ChapterTime: 1:20.563(4739)
+ChapterTime: 1:20.410(4730)
