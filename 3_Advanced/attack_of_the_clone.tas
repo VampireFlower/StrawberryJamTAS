@@ -1,4 +1,4 @@
-RecordCount: 5214
+RecordCount: 5579
 
 console load StrawberryJam2021/3-Advanced/pugroy
    1
@@ -16,7 +16,6 @@ console load StrawberryJam2021/3-Advanced/pugroy
    9,L
    1,L,D
   15,L,Z
-# 47
    1,G
    1
    1,J
@@ -25,7 +24,6 @@ console load StrawberryJam2021/3-Advanced/pugroy
   14
    1,J
   14
-#
   10,L,Z
    5,R,J
    5,R,D,X
@@ -434,119 +432,65 @@ console load StrawberryJam2021/3-Advanced/pugroy
    3,R
   15,R,U,X
   15,R,U,C
-  14,R
+  13,R
+  31,R,G
+   1,R,D
+  11,U,C
   20,R,G
+   4,G
+   1,R,G
+   3,G
+   5,D,G
    3,G
    1,R
-  11,R,U,X
-  21,G
-   1,R
-  15,D,X
-   4,R,D
-   6,D
-   2,L
-   4,L,D
+  13,D
+  10,R,D
+  22,R
+  26,R,U,Z
+  13,L,J,G
+   1,K
+   3,J,G
+   8,R,J
+   7,R
+  13,R,U,X
    1,L
-   1,L,D
-   1,L,J,G
-   8,L,K,G
-   6,L
-   3,L,K
-   1,L
-   2,L,K
-  10,L
-   1,L,J,G
-   1,K,G
-   3,L,K
-   3,L
-   1
-   1,L
-   2
-   5,R
-   1,R,J
-   8,R
-   2,R,J
-   8,R
-   3,R,J
-   4,R
-   1,R,J,G
-   5,R
-   1,R,J
-   9,R
-   3,R,J
-   5,R
-  13,R,J
-  15,R,Z
-   2,R
-   7,U,X
-  21,R,J
-  21,R,G
-   1,R
-  15,R,U,X
-  14,R,C
-  19,R,G
-   3,G
-   1
-  29,L
-   2,G
    6,J,G
-   2
-   1,J,G
-   1,R,J
-   8,L,K,G
-   3
-   2,R
    1
-   2,R
-   1
-   1,R
-#frame ties
-#   8,R,Z
-#  10,R,J
-#  15,R,D,X
-#   1,R,J
-#   7,R
-#  40
-#   1
-#   6,R
-#   5,R,D,J
-#   5,R,D,X
-#   5,R,J,G
-#   5,R
-#   2,R,J
-#   7,R
-#   7,R,J
-#  15,R,D,X
-#   1,R,J
-#   8,R
-#  14,R,X
-##
-  10,R,Z
-   1,R,J
-   1,R
-   1,R,J
-   1,R
-   1,R,J
    3,R
-  14,R,D,X
-   1,R,J,G
-   9,R
+   5,R,J
+  29,R,X
+   2
+   1,R
+  16,J,G
+   5,L,J,G
+   1,R
+  21,L
+  14,L,K,G
+   2,J,G
+   5
+   1,R
    1,R,J
-   2,R
+   1,J
+   1
+   1
+   1,R
+   7,R,Z
+   5,R,J
+   6,R
+  15,R,D,X
+   6,R,J
   40
 
 #lvl_BR-Outro
-   9,R,J
-   7,R,D,X
-   3,R,J,G
-   5,R
-   8,R,J
-   2,R
+   6,R,J
+  10,R,D,X
+   6,R,J,G
+  13,R
    7,R,J
   15,R,D,X
-   5,R
+   4,R
    1,R,J
-  14,R,D,X
+  15,R,D,X
  135
 
-ChapterTime: 1:06.385(3905)
+ChapterTime: 1:05.331(3843)
