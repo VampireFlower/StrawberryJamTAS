@@ -1,4 +1,4 @@
-RecordCount: 7401
+RecordCount: 7602
 
 console load StrawberryJam2021/3-Advanced/galaksyz
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/3-Advanced/galaksyz
  190
 
 #lvl_a_00-Worldwaker2
-   4,X
+   4,R,X
    1,R,J
    2,J
    9,R,K,G
@@ -171,13 +171,15 @@ console load StrawberryJam2021/3-Advanced/galaksyz
    1,R,J
    7,R
    2
-  37,R,J
+  21,R,J
+  14,R
    1
-  17,R,X
-   2,R,K,G
-   5,R
-   1,R,K
-   9,R
+  15,R,X
+   1
+   2,R
+   1,R,K,G
+   1,R,J,G
+  14,R
   11,R,X
    1,R,J,G
    1
@@ -316,9 +318,11 @@ console load StrawberryJam2021/3-Advanced/galaksyz
   20,R,X
   15,R,U,C
   15,R,D,X
-  17,R,D
-   4,D
-   9,L,Z
+  11,R,D
+   8,D
+   1,R,D
+   1,D
+   8,L,Z
    1,R,J
    7,R
    1,R,J
@@ -531,4 +535,4 @@ EndStunPause
   14,R,X
  135,D
  
-ChapterTime: 1:20.359(4727)
+ChapterTime: 1:20.308(4724)
