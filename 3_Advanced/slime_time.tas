@@ -1,4 +1,4 @@
-RecordCount: 7647
+RecordCount: 7723
 
 console load StrawberryJam2021/3-Advanced/galaksyz
    1
@@ -359,33 +359,39 @@ console load StrawberryJam2021/3-Advanced/galaksyz
   12,R,J
   11,R,X
   11,R,C
-  19,R,X
+  17,R,X
+   2
   15,R,D,C
+   3
+   7,L,Z
+   1,R,J
    3,R
-   1,R,J
-  14,R,D,X
-   7,R,J
-  15,R
-  11,R,D,X
-  21,R,J
-   9,U,X
+   1,R,K
+   3,R
   13,R,J
-   8,R
-   6,R,J
-  16,R,D
-   2,R
-   2,R,D
-   1,R
-   8,R,Z
-   1,R,J
-   6,R
-   1,R,J
-   5,R,U,X
+  17,R,D,J,X
+  10,R,J
+  25,R,K
+   4,K
+   1,R,J,G
+   1,R,K,G
+   3,L,K
+   9,R,K
+  15,R,Z
+  12,R,D
+   4,R,Z
+   8,R,K
   40
  
 #lvl_a_07-TiltTheStars
-   4,R,U,X
-  15,R,J,G
+   3,R,K
+   1,R
+   1,R,K
+   1,R,J,G
+   5,R,Z
+   1,R,J
+   6,R
+   8,R,J
   44,R,X
   12,R,Z
    8,R,J
@@ -537,4 +543,4 @@ EndStunPause
   14,R,X
  135,D
  
-ChapterTime: 1:20.308(4724)
+ChapterTime: 1:20.257(4721)
