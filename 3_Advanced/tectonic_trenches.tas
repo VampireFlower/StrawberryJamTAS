@@ -1,4 +1,4 @@
-RecordCount: 3143
+RecordCount: 3170
 
 console load StrawberryJam2021/3-Advanced/Julia
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/3-Advanced/Julia
   69
 
 #Spinner Cycle
-   1
+   2
 
 #lvl_a-01
    1,L,J
@@ -225,7 +225,7 @@ console load StrawberryJam2021/3-Advanced/Julia
 
 #lvl_a-05
   10,R
-  15,D,X
+  14,D,X
    1,N
    3,R,J
    1,R,J
