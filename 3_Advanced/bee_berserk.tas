@@ -1,4 +1,4 @@
-RecordCount: 8984
+RecordCount: 9281
 
 console load StrawberryJam2021/3-Advanced/TiltTheStars
    1
@@ -687,29 +687,34 @@ EndRepeat
   30,L,K
    1,L,G
   23,U,G
- 505,G
-  47,U,G
-   2,D,G
+ 500,G
+  26,U,G
+   5,L,J,G
+   1,L
+   3,L
+   1
+   1,L,J
    1,J
    1
-   1,R
-   1,K
-   1,L,J,G
-  26,R,K
-  22,R
-   1,R,D
-   1,R
-  11,R,D
-   3,R
-   7,R,Z
-   1,R,J
+   1,J
+   1
    6,R
+   2,G
+#bee moment
+   1
+   1,R,J,G
+   3,R,K,G
+   6,R
+  44,R,K
+   6,R,D,C
+   1,R,J
+   7,R
    1,R,J
   14,R,D,X
    1,R,J
   14,R,D,X
    1,R,J
-   7,R,D,X
+   8,R,D,X
    1,R,J
    1,R
    1
@@ -805,4 +810,4 @@ EndRepeat
   19,L
   75,N
 
-ChapterTime: 2:06.752(7456)
+ChapterTime: 2:06.446(7438)
