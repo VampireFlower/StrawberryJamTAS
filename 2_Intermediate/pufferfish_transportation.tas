@@ -1,4 +1,4 @@
-RecordCount: 6924
+RecordCount: 7194
 
 console load StrawberryJam2021/2-Intermediate/Rocketguy2
    1
@@ -227,11 +227,11 @@ EndStunPause
    3,R
   68
    4,L,J
-#spinner cycle
-   2
-#
   10,L,D,X
    5,L
+# Spinner Cycle
+   2
+#####
   12,L,D,J
   10,K,G
    1,R,K,G
@@ -291,79 +291,41 @@ EndStunPause
    1,L,K,G
    1,L,J,G
   21,R,K
-   3,J,G
-  19
-   1,D
+   9,R,J,G
+   8,R
+   3,R,J
   40
 
 #lvl_RG2-8
-   1
-   1,J
+   2,R
    1,S
    1,D,J
   34
-   2
-   9,R
-  17,R,D,X
+  18,R,D,X
+   2,R,D
+   6,R,U,Z
    1,L,J,G
-StunPause
-   3,R,J,G
-SkipInput,3,1
-  11,R,Z
-EndStunPause
-   3,R
-   1,L,J,G
-  20,R,J,G
-   2,J
-  11,R,J,G
-StunPause
-  10,R,J,G
-   2,R,K,G
-EndStunPause
-   1
-   4,R,K,G
-   4,R
-   1
-   1,R
-   1
-#Spinner cycle
-   2
-#
-   6,L,D,X
-   1,R,J
-   7,R
-   1,R,J
-   8,R,D,X
-   1,S,N
+  10,R
+  45,R,J
+   1,R,K
+   6,R
+   1,S
    1,D,J
   34
-   1,R
+   2,R
   40
 
 #lvl_RG2-9
    5,R
-   1,R,J
-  10,R,D,X
-StunPause
-   3,R,D,X
-   4,R
-SkipInput,3,1
-  12,R,D,K,X
-EndStunPause
-   3,R,D,K,X
-## -1f, but bad spinner cycle
-#   2,R,D,K
-#   3,R,D
-#   2,R,D,J
-#   5,R
-#   7,R,J
-#   1,R
-#   1,R,J
-#   4,R
-#   5
-#   2,D
-##
-   2,R,D,K
+   8,R,D,X
+stunpause
+   5,R,D,X
+   2,R,J
+   2,J
+skipinput,3,1
+  11,R,D,K,X
+endstunpause
+   6,R,D,K
    3,R,D
    4,R,D,J
    5,R
@@ -371,7 +333,6 @@ EndStunPause
    3,R
   11,D
    2
-##
    5,R,U,X
 StunPause
    2,R,U,X
@@ -383,11 +344,13 @@ EndStunPause
 StunPause
    1,R
    1,D,J
-  16,R,J
+   5,R,J
+   1,J
+  10,R,J
 EndStunPause
   14,R,J
   14,J
-   1,D
+   1,R,D
   15,R,U,Z
    3,R
   94
@@ -433,4 +396,4 @@ EndRepeat
    1,R,J
   43,R
 
-ChapterTime: 1:04.770(3810)
+ChapterTime: 1:02.033(3649)
