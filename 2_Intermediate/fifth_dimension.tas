@@ -1,4 +1,4 @@
-RecordCount: 2836
+RecordCount: 2839
 
 console load StrawberryJam2021/2-Intermediate/Liero
    1
@@ -36,11 +36,12 @@ console load StrawberryJam2021/2-Intermediate/Liero
 
 #lvl_A01
   10,R
-  21,R,J
+  19,R,J
+   2,R
   15,R,U,X
    3,R
   15,L,X
-  39,D
+  38,D
    5,R,D
   40
 
@@ -250,7 +251,7 @@ console load StrawberryJam2021/2-Intermediate/Liero
   10,R,X
   24,R,J
 ##Spinner cycle
-   0
+   1
 ##
   12,U,X
   36,R,J
