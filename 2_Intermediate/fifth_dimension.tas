@@ -288,7 +288,7 @@ EndStunPause
   15,L,X
    7,L,C
 ##Spinner Cycle
-   9
+   8
 ##
   15,D,X
    4,D
@@ -308,20 +308,22 @@ EndStunPause
    2
    1,R,J,G
    5,R
+   1,R,J
 StunPause
    2,R,J
 EndStunPause
    1,R,J
 StunPause
-   2,R,J
+   1,R,J
    2,R
    2
    4,R
 SkipInput,3,1
   15,R,X
 SkipInput,3,1
-  15,D,C
+  14,D,C
 EndStunPause
+   1,D,C
    2,R,D
    2,R,D,J
    8,R,D
@@ -342,4 +344,4 @@ EndStunPause
    5,U,X
  135
 
-ChapterTime: 0:58.446(3438)
+ChapterTime: 0:58.242(3426)
