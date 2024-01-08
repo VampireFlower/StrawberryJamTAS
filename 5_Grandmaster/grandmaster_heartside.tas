@@ -1,4 +1,4 @@
-RecordCount: 36025
+RecordCount: 36233
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -665,56 +665,62 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
   33,R,J
   18,U,X
   17,R,C
-  15,D,X
-  60
-   9,L,Z
-   1,R,J
-   9,R
-  12,R,D,J
-   6,R
-   7,R,J
-  18,U,Z
-   2,R
-   3
-  15,U,X
   10
-  15,L
-  15,U,Z
-   2
-   1,L
-  26,R
-  15,R,X
-  15,R,D
-   9,D
-   8,L,D
-   5,D
-   6,R,Z
-   2,R,J
-  34,R,D
-   3,R
-   1
-   4,L,K,G
-   1,R,K
-   9,J,G
-   9,L,J
-  21,R,U,X
-   6
-  21,L,C
-  31,L,U,X
-   6,R
+   8,L,Z
+   1,R,J
+   4,R
+  20,R,D,J
+  18,R,U,X
+  47,G
+   7,U,C
+  25,L,J
+  15,U,X
+  16,L
+   1,J
+   5,R
+   1,R,J
+   4,R
+  15
+  16,R,Z
+   8,D,X
+   1,L,J,G
+   1,R
+   4
+  10,R
+  13
+   5,L,D,X
+   6,R,J
+  31,R
+   9,R,D
+   2,R
+   1,R,D
+   2,L,J,G
+   1,R,J
+   2,R
+   1,J,G
+   6,R,J
+   5,L,J
+   6,L
+   2,L,J
+  22,R,U,X
+   4
+  27,L,C
+  21,L,U,X
+  16,R
    4,R,Z
-   2,R,J
+   1,R,J
+   1,R
    1,R,K,G
    1,R,J,G
    1,R,K,G
-   2,J,G
-   4,R,J,G
-   6,R
-   1,J
-   1
-   6,R,J
-  57,R
-  14,R,U,X
+  10,R,J,G
+   2,J
+   3
+   2,R
+   2
+   5,R,J
+  59,R
+  15,R,U,X
  349
 
 #lvl_c0-Divinity
@@ -2683,4 +2689,4 @@ Repeat 34
    2,L,D
 EndRepeat
 
-ChapterTime: 7:14.843(25579)
+ChapterTime: 7:14.741(25573)
