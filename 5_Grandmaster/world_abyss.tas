@@ -1,4 +1,4 @@
-RecordCount: 29227
+RecordCount: 29681
 
 console load StrawberryJam2021/5-Grandmaster/Dav
    1
@@ -314,79 +314,84 @@ EndStunPause
    5,R,K,G
    5,R
    2,R,J
-   5,R
-  12,R,J
-  15,L,X
-  20
-   2,R
-   2
-   1,R
-  57
-  15,X
-  12,R
-  11
-  15,R,X
-   7,R
-  21,L
-   6,R,J
-   6,R
-   8,D,X
-   8,R
-  27,R,U,X
-   1,G
-   5,R,J,G
-  17,R
-   1,L,J,G
-  22,J
-   7
-   1,R
-   1
-   1,R
-   2,R,D
-   2,R
-   2,R,D
-   3,R
-   8,L
-   9,L,D
-   4,R
-   4,Z
-   1,R,J
-   1,R,K,G
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-   6,R
-   1
-StunPause
-   5,R,D
-   7,R,J
-   2,R
-   3
-   2,J
-EndStunPause
-   1,K,G
    4,R
    1,L
-  13,R
-#wait 1 frame for spinner cycle
-   1
-#
-  10,L,G
-   8,L,J,G
-   6,L
-   2
-   3,J
-   7
-   7,K
-  15,R,U,X
-  25,R,D
-   1,D
-   6
+   6,L,J
+   1,L
+  10,L,D,X
+   1,J,G
+   5,L
+   5
+   3,R
+   1,G
+   5,R,D,X
+StunPause
+   3,R,D,X
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   3,R
+   3
+EndStunPause
+   1,S,N
+  10,J
+   1,R,J
+   1,R
+   1,S,N
+  10,J
+   1,R,J
+   1,R,D,J
+StunPause
+   1,R,D,J
+   7,R,K
+EndStunPause
+   1,R,K
+   5,R
+   2,R,J
+   8,R,D
+StunPause
+   6,R,D
+EndStunPause
+   3,R,D
+StunPause
+   1,R,D
+SkipInput, 3, 1
+  14,R,U,X
+   1,J,G
+   1,J
+EndStunPause
+   3,R,J
+   1,J
+   0
+   1,L,J
+  17,R,D
+   1,L,D
+   2,R,D
+   1,L,D,G
    1,L,G
-   7,J,G
-  10,R
+   1,L,J,G
+   1,J
+   5
+   1,J
+   5
+   1,R
+   1
+   1,R
+   5,L,G
+  10,L,J,G
+  10,J
+  15,R,U,X
    8
-  53,L,G
+  22,R,D
+   5,R
+   1,L,J,G
+   4,R,J
+   6,R
+   1,R,J
+  10
+  55,L,G
    2,J,G
    1,R,J
   24,R,K
@@ -431,7 +436,7 @@ EndStunPause
    1,R,K,G
    7,R
 #spinner cycle [big-2]
-   1
+   0
 ####
    5,R,Z
    1,R,J
@@ -1065,15 +1070,17 @@ EndRepeat
    1,L
   15,L,D,X
   18,L,D
-   9,L
-  64,L,D
+  14,L
+  59,L,D
    1,R,D
 Repeat 15
    2,L,D
    2,R,D
 EndRepeat
-   2,L
-   1,R,D
+   2,L,D
+   2,R
+   1,L
+   1,L,D
 
 #lvl_a-intro (1)
   49,D
@@ -1160,4 +1167,4 @@ Repeat 6
 EndRepeat
    1
 
-ChapterTime: 2:35.108(9124)
+ChapterTime: 2:33.391(9023)
