@@ -1,4 +1,4 @@
-RecordCount: 4595
+RecordCount: 4788
 
 console load StrawberryJam2021/4-Expert/KAERRA
    1
@@ -127,10 +127,9 @@ console load StrawberryJam2021/4-Expert/KAERRA
   10,R,D
    5,D
   10,L,D,X
-  16,R,J
-  31,L,J
-   7,J
-  11,L,Z
+  17,R,J
+  37,L,J
+  10,L,Z
    1,R,J
    5
    1,R
@@ -578,4 +577,4 @@ console load StrawberryJam2021/4-Expert/KAERRA
    1,N
   82
 
-ChapterTime: 1:06.606(3918)
+ChapterTime: 1:06.589(3917)
