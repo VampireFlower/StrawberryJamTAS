@@ -1,4 +1,4 @@
-RecordCount: 17375
+RecordCount: 17592
 
 console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    1
@@ -8,8 +8,7 @@ console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
 
 #lvl_cp1_heartside_intro
 #spinner cycle (flag 10)
-  24
-#includes drift wait
+   2
 
 ## frame ties
 #  15,U,X
@@ -1000,28 +999,31 @@ EndRepeat
    4,R
    5
    2,K
-   5,R,K
-   1,R
    2,R,K
-  19,R,D
-   2,L,D
+   3,R,K
+   3,R
+  18,R,D
+   3,L,D
+# using drift is 19f faster 
+# but not worth the extra wait
 StunPause
-   4,L,D
+  12,L,D
+  12,R,D
 EndStunPause
-   2,L,D
-StunPause
-   1,L,D
-   7,D
-  10,R,D
-EndStunPause
-   7,R,D
-   1,D
+   3,D
+  13,R,D
+   8,R,J
+   6,R
+   1,R,K,G
+   1,R,J,G
+  11,R
    1,R,J
-  14,R
+   8,R
    1,R,J
-  17,R
-  22,R,J
-  13,U,X
+   5,R
+   4,R,J
+   7,R,K,G
+  15,U,X
    8,R,J
    6,R
    6,R,J
@@ -1993,4 +1995,4 @@ Repeat 33
 EndRepeat
    1
 
-ChapterTime: 4:23.211(15483)
+ChapterTime: 4:23.160(15480)
