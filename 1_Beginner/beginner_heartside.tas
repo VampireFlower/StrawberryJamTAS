@@ -1,4 +1,4 @@
-RecordCount: 17611
+RecordCount: 17640
 
 console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    1
@@ -809,21 +809,25 @@ EndRepeat
   10,R,D
    3,R
    1,R,D
-   4,R,Z
-   2,R,J
-   1,R,K,G
-   9,R
-   3,R,J
+   1,R,J
+   1,R
+   6,R,Z
+   1,R,J
+   6,R
+   1,R,J
+   1,R
+   5,R,U,X
   40
 
 #lvl_cp3_11_heartside_joltik
-   4,R,J
-   3,R,K,G
-  11,J,G
-  15,U,X
+   6,R,U,X
+   1,K,G
+   8,R,K,G
+  15,U,Z
    1,R,J,G
-   3,L,J
-   1,R,J
+   2,L,J
+   1,L
+   1,R
    1,K,G
    4,R
    1
@@ -850,14 +854,11 @@ EndRepeat
    7,J,G
    5,R,J
    1,R,K,G
-  10,R,J,G
-   2,J
-   1
-   1,R
-   1
-   1,J
-   2,L,J
-   1,J
+  15,R,J,G
+
+   1,K
+   2,L,K
+   1,K
    5
    2,K
    1
@@ -869,8 +870,7 @@ EndRepeat
    1,R,K,G
    1,L,K
    4,R,K
-   8,K
-   2,L,K
+  10,K
   14,U,X
   13,J
    1,L,J
@@ -1995,4 +1995,4 @@ Repeat 33
 EndRepeat
    1
 
-ChapterTime: 4:23.007(15471)
+ChapterTime: 4:22.956(15468)
