@@ -1,4 +1,4 @@
-RecordCount: 4686
+RecordCount: 5213
 
 console load StrawberryJam2021/1-Beginner/Ceph
    1
@@ -75,10 +75,11 @@ console load StrawberryJam2021/1-Beginner/Ceph
   11,R,G
   12,R,J,G
    2,K,G
-   7
-  15,R,X
-   9,L,J
-  15,U,X
+   7,R
+  15,R,D,X
+   2,L,J
+   7,J
+  14,U,X
   40
 
 #lvl_3 (0)
@@ -105,11 +106,24 @@ console load StrawberryJam2021/1-Beginner/Ceph
   40
 
 #lvl_4
-  15,D
-   3
-   1,D
-   4,L
+#fall slower here 
+#to resync global cycle
    1
+   4,D
+   1,L
+   1,L,D
+   1,L
+   1,D
+   1,L,D
+   1,D
+   1,R,D
+   6,D
+   1
+   1,D
+   1
+   1
+   1,R,D
+   2
   15,L,D,X
    9,R,Z
    2,R,J
