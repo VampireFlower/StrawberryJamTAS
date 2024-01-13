@@ -1,4 +1,4 @@
-RecordCount: 17769
+RecordCount: 18297
 
 console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    1
@@ -932,44 +932,42 @@ EndRepeat
   18,R
   15,U,X
    4,R
-  11,L,J,G
-   1,L
+  12,L,J,G
    1,L,K,G
    7,L
    2,J
   14,U,X
-   1,L,J
-   4,L
-   7,R
-   8,R,J
-   5,J
+   3,J
    1,K
-   1,R,J,G
-   1,L,J
-   4,R,J
-  14,U,X
+   1,L,K
+   3,L
+   4,R
+   5,R,J
+   5,J
+   3,R,J
+   1,K
+   5,R,J,G
+   3,L,J
+  13,U,X
   40
 
 #lvl_cp4_10_heartside_Hanky
 # Very improvable probably
+   3
+   3,R
    1
-   2,R
-   1
-   1,R
-   1,L,J
-   4,R,J
+   2,R,J
    5,L,J
+   2,L
    1,L,K,G
    1,L,J,G
-   1,L
-   1
-   7,L
+  10,L
    1,L,J
   18,L
    1,L,J
   14,L
-   5,L,J
-  23,L,D
+   1,L,J
+  21,L,D
    1,L,J
   14,L
    1,L,J
@@ -985,15 +983,18 @@ EndRepeat
    1,R,J
    7,R
    1,R,J
-  27,R
+  30,R
    8
    4,L
    2
    8,L
   23,L,J
-   3,L
+   2,L
+   1,D
    8,R,D
-   6
+   1,R
+   1
+   1,R
    6,J
    2,R,J
    4,R
@@ -1004,21 +1005,19 @@ EndRepeat
    3,R
   18,R,D
    3,L,D
-# using drift is 17f faster 
+# using drift is 16f faster 
 # but not worth the extra wait
 StunPause
   12,L,D
-  12,R,D
+   7,R,D
+   1,D
+   4,R,D
 EndStunPause
-   2,D
-   9,R,D
+  11,R,D
+   3,R
    1,R,D
-   1
-   1,R
-   1
-   1,R
-   8,R,J
-   5,R
+  10,R,J
+   3,R
    1,R,K,G
    1,R,J,G
    9,R
@@ -1587,16 +1586,25 @@ EndStunPause
    1,R
   10,L
   24,R
-   6,J
+   5,J
+   1,R
+   1
+   2,R
+  13,L,D
+   1,R,D
+   1,L,D
    5,R,D
+   1,D
+   6,R
+   1,R,D
+   1,D
+   2,R,D
+   1,R
+   1,R,J,G
+   3,R,K,G
    2,K
-   4
-   6,L
-   8
-   8,D
-   5,R,D
-  26,R,J,G
-  12,R,K
+  20,R,K
+  12,R,J
   15,U,Z
   15,R,U,X
    1,R
@@ -2004,4 +2012,4 @@ Repeat 33
 EndRepeat
    1
 
-ChapterTime: 4:22.922(15466)
+ChapterTime: 4:22.803(15459)
