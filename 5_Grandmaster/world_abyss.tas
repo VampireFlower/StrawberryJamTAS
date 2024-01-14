@@ -1,4 +1,4 @@
-RecordCount: 30604
+RecordCount: 30693
 
 console load StrawberryJam2021/5-Grandmaster/Dav
    1
@@ -994,24 +994,15 @@ EndRepeat
    1,L,J,G
    7,L
   15,L,D,X
-   4,L,D
-  24,L
-  15,L,U,Z
-### spinner cycle
-#waiting on final moveblock would be better
-#but then ending needs to be adjusted
-##+0f
+   3,L,D
+   2,L
+   2,L,D
+  19,L
+   1,L,D
+   1,L
+  14,L,U,Z
    2,J,G
    1,K
-##+1f
-#   1,J,G
-#   2
-#   1,K
-##+2f
-#   1,J,G
-#   3
-#   1,K
-###
    6,L,Z
    2,L,J
    3,L,K,G
@@ -1038,10 +1029,14 @@ EndRepeat
    1
    1,R
    1,L,J
-   6,L
+   5,L
    1,L,J
-  12,L,D
-  10,G
+  13,L,D
+#use this as spinner cycle
+#and adjust fall afterwards
+##
+   5,G
+##
    5,L,D,X
    1,L,J,G
    1,L,K,G
@@ -1056,19 +1051,15 @@ EndRepeat
   11,L,J
    1,L
   15,L,D,X
-   3,L
-  26,L,D
-  11,L
-  51,L,D
+  12,L
+  78,L,D
+   2,D
    1,R,D
-Repeat 14
+Repeat 15
    2,L,D
    2,R,D
 EndRepeat
-   1
-   1,D
-   3
-   4,D
+   5,D
 
 #lvl_a-intro (1)
   49,D
@@ -1139,4 +1130,4 @@ Repeat 3
 EndRepeat
    1,L,J
 
-ChapterTime: 2:32.881(8993)
+ChapterTime: 2:32.796(8988)
