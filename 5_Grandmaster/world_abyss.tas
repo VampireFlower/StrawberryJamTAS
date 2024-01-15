@@ -1,4 +1,4 @@
-RecordCount: 30693
+RecordCount: 30890
 
 console load StrawberryJam2021/5-Grandmaster/Dav
    1
@@ -812,46 +812,44 @@ EndRepeat
    8,L,J
    1,L
   15,L,D,X
-   2,R,D
-   2,R
-   1,L,D,J
-  15,R
-  18,R,D,X
-  19,L
-  27,D,C
-   1,D
-  18,R,U,X
-  23,L,U,C
-  15,L,X
-   6,L
-  19,D
+   2,L,D
+   2,L
+   1,L,J
+  11,L
+  15,R,D,X
+   4,D
+   1,G
+  38,L,J
+  20,D,X
    4,L
-  15,U,X
-   9
-  15,R,U,C
-   6,R
-  24
-  86,L,G
-   4,X
-  14,R
+  18,R,U,C
+  21,L,U,Z
+   4,R,G
+  25,L,X
+  18,D
   18,U,X
-  26,U,C
-  14
-  18,L
-  13,R,X
+  21,R,U,C
+  25
+  75,L,G
+   1,X
+  18,R
+  18,U,X
+  24,U,C
+  16,L
+  19,D
+  12,R,X
    4,R,J
    1,R,K
-   9,R
-  18,R,U,Z
-  15,U,X
-  12,L
+   4,R
    1
-   1,L
-   3
-   1,L
+   3,R
+  18,R,U,Z
+  15,U,C
+  13,L
+   2
    6,G
-   5,U,G
-  22,G
+   2,D,G
+  31,G
    2,R,J
    6,U,X
   35,R,J
@@ -884,29 +882,20 @@ EndRepeat
    5,R
    2,L
   15,U,X
-   7,R
+   8,R
   15,U,X
   12,L,J,G
   12,L,K,G
-   7,L,J,G
+   3,L,J,G
+   2,L
    7,L,K,G
-### spinner cycle for [big-3]
-### bad spot
-##+0f
    7,L
-##+1f
-#   2,L
-#   6
-##+2f
-#   2,L
-#   1,R
-#   6,L
-###
+##spinner cycle [big-3]
+   1
+##
    4,L,Z
    1,L,J
-   4,L,D
-   6
-   1,L
+  10,L
   10,R,D,X
    1,L,J
    1,L,D
@@ -1130,4 +1119,4 @@ Repeat 3
 EndRepeat
    1,L,J
 
-ChapterTime: 2:32.796(8988)
+ChapterTime: 2:32.745(8985)
