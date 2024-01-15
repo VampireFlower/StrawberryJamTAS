@@ -1,4 +1,4 @@
-RecordCount: 9860
+RecordCount: 9884
 
 console load StrawberryJam2021/1-Beginner/HankyMueller
    1
@@ -73,18 +73,18 @@ endrepeat
   13,L
   11
   34,L,U,X
-  26,R,D
-  13,R
-  38,L
-   2
-   5,L
-   1
-   2,L
+  15,R,D
+   5,R
+   1,R,D
+  15,R
+   2,R,D
+   1,R
+  26,L
+  26,L,U,C
   15,U,X
-  15,L,U,C
-  24,L,D
-   8,D
-   8,R,D,X
+  28,L,D
+   9,D
+   5,R,D,X
    6,L,J
   17,L,D
    1,D
@@ -438,4 +438,4 @@ endstunpause
   10,R,X
  135
 
-ChapterTime: 0:57.239(3367)
+ChapterTime: 0:57.086(3358)
