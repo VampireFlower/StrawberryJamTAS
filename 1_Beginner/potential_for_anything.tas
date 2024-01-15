@@ -1,4 +1,4 @@
-RecordCount: 4661
+RecordCount: 5270
 
 console load StrawberryJam2021/1-Beginner/frozenflygone
    1
@@ -43,30 +43,36 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
    8,L,J
    1,L,K,G
   10,R,U
+   3
    5,R,U,X
    1,R,J
-   7,R
+   3,R
    1,R,J
-   4,L,J
-   6,L
+   3,R
+   1,R,J
+   3,L,J
+   7,L
   18,D,X
    6,L
-   8,R,Z
+   7,R,Z
    1,R,J,G
-   7,L
-  17,R,U
-   5,R
-   6,R,U,X
+   1
+   4,R
+   4,L
+  18,R,U
+   4,R,Z
    2,R,J
-   9,R
-   5,U,X
-  11,U
+   5,R
+   2,R,J
+   3,R
+  15,U,X
+   1,L,U
   40
 
 #lvl_SS2-2 (0)
-
 #stun?
-  10,U
+   4,L,U
+   6,U
   14,L,U,X
    1,L,J
   14,L,U,X
@@ -87,14 +93,14 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
   63
    8,R
    8,R,U
+  12,R,U,X
+   1,R,J
+   2,R
   14,R,U,X
    1,R,J
   14,R,U,X
-   1,R,J
-  14,R,U,X
-   1,R,J
-   3,R
-   1
+   2,R,J
+   2,R
   40
 
 #lvl_SS2-3 (0)
@@ -395,20 +401,24 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
    9,R,D
 
 #lvl_WZ-1
-  15,R,D,X
-   9,R
-  12,D
-   5,R,Z
-   1,R,J,G
-   9
-   1,J
-  15,D
-   5,L,D
-   1,J
-   6,L,J
+  12,R,D,X
+   1,R,J
+   2,R
+  15,D,X
+   4,R,Z
+   2,R,J
+   1,R
+   1,R,J
+   1,R
+   1,R,K,G
+   4,R
+  12,R
+  10,L,D
+   3,L
+   4,J
+   3,L,J
   15,L,Z
-  17,D
-   5,R,D
+  22,R,D
    1,R
    1,R,D
    1,R
@@ -423,86 +433,88 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
    1,L,J,G
    1,L,K,G
    1,K
-Repeat 4
+Repeat 3
    1,R,K
    1,K
 EndRepeat
+   1,R,K
+   1
    7,R,J
    7,R
-   6,R,D,X
+   7,R,Z
    1,R,J
-   3
-   4,R
+   6,R
    1,R,J
-   4,R,D,X
+  12,R,D,X
    1,R,J
-   3,R
-   1,R,J
-   3,R
-   5,R,J
-  12,L,U,X
+   2,L,J
+   8,L,U,X
    1,L,J
-   7,L
-   1,L,U,J
-   2,L,D,J
-   8,J
+   2,L
+   3,L,J
+   4,L
+  10,L,U,J
+   1,J
    1,K
-   9,R,J,G
+   7,R,J,G
+   3,R
   10,L,D,X
    1,L,J,G
-   9,L
+   2,L
+  11
+   4,L,Z
    1,L,J
-   3,L
-  10,L,Z
+   6,L
    1,L,J
    4,L
   15,U,X
-   4,L
+   2,L,U
   10,L,X
-   7,L,J
-   2,L
+   6,L,J
+   3,L
   15,D,X
    1,L,J,G
    7,L
+   7,L,Z
+   1,L,J
+   6,L
+   1,L,J
+  14,L,U,X
+   1,L,J
+   9,L
+   2,R
+  14,R,U,X
+   1,R,J
+  14,R,U,X
+   1,R,J
+   8,L
+  15,U,X
+   6,L,U
    6,L,Z
    1,L,J
    7,L
    1,L,J
   14,L,U,X
    1,L,J
-  11,L
-  14,R,U,X
-   1,R,J
-  13,R,U,X
-   1,R,J
-   7,R
-   1,R,J
-   5,U,X
-  17,L,U
-   6,L,Z
-   1,L,J
-   7,L
-   1,L,J
-  11,L,U,X
-   1,L,J
-   4,L
+   3,L
    1,L,J
    3,L
-  12,L,U,J
-   5,K,G
-   1,J
-   3,K
-   6,L,D,X
-   1,L,J,G
-   8,L
+   7,L,U,J
+  10,D,X
+   2,L,J
+   1,L,K,G
+   1,L
+   1
+   5,L
+   1,L,J
+   3,L
+  15,U,X
+   1,L,U
+   9,L,Z
    1,L,J
    2,L
-  15,U,X
-   1,L
-  11,L,Z
-   1,L,J
-   3,L
-   8
+   2,L,J
+   8,L
   14,R,U,X
    1,R,J
   14,R,U,X
@@ -604,39 +616,48 @@ EndRepeat
   12,R,U,X
    1,R,J,G
    9,R
-  12,R,J
+  11,R,J
+   1,R
    1,K
-  12,L,J,G
+  11,L,J,G
+   1,L
    5,L,Z
    1,L,J
-   7,L
-   4,L,J
-   2,L
-  15,U,X
-   4,R,J,G
-   7,R
-  13,R,U,Z
+   6,L
    5,L,J
    2,L
-  14,D,X
+  15,U,X
+   1,R,K,G
+   2,L,K,G
+   3,L
+   4,R
+  13,R,U,Z
+   5,L,J
+   1,L
    1,R
+  15,D,X
    4,J,G
    3,R,J,G
    7,R
   10,R,X
-  13,J
-  12,L,K,G
-   7,L
-   6,L,Z
+   4,R,J
+   9,L,J
+   1,L,K,G
+  10,L,J,G
+   1,L,K,G
+   7,L,Z
    1,L,J
-   7,L
+   6,L
    1,L,J
   14,L,U,X
-   1,L,J
-   8,L
+   2,L,J
+   9,L
   15,U,X
-  17,U
-  10,L,U
+   3,R,U
+  13,U
+   1,L,U
+   1,U
+   9,L,U
   40
 
 #lvl_FinalChallenge
@@ -706,4 +727,4 @@ EndRepeat
    5,U,X
  135
 
-ChapterTime: 1:30.338(5314)
+ChapterTime: 1:29.913(5289)
