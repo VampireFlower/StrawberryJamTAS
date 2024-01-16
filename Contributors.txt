@@ -17,7 +17,6 @@ cake
 Celerity
 Cr33pyCat
 Cuberstache
-degeneratesonmain [the senate]
 DemoJameson
 Deniss
 dubi steinkek
@@ -40,7 +39,6 @@ Janosch
 Kalobi
 Kataiser
 Kiwilot
-Knox
 Lanvilla
 Larrito
 Lmjacks
@@ -62,7 +60,7 @@ Olivia
 pansear
 Phrog
 psyGamer
-racoongal
+raccoongal
 replic123
 Rhuan
 RichConnerGMN
@@ -81,6 +79,7 @@ Stuttgarden
 sumo_asl
 sy
 The
+The Senate
 TheRoboMan
 Tiyo
 tong815
