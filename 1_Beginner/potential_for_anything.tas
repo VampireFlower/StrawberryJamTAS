@@ -1,4 +1,4 @@
-RecordCount: 5340
+RecordCount: 5372
 
 console load StrawberryJam2021/1-Beginner/frozenflygone
    1
@@ -173,29 +173,22 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
 #lvl_SS2-3 (1)
   18,R,U
   57,U
-  10,L,U
+   8,U
+   2,R,U
   40
 
 #lvl_SS2-5b
-   3,L,U
-  14,L,U,X
-   2,L,J
-  14,L,U,X
-   1,L
-   5,U,X
-  15,U
-   7,R,U
-   1,U
-  11,R,U,X
-  19,R,J
-  15,R,Z
-   3,R,J
+   1,R,U
+  72,J
+   4,R,Z
+   6,R,J
+   3,L
    1,R
-   1,R,J
-   7,R
-   4
+   7,L
+  14,L,U
   15,D,X
-  24,D
+   5,L,D
+  19,D
   40
 
 #lvl_SS2-3 (2)
@@ -726,4 +719,4 @@ EndRepeat
    5,U,X
  135
 
-ChapterTime: 1:29.845(5285)
+ChapterTime: 1:29.743(5279)
