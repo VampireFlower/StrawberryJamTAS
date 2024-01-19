@@ -50,19 +50,19 @@ Read,5_Grandmaster/summit,Start
    1,O
   32
 
-Read,5_Grandmaster_Lobby/gm_15-16,Start
-Read,EnterLevel,Start
-Read,5_Grandmaster/ivory,Start
-   1,O
-  32
-
-Read,5_Grandmaster_Lobby/gm_16-17,Start
+Read,5_Grandmaster_Lobby/gm_15-17,Start
 Read,EnterLevel,Start
 Read,5_Grandmaster/kevintechspam,Start
    1,O
   32
 
-Read,5_Grandmaster_Lobby/gm_17-0,Start
+Read,5_Grandmaster_Lobby/gm_17-16,Start
+Read,EnterLevel,Start
+Read,5_Grandmaster/ivory,Start
+   1,O
+  32
+
+Read,5_Grandmaster_Lobby/gm_16-0,Start
 Read,5_Grandmaster_Lobby/gm_0-2,Start
 Read,EnterLevel,Start
 Read,5_Grandmaster/lava_layer,Start
@@ -123,4 +123,4 @@ Read,5_Grandmaster/grandmaster_heartside,Start
   61
    1,O
 
-FileTime: 37:29.729(132337)
+FileTime: 37:29.695(132335)
