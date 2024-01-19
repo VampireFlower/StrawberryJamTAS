@@ -1,4 +1,4 @@
-RecordCount: 4530
+RecordCount: 4844
 
 console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
    1
@@ -554,44 +554,46 @@ console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
    1,D
   12,R,U,G
  145,R,G
+#might need to find a new spot bcs liftboost
 #Spinner cycle [a-08]
    0,G
 #
    2,R,U,G
    1
-  20,D,G
-  22,L,D,G
-   1,D
+  39,R,D,G
+   3,R
+  12,R,Z
+   4,R,J
   14,L,D,X
    1,R,J
-   6,R,D,X
-  13,R,G
-   1,R,J,G
-  11,R,G
-  13,R,J,G
-   1,R,D
+   5,R,D,X
+  15,R,J,G
+  11,R,K,G
+   2,R,D,K
   15,R,D,X
    1,R,J
-   9,R,D,X
+   8,R,D,X
   13,R,G
   40
 
 #lvl_a-08
-   1,R,J,G
-  20,R,D,G
+  12,R,J,G
+   6,R,G
+   2,R,J,G
    1,R,G
-   3,R,D,G
-   2,R,G
-   8,R,J,G
-   1,R,D,G
+   2,R,J,G
+   8,L,D,G
 StunPause
-   7,R,D,G
-  14,L,D,G
-   9,L,D,G
+  16,L,D,G
+   1,L,G
+   7,L,D,G
 EndStunPause
-   7,R,D,G
-  12,L,D,G
-  24,D,G
+   1,D,G
+  18,L,D,G
+   1,L,D,G
+   3,D,G
+   1,L,D,G
+  19,D,G
   19,L,D,G
    1,L
   15,L,C
@@ -621,4 +623,4 @@ EndStunPause
    1,R,K
    2
 
-ChapterTime: 1:39.110(5830)
+ChapterTime: 1:38.345(5785)
