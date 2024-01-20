@@ -1,4 +1,4 @@
-RecordCount: 4707
+RecordCount: 4738
 
 console load StrawberryJam2021/3-Advanced/hennyburgr
    1
@@ -128,21 +128,22 @@ console load StrawberryJam2021/3-Advanced/hennyburgr
 
 #lvl_a_04
    6
-   7,R
-   5,R,Z
+   5,R
+  10,L,Z
    1,R,J
-   7,R
+   6,R
   11,R,D,J
-  18,R
-   3,L
-   1,L,K
-  38,R,K
-  10,J
-   3
-  11,R
-   1
-   1,R
-   1
+   5,R
+  23,R,J
+   1,K
+   6,R,K
+  17,R
+   4
+   1,J
+  11,R,J
+   5,R
+   5,R,J
+   5,R
   10,R,Z
    6,R,J
    6,R
@@ -323,4 +324,4 @@ console load StrawberryJam2021/3-Advanced/hennyburgr
   14,R,U,X
  135
 
-ChapterTime: 0:36.380(2140)
+ChapterTime: 0:36.346(2138)
