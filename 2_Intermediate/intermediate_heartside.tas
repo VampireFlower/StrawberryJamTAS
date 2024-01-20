@@ -1,4 +1,4 @@
-RecordCount: 17465
+RecordCount: 17653
 
 console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1
@@ -525,11 +525,9 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1,L,K,G
    1,L,J,G
    1,R,J
-   4,J
-   5,L,J
-   2,L
-   1
-   4,L
+   5,J
+   4,L,J
+   7,L
    1,L,N
    1,L,J
    2,L
@@ -1656,19 +1654,15 @@ EndStunPause
   17,R,J
   15,R,D,X
    5,R,D
-   6,R,J
-  10,R,D,X
+  14,R,J
   40
 
 #lvl_cp4-5-Heart
-   4,R,D,X
-   3,R,J
-   1,R
    1,R,J
-   2,R
   15,R,D,X
-   2,R
-   6,R,D,X
+   5,L
+   3,L,D
+   6,R,Z
    1,L,K,N
    3,L
   49
@@ -1717,4 +1711,4 @@ EndStunPause
    5,R,J
   13,R,U,X
  135
-ChapterTime: 4:14.354(14962)
+ChapterTime: 4:14.303(14959)
