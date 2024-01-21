@@ -1,4 +1,4 @@
-RecordCount: 9257
+RecordCount: 9319
 
 console load StrawberryJam2021/2-Intermediate/thebreadstick1
    1
@@ -717,26 +717,26 @@ endstunpause
    1,R
    1,R,J
    7,R
-   7,R,Z
+   6,R,Z
    1,R,J
    6,R
+   1,R,J
   40
 
 #lvl_a-013
    1,R,J
-   8,R,D,X
+  13,R,U,X
+   1,L
+   1,J,G
+   2
+  15,R,U,Z
    1,R,J
-   3,R
-   1,R,K
-   3,R
-  12,R,J
-  12,U,X
-   6,J
-  15,D,X
-  11,L,D,C
-   4,R,J
+   4,R,K
+  16,D,X
+  10,L,D,C
+   5,R,J
   15,R,D,X
-  11,R
+  10,R
   19,R,C
    8,L
   15,L,D,X
@@ -748,4 +748,5 @@ endstunpause
    1,R,J
   37,R
   61,R,J
-ChapterTime: 1:29.556(5268)
+
+ChapterTime: 1:29.403(5259)
