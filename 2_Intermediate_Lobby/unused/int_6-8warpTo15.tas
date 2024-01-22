@@ -42,55 +42,59 @@ console load StrawberryJam2021/0-Lobbies/2-Intermediate 4592 1728
   15,L,C
    1,D,N
 #+12f normal activation
-  51
-#+214f to reach spawnpoint
+  50
+   1,J
+#+202f to reach spawnpoint
   29
    5,L,Z
    5,L,K
    4,L
    1,L,K
   11,L,D,V
-   5,L,K
-   2,L
-   3,L,K
-   6,L
-   1,L,K
-   2,L,J,G
-   7,L
-   2,L,K
+  10,L,K
    8,L
-   7,L,K
-   1,L
-   1,R
-   5,K,G
+   4,L,D,V
    1,L,K
-  15,U,V
-   1,L,K,G
-   1,L
-   3,L,K,G
-   7,L
-   4,L,K
-   7,R,K
-  14,L,Z
-   1,L,K
-  19,L,D,Z
-   5,L,K
-  15,L,D,Z
-  11,L,K
-   1,L
-  12,L,K,G
+   7,L,D
+   4,L,D
+   6,L,K
    5,L
-   3,L,K
-   2,L
-#
-   1,L,O
+   1,R,K,G
+   2,K,G
+  10,U,X
+  21,L,K
+   1,J,G
+   4,L
+   2
    1,L
-   5,L,K
-   8,L,D,Z
+  14,L,D,V
+   1,L,K
+  19,L,D,V
+   5,L,D,K
+   9,L,D,V
+   6,L,D,O
+  11,L,J
+   1
+   3,L,K,G
+   3,L
+   3,L,J,G
+   1,L,K,G
+   3,L,J,G
+   2,L
+   1,L,O
+#
+   2,L
+   1,L,K
+   1,L
+   3,L
+   1
+   1,L,K
+   3,L
+   7,L,D,Z
    1,L,K,G
   13,L
    1,L,K
-   8,L
+   2,L
 unsafe
-  15,L,D,Z
-#0:08.857(521)
+  16,L,D,Z
+#0:08.653(509)
