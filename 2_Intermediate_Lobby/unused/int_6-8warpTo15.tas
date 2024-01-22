@@ -80,10 +80,10 @@ console load StrawberryJam2021/0-Lobbies/2-Intermediate 4592 1728
    3,L,J,G
    1,L,K,G
    3,L,J,G
-   2,L
+   1,L
    1,L,O
 #
-   2,L
+   3,L
    1,L,K
    1,L
    3,L
@@ -96,5 +96,5 @@ console load StrawberryJam2021/0-Lobbies/2-Intermediate 4592 1728
    1,L,K
    2,L
 unsafe
-  16,L,D,Z
-#0:08.653(509)
+  15,L,D,Z
+#0:08.636(508)
