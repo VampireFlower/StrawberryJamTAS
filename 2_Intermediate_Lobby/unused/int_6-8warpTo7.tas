@@ -26,22 +26,19 @@ console load StrawberryJam2021/0-Lobbies/2-Intermediate 4592 1728
   14,L,U,X
    4,L,K,G
    7,L
-   8,L,J
-  15,L,D,X
-   6,L,J
-   5,L
-   8,L,D,X
-   9,L
-  13,L,X
-   3,L,J,G
-   5,L
-   1,L,K
-   2,K
-   1,L
-  11
-  15,L,C
-   1,D,N
-#+12f on normal activation
+   1,L,J
+  16,L,D,X
+  15,L,D,C
+  18,L
+  11,L,X
+   1,L,K,G
+  12,L
+   2,L,J
+   3,L
+  15,L,D,C
+   1,N
+   1,L,X
+#+5f on normal activation
   20
    1,J
   30
@@ -66,4 +63,4 @@ console load StrawberryJam2021/0-Lobbies/2-Intermediate 4592 1728
   22,R,D,X
    1,R,J
   16,R,D,X
-#0:07.106(418)
+#0:06.987(411)
