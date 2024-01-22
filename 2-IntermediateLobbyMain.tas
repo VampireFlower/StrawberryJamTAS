@@ -20,19 +20,7 @@ Read,2_Intermediate/low-g_botany,Start
    1,O
   32
 
-Read,2_Intermediate_Lobby/int_2-9,Start
-Read,EnterLevel,Start
-Read,2_Intermediate/fifth_dimension,Start
-   1,O
-  32
-
-Read,2_Intermediate_Lobby/int_9-7,Start
-Read,EnterLevel,Start
-Read,2_Intermediate/sleeping_under_stars,Start
-   1,O
-  32
-
-Read,2_Intermediate_Lobby/int_7-3,Start
+Read,2_Intermediate_Lobby/int_2-3,Start
 Read,EnterPostcard,Start
 Read,2_Intermediate/pointless_machines,Start
    1,O
@@ -56,12 +44,24 @@ Read,2_Intermediate/pufferfish_transportation,Start
    1,O
   32
 
-Read,2_Intermediate_Lobby/int_6-8warpTo10,Start
+Read,2_Intermediate_Lobby/int_6-8warpTo9,Start
 Read,2_Intermediate/supernautica,Start
    1,O
   32
 
-Read,2_Intermediate_Lobby/int_8-10fromwarp,Start
+Read,2_Intermediate_Lobby/int_8-9fromwarp,Start
+Read,EnterLevel,Start
+Read,2_Intermediate/fifth_dimension,Start
+   1,O
+  32
+
+Read,2_Intermediate_Lobby/int_9-7,Start
+Read,EnterLevel,Start
+Read,2_Intermediate/sleeping_under_stars,Start
+   1,O
+  32
+
+Read,2_Intermediate_Lobby/int_7-10,Start
 Read,EnterLevel,Start
 Read,2_Intermediate/honeyzip_inc,Start
    1,O
@@ -121,4 +121,4 @@ Read,2_Intermediate/intermediate_heartside,Start
   61
    1,O
 
-FileTime: 29:36.755(104515)
+FileTime: 29:36.602(104506)
