@@ -1,0 +1,41 @@
+console load StrawberryJam2021/0-Lobbies/4-Expert 1728 -1600
+   1
+
+#Start
+  36
+   4,Z
+   8,R,J
+   4,R
+  16,R,D
+  15,D,X
+   5,R,D
+   5,D
+  12,R,Z
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   9,R,K,G
+  19,R,D,X
+   9,R,J
+   2,R
+  45,R,D,X
+  16,R,D,C
+   1,R,J
+   1,R
+   5,R,D,X
+  19,D
+  52,R,D
+  15,R
+  22,R,D
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  12,R
+   1,R,J
+  12,R,D,X
+   1,R,J
+   1,R,K
+   6,R
+   1,N
+#0:03.944(321)
