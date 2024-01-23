@@ -1,0 +1,31 @@
+console load StrawberryJam2021/0-Lobbies/4-Expert 2760 432
+   1
+
+#Start
+#+5f setup to direct
+  36
+   4,Z
+   1,R,J
+  12,R,D
+  10,R,Z
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   5,L,J
+   1,L
+   2
+  16,L,D,J,X
+   2,J
+   3,L,K
+   5,L,D,X
+   1,L,K,G
+   6
+   5,L
+  13,L,J
+  15,L,D,X
+   3,L
+   1,N
+#0:01.632(96)
