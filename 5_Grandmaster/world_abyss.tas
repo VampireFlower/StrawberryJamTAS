@@ -1,4 +1,4 @@
-RecordCount: 30893
+RecordCount: 31242
 
 console load StrawberryJam2021/5-Grandmaster/Dav
    1
@@ -208,7 +208,6 @@ EndStunPause
    7,L,J
    9,R,K,G
    7,R
-#-1f
 ###spinner cycle [chill-0(0)]
    0
 ###
@@ -739,18 +738,22 @@ EndRepeat
   10,R,J
    1,L
   10
-Repeat 25
-   1,L
-   1,R
-EndRepeat
-  10,R,Z
+  19,L
+  20,D
+   1,D,J
+  12
+   3,L
    1,L,J
-   9,L
-  16,L,U,X
-  35,R,U,C
-   6
+   1,K
+  14,L,K
+  14,L,X
+  18
    1,R
-   5
+  15
+   3,L
+   2
+   1,L
+   2
 ##no flair
 #  80,U,G
 #  20,L,J
@@ -992,6 +995,7 @@ EndRepeat
   14,L,U,Z
    2,J,G
    1,K
+#---
    6,L,Z
    2,L,J
    3,L,K,G
@@ -1000,114 +1004,118 @@ EndRepeat
    1,L,J,G
    1,L
    1
-#---- grab manip version
-   6,L
-   1,L,K
-  10,L,J
-   6,L
+   7,L
+   9,L,J
+   7,J
    1,L,J
-  14,U,X
-  31,L,J
-   2,L,J
-   3,J
+   1
+  13,U,X
+  35,L,J
    1,K,G
-   3
+   2,L
+   1
    1,L
    2
-   1,L,J
-   1
-   1,R
-   1
    1,L
+   1,R
    1,L,J
+   6
    9,L
-   1,L,J
+   3,G
    4,L
    1,G
-   4,L
-   1,G
    1
-   1,G
-   5,L
    1,G
    1
    1,G
    1
+   3,G
    7,L,D,X
    1,L,J,G
    1,L,K,G
    1,L,J,G
    1,L,K,G
-   2,L,J,G
+   1,L
+   1,L,J,G
    7,L
-   8,L,J
-   4,L
+  11,L,D,J
+   1,L
   15,L,D,X
    5,L
-  17,L,D
-  10,L
-  59,L,D
+  28,L,D
+   6,L
+   1,L,D
+   3,L
+  49,L,D
    1,R,D
 Repeat 15
    2,L,D
    2,R,D
 EndRepeat
-   1
-   1,D
-   1
-   2,D
-#---- non grab manip
-#---- can be used for resyncs if needed
-#   7,L
-#  10,L,J
-#   2,L
-#   3,L
-#   1,L,J
-#   1,L,J
-#  14,U,X
-#  31,L,J
+   4,D
+#---
+#--- alternate version (frame tie)
+#   6,L,Z
 #   2,L,J
-#   3,J
+#   3,L,K,G
+#   1
+#   1,L
+#   1,L,J,G
+#   1,L
+#   1
+#   7,L
+#   9,L,J
+#   7,J
+#   1,L,J
+#   1,J
+#  13,U,X
+#  33,L,J
+#   2,L
 #   1,K,G
-#   3
+#   2,L
+#   1
 #   1,L
 #   2
 #   1,L
-#   1
 #   1,R
 #   1,L,J
-#   5,L
-#   1,L,J
-#  13,L,D
-##use this as spinner cycle
-##and adjust fall afterwards
-###
-#   5,G
-###
+#  15,L
+#   1
+#   2,G
+#   2,L
+#   1,G
+#   4,L
+#   1,G
+#   4,L
+#   1,G
+#   1
+#   1,G
+#   1
+#   1,G
 #   5,L,D,X
 #   1,L,J,G
 #   1,L,K,G
 #   1,L,J,G
 #   1,L,K,G
 #   1,L,J,G
-#   6,L
-#   1,S
-#  10,J
-#   1,L,J
-#   1,L
+#   7,L
 #  11,L,J
 #   1,L
 #  15,L,D,X
-#  12,L
-#  78,L,D
-#   2,D
+#   5,L
+#  31,L,D
+#   2,L
+#   1,L,D
+#   5,L
+#  44,L,D
+#   1,D
 #   1,R,D
-#Repeat 15
+#Repeat 16
 #   2,L,D
 #   2,R,D
 #EndRepeat
-#   5,D
-#-----
+#   2,D
+#---
 
 #lvl_a-intro (1)
   49,D
@@ -1178,4 +1186,4 @@ Repeat 3
 EndRepeat
    1,L,J
 
-ChapterTime: 2:32.728(8984)
+ChapterTime: 2:32.660(8980)
