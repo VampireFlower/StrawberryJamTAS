@@ -1,4 +1,4 @@
-RecordCount: 4738
+RecordCount: 4786
 
 console load StrawberryJam2021/3-Advanced/hennyburgr
    1
@@ -52,15 +52,15 @@ console load StrawberryJam2021/3-Advanced/hennyburgr
   10,L
   40,G
    3,K,G
-  11,L
-   1
+   9,L
+   2
+   1,L
   11,L,Z
    1,R,J
    6,R
-   1,R,D
-  22,R,D,K
-  13,U,X
-   5,R,J
+  23,R,D,K
+  14,U,X
+   3,R,J
   40
 
 #lvl_a_03
@@ -83,8 +83,8 @@ console load StrawberryJam2021/3-Advanced/hennyburgr
 #  30,R,K
 
    8,R
-   6
-   2,R
+   4
+   4,R
 
 # cant go earlier with cycle
 
@@ -101,6 +101,7 @@ console load StrawberryJam2021/3-Advanced/hennyburgr
    2,K,G
   15,L,K
   15,L,U,X
+
   10,L
   12,L,U,X
   17,L,J,G
@@ -324,4 +325,4 @@ console load StrawberryJam2021/3-Advanced/hennyburgr
   14,R,U,X
  135
 
-ChapterTime: 0:36.346(2138)
+ChapterTime: 0:36.329(2137)
