@@ -152,13 +152,13 @@ Read,4_Expert/psychokinetic,Start
    1,O
   32
 
-Read,4_Expert_Lobby/exp_26-27,Start
+Read,4_Expert_Lobby/exp_26-27Warp,Start
 Read,EnterLevel,Start
 Read,4_Expert/garden_of_khutara,Start
    1,O
   32
 
-Read,4_Expert_Lobby/exp_27-28,Start
+Read,4_Expert_Lobby/exp_27-28fromwarp,Start
 Read,EnterLevel,Start
 Read,4_Expert/polaris,Start
    1,O
