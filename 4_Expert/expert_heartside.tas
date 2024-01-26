@@ -1,4 +1,4 @@
-RecordCount: 33665
+RecordCount: 33845
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -2737,22 +2737,26 @@ EndStunPause
   15,R,D,X
   15,L
 # Distance might be bottleneck here not sure how cutscene works
- 163,U
-  25,L
-   8,R
-  11,R,U,G
-  12,J,G
-   7,L,J
+ 174,U
+   3,R
+   1
+   1,R
+  14,L,Z
+   1,R,J
+  14,R,D,X
+   1,L,J
+   2,L
+   1
+   1,L,K,G
+   4
+   8,L
+  31,L,J
   15,U,X
-  54,L
+  22,L
 
 #lvl_f00_intro
-   7
-   1,L
-   1
-   1,L
-   1
-  10,L
+  11
+   9,L
   14,L,Z
    3,L,J
   15,L,D,X
@@ -3573,4 +3577,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 7:54.929(27937)
+ChapterTime: 7:54.776(27928)
