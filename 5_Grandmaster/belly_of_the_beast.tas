@@ -1,4 +1,4 @@
-RecordCount: 4844
+RecordCount: 5409
 
 console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
    1
@@ -29,6 +29,9 @@ console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
 
 #lvl_a-02intro
  171
+# Spinner Cycle
+   0
+#####
    3,R,J
   14,R,D,X
    1,R,J
@@ -71,29 +74,28 @@ console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
    8,R,J
    5,R
    1,R,J
-   9,R
-   1
-   2,R
-   2
-   4,Z
+  14,R
+   4,R,Z
    1,R,J
   13,R,G
-   4,R,J,G
+   5,R,J,G
    6,R,G
-   1,L
-   1,R
+   1,L,J
+   2,R
    1,R,J
-   5,R
-  15,R,U,X
    4,R
-   2,R,J,G
-   6,L
-  13,G
-  15,R,D,G
-   7,D,G
+  15,R,U,X
+   1,R
+   1,R,J,G
+   1,L,J
+   3,L
+   3,R
+  13,R,G
+   9,R,D,G
+  11,D,G
+   3,R,D,G
+   1,R,D,G
    1,G
-   1,D,G
-   1,R,G
   17,R,J,G
   11,L,K,G
    1,K,G
@@ -106,7 +108,7 @@ console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
    3,D,G
    1,J,G
   12,R,J,G
-   1,L
+   1,L,J
   18,R,U,X
   11,R,U,C
   36,R,G
@@ -117,10 +119,13 @@ console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
   11,R,Z
   19,L
    6,U,X
-  21,L,G
+  20,L,G
+   1,G
    1,L
   18,R,U,X
   10
+# might be able to squeeze more frames
+# by getting less height - skybreaker
    5,R,C
   39,R,D,G
    1,D,G
@@ -138,71 +143,69 @@ console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
    4,R,D
    9,D
    4,L,D
-  12,R,D
-   4,Z
+   9,R,D
+   3,D
+   4,R,Z
    1,R,J
   13,R,G
    1,R,J,G
    1,R,K,G
-   2,R,J,G
-   2,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
    5,R,G
   40
 
 #lvl_a-03
-   1,R,J,G
-   3,G
-   1,R,G
-   9,R,D,G
+   1,D,G
+   1,R,D,G
+   9,D,G
+   2,R,D,G
    1,R,G
   11,D,G
    5,R,D,G
-   5,R,G
-   4,R,G
-   1,G
-   3,R,G
-   4,R,D,G
+   8,R,G
+   2,R,D,G
+   1,D,G
+   2,R,D,G
    1,L
-   1,R,D
-   1,D
-   1,R,D
-   1,R
-   1,J,G
+   1,R,D,G
+   1,R,G
+   1,R,D,G
+   3,R,G
+   2,J,G
+   4,R
+   3
+   2,R
+   1,J
+   5
+   1,L,G
    1,R,J
-   5,R
-   2,R,J
-   1,R
-   3,R,J
-   2,L,J
-  10,L,G
-   1,R,J
-   1,R,K
-   5,R
-   2,R,J
-   1,R
-  15,R,D
+  24,R,D
    1,L,D
    4,D
-   3,L,D
-   4,L
-  13,L,Z
-  12,L,J
-   6,L
-  15,L,U,C
-  11,L
-  16,L,D
-   3,D
-   4
-   3,D
+   1,L,D
+   3,L
+  14,L,Z
+   8,L,J
+  12,L
+  15,L,U,X
+  30,L,D
+   2
+   1,D
+   1,L,D
    5,L,U,X
-  25,L,G
-   1,L,K,G
+  20,L,G
    1,L,J,G
-  18,L,D,G
+   1,L,K,G
+  17,L,D,G
   10,R,D,G
-  52,D,G
-   6,L,D,G
-   2,D,G
+   4,D,G
+   1,R,D,G
+  48,D,G
+   4,L,D,G
+   3,L,G
+   1,G
   30,R,J,G
    1,R,D
    1,K,G
@@ -554,10 +557,6 @@ console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
    1,D
   12,R,U,G
  145,R,G
-#might need to find a new spot bcs liftboost
-#Spinner cycle [a-08]
-   0,G
-#
    2,R,U,G
    1
   39,R,D,G
@@ -623,4 +622,4 @@ EndStunPause
    1,R,K
    2
 
-ChapterTime: 1:38.345(5785)
+ChapterTime: 1:37.988(5764)
