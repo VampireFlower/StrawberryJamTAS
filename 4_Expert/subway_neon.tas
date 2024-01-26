@@ -1,4 +1,4 @@
-RecordCount: 713
+RecordCount: 1742
 
 console load StrawberryJam2021/4-Expert/nyan
    1
@@ -47,23 +47,18 @@ console load StrawberryJam2021/4-Expert/nyan
    1,R
    5,U,X
   20,L,J
-   4,J
-   2,R,J
+   7,R,J
    1,R,K,G
+  14,R,J,G
+   2,R,K,G
    7,R
-   5,R,J
-   6,J
-   2
-   1,R
-   4
    1,R,G
-   1,J,G
-   2,L,J
-   7,R,U,X
-   1,R,J,G
-   1,R
-  16
-   1,R
+   3,R,K,G
+   5,R
+   4,R,J
+   9,D
+   4,R
+   1,D
   13,R,Z
    1,R,J
    1,L,K,G
@@ -97,12 +92,19 @@ console load StrawberryJam2021/4-Expert/nyan
    1,R
   13,D
   15,D,X
-  54,D
-   1
+  50,D
+   1,J
    4,R,X
-   1,R,J
-   2,R,D
-  50,L,D
+   4,R,J
+   1,R
+   3,L
+   1,R
+   5,L
+   1,R
+  26,L,D
+   1,D
+  10,L,D
+   3,D
    4,Z
    3,R,J
    5,J
@@ -127,10 +129,11 @@ console load StrawberryJam2021/4-Expert/nyan
    1,R,K
    5,R,J
    1,J
+   1
   40
 
 #lvl_a-02
-   6
+   5
    1,J
   17
    1,D
@@ -229,40 +232,38 @@ EndStunPause
   12,R,Z
    1,L,J
    2,L,K,G
-   2,K
+   1,K
+   2,L,K
+   1,K
    1,L,K
-  17,K
-  37,R
-  24,R,U,Z
+  13,K
+  38,R
+  15,R,U,Z
+   8,R
   42,L
-  18,L,X
-  33,G
-   4,D,G
+  19,L,X
+   3,G
+   9,U,G
+  18,G
+   3
+   1,L
+   1,R
+   1,L
+   1,L,J,G
    1,L,K,G
-   4,J,G
-   5,R
-  15,U,X
-   8,R,D
-  43,D
-   1,R,D
-   2,D
-   8
-  12,R
+   2,J,G
+   3,R,J
+  15,U,Z
+  17,R,D
+  30,D
+   4,L,D
+   1,L
+   3
+  18,R
   14,R,U,X
-
-
-
-
-
-
-
-
-
-
-
    1,R,J,G
-   9,R
-   1,R,J
+   7,R
+   5,R,J
    1,R
   40
 
@@ -271,14 +272,15 @@ EndStunPause
    4,R
    1,R,J
    9,J
-   1
+   1,R
   15,R,U,X
    9,R
   10,R,Z
    1,R,J
    6,R
    1,R,J
-   5,R
+   4,R
+   1
   14,R,X
   11,L,J
    8,U,X
@@ -286,10 +288,12 @@ EndStunPause
    6,R
    1,R,J
    9,R,D,X
-   6,R,J
-   3,R
-   1
-   3,J
+   5,R,J
+   1,R
+   1,R,J
+   2,R
+   1,R,J
+   2,J
    1,R,J
   10,L,D,X
   18,L,J
@@ -318,26 +322,29 @@ EndStunPause
    1,R,J
    6,R
   11,R,J
-   4,R
+   1,R
+   1
+   3,R
   15,R,U,X
-   8,R
-   2,R,J
-  14,R,Z
+   6,R
    1,R,J
+  12,R,Z
+   1,R,J
+   2,R
   10,R,D,X
    7,R,J
    1,R
    1,R,J
    2,R
-   4,Z
+   4,R,Z
    1,R,J
    6,R
    8,R,J
   11,R
-  14,R,X
+  13,R,X
    1,L,J
-  31,R,D
-  33,D
+  32,R,D
+  32,D
    7,R,D
    1,D
    1,R,D
@@ -350,39 +357,36 @@ EndStunPause
    1,R,J
   14,R,D,X
    1,R,J
-   5,R,D,X
+   1,R
   40
 
 #lvl_a-06
+   6,R
    1,R,J
-   1
-   6,R
-   2,R,J
   14,R,D,X
-   9,R,J
-   6,R
+  11,R,J
+   7,R
   14,R,Z
   32,R,J
   15,R,U,X
-  30,R
-   1,R,G
-  10,J,G
-   8,R
-   1,R,J
-   1,R
-   1,R,J
-   3,R
-   1,R,J
-   2,R
+  22,R
+   5,R,D
+   2,D
+   1
+   1,R,J,G
+  11,R
+   2,R,J
   15,R,Z
-   5
-   1,J
-   4,L,J
-   8,L
-   7
+   1,R
+  10,R,G
+   1,J,G
+  11
+   2,R,D
    2,R
-   3
-  17,J
+   5,R,J
+   4,J
+   1,R,J
+   7,J
    1,R,J
    2,L,J
   49,R,G
@@ -419,22 +423,24 @@ EndStunPause
    3,L,D
   10,L,D,X
   22,L,J
-  14,U,X
-  10,R,J
-  24,R
+  13,U,X
+  12,R,J
+  22,R
   15,R,D,X
-  13,R
-   4,R,J
-   7,R,D,X
+   8,R
+   4,R,D
+   1,R
+   1,R,J
+   4,R
+   6,R,D,X
    1,L,J,G
-   3,R,J
+   2,R,J
   16,R
   40
 
 #lvl_a-07
-   2,R
-   1,R,J
-   7,R
+   4,R,J
+   6,R
    1,G
    4,L,D
    6,D
@@ -460,10 +466,13 @@ EndStunPause
    8,G
    4,R,J,G
    9,R
-  22
-   2,L
-  23,L,J
-  10,U,X
+   2
+   1,R,J
+  15
+   6,R,G
+   5,U,X
+  13,L,J
+   9,R,J
   15,L
   16,L,X
    4,Z
@@ -481,9 +490,10 @@ EndStunPause
   26,U,G
    1,R,J
    9,R,K
-  33,R,D
+  32,R,D
+   1,R
   15,R,X
-  10,R,D
+   9,R,D
   15,R,J
   14,R,Z
   10,R,J
@@ -520,39 +530,40 @@ EndStunPause
    1,D
    2
    1,J
-  52,D
-   1
-   1,D
-   1
-   4,J
+   6,J
+  15,D,X
+  28,D
+   3
+   3,J
    6,R,J
+   1,J
   18,L,X
-  35,R,D
-  11,R,X
-  20,R,J
+  26,R,D
+   1,D
+   8,R,D
+  12,R,X
+  21,R,J
   15,R,D,X
-   5,R,D
-   2,R
-   2,R,D
-  51,R
+  10,R,D
+  50,R
   15,R,X
-   5,R
-   1,J,G
+   2,R
+   1,R,J,G
    7,R
   10,R,X
   12,R,J
    6,R,K,G
-  14,R,Z
-   1,R,J
-   7,R,U,Z
+  12,R,Z
+   1,J
+   3
+   6,R,U,Z
   40
 
 #lvl_end
-   8,R,U,Z
+   9,R,U,Z
    1,L,J,G
    1,L,K,G
-   2,L
-   5
+   7,L
    1,G
    3
    6,G
@@ -566,4 +577,4 @@ EndStunPause
   15,L,D,X
   89,L,D
 
-ChapterTime: 1:10.737(4161)
+ChapterTime: 1:09.989(4117)
