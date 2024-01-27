@@ -1,4 +1,4 @@
-RecordCount: 7805
+RecordCount: 7873
 
 console load StrawberryJam2021/4-Expert/fonda1515
    1
@@ -90,52 +90,65 @@ console load StrawberryJam2021/4-Expert/fonda1515
   32,R
   23
   11,L,D
-   7,L
-   1,L,D
-  21,L
-   2
-  13,L
-  20,U,X
-  43,R,J
-   8
-  23,L
-  15,U,X
    5,L
-  12,R,J
-  39,R,D
-  40,D
-   8,L,D
-   6,D
-  15,R,X
-  25,D
-  10,L,D
-   5,L
-   5
-  15,R,D,X
+   1
+   8,L
+  20
+  15,L,U,X
+  13
    2,R
-  14,R,Z
-  10,R,J
+   1,R,J
+   1,K
+  10,R,K
+  17,R
+   6,R,D
+   1,R
+   2,R
+   6
+  15,L,U,X
+   3
    3,R
    1
-   7,R
-  14,R,U,X
+   1,R
+   1
+   1,R
+   4,R,X
+   9,R,J
+   9,R,D
+   1,R,J
+  13,R,D
+  20,D
+  19,L,D
+  16,D
+  15,R,Z
+  20,L,D
+  19,D
+   8,L,D
+   2,L
+   4
+   4,L
+  15,R,X
+  13,R,D,C
+  12,R,J
+  11,R
+  15,R,U,X
   20,R
   11,D
    4,R,D
-   4,R
-   1
+   4
    1,R
+   1
   10,R,Z
   28,R,J
   20,R,X
   21,R,C
-   1
+   1,R
   21,R,X
   20,R,C
-  14,R
-   1
+  15,R
   12,U,X
   35,R,J
+   1,R,K
    4,Z
    2,R,J
    8,R
@@ -812,4 +825,4 @@ console load StrawberryJam2021/4-Expert/fonda1515
    5,U,X
  135
 
-ChapterTime: 3:11.165(11245)
+ChapterTime: 3:10.723(11219)
