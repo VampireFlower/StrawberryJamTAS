@@ -1,4 +1,4 @@
-RecordCount: 34172
+RecordCount: 34198
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -2942,37 +2942,30 @@ EndStunPause
    1,R
   15,R,D,X
  215,R,D
-   2,L,J
-  10,L,Z
+   3,R,J
+   6,R,Z
    1,R,J
-   3
-   3,R
-   1,R,J
+  12,R,K,G
+   8,R,J,G
    4,R,K,G
-   1,K
-   5,R,K
-   3,R
-   7,R,J,G
-   5,R,D,X
-   6,R,J,G
    5,R
-   3,R,J
+   2,R,J
    4,R
-   3,R,J
-   8,R
+  14,R,D,X
+   1,R,J
    5,R,U,X
   43
 
 #lvl_f03_hivemindsrule
-  10,R,U,X
+  13,R
   14,R,Z
    1,R,J
   14,R,D,X
    1,R,J
   14,R,D,X
-   1,R,J
+   6,R,J
    1,J
-  13,R,J
+   7,R,J
    1,L,K,G
    5,R,K
    1,R
@@ -3573,4 +3566,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 7:54.572(27916)
+ChapterTime: 7:54.368(27904)
