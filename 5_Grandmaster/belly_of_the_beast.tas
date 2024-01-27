@@ -1,4 +1,4 @@
-RecordCount: 5721
+RecordCount: 6633
 
 console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
    1
@@ -30,7 +30,7 @@ console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
 #lvl_a-02intro
  171
 # Spinner Cycle
-   1
+   0
 #####
    3,R,J
   14,R,D,X
@@ -270,40 +270,49 @@ console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
    1,R,K
    1,R,J
    1,R,K
-   3,R
-  12
-   9,L,Z
+   4,R
+   5
+   1,J
+   3
+   1,R
+   1
+   8,L,Z
    1,R,J
-   7,R
+   6,R
    1,R,J
    5,R,D,X
-  15,R,G
+  17,R,G
    1,R,J,G
    1,R,K,G
-  16,R,G
+   1,R,J,G
+  12,R,G
   40
 
 #lvl_a-04
-   5,R,G
-   6,R,J,G
+   9,R,G
+   2,R,J,G
    7,R,G
-   9,R,J,G
-   2,D
-  19,R,D,X
-   7,D
-  14,L,Z
+   6,G
+   1,D
+  18,R,D,X
+   1,D
+   4,R,D
+  14,L,D,X
    1,R,J
   14,R,D,X
-   6,R,J,G
-  27,R,G
-   1,L
+   8,R,J
+   2,R
+  17,R,G
+   1,R,J,G
+   3,R,G
+   2,L
   18,R,U,X
-  19,R,U,C
-   5,U,X
-  15,G
-   6,R,G
+  10,R,U,C
+  21,L,G
+   3,R,G
    1,L
-  22,D,X
+  15,D,X
+   2,D
   10,L,D
    9,R,Z
   13,R,J
@@ -319,108 +328,120 @@ console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
    1,R,J
    5,R,D,X
   13,R,G
-   1,L,J,G
-  10,R,J,G
-   1,L,G
-   3,L,D,G
-  24,R,D,G
-   6,D,G
+   6,J,G
+   4,R,J,G
+  21,R,D,G
    1,R
-  10,L,D,X
-   4,R,J
-   4,R
-  18,R,Z
-   7,U,X
-  21,U,G
-   1
-  60,D
-  18,L
-  14,R,Z
+   9,R,D
+   5,R
+  15,R,Z
+   8,R
+  11,U,X
+  21,R,G
+   1,R
+  11,L
+  41,D
+   6
+  14,L,Z
    1,R,J
-   1,R,K
+   6,R,D,X
+   1,R,J,G
+  13,R,D
+   1,R,D,J
+   1,R,D,K
    2,R
    1,R,J
   10,R,D,X
   13,R,G
-   3,R,J,G
-  11,R,G
-   7,R,J,G
+   2,R,J,G
+   5,R,G
+   1,R,J,G
+   5,R,G
+   6,R,J,G
    7,R,G
   40
 
 #lvl_a-05
-   2,R,J,G
-  17,R,D,G
+  12,R,G
+   5,R,D,G
    1,R
   15,R,D,X
-  25,L,D,C
+  23,L,D,C
   23,R,D,X
-  25,L,D,C
-  21,R,D,X
-   2,R
-   1,R,D
-   3,R
-  47,R,J,G
+  19,L,D,C
+   3,L
+   5,R
+  17,R,D,X
+   6,R
+   3,R,D
+   1,R
+  46,R,G
+   1,L
+  10,U,X
+  21,R,G
    1,D
    8,U,X
-  22,U,G
-   1,D
-   9,U,X
-  16,G
-   5,L,G
-   2,R
-  21,R,U,X
-   7,R,C
+  24,R,G
+   1,R
+  15,R,U,X
+   5,R,C
    1,R,J
-  59,R,D,G
-  30,L,D,G
-  12,R,D,G
-   7,D,G
-   1,R
-  14,L,D,X
-  17,R
-  12,L,U,X
-  15,R
-  10,U,X
-  13,G
-   6,L,G
-  25,R,G
+  53,R,D,G
+  23,D,G
   15,L,D,G
-   2,D,G
-  31,L,D,G
-  21,R,G
-   1,D
-#wait for the grab
-#thing so you can
-#reach it later
-   9,R,G
-  10,D
-#-----------
-  19,R,Z
-  15,U,X
-  26,L,U,C
-  28,D,X
-  21,R,G
+  21,D,G
+   3,L,D,G
+   1,L,G
    1,R
-  11,R,U,X
-  30,R,G
-   1,R
-  16,R,D,X
-  16,L,D,C
-  11,R
-  10,R,X
+  10,L,X
+  15,R
+   9,L,U,X
+  15,R
+  11,U,X
+  19,L,G
+  26,R,G
+  27,L,D,G
+   3,R,D,G
   22,R,G
+   3,R,D,G
+   1,G
+   3,R,J,G
+   5,R,G
+   9,R,J,G
+   1,D
+  15,R,U,X
+   9,R
+  15,U,X
+   3,R
+   6,L,U,X
+  17,R
+  14,D,X
+  11,R
+  25,R,G
+   1,R
+  14,R,U,X
+  24,R,G
+   1,R
+  21,L
+  15,R,D,X
+   4,L,D
+  15,L,Z
+  10,R
+  13,R,X
+  21,R,G
    1,R,J,G
    1,R,K,G
-  10,R,J,G
-  13,L,G
-  26,G
-  22,R,G
-   2,R,J,G
-  10,R,G
   12,R,J,G
+  19,R,G
+  14,G
+   2,J,G
+   8,R,G
+   1,J,G
+  10,L,J,G
+   2,K,G
+   3,R,G
    1,D
-   4,J
+   2,J
    6,R,Z
    1,R,J
   13,R,G
@@ -637,4 +658,4 @@ EndStunPause
    1,R,K
    2
 
-ChapterTime: 1:37.682(5746)
+ChapterTime: 1:36.662(5686)
