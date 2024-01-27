@@ -1,4 +1,4 @@
-RecordCount: 36884
+RecordCount: 37330
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -1487,55 +1487,62 @@ AnalogMode Ignore
   13,G
   31,R,J,G
    1,R
-  19,L,D,X
-   9,D,C
- 190
+  15,L,D,X
+   5,R,D
+   8,D,X
+ 187
 
 #lvl_d3_07-Maya
 #may be fixed in the future
 #=> deathwarp
 #gl resync :)
-   1
+   2
    1,S,N
    1,D,J
   34
 Set CelesteTAS.SimplifiedGraphics true
 Set CelesteTAS.SimplifiedBackdrop true
+   4,L,J
   15,U,X
-   5,L
-   2,J
-  13
-  15,D,X
-   3,L
-  10,R,C
-   1,R,J
-   4,J
-   2
-   3,R
-   1
-   5,D,X
-  24,R
-  14,L,U,X
-   6
-  16,R
-  10,R,D,X
-  15
+   2,L
+  18,L,J
+   3,K
+   5
    1,L
+   1,L,N
+   3,L
+  15,L,D,X
+   1,R
+   1,L
+   2
+   2,D
+   1,D,J
    1
-   8,L
-  37,R,U,Z
-  13,R,U,V
-   6
-  32,L
-  33,L,U,X
-  31,R
+   1,K,G
+   1,R
+   1,L
+   1,J,G
+  27,R,J
+   1
+   8,K
+   4,R,K
+  15,U,X
+   1
+  28,R
+  15,U,X
+   1,L
+  25,R
+  19,R,U,X
+  37,L
+  23,L,U,X
+  26,R
   18,U,X
   19,U,C
-  24,U,Z
-   9,L,U,C
-   6
-  29,R
-  14,R,Z
+   9,U,Z
+  16
+   9,L,U,X
+  36,R
+  13,R,Z
    3,R,J
    1,R
   15,R,D,X
@@ -1632,8 +1639,9 @@ Set CelesteTAS.SimplifiedBackdrop true
 #lvl_e0-Clarity
 Set CelesteTAS.SimplifiedGraphics false
 Set CelesteTAS.SimplifiedBackdrop false
-  59
-  13,R,Z
+  22,R
+   2,J,G
+   6,R,Z
    1,R,J
    7,R
    3,R,J
@@ -2696,4 +2704,4 @@ Repeat 34
    2,L,D
 EndRepeat
 
-ChapterTime: 7:14.333(25549)
+ChapterTime: 7:13.721(25513)
