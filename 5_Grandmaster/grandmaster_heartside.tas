@@ -1,4 +1,4 @@
-RecordCount: 37330
+RecordCount: 37583
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -1616,23 +1616,29 @@ Set CelesteTAS.SimplifiedBackdrop true
   10,R
   14,R,Z
    1,R,J
+   2,R
   14,R,D,X
-  21,R,J
+  15,R,J
+   1,R
+   1,R,J
+   1,R
   15,R,U,X
-  21,R,U,C
+   5,R,U,C
+  16,R
   13,R,U,X
   28,L
   11,L,U,X
    1,L,J,G
    2,L,K,G
    1,L,J,G
-  17,L,K,G
-   2,K
+   2,L,K,G
+   1,K
+  16,L,K
   14,L,U,X
-  24,R
+  23,R
   15,R,X
   17,R,D,C
-  46,R,K
+  45,R,J
   14,R,U,X
  349
 
@@ -2704,4 +2710,4 @@ Repeat 34
    2,L,D
 EndRepeat
 
-ChapterTime: 7:13.721(25513)
+ChapterTime: 7:13.670(25510)
