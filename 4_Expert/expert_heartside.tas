@@ -1,4 +1,4 @@
-RecordCount: 34198
+RecordCount: 34283
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -3308,10 +3308,11 @@ EndRepeat
    1,R,J
   25,R
   14,R,U,X
-   2,R,J,G
+   1,R,J,G
+   1,R
 
 #lvl_f06_cabob
-   1,R
+   1
    6,R,D,X
    1,R,J
    7,R
@@ -3385,17 +3386,16 @@ EndRepeat
 #lvl_f07_xplosives
    1,L,J
    7,L
-   5,L,J
-  15,L,D,X
-  10,L,D
-   2,D
-  10,L,D,X
-  10,R,J
-  15,R,D,X
-  13,R
-   3,R,J
-  15,R,D,X
-   8,L,D
+   1,J
+   5,L,D
+   4,R,D
+   1,L,D
+  41,R,D
+  14,R,Z
+   1,R,J
+   8,R
+  15,D,X
+   1,R
    4,L,Z
    1,R,J
    4,R
@@ -3566,4 +3566,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 7:54.368(27904)
+ChapterTime: 7:54.215(27895)
