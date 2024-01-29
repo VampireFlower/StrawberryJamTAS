@@ -1,5 +1,5 @@
 #draft by Vamp
-RecordCount: 1933
+RecordCount: 1954
 
 console load StrawberryJam2021/1-Beginner/NotYourBadeline
    1
@@ -44,16 +44,13 @@ console load StrawberryJam2021/1-Beginner/NotYourBadeline
 
 #lvl_a_03
    1,R,J
-   9,R
-   7,D
-#being .1 lower would save a frame
-   1,D
+  14,R,D
+   1,R
+   1,R,D
    3,L,D
-   7,R,D
-   2,R
-   1
-   2,R
-   1
+   9,R,D
+   1,D
+   3,R,D
   10,R,U,Z
    1,L,J,G
    1,L,K,G
@@ -257,4 +254,4 @@ Endrepeat
    1,K,G
    2
 
-ChapterTime: 0:27.251(1603)
+ChapterTime: 0:27.234(1602)
