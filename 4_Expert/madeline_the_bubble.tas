@@ -1,4 +1,4 @@
-RecordCount: 10314
+RecordCount: 10418
 
 console load StrawberryJam2021/4-Expert/Vina
    1
@@ -62,30 +62,33 @@ console load StrawberryJam2021/4-Expert/Vina
   15,R,U,Z
    2,J
    1,L,K,G
-  11,L,J,G
-   7,L
-  10,L,X
-  14,R,J
-  20,R,U,X
-  34,R
-  14,R,D,X
-  15,R,J
+  10,L,J,G
+   1,K,G
+   5,L
+   1
+   1,R
+   9,R,J
+   7,R
+  21,R,U,X
+  37,R
+  12,R,Z
+  16,R,J
    2,J
+   1
   18,R,U,X
    1,L
   15,U,C
    6,L
-   1
   15,L,X
   15,R,C
-   8
-   2,R
+   4
+   6,R
   15,R,Z
    2,R
   14,L,U,X
-  56,R
+  55,R
   15,R,Z
-   7,R
+   8,R
    4,Z
    1,R,J
    4,R,K,G
@@ -696,4 +699,4 @@ repeat 7
    2,R,D
 endrepeat
 
-ChapterTime: 1:51.486(6558)
+ChapterTime: 1:51.452(6556)
