@@ -1,4 +1,4 @@
-RecordCount: 40227
+RecordCount: 40426
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -1805,25 +1805,22 @@ Set CelesteTAS.SimplifiedBackdrop false
    1,R,J,G
    1,L,J
   16,R,J
-  10,R,K,G
+   1,R,K,G
    5,R
-  15,R,K
-  15,U,Z
+   3,R,J
+   7,R
   13,R,J
-   1,J
-   4,L,J
-   1,K
-   9,L,K
-   1,J
+  16,U,Z
+  12,R,J
+   5,L,J
+  11,L,K
    7,R,J
-   1,K
-   5,L,K
   14,R,U,X
   15,L
-  15,L,U,X
+  14,L,U,X
    7,L
   15,L,D,X
-   3,L
+   4,L
   46
   14,U,X
   15,U,C
@@ -2212,7 +2209,6 @@ endrepeat
   11,R,U,X
   39,R,U,J,G
    2,L,U,J,G
-
    1,L,D,J
    7,L
    3,L
@@ -2225,7 +2221,6 @@ endrepeat
    3,J
    5
    2,R
-
    1,J
   13,J,G
    2,R,J,G
@@ -2383,7 +2378,7 @@ endrepeat
    5,R
    2
 ##spinner cycle for flag 1
-   2
+   0
 ##
    8,R,Z
    1,R,J
@@ -2691,4 +2686,4 @@ Repeat 34
    2,L,D
 EndRepeat
 
-ChapterTime: 7:10.508(25324)
+ChapterTime: 7:10.355(25315)
