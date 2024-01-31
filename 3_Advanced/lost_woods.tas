@@ -1,4 +1,4 @@
-RecordCount: 2823
+RecordCount: 2855
 
 set Language english
 console load StrawberryJam2021/3-Advanced/Oppen
@@ -290,23 +290,29 @@ console load StrawberryJam2021/3-Advanced/Oppen
    1,D,J
   69,O
 #key1route
-  10,L,D,X
-   1,L,J
-   4,L,K,G
-  14,L,D,X
-   3,L,J
-  17,L,D,X
+   4,L,D,X
+   5,L,J
+   1,L,K,G
+  12,L
+   2,L,J
+   2,L
+  18,L,D,X
 
 
 #lvl_oppen_1a (1)
   11,L,D
-  28,D
+  22,D
    1
    1,D
-   4
-   4,D
-   2
-   3,D
+   1
+   1,D
+   1
+   1,D
+   1
+   6,D
+   5
+   2,D
+   1
   15,L,D,X
   12,L,J
    7,U,X
@@ -426,4 +432,4 @@ console load StrawberryJam2021/3-Advanced/Oppen
   13,L,U,Z
  135,L,G
 
-ChapterTime: 0:51.000(3000)
+ChapterTime: 0:50.966(2998)
