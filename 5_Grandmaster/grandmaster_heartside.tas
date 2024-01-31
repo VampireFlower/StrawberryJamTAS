@@ -1,4 +1,4 @@
-RecordCount: 40426
+RecordCount: 40448
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -47,30 +47,30 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
   11,R
    5,R,D
    5,R,J
-  18,R
+  17,R
+   1
+   0,L
+   4,L,J
+   6,L
+  14,L,Z
    1,R,J
    2,R
-  12,L,D,X
-   1,R,J
-   2,R
-   1,R,J,G
    1,R,K,G
    1,R,J,G
-   2,R,K,G
+   1,R,K,G
+   5,R,J,G
+   1,J
    3
-   3,R
-   1
-   8,R,J
   17,R,D,X
+   7,R,D
+   1,R,J,G
+   8,R
    3
-   6,R
-   4,R,J,G
-  10,R
   15,D,X
   12,L,D
-   1,L,G
-   9
-   9,G
+   1,G
+  10
+   8,G
    1
    1,J,G
    1,K,G
@@ -513,28 +513,23 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
   20,U,X
   14,R,D,C
   15,R,J
-  15,R,D,X
-   2,G
-   2,J,G
-   1,R,J
-   1,J
-   1,R,J
-   2,J
+  14,D
+   1,R,D
+   1,G
    1
-   1,K,G
-  11
-   1,R
-   5,L,Z
+   4,K
+   7,L,K
+   1,K
+  10,R,Z
    1,R,J
-   6,R
-   3,R,J
-   3,R
-  13,R,G
-   8,R,U,J,G
+   4,R
+   4,R,J
+   2,R
+  21,R,G
    1,L
   18,R,D,X
-   1,R
-  23,R,J
+  20,R,J
+   2,J
   13,U,X
   19,L
   12,U,X
@@ -1965,18 +1960,29 @@ Set CelesteTAS.SimplifiedBackdrop false
    1,R,J
   15,R,D,X
    6,R
-   9,R,D,X
-   8,L
-  16,L,D,X
+   1,R,J
+   2,R
+   3,L
+  20,L,D,X
+   1,L,D
+   2,R,D
+   3,R,D,J
    3,R
+   9,R,D,X
+   7,R,K,G
+   9,R
+   1,R,J
+  13,R
    1
-   6,R,J
-  10,R,D,X
-  10,R,J,G
-  25,R,D
-   7,R,J
-  17,R
-  15,R,U,Z
+   1,R
+   3,R,D,J
+   1,J
+   5
+   1,J
+   3
+   2,J
+   5
+  14,R,U,Z
    4,R,U,C
    6,R,U,X
    5,R,J
@@ -1985,12 +1991,12 @@ Set CelesteTAS.SimplifiedBackdrop false
    4,L,U,C
    4,R,U,X
   28,R,U,C
-   1,R
-  15,R,D,X
-   1,R,D,J
-  12,R,D,X
+   1
+  17,R,D,X
+   1,R,J
+  10,R,D,X
    8,R,C
-   4,R,D,J
+   4,R,J
    6,R,D,X
   13,R,G
    4,R,C
@@ -2378,7 +2384,7 @@ endrepeat
    5,R
    2
 ##spinner cycle for flag 1
-   0
+   1
 ##
    8,R,Z
    1,R,J
@@ -2686,4 +2692,4 @@ Repeat 34
    2,L,D
 EndRepeat
 
-ChapterTime: 7:10.355(25315)
+ChapterTime: 7:09.998(25294)
