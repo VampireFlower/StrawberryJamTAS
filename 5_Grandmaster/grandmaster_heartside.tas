@@ -1,4 +1,4 @@
-RecordCount: 40801
+RecordCount: 41070
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -2382,7 +2382,7 @@ endrepeat
    5,R
    2
 ##spinner cycle for flag 1
-   0
+   1
 ##
    8,R,Z
    1,R,J
@@ -2392,51 +2392,60 @@ endrepeat
    1,R,J
   14,R,D,X
    1,R,J
-  14,R,D,X
-   2,R,J
-   6,R,U,X
-   6,R,J,G
-   1,R
+  11,R,D,X
+   8,R,J
+   4,R,K,G
+   2,K
   43
 
 #lvl_f3_01-Hydro
-   2,R,J
-   6,R,D,X
-   1,R,J,G
-   1
-   2,R,J,G
-  12,R
-  14,R,J
-  10,U,X
-   4,R,J
-   8,R
-   3,R,J
-   2,R
+   1,K
+  14,R,Z
+   1,L,J
+   4,R,Z
    1,R,J
-   9,L,Z
-   1,R,J
-   7
+   2
    1,R
-   4,R,J
+   1,R,J
+   3,R
+  12,R,J
+   1,R
+  13,R,U,Z
+   1,L
+   6,J,G
+   2,R,J
+   1,J
+   1
+   1,R
+   5
+  10,R,D,X
+   5,R,J
   14,R,U,X
-   5,R,J,G
+   6,R,J,G
    7,R
    4,R,Z
    1,R,J
-   7,R
+   1,R
    1,R,J
+   5,R
+   1,R,K
    6,R
   15,U,X
    1,J,G
-   7,R
+   1
+   6,R
   10,R,D,X
    7,R,J
    2,R
   15,U,X
    2,R,J,G
-   9,R
-   3,L,K
-  11,R,Z
+   5
+   2,J
+   1,R
+   1
+   2,K
+   1
+  12,R,Z
    1,R,J
    1,R,K,G
    1,R,J,G
@@ -2690,4 +2699,4 @@ Repeat 34
    2,L,D
 EndRepeat
 
-ChapterTime: 7:09.029(25237)
+ChapterTime: 7:08.978(25234)
