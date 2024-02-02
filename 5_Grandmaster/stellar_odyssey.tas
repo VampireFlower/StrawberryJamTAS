@@ -1,4 +1,4 @@
-RecordCount: 8317
+RecordCount: 9017
 
 console load StrawberryJam2021/5-Grandmaster/Ecl1psed
    1
@@ -233,16 +233,13 @@ EndRepeat
   15,L,U,X
    1
    2,R
-  15,L,U,X
-   7,R
-  10,R,X
-   1,L,J
-   4,R,J
-  18,U,X
-  15,U,C
-   4,R
-   6,L
-   1,L,G
+   7,L,U,X
+  17,R
+  19,U,C
+   3,R
+  15,U,X
+   1,L
+  10,G
    2,J
    5,L,D,X
    1,J
@@ -300,30 +297,48 @@ EndStunPause
   40
 
 #lvl_a-04
-  11,K,G
-  11,J
+   3,L
+   3
+   1,L
+   2
+   1,K
+   2,J,G
+   5,R,J
+   4,J
+   1,R,J
 #spinner cycle
 #terrible spot
-   0
+   1,R,J
 #
   10,R,Z
-   3,R,J
-  21,R,K,G
-  12,U,X
-  14,R,J
-  17,R,Z
-   4,R,J
-   3,R
-  15,R,D,X
-  29,R
-  14,U,X
+   1,R,J
+   2,R,K,G
+  11,R,J,G
    2,L,J
+   2,R,J
+   1,L,J
+   5,K,G
+   6,U,C
+  19,R,J
+   3
+   1,R
+  14,R,Z
+   1,R,J
+   1,R
+  15,R,D,X
+  12,R,D
+   1,R
+   1,R,D
+   1,D
+   1,R,D
+  15,R,U,Z
   15,U,X
    8,R
-   7
-   4,L,J
-   4,J
-   3,L
+   5
+   5,L,J
+   2,J
+   1,L,J
+   3
   15,R,U,X
   16,D,C
    1,L
@@ -337,9 +352,9 @@ EndStunPause
    7,R
    3,R,J
    4,R
-   4,R,D,X
+   6,R,D,X
 StunPause
-  11,R,D,X
+   9,R,D,X
    1,R
 EndStunPause
    1,R
@@ -386,25 +401,25 @@ EndStunPause
   16,G
    3,K,G
    1
-   1,L,J
-   5,L,J
+   6,L,J
    6,L
   10,R,Z
   12,L,J
-   4,R,J
+   2,J
+   2
   18,L,X
-   6,R
+   5,R
   15,R,D,C
   15,R,U,X
   40,R,D
-  22,L,D
+  21,L,D
   14,L,Z
    1,L,J
+   4,L
+   4,L,J
+   8,L
+   3
    1,L
-   3,L,J
-   2,L
-   1,L,J
-  13,L
   18,R,D,X
   15,D,C
    3,R,D
@@ -412,26 +427,33 @@ EndStunPause
    6,L,D
    7,L,X
   20,L,J
-  15,U,X
-   8,R,J
-  15,D,X
-  20,R
-   1
-  19,R
-   1,L
-  10,D
+  14,U,X
+   5,L,J
+   3,L
+  15,R,D,X
+   4,L,D
+   9,R,D
+  21,R
+   1,D
+   1,R,D
+   1,D
+   1,R
+   1,R,D
+   7,L,D
+   3,L
+   1,L,D
+  29,L,Z
    6,L,D
-   1,L,J,G
-   2,L
-  28,L,Z
-   2,L,D
-  16,R,D
-  11,L,D,X
-   4,R,J
-  17,R,D,J,X
-   5,J
-   6,R
-   2
+  11,D
+   1,R,D
+   1,L,D
+   1,R
+  10,L,D,X
+   2,R,J
+   3,R
+  15,R,D,J,X
+   4,R
+   8
   15,R,Z
    1,L
   33,L,D
@@ -443,33 +465,41 @@ EndStunPause
   18,L,U,X
   15,R,D,C
    6,L,D
-  17,L,D,X
-  26,R
+  18,L,D,X
+  24,R
   15,D,X
-   7,L
-  18,R
-  15,R,X
+   1,R,D
+   7,L,D
+   3,R
+   1,L
    6,R
+   3,R,D
+  15,R,X
+   5,R
+   2
+   2,R
+   1
   14,R,Z
    1,R,J
-  18,R,U,X
+  17,R,U,X
    5,K
    3,D
-  29,L,D
-   1,L
-   4,L,D
-   6,R,D
-  15,R,X
-  19,L,D
-  15,L,X
-  20,R,D
-   3,L,D
+  17,L,D
    2,D
-   1,R,D
-   2,R
-   1,R,D
-   1,R
-   1,R,D
+   7,L,D
+   1,L
+  13,L,D
+   4,Z
+   1,R,K
+   1,L,K
+  20,L,D
+  15,L,X
+   1,L
+  20,R,D
+   6,L,D
+   1,L
+   1,L,D
+   2,L
   15,R,Z
    5,R
    6,L,Z
@@ -635,4 +665,4 @@ EndStunPause
   16,U,X
  135
 
-ChapterTime: 1:24.575(4975)
+ChapterTime: 1:23.555(4915)
