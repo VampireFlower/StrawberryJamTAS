@@ -1,4 +1,4 @@
-RecordCount: 6273
+RecordCount: 7175
 
 console load StrawberryJam2021/5-Grandmaster/Ecl1psed
    1
@@ -306,139 +306,61 @@ EndStunPause
    2,L,J
   15,U,X
    8,R
-   6
-  11,R,D,X
-  13,R,J
-  12
-  15,D,X
-   2,L,J
-  19,L,Z
-   8,L,K,G
-   2,L
-   1,L,J,G
-   5
-   6,R
-   6,R,J
-   9,R
-  16,U,X
-   1
-   9,L,G
-   9,D
-  20,R,D
-  13,L,D
-  13,L,D,X
-   1,R,J
-   2,R
-  16,R,D,X
-  24,R,J
-   9,K
    7
-  19,R
-  18,R,G
-  16,U,G
-   1,R,J,G
-   2,L,J,G
-   1,R,J,G
-   1,K
-  26,R,K
-  11,L
-   5,L,D
-  26,L,J
-  16,L,X
-  16,L,J,G
-  10,L,K,G
-   1,L
-   3,L,J,G
-   4,L
-   7,R
-  10,L,Z
-  11,R,J
-   4,R
-  15,U,X
-   4,R,J
-  15,R,Z
-  15,U,X
-  41,L,U,G
-   8,L,J,G
-  14,L
-  13,R,K,G
-  26,K
-  14,R,D,X
-  19,R,J
-  14,D,X
-   5
-  14,R,X
-  26,R,J
-  10
-  20,L,D
-  23,D
-  11,R,D,X
-  10,L,J
-  17,R,J
-  10,L,Z
-   8,R
-  22,L,J
-  26,L,U,G
-  51,G
-  14,L,U,G
-  10,G
-   2,D,G
-  10,G
-   8,R
-   8
-   1,J
-   7,R,J
-   1,J
-   5
+   4,L,J
    4,J
-  18,U,X
-  15,U,C
-  25,R
-   2,R,D
-   8,D
-   3
-   4,L,D
+   3,L
+  15,R,U,X
+  16,D,C
    1,L
-   3,R,D
-   4,D,X
+   3,R
+   4,R,Z
    1,R,J
    1,R,K,G
    1,R,J,G
    1,R,K,G
    1,R,J,G
    7,R
-   1,R,J
-   7,D
-   1,R,D
+   3,R,J
+   4,R
+   4,R,D,X
 StunPause
-  12,R,D
+  11,R,D,X
+   1,R
+EndStunPause
+   1,R
+   1,R,J
+   4,R
+  12,R,D,X
+StunPause
+   2,R,D
 EndStunPause
    3,R,D
-   2,R
+StunPause
    4,R,D
-  15,R,Z
-  26
-  12,R,Z
+EndStunPause
+   3,R,D
    1,R,J
-   7,R
-   9,R,J
-   5,R
-   1,R,J
-   3,R
-   2,R,J
   10,R
-  15,R,U,X
-  19,R
-   6,R,Z
-   1,R,J
-   7,R
+StunPause
+   2,R
+EndStunPause
+   9,R
+   5,R,J
+   9,R
+   3
+  14,R,U,Z
+  29,R,J,G
+StunPause
+   1,R
+   3,R,K,G
+EndStunPause
+   2,R,K
+   3,R
   40
 
 #lvl_a-05
-   1,R,J
-  13,R,D,X
-   8,R,J
-   9,R
+  11,R
   18,L,D,X
   10,R,D,C
   20,R,J
@@ -677,4 +599,4 @@ EndStunPause
   16,U,X
  135
 
-ChapterTime: 1:42.850(6050)
+ChapterTime: 1:27.210(5130)
