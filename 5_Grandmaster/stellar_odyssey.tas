@@ -1,6 +1,5 @@
-RecordCount: 7303
+RecordCount: 7392
 
-console clrsav
 console load StrawberryJam2021/5-Grandmaster/Ecl1psed
    1
 
@@ -327,36 +326,27 @@ EndStunPause
    4,R,D,X
 StunPause
   11,R,D,X
-   1,R
+   1,D
 EndStunPause
    1,R
+   3,R,J
+   3,R
+  15,R,D,X
+   9,D
+   1,R,D
    1,R,J
-   4,R
-  12,R,D,X
-StunPause
-   2,R,D
-EndStunPause
-   3,R,D
+   1,R
+   9,R,D,X
 StunPause
    4,R,D
 EndStunPause
-   3,R,D
-   1,R,J
-   1
-  11,R,D,X
-StunPause
    2,R
-EndStunPause
-   2,R
-   5,R,J
-   1,R
-   5,R,K,G
-   5,R
-   1,R,K
-   1,R
-   1,R,K
+   3,R,J
    4,R
-  14,R,U,Z
+  24,R,K,G
+   2,R
+   2,R,J
+   8,R,U,X
   27,R,J,G
    4,R
   40
@@ -609,4 +599,4 @@ endstunpause
   16,U,X
  135
 
-ChapterTime: 1:26.581(5093)
+ChapterTime: 1:26.343(5079)
