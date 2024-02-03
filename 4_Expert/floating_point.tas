@@ -1,11 +1,11 @@
-RecordCount: 5035
-
+RecordCount: 5404
+ 
 console load StrawberryJam2021/4-Expert/KAERRA
    1
-
+ 
 #Start
  102
-
+ 
 #lvl_a00
    6,R,Z
    1,R,J
@@ -37,7 +37,7 @@ console load StrawberryJam2021/4-Expert/KAERRA
    9,R
    8,R,X
   40
-
+ 
 #lvl_a01
   11,R,J
    2,L,J
@@ -96,7 +96,7 @@ console load StrawberryJam2021/4-Expert/KAERRA
    7,R,J
    6,R,K,G
   40
-
+ 
 #lvl_a02
    2,K
    1,R,K
@@ -155,7 +155,7 @@ console load StrawberryJam2021/4-Expert/KAERRA
    3,R,J
    2,R
   40
-
+ 
 #lvl_a03
    3,R
    4,D
@@ -204,18 +204,27 @@ console load StrawberryJam2021/4-Expert/KAERRA
    8
    5,R
    3,R,D
-  13,D
+  11,D
+   2,R,D
   10,L,D,X
-  22,R,J
+   3,R,J
+   1,R
+   1,R,J
+   2,R
+   1,R,J
+   5,R
+   1,L,K,G
+   9,R,K
+   1,R
   14,U,X
   25,R,J
-   5,J
+   2,J
   10,R,Z
    1,R,J
   11,R,D
   10,R,U,Z
   40
-
+ 
 #lvl_a03b
    5,R,U,Z
    1,L,J,G
@@ -223,7 +232,8 @@ console load StrawberryJam2021/4-Expert/KAERRA
   12,R,J
   14,U,X
   40
-
+ 
+ 
 #lvl_a04
   11,R
   15,U,X
@@ -276,7 +286,7 @@ console load StrawberryJam2021/4-Expert/KAERRA
    1,R,J
   12,R,D,X
   40
-
+ 
 #lvl_a05
    1
    2,R
@@ -330,7 +340,7 @@ console load StrawberryJam2021/4-Expert/KAERRA
    1,R,J
   15,R
   40
-
+ 
 #lvl_a06
    2,R,J
   29,L,J
@@ -338,130 +348,131 @@ console load StrawberryJam2021/4-Expert/KAERRA
   12,R,J
    5,R,X
    1,R,J,G
-   5,R
+   6,R
    1,R,J
-   8,R
-  11,R,D,X
-   6,R,J
+   3,R
+   4
+  10,R,D,X
+   3,R,J
+   4,L,J
+  19,L,D
+   3,L
+   2,R
+   1,L
+  16,D,X
+   3,R,D
+   1,R
+   1,R,D
+   5,L,D
+   1,L
+  30,L,D
+  15,L,X
+   8,L,D
+  15,D,C
+   6,R
    1
-   4,R
-   4,R,J
-   3,R
-   3,R,J,G
-  10,R
-  14,R,X
-  11,L,J
-  12,L,D
-  25,D
-  14
-  15,D,X
-   9
-  15,L,C
-  14,L,X
-  18,D,C
-   6,R,D
+  15,R,Z
+   1,R
+  13,D
+   1,R,D
+   2,D
+   1,R,D
    1,D
-   4,R
+  14,R,D
+  15,R,X
+   1,R
+  18
+  27,R
    1,R,J,G
-   7,R,K,G
-   5,R
-   3,R,J
-   3,R
-  15,R,D,X
-  40,R,D
-   8
-  10,R
-   2
-  10,R
-   1,R,J,G
-   8,R,K,G
-   7,K
-   1,J
-   9,R,J
-   7,R
-   3,R,J
-   4,R
-   4,X
-   5,R,J
+   1,R,K,G
+   3,R,J,G
+   2,J
+   6,R,J
    3,J
+   1,K
+   5,R,K
+   2,K
+  10,R,X
+   5,R,J
+   7,R,U,Z
   40
-
+ 
 #lvl_a06b
-   5,J
-   9,L,K,G
+   4
+   1,K
+   4,L,J,G
+   1,R,J
+   1,L,K,G
    1,R,K
    1,L,K
-   1,J,G
+   1,R,K
+   1,L,K
+   3,R,K
+   1,L,K
+   5,J,G
+   2,R,J
+   2,J
    1,R,J
-  17,R,K
   11,U,X
   40
-
+ 
 #lvl_a07
-   1
-   8,R
-   9,L,K
-   9,K
-   8,J,G
+   9,L
+  18,R,J
+   2,K
+   6,R,Z
    1,R,J
-   8,K
-   1,L,J,G
+   2
+   1,R
+   1,R,K
+   3,R
    1,R,J
+  12,R,U,X
+   9,R,J,G
+  12,R
+   2,R,D,J
    1,J
    1,R,J
    1,J
-   1,R,J
-   1,J
-   2,R,J
-   1,L,J
-   1,K,G
-   2,R,K
-   3,K
    1
   15,U,X
-  15,R,J
-   1,R,K,G
-   3,R,J,G
-   7,R
+  11,U,C
    1,R,J
-   2,R
-   1,R,J
-   6,R
-  11,Z
-  11,R,K
-  14,R,D,X
-   5,R,K
-   6,R,D,X
-   1,R,K,G
-   2,R,K
-   9,R,K,G
-  15,R,D,X
-   5,R,J
-  14,R,D,X
-   1,R,K
-   9,R,U,X
-   2,R,K,G
-   5
-   2,K
-  40
-
-#lvl_a08
-   4,K
-  11
-  10,L,D
-   2
-  26,R,D
+   5,R
+   1
+  11,R,J,G
+ 
+  13,R,D,X
+   1,R,J,G
+   1,J
+   1
+   3,R
+   1
+   4,R
+  24,R,D
+  14,R,X
+   7,R,J,G
+   5,R
    2,R,J
-  32,R
+   3,R
+   4,R,X
+   5,R,J
+   4,R
+  40
+ 
+#lvl_a08
+  12,R,D
+   1
+  14,D
+  61,R,D
+   2,R,J,G
   10,R,Z
    2,R,J
    1,L,K,G
    9,R,K
    5,R
    1,R,J
-   1,R
-   1,R,J
-   4,R
+   6,R
   14,R,Z
    1,R,J
   11,R
@@ -483,7 +494,7 @@ console load StrawberryJam2021/4-Expert/KAERRA
    1,R,J
    7,R
   40
-
+ 
 #lvl_a09
    8,R,J
   15,R,D,X
@@ -535,7 +546,7 @@ console load StrawberryJam2021/4-Expert/KAERRA
    1,R,J
    1,R
   40
-
+ 
 #lvl_end
    6,R
    1,R,J
@@ -547,5 +558,5 @@ console load StrawberryJam2021/4-Expert/KAERRA
   41,D
    1,N
   82
-
-ChapterTime: 1:06.164(3892)
+ 
+ChapterTime: 1:05.093(3829)
