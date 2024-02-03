@@ -1,4 +1,4 @@
-RecordCount: 9017
+RecordCount: 9534
 
 console load StrawberryJam2021/5-Grandmaster/Ecl1psed
    1
@@ -265,22 +265,20 @@ EndRepeat
    3,L,J
    3,L
    3,L,J
-   9,J
-  15,U,X
-   2
-  14,R,J
+   6,J
+  14,U,X
+  18,R,J
   14,R,Z
    9,R,J
    1,R
-   2,R,J
-  13,R
-  20,R,Z
+  19,R,J
+  14,R,Z
   40
 
 #lvl_a-03b
   10,L,D,X
 #spinner cycle
-   0,L,D,X
+   1,L,D,X
 #
    4,R,J
 StunPause
@@ -482,22 +480,20 @@ EndStunPause
   14,R,Z
    1,R,J
   17,R,U,X
-   5,K
-   3,D
-  17,L,D
-   2,D
-   7,L,D
-   1,L
-  13,L,D
+   1,K,G
+   3,L,K
+   4,K
+  26,L,D,X
+   5,D
+   3
    4,Z
    1,R,K
-   1,L,K
-  20,L,D
+  23,L,D
   15,L,X
    1,L
   20,R,D
-   6,L,D
-   1,L
+   5,L,D
+   2,L
    1,L,D
    2,L
   15,R,Z
@@ -641,20 +637,19 @@ EndStunPause
    8,R,J,G
   29,R,D,G
    1,R,J,G
-   1,D
+   1,R,D
   14,L,D,X
    1,R,J
    8,R,D,X
   17,R,G
   26,R,J,G
-   1,R,J
-   1,G
-   1,J,G
-  14,R,D,X
+   2,R,J
+  14,R,Z
    1,R,J
   34,R,U,X,G
-   6,R,J,G
-  16,R,G
+   3,R,J,G
+   5,R,G
+  13,R,J,G
    1,R
   15,L,X
   52
@@ -665,4 +660,4 @@ EndStunPause
   16,U,X
  135
 
-ChapterTime: 1:23.555(4915)
+ChapterTime: 1:23.351(4903)
