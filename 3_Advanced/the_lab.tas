@@ -1,4 +1,4 @@
-RecordCount: 8414
+RecordCount: 8562
 
 console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1
@@ -24,11 +24,12 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    6,L
    8,L,Z
    4,J
-  15
-  11,L,X
+   9
+   6,R
+  12,L,X
    5,L,J
-   2
-  12,L,Z
+   1
+  11,L,Z
    1,R,J
   11,K,G
   11,L,X
@@ -80,7 +81,7 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
 
 #lvl_start-04-Radley (0)
    4,R,J
-   5,R,D
+   5,R
   15,D,X
    9,D
    3,L,D
@@ -262,6 +263,7 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    4,R,Z
    1,R,J
   25,R,D
+
 #key cycle
   15
   10,L,Z
@@ -279,18 +281,18 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1,R,J
   14,R,D,C
   32,R,J
-  25,G
-   1,R,U,G
+  22,G
+   2,D,G
+   2,G
+   1,U,G
    1
    1,R,J,G
    1,R,K,G
    1,R,J,G
    1,R,K,G
   18,R,D,X
-   2,R
-   2,R,D
-  10,R,D,J
-   5,R
+   4,R,D
+  13,R,D,J
    2,K,G
    3,L,K
    1
@@ -306,8 +308,7 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
   15,R,Z
    5
    5,R,J
-   5,R
-   1,R
+   6,R
    1,R,J
   10,R
    1
@@ -762,4 +763,4 @@ EndRepeat
    1,R,K,G
   32,R
 
-ChapterTime: 1:27.686(5158)
+ChapterTime: 1:27.652(5156)
