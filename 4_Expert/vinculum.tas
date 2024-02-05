@@ -1,4 +1,4 @@
-RecordCount: 4957
+RecordCount: 5113
 
 console load StrawberryJam2021/4-Expert/rdoggo8
    1
@@ -527,19 +527,20 @@ console load StrawberryJam2021/4-Expert/rdoggo8
   40
 
 #lvl_a-12
-   3,L,D
-   8,R,D
-  14,R,D,X
-   3,R,J
-   2,R
-  10,R,D,X
-  42,R
-  38,R,U,J,G
+  16,L,D
+  10,L,D,X
+   5,R,J
+   5,R,D,X
+   2,R,J,G
+  12,R
+   5,R,D,J
+  21,R
+  35,R,U,J,G
+   8,G
    1,R
-   4,R,D
   15,D,X
-   6,D
-   4,L,D
+   2,R,D
+   6,L,D
   43,R
   15,R,D,X
   15,R,J
@@ -610,4 +611,4 @@ console load StrawberryJam2021/4-Expert/rdoggo8
    1,L,J
   50,L
 
-ChapterTime: 1:47.695(6335)
+ChapterTime: 1:47.627(6331)
