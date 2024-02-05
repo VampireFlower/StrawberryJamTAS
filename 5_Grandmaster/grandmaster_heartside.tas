@@ -1,4 +1,4 @@
-RecordCount: 41070
+RecordCount: 41078
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -1521,57 +1521,63 @@ Set CelesteTAS.SimplifiedBackdrop true
    9,L,U,X
   36,R
   13,R,Z
-   3,R,J
-   1,R
+   2,R,J
   15,R,D,X
    2,R
-   7,R,J
-  25,R,D,X
-   6,R
-  11,R,D
+   7,R,D,J
   18,R,D,X
-   5,R
+  15,R,D,C
    1,R,D
+  13,R,D
+   8,R
+   4,R
+   5,R
   12,U,Z
-  15,R
-   1,L
+  16,L
   14,U,X
-  17
+  17,R
   27,R,X
-  19
-   8,D,X
-  20
+   8
+  11,R
+   7,D,X
+  15
    6,L
+   1
+   1,L
   15,L,U,X
    7,L
   11,R
   15,R,U,Z
    3
-  51,L
-  22,L,D,X
+  31,L
+  20,L
+  15,L,D,X
+   2,L,D
+   1,L
+   3
+   1,L,D
    9,L,C
-  24,L
-  14,L,U,Z
-  14,L
-  16,L,U,X
-   7
-   8,U,X
-  13
-  20,R
-  11,D
-   1,R,D
-   1,D
-   1,R,D
-  42,L
-# Everest Core fix:
-# For some reason THIS bumper gives a
-# different speed on core, causing a desync
-#Set Player.Speed 151.79552 -235.28305
-  24,L
-  17,U,X
-   8,L
+  25,L
    9,L,U,Z
+  17,L
+  16,L,U,Z
+   6,L
+   9,U,X
   18
+  17,R
+   9
+   1,R
+   1
+   1,R
+  42,L
+  24,L
+  15,U,X
+   2
+   4,L
+   5
+   9,L,U,Z
+   1,R
+  17
   15,R,U,X
   19,R,D
    7,L,D
@@ -1583,7 +1589,8 @@ Set CelesteTAS.SimplifiedBackdrop true
    8,R,X
   21,L
   15,L,U,Z
-  26,R
+   1
+  25,R
    7,U,X
   24,R
   10,U,Z
@@ -2382,7 +2389,7 @@ endrepeat
    5,R
    2
 ##spinner cycle for flag 1
-   1
+   0
 ##
    8,R,Z
    1,R,J
@@ -2699,4 +2706,4 @@ Repeat 34
    2,L,D
 EndRepeat
 
-ChapterTime: 7:08.978(25234)
+ChapterTime: 7:08.825(25225)
