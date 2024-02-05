@@ -1,4 +1,4 @@
-RecordCount: 5268
+RecordCount: 5270
 
 console load StrawberryJam2021/4-Expert/rdoggo8
    1
@@ -540,13 +540,14 @@ console load StrawberryJam2021/4-Expert/rdoggo8
    1,R
    1,R,J
   12,R
-  43,R,U,J,G
+  42,R,U,J,G
+   1,U,J,G
    3,D,G
    1,R
   15,D,X
-   7,L,D
+   6,L,D
+   1,D
 #1f extra for bad bird positioniing
-   1,R
   43,R
   15,R,D,X
 
@@ -619,4 +620,4 @@ console load StrawberryJam2021/4-Expert/rdoggo8
    1,L,J
   50,L
 
-ChapterTime: 1:47.593(6329)
+ChapterTime: 1:47.576(6328)
