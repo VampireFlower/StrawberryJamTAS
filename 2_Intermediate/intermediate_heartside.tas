@@ -1,4 +1,4 @@
-RecordCount: 17653
+RecordCount: 17658
 
 console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1
@@ -841,9 +841,9 @@ EndStunPause
   15,U,X
    1,L,J,G
    1,L,K,G
-   1,L,J,G
-   6,R,J
-  14,R,U,X
+   1,J,G
+   6,J
+  13,R,U,X
   12,L,U,C
    5,R,J
   20,L,X
@@ -1348,7 +1348,7 @@ EndRepeat
   11,R
    1,G
 #spinner cycle
-   1,G
+   2,G
 #
    1,J
    1,L,J
