@@ -1,4 +1,4 @@
-RecordCount: 22026
+RecordCount: 22075
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -779,7 +779,7 @@ EndStunPause
    1,L
    1
   15,R,X
-   1
+   1,J
   14,L,Z
    1,R,J
    6,R,D,X
@@ -812,13 +812,13 @@ EndStunPause
    5
   11,R,Z
    1,L,J
-   3
-   3,L
+   2
+   4,L
    1,R,J
    1,J
    6,L,D,X
    1,R,J,G
-  15,L,J
+  14,L,J
   40
 
 #lvl_heartside_astraxel
@@ -1017,7 +1017,7 @@ EndStunPause
   13,R
   10,R,X
 #spinner cycle
-   2
+   0
 #bad spot but w/e
    8,L,J
   18,U,X
@@ -2050,4 +2050,4 @@ EndStunpause
   12,U,X
  135
 
-ChapterTime: 4:48.558(16974)
+ChapterTime: 4:48.507(16971)
