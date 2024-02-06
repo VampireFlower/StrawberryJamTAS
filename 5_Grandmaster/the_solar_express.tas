@@ -1,33 +1,37 @@
-RecordCount: 18052
+RecordCount: 18507
 
 console load StrawberryJam2021/5-Grandmaster/Soloiini
    1
 
 #Start
 #lvl_All Aboard
-   9,R,J
-  15,R,U,X
-   1,J,G
-   1,K,G
-   1,R,K
-   2,L,K
-   7,K
+  10,R,X
+   7,J
+   1,R,K,G
    1,L,K
-   1,R,J,G
-   8,L,J
+   2,R,K
+   1,K
+   1,R,K
+   1,K
+  15,U,C
+   2,L
+   1
+   5,K
    1,L
    6,R,U,X
-  27,L
-   9,G
+  26,L
+   1
   23,U,G
+   2,D,G
+   1,J,G
+   1,J
+  20,R,K
+  22,R,U,X
+  34,R,D
    1,R
-  24,R,J
-  18,U,X
-  14,R
-  18,R,D
   15,R,X
-   9,R
-  13,R,X
+   8,R
+  10,R,X
    1,R,J,G
    1,J
    3,R,J
@@ -47,7 +51,9 @@ console load StrawberryJam2021/5-Grandmaster/Soloiini
    1,L
    1,J,G
    5
-  20,R,D,J,X
+  15,R,D,J,X
+   1,R,J
+   4,R,D,J
    8,R,J
   52,R,K
   24,R,U,X
@@ -1196,4 +1202,4 @@ EndRepeat
    1,L,J
   55,L
 
-ChapterTime: 2:44.424(9672)
+ChapterTime: 2:44.271(9663)
