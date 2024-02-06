@@ -1,4 +1,4 @@
-RecordCount: 6995
+RecordCount: 7394
 
 console load StrawberryJam2021/5-Grandmaster/maya
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/5-Grandmaster/maya
  190
 
 #Spinner Cycle [Phase]
-   1
+   0
 
 #lvl_Insert Coin
    4,R,Z
@@ -18,33 +18,40 @@ console load StrawberryJam2021/5-Grandmaster/maya
    4,R,J
   13,R,U,Z
    1,R,J,G
-  26,R,D
+   5
+   5,R
+  18,R,D,X
    1,N
    1,S
    1,D,J
   18
 
 #lvl_Tutorial
+
    6,L,Z
    1,R,J
    7
    4,L,J
    1
   15,R,U,X
-   2,R
-  13
-  21,L
+   1,R
+  14
+  18,L
+   2
   14,L,X
   21,R
   15,U,X
-   3,R
-  18,L,U,X
+   2,R
+  19,L,U,X
   42,R
   11
   15,R,U,X
-  20,R
+  19,R
+   1
   15,U,Z
-  10,R
+   8,R
+   1
+   1,R
    6,R,Z
    1,R,J
    7,R
@@ -97,6 +104,8 @@ console load StrawberryJam2021/5-Grandmaster/maya
   40
 
 #lvl_Ready?
+
+
    2,R
    2,R
    2
@@ -106,16 +115,40 @@ console load StrawberryJam2021/5-Grandmaster/maya
   20,R
    2
   12,R,D,X
-  13,R
-   8,R,U,Z
+  14,R
+   7,R,U,X
    6
-  15,D
-   6,L,D
-  18,L,D,X
+  17,D
+  21,L,D,X
   11,R
   15,R,D,X
    4,R,J
   38,R
+
+
+
+
+#   2,R
+#   2,R
+#   2
+#   1,R,J
+#   5,R,U,X
+#   1
+#  20,R
+#   2
+#  12,R,D,X
+#  13,R
+#   8,R,U,Z
+#   6
+#  15,D
+#   6,L,D
+#  18,L,D,X
+#  11,R
+#  15,R,D,X
+#   4,R,J
+#  38,R
+
+
   13
    3,D
   11,L,D,X
@@ -173,11 +206,17 @@ console load StrawberryJam2021/5-Grandmaster/maya
   20,L,U,X
   30,R
 #resync
-  27,D,X
-  50,R,D
-  15,L,D,X
-   6,L,D
-   7,L,X
+  24,D,X
+   1
+   3,R
+   1
+   1,R
+  25,R
+  15,R,D,X
+   1,D
+  18,L,D,C
+   2,D
+   8,L,X
   26,R,D
   16,R,U,Z
   11,R
@@ -307,47 +346,49 @@ console load StrawberryJam2021/5-Grandmaster/maya
   30,L,D
    1,L
    7,L,D
-  42,R
-   3
-  20,L,U,X
   31,R
-  14,R,Z
-   2,R,J
-   1,R
-  15,R,D,X
-   1,R,D
-  12,R,J
-   5,R
-   3,R,J
-   2,R
-   2,R,J
-  10,R
-  14,R,U,X
+   5,L,X
+  29,R
+  15,R,U,X
+  15
+   8,R
+   6,R,D
+  17,R
+  12,R,D,X
    1,R,J,G
-   9,R
-  34,R,J
-  14,R,Z
+   2,R,K,G
+   1,R,J,G
+   1,R,K,G
+   8,R
    1,R,J
-  14,R,D,X
+  16,R,D,X
+   5,R,J
+   5,R
+   2
+   3,J
+   6
+  14,R,U,X
+   1,J,G
+   5
+   3,R
    1,R,J
-  14,R,D,X
-   1,R,J
-  10,R,D,X
-  40
-
-#lvl_Phase
-   1,R,J
-   3,L
+   2,R,D
+  32,R,J
+   6,R,D,X
+   1,R,J,G
   11,R
    1,R,J
    7,R
-   1,R,J
-   2,R
-   8,L
+  14,R,D,X
+  40
+
+#lvl_Phase
+   4,R,J
+   8,R
+   2,R,J
+  11
   15,U,X
-   6,L
-   2
-   9,L
+  16,L
   30,R
 #gain height for bumper position
    5,R,U,X
@@ -625,13 +666,14 @@ EndStunPause
    8,R,D,X
    7,R
   10,R,D,X
-  72,R
+  70,R
    4,R,D
+   2,R
   15,R,U,X
   11,R
-   6,R,Z
+   7,R,Z
    1,R,J
-   7,R
+   6,R
    1,R,J
   14,R,D,X
    1,R,J
@@ -855,4 +897,4 @@ EndStunPause
   19,R,D,X
   54,R,J
 
-ChapterTime: 2:24.670(8510)
+ChapterTime: 2:24.415(8495)
