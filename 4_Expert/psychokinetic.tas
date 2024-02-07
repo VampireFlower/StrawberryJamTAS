@@ -1,4 +1,4 @@
-RecordCount: 4117
+RecordCount: 4163
 
 console load StrawberryJam2021/4-Expert/Cabob
    1
@@ -81,16 +81,13 @@ console load StrawberryJam2021/4-Expert/Cabob
 #   2,R,U,X
 #EndStunPause
 #   4,L,J
-#***
 #  15,R,D,X
 #   1,R
 #   1,K
 #   9,D
-#***
 #StunPause
 #  17,D
 #EndStunPause
-#***
 # 100,D
 
 #lvl_a-01
@@ -128,14 +125,17 @@ EndStunPause
    9,R
    3,R,D
   20,R,U,X
-  20,R,D
-  10,L,D,X
-   3,R,J
+  17,R
+   1
    1,R
-  10,R,J
-   8,R
-  32,R,K
-  10,U,X
+   4,D
+   1,R,D
+   1
+   8,R,Z
+   1,R,J
+  11,R
+  31,R,J
+   9,U,X
   34,R,J
   10,R
   10,R,D
@@ -363,4 +363,4 @@ EndStunPause
    9,R,X
  135,R,D
 
-ChapterTime: 0:35.904(2112)
+ChapterTime: 0:35.751(2103)
