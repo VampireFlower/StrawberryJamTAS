@@ -1,4 +1,4 @@
-RecordCount: 4518
+RecordCount: 4565
 
 console load StrawberryJam2021/4-Expert/Moladan
    1
@@ -270,38 +270,54 @@ EndStunPause
    1,R,J
   16,R,D,X
   18,R,J
-  18,R,U,X
-  39
-   7,L
-   5,L,D
-  17,R,Z
-  32,D
-   5
-   3,R
-   2
-   1,D
+  15,R,U,X
+  38
+   1,R
    1
-  15,R,U,Z
-  37,D
-   3,R,D
-   3,R
-  18,R,D,X
-   3,R
+   9,D
+   1
+   1,L
+   1
+   1,L,D
   15,R,Z
-   2
+   7
+Repeat,3
+   1,L
+   1,R,D
+EndRepeat
+   6
+   1,D
+Repeat,6
+   1,L
+   1,R
+EndRepeat
+   1,D
+  15,R
+  12,R,D
+   1,D
+   1,R
+   2,R
+   1,R,D
+   3,L,D
+   1
+  18,R,D,X
+   2,R
+  15,R,Z
+   2,R
   37,R,J
-   3,R
+   3,R,D
+   1
   15,R,U,X
   25,R
    1,R,J,G
    2,R,J
    4,J
-   8
+   9
    1,J
+   2,R
    1
-   4,R
-   3
    1,R
+   4,R
   13,L,Z
    1,R,J
    6,R
@@ -500,4 +516,4 @@ EndStunPause
   11,R,X
  135,D
 
-ChapterTime: 1:11.502(4206)
+ChapterTime: 1:10.992(4176)
