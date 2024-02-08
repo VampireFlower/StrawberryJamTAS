@@ -1,4 +1,4 @@
-RecordCount: 18929
+RecordCount: 18948
 
 console load StrawberryJam2021/5-Grandmaster/Soloiini
    1
@@ -530,40 +530,108 @@ EndRepeat
   13,R,G
    1,R,J,G
   16,R,G
-   1,R,J,G
-   5,R,G
-   1,R,J,G
-   6,R,G
-   1,R,J
-   7,R,D,X
-   1,R,J
-   6,R
-   1,R,N
-   1,R,J
-  15,R,X
- 599
-   2,R
-   2
-   3,R
-   3
-  11,L,J
-  11,L
-   4,L,J
-   9,L
-   5,L,Z
-   1,R,J
-   1,R,K,G
-  12,R
-  17,R,J
-   3,J
-  15,U,X
-   4
-  18,L,J
-  11,L,K,G
+   6,R,J,G
+  15,R,G
    1,L
-  10,L,J,G
+   2,R
+   1,R,N
+   1,R,K
+Repeat 26
+   1,L,D,J
+   1,R,D,K
+EndRepeat
+  14,R,D,X
+   1,L,J
+   9,L,D,C
+  13,L,G
+   5,L,D
+  11,L,D,J
+   8,L
+   1,R,J,G
+   5,L,J
+  14,R,U,C
+   1,R,J,G
+   2,L,J
+   6,R,J
+   1
+   5,J
+
+   1,J
+   4,R,J
    1,R
+   9,R,K
+  21,R
+  20,R,J
+  15,R,U,X
+  21,R
+  14,R,Z
+   1,L,J
+   7,L,D,X
+  13,G
+  21,L,D,J
+  17,U,X
+  17,L,J
+   9,K
+   4
+   4,J,G
+   2
+   2,L
+   9,L
+  10,R,J
+  15,U,Z
+  11,J,G
+   1,L,J
+  20,R,K,G
+  12,R,J,G
+   5,K,G
+  13,R,K
+  10,R,J,G
+   5,R
+   1,R,J
+   9,R
+  12,R,J
+   4,R,K,G
+   7,R
+   3,K
+   8,R,K
+   2,R
+   6,R,J,G
+   4,R
+   6,R,X
+   1,R,J,G
+   2,J
+  31,R,D
+  15,L,D
+  14,L,Z
+   1,R,J
+  13,R,G
+   8,R,J,G
+   1,L
+  17,L
+   9,R,D,X
+   5,L,J
    6,L
+   2,L,D,J
+   5,L,K,G
+   5,D,X
+   1,R,J
+  13
+   4,R
+  14,L,D,X
+   1,R,J
+   2,R,K,G
+   6,R,D,K,X
+  13,R,K,G
+   5,R,D,K
+   7,R,J
+   6,J
+   1,R,J
+   1,J
+  15,U,X
+  18,L,J
+  11,K,G
+  10,J,G
+   7,L
    3,L,J
   15,U,X
    6,R,J,G
@@ -589,8 +657,8 @@ EndRepeat
    1,R,J
    1,R,K,G
    5,R,J,G
-   9,R,K,G
-   2,R
+   8,R,K,G
+   3,R
   15,U,X
    1,R,J,G
    7,R
@@ -1203,4 +1271,4 @@ EndRepeat
    1,L,J
   55,L
 
-ChapterTime: 2:43.863(9639)
+ChapterTime: 2:43.744(9632)
