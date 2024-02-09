@@ -1,4 +1,4 @@
-RecordCount: 34910
+RecordCount: 35934
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -44,44 +44,47 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
 
 #lvl_a00_intro2
    1
-#6f bhop saves 3f
+#6f bhop saves 1f
    1,S
    1,D,J
   34
-   4,R,Z
+   4,Z
    1,R,J
    7,R
-   9,R,J
-   6,R,D,X
+   5,R,J
+   5,R
+   5,R,D,X
    1,R,J,G
-   2
-  10,R
-   2,R,J
+   1,R
+   1
+   3,R
+   1,R,J
+   6,R
+   2,R,D,J
   15,R,D,X
-   1,D
-   3,R,D
+   4,R
    1,R,J
    1,R,K
    1,R,J
    3,R,K
-   5,R,J,G
+   4,R,J,G
   15,R,D,X
    1,R,J
   40
 
 #lvl_a01_jackal
    2,R,J
-   6,R
-   4,R,J
-   2,R
-   2
-  29,R
-   5
-   5,R,Z
+   9,R
+   2,R,J
+  11,R
+  21,R
+   4
+   6,R,Z
    1,R,J,G
   19,R,K,G
-   8,K
-  27
+   6,K
+  16
+  12
    1,L
    1,R,J,G
    7
@@ -833,10 +836,9 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
   19,D
   21,R,D
   12,R,Z
-#-2f
 ## Spinner cycle [b04_powerav]
    0
-#2/3
+###
   45,R,X
   15,U,C
    1,L
@@ -875,137 +877,151 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    7,U,X
    1,R,J
   18,R,D
-   4,R,Z
-   2,R,J
-   4,R
-   5,R,J
-   5,R,D,K
-   4,R
-  18,U,X
-   8,R,C
-  21,R,G
-   1,D
-  10,U,X
-  21,L,G
-   1
-  27,R
-  15,R,D,X
-  29,R,J
-  15,U,X
-  21,L,G
-   1
-   4,L
-  13,U,X
-  17,R
-  12,R,U,X
-  41,L
-   5,D
-  10,R,D
-   6,R
-  13,R,D,X
+   4,Z
    1,R,J
-   4
-   3,R
-  11,R,J
+   6,R
+   2,R,D,J
    5,R
    2,R,J
-   3,R
-   1,L,K,G
-  11,R,K
-   5
-   1,J
-  15,L,Z
-  21,R,D
-   5,D
-   6,R,D
-   1,D
-  12,R,D
-  15,R,Z
-  23,R
-  15,R,U,Z
-   2,L
-   1,L,J,G
-  10,L
-   1,G
-  12,J,G
-   5,L,K,G
-  14,L,Z
+   2,R
    1,R,J
-   6,R
-   9,R,J
-  18,R,U,Z
-  13
-  10,R,D
+  18,U,X
+   3,L
+  15,R,X
+   6,U,C
+  20,G
+   1,R,G
+   1,L
+  15,R
+  12,R
+  14,R,D,X
+   1,R,J
+   4,R
+   1,R,J
+   2,R
+  25,R,J
+  14,U,X
+  22,L,G
+   4,L
+  13,U,X
+  18,R
+  11,R,U,X
+  45,D
+  14,R,D
    1,D
+  14,R,D,X
+   2,R,J
+   1,R
+   1,R,J
+   1,R
+   2,R,J
+   5,R
+  14,R,J,G
+   1,L,J
+   9,K,G
+   3,R,K
+   1,K
+   1,R,K
+   2,L,J
+  15,L,Z
+  16,R
+   6,R,D
+   5,D
    1,R,D
    1,D
-   3,R,D
-   8,R
-   5,R,D
-   6,L,D
-## Cycle in b03_banana
-   7,D
-StunPause
-   9,D
-   6,R,D
-   3,R
-EndStunPause
-
-   #6,D
-#StunPause
-  #10,D
-   #6,R,D
-   #2,R
-#EndStunPause
-  # 1,R
-#
-   7,R
+  15,R,D
+   2,D
   15,R,Z
-  66,R
-   3,L
+  22,R
+  15,R,U,Z
+  11
+   3,L,G
+   2,R,J
+   3,R
+  15,U,X
+   1
+   6,L,D,X
+   1,R,J
+   1,R
+   3
+   3,R,D,J
+   1,J
+   2,R,J
+  11,R,D,X
+stunpause
+   4,R,D,X
+endstunpause
+   5,R
+stunpause
+   1,L
+   1,J,G
+endstunpause
+   5
+   1,R
+   4
+   1,R
+   8
+   9,R,D
+   1,R
+   2,R,D
+   8,R
+   7
+   1,R
+   1
+  15,R,Z
+  15,D,X
+  10,L
+   1
+   1,L
+   2
+   1,L
+  37,R
+   1,G
+   4,K,G
+   2,L,K
+   1,R,J,G
+   4,L,J
+   6,J
+  12,R,K,G
   12,R,J,G
-   1,K,G
-   3,R,K
-   5,K
-   1,R,K
-   1,L,K
-   1,R,K
-  13,R,J,G
-  12,K,G
-   2,J,G
+   6,K,G
   15,U,X
   22,R,J
   30,L
-  16,U,Z
-  14,L,J
-   5,L
+  15,U,Z
+   4
+  16,L,J
+   1,J
   15,R,U,X
   19,R
-   5,R,Z
+   4,Z
    1,R,J
-   7,R
-   3
-   5,R,D,X
-  26,R,J
-  16,R,U,X
    2
-   7,R
-  16,R,X
+  13,R
+   4,X
+  20,R
+  15,R,U,X
+   3,R
+   6,L
+  15,R,X
    1,R,J,G
-   9,R
+   7,R
+   1
+   1,R
    2,R,J
   12,U,X
    1,J
-   4,L,D
-  14,R,D
-   7,R,Z
+   2,R,D
+   1,L,D
+  15,R,D
+   4,Z
    1,R,J
    6,R
   11,R,J
+   9,R,Z
 
 #lvl_b04.25_poweravi
-   3,R,J
-  10,R,Z
+   6,R,Z
    1,R,J
    7,R
    2,R,J
@@ -3567,4 +3583,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 7:53.926(27878)
+ChapterTime: 7:51.580(27740)
