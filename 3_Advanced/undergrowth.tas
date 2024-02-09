@@ -1,4 +1,4 @@
-RecordCount: 9057
+RecordCount: 9369
 
 console load StrawberryJam2021/3-Advanced/Nic
    1
@@ -375,17 +375,19 @@ EndStunPause
    1,R,J
    1,L,J
    3,J
-  12,R,K
-   1,R,J,G
-  13,R,K,G
-   2,J,G
-   1,L,J
-  14,L,K
-   6,L
-   4,L,Z
-   9,L,J
+   1,K
+   5,J,G
+   6,R,J
+   1,R,K,G
+  12,R,J,G
+  12,L,K
+   5,L
+   2,L,K
+   5,L
+   4,L,X
+   8,L,J,G
 ### 06-b Spinner Cycle
-   1
+   2
 ###
    1,S
    1,D,J
