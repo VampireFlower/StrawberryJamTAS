@@ -1,4 +1,4 @@
-RecordCount: 17658
+RecordCount: 17735
 
 console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1
@@ -609,7 +609,9 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
   22,R,D
    5,R
    2,R,D
-   7,R,Z
+#Spinner cycle here. 0 is 7,R,Z. 1 is 8,R,D,X. 2 is 9,R,D,X.
+   8,R,D,X
+
    1,R,J
    6,R
    1,R,J
@@ -627,50 +629,29 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    9,R,G
   14,R,J,G
   15,U,X
-   1,L,J,G
+   2,L,J,G
    7
    1,G
-  12,L,K,G
-   2,L,J,G
-  10,L
-   1
-  10,L,Z
-   1,R,J
-   4,R
-  21,R,J
-   2
-   2,J
-  37,R,U,Z
-   5,D
-   3,R,G
-   1,R,J,G
-   1,L,J
-   6
-   6,L
-   1
-   6,L,J
-  13,L
-  34,G
-   2,L,D,G
-   9,G
-   2,K,G
-   2,L
-   1,R
+  12,L,J,G
+   4,L,K,G
    5
-   1,R
-   7
-   1,R
-   1
-   1,L,G
-   1
    1,J
-   3,K,G
-  14,R,X
-#Spinner cycle
-   6
-#might need to wait more than 2 frames for drift
-#see this message to know of to fix drift issues :
-#https://discord.com/channels/403698615446536203/1074148152317321316/1138079656348758077
+   1
+   1,L,J
+   6,L
+   5,R,Z
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   1,R
+   1,R,K,G
+  20,R,K
+StunPause
+   2,R,K
+EndStunPause
+  16,R,K
+#Spinner Cycle
+   7
    1,S
    1,D,J
   69,O
@@ -721,12 +702,13 @@ SkipInput,3,1
    2,R
    1,L
    2,J,G
-endstunpause
    2,J,G
-stunpause
    9,J,G
   11,L,K,G
-   4,L,J,G
+EndStunPause
+   2,L,J,G
+StunPause
+   2,L,J,G
 SkipInput,3,1
    8,U,X
 EndStunPause
@@ -1711,4 +1693,4 @@ EndStunPause
    5,R,J
   13,R,U,X
  135
-ChapterTime: 4:14.303(14959)
+ChapterTime: 4:12.076(14828)
