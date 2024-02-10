@@ -1,4 +1,4 @@
-RecordCount: 4510
+RecordCount: 4557
 
 console load StrawberryJam2021/1-Beginner/Quinnigan
    1
@@ -254,26 +254,32 @@ console load StrawberryJam2021/1-Beginner/Quinnigan
   40
 
 #lvl_q07
-   1,R,D,X
+   2,R,D,X
    1,R,J
+   3,R
+   1,R,K
    2,R
-  10,R,D,X
-   2,R,J
+   1
+   1,R,D,J
+   1,J
+   1,R,J
    1,R,K,G
-   5,K
+   1,K
+   2
   10,R,X
    1,J
    5,L,J
   26,L,J,G
-  23,L,X,G
-  80,R,U,J,G
-  17,R,U,X,G
-  25,L,X,G
-   1,L,C,G
-   3,C,G
-   1,R
-  14,R,Z
-  14,D
+  24,L,X,G
+  69,R,U,J,G
+   4,R,D,G
+  21,R,U,X,G
+  21,X,G
+   1,R,C,G
+   1,G
+   3
+  15,R,Z
+  13,D
   48,R,D
   10,R,X
   10,R,J,G
@@ -381,4 +387,4 @@ console load StrawberryJam2021/1-Beginner/Quinnigan
   16,U,X
  135
 
-ChapterTime: 1:09.564(4092)
+ChapterTime: 1:09.428(4084)
