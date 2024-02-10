@@ -1,4 +1,4 @@
-RecordCount: 37513
+RecordCount: 38589
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -128,32 +128,6 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
   40
 
 #lvl_a02_skunkynator
-#   5,R,J
-#   5,R
-#  40,R,X
-#   4,R,J
-#   7,R,Z
-#   7,R,J
-#  11,R
-#  38,R,D,X
-#  10,R,D
-#  18,R,X
-#  19
-#  14,G
-#   1,L,J
-#   9,L
-#   4,R,X
-#   6,R,D,X
-#   4,R,J
-#  12,R,K
-#   4,R
-#   3
-#   1,R
-#  12,J
-#   9,R,J
-#  15,U,X
-#   4,L
-# 200,R,K
    1,R,J
    9,R
   40,R,Z
@@ -177,14 +151,19 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    7,U,G
   32,R,X
    4,L,G
-   1,J,G
-   8,R,J
-   7,R
+   4,J,G
+   2,L,J
+   2,L
+  14,R,U,X
+   2,R,J
+   1,R
+   1
   14,U,X
-   8,R
-  26,U,X
+   3,R
+   1
+  24,U,X
   10,R
-  28,R,Z
+  27,R,Z
    4,R,J
    1,K
    3,R,K
@@ -217,21 +196,27 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    4,R,J
    2,R,K
   15,R,D,X
-  14,R,D
+   7,R,D
+   7,R
   26,R,X
    4,R,J
-   7,R,Z
+   4,R,Z
+  11,R,J
+  43,R,Z
    6,R,J
+   1,R,K
    2,R
-   2,R,J
+   1
    1,R
-  39,R,Z
+  10,R,X
    4,R,J
-  19,R,K
+   1,R,K
+   3,R
   15,R,D,X
-   7,R
-   2,R,J
-   2,R
+   4,R,D
+   5
+   2,J
+   2
    7,L
    1,L,J
    6,L
@@ -241,7 +226,6 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    7,R
    1,R,J
   40,J
-
 #lvl_a03_pansear
    3,R,J
    1,J
@@ -446,33 +430,29 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
 
 #lvl_a05_flamecrafter
    7,J
-   2,R,J
-   1,J
-   4,R,J
-   7,R
+  14,R,J
   17,U,X
-  14,L,J
-  12,L,X
-   6,R,J
+  10,J
+   4,L,J
+  15,L,X
+   3,R,J
   15,R,D,X
-   9,D,C
-  23,R,J
-  18,R,U,X
-  10,R,D,C
-  14,L,J
-   4,X
-  14,L,J
-   1,L
-  11,L,J
-   8,L
-   1,L,J
+   1,R,J
+   9,D,X
+  15,R,J
+   5,J
+  14,R,U,X
+  17,J
+   9,R,X
+  34,L,J
+   1,L,K
    9,D,X
   22,J
   15,U,X
   10,R,J
-   6,J
+   5,J
    1,R,J
-   6,J
+   7,J
   15,R,X
   15,R,C
   14,R,D
@@ -514,7 +494,6 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    9,D,X
   13,R,J
   48,R,X
-#loses 1f on purpose for drift
    8,R,J
   30,R,K
   68,R
@@ -845,7 +824,7 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
   21,R,D
   12,R,Z
 ## Spinner cycle [b04_powerav]
-   1
+   0
 ###
   45,R,X
   15,U,C
@@ -1058,55 +1037,74 @@ endstunpause
    9,R,D,X
    2,R,K,G
   12,R
-  12,R,J
-  15,R,U,X
-  20,R
-  15,R,D,X
-  15,R
-  18,R,J
-  12,R,X
-  39,R,J
-  18,R,X
-  16,L,U,C
-  15,R,U,X
-  14,L
-   7,D,X
-  58,L
-  13,L,J
-  15,L,U,X
-  15,U,C
-  14,R
-  34,L
-  18,L,U,X
-   9,K,G
+  17,R,J
    1,J
-   3,K,G
-  19,R,J
-  27,R
-  52,R,J
-   5,R,K
-  11,K
-   1,L,K
+   1,R,J
+   7,J
+  15,U,Z
+   1
+  23,R
   15,U,X
-   1,L
-  11,L,X
-  23,L,J
-  18,U,X
-  11,R,Z
-  66,R,J
-  22,R,U,X
-  18,R,U,C
+   8,L
+   6,J,G
+   1
+   1,J,G
+   5
+   2,L
+   9,R,Z
+   2,R,J
   18,R
-  15,D,X
-  20,R
-  15,R,D,X
+   3
+   1,R
+   2,D,J
+   5,R,J
+   5,R
+   4,R,J
+   2,R
+   1
+   4,D,J
+   1,R,J
+   1,J
+  15,L,X
+  16,L
+  18,L
+  15,L,U,X
+   3,L
+  15,U,X
+   8,R
+  35,L
+  18,U,X
+   3,L
+  32,R
+  31,R,J
+  15,R,U,Z
+   7,R
+  15,L,U,X
+  14,L
+   5
+  13,L
+  10,U,Z
+  18
+  15,R,X
+  18,R,U,C
+   1
+   4,R
+  50,R
+  15,R,U,X
   11,R
-  28,R,J
+  15,R,U,X
+   1,R
+  21,R
+  15,D,X
+   2,R
+  17,R
+  15,R,D,X
+  10,R,D
+  25,R,J
   15,R,X
   15,L,C
   46
-   6,D
-   1
+   7,D
   31,R
   46,R,G
    7,R,D,G
@@ -1136,29 +1134,29 @@ endstunpause
    5,L,J
   15,L,C
   28,R
-  42,R,J,G
+  42,R,G
    1,D
    8,U,X
   21,R,G
    7,G
    1,R
   17,D
-  11,R,D
+  12,R,D
   18,R,X
   14,R,C
-  25,R,J,G
-  14,G
-  21,R,G
-   2,G
-   1
-  19,U,X
+  26,R,J,G
+  13,G
+  23,R,G
+   1,R
+  18,U,X
+   3,R
   13,L,U,C
   46,R
   20,R,X
    2,R,J
    8,R,K,G
    1,R,J,G
-   2,R
+   1,R
   14,R,Z
    1,R,J
    9,R,D,X
@@ -1788,6 +1786,8 @@ Endstunpause
    7,R
 ## Lightning cycle [d02_lethargicdoggo]
    1
+## Lightning Drift [d02_lethargicdoggo] 
+  27
 ##
    4,X
   16,R,J
@@ -3624,4 +3624,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 7:50.662(27686)
+ChapterTime: 7:49.642(27626)
