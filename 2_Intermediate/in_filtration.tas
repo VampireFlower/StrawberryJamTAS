@@ -1,4 +1,4 @@
-RecordCount: 9581
+RecordCount: 9593
 
 console load StrawberryJam2021/2-Intermediate/Jems
    1
@@ -1057,25 +1057,28 @@ EndRepeat
   22,L,D
   18,R
   20,L,D
-   3,D
-   1,L
-   2
-   5,R
+   5
    2,R,D,J
+   4,R
    1,R,K,G
-   6,R,J,G
-   5,R
+   1,R,J,G
+   2,R
    1,R,J
-   3,R
-   6,R,D,J
+   1,R,K
+   1,R,J
+   5,R
+   4,R,D,J
   40
 
 #lvl_gg
+   1,R,D,J
+   5,R
+   1,R,J
+   2,L,J
+   3,K,G
+   8
    1,R
-  12,R,J
-   1,R,K
-   5,R,J
-  19,R
+   8
   15,R,X
   24,R
   32,R,C
@@ -1090,4 +1093,4 @@ EndRepeat
   17,L,D,J
   14,L,K,G
 
-ChapterTime: 2:18.839(8167)
+ChapterTime: 2:18.550(8150)
