@@ -1,4 +1,4 @@
-RecordCount: 5175
+RecordCount: 5339
 
 console load StrawberryJam2021/2-Intermediate/GlowWoomii
    1
@@ -93,65 +93,50 @@ EndStunPause
    1,R,K,G
   11,R
   11,R,J
-## -0f: Get a bit more speed (needs resync)
-#  10,R,G
-#   8,R
-#  11,R,U,X
-#   6,R,J,G
-#   2,J
-#  40
-#   1,J
-#   3,R
-#   8,R,D,X
-#   2,R,J,G
-#   5,R
-#   1,R,K
-#   4,R
-#   1,R,J
-#   1,R
-#  47,R,G
-##
-   7,R,G
-   3,R
-   2,R,J
-   5,R
-  12,R,U,X
-   8,R,J,G
+  10,R,G
+   8,R
+  11,R,U,X
+   6,R,J,G
+   2,J
   40
 
 #lvl_rhub (0)
    1,J
-   1
-   2,R
+   3,R
    8,R,D,X
    2,R,J,G
    5,R
-   2,R,J
+   1,R,K
    4,R
-   1,R,J
-  47,R,G
-# We lock the camera with this zipper because some conditions (and jank) apply:
-# 1. Be on the zipper without jumping
-# 2. 8f after touching it your X speed has to be between -90 and 90
-# 3. Grab the side of the zipper within 8f
-   2,R,J,G
-  15,U,X
-  11,R,J,G
+  25,R,J
    5,R
-   6,L
-   4,R
+  14,R,U,X
+   1,L,J,G
+  10,R,J
+# We keep the camera target with this zipper because some conditions (and jank) apply:
+# 1. Activate the zipper while having negative Y speed
+# 2. Be on the zipper without jumping
+# 3. 8f after touching it your X speed has to be between -90 and 90
+# 4. Grab the side of the zipper within another 8f
+   2,R
+   1,L
+   3,R
+   1,L,K
+   2,L
    1
-  14,G
+   1,L
+   2
+  17,R,G
    3,U,G
-   9,J,G
+  11,J,G
   15,U,X
-   4,L
-   7,L,J,G
+   5,L
+   2,L,J,G
    7,L
   12,L,J
    5,J
   15,U,X
-   5
+   6
    9,J,G
    7,L
 # We keep the lock here since not all conditions from above apply:
@@ -161,7 +146,7 @@ EndStunPause
    1,L,J
    9,J
   15,U,X
-   5,R
+   4,R
    7,L,J,G
    7,L
   13,L,Z
@@ -377,4 +362,4 @@ EndRepeat
    1,L,J
   48
 
-ChapterTime: 0:40.239(2367)
+ChapterTime: 0:39.831(2343)
