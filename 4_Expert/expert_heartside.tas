@@ -1,4 +1,4 @@
-RecordCount: 38618
+RecordCount: 38620
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -2595,16 +2595,17 @@ EndStunPause
 
 #lvl_e05_itsabrody
    7,L
-   3
-   1,L
-   1
+   2
+   2,L
   18,U,X
-   4,L
-  10,L,J
-  10,L,X
-   8,R,J
+   2,L
+  11,L,J
+  11,L,X
+   9,R,J
    5,R
-   5,R,J
+   1,R,K
+   2,R
+   1,R,K
    9,R
   14,R,Z
    1,R,J
@@ -2764,21 +2765,20 @@ EndStunPause
    4,J
    1,K,G
    7,R
-  13,R,Z
+   4,R,Z
    1,R,J
    7,R
-   1,R,J
+   3,R,J
   14,R,D,X
-   6,R,J
-  10,R
-  14,R,Z
+   1,R,J
+   9,R,D,X
+  12,R,J
+  13,R
    1,R,J
   15,R,D,X
-  15,L
+   5,R
 # Distance might be bottleneck here not sure how cutscene works
-   6,U
-   1,R,U
- 167,U
+ 185,U
    3,R
    1
    1,R
@@ -3626,4 +3626,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 7:49.472(27616)
+ChapterTime: 7:49.438(27614)
