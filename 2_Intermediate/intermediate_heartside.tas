@@ -1,4 +1,4 @@
-RecordCount: 17735
+RecordCount: 18222
 
 console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1
@@ -7,31 +7,33 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
  190
 
 #lvl_cp1-0-Intro
-  13,R,D,X
+   4,R,Z
    1,R,J
-   1,R
-  14,R,D,X
+   7,R
+   6,R,J
+  10,R,D,X
    1,R,J
    4,R
    1,R,K
    2,R
-   6,R,J
-   4,R
-  13,R,K,G
+   7,R,J
+   2,R
+  12,R,J,G
   15,U,X
-  12,R,J
-   6,J
-   1,K
+  15,R,J
+   3,J
+   5,K
    3,L,K
-   5,R,K
-   1,J,G
-   6,R,J
+   2,L,K
+   7,R,J,G
    7,R
    4,R,Z
    2,R,J
    3,R
-   2,R,J
-   4,R
+   1,R,J
+   1,R
+   1,R,J
+   3,R
    5,R,D,X
    1,R,J
    6,R
@@ -51,23 +53,32 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
   40
 
 #lvl_cp1-1-liero
-   2,R,D,X
-   6,J
-   1,R,J
-   1,K,G
-   4,R,K
-   1,K
-   1,R,K
-   2,L,K
-  15,R,U,X
+## -3f, but too far right
+#   2,R,D,X
+#   6,J
+#   1,R,J
+#   1,K,G
+#   4,R,K
+#   1,K
+#   1,R,K
+#   2,L,K
+#  15,R,U,X
+#  10,L,Z
+##
+   1,R,D,X
+   8,R,J
+   1,R,K,G
+   5,R
+   4,K
+   2
+  15,U,X
   10,L,Z
-   2,R,J
-   2,R
-   5,R,J
-  10,R
-  19,R,X
-  10,U,C
-  50,R,J
+  15,R,J
+  15,R,D,X
+   1,R
+  14,R,U,C
+   1,L,J,G
+  33,R,J
   15,R,C
    1,R
    4
@@ -199,7 +210,8 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    6,R
   15,R,U,X
    5,R
-  12,U,Z
+   7,U,Z
+   5,U,Z
   23,R,J
   15,R,X
   27,R
@@ -437,21 +449,24 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1,R,K,G
    3,K
    3,R,K
-  15,R,X
-   5,R
+   8,R,X
+  12,R
   15,R,D,C
+  10,R,D,X
+  14,R
   15,R,D,X
-   9,R
-  15,R,D,X
+
    2,R,D
-   8,R,J
-   7,R
-   5,R,Z
+   7,R,J
+   6,R
+   2
+   5,R,U,Z
   43
 
 #lvl_cp2-1-SpoopySoup
-  13,R,Z
-  11,R,U,C
+  11,R,U,Z
+   1,L,J,G
+   7,R
   13,R,X
   14,R,D,C
   80,R,U,X
@@ -505,9 +520,8 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
   12,R,Z
    1,R,J
   15,R,D
-#+2f
 #spinner cycle
-   2
+   1
 #
   27,R,X
   40
@@ -568,6 +582,7 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
   11,R
   15,R,Z
    3,R
+
    5,R,Z
    6,R,J
    1,R
@@ -609,9 +624,14 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
   22,R,D
    5,R
    2,R,D
-#Spinner cycle here. 0 is 7,R,Z. 1 is 8,R,D,X. 2 is 9,R,D,X.
+##Spinner cycle
+##+0f
+#   7,R,Z
+##+1f
    8,R,D,X
-
+##+2f
+#   9,R,D,X
+##
    1,R,J
    6,R
    1,R,J
@@ -651,7 +671,10 @@ StunPause
 EndStunPause
   16,R,K
 #Spinner Cycle
-   7
+   1
+#Wait for drift
+   6
+#
    1,S
    1,D,J
   69,O
@@ -705,12 +728,12 @@ SkipInput,3,1
    2,J,G
    9,J,G
   11,L,K,G
+   2,L,J,G
+   2,L,J,G
 EndStunPause
-   2,L,J,G
+   5,U,X
 StunPause
-   2,L,J,G
-SkipInput,3,1
-   8,U,X
+   3,U,X
 EndStunPause
    6,U,X
   23,L,G
@@ -1693,4 +1716,5 @@ EndStunPause
    5,R,J
   13,R,U,X
  135
-ChapterTime: 4:12.076(14828)
+
+ChapterTime: 4:11.668(14804)
