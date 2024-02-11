@@ -1,4 +1,4 @@
-RecordCount: 10820
+RecordCount: 11011
 
 console load StrawberryJam2021/4-Expert/Vina
    1
@@ -193,17 +193,24 @@ console load StrawberryJam2021/4-Expert/Vina
   10,L,J
   15,J
   11,L
-  19,L,D,X
-  32,L,J
-  15,L,U,X
-   2,L
-  30
+  18,L,D,X
+   1,D
+   1,L,J
+  16,L
+   2,L,K,G
+  26,L,J,G
+   1
+  15,U,X
+  16
+   1,J
+   7,R,J
   18,U,X
-  15,R,U,C
-  76,R
-  15,R,X
-   3,R
-   4,R,Z
+   1,R
+  15,R,C
+  30,R
+  33,R
+   1,R,D
+  14,R,Z
    1,R,J
    5,R,K,G
   10,R,J,G
@@ -558,44 +565,45 @@ endrepeat
    4,G
    8,R,G
    1,R
-  15,R,X
+  17,R,X
   14,R,U,C
-  24,R,G
-   1,R
-   5,R,U,X
   28,R,G
    1,R
-  20,L,D,X
-  14,R,C
-  31,R,G
+  13,R,U,Z
+  40,R,G
+   4,R,D,G
    1,R
-   7
+  14,R,X
+   1,R,J,G
+   5,R
+   6
+  14,L,D,X
+   1,R,K
    6,R,D,X
-   1,R,J
-   7,R
-   1,R,J
-   6,R,D,X
-  13,G
-   8,R,J,G
-   1,L
-   7,R,D,X
+  13,R,G
+   3,R,J,G
+   5,R,J,G
+   1,L,J
+   5,R,J
+   9,R,D,X
    1,R,J,G
    1,R,K
    1,R
   40
 
 #lvl_Vina-09
-   5,R
-   2
-   1,R,D,J
+   8,R
+   1,R,J
    5,R,U,X
-  25,R,J,G
+  19,R,J,G
+   1,J,G
+   5,R,J,G
    1,L
-  15,R,U,Z
+  16,R,U,Z
   15,U,X
-   3
+   2,R
   54,R
-  15,R,U,X
+  16,R,U,X
   29,R,C
   26,R
   22,R,Z
@@ -612,15 +620,13 @@ endrepeat
   65,L,U,Z
   41,L,U,V
   15,U,X
-  15,L,U,C
-   6,L,U,X
+  16,L,U,C
+   5,U,X
   32,R
   15,R,U,X
-   1,K,G
-   1,J,G
-   1,L,K
-   1,K
-  38,R,J
+   2,K,G
+   2,L,K
+  38,R,K
   12,U,X
   11,R,J
   11,R
@@ -686,4 +692,4 @@ repeat 7
    2,R,D
 endrepeat
 
-ChapterTime: 1:51.248(6544)
+ChapterTime: 1:50.993(6529)
