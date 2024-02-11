@@ -1,4 +1,4 @@
-RecordCount: 5155
+RecordCount: 5171
 
 console load StrawberryJam2021/2-Intermediate/GlowWoomii
    1
@@ -61,7 +61,7 @@ EndStunPause
    7,R,U,Z
   14,R,D,X
    1,R,J
-  16,R,D,X
+  16,R,D,K,X
    5,R,J
    1,J
   16,R,J
@@ -72,9 +72,14 @@ EndStunPause
    9,R,J
    9,R
   13,R,Z
-  30,R,G
-  16,R
-  12,U,X
+   7,R,G
+   1,R,J,G
+   1,R,J
+  21,R,G
+   3,R
+   1,R,K
+  11,R
+  11,U,X
   17,R,J
   17,U,X
   40
@@ -88,6 +93,24 @@ EndStunPause
    1,R,K,G
   11,R
   11,R,J
+## -0f: Get a bit more speed (needs resync)
+#  10,R,G
+#   8,R
+#  11,R,U,X
+#   6,R,J,G
+#   2,J
+#  40
+#   1,J
+#   3,R
+#   8,R,D,X
+#   2,R,J,G
+#   5,R
+#   1,R,K
+#   4,R
+#   1,R,J
+#   1,R
+#  47,R,G
+##
    7,R,G
    3,R
    2,R,J
@@ -215,7 +238,8 @@ EndRepeat
 #lvl_r9
    1,L,J
    8,L
-   2,L,J
+   1,L,J
+   1,L
   10,L,X
   11,L,J
   15,U,Z
@@ -227,6 +251,7 @@ EndRepeat
    3,R
   11,R,J
    1,R
+
    5,R,Z
    1,R,J
    6,R
@@ -326,32 +351,36 @@ EndRepeat
   15,U,X
    6,L
    4,R
-  11,R,J
+   9,R,J
+   1,R,J
+   1,R,J
 Repeat 3
    7,R,G
    1,R,J,G
    1,R
 EndRepeat
-   7,R,G
-  21,R,J,G
+   8,R,G
+  20,R,J,G
    7,R,G
    1,R,J,G
    1,R
-  12,R,G
+  11,R,G
    1,R
   11,R,U,X
    5,R,J,G
   40
 
 #lvl_endroom
-   7,R,U,X
+   6,R,U,X
    3,R,J,G
-  19,R
+   5,R
+   1,R,K
+  13,R
    1,R,J
-  14,R,U,C
+  14,R,U,X
   80,R,D
    1,L,Z
    1,L,J
   53
 
-ChapterTime: 0:40.358(2374)
+ChapterTime: 0:40.239(2367)
