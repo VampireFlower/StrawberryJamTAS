@@ -1,4 +1,4 @@
-RecordCount: 38683
+RecordCount: 39191
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -262,6 +262,7 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    7,R
    1,R,J
   40,J
+
 #lvl_a03_pansear
    3,R,J
    1,J
@@ -497,30 +498,59 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
   21,R,J
   32,R,X
   10,R,C
-   8,R,J
-  13,R
-   4
-  10,R,X
-   3,R,J
-   3,J
-   2,R,J
-#need speed between 331 and 334
-#might be able to save a frame
-  14,R,Z
-   1,R,J
+
+## old strat +8f
+#   8,R,J
+#  13,R
+#   4
+#  10,R,X
+#   3,R,J
+#   3,J
+#   2,R,J
+##need speed between 331 and 334
+##might be able to save a frame
+#  14,R,Z
+#   1,R,J
 #please find something better here
-  12,R
-   2
-  10,R,D
+#  12,R
+#   2
+#  10,R,D
+#   1,R,J
+#  10,D,X
+#   1,R,J
+#  16,R
+#   1,R,J
+#   7,R
+#  41,R,X
+#   9,L,D
+#   7,D
+#  47,D,X
+##
+
+   7,R,J
+   6,R
+   1,R,J
+   5,R
+   3
+   2,R
+  20,R,Z
+   4,R,J
+   5,R
+   3,R,J
+   3,R,D
+   4
+   1,R,D
+  12,R,Z
+   6,R,J
+  19,R,D,X
    1,R,J
   10,D,X
-   1,R,J
-  16,R
-   1,R,J
-   7,R
-  41,R,X
-   9,L,D
-   7,D
+  12,R,J
+  15,R,Z
+  21,R,D,X
+   3
+  11,D
+   5,R
   47,D,X
   37,R,U,Z
    2,R
@@ -869,7 +899,7 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
   21,R,D
   12,R,Z
 ## Spinner cycle [b04_powerav]
-   0
+   2
 ###
   45,R,X
   15,U,C
@@ -924,8 +954,7 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
   20,G
    1,R,G
    1,L
-  15,R
-  12,R
+  27,R
   14,R,D,X
    1,R,J
    4,R
@@ -1090,6 +1119,8 @@ endstunpause
   15,U,Z
    1
   23,R
+
+
   15,U,X
    8,L
    6,J,G
@@ -1112,8 +1143,7 @@ endstunpause
    1,R,J
    1,J
   15,L,X
-  16,L
-  18,L
+  34,L
   15,L,U,X
    3,L
   15,U,X
@@ -1134,16 +1164,13 @@ endstunpause
   15,R,X
   18,R,U,C
    1
-   4,R
-  50,R
+  54,R
   15,R,U,X
   11,R
   15,R,U,X
-   1,R
-  21,R
+  22,R
   15,D,X
-   2,R
-  17,R
+  19,R
   15,R,D,X
   10,R,D
   25,R,J
@@ -3668,4 +3695,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 7:49.285(27605)
+ChapterTime: 7:49.183(27599)
