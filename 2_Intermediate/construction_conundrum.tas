@@ -1,4 +1,4 @@
-RecordCount: 9783
+RecordCount: 9864
 
 console load StrawberryJam2021/2-Intermediate/thebreadstick1
    1
@@ -435,53 +435,36 @@ EndRepeat
    1,J
   17,R,J
    4,R
-  15,U,X
+  15,U,Z
    8,R
-   1,R,J,G
-   6,R,K,G
-  22,R
-   4,R,D
-   4,R,Z
-   7,R,J
-   1,R
-   3,R,J
-  10,R,Z
-   9,R,J
-  15,R,U,C
-  14,U,X
-  19,R,J
-  13,R,K,G
-  13,R,J,G
-  12,R,K,G
-   1,J
-   2,K,G
-   6,L,K,G
-   4,R,K,G
-   1,R,J,G
+   7,R,J,G
+   5,R
    1,R,J
-   1,L,J
-   1,R,J
-   1,L,J
-   1,R,J
-   1,L,J
-   1,R,J
-   1,L,J
-   1,R,J
-   1,L,J
-   1,R,J
-  12,K
-   7,J
-  15,D,X
-  22,D
-  10,L,D
-  11,L,D,X
-   1,L,J
-   7,L
-  11,L,J
-   1,K,G
-   8,L,K
-   1,R,K
-  10,U,X
+   5,R
+  12,R
+   3,R,D
+   2,R
+   2,R,D
+   9,R,G
+   3,K,G
+   6,R
+   1,L
+   3,L,D,J
+StunPause
+   7,L,D,J
+SkipInput 3 1
+  15,U,X
+   1
+SkipInput 3 1
+   8,R,U,Z
+ENdStunPause
+  15,R
+   2,J,G
+   3,R
+   3
+   1,L
+   3,L,J
+  12,U,X
   18,R,J
    6,R,K,G
   16,R,J,G
@@ -498,9 +481,7 @@ EndRepeat
    1,L
   15,L,Z
    1,J
-  13
-#+1f powerbox cycle
-   1
+   8
    1,X
    4,D,X
   12
@@ -758,4 +739,4 @@ EndStunPause
   37,R
   61,R,J
 
-ChapterTime: 1:28.961(5233)
+ChapterTime: 1:28.791(5223)
