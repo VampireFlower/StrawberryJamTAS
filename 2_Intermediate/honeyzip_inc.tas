@@ -1,4 +1,4 @@
-RecordCount: 5429
+RecordCount: 5562
 
 console load StrawberryJam2021/2-Intermediate/GlowWoomii
    1
@@ -62,19 +62,21 @@ EndStunPause
   14,R,D,X
    1,R,J
   16,R,D,K,X
-   5,R,J
-   1,J
-  16,R,J
-   3,R,K,G
-   6,R,D,X
-   1,R,J
-   7,R
-   9,R,J
-   9,R
-  13,R,Z
-   7,R,G
+  17,R,J
+   9,R,X
    1,R,J,G
-   1,R,J
+   5,R
+   4,R,K
+   5,R
+   6,R,J
+   5,R
+   4,R,J
+   1,R
+   1,R,J,G
+   1,R
+   1
+   1,R
+   7,R,Z
   21,R,G
    3,R
    1,R,K
@@ -139,11 +141,9 @@ EndStunPause
    6
    9,J,G
    7,L
-# We lock the camera with this zipper because some conditions (and jank) apply:
-# 1. Be on the zipper for 2 frames without jumping
-# 2. Do something for 8 frames
-# 3. Grab the side of the zipper for at least 2 frames
-# there's at least 1 frame in there where we have to be between -90 and 90 X speed or this won't work, but I'm not sure about the frame
+# We keep the lock here since not all conditions from above apply:
+# 1. Be on the zipper without jumping
+# 2. 8f after touching it we have 260 X speed
   10,L,X
    1,L,J
    9,J
@@ -352,4 +352,4 @@ EndRepeat
    1,L,J
   48
 
-ChapterTime: 0:39.814(2342)
+ChapterTime: 0:39.627(2331)
