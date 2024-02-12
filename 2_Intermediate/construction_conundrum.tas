@@ -1,4 +1,4 @@
-RecordCount: 9540
+RecordCount: 9699
 
 console load StrawberryJam2021/2-Intermediate/thebreadstick1
    1
@@ -598,9 +598,9 @@ EndRepeat
 
 #lvl_a-010
    2,D
-#lightning cycle
-   1,L,G
-#
+##Lightning cycle
+   2,L,G
+##
   12,L,D,X
    1,L,J
    4,L
@@ -614,10 +614,10 @@ EndRepeat
    7,R
    2
    2,L,J,G
-repeat 3
+Repeat,3
    1,R,J
    1,J
-endrepeat
+EndRepeat
   10,K
    5,R,K
    4
@@ -632,33 +632,36 @@ endrepeat
    5,R,J
    5,R
    1,R,J
-   2,R,K
-   5,R
-  13,R,D,X
-stunpause
-  40,R,D
-endstunpause
-   2,L
-   1
+  11,R,K
+   1,R
+  15,R,D,X
+   1,D
+StunPause
+  38,R,D
+EndStunPause
+   5,D
+  14,D
+   4
    1,L
-   1
-  19,D
-   3,L
-  16,L,D
+   1,D
+  19,L,D
    1,L
-  31,L,D
-   7,L
+  27,L,D
+  12,L
   15,L,X
   16,L
-  15,L,D,C
-  22,L
-   3,J
-  21,L,U,X
-  20,U,C
-   7,R
+  15,L,D,X
+  19,L
+   2,L,D
+   4,J
+  20,L,U,X
+   1
+  19,U,C
+   6,R
+   2
   15,R,D,X
   15,D,C
-   3,D
+   4,D
   40
 
 #lvl_a-012
@@ -755,4 +758,4 @@ endstunpause
   37,R
   61,R,J
 
-ChapterTime: 1:29.284(5252)
+ChapterTime: 1:29.267(5251)
