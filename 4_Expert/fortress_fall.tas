@@ -1,4 +1,4 @@
-RecordCount: 5610
+RecordCount: 5683
 
 console load StrawberryJam2021/4-Expert/Aspar
    1
@@ -127,7 +127,7 @@ endrepeat
    1
   12,R,J,G
    7,R
-   7,R,Z
+   6,R,Z
    1,R,J
    7,R
    1,R,J
@@ -311,7 +311,7 @@ EndRepeat
    1,L,D
    6,D
 #spinner cycle
-   0
+   1
 #
    1,D,N
    1,J
@@ -500,3 +500,5 @@ EndStunPause
  135
 
 ChapterTime: 1:12.386(4258)
+
+#ChapterTime: 1:12.386(4258)
