@@ -1,4 +1,4 @@
-RecordCount: 10124
+RecordCount: 10466
 
 console load StrawberryJam2021/3-Advanced/Nic
    1
@@ -29,7 +29,6 @@ console load StrawberryJam2021/3-Advanced/Nic
    1,L,J
    7,L
   27,L,J
-
    1,K,G
    1,R,K
    1,L,K
@@ -118,42 +117,21 @@ EndStunPause
    1,J
    2,K,G
   19,L,K
-## Frame-ties
-#   6,J,G
-#   1,K
-#   1,J
-#  16,L,J
-#   3,L
-#   1,L,K
-#   8,K,G
-#   1,J
-#   2,K,G
-#  14,R,K
-#  12,J,G
-#  12,K
-#  10
-#  25,D
-#  18,L,D
-#   3,L
-#   1,G
-##
-   4,J,G
-   1
+   5,J,G
    1,R
-   1,L
+   1,J
    1,L,K,G
    4,R,K
   15,L,K
-   8,J,G
-   1,K
-   2,J,G
-  14,R,J
-  12,K,G
+   7,J,G
+   1,R,J
+   1,R,K
+  16,R,J
+  10,K,G
+   2
   12,J
-   5
-   2,J
-   4
-  25,D
+  21
+  14,D
   18,L,D
    3,L
    1,G
@@ -344,29 +322,28 @@ EndStunPause
    2,K
    4,R,K
    1,K
+  16,U,X
+  33,R,J
   15,U,X
-  34,R,J
-  15,U,X
-   4,R
-   9,R,J
-   6,L,J
-   3,R,J
-   1,K,G
-   7,J,G
-   1,R,J
-   1,L,J
-   3,J
+   2,R
+  10,R,J
+   3,L,J
+   3,L
+   5,R,J,G
+   4,K
+   1,L,J,G
+   4,J
+   1,J
+   1,J
    1,K
-   5,J,G
-   6,R,J
+   8,J,G
+   5,R,J
    1,R,K,G
-  12,R,J,G
-  12,L,K
-   5,L
-   2,L,K
-   5,L
+  10,R,J,G
+  24,L,K
    4,L,X
-   8,L,J
+   3,L,J
+   5,L,K,G
 ### 06-b Spinner Cycle
    0
 ###
@@ -560,28 +537,34 @@ EndStunPause
    1,J
    3,R,J
    1,R,K,G
-  10,R,J,G
-  15,R
-  15,U,X
-   4,R
-   4,L,J
-  11,J
-   3,K
-   1,R,K
-   1,R,J,G
-   1,L,J
-  11,L,K
   12,R,J,G
+  14,R
+  15,U,X
+   1,R
+  10,L,J
+   8,R,J
+   2,R,K,G
+   1,J
+   1,K
+   9,L,K
+  11,R,J,G
+   1,J
    1,K
    2,J,G
   10,L,J
-   5,K,G
+   3,K,G
    1,R,K
-  11,L,J,G
+   1,L,J,G
+   1,R,J
+  10,L,J
    1,K
    2,J,G
   10,R,J
-  24,R
+   9,R
+   1,R,J
+  12,R
+   1,R,D
+   1,R
    1,R,D
    5,L,Z
    1,R,J
@@ -611,9 +594,17 @@ SkipInput 3 1
    1,L,J
 EndStunPause
    7,R
-  21,D
-  17,L
+   8
+   1,L
+   2
    2,R
+   2
+   1,R,D
+   4,D
+   3,L,D
+  13,L
+   2,L,D
+   1
    1,L,J,G
    7,L
    7,L,Z
@@ -767,4 +758,4 @@ EndStunPause
   14,R,U,X
  135
 
-ChapterTime: 1:25.102(5006)
+ChapterTime: 1:24.983(4999)
