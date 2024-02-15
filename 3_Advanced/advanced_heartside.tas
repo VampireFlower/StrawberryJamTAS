@@ -1,4 +1,4 @@
-RecordCount: 22265
+RecordCount: 22610
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -240,15 +240,12 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
   15,R,D,X
    5,R
    4,R,D
-   0,R
-   4
-   1
+   5
    1,D
    1,R,D
    8,L,D,X
    1,R,J
-   5,R
-   1,R
+   6,R
    5,R,D
   11,R,J
    6,R
@@ -290,8 +287,7 @@ EndStunPause
   15,R,D,X
 #this depends on spinner cycle
 #only 1 cycle works
-   3,R
-  16,R
+  19,R
    1,R,J
    5,R
    1,R,J
@@ -449,13 +445,13 @@ EndStunPause
   40
 
 #lvl_heartside_Meario
-   1,R,D
+   1,R,D,X
    1,R,J
   12,D
   45,R,D
   18,R,X
   12,L,C
-   4,R,U,G
+   4,R,G
    1,R,J,G
    1,R
   10,R,X
@@ -511,47 +507,36 @@ EndStunPause
    1,R,K
   14,R,Z
    6,R,J
-   1,R,K
-   1,K
+   2,R,K
   18,U,X
-  17,U,C
-   4,R
-  19,R,X
+  14,L,U,C
    4,R,J
+   2,R
    1,R,K
-  39,R,D
-  15,D,X
-   6,D
-  12,L,D
-  12,L,X
-
-#   4,R,J
-#   6,R,K
-#  34,R,D
-#  15,D,X
-#  16,D
-#  11,L,D
-#  12,L,X
-
-   4,R,G
-   1
-   1,L
-   4,R,G
-  13,R,D,G
-   3,D,G
-   2
-  13,R,U,Z
-   5,L,J
+   1,R,J,G
+   3,R
+  17,R,X
+   4,R,J
+  15,R,D,X
+  15,R,D
+   9,R
+   1,R,D
+  21,G
+   5,D,G
+   5,R
+   1,L,J,G
+  12,R,U,Z
+   4,L,J
+   1,R,J
    1,R,K
    8,R
    4,R,J
-   1
-   2,R
+   3
   15,R,U,Z
    5,K
   18,U,X
   13,L,C
-   4,R,U,G
+   4,R,G
    3,R,J,G
    3,R
    1,R,K,G
@@ -1009,7 +994,7 @@ EndStunPause
   13,R
   10,R,X
 #spinner cycle
-   0
+   1
 #bad spot but w/e
    8,L,J
   18,U,X
@@ -2057,4 +2042,4 @@ EndStunpause
   12,U,X
  135
 
-ChapterTime: 4:47.181(16893)
+ChapterTime: 4:46.620(16860)
