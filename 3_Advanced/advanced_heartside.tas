@@ -1,4 +1,4 @@
-RecordCount: 22610
+RecordCount: 22663
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -1312,15 +1312,17 @@ EndRepeat
    1,R,D
    8,R,X
    1,R,J,G
-  22,R
-  15,R,X
-  19,R,Z
+  21,R
+  14,X
+   2,L,D
+   8,R,Z
+   5,R,J,G
+   4,R
   40
 
 #lvl_heartside_hennyburgr
-   2
-   7,R
-  10,R,U,Z
+   6
+   9,R,U,Z
    1,L
    3,J,G
    5,N
@@ -1329,7 +1331,8 @@ EndRepeat
   15,D,X
    3,L,D
 #waiting
-   2
+   5
+   1,R
    5,L,Z
    1,R,J
    7,R
@@ -1353,8 +1356,8 @@ EndRepeat
    8,R
    4
    2,R,K
-   3,R
-   5
+   4,R
+   4
    5,J,G
   14,R,Z
   20,R,J
@@ -1755,7 +1758,7 @@ EndRepeat
    1,K,G
    5
 #spinner cycle [heartside_jolly]
-   1
+   0
 #
   15,D,X
   14,R,D,C
@@ -2042,4 +2045,4 @@ EndStunpause
   12,U,X
  135
 
-ChapterTime: 4:46.620(16860)
+ChapterTime: 4:46.569(16857)
