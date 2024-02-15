@@ -1,4 +1,4 @@
-RecordCount: 8391
+RecordCount: 8592
 
 console load StrawberryJam2021/4-Expert/Appels
    1
@@ -183,11 +183,11 @@ console load StrawberryJam2021/4-Expert/Appels
   14,R,D,X
    1,R,J
    6,R,J
-  23,R,J,G
+  19,R,J,G
+  10,R,X,G
    1,R
-  13,U,X
-  26
-   1
+   5,U,X
+  27
    1,R,J
    7,R,Z
    7,R,J
@@ -197,12 +197,12 @@ console load StrawberryJam2021/4-Expert/Appels
   25,R,C,G
    2,D
    5,R,X
-  18,R,G
-  15,R,X,G
-  29,R
+  20,R,G
+  14,R,X,G
+  28,R
   21,R,X
    1,R,X
-  29
+  28
    1,L,J
    2,L,K
   26,L,K,G
@@ -214,48 +214,52 @@ console load StrawberryJam2021/4-Expert/Appels
   10,L,J
   21,L,D,X
   41
-   1,R,K
-   1,L,J
-  13,L,J,G
-  23,L,X,G
-   8,L,C,G
-   1,R
-   1,L
-  14,L,X
-  83
-   1,L,J
+   1,J
+   1,R,J
    1,L,K
-  14,L,D,X
+  13,R,J,G
+   4,R,X,G
+  19,L,X,G
+   9,L,C,G
+   1,R
+   2,L
+  13,L,X
+  80
    1,L,J
-  14,L,D,X
+   4,L,K
+  15,L,D,X
+   1,L,J
+  11,L,D,X
   40
 
 #lvl_a03
-   1,L,J
-  14,L
-   8,L,J
-  20,L,J,G
-   6,L,X,G
-  10,X,G
+  18,L,J
+   2,J
+  13,J,G
+   8,L,J,G
+  12,L,X,G
    1,L
   14,L,X
-  23,L,G
+  19,L,G
   14,L,X,G
    1,R
-  19,L,G
-   3,L,X,G
-  13,G
-   1,L
-  14,R
-   8
+  24,L,G
+   5,G
+   1,X,G
+   1,L,G
+   1,G
+   2,L
+  16,R
+  10
   15,U,X
-   4,L
+   1,L
   28,L,G
-   9,L,X,G
+   2,L,X,G
+   4,G
    1,R
    5,L
   12,U,X
-  22
+  26
    1,L,J
    6,L,Z
   17,L,J
@@ -263,23 +267,24 @@ console load StrawberryJam2021/4-Expert/Appels
   15,L,X,G
   13,R,G
    1,L
-  12,R
-   4,L
+  13,R
+   3,L
   16,L,G
   34,L,X,G
    1,R
   12,L,G
-   4,L,X,G
-  12,X,G
+   2,L,X,G
+  11,X,G
+   3,L,X,G
    1,L
    8,L,X
-# Please someone save this frame
-  59
+  60
+  10,L,D,X
    1,L,J
-  14,L,D,X
-   1,L,J
+   4,L
    9,L,D,X
   40
+
 
 #lvl_a04
 # NOTE: This BIS is currently net -0f
@@ -604,23 +609,25 @@ console load StrawberryJam2021/4-Expert/Appels
    1,R,J
    3,R,K
   22,R,G
-  15,R,J,G
+  14,R,J,G
+   1,R,G
   18,R,X,G
    4,R
   11,R,X
    4,R,J,G
    1,R,K,G
-  10,R,X
-  13,R,G
-  28,R,J,G
-   3,J,G
-  15,X,G
+   8,R,Z
+   1,R,J
+  13,R,J,G
+  29,R,K,G
+   4,J,G
+  18,X,G
    1,R
-  12,R,D
-  30,D
-   8,L,D
+  11,R,D
+  24,D
+   6,L,D
    4,L,D,X
-  27
+  26
    1,R,J
    3,R,K
   10,R
@@ -691,4 +698,4 @@ console load StrawberryJam2021/4-Expert/Appels
   12,U,X
  135
 
-ChapterTime: 1:57.385(6905)
+ChapterTime: 1:57.062(6886)
