@@ -1,4 +1,4 @@
-RecordCount: 6865
+RecordCount: 7089
 
 console load StrawberryJam2021/3-Advanced/BlueXans
    1
@@ -30,6 +30,11 @@ console load StrawberryJam2021/3-Advanced/BlueXans
    2
   15,R,D,X
   22,L
+
+
+
+
+
    1,L,J
    2,J
    1,L,J
@@ -170,41 +175,46 @@ console load StrawberryJam2021/3-Advanced/BlueXans
   14,R,J
   14,R,Z
    1,R,J
-   5,R,D,J,X
-  17,R,J,G
-  10,R,K,G
+   7,R,D,J,X
+  15,R,J,G
+   6,R,K,G
    1,L,K
-  15,R,K
-   6,R
+  16,R,K
+   8,R
   10,R,U,X
    1,R,J,G
-   8,R
-   2
+   7,R
+   1,R,J
+   1,R
+   1
   40
 
 #lvl_4
    1,R,J
   12,R,D,J,X
   18,R,J,G
-   9,R,K,G
+   6,R,K,G
    1,L,K
-  11,R,K
+   7,R,K
+   6,K
+   1,R,K
   18,U,X
-  13,L,J
+  14,L,J
   18,U,X
-   2,L
   11,L,Z
-   8,L,J
-   1,L
+   9,L,J
   14,L,Z
-  17,L,J
-   3,L,D
-  10,D
+  16,L,J
    4,L,D
+   8,D
+   4,L,D
+   2,D
   14,R,D,X
   14,R,J
   13,U,X
-  24,G
+  13,G
+   1,R,G
+  10,G
    1,L
   10,R
   10,U,X
@@ -319,4 +329,4 @@ console load StrawberryJam2021/3-Advanced/BlueXans
   10,U,X
  135,R,D
 
-ChapterTime: 0:46.546(2738)
+ChapterTime: 0:46.512(2736)
