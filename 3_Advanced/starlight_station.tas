@@ -1,4 +1,4 @@
-RecordCount: 11972
+RecordCount: 12020
 
 console load StrawberryJam2021/3-Advanced/Jolly
    1
@@ -250,20 +250,19 @@ EndStunPause
    2,R,J
    6,R,D
   54,L,D
-  10,R,D
-   4,R
-   6,R,Z
+  13,R,D
+   6,R,D,X
    1,R,J
    7,R
    1,R,J
-  14,R,D,X
+   9,R,D,X
    1,R,J
+   7,R
   40
 
 #lvl_b4
-   7,R
-   6,R,J
-  16,U,X
+  14,R,J
+  13,U,X
   15,R,J
   12,R,X
    1,L,J
@@ -494,17 +493,20 @@ EndStunPause
    4,R
    6,R,D,X
    1,R,J,G
-  11,R
+   7,R
+   1,R,K
+   3,R
    4,R,K
-   5,R,J,G
+   4,R,J,G
+   1,R
   40
 
 #lvl_brys2
-   3,R
-  13,R,D,X
-   2,R,J
+   2,R
+  14,R,D,X
+   1,R,J
 # spinner cycle
-   1
+   0
 #####
 # second spinner cycle in later bubble
   45,R,Z
@@ -690,4 +692,4 @@ EndStunPause
    1,L,J
    2,U,X
   39,L,J
-ChapterTime: 1:24.898(4994)
+ChapterTime: 1:24.847(4991)
