@@ -1,4 +1,4 @@
-RecordCount: 5345
+RecordCount: 5720
 
 console load StrawberryJam2021/4-Expert/Jackal
    1
@@ -82,34 +82,35 @@ console load StrawberryJam2021/4-Expert/Jackal
 
 #lvl_a06
    9,R,D,X
-   7,R,J
-   1,R
-   2,R,J
-  13,R
-   6
-  22,R
-  14
-   2,L
-   7,L,U,X
-  17,R
-  15,R,D,X
-   6,R
-  42,R,J
-   8,R,U,Z
-   9,R
-   9,L
-  12,L,Z
-   5,R,J
+  10,R,J
+  15,R,X
   11,R
-  14,R,X
+   4,L
+   8
+#preserve dash somehow?
+   6,R,U,X
    1,R,J,G
+  11,R,J
+  15,R
+   1,R,J
+  11,R,D,X
+  22,R,J
+   9,R
+   6
    7,R
-   1
+  19,D,X
    2,J
-  11
-   2,L
-   4
-   2,L
+   1,R,J
+  10,R,D,X
+  11,R,J
+   9,R
+  12,R,X
+   1,R,J,G
+   8,R
+   1,R,J
+   6,R
+   6
+   7,L
   14,U,X
    6
   22,R
@@ -119,12 +120,13 @@ console load StrawberryJam2021/4-Expert/Jackal
   24,R,D
    6
    4,R
-   2
-   1,R
+   7,L
+   1,J,G
+  10
+   3,L
+   1
    1,L
    3
-   3,J,G
-  16
   15,R,D,X
    6
   11,R,D,C
@@ -426,7 +428,7 @@ endrepeat
    1,R,J
    1,R
   40
-
+   
 #lvl_a15
   14,R,D,X
    5,R,J
@@ -435,4 +437,4 @@ endrepeat
   16,R,U,X
  135
 
-ChapterTime: 0:50.473(2969)
+ChapterTime: 0:50.150(2950)
