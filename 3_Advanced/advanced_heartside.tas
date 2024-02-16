@@ -1,4 +1,4 @@
-RecordCount: 22694
+RecordCount: 23052
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -610,20 +610,14 @@ EndStunPause
   15,R,J
    8,R
    9,R,J
-  21,R
-#idk
-#feels like a frame is
-#saveable here
-#i cant find it tho
-#movement is real weird
+  22,R
   15,R,X
-   7,R
    1
-  14,R
-  18,R,U,C
-   3,R
-   2
-   9,R,D,X
+  21,R
+   1
+  15,R,U,X
+   1
+   9,R,D,C
    1,R,J
    7,R
    8,R,D,J
@@ -994,7 +988,7 @@ EndStunPause
   13,R
   10,R,X
 #spinner cycle
-   1
+   0
 #bad spot but w/e
    8,L,J
   18,U,X
@@ -2041,4 +2035,4 @@ EndStunpause
   12,U,X
  135
 
-ChapterTime: 4:46.518(16854)
+ChapterTime: 4:46.467(16851)
