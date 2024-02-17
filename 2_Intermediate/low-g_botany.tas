@@ -1,4 +1,4 @@
-RecordCount: 4512
+RecordCount: 4518
 
 console load StrawberryJam2021/2-Intermediate/marlin
    1
@@ -168,6 +168,24 @@ console load StrawberryJam2021/2-Intermediate/marlin
    2
    1,J,G
    2,R,J
+#-1f but bad subpixels
+#  58,R
+#  23,R,U,X
+#  15,R,C
+#  28,R,D
+#   2,R
+#  19,R,X
+#  12,R,U,C
+#   1,R,J,G
+#  15,R
+#  15,D,X
+#  12
+#  20,R
+#  36,R,X
+#   4,Z
+#   7,R,J
+#   4,R,K,G
+
   59,R
   24,R,U,X
   15,R,C
