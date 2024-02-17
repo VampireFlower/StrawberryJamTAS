@@ -1,4 +1,4 @@
-RecordCount: 23052
+RecordCount: 23106
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -606,32 +606,36 @@ EndStunPause
    1
    1,L,D
   19,R
-  11,U,X
-  15,R,J
-   8,R
-   9,R,J
-  22,R
-  15,R,X
-   1
-  21,R
-   1
-  15,R,U,X
-   1
-   9,R,D,C
-   1,R,J
+  12,U,X
+  20,R,J
    7,R
-   8,R,D,J
+  11,R,J
+   5,R
+   1
+  15,R,X
+  15,R,C
+   5,R
+   5,L
+  15,R,U,X
+   1,R
+  14,R,Z
+   1,R,J
+   4,R
+   1,R,J
+   2,L,D
+   8,R,J
    5,R,D,X
    1,R,K,G
-  12,R
-   1,R,J
+   1,R,J,G
+  13,R
   40
 
 #lvl_heartside_maladroit
+   1,R,J
   14,R
    1,R,J
   12,R,D,X
-   3,R,J
+   4,R,J
   18,R,X
    7,R,D,C
   40,R
@@ -640,7 +644,14 @@ EndStunPause
   15,R,U,C
    5,R
    8,R,U,X
-  84,D,G
+  55,D,G
+   2,R,G
+   2,L,G
+   1,G
+   1,L,G
+   1,G
+   1,L,G
+  21,G
   10,R,U,G
   12,R,J,G
   12,J,G
@@ -674,8 +685,9 @@ EndStunPause
   14,L,X
   18,R
   15,R,X
-   1
-  70,R
+   1,R
+  68,R
+   2,L,D
   15,D,X
   15,D,C
    8
@@ -987,8 +999,8 @@ EndStunPause
   25,R,D,X
   13,R
   10,R,X
-#spinner cycle
-   0
+#spinner cycle - rightside down cavern
+   2
 #bad spot but w/e
    8,L,J
   18,U,X
@@ -2035,4 +2047,4 @@ EndStunpause
   12,U,X
  135
 
-ChapterTime: 4:46.467(16851)
+ChapterTime: 4:46.416(16848)
