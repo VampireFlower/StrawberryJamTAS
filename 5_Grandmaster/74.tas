@@ -1,4 +1,4 @@
-RecordCount: 6661
+RecordCount: 6694
 
 console load StrawberryJam2021/5-Grandmaster/fishtank
    1
@@ -299,19 +299,25 @@ EndRepeat
    1,R,J,G
    1,R,K,G
    9,R
-   1,R,J
-   2,R
+   3,R,D,J
   40
 
 #lvl_Attic
-  12,R
    4,R,J
+   1,R
+   6,R,J
    1,J
-   9,R,J
+   1,K
+   3,R,K
+   5,R
+   2,R,J
+   1,R
+   1,R,J
+   3,R
    1,R,K,G
    3,R,J,G
-  10,K,G
-   2,R,K
+   6,J
+   2,R,J
    7,R
    1,R,G
    1
@@ -763,4 +769,4 @@ endrepeat
   16,L,U,X
  135
 
-ChapterTime: 1:04.685(3805)
+ChapterTime: 1:04.651(3803)
