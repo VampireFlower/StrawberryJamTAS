@@ -1,4 +1,4 @@
-RecordCount: 5753
+RecordCount: 5937
 
 console load StrawberryJam2021/2-Intermediate/Arphimigon
    1
@@ -185,39 +185,42 @@ EndRepeat
    1,S
    1,D,J
   69,O
-  50,L,X
-   1
-   3,R,X
-  52,G
-   1,L,G
-   7,R,Z,G
-   3,R,J,G
-   9,R,G
+  49,L,X
+   4
+   5,R,X
+  48,G
+   4,L,G
+   8,R,Z,G
+   1,R,J,G
+   7,R,G
   40
 
 #lvl_a_01 (3)
-  25,R,G
+  15,R,G
+   4,R,D,G
    3,R,J,G
-   2,R,J
-   1
-  12,L
-   3,U,X
-  50,U,X,G
-  24,L,G
+   3,G
+   1,R
+  10
+   1,R
+   3
+   6,U,X
+  47,U,G
+  22,L,U,G
   10,L
   11,L,U,X
-  21,L,G
+  23,L,U,G
    1,R
-  22,L
-   4,L,X
-   6,L,J
+  18,L
+   5,L,X
+   7,L,J
   40
 
 #lvl_a_03
   11,L,J
   42,U,X
-  16,L,U,G
-  25,U,G
+  17,L,U,G
+  24,U,G
   10,R
   11,U,X
   35,L,G
@@ -552,4 +555,4 @@ EndRepeat
   14,R,U,X
  135
 
-ChapterTime: 1:52.744(6632)
+ChapterTime: 1:52.659(6627)
