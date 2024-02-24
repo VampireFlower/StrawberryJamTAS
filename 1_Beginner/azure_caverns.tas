@@ -1,4 +1,4 @@
-RecordCount: 2265
+RecordCount: 2434
 
 console load StrawberryJam2021/1-Beginner/cellularAutomaton
    1
@@ -117,27 +117,34 @@ console load StrawberryJam2021/1-Beginner/cellularAutomaton
 #Set Player.Speed.X -233
 #Set Player.Position.X 67.49999998
 #   1,K,G
-#   5,J,G
+#   2,R,J,G
+#   4,L,J
+#  14,L,U,Z
+#   1,R,J,G
+#   7,U,X
    1,K,G
-   6,J,G
-  14,L,U,Z
-   2,R,J,G
+   1,R,J,G
+   3,L,J
+   3,L
+  13,L,U,Z
+   1,R
+   1,J,G
    7,U,X
   40
 
 #lvl_07
-   4,R
-   5
-  20,R,J
-  15,U,X
-   2,R
-  15,U,C
    1
+   8,L
+  19,R,J
+  15,U,X
+   3,R
+  15,U,C
   10,R
-   4,Z
+   4,R,Z
    3,R,J
+   2,R
    2
-   8,R
+   6,R
   15,R,D
    3,R
    1
@@ -176,4 +183,4 @@ console load StrawberryJam2021/1-Beginner/cellularAutomaton
    1,L,Z
   18,R,J
 
-ChapterTime: 0:20.434(1202)
+ChapterTime: 0:20.417(1201)
