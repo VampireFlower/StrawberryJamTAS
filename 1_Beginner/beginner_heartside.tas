@@ -1,4 +1,4 @@
-RecordCount: 18453
+RecordCount: 18605
 
 console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    1
@@ -1217,14 +1217,20 @@ EndStunPause
 #lvl_cp4_08_heartside_quinnigan
    9,R,D,X
    1,L,J
-   3,R,J
-  16,L,J
-  13,L,G
-  40,L,X,G
+   2,R,J
+   7,R
+   1,L,J
+   3,L
+   8,L,J
+   1,R,J
+   1,L,J
+  19,L,X,G
    1,R,X,G
-  20,R,C,G
+  22,L,X,G
+   3,L,C,G
+  20,R,X,G
    1,L
-  29,R
+  29,R,D
   16,R,X
   14,R,C
    1,L,J
@@ -2015,4 +2021,4 @@ Repeat 33
 EndRepeat
    1
 
-ChapterTime: 4:22.803(15459)
+ChapterTime: 4:22.718(15454)
