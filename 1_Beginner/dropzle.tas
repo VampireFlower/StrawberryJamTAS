@@ -1,4 +1,4 @@
-RecordCount: 2787
+RecordCount: 2823
 
 console load StrawberryJam2021/1-Beginner/Owen-Shirrell
    1
@@ -252,17 +252,18 @@ endrepeat
    1,D
    1,L,D
    1,D
-  14,L,D
-  10,L,D,X
+  12,L,D
+  13,L,D,X
    1,L,J
    7,L
-   9,L,J
-   5,L
-   3
-   1,J
-   1,L,J
-   1,J
-  20,R,D
+   8,L,J
+   4,L
+   2,R
+   2,R,J
+   1,R
+   1,L
+   2,R,J
+  18,R,D
    1,D
   40
 
@@ -279,4 +280,4 @@ endrepeat
    5,D
  135
 
-ChapterTime: 0:32.334(1902)
+ChapterTime: 0:32.317(1901)
