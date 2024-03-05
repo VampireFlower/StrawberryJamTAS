@@ -1,4 +1,4 @@
-RecordCount: 23136
+RecordCount: 23175
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -622,21 +622,23 @@ EndStunPause
    1,R,J
    4,R
    1,R,J
-   2,L,D
-   8,R,J
+   1,R,D
+   1,L,D
+   6,R,J
+   2,R
    5,R,D,X
    1,R,K,G
-   1,R,J,G
-  13,R
+  11,R
+   1,R,J
+   2,R
   40
 
 #lvl_heartside_maladroit
+  12,R
    1,R,J
-  14,R
-   1,R,J
-  12,R,D,X
-   4,R,J
-  18,R,X
+  14,R,D,X
+   3,R,J
+  17,R,X
    7,R,D,C
   40,R
   15,R,U,X
@@ -644,7 +646,9 @@ EndStunPause
   15,R,U,C
    5,R
    8,R,U,X
-  55,D,G
+  48,D,G
+   1,R,D,G
+   7,D,G
    2,R,G
    2,L,G
    1,G
@@ -1000,7 +1004,7 @@ EndStunPause
   13,R
   10,R,X
 #spinner cycle - rightside down cavern
-   1
+   0
 #bad spot but w/e
    8,L,J
   18,U,X
@@ -2048,4 +2052,4 @@ EndStunpause
   12,U,X
  135
 
-ChapterTime: 4:46.365(16845)
+ChapterTime: 4:46.314(16842)
