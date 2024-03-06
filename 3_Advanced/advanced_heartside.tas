@@ -1,4 +1,4 @@
-RecordCount: 23175
+RecordCount: 23194
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -805,13 +805,14 @@ EndStunPause
    1,J
    6,L,D,X
    1,R,J,G
-  14,L,J
+  10,L,J
+   4,L
   40
 
 #lvl_heartside_astraxel
 #any potential stun route in this room seems pretty miserable
 #might still be fast though
-  16,L,D,X
+  15,L,D,X
    5,L,J
   15,L,D,X
    5,L,D
@@ -1004,7 +1005,7 @@ EndStunPause
   13,R
   10,R,X
 #spinner cycle - rightside down cavern
-   0
+   1
 #bad spot but w/e
    8,L,J
   18,U,X
