@@ -1,4 +1,4 @@
-RecordCount: 18670
+RecordCount: 18687
 
 console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    1
@@ -498,8 +498,6 @@ EndRepeat
    1,R
   10,L,D,X
    1,L,J
-
-###-25f
   20,L,D
    4,L
   30,U
@@ -510,17 +508,14 @@ EndRepeat
    3,R,J
   15,D,X
   10,L,J,G
-   6,L
-   2
+   7,L
    2,J
   11,L,J
-   3,R,K,G
-   1,J,G
-   3,K
+   5,L,K
   14,D,X
-  19,L
-   3,L,J
-  14,D,Z
+  15,L
+   5,L,J
+  13,D,Z
 
 #lvl_cp2_15_heartside_frozenflygone_d
    2
@@ -533,8 +528,8 @@ EndRepeat
    1,R,J
    1,L,J
    1,R,J
-   4,K
-   8,R,K
+   3,K
+   9,R,K
 #faster setup but less speed
 #ended up being 1f slower overall for me
 #   1,R
@@ -557,9 +552,6 @@ EndRepeat
    7
    1,J
    6
-###
-
-
    1,L
    7,L,Z
    1,R,J
@@ -2004,4 +1996,4 @@ Repeat 33
 EndRepeat
    1
 
-ChapterTime: 4:22.259(15427)
+ChapterTime: 4:22.157(15421)
