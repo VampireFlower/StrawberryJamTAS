@@ -1,4 +1,4 @@
-RecordCount: 3040
+RecordCount: 3301
 
 set Language english
 console load StrawberryJam2021/3-Advanced/Oppen
@@ -17,89 +17,90 @@ console load StrawberryJam2021/3-Advanced/Oppen
    4,R,J
   15,R,D,X
    2,R,J
-  10,R,K,G
+   9,R,K,G
+   1,K
   15,R,D,X
    1,R,J
    7,R,D,X
    1,S
    1,D,J
   34
-   6,R,J
+   2,R,J
+   3,R
+   2,R,K,G
   40
 
 #lvl_oppen_1a (0)
 #key2route
-   2,R,J
-   2,R
-  16,R,D,X
+   1,R,K
+   3,R
+  15,R,D,X
+   1,R,D
    3,R,J
 
 #lvl_oppen_1b
-  19,R,J
-  15,U,X
-   4,R
-   1,J,G
-   6,R,J
-   2,J
+  18,R,J
+  15,U,Z
+   9,J,G
    1,R,J
    1,L,J
    1,R,J
   13,R,K,G
-   3,J,G
+   8,J,G
    1,L,J
-   7,R,J
-  12,R,K,G
-  10,J,G
-   1,L,J
-   1,R,J
-   1,R,K,G
-   1,L,K
-  10,R,K
-   3,J,G
-   1,R,J
-   1,J
-   1,R,J
-   1,L,J
-   1,R,J
-  13,R,K,G
-  34,L,J
+   1,K
    3,R,K
-   8,K
-  10,L,X
-  20,R,J
+  12,R,J,G
   11,K,G
    1,L,K
    1,R,J,G
-  11,J
-   1
+   1,L,J
+   1,R,J
+   9,J
+   3,K,G
+   2,R,K
+   1,L,K
+   1,R,K
+  13,R,J,G
+  34,L,K
+  10,L,X
+  17,R,J
+   6,K,G
+   1,L,K
+   1,J
+   5,R,J
+  13,R,K,G
+   4,J,G
+   1,R,J
+   1,L,J
+   7,R,J
+   1,K,G
+   9,R,K
+   1,K
+   1,L,K
+   1,R,K
+  13,R,J,G
+   6,K,G
+   1,L,K
+   1,R,K
    1,J,G
-   2,R,J
+   4,L,J
    6,J
    1,R,J
-   1,L,J
-   1,R,J
-  13,R,K,G
-   7,J,G
-   1,L,J
-   1,R,J
-   1,K,G
-   4,L,K
-   6,K
+   5,K,G
+   3,R,K
+   1,K
+   1,L,K
    1,R,K
-   5,J,G
-   3,R,J
-   1,J
-   1,L,J
-   1,R,J
-  13,R,K,G
-   1,J,G
-   3,R,J
-   1,J
-   1,R,J
-   1,L,J
-   1,R,J
-  13,R,K,G
-  25,L,J
+  13,R,J,G
+   1,K,G
+   3,R,K
+   1,K
+   1,R,K
+   1,L,K
+   1,R,K
+  13,R,J,G
+  25,L,K
   15,U,X
   26,L,J
    1,L,K
@@ -151,9 +152,11 @@ console load StrawberryJam2021/3-Advanced/Oppen
   10,R,X
   12,R,J
   14,R,U,X
-   4,J,G
+   1,R,J,G
+   2,L,J
+   1,R,J
    1,K,G
-   7,R
+   6,R
    1,L
    2,L,J
    5,J
@@ -175,16 +178,17 @@ console load StrawberryJam2021/3-Advanced/Oppen
    7,R,J
   10,R,Z
    1,R,J
-   3,L
-   3,R
-   2,R,J
-  15,L,D,X
-   6,R
-   8,R,D
-  19,D
+   1,R
+   1,R,J
+   3
+   1,J
    2
-   2,L
-   1,L,D
+  15,L,D,X
+   3,R
+  11,R,D
+  20,D
+   2,L,D
+   1,L
   15,U,X
   10,J,G
    2
@@ -295,7 +299,6 @@ console load StrawberryJam2021/3-Advanced/Oppen
    2,L
   18,L,D,X
 
-
 #lvl_oppen_1a (1)
   11,L,D
   22,D
@@ -338,15 +341,18 @@ console load StrawberryJam2021/3-Advanced/Oppen
   69,O
    2,R,J
    5,R,Z
+   1,R,J
+   2
    2,R,J
-   6,R
-  10
-  12,R,D
-  10,R,D,X
-   6,R,J
-  15,U,X
-   2,L,J,G
-   7,L
+   9,R,D
+   5,D
+   7,R,D
+  15,R,D,X
+   5,R,J
+  15,U,Z
+   1,L,J,G
+   1,R
+   6,L
    2,L,J
   14,L,U,X
    3,J,G
@@ -429,4 +435,4 @@ console load StrawberryJam2021/3-Advanced/Oppen
   13,L,U,Z
  135,L,G
 
-ChapterTime: 0:50.949(2997)
+ChapterTime: 0:50.847(2991)
