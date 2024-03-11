@@ -983,7 +983,7 @@ EndRepeat
    3,R
   18,R,D
    3,L,D
-# using drift is 16f faster 
+# using drift is 16f faster
 # but not worth the extra wait
 StunPause
   12,L,D

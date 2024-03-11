@@ -307,7 +307,7 @@ console load StrawberryJam2021/3-Advanced/galaksyz
    3,R,K,G
    8,R,D,X
   40
- 
+
 #lvl_a_06-TiltTheStars
    1,R
    8,R,J
@@ -381,7 +381,7 @@ console load StrawberryJam2021/3-Advanced/galaksyz
    4,R,Z
    8,R,K
   40
- 
+
 #lvl_a_07-TiltTheStars
    3,R,K
    1,R
@@ -484,7 +484,7 @@ console load StrawberryJam2021/3-Advanced/galaksyz
    1,R,D
    1,D
   40
- 
+
 #lvl_a_08-TiltTheStars
    6,R,D
    3,R,J
@@ -529,7 +529,7 @@ EndStunPause
    1,R,J
    6,R,U,X
   40
- 
+
 #lvl_heart_room
    1,R,U,X
    3,R,K,G
@@ -541,5 +541,5 @@ EndStunPause
    3,R,J
   14,R,X
  135,D
- 
+
 ChapterTime: 1:20.206(4718)
