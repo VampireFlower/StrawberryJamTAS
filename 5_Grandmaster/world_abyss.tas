@@ -1,4 +1,4 @@
-RecordCount: 31325
+RecordCount: 31589
 
 console load StrawberryJam2021/5-Grandmaster/Dav
    1
@@ -972,33 +972,36 @@ EndRepeat
    2,L,J
   15,L,D,X
   17,L,D
-   1,D
-   1
-   1,L,J
-  17,L,U,X
-   2,L,J,G
-   4,L
-  15,L,D,X
-   5,L,D
-   2,L
-  14,L,U,X
-   1,L,J,G
-   7,L
-  15,L,D,X
-   3,L,D
-   2,L
-   2,L,D
-  19,L
+#---
    1,L,D
    1,L
+   1,L,J
+  17,L,U,X
+##cycle manip
+   1
+##
+   9,L,J,G
+   1,L
+   1
+  15,L,D,X
+   2
+  14,L,X
+   1,L,J,G
+##cycle manip
+   1,L,J
+##
+   7,L
+  15,L,D,X
+   4,L,D
+  24,L
   14,L,U,Z
-   2,J,G
+   1,J,G
+   1
    1,K
-#---
    6,L,Z
    2,L,J
    3,L,K,G
-   1
+   1,K
    1,L
    1,L,J,G
    1,L
@@ -1006,10 +1009,11 @@ EndRepeat
    7,L
    9,L,J
    7,J
-   1,L,J
+   1,L
    1
   13,U,X
-  35,L,J
+  33,L,J
+   2,L
    1,K,G
    2,L
    1
@@ -1018,20 +1022,18 @@ EndRepeat
    1,L
    1,R
    1,L,J
-   7,L
-   1,L,J
-   3,L
+   9,L
+   2,L,J
    4,L,J
+   1,J
+   2,J,G
+   3,L,J
    1,J,G
    1,J
-   1,L,J
+   1,J,G
    1,J
    1,J,G
-   5,L,J
-   1
-   1,G
-   2
-   1,G
+   1,J
    7,L,D,X
    1,L,J,G
    1,L,K,G
@@ -1042,16 +1044,37 @@ EndRepeat
   11,L,J
    1,L
   15,L,D,X
-   9,L
-  78,L,D
-   3,D
+   4,L
+  21,L,D
+   1,D
+  10,L
+  56,L,D
    1,R,D
-Repeat 16
+Repeat 14
    2,L,D
    2,R,D
 EndRepeat
+   1,D
+   1
+   1,D
+   1
+   1,D
+   1
    2,D
-#--- alternate version (+2f frames)
+#---non cycle manip ver (+1f)
+#   1,D
+#   1
+#   1,L,J
+#  17,L,U,X
+#   2,L,J,G
+#   4,L
+#  15,L,D,X
+#   5,L,D
+#   2,L
+#  14,L,U,X
+#   1,L,J,G
+#   7,L
+#  15,L,D,X
 #   6,L,Z
 #   2,L,J
 #   3,L,K,G
@@ -1064,10 +1087,9 @@ EndRepeat
 #   9,L,J
 #   7,J
 #   1,L,J
-#   1,J
+#   1
 #  13,U,X
-#  33,L,J
-#   2,L
+#  35,L,J
 #   1,K,G
 #   2,L
 #   1
@@ -1076,20 +1098,21 @@ EndRepeat
 #   1,L
 #   1,R
 #   1,L,J
-#  15,L
+#   7,L
+#   1,L,J
+#   3,L
+#   4,L,J
+#   1,J,G
+#   1,J
+#   1,L,J
+#   1,J
+#   1,J,G
+#   5,L,J
 #   1
-#   2,G
-#   2,L
 #   1,G
-#   4,L
+#   2
 #   1,G
-#   4,L
-#   1,G
-#   1
-#   1,G
-#   1
-#   1,G
-#   5,L,D,X
+#   7,L,D,X
 #   1,L,J,G
 #   1,L,K,G
 #   1,L,J,G
@@ -1099,13 +1122,9 @@ EndRepeat
 #  11,L,J
 #   1,L
 #  15,L,D,X
-#   5,L
-#  31,L,D
-#   2,L
-#   1,L,D
-#   5,L
-#  44,L,D
-#   1,D
+#   9,L
+#  78,L,D
+#   3,D
 #   1,R,D
 #Repeat 16
 #   2,L,D
@@ -1183,4 +1202,4 @@ Repeat 3
 EndRepeat
    1,L,J
 
-ChapterTime: 2:32.473(8969)
+ChapterTime: 2:32.456(8968)
