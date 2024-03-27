@@ -1,4 +1,4 @@
-RecordCount: 42183
+RecordCount: 42490
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -2910,35 +2910,35 @@ EndStunPause
    1,R
    3,R,K,G
   15,R,D,X
-   4,R,D
-   2,D
-   5,R,U,Z
+   6,R,D
+   7,R,D,X
+   1,R,J
    1,R,K,G
-   6,R,J,G
-   5,R
+   1,J,G
+   1
+   1,K,G
+   4,R,K
+   3,R
   40
 
 #lvl_f01_quantumspaceman
-   3,R,J
-   1,R,J
+   3
    1,R
-   1,R,J
-   1
-  12,R,D,J
-   5,R
-   1,R,J
-   4,R
+   1,R,K
+   1,R
+   1,L,J
+  15,R,J
   17,R,U,X
-   1,L,J,G
-   2,R,J
-  10,J
-   1,R,J
-   5,J
-  11,U,X
-  16,L,J
-   2,J
+   4,L,K,G
+   7,R,K,G
+   1,L,K
+   3,L
+  12,U,X
+  15,L,J
+   1,L
+   2
   11,R,U,Z
-   2,R,J,G
+   1,R,J,G
    7,R
    5,L,Z
    1,R,J
@@ -3708,4 +3708,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 7:45.885(27405)
+ChapterTime: 7:45.732(27396)
