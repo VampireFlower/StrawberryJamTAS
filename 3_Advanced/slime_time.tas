@@ -1,4 +1,4 @@
-RecordCount: 7894
+RecordCount: 8412
 
 console load StrawberryJam2021/3-Advanced/galaksyz
    1
@@ -448,7 +448,7 @@ console load StrawberryJam2021/3-Advanced/galaksyz
   15,U,X
   18,R,J
 #spinner cycle
-   1
+   0
 ##
   15,U,X
   18,R,J
@@ -457,65 +457,62 @@ console load StrawberryJam2021/3-Advanced/galaksyz
    1,R,K
   12,J,G
   12,K,G
-   5,J,G
-   1
-   4,J,G
-   1,L,J
-   1,J
-   1,L,J
-   1,J
-   4,L,J
-   7,L
+   7,J,G
+   3,K,G
+   7,L,K
+   6,L
+   1,L,K
+   1,L
    4,L,Z
    1,L,J
-  12,L,D
-  12,L,D,J
-   1,R
-   1,J
-   9,L,J
-  10,R,Z
-   2,R,J
-   1,R,K,G
-   2,R,J,G
-   1,R,K,G
-   4,R,J,G
-   2,R
-  15,R,D,X
-   1,R,D
-   1,D
+   6,L
+  11,L,J
+   1,L
+  13,R,K
+  10,L,Z
+   1,L,J
+   8,L,D
+  16,L,G
+  10,R,D,X
+   1,R,J
+   2,R,K,G
+   1,R,J,G
+   2,R,K,G
+   5,R,J,G
+  14,R,D,X
   40
 
 #lvl_a_08-TiltTheStars
+   1,R,D,X
+   2,D
    6,R,D
-   3,R,J
-   7,R,D,X
-   1,L,J,G
-  11,R,J
-   5,R
-   3,R,J
-   2,R
-   9,R,D,J
-  13,R
-   8,R,J
-   3,J
-   1
-StunPause
-   4
-EndStunPause
-   1,J
-   1
-  15,R,D,X
-   1
-   1,D
-   2,R,D
-StunPause
-   7,R,D
-   1,D
-   1,R,D
-EndStunPause
   10,R,D,J
-   9,R
-  14,R,C
+   5,R
+   8,R,J,G
+   2,R
+StunPause
+   2,R
+EndStunPause
+   2,R
+   1,K
+   2
+   1,R,K
+   1,R
+   1,R,J
+   3,J
+   7,R,J
+StunPause
+   2,R,J
+EndStunPause
+   2,R,J
+  15,R,D,X
+   6,R,D
+  16,R,X
+  14,R,D,C
+   1,R,J
+  11,R,D,X
+  27,R,J
+   8,R,K
   43,R,X
   14,R,Z
   23,R,J
@@ -542,4 +539,4 @@ EndStunPause
   14,R,X
  135,D
 
-ChapterTime: 1:20.206(4718)
+ChapterTime: 1:19.900(4700)
