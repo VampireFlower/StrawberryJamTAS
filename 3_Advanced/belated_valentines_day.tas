@@ -1,4 +1,4 @@
-RecordCount: 9267
+RecordCount: 9621
 
 console load StrawberryJam2021/3-Advanced/Roborb
    1
@@ -166,17 +166,16 @@ console load StrawberryJam2021/3-Advanced/Roborb
   15,R,U,X
   21,R
   15,R,X
-  18,R
+  17,R,D
+   1,R
    2
    1,R
-   4,L
-   5,L,D
-  22,R,D
+   4,L,D
+   5,L
+  19,R,D
   15,R,U,X
-   4,R
-   1,R,J,G
-   5
-   2,R
+   4
+  10,R
    4,R,Z
    1,R,J
    1,J
@@ -401,4 +400,4 @@ console load StrawberryJam2021/3-Advanced/Roborb
    1,R,J
   78,L
 
-ChapterTime: 0:50.966(2998)
+ChapterTime: 0:50.949(2997)
