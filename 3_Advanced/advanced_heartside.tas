@@ -1,4 +1,4 @@
-RecordCount: 23426
+RecordCount: 23513
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -1329,13 +1329,16 @@ EndRepeat
   14,X
    2,L,D
    8,R,Z
-   5,R,J,G
+   1,R,J,G
+   3,R
+   1,R,K,G
    4,R
   40
 
 #lvl_heartside_hennyburgr
-   6
-   9,R,U,Z
+   4,R,K
+   3,K
+   6,R,U,Z
    1,L
    3,J,G
    5,N
@@ -1344,7 +1347,7 @@ EndRepeat
   15,D,X
    3,L,D
 #waiting
-   5
+   7
    1,R
    5,L,Z
    1,R,J
