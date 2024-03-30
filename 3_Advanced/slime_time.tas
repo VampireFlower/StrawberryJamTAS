@@ -1,4 +1,4 @@
-RecordCount: 8326
+RecordCount: 8353
 
 console load StrawberryJam2021/3-Advanced/galaksyz
    1
@@ -502,24 +502,26 @@ EndStunPause
    4,R,D
    1
   10,R
-   4,R,J
+   4,R,D,J
    3,R
   11,R,D,X
-   8,R,J,G
-   4,J
+   9,R,J,G
+   3,J
    1,K,G
    4,R,K,G
 StunPause
 EndStunPause
-   8,R,K,G
-  11,R
+   6,R,K
+   5,R
+   1,R,K
+   7,R
   40
 
 #lvl_heart_room
-   1,R
-   3,R,J
-  21,R,D,X
-  30,D
- 105
+   2,R
+   1,R,J
+  18,R,D,X
+  22
+ 113,D
 
-ChapterTime: 1:16.925(4525)
+ChapterTime: 1:16.857(4521)
