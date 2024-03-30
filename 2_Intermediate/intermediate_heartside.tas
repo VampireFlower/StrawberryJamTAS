@@ -1,4 +1,4 @@
-RecordCount: 18222
+RecordCount: 18387
 
 console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1
@@ -488,40 +488,28 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
   13,L,D
    1,J,G
   12,R,G
-  24,R,D,G
-  22,R,G
+  31,R,D,G
+  21,R,U,G
    3
-   2,K
-   5,R,Z
-  12,R,K,G
-   4
-   5,R
-   8,R,G
-   1,L,J
-   2,L,K
-  10
-   8,R,Z
-   1,R,J
-   6
-   1,R,J
-   2,R
-   2
+  15,R,K
+   8,L,J,G
+   1,L
   16,R
+   9,R,Z
+   1,R,J
+  12,R,D
+   3,R,J
+   5,R
+   9,R,J
+   7,R
+  11,L,K
   33,R,U,X
   10,R,D,C
-   1,R,J
-  33,R,D
-   3,D
-   2
-  30,R,J,G
-  14,R,K,G
-   7,L,K
-   2
-  12,R,Z
-   1,R,J
-  15,R,D
+  28,R,J
+  15,R,X
+  15,R,C
 #spinner cycle
-   1
+   0
 #
   27,R,X
   40
@@ -582,7 +570,6 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
   11,R
   15,R,Z
    3,R
-
    5,R,Z
    6,R,J
    1,R
@@ -672,8 +659,6 @@ EndStunPause
   16,R,K
 #Spinner Cycle
    1
-#Wait for drift
-   6
 #
    1,S
    1,D,J
@@ -718,29 +703,24 @@ EndStunPause
   31,R,Z
 StunPause
    1,R,Z
-SkipInput,3,1
+SkipInput 3 1
    4,R,J
    4,R
    7,R,K
    2,R
    1,L
-   2,J,G
-   2,J,G
-   9,J,G
+  13,J,G
   11,L,K,G
-   2,L,J,G
-   2,L,J,G
+   4,L,J,G
+SkipInput 3 1
+   8,U,X
 EndStunPause
-   5,U,X
-StunPause
-   3,U,X
-EndStunPause
-   6,U,X
-  23,L,G
+   7,U,X
+  24,L,G
   27,L,U,G
    8,J,G
    1,R,J
-  16,R,K
+  14,R,K
   14,U,X
 #removing stunpause loses 2f
 #  15,R,U,C
@@ -770,9 +750,10 @@ EndStunPause
 #   9,L
 #   3
 #------------
-  17,R,U,Z
+  15,R,U,Z
+   1,R
 StunPause
-   4,R
+   5,R
 SkipInput,3,1
   15,U,X
    2,R
@@ -1353,7 +1334,7 @@ EndRepeat
   11,R
    1,G
 #spinner cycle
-   2,G
+   1,G
 #
    1,J
    1,L,J
@@ -1717,4 +1698,4 @@ EndStunPause
   13,R,U,X
  135
 
-ChapterTime: 4:11.668(14804)
+ChapterTime: 4:10.971(14763)
