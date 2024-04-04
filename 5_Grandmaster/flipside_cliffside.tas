@@ -1,4 +1,4 @@
-RecordCount: 4010
+RecordCount: 4011
 
 console load StrawberryJam2021/5-Grandmaster/tcookiem
    1
@@ -412,7 +412,7 @@ console load StrawberryJam2021/5-Grandmaster/tcookiem
   18,R,J
   11,R
   14,R,U,Z
-#+1f
+#+4f
 #   1,J
 #   2,R,J
 #   5,J
@@ -421,28 +421,15 @@ console load StrawberryJam2021/5-Grandmaster/tcookiem
 #   1
 #   1,J
 #   5
-#   1,L
+#   2,L
 #   1
-#   9,L,D
-#   7,L,D,J
+#   6,L,D
+#   3,D
+#   5,L,J
 #   5,L
-#  14,L,J
-#  27,U,X
-#   4
-#  10,L
-#  10,L,Z
-#   5,R,J
-#   2,R
-#   9,R,J
-#  29,R,U,X
-#   2
-#   3,J,G
-#  11,R,X
-#   8,R,J
-#  11,R,K
-#  24,R,D
-#  24,L,D
-#  27,R,D
+#   9,L,J
+#  23,U,X
+#   2,L
 ##
    1,J
    2,R,J
@@ -452,40 +439,26 @@ console load StrawberryJam2021/5-Grandmaster/tcookiem
    1,G
   17,L,J,G
   26,U,X
-   3,L
-  15,L,U,X
-   4,L
-   1,L,J,G
-   1,L,K,G
-  11,L
-   1,L,J
-  14,R,Z
-   4,R,J
+   2,L
+  10,L,X
+  22,R,J
    1,R
+  18,U,X
+   2,R
+  13,R,C
+   6,R,J,G
+   7,R
+   6,L,Z
+   1,R,J
+   6,R
    8,R,J
-  18,R,U,X
-   9,R
-   1,R,J,G
-#-1f, .01 off
-#   1,R
-#  11,R,X
-#   4,R,J
-#   1,R
-#   8,R,K
-# 160,R,D
-##
-  11,R,X
-   8,R,J
-   5,R,K
-   5,R
-   4,R,K
-  31,R,D
-  38,D
+  18,R
+  14,R,D
+  24,L,D
+  19,R,D
+   5,D
    1
-   1,D
-   1
-   1,R
-   4,R,D
+   4,R
   15,U,X
    1
    2,J
@@ -603,4 +576,4 @@ console load StrawberryJam2021/5-Grandmaster/tcookiem
    8,U,X
  135,D
 
-ChapterTime: 1:12.607(4271)
+ChapterTime: 1:12.420(4260)
