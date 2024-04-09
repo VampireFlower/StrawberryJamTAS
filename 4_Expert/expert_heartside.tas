@@ -1,4 +1,4 @@
-RecordCount: 44880
+RecordCount: 45176
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -591,13 +591,16 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
 #lvl_b01_stotch
    7,R,U,X
   14,U,Z
-   6,R
+   5,R
   15,R,X
    1
   15,R,U,X
-  13,G
+  12
+   1,G
    7,L,D
-  22,R,D
+  20,R,D
+   1,R
+   1,R,D
   15,R,X
    7,R
   50,G
@@ -880,7 +883,7 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
   21,R,D
   12,R,Z
 ## Spinner cycle [b04_powerav]
-   0
+   1
 ###
   45,R,X
   15,U,C
@@ -1362,7 +1365,7 @@ AnalogMode Ignore
    1,L,D
    4,D
   17,L,D
-   8,L,Z
+   8,L,X
    2,L,J,G
    4,L
    1,L,J,G
@@ -1371,13 +1374,27 @@ AnalogMode Ignore
    1,L
   16,D
   15,L,D,X
-  22,L,D
-   2,L
-   1
-  10,L,X
-   8,R,J
+## misses coin, too much speed if neutral cb
+#  18,L,D
+#   2,D
+#   2,L,D
+#  10,L,D,X
+#   1,J
+#   1,L,K,G
+#   3,K
+#  15,R,D,X
+#   4,Z
+#   1,L,J
+#  50,J
+##
+  10,L,D
+  10,D
+  11,L,D,X
+   7,R,J
   18,R,D,X
-   7,R,D,C
+   1,D
+   1,R,D
+   5,R,D,C
    1,L,J
    4,L
    1
@@ -1841,7 +1858,7 @@ EndRepeat
    1,R,J,G
    7,R
 ## Lightning cycle [d02_lethargicdoggo]
-   0
+   2
 ##
    4,R,X
   16,R,J
@@ -2213,7 +2230,6 @@ EndStunPause
    7,R
    7,R,D
   17,R,U,Z
-
 ## old strat +2f
 #  10,J
 #  10,L,Z
@@ -2244,7 +2260,6 @@ EndStunPause
 #  16,R,U,Z
 #  18,R,U,X
 ##
-
    1,L,J,G
    4,R,J
   13,R
@@ -3669,4 +3684,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 7:43.369(27257)
+ChapterTime: 7:43.318(27254)
