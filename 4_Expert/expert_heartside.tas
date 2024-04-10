@@ -1,4 +1,4 @@
-RecordCount: 45176
+RecordCount: 45355
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -1289,16 +1289,21 @@ endstunpause
    7,R,D,X,G
    1,R,J
    7,R
-  12,R,D,J
-  21,R,K,G
-   1
-   6,G
-  28,U,G
-   6,J
-   1,K
+  10,R,D,J
+  10,R,K,G
+   2,K
+   7
+   1,G
+   2,R,J,G
+   7
+  32,U,G
    1,J
-  14,L,J
-   1,R,J
+   1,L,J
+   1,K
+  12,L,J
+   1
+   2,L
+   1
   15,U,X
    1,L
   18,R,J
@@ -1328,7 +1333,7 @@ AnalogMode Square
   10,F,340.592
   20,F,345
    8,F,0
-   6,F,26.5
+   6,F,26.4
 AnalogMode Ignore
   14,R,Z
    2,R,J,G
@@ -1394,7 +1399,7 @@ AnalogMode Ignore
   18,R,D,X
    1,D
    1,R,D
-   5,R,D,C
+   5,R,D,X
    1,L,J
    4,L
    1
@@ -1858,7 +1863,7 @@ EndRepeat
    1,R,J,G
    7,R
 ## Lightning cycle [d02_lethargicdoggo]
-   2
+   0
 ##
    4,R,X
   16,R,J
@@ -3684,4 +3689,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 7:43.318(27254)
+ChapterTime: 7:43.267(27251)
