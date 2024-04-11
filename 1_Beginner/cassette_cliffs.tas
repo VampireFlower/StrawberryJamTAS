@@ -1,4 +1,4 @@
-RecordCount: 5213
+RecordCount: 5232
 
 console load StrawberryJam2021/1-Beginner/Ceph
    1
@@ -403,11 +403,13 @@ console load StrawberryJam2021/1-Beginner/Ceph
    2
   14,R,Z
    1,R,J
-   1,R
-   1,R,J
-  11,R,D
+   2,R
+   1,R,K
+   2,R
+   2,R,K
+   6,R
   14,R,Z
-   2,J,G
+   1,J,G
    5,R,J
   44,R,U,G
    3,L,J
@@ -472,4 +474,4 @@ console load StrawberryJam2021/1-Beginner/Ceph
   14,R,U,X
  135
 
-ChapterTime: 0:58.225(3425)
+ChapterTime: 0:58.208(3424)
