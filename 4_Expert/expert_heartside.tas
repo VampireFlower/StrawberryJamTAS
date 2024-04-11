@@ -1,4 +1,4 @@
-RecordCount: 45589
+RecordCount: 46242
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -1574,54 +1574,60 @@ AnalogMode Ignore
   13,U,X
   24,L,J
   28,L,X
-  12,R,U,C
-  33,R,D,G
-   1,R
-  16,R,U,X
-  14,R,Z
-  20,R,G
-   6,D,G
+  14,R,U,C
+  26,R,G
    1
-  15,L
+  11,R
+  15,R,X
+   9,R,Z
+  16,R,G
+   6,G
+   7,R,G
+   9,R,J,G
+   3,R
+  15,R,X
+  11,R
+  15,D,X
+  13,D
+   1,R
+  18,D
    2
-   1,K
-   5,R,K
-   4,R
-  22,R,X
-   4,R
-  34,D,X
-   5
-   6,R
-  10,U,X
-  18,G
+   5,U,X
+  17,G
    5,L,G
-   1,J,G
-   3,R,J,G
-   2,J,G
+   3,J,G
+   6,R,J,G
    1,L
-   4,X
-  11,R,D,X
+  15,R,D,X
    5,R
-  11
+  10
    5,R,D,X
    9,R,Z
-  13,R,J,G
-   3,J
-   1,K
-   1,L,J,G
-  13,L,J
-   2,J
-   8,R,K
-  17,R
-  12,R,G
-  13,L
-   5,R,X
-  26,R,G
-  14,R,U,X
-  21,R,G
+  12,R,J,G
    1,R
-  18,R,D
-   6
+   3,L
+   1,J
+   2,K,G
+   2,R,K
+  24,R,K,G
+  12,R,K
+   1,G
+   1,J,G
+   2
+   5,L
+   1,L,J
+   2,L
+   1,J
+   3
+   1,L
+   8,R,X
+  27,R,D,G
+   1,R
+   1,R,D
+  12,R,U,X
+  21,R,G
+   9,R
+  14
   13,R,X
   14,R,C
    9,R,J,G
@@ -1864,9 +1870,9 @@ EndRepeat
    1,R,J,G
    7,R
 ## Lightning cycle [d02_lethargicdoggo]
-   1
+   0
 ## drift wait
-   3
+  24
 ##
    4,R,X
   16,R,J
