@@ -1,4 +1,4 @@
-RecordCount: 46242
+RecordCount: 46246
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -544,17 +544,16 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    9,D,X
   13,R,J
   48,R,X
-#+4f drift manip
-   8,R,J
-  10,R,K
-   2,K
-  24,R,K
-  65,R
-
-#+0f version
-#   4,R,J
-#  50,R,K
-#  51,R
+#+0f drift manip
+   4,R,J
+  50,R,K
+  51,R
+#+4f version
+#   8,R,J
+#  10,R,K
+#   2,K
+#  24,R,K
+#  65,R
 
 #lvl_b00_intro
    6,L
@@ -883,7 +882,7 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
   21,R,D
   12,R,Z
 ## Spinner cycle [b04_powerav]
-   1
+   0
 ###
   45,R,X
   15,U,C
@@ -1871,8 +1870,6 @@ EndRepeat
    7,R
 ## Lightning cycle [d02_lethargicdoggo]
    0
-## drift wait
-  24
 ##
    4,R,X
   16,R,J
@@ -3698,4 +3695,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 7:43.165(27245)
+ChapterTime: 7:42.672(27216)
