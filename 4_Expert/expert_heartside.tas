@@ -1,4 +1,4 @@
-RecordCount: 46330
+RecordCount: 46563
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -2049,18 +2049,13 @@ EndRepeat
    1,R,D,J,G
   15,R,D,X
 ## Cycle in d01_ru
-StunPause
+stunpause
    6,R,D
-EndStunPause
+endstunpause
    3,R,D,J
    5,R
-   2,R,K,G
-#may need an extra pause depending on drift
-#stunpause
-   1,R,K,G
-   1,R
-#endstunpause
-   4,R
+   3,R,K,G
+   5,R
    3,R,J
   14,R,U,X
    3,J,G
@@ -2573,7 +2568,7 @@ EndStunPause
   14,R,J
   14,R,D,X
    4,R
- 100
+ 101
   10,R
   60
    1,R,J
@@ -2584,7 +2579,9 @@ EndStunPause
    5,L,X
   12,L,J
    3,R
-  13,L
+   3,L
+   1,L,J,G
+   7,L
   10,L,X
    1,L,J
    4,L
@@ -3052,31 +3049,25 @@ EndStunPause
    9,L
   13,L,Z
    1,R,J
-   1,R
+   1
   15,R,D,X
-   8,R,D
-   1,D
-   1,R,J
+   9,D
+   5
+   3,R,J
   11,R,D,X
-   5,J
-  14,R,U,X
-   1,R,J,G
-   5,R,D
-   4,L,D
-  27,R,D
-   4,R,Z
+  12,R,J
+  10,R
    1,R,J
-   6,R
-   7,R,J
-   4,R
-  43
+  19,R,D,X
+   7,R
+  40
 
 #lvl_f02.5_xolimono
+   3
    1,R
-  15,R,D,X
- 215,R,D
+ 219,R,D
    3,R,J
-   6,R,Z
+   5,R,Z
    1,R,J
   12,R,K,G
    8,R,J,G
@@ -3677,4 +3668,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 7:41.890(27170)
+ChapterTime: 7:41.397(27141)
