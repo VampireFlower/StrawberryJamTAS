@@ -1,4 +1,4 @@
-RecordCount: 46246
+RecordCount: 46330
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -987,7 +987,8 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    6,L,D,X
    1,R,J
    1,R
-   3
+   1,K
+   2
    3,R,D,J
    1,J
    2,R,J
@@ -995,9 +996,8 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
 stunpause
    4,R,D,X
 endstunpause
-   5,R
+   5,R,D
 stunpause
-skipinput 3 1
    1,L
    1,J,G
 endstunpause
@@ -1005,11 +1005,12 @@ endstunpause
    1,R
    4
    1,R
-   8
+   7
+   1,D
    9,R,D
    1,R
-   2,R,D
-   8,R
+   1,R,D
+   9,R
    7
    1,R
    1
@@ -2241,50 +2242,31 @@ EndStunPause
    7,R
    7,R,D
   17,R,U,Z
-## old strat +2f
-#  10,J
-#  10,L,Z
-#  11,R,J
-#   4,R
-#  15,R,U,X
-#  26,R,D
-#   7,L,D
-#   2,L
-#   9,L,D
-#   3,R,D
-#   9,R,X
-#   1,R,J
-#  36,R,U,J,G
-#   3,R,J
-#   1,J
-#   4,R,J
-#  14,U,X
-#  13,U,G
-#   1,L,U,G
-#   3,U,G
-#   8,R,U,G
-#   7,R
-#  14,R,X
-#  96,R,U,J,G
-#   1,L,J
-#  10,R,J
-#  16,R,U,Z
-#  18,R,U,X
-##
    1,L,J,G
    4,R,J
   13,R
   15,R,Z
   18,R,D
-   6,R,X
+   4,R,Z
+  10,R,J
+  27,R,J,G
+  10,R,D,G
+   5,R,U,G
+   1,R
+   6,U,X
    4,R,J
-  40,R,J,G
-  11,R,K
-  13,U,X
-  15,L,J,G
- 160,R,U,J,G
+   6,R
+   1
+   1,R
+   3,R,K
+   1,R
+  21,R,U,J,G
+   1,U,J,G
+  99,R,U,J,G
+   3,R,D,G
    1,L
-  10,R
+   8,R
+   2
   15,R,U,Z
   18,R,U,X
   13,R,Z
@@ -3695,4 +3677,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 7:42.672(27216)
+ChapterTime: 7:41.890(27170)
