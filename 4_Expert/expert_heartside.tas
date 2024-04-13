@@ -1,4 +1,4 @@
-RecordCount: 46563
+RecordCount: 46792
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -2243,12 +2243,14 @@ endstunpause
   15,R,Z
   18,R,D
    4,R,Z
-  10,R,J
-  27,R,J,G
-  10,R,D,G
-   5,R,U,G
+   9,R,J
    1,R
-   6,U,X
+  27,R,U,J,G
+  11,R,U,G
+   2,U,G
+   1,R,U,G
+   1,R
+   5,U,X
    4,R,J
    6,R
    1
@@ -2257,11 +2259,10 @@ endstunpause
    1,R
   21,R,U,J,G
    1,U,J,G
-  99,R,U,J,G
-   3,R,D,G
+  96,R,U,J,G
+   2,R,D,G
    1,L
-   8,R
-   2
+  12,R
   15,R,U,Z
   18,R,U,X
   13,R,Z
@@ -3051,21 +3052,24 @@ endstunpause
    1,R,J
    1
   15,R,D,X
-   9,D
-   5
-   3,R,J
-  11,R,D,X
-  12,R,J
-  10,R
-   1,R,J
-  19,R,D,X
-   7,R
-  40
+   4,D
+   5,R,D
+   1,R,D,J
+  14,R,X
+   2,R,J
+  11,L,K,G
+   7,R,K
+   1,R,J,G
+   2
+   1,R
+  15,R,D,X
+   5,R,D
+   5,R
+   1,R,D
+  43
 
 #lvl_f02.5_xolimono
-   3
-   1,R
- 219,R,D
+ 220,R,D
    3,R,J
    5,R,Z
    1,R,J
@@ -3668,4 +3672,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 7:41.397(27141)
+ChapterTime: 7:41.278(27134)
