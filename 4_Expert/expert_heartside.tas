@@ -1,4 +1,4 @@
-RecordCount: 46889
+RecordCount: 47009
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -1379,19 +1379,6 @@ AnalogMode Ignore
    1,L
   16,D
   15,L,D,X
-## misses coin, too much speed if neutral cb
-#  18,L,D
-#   2,D
-#   2,L,D
-#  10,L,D,X
-#   1,J
-#   1,L,K,G
-#   3,K
-#  15,R,D,X
-#   4,Z
-#   1,L,J
-#  50,J
-##
   10,L,D
   10,D
   11,L,D,X
@@ -3016,29 +3003,35 @@ endstunpause
    1,R,D
    1,D
    1,R,D
-   1,L,D
-  15,L,Z
+   3,L,D
+   1,L
+  15,L,X
    9,L
+  17,U,G
    1,G
+   1,U,G
+   1
+   1,L,J,G
+   2,K,G
+   4,R
+   3
+   4,R
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+  10,R,D,X
+  11,D
+   1,J
+   3,L
    1
    1,L
-  11
-   2,G
    2
-   1,K
-   1,J,G
+   2,L
+   3
+   1,L
    2
-   1,R
-   9,L,D
-   2,G
-   1
-   1,K
-   1,J,G
-   1,L,K,G
-  21,R
-  15,L,D,X
-   9,R,Z
-  16,R,J
+   4,Z
+  15,R,J
   15,R,U,X
    9,L
   13,L,Z
@@ -3665,4 +3658,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 7:41.040(27120)
+ChapterTime: 7:40.989(27117)
