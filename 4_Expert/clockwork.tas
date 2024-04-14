@@ -102,8 +102,7 @@ console load StrawberryJam2021/4-Expert/fonda1515
   10,R,K
   17,R
    6,R,D
-   1,R
-   2,R
+   3,R
    6
   15,L,U,X
    3
@@ -806,14 +805,12 @@ console load StrawberryJam2021/4-Expert/fonda1515
   20,D
    4,R,D
    1,D
- 116,R,D
-  10,R,D
+ 126,R,D
   23,R,D,X
    3,R
   10
    1,R
-  53,D
- 146,D
+ 199,D
   18,J
   17,U,X
  251

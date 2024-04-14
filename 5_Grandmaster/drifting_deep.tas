@@ -800,17 +800,14 @@ EndStunPause
   11,R
    1,R,J
    8,R,U,Z
-  40
+  43
 
 #lvl_a-08
-   3
-   3,R
-   3,R
+   6,R
    1,L,J,G
    1,R,J
    4,J
-   3
-   1
+   4
    1,L,J,G
    8,R,J
   20,R,D,X
@@ -886,7 +883,6 @@ EndStunPause
    4,R,Z
   10,R,J
   22,R,U,X
-
    4,R,J
    2,R
   20,R,D,X

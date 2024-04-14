@@ -127,8 +127,7 @@ EndRepeat
    1,L,J
    1,R,K,G
    4,L,K
-  13,L
-  10,L
+  23,L
    2
   10,R,D,X
    1,R,J
@@ -339,8 +338,7 @@ EndRepeat
    2,J
    1,R,J
    1,J
-   1,R,J
-   1,R,J
+   2,R,J
   15,R,U,X
    8,R,Z
    1,R,J
@@ -983,8 +981,7 @@ EndRepeat
    4,R
    5
    2,K
-   2,R,K
-   3,R,K
+   5,R,K
    3,R
   18,R,D
    3,L,D

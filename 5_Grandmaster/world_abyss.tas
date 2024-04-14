@@ -1023,8 +1023,7 @@ EndRepeat
    1,R
    1,L,J
    9,L
-   2,L,J
-   4,L,J
+   6,L,J
    1,J
    2,J,G
    3,L,J
@@ -1184,8 +1183,7 @@ EndRepeat
    1,L,J
    7,L,D,X
    1,L,J,G
-   8,L
-   2,L
+  10,L
   20,L,J
    6,J
    3

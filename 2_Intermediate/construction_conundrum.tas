@@ -330,8 +330,7 @@ EndRepeat
    4,R,J
   12,U,X
    8,R,J
-  11,R
-   6,R
+  17,R
    1,R,J
   11,R,U,Z
    2,L
@@ -621,8 +620,7 @@ EndRepeat
 StunPause
   38,R,D
 EndStunPause
-   5,D
-  14,D
+  19,D
    4
    1,L
    1,D

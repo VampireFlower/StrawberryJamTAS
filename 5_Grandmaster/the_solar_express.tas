@@ -550,9 +550,7 @@ EndRepeat
    2,L,J
    6,R,J
    1
-   5,J
-
-   1,J
+   6,J
    4,R,J
    1,R
    9,R,K
@@ -602,8 +600,7 @@ EndRepeat
    1,R,J
   13,R,G
    8,R,J,G
-   1,L
-  17,L
+  18,L
    9,R,D,X
    5,L,J
    6,L
@@ -984,8 +981,7 @@ EndRepeat
    2,L
    9,L,D,X
    1,R,J
-  13,R,J,G
-   2,R,J,G
+  15,R,J,G
   25,R,K,G
    1,R,D
    2,G

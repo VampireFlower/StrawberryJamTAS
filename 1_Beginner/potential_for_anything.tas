@@ -172,8 +172,7 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
 
 #lvl_SS2-3 (1)
   18,R,U
-  57,U
-   8,U
+  65,U
    2,R,U
   40
 
@@ -400,8 +399,7 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
    1,R,J
    1,R
    1,R,K,G
-   4,R
-  12,R
+  16,R
   10,L,D
    3,L
    4,J

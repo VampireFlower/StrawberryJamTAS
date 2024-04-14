@@ -39,8 +39,7 @@ console load StrawberryJam2021/1-Beginner/snas
    1,R,J,G
    2,R
   18,R,D,X
-   1,R,D
-  14,R,D
+  15,R,D
    2,R,J
   12,R,Z
    1,R,J
@@ -113,8 +112,7 @@ console load StrawberryJam2021/1-Beginner/snas
   10,R
    8,R,Z
    1,R,J
-   6,R
-   3,R
+   9,R
    8,R,J
    6,R
    2,R,J
@@ -153,8 +151,7 @@ console load StrawberryJam2021/1-Beginner/snas
    6,L
    1,L,J
   25,L,D
-  14,D
-   7,D
+  21,D
    1,R,D
    2,R
    1,R,D

@@ -27,7 +27,6 @@ console load StrawberryJam2021/5-Grandmaster/maya
   18
 
 #lvl_Tutorial
-
    6,L,Z
    1,R,J
    7
@@ -104,8 +103,6 @@ console load StrawberryJam2021/5-Grandmaster/maya
   40
 
 #lvl_Ready?
-
-
    2,R
    2,R
    2
@@ -124,9 +121,6 @@ console load StrawberryJam2021/5-Grandmaster/maya
   15,R,D,X
    4,R,J
   38,R
-
-
-
 
 #   2,R
 #   2,R
@@ -147,7 +141,6 @@ console load StrawberryJam2021/5-Grandmaster/maya
 #  15,R,D,X
 #   4,R,J
 #  38,R
-
 
   13
    3,D

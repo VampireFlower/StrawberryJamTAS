@@ -93,8 +93,7 @@ console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
   13,R,G
    9,R,D,G
   11,D,G
-   3,R,D,G
-   1,R,D,G
+   4,R,D,G
    1,G
   17,R,J,G
   11,L,K,G
@@ -449,7 +448,6 @@ console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
   13,R,G
   40
 
-
 #lvl_a-06
    1,R,J,G
   14,R,G
@@ -629,8 +627,7 @@ StunPause
    7,L,D,G
 EndStunPause
    1,D,G
-  18,L,D,G
-   1,L,D,G
+  19,L,D,G
    3,D,G
    1,L,D,G
   19,D,G

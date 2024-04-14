@@ -1,4 +1,4 @@
-`RecordCount: 6287
+RecordCount: 6287
 
 console load StrawberryJam2021/4-Expert/Archire
    1
@@ -147,8 +147,7 @@ console load StrawberryJam2021/4-Expert/Archire
    9,L,U,Z
   11,R
   15,R,D,X
-  10,R
-   3,R
+  13,R
    8,R,D
    1,R,J
   12,R,D,X
@@ -160,8 +159,7 @@ console load StrawberryJam2021/4-Expert/Archire
    3,R,J
    1,R
    2,R,J
-   1,R
-  13,R
+  14,R
    1,X
    6,D,X
   23,R
@@ -379,7 +377,6 @@ endrepeat
    8,R
    1,R,J
   13,R,D,X
-
 
 #lvl_a-10
    1,R,J

@@ -282,8 +282,7 @@ EndRepeat
    5,R,K,G
    3,R
    6
-   2,L
-   2,L
+   4,L
    5,L,Z
    1,R,J
    4,R
@@ -430,8 +429,7 @@ EndStunPause
 #lvl_7
   11,R,U,X
   10,R,J,G
-   2,R
-   9,R
+  11,R
   14,R,U,X
    1,J,G
    9

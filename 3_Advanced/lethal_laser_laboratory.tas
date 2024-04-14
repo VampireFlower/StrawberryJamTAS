@@ -85,9 +85,7 @@ console load StrawberryJam2021/3-Advanced/hennyburgr
    8,R
    4
    4,R
-
 # cant go earlier with cycle
-
    5,R,Z
    1,R,J
    5,R
@@ -186,8 +184,7 @@ console load StrawberryJam2021/3-Advanced/hennyburgr
    2,L
   13,L,U,X
    1,K,G
-   8
-   1
+   9
    9,K
    1
   17,U,C

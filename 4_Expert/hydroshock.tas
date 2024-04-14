@@ -1,4 +1,4 @@
-RecordCount: 6279
+RecordCount: 6282
 
 console load StrawberryJam2021/4-Expert/Jackal
    1
@@ -325,9 +325,8 @@ console load StrawberryJam2021/4-Expert/Jackal
    1,R
    7,R,J
   10,R
-   8,U,X
-  31,R
-   3,R
+  14,U,X
+  28,R
    5,R,D
    3,R
    6,R,D

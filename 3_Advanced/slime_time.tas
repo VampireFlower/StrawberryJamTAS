@@ -255,8 +255,7 @@ console load StrawberryJam2021/3-Advanced/galaksyz
   40
 
 #lvl_a_05-TiltTheStars
-   6,R,D
-   1,R,D
+   7,R,D
    1,D
    1,R,D
    1,L,D
@@ -301,8 +300,7 @@ console load StrawberryJam2021/3-Advanced/galaksyz
    4,R,Z
    2,R,J
    2,R,K,G
-  10,R
-   4,R
+  14,R
    1,R,J
    3,R,K,G
    8,R,D,X

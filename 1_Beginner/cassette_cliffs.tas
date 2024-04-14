@@ -120,8 +120,7 @@ console load StrawberryJam2021/1-Beginner/Ceph
    6,D
    1
    1,D
-   1
-   1
+   2
    1,R,D
    2
   15,L,D,X
@@ -187,7 +186,6 @@ console load StrawberryJam2021/1-Beginner/Ceph
   15,R,D,X
    5,R,D
    1,R,J
-
    7,R,J
  134,R,G
    4,R,D
@@ -232,7 +230,6 @@ console load StrawberryJam2021/1-Beginner/Ceph
    3,R,U,G
   10,R,X
   16,J
-
   15,U,Z
    1,R,J,G
    7,R
@@ -295,8 +292,7 @@ console load StrawberryJam2021/1-Beginner/Ceph
   16,L
   15,L,Z
   20,D
-   6
-  91
+  97
   15,R,D,X
    4,R,D
    1,R,J

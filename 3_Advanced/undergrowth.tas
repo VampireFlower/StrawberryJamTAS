@@ -1,4 +1,4 @@
-RecordCount: 10466
+RecordCount: 10468
 
 console load StrawberryJam2021/3-Advanced/Nic
    1
@@ -331,10 +331,7 @@ EndStunPause
    3,L
    5,R,J,G
    4,K
-   1,L,J,G
-   4,J
-   1,J
-   1,J
+   7,L,J,G
    1,K
    8,J,G
    5,R,J

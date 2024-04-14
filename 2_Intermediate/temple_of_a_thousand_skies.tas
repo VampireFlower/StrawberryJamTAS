@@ -80,7 +80,6 @@ console load StrawberryJam2021/2-Intermediate/Ice
    8,L,J
   40
 
-
 #lvl_a-04
    8,L,J
    1,J
@@ -684,8 +683,7 @@ EndStunPause
   27,U,X
    2,R
   10,R,X
-   5,J
-   1,J
+   6,J
   14,U,X
    9,J
    3

@@ -686,8 +686,7 @@ EndStunPause
   14,L,X
   18,R
   15,R,X
-   1,R
-  68,R
+  69,R
    2,L,D
   15,D,X
   15,D,C
@@ -1650,7 +1649,6 @@ EndRepeat
    8,R,K,G
   14,U,X
   40
-
 
 #lvl_heartside_citrea
 #FUCK THIS
