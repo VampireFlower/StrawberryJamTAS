@@ -1,4 +1,4 @@
-RecordCount: 48021
+RecordCount: 48487
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -3081,34 +3081,21 @@ endstunpause
    1,R,J
   14,R,D,X
    1,R,J
-  14,R,D,X
-   6,R,J
-   1,J
-   7,R,J
-   1,L,K,G
-   5,R,K
-   1,R
-   3
-  15,U,X
-   1,R
-   2,L
-   1,R
-   1,G
-  10,R,J,G
-   2
-   1,J
+   4,R,X
+   2,R,J
+  14
+   4,R
+   6,R,D
+   4,L
+  13,R
+   2,R,D
+  13,R,Z
+  11,R,J,G
    1,R,K,G
-   2,L,K
-  14,L
-  39,D
-  10
-  18,R
-   1,L,D
+  17,R
+  16,R,J
    1,J
-   8,R,U,Z
-   1,L,J,G
-  21,R,J
-  10,U,X
+  14,U,X
   18,L,J
   19,G
    6,D,G
@@ -3676,4 +3663,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 7:40.292(27076)
+ChapterTime: 7:39.119(27007)
