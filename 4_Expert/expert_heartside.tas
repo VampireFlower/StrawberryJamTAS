@@ -1,4 +1,4 @@
-RecordCount: 47417
+RecordCount: 47915
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -852,15 +852,21 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    3,L,K
   12,L,Z
   30,D,X
-  13,R,Z
-# bruh 1
-  14
+  13,R,C
+  15
   31,R,X
    1,R,J,G
-  27,R,K,G
-  19,R,X
-  13,U,C
-  28,R,J
+   1
+   2,R,J,G
+   4,R
+   2
+  11,R,J,G
+  14,R
+  17,R,U,Z
+   1,K
+   9,R,J
+  15,R,U,X
+   4,R
   15,R,X
   15,R,C
   12,R,X
@@ -868,14 +874,12 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
   22,L,D
   20,L,Z
   11,U,X
-# bruh 2
   11
-  33,U,X
-   5
+  38,U,C
   15,R,U,X
   24,R,C
-   6,R
-   9
+   8,R
+   7
   15,R,D,X
   16,R,D,C
   19,D
@@ -883,7 +887,7 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
   12,R,Z
 ## Spinner cycle [b04_powerav]
    0
-###
+##
   45,R,X
   15,U,C
    1,L
@@ -1921,41 +1925,38 @@ EndRepeat
   16,U,X
   15,R,U,C
   35,R,D
-# I did not test if this was faster
   12,R,X
-  25,R,U,G
-   1,R
-   8,L,D,X
-  14,R
-   9,U,X
-  22,G
-  10,L,G
-   6,R,G
-   3
-   7,R
-  14,R,U,X
-  21,R,U,G
-   4,R
-  10,R,U,X
-   1,K,G
-   1,K
-   2,L,K
+  23,R,U,G
+   1,D,J
+   3,R
+   1,L
+  15,U,Z
+   1,J,G
+   1
    4,L
+   1
+   9,R
+  12,L,D,X
+   8,R
+  21,G
+  11,R
+  10,U,X
+  24,L,G
+   1,G
+  10,R
+  14,R,U,X
+  21,G
+   1,R
+  11,R,U,X
+   4,J,G
+   6,L,J
    5,R,X
   34,R,G
    4,R,J,G
-  15,R,D,K,X,G
-   3,R,U,G
-   1,U,G
-   2,R,U,G
-   6,U,G
-   1
-  15,R,U,X
-   3
-   2,R
-  85,R,U,J,G
-   1,L,J
-   7,R,J
+   7,R,Z,G
+  52,R,U,J,G
+   1,L
+  15,R,X
   53,R
   15,R,D,X
    4,R
@@ -3671,4 +3672,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 7:40.751(27103)
+ChapterTime: 7:40.343(27079)
