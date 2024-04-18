@@ -1,4 +1,4 @@
-RecordCount: 5957
+RecordCount: 5985
 
 console load StrawberryJam2021/5-Grandmaster/xplosives
    1
@@ -73,20 +73,18 @@ console load StrawberryJam2021/5-Grandmaster/xplosives
    6,R,J
    5,R
    9,R,J
-  14,R
-   1,K,G
-   8
-   3,L
-   1,G
-   6,R,J
-   7,R
+   9,R
+   3,R,D
+   2,R
+   1,R,J,G
+   6,R
   15,R,U,X
-  11,R
+   9,R
+  30,G
+   1,D,G
    1,G
-   1
-  20,G
-  16,D,G
-   5,L,D
+   6,D,G
+   5,L
    2,L,J
   15,L,D,X
   18,L,D
@@ -357,4 +355,4 @@ endstunpause
   32,G
   54
 
-ChapterTime: 0:43.469(2557)
+ChapterTime: 0:43.112(2536)
