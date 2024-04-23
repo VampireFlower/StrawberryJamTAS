@@ -1,4 +1,4 @@
-RecordCount: 6929
+RecordCount: 7160
 
 console load StrawberryJam2021/5-Grandmaster/fishtank
    1
@@ -710,28 +710,30 @@ endrepeat
    6,L,K
   26
    1,R,D
-  34,F,6
-   9,F,359.9
-   1,F,351
-  16,F,271
-   9,F,300
-  10,F,337
-  26,F,33.3
-  27,F,19
-  14,U
-   1,R,U
-   1,U
-   1,R,U
+  34,F,6.5
+   8,F,359.9
+   1,F,350
+   8,F,290
+   6,F,274
+   4,F,281
+   6,F,309.68
+   6,F,344
+   9,F,7
+  21,F,30.7
+  17,F,24
+   7,F,7.31
+  15,F,1.1
+   1,F,2
    1,L,U
-   1,U
    1,J
    3,K,G
-   3,R
+   3,R,K
    1,R,J,G
-   2,R,K,G
-   4,R
+   3,R,K,G
+   3,R
    6,R,J,G
-   4,R,K,G
+   2,R,K,G
+   2,R
    1,R,J
    1,R,K
    1,R,J
@@ -739,30 +741,25 @@ endrepeat
   40
 
 #lvl_The End of TIMELINE
-  10,R,D
-   5,R,J
-   5,R
-   8,R,K
-  16,R
-   4,R,D
+   9,R
+   1,R,D
+   8,R,J
+   7,R
+   1,R,K
+  22,R,D
+   1,R,J
+   1,R,K
+   1,R,J
+  15,R,K
+   4,R,J,G
+   5,R,K,G
+   3,R,J,G
    1,R
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   5,J
-   7,R,J
-   6,R,K,G
-   1,R,J,G
-   1,J
-   2,R,J
-   3,R,K,G
-   9
+   8
   10,L,D,X
    1,L,J
    9,J
   16,L,U,X
  135
 
-ChapterTime: 1:04.277(3781)
+ChapterTime: 1:04.141(3773)
