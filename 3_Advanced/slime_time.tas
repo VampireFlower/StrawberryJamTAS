@@ -1,10 +1,14 @@
-RecordCount: 8890
+RecordCount: 9826
 
 console load StrawberryJam2021/3-Advanced/galaksyz
    1
 
 #Start
  190
+
+## Spinner cycle
+   1
+##
 
 #lvl_a_00-Worldwaker2
    4,R,X
@@ -47,58 +51,77 @@ console load StrawberryJam2021/3-Advanced/galaksyz
   19,R,X
   15,R,Z
   15,R,X
-  13,R,Z
+   7,R,C
    1,R,J
-   1,R,K,G
+   4,J
+   1,K,G
+   2,K
+   2
    1,R
-   1,R,J,G
-   1,R,K,G
-   1,R
-   1,R,J,G
-   7,R
-   6,R,K
-  26,R
-   5,R,D
-  11,R,U,Z
-  13,R,U,X
-   4,D,C
-   8,U,C
-  15,R,U,X
-   3,R
-  15,R,D,X
-   8,R,D
-   6,D
-  10,R,D,X
-  11,R,J
-  10,U,X
-   9,R,J
-  15,R,X
-   5,R
-  14,R,D,C
-  23,R,J
-   4,R
    3
-   1,R
-  16,R,Z
-   6,R,J,G
-   7,R
-   6,R,Z
+  10,J
+   3,L,J
+   2,J
+   1,L
+   1,G
+   3
+   1,L
+   1,G
+   2
+   1,G
+   1
+   1,G
+   2
+   1,L
+   1
+   1,L
+   1,G
+   1
+   5,R,J
+   2,R
+   9,L,D,X
+   1,L,J,G
+   2,L,K,G
+   4,L
+   1
+   1,L,J
+  13
+   1,L
+  12,R,D,X
    1,R,J
-   2,R,K,G
+   1,R,K,G
+   1,R,K
    1,R,J,G
-   3,R,K,G
-  12,K
+   5,R,D,X
+   1,R,J,G
+   1,R,K,G
+   7,R
+   9,R,D,J
+   6,R
+   5
+  12,R,D
+   3,R
+   1,R,D
+   1,R
+   3,R,D,J
+   1,R,K,G
+   2,R,J,G
+StunPause
+   2,R,J,G
+EndStunPause
+  15,R,J,G
+  10,R,U,X
   40
 
 #lvl_a_02-Gala
-   1
-   8,R,Z
-   4,J,G
-   3,R
-   1
-   3,R
-  14,R,D,X
-  19,R,J
+   5,R,U,X
+   4
+  15,D,X
+   1,R
+   2,R,J
+  15,J
+  10,L,Z
+  23,R,J
   14,R,U,Z
   15,U,C
    2,R,J,G
@@ -356,7 +379,6 @@ console load StrawberryJam2021/3-Advanced/galaksyz
    4,R,J
    6,R
   14,R,X
-#maybe get +40 here
    1,J,G
   12,R,J
   11,R,X
@@ -450,7 +472,7 @@ console load StrawberryJam2021/3-Advanced/galaksyz
   15,U,X
   18,R,J
 #moonblock + spinner cycle
-   5
+   3
 ##
   15,U,X
   18,R,J
@@ -527,4 +549,4 @@ console load StrawberryJam2021/3-Advanced/galaksyz
   19
  116,D
 
-ChapterTime: 1:15.871(4463)
+ChapterTime: 1:14.868(4404)
