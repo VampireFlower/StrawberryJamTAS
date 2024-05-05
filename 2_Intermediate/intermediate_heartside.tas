@@ -1,4 +1,4 @@
-RecordCount: 18778
+RecordCount: 18835
 
 console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1
@@ -23,7 +23,8 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
   15,R,J
    3,J
    5,K
-   5,L,K
+   3,L,K
+   2,L,K
    7,R,J,G
    7,R
    4,R,Z
@@ -50,7 +51,6 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1,R,J
   11,R,D,X
   40
-
 #lvl_cp1-1-liero
 ## -3f, but too far right
 #   2,R,D,X
@@ -209,7 +209,8 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    6,R
   15,R,U,X
    5,R
-  12,U,Z
+   7,U,Z
+   5,U,Z
   23,R,J
   15,R,X
   27,R
@@ -453,6 +454,7 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
   10,R,D,X
   14,R
   15,R,D,X
+
    2,R,D
    7,R,J
    6,R
@@ -653,9 +655,11 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
 StunPause
    2,R,K
 EndStunPause
-  16,R,K
+   5,R,K
+   1,R,J
+  12,R,D,X
 #Spinner Cycle
-   2
+   0
 #
    1,S
    1,D,J
@@ -997,8 +1001,9 @@ EndStunPause
   11,L,X
   16,L,J
    1,R,J
-   6,R
-  43,R,G
+   1,R
+   4,R
+  44,R,G
    7,R,D,G
 Repeat 43
    1,R,G
@@ -1528,7 +1533,6 @@ EndStunPause
    3,R,J,G
   21,R,K,G
   40
-
 #lvl_cp4-4-Marlin
   10,R,U,Z
    1,R,K
@@ -1692,4 +1696,4 @@ EndStunPause
   13,R,U,X
  135
 
-ChapterTime: 4:10.920(14760)
+ChapterTime: 4:10.869(14757)
