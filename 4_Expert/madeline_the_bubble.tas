@@ -1,4 +1,4 @@
-RecordCount: 11287
+RecordCount: 11762
 
 console load StrawberryJam2021/4-Expert/Vina
    1
@@ -294,55 +294,64 @@ console load StrawberryJam2021/4-Expert/Vina
    3,R
    1,R,J
    1,R
-   5,R,J
-  15,R,D,X
-  18,R,D,C
-   9,R,J
-   3,L,J
-  15,U,X
-  10,L
-  14,U,C
-   6
-  43,R,D
-   1
-  15,R,U,X
-  28,R,D
-   6
-  11,R
-  19,R,D,X
-  23,R,J
-  15,U,X
-   1,L
-   6
-   1,R
-   2,L
-  11
-  18,R,J,X
-  21,J
-  31,U,X
-  24,L,J,C
-   1,J
-   9
-   1,J
-   5
-  37,U,X
-  36,L
-  16,U,X
-   1,L
-   1
-   1,L
-   1
-   8,L
-  16,U,Z
-   4,R
-  35,L
-  14,U,X
    1,L,J
+   6,J
+  15,R,D,X
+   1,L
+   6,L,J
+   5,L
+  10,L,K
+   4,L
+   2
+   1,L
+   2
+   3
+   3,R
+   1
+  18,R,U,X
+  15,L,D,C
+   8,R,X
+  30,R,J
+  15,R,U,X
+   3
+   1,R
+   8
+   1,R
+   2
+   1,R
+   5
+   1,R
+  29,L
+   7
+   3,L
+   1,L,D
+   1,D
+  21,U,X
+  11
+   9,U,Z
+   2,L
+   2
+   1,L
+   6
+StunPause
+   1
+   1,R
+   4,L
+EndStunPause
+  17,L
+  15,R,U,X
+   6
+  12,L
+  19,L,U,X
+  38,R
+  15,R,U,Z
   15,U,X
-   9,L,U,C
-
-
-
+  18,R,C
+  12,R,U,X
+   1,L,J,G
+   2,L,K,G
+  15,U,X
+   9,U,C
   40
 
 #lvl_Vina-06
@@ -692,4 +701,4 @@ repeat 7
    2,R,D
 endrepeat
 
-ChapterTime: 1:50.415(6495)
+ChapterTime: 1:48.970(6410)
