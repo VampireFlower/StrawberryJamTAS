@@ -1,4 +1,4 @@
-RecordCount: 11787
+RecordCount: 11890
 
 console load StrawberryJam2021/4-Expert/Vina
    1
@@ -24,6 +24,9 @@ console load StrawberryJam2021/4-Expert/Vina
    9,U,X
   14,R,J
   11
+## Spinner cycle [Vina-05]
+   1
+##
    1,J
    2
   10,R,X
@@ -89,12 +92,6 @@ console load StrawberryJam2021/4-Expert/Vina
   55,R
   15,R,Z
    8,R
-
-# Spinner cycle (can only be 0 or 1)
-# For +2f, use +1f here and +1f at the second waiting spot
-   0
-#
-
    4,Z
    1,R,J
    4,R,K,G
@@ -213,8 +210,7 @@ console load StrawberryJam2021/4-Expert/Vina
   18,U,X
    1,R
   15,R,C
-  30,R
-  33,R
+  63,R
    1,R,D
   14,R,Z
    1,R,J
@@ -289,24 +285,10 @@ console load StrawberryJam2021/4-Expert/Vina
    1,R,J
    6,R
    1,R,J
-
-# Worst spinner cycle waiting spot ever
-# For +2f, use the +1f input set here and +1f at the first waiting spot
-
-# +0f:
-#   4,R,K,G
-#   4,R
-#   5,R,D,X
-#   4,R,J,G
-
-# +1f:
-   3,R,K,G
-   5,R
+   4,R,K,G
+   4,R
    5,R,D,X
-   5,R,J,G
-
-##
-
+   4,R,J,G
    3,R
   40
 
@@ -314,8 +296,7 @@ console load StrawberryJam2021/4-Expert/Vina
    3,R
    1,R,J
    1,R
-   1,L,J
-   6,J
+   7,L,J
   15,R,D,X
    1,L
    6,L,J
@@ -324,8 +305,7 @@ console load StrawberryJam2021/4-Expert/Vina
    4,L
    2
    1,L
-   2
-   3
+   5
    3,R
    1
   18,R,U,X
@@ -374,6 +354,9 @@ EndStunPause
   40
 
 #lvl_Vina-06
+## Spinner cycle [Vina-09]
+   2
+##
    1,S
    1,D,J
   69,O
@@ -456,8 +439,7 @@ endrepeat
    1,R,K
    9,R
   14,R,U,Z
-   1,L,J,G
-   2,L,J
+   3,L,J,G
    6,R,J
    5,L,J
   14,U,X
@@ -469,9 +451,7 @@ endrepeat
    4,R
    1
    1,R
-   1
-   1
-  11
+  13
    2,R
   36,R,Z
   14,R,X
@@ -490,8 +470,7 @@ endrepeat
    3,R,K,G
    6,K
   10,R,U,X
-   3,L
-  22,L
+  25,L
   15,L,D,X
   36,L
   15,U,X
@@ -508,11 +487,11 @@ endrepeat
   28,R
   13,U,Z
    6
-  26,R
+  29,R
+  14,R,U,X
+   1,R,J,G
    3,R
-  10,R,U,X
-   5,R,J,G
-  13,R,D,X
+  10,R,D,X
    1,R,J
   11,R
   27,R,J
@@ -609,8 +588,7 @@ endrepeat
    1,R,K
    6,R,D,X
   13,R,G
-   3,R,J,G
-   5,R,J,G
+   8,R,J,G
    1,L,J
    5,R,J
    9,R,D,X
@@ -629,42 +607,46 @@ endrepeat
    1,L
   16,R,U,Z
   15,U,X
-   2,R
-  54,R
+  56,R
   16,R,U,X
-  29,R,C
-  26,R
-  22,R,Z
-  15,U,X
-   3,R
-  14,R,C
-   1,R,J
-   2,J
-   3,R,J
-   2,J
-  18,U,X
-  28,L,C
-  21,L,U,X
-  65,L,U,Z
-  41,L,U,V
-  15,U,X
-  16,L,U,C
-   5,U,X
-  32,R
-  15,R,U,X
-   2,K,G
-   2,L,K
-  38,R,K
-  12,U,X
-  11,R,J
-  11,R
-   2
-   2,L
-   1,L,J
-  16,L
-  18,R
+  15,R,C
+  38,R
   15,R,Z
-  15,R,D
+   4,R
+  15,U,X
+   2
+   1,L
+   5,R,J
+   8,R
+   5,R,K
+   6,L,K
+  13,L
+   9,R,X
+   3,R,J
+   5,J
+  18,U,X
+  15,L,C
+  11,L
+  15,L,U,X
+  21,L
+  18,U,X
+   3
+   1,R
+   1,K
+   2,J,G
+  20,L,J
+   4,K
+   1,L,J,G
+  21,L,K,G
+   6,L
+   4,J
+  15,U,Z
+   2
+  27,L
+   7,U,X
+  39,R
+  15,R,Z
+  15,D
    8,R,J
   15,U,X
    5,L,J
@@ -720,4 +702,4 @@ repeat 7
    2,R,D
 endrepeat
 
-ChapterTime: 1:48.800(6400)
+ChapterTime: 1:47.814(6342)
