@@ -1,4 +1,4 @@
-RecordCount: 12625
+RecordCount: 12812
 
 console load StrawberryJam2021/5-Grandmaster/Ecl1psed
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/5-Grandmaster/Ecl1psed
   92
 
 #Spinner cycle
-   1
+   2
 
 #lvl_a-00-start
    8,L,J
@@ -15,32 +15,36 @@ console load StrawberryJam2021/5-Grandmaster/Ecl1psed
   16,L,U,X
   12,L,J,G
    8,L,K,G
-   7,L
-  10,L,J
+   2,L
+   1
    1,L
-  10,L,Z
+   1
+   1,L
+   1
    1,L,J
-  15,R
-  14,R,Z
+   1,L,J
+   9,L,U,X
+   1,L,J,G
+   1,L,K,G
+  21,L
    1,R,J
-   1,R,K,G
-   1,R
+   1
+  10,R,Z
+   1,R,J
+   2,R,K,G
    1,R,J,G
    2,R,K,G
   15,R,D,X
-   5,R
    6,R,D
+   6,R
    5,R,D,X
    1,R,J
-   1,R,K,G
-   1,R
+   2,R,K,G
    1,R,J,G
    1,R,K,G
-  18,R,D
+  17,R,D
   40
-
-#lvl_a-01
-   6,R,D
+   7,R,D
 StunPause
    2,R,D
 SkipInput 3 1
@@ -50,8 +54,7 @@ EndStunPause
   10,R
    9,R,U,Z
    6,R,J,G
-   1,R
-   4
+   5,R
   14,R,X
    6,R,J,G
   11,R,K,G
@@ -610,4 +613,4 @@ EndStunPause
   16,U,X
  135
 
-ChapterTime: 1:14.800(4400)
+ChapterTime: 1:14.749(4397)
