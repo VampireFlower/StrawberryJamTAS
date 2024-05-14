@@ -1,4 +1,4 @@
-RecordCount: 6680
+RecordCount: 6850
 
 console load StrawberryJam2021/1-Beginner/frozenflygone
    1
@@ -282,49 +282,48 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
 
 #lvl_Lab-3
   24,L,U
-   9,L,D
-  19,D
-  16,R,D
-   5,R
-  22,R,Z
+   8,L,D
+  20,D
+   9,R,D
+   2,D
+   5,R,D
+   2,R
+   1,R,D
+   1,R
+   1,R,D
+  15,R,X
+   6,R
+   7,L,Z
    1,R,J
    6,R
-  14,L,D,X
-   1,R,J
-   5,R,D,X
-   1,R,K,G
-  14,R
-   1,R,J
+   9,R,J
+   6,R,U,X
   40
+   
 
 #lvl_Lab-4 (1)
-   5,R,J
-  12,R
-  12,R,D,X
-   1,R,J,G
-  10,R
-  13,R,U
+   9,R,U,X
+   3,R
    1,R,J
-   5,R,U,X
-   1,R,J
-   7,R
-  40
-
-#lvl_Lab-5
-   4,R,J
-   9,J
-  14,R,D,X
-   4,R,D
    2,R
-  14,R,U,X
-   1,L,J
+  14,R,D,X
+  26,R,J,G
+   4,R,K
+  40
+#lvl_Lab-5
+   9,R,K
+   2,K
+  15,R,D,X
+  18,R,D
+  11,L,D,X
+   1,R,J
+   3,R
   15,D,X
-   7,R,D
-  14,D
   40
 
 #lvl_Lab-6
-  43,D
+   4,L,D
+  41,D
   40
 
 #lvl_Lab-7
@@ -716,4 +715,4 @@ EndRepeat
    5,U,X
  135
 
-ChapterTime: 1:27.465(5145)
+ChapterTime: 1:26.989(5117)
