@@ -1,4 +1,4 @@
-RecordCount: 9682
+RecordCount: 9997
 
 console load StrawberryJam2021/4-Expert/powerav
    1
@@ -677,36 +677,45 @@ EndStunPause
   13,R,K,G
    2,K
    6,R,K
-   1,J,G
-   1,L,J
-   1,R,J
-  14,R,K,G
+  12,J,G
+   3,K,G
+   1,L,K
+   2,L
+   5,R,X
    1,R,J,G
-   8,R,K,G
-   5,K
-  15,R,X
-  14,R
-   8,D
-   5,R,D
-   2
+   1,J
+   8,R,J
+   4,R
+  23,L,D
+   4,R,D
+   4,R
   15,D,X
-  15,D
-  30,R,D
-   3,L,D
-   3,R,D
-  15,R,Z
+   3,D
+   5,R,D
+   1,D
+   7
+  37,R,D
+  15,R,X
   10,R
-   6,G
-  10,U,G
+  16,U,G
   15,G
-  18,D
-   1,L,D
-   3,R,D
-   4,D
+   2
+   3,L
+   3,R
+   1,L
+   3,R
+   1,R,D
+   4,L,D
+   2,R,D
+   1,D
+   1,R,D
+   1,D
+   2,R,D
+   2,D
    5,L,D,X
    1,R,J
-   7,R
-   1,R,J
+   6,R
+   2,R,J
   40
 
 #lvl_a-8
@@ -721,21 +730,18 @@ EndStunPause
    6,R
    1,R,J
   14,R,D,X
-   9,R,J
-   1,R
-  12,R,Z
    1,R,J
-   4
-   2,R
-   1,R,J
-   3,R
-  11,R,D,X
+   8,R
+  13,R,X
    1,R,J,G
-   2,R,K,G
-   9,R,J,G
+   1,R,K,G
+   1,R
+   1,R,J,G
+   1,R,K,G
    7,R
-   3,R,J
-  15,U,X
+   1,R,J
+  22,R,K
+  19,R,U,X
  135
 
-ChapterTime: 1:39.705(5865)
+ChapterTime: 1:39.586(5858)
