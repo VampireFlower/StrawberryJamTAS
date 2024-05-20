@@ -1,4 +1,4 @@
-RecordCount: 8591
+RecordCount: 9168
 
 console load StrawberryJam2021/2-Intermediate/Rocketguy2
    1
@@ -290,109 +290,158 @@ EndStunPause
    1,L,K,G
    1,L,J,G
   21,R,K
-   9,R,J,G
-   8,R
-   3,R,J
+   3,J,G
+  20
   40
 
 #lvl_RG2-8
-   2,R
+   1,R,N
+   2
    1,S
    1,D,J
   34
-  18,R,D,X
-   2,R,D
-   6,R,U,Z
-   1,L,J,G
-  10,R
-  45,R,J
-   1,R,K
-   6,R
-   1,S
-   1,D,J
-  34
+  11,L,Z
+   1,R,J
+   2
+   5,R
+   1,R,J
    2,R
+  15,R,X
+  12,R,D
+   1,R,G
+  10,R,D
+   7,D,AR,ML
+   5,AR,ML
+   1,AR
+   9,D,AR,ML
+   1,S,N
+   1,J
+   8
+   2,R,J,G
+  11,AR
+  16,R,D,G
+   5,R,G
+   1,R,D,G
+   9,R,G
+   1,S,N
+   1,J
+   8
+   2,R,J,G
+   1,S,N
+   1,J
+   8
+   2,R,K,G
+   1,S,N
+   1,J
+   8
+   2,R,J,G
+   1,S,N
+   1,J
+   8
+   2,R,K,G
+   1,S,N
+   1,J
+   8
+   2,R,J,G
+   1,S,N
+   1,J
+   8
+   2,R,K,G
+   1,S,N
+   1,J
+   8
+   2,R,J,G
+   1,S,N
+   1,J
+   8
+   2,R,K,G
+   1,R,J,G
+   1,R,K,G
+   6,R,J,G
+StunPause
+   1,R,J,G
+SkipInput,3,1
+   7,R,U,Z
+EndStunpause
+   7,R,U,Z
+  12,R
+   1,R,J
   40
 
 #lvl_RG2-9
-   5,R
-  10,R,D,X
-stunpause
-   3,R,D,X
    2,R,J
-   2,J
-skipinput,3,1
-  11,R,D,K,X
-endstunpause
-   6,R,D,K
-   3,R,D
-   4,R,D,J
-   5,R
-   3,R,J
-   3,R
-  11,D
-   2
-   5,R,U,X
+   7,R,U,Z
 StunPause
-   2,R,U,X
+   4,R,U,Z
 EndStunPause
-   7,R,U,X
-   1,J,G
-   7
-   1,R
+   1,R,U,Z
 StunPause
-   1,R
-   1,D,J
-   5,R,J
-   1,J
-  10,R,J
+   2,R,U,Z
+   2,L,J,G
+   2,R,J,G
 EndStunPause
-  14,R,J
-  14,J
-   1,R,D
-  15,R,U,Z
-   3,R
-  94
+   3,R,J,G
+StunPause
+   2,R,J,G
+EndStunPause
+   9,R,J,G
+  14,R,D
+   1,R
+   5,R,D
+   1,D
+   4,R,D
+   1,R
+   7,D
+   1
+   3,D
+   4,R,D
+StunPause
+   2,R,D
+   1,D
+   1,R
+EndStunPause
+   1,R
+   5,R,U,Z
+StunPause
+   2,R,U,Z
+EndStunPause
+   7,R,U,Z
    1,R,J
-   4,R,Z
-   4,R,J
-   9,R
-  23,R,J
-  11,L,J
-  13,L,Z
-  13,R
-  13,R,X
+   4,R
+   6
+   4,R,D,X
+StunPause
+   2,R,D,X
+EndStunPause
+   9,R,D,X
    8,R
-  15,D,X
-  10,R,D
-  11,D
-  22,R
-  13,R,U,X
-   1,R,J,G
+  12,R,J,G
+  12,R,K,G
+   7,R,J,G
    7,R
+   6,R,Z
+   1,R,J
+   2,R
   40
 
 #lvl_RG2-End
-   7,R,D,X
+   5,R
    1,R,J
-   7,R
-   1,R,J
-Repeat 4
   14,R,D,X
    1,R,J
-EndRepeat
   14,R,D,X
-  13,G
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   5,R,D,X
+  13,R,G
    1,R,J,G
-  11,R,G
+  13,R,G
    1,R
-  26,L,D,X
-  20,R,G
-  26,R
-   1,R,J
-  14,R
-  12,R,D,X
-   1,R,J
-  43,R
-
-ChapterTime: 0:59.568(3504)
+   9,L,D,X
+ 135
+ChapterTime: 0:57.154(3362)
