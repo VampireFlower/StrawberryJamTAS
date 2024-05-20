@@ -1,4 +1,4 @@
-RecordCount: 33211
+RecordCount: 33564
 
 console load StrawberryJam2021/5-Grandmaster/Dav
    1
@@ -892,7 +892,7 @@ EndRepeat
    3,L,J,G
    7,L
 ## spinner cycle [big-3]
-   0
+   1
 ##
    7,L,J
    5,L,Z
@@ -949,66 +949,66 @@ EndRepeat
    5,L,D,X
    1,L,J,G
    1,L,K,G
-   2
-   4,L
+   1
+   5,L
    1,L,J
    1,L
    1,L,D
-   6,L,J
+   1,L,J
+   1,J
+   4,L,J
   11,L
-  11,L,J,G
+   8,L,J,G
+StunPause
+   2,L,J
+EndStunPause
+   3,L,J
   15,L,D,X
-  11,L
-  12,L,D
+  21,L,D
    5,L,J
    4,L
    5,L,D,X
    1,L,J,G
-  11,L
-   2,L,D,J
+   1,L
+   1
+   9,L
+   3,L,J
+   2,L
   15,L,D,X
-   7,L,D
-   1,L,D,J
-   1,L,K,G
-   2,K
-   1,J,G
-  10,L,J
    7,L
-   1,L,K
-   1,L
-   3,L,K
-   4,L
-   4,L,D,J
-   6,L
-   8,L,K
-   5,L
-  26,L,J
-   5,L
-  14,L,U,X
-  12,L,J,G
-   5,L
-   3,L,K
-   9,L
-   1
-   1,L,J,G
-   1,J
+   1,L,J
+   8,L,D,X
+   1,R,J,G
   10,L,J
    5,L
-   5,L,K
-   1,L
    1,L,K
-   1
-  12,L
-   1,L,J,G
-   9,L
-   9
-  14,D
-   1
-   1,D
+   2,L
+StunPause
+   2,L
+EndStunPause
+   1,L
+   3,L,J
+   5,L
+   2,L,K
+   5,L
    1,L,D
-   1,D
+   4,L
+  21,L,J
+   3,L
+  14,L,U,X
+   2,L,J,G
+   7,L,K,G
+   1,K
+   2
+  15,L
+   1,R,J,G
+   8,L,J
+  33,L,D
+   6
+   1,L
+   1,L,D
    4
-   1,J,G
+   1,K,G
    1,L
    1
    1,L
@@ -1023,15 +1023,12 @@ EndRepeat
    1,J
    1,J,G
    2,J
+   1,L,J
    1,J,G
-   1,J
-   2,J,G
-   1,J
-   1
-   1,G
-## -3f
-#   1,G
-#Invoke, Player.MoveV, 0.000001
+
+## -13f
+#Invoke, Player.MoveV, -0.02594036
+#   4,G
 #   5,L,D,X
 #   1,L,J,G
 #   1,L,K,G
@@ -1042,11 +1039,15 @@ EndRepeat
 #  11,L,J
 #   1,J
 #  15,L,D,X
-#  19,L,D
+#  17,L,D
+#   1,L
+#   1,L,D
 #  13,L
 #  10,L,D
+#   2,L
+#   4,L,D
 #   1,L
-#  48,L,D
+#  43,L,D
 #   1,R,D
 #Repeat 15
 #   2,L,D
@@ -1054,34 +1055,35 @@ EndRepeat
 #EndRepeat
 #   1,D
 #   1
-#   1,D
-#   1
-#   1,D
+#   3,D
 ##
-   4,G
+
+   5,G
    5,L,D,X
    1,L,J,G
    1,L,K,G
    1,L,J,G
    1,L,K,G
    1,L,J,G
-   8,L
-   8,L,J
-   4,L
+   6,L
+   1,S,N
+  10,J
+   1,L,J
+   2,L
+   9,L,J
+   3,L
   15,L,D,X
-  20,L,D
-  12,L
-  58,L,D
+  15,L,D
+   1,L
+   4,L,D
+  13,L
+  57,L,D
    1,R,D
 Repeat 15
    2,L,D
    2,R,D
 EndRepeat
-   1,D
-   1
-   1,D
-   1
-   1,D
+   6,D
 
 #lvl_a-intro (1)
   49,D
@@ -1151,4 +1153,4 @@ Repeat 3
 EndRepeat
    1,L,J
 
-ChapterTime: 2:32.201(8953)
+ChapterTime: 2:32.116(8948)
