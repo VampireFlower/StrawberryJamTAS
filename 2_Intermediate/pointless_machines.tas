@@ -1,4 +1,4 @@
-RecordCount: 5958
+RecordCount: 6142
 
 console load StrawberryJam2021/2-Intermediate/vitellary
    1
@@ -290,43 +290,31 @@ console load StrawberryJam2021/2-Intermediate/vitellary
    1
   11,U,X
    5,L
-   1,J
-   4,L
-   8,R,C
-  19,L
-  15,R,X
-  15,L,C
-  15,L,D,X
-   5,L,D
-  15,R,D,C
-   7,D
-## -3f exit but no bhop
-#   8,R
-#  16,R,U,X
-#  15,R,U,C
-#  14,R,Z
-#   1,R,J
-#  13,R,D,X
-##
-   4,R,D
-   7,R
-  15,R,U,X
-  15,R,U,C
-  15,R,X
-   9,R,Z
+   5,R,J,G
+  17,R,X
+  20,R
+  15,R,C
+  37,R
+   1,L,J
+   8,L,X
+   5,R,J
+   2,R
+   9,L,D,X
+   1,R,J,G
+  10,R,K,G
+   3
+  14,R,Z
    1,R,J
-   6,R
-   2,R,J
+   5,R,K
   40
 
 #lvl_07
-   5,R,J
   15,R,D,X
-  23,R,J
+  25,R,J
   18,R,U,X
-  39,R
-  15,R,U,X
-   8,R
+  35,R,D
+  14,R,U,Z
+   4,R
   15,R,D,X
   17,R,D
   15,R,C
@@ -405,4 +393,4 @@ console load StrawberryJam2021/2-Intermediate/vitellary
   40,L,D,X
   58,L,D
 
-ChapterTime: 0:49.045(2885)
+ChapterTime: 0:48.671(2863)
