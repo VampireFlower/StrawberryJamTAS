@@ -1,4 +1,4 @@
-RecordCount: 6142
+RecordCount: 6168
 
 console load StrawberryJam2021/2-Intermediate/vitellary
    1
@@ -289,13 +289,18 @@ console load StrawberryJam2021/2-Intermediate/vitellary
    6,R
    1
   11,U,X
-   5,L
-   5,R,J,G
+   3,L
+   1,R
+   6
   17,R,X
-  20,R
+  18,R
   15,R,C
-  37,R
-   1,L,J
+  15,R
+   1
+  20,R
+   1
+   1,R,J,G
+   1
    8,L,X
    5,R,J
    2,R
@@ -393,4 +398,4 @@ console load StrawberryJam2021/2-Intermediate/vitellary
   40,L,D,X
   58,L,D
 
-ChapterTime: 0:48.671(2863)
+ChapterTime: 0:48.654(2862)
