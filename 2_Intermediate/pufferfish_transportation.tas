@@ -1,4 +1,4 @@
-RecordCount: 9279
+RecordCount: 9336
 
 console load StrawberryJam2021/2-Intermediate/Rocketguy2
    1
@@ -387,25 +387,20 @@ EndStunPause
    5,R
   14,R,U,X
    3,R,J,G
-  29,R,D
+  28,R,D
   15,R,D,X
    1,R
-   1,R,J
+   1,R,J,G
+   4,R
   40
 
 #lvl_RG2-End
-   1
    8,R
-   2,R,J
-   3,R
-   1
-  14,R,D,X
+   8,R,J
+   6,R
    1,R,J
-  13,R,G
-   1,R,K,G
-  10,R,G
-   2,G
-   1,R
-   9,L,D,X
- 135
-ChapterTime: 0:54.876(3228)
+  10,R
+  24,R,U,Z
+   1,J,G
+ 116,G
+ChapterTime: 0:54.536(3208)
