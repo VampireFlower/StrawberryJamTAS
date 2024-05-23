@@ -1,4 +1,4 @@
-RecordCount: 34557
+RecordCount: 34676
 
 console load StrawberryJam2021/5-Grandmaster/Dav
    1
@@ -1025,26 +1025,27 @@ EndRepeat
    1,L
    2,D
    5
-   2,D
+   1,D
    2
+   1,D
    1,K,G
    1,L
    1
    1,L
-   2
-   1,L
    1
+   1,L
+   2
    1,R
    1,L,J
   10,L
-   5,L,K
-   3,K
-   1,L,K,G
-   3,L,K
-   2,L,K,G
+   8,L,J
+   1,J,G
+   2,J
+   1,L
+   1,G
 ## -13f
-#Invoke, Player.MoveV, -0.24637837
-#   4,G
+#Invoke, Player.MoveV, -0.0630441
+#   1,G
 #   5,L,D,X
 #   1,L,J,G
 #   1,L,K,G
@@ -1052,53 +1053,51 @@ EndRepeat
 #   1,L,K,G
 #   1,L,J,G
 #   7,L
-#  11,L,J
-#   1,J
+#  10,L,J
+#   2,J
 #  15,L,D,X
-#  17,L,D
-#   1,L
+#   6,L,D
+#   1,D
+#   8,L,D
+#   5,L
 #   1,L,D
-#  13,L
-#  10,L,D
-#   2,L
-#   4,L,D
+#  10,L
+#   9,L,D
 #   1,L
-#  43,L,D
+#  54,L,D
 #   1,R,D
 #Repeat 15
 #   2,L,D
 #   2,R,D
 #EndRepeat
-#   1,D
-#   1
 #   3,D
 ##
-   5,G
+   2,G
    5,L,D,X
    1,L,J,G
    1,L,K,G
    1,L,J,G
    1,L,K,G
    1,L,J,G
-   5,L
+   6,L
    1,S,N
   10,J
    1,L,J
-   3,L
-   9,L,J
-   3,L
-  15,L,D,X
-  15,L,D
    1,L
-   4,L,D
-  13,L
-  57,L,D
+   8,L,J
+   1
+   3,L
+   1
+  15,L,D,X
+  16,L,D
+  15,L
+  63,L,D
    1,R,D
 Repeat 15
    2,L,D
    2,R,D
 EndRepeat
-   6,D
+   3,D
 
 #lvl_a-intro (1)
   49,D
@@ -1168,4 +1167,4 @@ Repeat 3
 EndRepeat
    1,L,J
 
-ChapterTime: 2:31.572(8916)
+ChapterTime: 2:31.521(8913)
