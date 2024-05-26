@@ -1,4 +1,4 @@
-RecordCount: 20252
+RecordCount: 20322
 
 console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    1
@@ -6,11 +6,10 @@ console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
 #Start
  190
 
-#+1f
 #lvl_cp1_heartside_intro
-#spinner cycle (flag 10)
+## spinner cycle (flag 10)
    0
-
+##
 ## frame ties
 #  15,U,X
 #  15,U,C
@@ -308,14 +307,26 @@ EndRepeat
    4,L,K
   31
   27,R,U
-   9,F,10.66
+## drift manip
+   9,F,7.161
    6,F,55
    7,F,81
-  38,F,95.272
+  39,F,96.18
   15,R,Z
-   3,R
+   2,R
   80,U,X
    7,R
+##
+## -1f feather, +1f slowdown
+#   9,F,10.66
+#   6,F,55
+#   7,F,81
+#  38,F,95.272
+#  15,R,Z
+#   3,R
+#  80,U,X
+#   7,R
+##
  101
   40
 
@@ -982,34 +993,23 @@ EndRepeat
    5
    2,K
    5,R,K
-   3,R
-  18,R,D
-   3,L,D
-# using drift is 16f faster
-# but not worth the extra wait
-StunPause
-  12,L,D
-   7,R,D
-   1,D
-   4,R,D
-EndStunPause
+  10,R
   11,R,D
-   3,R
-   1,R,D
-   1,R
-   9,R,J
-   3,R
-   1,R,K,G
-   1,R,J,G
-   1,R
-   1
-   7,R
+   3,D
+StunPause
+  13,D
+  11,R,D
+EndStunPause
+   8,R,D
    1,R,J
-  15,R
+  14,R
+   1,R,J
+  26,R
    1,R,J
    3,R
    1,R,J,G
-  12,R,K,G
+  10,R,K,G
+   2,K
   15,U,X
    5,R,J
    8,R
@@ -2006,4 +2006,4 @@ Repeat 33
 EndRepeat
    1
 
-ChapterTime: 4:21.596(15388)
+ChapterTime: 4:21.511(15383)
