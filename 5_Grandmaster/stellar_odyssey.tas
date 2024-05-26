@@ -1,4 +1,4 @@
-RecordCount: 14520
+RecordCount: 14577
 
 console load StrawberryJam2021/5-Grandmaster/Ecl1psed
    1
@@ -7,16 +7,15 @@ console load StrawberryJam2021/5-Grandmaster/Ecl1psed
   92
 
 #lvl_a-00-start
-   4,L,J
-  10,J
+   5,L,J
+   9,J
   15,L,U,X
+   2,L
+   9,L,J,G
    3,L
-  11,L,J,G
-   1,L
-   6,L,K,G
-   1,L
-   1,L,J,G
-   6,L
+   9,L,K,G
+   3
+   3,L
    2,L,K
    1,L,J
    1,L
@@ -38,11 +37,8 @@ console load StrawberryJam2021/5-Grandmaster/Ecl1psed
    5,R,D,X
    1,R,J,G
    1,R,K,G
-   5
-   1,S
-  10,J
-   1,J
-   1
+   6
+   1,K
    2,R
    1,R,J
   15,R,D,X
@@ -51,10 +47,10 @@ console load StrawberryJam2021/5-Grandmaster/Ecl1psed
    1,R,J
    2,R,K,G
    1,R,J,G
-   1,R,K,G
-   5,R
-   2,R,K
-  12,R,D
+   2,R,K,G
+   9,R
+   1,R,K
+   9,R,D
   40
 
 #lvl_a-01
@@ -630,4 +626,4 @@ EndStunPause
   16,U,X
  135
 
-ChapterTime: 1:14.579(4387)
+ChapterTime: 1:14.409(4377)
