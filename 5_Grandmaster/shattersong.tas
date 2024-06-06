@@ -6,7 +6,7 @@
 #- intermission rooms
 #- reduce stun pauses
 
-RecordCount: 5262
+RecordCount: 5272
 
 console load StrawberryJam2021/5-Grandmaster/Hydro
    1
@@ -468,11 +468,13 @@ EndStunPause
    1
   14,R,Z
    1,L,J,G
-  10,R
-  15,L
+  13,R
+   8
+   3,D
+   1
    4,R,Z
    1,R,J
-   5,R
+   4,R
   40
 
 #lvl_SHATTER
@@ -496,4 +498,4 @@ Repeat 45
    1,L,D
 EndRepeat
 
-ChapterTime: 0:58.582(3446)
+ChapterTime: 0:58.565(3445)
