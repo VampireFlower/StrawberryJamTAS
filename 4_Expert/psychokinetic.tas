@@ -1,4 +1,4 @@
-RecordCount: 4436
+RecordCount: 5482
 
 console load StrawberryJam2021/4-Expert/Cabob
    1
@@ -176,16 +176,7 @@ EndStunPause
    1
    1,L
   12,R,K,G
-#Spinner Cycle
-#+0f
    7,R
-#+1f
-#   4,R
-#   4
-#+2f
-#   4,R
-#   5
-#-----
   10,R,Z
    1,R,J
    7,R
@@ -202,121 +193,124 @@ EndStunPause
   40
 
 #lvl_a-07
-   4,R
-   2,R,D
-   2,R,J
-   4,R
-  14,R,U,X
+   6,R
+   3
+   1,R,J
+  20,R,U,X
+  20,R,D,C
+   1
+  15,R,D,X
+   1,R,J
+  14,R,U,C
    4,R,J
-  16,R,D,X
-   9,R
-   4,R,D
-   1,R
+   9,R,K
+   2,R
+   5,R,J,G
   19,R,U,Z
    4,R,J
-   4,R
-  12,R,K
-   5,R
-   2,R,K
-   1,R
-  22,R,U,Z
-   4,R,J
-   8,R,K
-  13,R,D,X
-   4,R,J
-   1,R,K
-  18,L,U,X
-   4,R,J
-   1,R,K
-  16,L,U,X
-   7,R,J
-  13,L,X
+   7,R,K
+  10,R,D,X
+   4,L,J
+   4,L,K
+  20,L,U,X
+   1,L,J
+  22,L,U,X
+   2,L
+   1
+   1,R,J
+  12,L,D,X
    4,L,J
    5,L,K
-  46
-   2,L,J
+   3
+   3,R
+   1,L
+  30
+   6,D
+   2
+   1,L,J
+   1,L,K
    6
+   1,R,K
   40
 
 #lvl_a-08
-   9
+   1
+   1,K
+   7
    1,D
    4
-   5,L,J
-   4,R,J
-  19,R,U,C
+   1,L,J
+   6,R,J
+   2,R
+  19,R,U,X
    4,R,J
    3,R,K
    5,R
   18,R,D,X
    4,R,D
    1,R,J
-   3,R
-  13,R,U,Z
+  15,R,U,Z
    4,R,J
    1,R,K
   15,R,D,X
-  18,R,D
+   6,R
+   2,R,D
+  13,D
    2,L,J
-   2,R
-   1
   40
 
 #lvl_a-09
+   3,J
    3
    1,R
-   3,L,J
   15,R,D,X
-  11,D
-  14,R,D,X
-   6,D
-   9,R,D
-   9,R,J
-   9,R
-   1,R,J
-  10,R
-   2
-  14,R,U,X
-   1,R,J,G
-   1,J
+   4,D
    1
-   6,R
+   6,D
+  14,R,D,X
+   4,D
+  11,R,D
+   9,R,D,J
+   7,R
+   1,R,K
+  14,R
+  14,R,U,X
+   2,R,J,G
+   7,R
    1,R,J
   40
 
 #lvl_a-10
    1,R,J
-  31,R,D
-# This spinner is cycle dependant
-   2,D
-  13,R,U,Z
-   7,D
-  11,L,U,X
-  14,D
-  12,R,U,Z
-   4,L,J
-   6,L,K
-   5
-  17,R,X
-   4,L,J
+  10,R
+   1,R,K
+  19,R
+   3
+  15,R,U,X
+   5,L,D
+  14,L,U,X
+   4,R
+   9,R,D
   13,R,U,X
    4,R,J
-   1,R,K
-  10,R,X
+   2,R,K
+   2,R
+  13,R,D,X
    4,R,J
    1,R,K
-   3,R
-  15,R,D,X
-  15,R
+  11,R,D,X
+   4,R,J
+   1,R,K
+  12,R
    1,R,J
-  10,R,U,Z
+   7,R,U,X
   40
 
 #lvl_a-end
-  12,R,U,Z
-   4,R,J
-   3,R,K
-   9,R,X
- 135,R,D
+  14,R,U,X
+   1,R
+  34,U,X
+  41,R
+  66,R,D
 
-ChapterTime: 0:34.170(2010)
+ChapterTime: 0:33.150(1950)
