@@ -1,4 +1,4 @@
-RecordCount: 34894
+RecordCount: 34990
 
 console load StrawberryJam2021/5-Grandmaster/Dav
    1
@@ -518,15 +518,15 @@ EndStunPause
    1,R,J
   15,R,U,Z
    1,L,J,G
-  13,R,J
-  13,R,U,X
-   3,R,J,G
-   1,J
-  17,R,J,G
+  12,R,J
+  14,R,U,X
+  12,R,J,G
+   6,R
+   1,R,K
    3,R
-   3,R,J
-   9,R
-  13,R,D,X
+   6,R,J
+   4,R
+  15,R,D,X
    7,L
   15,L,D,X
   14,L,D
@@ -629,21 +629,24 @@ EndRepeat
    5,J
   24,L,J
    2,L,K,G
-  42,L,J,G
-  14,L,U,X
-   2,L,J,G
-  12,L,K,G
-   7,L
-  12,L,J
-   4,L,K,G
-   5,L,Z
-   1,L,J
-   8,L
-   1,L,J
-  11,L,D,X
-   4,R,J
-  28,D,X
-  23
+  12,L,J,G
+   5,L
+  10,L,K
+  28,L
+   2,D
+   1,L,D
+  14,U,X
+   6,L,J
+  14,U,X
+   1,R,J
+  13,U,X
+   6,L,J
+  10,L,Z
+   1,R,J
+   5,R
+  15,D,X
+  13,D
+  18
    2,U
   11,U,X
    1,R,J
@@ -893,7 +896,7 @@ EndRepeat
    3,L,J,G
    7,L
 ### spinner cycle [big-3]
-   0
+   2
 ###
    7,L,J
    5,L,Z
@@ -1162,4 +1165,4 @@ Repeat 3
 EndRepeat
    1,L,J
 
-ChapterTime: 2:31.453(8909)
+ChapterTime: 2:31.402(8906)
