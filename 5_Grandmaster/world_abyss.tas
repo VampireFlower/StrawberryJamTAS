@@ -1,4 +1,4 @@
-RecordCount: 35154
+RecordCount: 35368
 
 console load StrawberryJam2021/5-Grandmaster/Dav
    1
@@ -578,28 +578,25 @@ EndStunPause
   15,R,X
   26,L
   18,L,D
-  14,D
-  11
-   2,D
-   1
-  18,L,Z
+  23,D
+   3,L,D
+  17,L,Z
    4,R,G
-  16,R,D,X
+  12,R,X
+   6,L,G
+   4,L,X
+  12,L,D,X
    4,L,J
+   7,L,Z
+  15,L,J
+   1,L
+   2,L,K
+   2,L
    1,L,K
-  13,L,C
-   5,L
-   6,L,Z
-  13,L,J
    1,L
-  10,L,J
-   1,L
-  12,L,J
-   2,L,D
-   1,L
-   2,G
-   1
-   8,G
+   2,L,K
+  15,L
+  12,G
    3,U,G
 Repeat 25
    1,D,G
@@ -612,29 +609,58 @@ EndRepeat
    1,L,J,G
    3,L
    4
-#get ground friction for speed manip (+1f)
-   1,L
-   1,R,J
+## 2/3
+   1,R,D,J
    8,L,U,X
    2,J,G
    1,L,J
    5
    2,L
-   2,L,J
+   1
+   8,L,J
    1,J
-   9,L,J
-   2,L
+   3,L,J
+   1,L
   14,L,U,Z
-   1,R,J,G
-   5,J
-  24,L,J
-   2,L,K,G
-  12,L,J,G
+   6,R,J,G
+   9,L,J
+   5,L
+  10,L,K
+   2,L,J,G
+  12,L,K,G
    5,L
   10,L,K
   14,L
-   9,L,D
+   5,L,D
    2,L
+   1,L,D
+   1,L
+   1,L,D
+   1,L
+## +1f
+#   1,L
+#   1,R,J
+#   8,L,U,X
+#   2,J,G
+#   1,L,J
+#   5
+#   2,L
+#   2,L,J
+#   1,J
+#   9,L,J
+#   2,L
+#  14,L,U,Z
+#   1,R,J,G
+#   5,J
+#  24,L,J
+#   2,L,K,G
+#  12,L,J,G
+#   5,L
+#  10,L,K
+#  14,L
+#   9,L,D
+#   2,L
+##
   14,L,U,Z
    2,R,J
    2,R,K
@@ -898,7 +924,7 @@ EndRepeat
    3,L,J,G
    7,L
 ### spinner cycle [big-3]
-   1
+   2
 ###
    7,L,J
    5,L,Z
@@ -1167,4 +1193,4 @@ Repeat 3
 EndRepeat
    1,L,J
 
-ChapterTime: 2:31.351(8903)
+ChapterTime: 2:31.300(8900)
