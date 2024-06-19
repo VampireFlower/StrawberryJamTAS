@@ -1,4 +1,4 @@
-RecordCount: 1216
+RecordCount: 1224
 
 console load StrawberryJam2021/5-Grandmaster/alisticious
    1
@@ -6,8 +6,8 @@ console load StrawberryJam2021/5-Grandmaster/alisticious
 #Start
   86
 
-#Spinner Cycle
-   0
+#Spinner Cycle [a-06]
+   2
 
 #lvl_a-00
   10,L,Z
@@ -179,38 +179,33 @@ console load StrawberryJam2021/5-Grandmaster/alisticious
    1,U
   40
 
-#lvl_a-02(0)
+#lvl_a-02 (0)
    1,S
    1,D,J
   69,O
    5,L,Z
-   6,L,U
+   5,L,U
   40
 
 #lvl_a-03
-  10,U
-   2
-   1,L
+  14,U
    6,L,D,X
    1,R,J
-   1
-   6,R
+   7,R
    1,R,J
    5,R,U,Z
   40
 
-#lvl_a-02(1)
+#lvl_a-02 (1)
    5
-   3,R,D
-   1
-   2,R,D
-   4,R,D,J,G
+   1,R
+   1,R,U
+   4,R
+   2,R,J,G
    5,R,U,X
-   1
-   4,U
    3
-   1,U
-   4
+   6,U
+   4,R,U
    2,U
   40
 
