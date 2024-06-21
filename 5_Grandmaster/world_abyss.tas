@@ -1,4 +1,4 @@
-RecordCount: 35422
+RecordCount: 35450
 
 console load StrawberryJam2021/5-Grandmaster/Dav
    1
@@ -1131,9 +1131,9 @@ EndRepeat
    3,D
 
 #lvl_a-intro (1)
-  49,D
-  28,L,D
-   6,L,D,X
+  47,D
+  31,L,D
+   4,R,Z
    1,R,J
 Repeat 5
    1,R,K
@@ -1198,4 +1198,4 @@ Repeat 3
 EndRepeat
    1,L,J
 
-ChapterTime: 2:31.249(8897)
+ChapterTime: 2:31.232(8896)
