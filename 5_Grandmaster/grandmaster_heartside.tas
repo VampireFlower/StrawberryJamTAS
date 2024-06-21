@@ -1,4 +1,4 @@
-RecordCount: 41244
+RecordCount: 41315
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -1335,25 +1335,30 @@ AnalogMode Ignore
  120,D,X
 
 #lvl_d2_08-Aiden
-  98
-   6,R,D,C
+   9,L,C
+  72,O
+  13,L,Z
    1,R,J
    7,R
    1,R,J
-   9,R,D,X
+   5,R,D,X
   13,G
    9,R,J,G
-   6,R,G
-   7,R,K,G
-   6,R,G
+   5,R,G
+   8,R,K,G
+   4,R,G
+   2,G
+   1,R,G
    1
   18,R,U,Z
-   7
-  11,U,C
+   5,R
+  11,U,X
   13,G
-  13,L,G
-  27,R,D,G
-  27,D,G
+  12,L,G
+  20,R,G
+   3,R,D,G
+  31,D,G
+   1,G
   21,R,G
   26,D,G
    8,L,D,G
@@ -1461,7 +1466,7 @@ AnalogMode Ignore
   15,L,D,X
    5,R,D
    8,D,X
- 187
+ 186
 
 #lvl_d3_07-Maya
 #may be fixed in the future
@@ -2379,10 +2384,10 @@ endrepeat
    2,J
    2,L,J
   11,R,K,G
-   5,R
-   2
+   4,R
+   3
 ##spinner cycle for flag 1
-   1
+   2
 ##
    8,R,Z
    1,R,J
@@ -2714,4 +2719,4 @@ Repeat 34
    2,L,D
 EndRepeat
 
-ChapterTime: 7:08.638(25214)
+ChapterTime: 7:08.281(25193)
