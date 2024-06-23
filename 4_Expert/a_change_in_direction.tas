@@ -1,4 +1,4 @@
-RecordCount: 9584
+RecordCount: 10257
 
 console load StrawberryJam2021/4-Expert/Agent
    1
@@ -7,21 +7,29 @@ console load StrawberryJam2021/4-Expert/Agent
   96
 
 #Spinner cycle 1
-   0
+   1
 #-----
 
 #lvl_Agent_00
    2,R,J
-  10,R,Z
-   5,R,J
-  14,R,D,X
+   7,R,Z
    1,R,J
+   3,R
+   1,R,K
+   3,R
+   1,R,D,J
+  13,R,D,X
+   1,R,J
+   1
+   2,J
+   5
+  10,L,X
+  10,R,J
+  12,R
+   1
    1,R
-   2,R,J
-   5,R
-  11,L,X
-  27,R,J
-  14,U,X
+   1
+  16,U,X
   11,R,J
   24,R
    5
@@ -57,30 +65,31 @@ console load StrawberryJam2021/4-Expert/Agent
    1,J
    7,R,J
   31,R
-  11,J
-  14
-  17,L
-   2,L,D
-   6,D
-   1
-   1,D
-  14,L,Z
+  13,G
+   1,J,G
+  25,L
+   2
+   1,L
+   2
+   5,D
+  14,L,X
    1,R,J
    8,R,D,X
    1,R,J,G
-   2,R,K,G
+   1,R,K,G
    6,R
    1,R,K
-   2,R
-   6,R,J
-   2,R
-  12,R,U,X
+   1,R
+   3,R,J
+   5,R
+  13,R,U,X
    1,R,J,G
-  25,R,D
-   1,D
-   3,L,D
+  18,R
+   5,R,D
+   3,D
+   2,L,D
    1,L
-   4,L,D
+   5,L,D
    7,L,Z
    8,L,J
   10,L
@@ -116,21 +125,22 @@ console load StrawberryJam2021/4-Expert/Agent
    4,R
   12,R,J
   15,R,D,X
-   1,R,D,J
-   2,R,K,G
-   1,K
-   2,R,K
-   8,R,X
+   1,R,J
+   5,R,K,G
+   5,R
   40
 
 #lvl_Agent_01
-   5,R,X
+   3,R
+   6,R,D,X
    1,R,J,G
-  10,R
-  19,R,J
    1,R
-   6,R,K
+   1
+   9,R
+  11,R,J
    5,R
+   3,R,K
+   8,R
   15,R,U,X
   15,R
    1,R,D,J
@@ -195,26 +205,33 @@ endstunpause
   24,R,D
    2,R
    1,R,D
-   4,R,J
+   3,R,J
+   1,J
    6,R,U,Z
   40
 
 #lvl_Agent_03
-   8,R,U
-   1,L,J,G
-   9,R,J
-   3,J
+   7,R,U,Z
+   1,L
+  11,K,G
+   1,R,K
+   1,K
   18,U,X
    3,L,J
   10,L,Z
   10,R,J
+   4,R
+   2
+   1,K
+   3
    1,R
    4
    1,R
-  10,D
   18,L,U,X
-   9,L
-  28
+   8,L
+   7
+   1,L
+  20
   12,L
    4,J
    8,R,J
@@ -237,20 +254,37 @@ endstunpause
 # Skipping coin is possible
 # but about 14f slower - Marlin
   20,R
-  14,R,J
-  15,U,Z
-  14,L,J
-   8,L
+## -1f with a better spinner cycle
+#  12,R,J
+#   4
+#  15,U,X
+#  14,J
+#   1,R,J
+#   3,R
+#   4
+#  15,L,D,X
+##
+   1,R
+  12,R,J
+   2,R
+   3
+  15,U,X
+   2
+  15,J
+   4,R
+  15,L,D,X
+##
+   6,R,Z
    1,L,J
-   9,L
-  14,L,D,X
-  22,L,J
-   1,L
-  16,U,X
-  15,L,J
+   6,L
+  12,L,J
+   7,L
+  14,U,X
+  10,L,J
   11,L
-   7,L,J
-   7,L,Z
+   6,L,J
+   1,L
+   8,L,Z
    1,L,J
    6,L
    1,L,J
@@ -292,7 +326,7 @@ endstunpause
    7,R
    3
 #Spinner cycle 2
-   0
+   1
 #-----
   14,U,X
    7,R,J
@@ -411,4 +445,5 @@ endstunpause
   11,R,U,X
   35,R
  100,D
-ChapterTime: 0:49.623(2919)
+
+ChapterTime: 0:49.419(2907)
