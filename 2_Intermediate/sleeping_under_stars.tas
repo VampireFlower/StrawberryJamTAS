@@ -1,4 +1,4 @@
-RecordCount: 6025
+RecordCount: 6036
 
 console load StrawberryJam2021/2-Intermediate/Arphimigon
    1
@@ -282,10 +282,14 @@ EndRepeat
 
 #lvl_a_01 (4)
   47,R,D
-  57,D,X
+  15,D,X
+   5,R,D
+  37,D
    7,R
-  30,R,D,X
-   4
+  15,R,D,X
+  15,R,D
+   2,R
+   1
   34,R,Z
    9,J
   14,U,X
@@ -337,7 +341,7 @@ Repeat 4
    9,D
    9
 EndRepeat
-   5,D
+   6,D
    8,D,J
   10
   13,U,X
