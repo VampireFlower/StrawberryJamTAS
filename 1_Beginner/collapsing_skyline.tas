@@ -1,4 +1,4 @@
-RecordCount: 2498
+RecordCount: 2608
 
 console load StrawberryJam2021/1-Beginner/hyperlife
    1
@@ -69,25 +69,27 @@ console load StrawberryJam2021/1-Beginner/hyperlife
    5,R
    1,R,J
   15,R
-  17
-   1,D,J
-   2
-   3,J,G
-   1,K
-   1
+   2,R,D,J
+  15
+   3,D,J
+   4,K,G
    6,U,X
-   1,L,J
-   2,K,G
-   3
-   4,R
-   5,D,J
-  10
-   1,R
+   1,R,J
+   1,L,K,G
+  10,R,K
+   1,K
    7
-  29,D
+   1,R
+  10
+   9,D
+   1
+   5,D
+   1,L
+  14,D
   15,R,Z
-   3
-  15,R,D
+   5
+   9,R
+   4,R,D
    4,Z
    1,R,J
    3,R
@@ -245,4 +247,4 @@ console load StrawberryJam2021/1-Beginner/hyperlife
    2,R,J
   13,R,U,X
  135
-ChapterTime: 0:25.568(1504)
+ChapterTime: 0:25.534(1502)
