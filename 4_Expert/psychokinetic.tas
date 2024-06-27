@@ -1,4 +1,4 @@
-RecordCount: 7289
+RecordCount: 7347
 
 console load StrawberryJam2021/4-Expert/Cabob
    1
@@ -89,27 +89,27 @@ EndStunPause
    4,R,J
    1,R,K,G
    8,R
-  12,R,J
-   5,R
-  10,R,K
-   2
    2,R
-   1
-   8,U,X
-  15,R,J
-   8,R
-   6,R,K
-  15,R
-   9,R,D
-  11,R,J
-   5,R
+  30,R,K
+  15,U,Z
+   3,R
+   1,L
+   1,K,G
    1,R,K
-   2,R
+  11,L,J,G
+   4,L
+   2
+   1,J
+   1
+   7,R,Z
+   1,R,J
+  23,R,D
    4,R,Z
    2,R,J
    2,R
-   3,R,K
+   2,R,K
    1,R
+   1,R,K
    8
    9,L,Z
 #Spinner Cycle
@@ -328,4 +328,4 @@ EndStunPause
   42,R
   65,R,D
 
-ChapterTime: 0:32.079(1887)
+ChapterTime: 0:31.875(1875)
