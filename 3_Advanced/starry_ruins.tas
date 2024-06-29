@@ -1,4 +1,4 @@
-RecordCount: 6591
+RecordCount: 6701
 
 console load StrawberryJam2021/3-Advanced/Indecx
    1
@@ -255,9 +255,7 @@ console load StrawberryJam2021/3-Advanced/Indecx
   12,R,D
   15,R,D,X
    6,R,D,J
-   7,R
-   0,R,J
-   1,R
+   8,R
    1,R,J
    1,J
    2
@@ -282,29 +280,30 @@ console load StrawberryJam2021/3-Advanced/Indecx
    6,L,Z
    1,R,J
    6,R
-   3,R,J
+   1,R,J
+   2,R
    5,R,D,X
    1,R,J,G
-   6,R
+   5,R
+   1,R,J
   40
 
 #lvl_10
-   3,R
+   5,R
    1,R,J
-   2,R
-   1,R,D,J
-   1
-  12,R
+  13,R
   17,R,U,X
-   4,R,J,G
-  18,R,D
-  12,D
+   1,R,J,G
+   3,R,J
+  15,R,D
+  14,D
+   1,R,D
   21,R
   15,R,D,X
    7,R,D
    4,D
-   1,R
    1,R,D
+   1,R
   14,R,Z
    2,R,K
    7,R
@@ -356,4 +355,4 @@ console load StrawberryJam2021/3-Advanced/Indecx
   13,R,U,X
  135
 
-ChapterTime: 0:40.409(2377)
+ChapterTime: 0:40.392(2376)
