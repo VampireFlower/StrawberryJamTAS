@@ -1,5 +1,5 @@
 #By Kataiser
-RecordCount: 7669
+RecordCount: 7984
 
 console load StrawberryJam2021/3-Advanced/Worldwaker2
    1
@@ -208,29 +208,36 @@ EndRepeat
   12,L,K
    5,L
   15,U,X
-  37,L,G
+   1,L
+  35,L,G
    1,L,K,G
    2,R,K
    3,L,K
    7,L
-  10,L,X
-   3,J
+   4,L,Z
+   1,L,J
+   6,L
    2,L,J
-   9,K
-   6,J
+   1,K,G
+   4,R,K
+   4,L,K
+   1,R,K
+   1,L,K
+   1,L
+   1,J,G
+   9,L,J
+   1,R
   15,U,X
    7,L
-  63,L,U,J,G
-   2,L,G
-   2,L,K,G
-   1,R,K,G
-   3,L,K,G
-  29,L,J,G
-   1,L,K,G
-   4,R,K
-   6,L,K
+  58,L,U,J,G
+   1,L,U,K,G
+  18,L,U,J,G
+   1,K,G
+   1,R,K
+   1,L,J,G
+  10,L,J
    7,L
-   4,Z
+   5,L,Z
    1,L,J
    6,L
   40
@@ -250,6 +257,7 @@ EndRepeat
    7,R
 #spinner cycle
    1
+#
   15,U,X
   18,R,J
    1,R,K,G
@@ -424,10 +432,10 @@ EndStunPause
   40,R,D,X
    1,R,J
    5,R,U,X
-  40
+  43
 
 #lvl_7
-  11,R,U,X
+   8,R,U,X
   10,R,J,G
   11,R
   14,R,U,X
@@ -605,48 +613,108 @@ EndStunPause
   43
 
 #lvl_8
-#didn't test right route
-   6,J
-   5
-  15,U,X
-   4,R
-   4
-   2,R
-  10,L,X
-   6,L,J
-  11,L,K,G
-  15,U,X
-   1,L
-  18,L,G
-  10,G
-   3,R,G
-   1,R,J,G
-  12,L,J,G
-   6,R,J
-   5,R
-  10,R,X
-  14,L,J
-  29,L,G
-   1,L
-  14,U,X
-  15,L,J
-   4
-  33,G
-   4,J,G
-   1,R,G
-  15,R,K,G
-   3,R,J,G
-   7,R
-  12,J
-  10,R,X
-  11,R,J
-  30,R,J,G
-   1,R,K,G
-   3,L,K,G
-   3,R,K,G
-   1,R,J,G
-  12,R,K,G
-  17,R,U,X
- 135,R,D
 
-ChapterTime: 1:33.687(5511)
+# route through the left side; currently +9f
+#   6,J
+#   5
+#  15,U,X
+#   4,R
+#   4
+#   2,R
+#  10,L,X
+#   6,L,J
+#  11,L,K,G
+#  15,U,X
+#   1,L
+#  18,L,G
+#  10,G
+#   3,R,G
+#   1,R,J,G
+#  12,L,J,G
+#   6,R,J
+#   5,R
+#  10,R,X
+#  14,L,J
+#  29,L,G
+#   1,L
+#  14,U,X
+#  15,L,J
+#   4
+#  33,G
+#   4,J,G
+#   1,R,G
+#  15,R,K,G
+#   3,R,J,G
+#   7,R
+#  12,J
+#  10,R,X
+#  11,R,J
+#  30,R,J,G
+#   1,R,K,G
+#   3,L,K,G
+#   3,R,K,G
+#   1,R,J,G
+#  12,R,K,G
+#  17,R,U,X
+# 135,R,D
+
+
+  11
+  15,U,X
+   1,R,J
+  11,R
+   6,J
+   5,R,J
+  10,R,X
+   4,J
+  16,U,J,G
+   8,U,K,G
+  11,L,U,K,G
+   6,U,J,G
+   1,R,U,J,G
+   5,L,U,J,G
+  13,R,U,K,G
+   1,R,K
+  15,U,Z
+  19,L,J
+  30,U,J,G
+   1,R,U,J,G
+   4,K,G
+   3,R,K
+   1,R,K
+   1,R,J,G
+   6,R,J
+   7,R
+   1,R,J
+   1,L,J
+   6,L,J
+   2,L
+   1,R
+  15,U,X
+   5,R
+  22,L,J
+   1,J
+   1,L,K,G
+   1,R,K
+   7,L
+  10,L,X
+  11,L,J
+  30,L,U,J,G
+   1,L,K,G
+   3,L,K
+   1,K
+   1,J,G
+   1,R,J
+   8,L,J
+   1,L,K,G
+   3,L,K
+   1,L
+   1,L,J,G
+  11,L,J
+  15,L,U,X
+
+ 121,L,D
+   1,L,Z
+  13,L,J
+
+ChapterTime: 1:33.279(5487)
