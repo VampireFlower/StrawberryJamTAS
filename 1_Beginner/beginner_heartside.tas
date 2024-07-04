@@ -1,4 +1,4 @@
-RecordCount: 20322
+RecordCount: 20519
 
 console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    1
@@ -8,7 +8,7 @@ console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
 
 #lvl_cp1_heartside_intro
 ## spinner cycle (flag 10)
-   0
+   2
 ##
 ## frame ties
 #  15,U,X
@@ -205,12 +205,13 @@ EndRepeat
    3,R,J,G
    9,J
   14,U,X
-   6,L,J
-   4,L
-  11,L,X
-   4,R,J
+   4,L,J
+   9,L
+   2,R
+   1,L
+   5,R,J
   15,U,X
-   3,L
+   2
   20,R,J
   15,R,U,X
    1
