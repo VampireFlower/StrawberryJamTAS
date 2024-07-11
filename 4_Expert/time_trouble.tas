@@ -1,4 +1,4 @@
-RecordCount: 5643
+RecordCount: 6343
 
 console load StrawberryJam2021/4-Expert/Moladan
    1
@@ -456,11 +456,14 @@ endstunpause
    1,J
   15,D,X
    2,R
+##spinner cycle
+   0
+##
    4,R,Z
    1,R,J
-   2,R
+   3,R
    1,R,J
-   4,R
+   3,R
   12,R,J
   15,R,D,X
    6,R,J
@@ -491,66 +494,63 @@ endstunpause
   16,R,D
    3,D
   10,R,D,X
-   3,R,J
-   1,R
-   2,R,J
+   6,R,J
+   8,R
+   6
+   4,X
+  11,D,X
+  15,R,C
   14
-   1,R,D
-   4,D
-   8,R,D
-  21,R,X
-  14,U,C
-  34,L,J
-  13,U,X
-   7,R,J
-  10,L,Z
-  24,R,J
-  15,U,X
-   4,L,K,G
-   7,L
-  14,L,Z
-   1,L,J
-   7,L
-  10,L,J
-   2,L
-  28
-  42,U,X
-  22,D
-  27,L,D
-  13,L,D,X
-   5,L,J
-  10,L
-  15,L,J
-  14,L,X
-   7,R,J
-  18,R,U,X
-  15,R,U,C
-  17,U,X
+   3,D
    3,R,D
-  39,D
-  13,R,D
+  33,D
+   1,L,D
+  27,J,G
+  15
+  10,K,G
+  23
+  11,J,G
+   1,R,J
+   2,R
+   7
+  11
   18,R,X
-  18,D,C
-  11,L,D
-   9,D
-   6,R,D
-   1,L,D
-   5,L
-   1,L,D
-   1,G
-   2
-  14,G
-  10,L,Z
+  15,U,C
+   6,L
+  15,U,X
+   7,L
+  18,J
+  17,L,U,X
+  12,J,G
+   7,K,G
+  12,L,D,X
+   4,R,J
+  15,R,D,X
+   1,R
+StunPause
+   4,R
+   9,R,J
+EndStunPause
+  18,R,J
+   9,R
+   5,R,D
+   1,R
+  23,R,X
+   2,R,J
+   7,R,Z
    1,R,J
    6,R
-   2,R,J
-   6,R,D,X
-   1,L,J,G
-  28,R
+   3,R,J
+  15,R,D,X
+   1,R,J
+  13,R
   40
 
 #lvl_a-08
-  11,R,X
+   1,R
+   8,R,J
+   6,R
+  14,R,U,X
  135,D
 
-ChapterTime: 1:10.771(4163)
+ChapterTime: 1:09.870(4110)
