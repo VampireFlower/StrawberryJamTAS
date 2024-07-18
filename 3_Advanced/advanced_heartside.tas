@@ -1,4 +1,4 @@
-RecordCount: 23583
+RecordCount: 23637
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -24,18 +24,24 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
   12,R,J
   15,R,D,X
    1,R,J
-  12,R,U,C
+   4,R,U,C
+
+#lvl_heartside_oppen_intro
+   8,R,U,C
    3,R,J,G
    5,R
   40
 
-#lvl_heartside_oppen_a
+#lvl_heartside_oppen_a (0)
    4,R
    3,R,J
    7,R
    1,R,J
    4,R
-   5
+   3
+
+#lvl_heartside_oppen_b
+   2
   15,D,X
   11,D
    1,J
@@ -46,7 +52,10 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1,L,D
    2,D
   14,R,Z
-  24,R,J
+   3,R,J
+
+#lvl_heartside_oppen_a (1)
+  21,R,J
   15,U,X
    5,R
   31,R,J
@@ -138,27 +147,26 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1,R
   14,U,X
   20,L,J
-   1,L,K,G
-   1,R,K
-   4,L
+   1,K,G
+   1,K
+   5,L
+   1,L,J
+   2,J
+   1,L,J
+   6,R,J
    6,R
    3
-   2,R
-   1,R,J
-   8,R
-   2,R,J
-   2,R
-  15,R,Z
-  60,R,G
-   6,R,D,G
-   1,R
+   2,D
+  13,R,X
+  46,R,U,J,G
+   1,R,K,G
+  11,R
    6,R,Z
    1,R,J
    7,R
    1,R,J
   14,R,D,X
    1,R,J
-   8,R,D,X
    1,S
    1,D,J
   69,O
@@ -2060,4 +2068,4 @@ EndStunpause
   12,U,X
  135
 
-ChapterTime: 4:46.161(16833)
+ChapterTime: 4:45.855(16815)
