@@ -1,4 +1,4 @@
-RecordCount: 9891
+RecordCount: 10147
 
 console load StrawberryJam2021/4-Expert/Yoshachobi7
    1
@@ -580,29 +580,28 @@ EndStunPause
   24,R,D
   30,R,Z
    8,R,V
-   1,R,J
-   3,J
-  34,R,J,G
-   7,R,D,G
-   1,R
-   4,L
-  11,L,X
-   1,L,J
    3,R,J
+  13,R,J,G
+  24,R,G
+   4,R,D,G
+   3,R,U,G
+   1,R
+  10,L,Z
+   5,L,J
    6,U,X
-  24,R,U,G
+  24,L,G
+   2,G
    1,R
   15,R,D,X
-  15,R
-   9,R,D
-  15,R,X
-   7,R,G
-   4,D,G
-   4,R,G
-   1,R,D,G
-  11,R,G
-   6,D,G
-   1
+   8,D
+   1,J
+  18,R
+   4,R,D
+   3,R
+   2,R,D
+   6,G
+   8,D,G
+   2,R
    1,R,J,G
    2,R
    1,R,K,G
@@ -610,33 +609,37 @@ EndStunPause
    1,R,J,G
    1,R
    1,R,K,G
-   2,R
-   5
+   6,R
+   1,S
+  10,J
+   1,R,J
+   1,R
+   1,R,J
   13,R,G
-   1,R,J,G
-   1,J,G
-  66,R,J,G
-   3,D,G
+   2,J,G
+   5,R,J,G
+  44,R,G
+   1,G
    1,L
   13,R,U,Z
   43
 
 #lvl_a8
-   1,R
+   1,L
    1,L,J,G
+   1,L,J
    1,R,J
    5,R
-   2,R,J
-   1,R
-  12,R,Z
+   3,R,J
    1,R,K,G
    2,L,K
-   2,K
+   1,K
    1,R,J,G
    2,R,K,G
    9,R
-   1,R,J
-  31,R,D
+   1,R,K
+   9,R
+  22,R,D
   14,R,D,X
   11,R,J
    1,R
@@ -651,7 +654,8 @@ EndStunPause
    7
   14,L,D,X
   26,R,J
-   3,J
+   2,J
+   1,R,J
    1,K,G
    3,R,K
    4,K
@@ -685,4 +689,4 @@ EndStunPause
   15,R,U,X
  135,D
 
-ChapterTime: 1:33.704(5512)
+ChapterTime: 1:33.245(5485)
