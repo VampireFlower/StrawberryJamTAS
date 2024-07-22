@@ -1,4 +1,4 @@
-RecordCount: 8654
+RecordCount: 9891
 
 console load StrawberryJam2021/4-Expert/Yoshachobi7
    1
@@ -102,21 +102,19 @@ console load StrawberryJam2021/4-Expert/Yoshachobi7
   15,R,X
   16,R
   15,R,D,X
-   5,R,J
-   5,R
-   1,R,J
-   8,R
-  14,R,U,Z
-  28,R
-  26,R,U,J,G
-   4
-  13,L,D,X
-  31,R
-  27,R,G
+   3,R,J
+  14,R
+  14,R,U,X
+  25,R
+  13,R,G
+  15,G
+   4,D,G
+   3,R,D,G
+   1,D,G
+  62,R,G
    1,R
-  14,R,X
-  53,R
-  13,R,Z
+  53,R,X
+  14,R,Z
    2,R,J
   14,R,D,X
    4,R,J
@@ -157,38 +155,29 @@ console load StrawberryJam2021/4-Expert/Yoshachobi7
   21,R,G
    1,L
   10
-  27,L,G
-  20,L,D,G
+  47,L,D,G
    1,R
    4,L
-   2
-  12,L,D,X
+  15,R,D,X
    1,R,J
+   5,R
+   2,R,J
+   5,R
+  13,R,U,X
+  21,R,G
+   2,L
+  25
    8,R
-  16,R,J
-#-1f
-  14,L,J,G
-   1,L
-   6,R,G
-   1,D
-   8,U,X
-  16,G
-   1,R,G
-   1,G
-   1,R,G
-   2,G
-   1,L
-  38,R
-  16,D,X
+  15,R,Z
+  16,D
   11,L,D,C
   28,R,J
   14,U,X
-  11,R,J
-   3,R
-  21,R,G
+   9,R,J
+   7
+  21,G
    1,R
-  10,L
-  19,D
+  23,D
   11,R,Z
   13,R,J
   11,U,X
@@ -386,49 +375,48 @@ EndStunPause
   14,L,D,X
    1,R,J
    9,R,U,X
-  31,R,U,J,G
-  13,R,G
-   4,R,D,G
-   1,R
-   1,R,D
-  11,L,D,X
-  13,R,J
-  14,U,X
-  11,R,J
-  21,R,J,G
-   6,R
-  21,R,D
-   3,R
-   2
-   1,R
-  10,L,D,X
-  16,R,J
-  29,R,U,J,G
-   2,R,D,G
-   2,R,G
-   1,R,D,G
-   1,R,G
-   1,R,D,G
-   1,R
-  20,R,X
-  23,R
-  14,R,Z
+  51,R,J,G
+   2,R
+  14,R,U,Z
+   1,J
+   1,L,K,G
+  13,R,K
+  10,L,Z
    1,R,J
-   6,R
+  13,R,G
+   1,R,G
+   2,R,J,G
+   3,R,G
+  10,G
+   3,D,G
+   1,R
+   5,D
+  13,L,D,X
    3,R,J
-   2,R,K,G
-   5,R
-  10,R,D,X
+  14,R
+  14,R,U,X
+  22,R,G
+   8,R,J,G
+   1,L,J
+   1,R,J
+  20,R
+  15,R,D,X
+   7,R
+   6,R,J
+   7,R,D,X
+   1,R,J,G
+   6,R
+   1,R,J
+   4,R
+   2,R,J
+   1,R
   40
 
 #lvl_a6
-   4,R,D,X
-   1,R,J
-   7,R,D,X
-   7,R
-   2,R,J
-  27,R,U,X
-   1,R,G
+  15,R
+  15,R,U,X
+  12,R
+   1,G
    1,R,J,G
    3,L,J
    2,J
@@ -567,36 +555,27 @@ EndStunPause
   14,R,J
    9,R
   13,R,U,Z
+   1,R,U,X
    1,R,K,G
    2,L,K
-   1,K
-   1,R,K
-   1,R
+   1
    1,R,J,G
    1,R,K,G
+   1,J,G
    5,R
-   4,R,J
+   3,R,J
+   2
+   3,L
+   3,D
+  14,R,D,X
+  22,R,J
+  20,R
+   2,R,D
+  23,R,Z
+   7,U,X
+  14,R,J
    2,R
-   1
-  11,R,Z
-   1,R,J
-   1,J
-   9,R,J
-   1,R
-  19,R,J
-   3,L
-   1,R
-  24,L
-   1
-   3,L
-  12,R
-  12,R,U,Z
-   4,L
-   7,K,G
-   3,R,K
-   1,R
-  15,R,U,X
-  10,R,Z
+  14,R,Z
    1,R,J
   24,R,D
   30,R,Z
@@ -706,4 +685,4 @@ EndStunPause
   15,R,U,X
  135,D
 
-ChapterTime: 1:35.081(5593)
+ChapterTime: 1:33.704(5512)
