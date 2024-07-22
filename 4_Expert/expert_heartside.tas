@@ -1,4 +1,4 @@
-RecordCount: 48673
+RecordCount: 50274
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -2864,33 +2864,40 @@ endstunpause
    1,L,K,G
    4
    8,L
-  31,L,J
+  27,L,J
+   2,L
+   2,L,K
   15,U,X
   22,L
 
 #lvl_f00_intro
-   9,L,D
-  14,L,Z
-   4,L,J
-  20,L,D,X
-  17,L,J
-  12,L,K,G
-   6,L,J,G
-   5,L,Z
+   2,R
+   7
+   4,L,Z
    1,L,J
-   2
-   3,J
-  10,L
-   5
-  14,R,Z
-   2,R,J
-   1,R,K,G
+   6,L
+   5,L,J
+  15,L,D,X
+   7,L
+  12,L,J
+   5,L
+  12,J,G
+   5,K,G
+  15,L,Z
+   2,L,J
+   2,L
+   7
+  14,R,D,X
+   1,R,J
+   2,R,K,G
    1,R,J,G
    5,R,D,X
+   1,R,J,G
+   3,R,K,G
+   5
+  14,R
+  10,R,J
    1,R,K,G
-   4,R,J,G
-  19,R
-  11,R,J
   10,R,D,X
    1,R,J
    1,R,K,G
@@ -2901,25 +2908,28 @@ endstunpause
    7,R,D,X
    1,R,J
    1,R,K,G
-   2,R,J,G
-   4,R,K,G
-   4,R
+   1,R,J,G
+   1,R
+   5,R,K,G
+   3,R
   40
 
 #lvl_f01_quantumspaceman
-   1,R
-   4,R,K
-   1,R
-   1,J
-   7,R,J
-   7,L,J
+   4
+   1,K
+   1
    1,R,J
+  11,J
+   4,R
   17,R,U,X
-   2,L,J,G
-  13,R,J
-  12,U,X
-  17,L,J
+   1,L,J,G
+  11,R,J
+   2
    1,R
+  12,U,X
+  15,L,J
+   2
+   1,L
   11,R,U,Z
    1,R,J,G
    7,R
@@ -3231,46 +3241,57 @@ endstunpause
    6,R
   15,U,Z
    1,L
-  33,R,J
-   2,R
-  10,L,U,Z
   15,R,J
-   4
-  22,R,D,X
-   6,R
-  16,R,J
-  13,L,U,Z
-  24,R,J
-  13,L,U,Z
-  11,R,J
-   9,J
-   4,X
-  12,R,D,X
-   8,D
-   7,L
-   2,L,J
-   5,L
-   2,R
-   2,R,J
-   5,R
-   1,L
-   1,J,G
-   1,K,G
-   1,J,G
-   1,K,G
+  16,R
    1,K
+   1,R,K
+   2
+  10,L,U,Z
+   4,R,J
+   2,R,J
+   2,J
+  11,R,J
+  18,R,D,X
+   3,R,D
+   2,R,D
+   1,R
+  19,R,J
+  13,L,U,Z
+  23,R,J
+  13,L,U,Z
+  10,R,J
+   8,J
+   1,R,J
+   1,J
+   4,R,X
+  11,R,D,X
+   8,D
+   8
+   1,L,J
+   1,R,J
+   3,R
+   1
+   4,R
+   1,R,K
+   1,L
+   1,K
+   3
+   1,J,G
+   1,K,G
+   1,J,G
+   1,K,G
+   1
   15,R,D,X
    6,R
-   1,R,J
-   2,R
-   9,R,D,X
-  14
-   2,R
+   2,R,J
+  13,R,D,X
+   9,R,J
+   3,J
    5,L
   15,R,U,X
-  14,R,D,C
-   1,L,J
-   3,R
+   8,L,C
+   1,R,J
+   7,R
   10,R,Z
    1,R,J
    8,R
@@ -3284,40 +3305,50 @@ endstunpause
    5,R,D
   15,D,X
   10,D
-   6,R,D
-   3,D
+   7,R,D
+   1,D
+   1,R,D
   10,L,D,X
-   1,R,J
-   4,R
-  15,R,D,J,X
-   2,R,D,J
-   4,R,J
-  26,R,K
+   2,R,J
+   3,R
+  15,R,D,K,X
+   6,R,K
+  12,R,J
+   5,R
+   8,R,K
   15,U,X
    1,R
   14,R,X
    1,R,J,G
   10,R,K,G
-   5,R,J,G
+   2,R,J,G
+   1,J
+   2,R,J
   15,R,D,X
-  19,R,J
-  15,U,X
+  12,R,J
+   1
    1,R
+   4
+  11,U,X
+   5,L,J
   10,L,D,X
    9,R,J
-   1,R
-   1,R,J
-  16,R,D
+   6,R
+   1,R,K
+   8,R
+   3,R,D
   10,L,D,X
-   1,R,J
-   4,R
+   2,R,J
+   3,R
   15,R,D,X
    2,R,D
-   9,R,J
-  16,R
+   8,R,J
+   9,R
+   2,R,K
+   5,R
   14,R,U,X
    1,R,J,G
-  14,R
+  13,R
   14,L,Z
    1,R,J
   15,R,D,X
@@ -3403,47 +3434,49 @@ EndRepeat
    7,R,Z
    1,R,J
    6,R
-   2,R,J
+   1,R,J
   15,R,D,X
    5,R
    3,R,J
-  20,R,D,X
+  15,R,D,X
+   5,R
    4,R,J
    1,R,K
   17,R,U,X
    4,R,J
-   4,R,K
-   9,R,D,X
-   5,L,U,X
+   3,R,K
+   1,R
+  14,R,D,X
    4,L,J
    1,L,K
   13,L,U,X
    4,L,J
-   1,L,K
-  12,L,X
-   5,R,X
+   3,L,K
+  15,L,D,X
+   4,R,J
+   2,R,K
+  10,R,X
    4,R,J
    1,R,K
-  11,R,U,X
-   4,R,J
    3,R
   15,R,D,X
-   5,R,D
+   1,R
+   3,R,D
    3,R
    1,R,J
-   7,R
+   6,R
   14,R,D,X
    4,R,J
    1,R,K
    1,R,J
   12,R,X
    4,R,J
-   1,R,K
+   2,R,K
   15,R,D,X
-  14,R
-   2,R,D
-   2,R
-  65,R,D
+  13,R
+  10,R,D
+   1,R
+  56,R,D
    4,R
 
 #lvl_f07_butcherberries
@@ -3482,23 +3515,27 @@ EndRepeat
 
 #lvl_f07_xplosives
    1,L,J
-   5,L
-   1,L,J
+   6,L
+   6,L,J
    1,L
-   1,J
-   5,L,D
-  45,R,D
-  14,R,Z
-   1,R,J
-   8,R
+   1
+   1,L
+   5
   15,D,X
-   1,R,D
-   4,L,Z
+   2,L,D
+  26,R,D
+  11,R,Z
    1,R,J
    4,R
+   1,R,K
+   3,R
+  15,D,X
+   1,D
+   4,R,Z
    1,R,J
-   2,R
-   3,R,J
+   6,R
+   1,R,J
+   3,R
    8,R,D,X
    1,R,J,G
   11,R
@@ -3533,18 +3570,30 @@ EndRepeat
   24,R,K,G
 
 #lvl_f07_lennygold
-  39,R,K
+   3,R,K
+  32,R
+   2,R,D
+   1,R
   15,R,U,X
-   9,R
-  11,R,J,G
-   7,R
+  10,R
+   2,R,J,G
+   2,L,J
+   3,J
+   3,R,J
+   2,R
+   1
+   4,R
    4,R,Z
+   1,R,J
 
 #lvl_f07_syrenyx
-   8,R,J
-   4,R
    6,R,J
-  15,R,U,X
+   2,R
+   1,R,K
+   1,R
+   6,R,J
+   1,R
+  14,R,U,X
    6,R,J,G
    1,R
    1
@@ -3555,10 +3604,10 @@ EndRepeat
    2,R,J
   10,R
   15,D,X
-  14,R,D
+  15,R,D
 
 #lvl_f07_legs
-   5,R,D
+   4,R,D
   18,R,X
   15,R,D,C
    1,R,J
@@ -3659,4 +3708,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 7:38.949(26997)
+ChapterTime: 7:38.626(26978)
