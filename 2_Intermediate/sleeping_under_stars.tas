@@ -1,4 +1,4 @@
-RecordCount: 6036
+RecordCount: 6122
 
 console load StrawberryJam2021/2-Intermediate/Arphimigon
    1
@@ -142,17 +142,17 @@ EndRepeat
   29,L,D
    4,L
   15,D,X
-   9,L,D
-  15,D,X
-  20,D
-  42,L,D
-   2,D
-  15,L,Z
-  23,L,U,X
+  10,L,D
+  16,D
+  48,L,D
+  35,L,Z
    4,L,J
-  13,L,K
+   7,L,K
+   5,J
+   3,R,J
+   2,R
   14,D,X
-   1,J,G
+   1,L,J,G
   32,L,X
    8,L,J
   12,L,K
@@ -557,4 +557,4 @@ EndRepeat
   14,R,U,X
  135
 
-ChapterTime: 1:52.659(6627)
+ChapterTime: 1:52.540(6620)
