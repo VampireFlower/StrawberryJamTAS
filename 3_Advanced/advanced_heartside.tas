@@ -1,4 +1,4 @@
-RecordCount: 23637
+RecordCount: 24043
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -171,7 +171,7 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1,D,J
   69,O
 #spinner cycle - bee berserk
-   1
+   2
 ##
    2,R,J
   11,R,Z
@@ -187,39 +187,42 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    3,R,K,G
   14,R,U,Z
   80,R,U,C
-## -27f, dont get bino storage
-#  13,R,Z
+##
+  13,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   3,J
+   3
+  15,R,D,X
+  16,D
+## +27f, get bino storage
+#  14,R,Z
 #   1,R,J
-#   7,R
+#  14,R,D,X
 #   1,R,J
-#   3,J
-#   3
-#  15,R,D,X
-#  16,D
-#
-  14,R,Z
-   1,R,J
-  14,R,D,X
-   1,R,J
-  11,R,D,X
-   1,R,J
-  13,R,D
-   5,D
-   1,D,N
-   4,L,J
-   2,L
-  15,L,D,C
-  10,L,D
+#  11,R,D,X
+#   1,R,J
+#  13,R,D
+#   5,D
+#   1,D,N
+#   4,L,J
+#   2,L
+#  15,L,D,C
+#  10,L,D
+##
    7,D,X
    1
    5,L
    4,R,Z
    1,R,J
-   8,R
-  38,R,J
+   5,R
+   1,R,J
+   2,R
+  38,R,K
   15,U,X
    1,R
-   2
+   1
   27,R,J
    1,K,G
    1,L,K
@@ -228,26 +231,28 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    2,R,J,G
    1,J
    7,R
-   1,R,J
-   1,R
-   1,R,J
+   2,R,J
    4,R
-  12,R,K
-  18,R,Z
-  16,R,D
-  15,R,Z
-  21,L,J
-   9
-  12,L
-  13,U,X
-  15,R,J
-   6,R
+   8,R,K
+   3,R
+  22,R,X
+  25,R,C
+  10,D
+   1,L,D
+  12,D
+   8,L,D
+  14,U,X
+  19,R,J
   15,R,D,X
-   5,R
-   4,R,D
-   5
+   3,R,D
+   3,R
+   2,R,D
+   3,R
    1,D
-   1,R,D
+   1
+   1,D
+   1
+   2,R
    8,L,D,X
    1,R,J
    6,R
@@ -268,36 +273,44 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
    1,R,J
    3,R
-  33,R,D,X
-   1,D
-  18,R,D
-   4,R,J
-   6,R,D,X
-StunPause
-  11,R,D,X
-   1,R,J
-EndStunPause
-   2,R
   15,R,D,X
-  12,R,D
+   7,R,D
+  17,D
+   3
+   4,R
+   1
+  10,L,X
+   1,L,J
+   4,L
+   1,K
+   1,J,G
+  15,R,D,X
+   1,R
    1,R,J
-   2,R
-  14,R,D,X
+   5,R,D,X
+StunPause
+   9,R,D
+EndStunPause
+   1,R,D
+   2,R,J
+  29,R,D,X
+   6,R,J
   40
 
 #lvl_heartside_Galaksyz
-  12,R,J
-  15,R,D,X
+   9,R,J
+  16,R,D,X
    4,R,J
+   2,R
   15,R,D,X
-#this depends on spinner cycle
-#only 1 cycle works
-  19,R
+   9,R
+   9,R,D
    1,R,J
-   5,R
-   1,R,J
-  17,R
-   2
+   9,R
+   2,R,J
+  11,R
+   1,R,D
+   2,D
    7,R,U,Z
    1,L
    3,J,G
@@ -316,7 +329,7 @@ EndStunPause
   12,L,U,Z
    1
 #spinner cycle - synapse
-   2
+   0
 #
   89,R,C
   17,R,U
@@ -2068,4 +2081,4 @@ EndStunpause
   12,U,X
  135
 
-ChapterTime: 4:45.855(16815)
+ChapterTime: 4:45.073(16769)
