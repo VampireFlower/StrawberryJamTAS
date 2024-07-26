@@ -1,5 +1,5 @@
 #By Kataiser
-RecordCount: 8222
+RecordCount: 8529
 
 console load StrawberryJam2021/3-Advanced/Worldwaker2
    1
@@ -41,25 +41,21 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
 
 #lvl_2 (0)
    3,R
-   1,R,K
-   9,R,D,J
-   1,R
-   1
-   1,L,J,G
-   6,R,K
+   1,R,J
+  10,R,D,K
    1,K
-   5
+   1,L,J,G
+   7,R,J
+   4,R
   15,U,X
   20,L
-   9,L,J
-   1,L
+  10,L,U,Z
    1,J,G
    6,L
    1,R
-   1,R,D
-  13,R,J
+  13,R,D,J
    1,J
-   4,R,J
+   5,R,J
    1,R,K
   15,R,J
   10,L,Z
@@ -131,34 +127,25 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
    1,D
   39,R,D
   20,R
-   5,R,J
-  14,U,Z
-   7,R,J
-   1,R,K,G
-   5
-   2,R
-   5
-#key cycle
-Repeat 14
-   1
-   1,D
-EndRepeat
-#
-   1,L
-  10,D
-   8,L,D
-   7,L
-   5,L,D
-   3,D
    4,R,J
-   1,R,K,G
-  14,R,J,G
-   1,K,G
-   3,R,K
-   1,K
-   7,L,K
-  12,L,J,G
-  10,L,K,G
+   2,J
+  14,U,Z
+   2,R,J
+   2,L,K
+   2,R,J
+   2,L,K
+   2,R,J
+   2,L,K
+   3,R,J
+   1,R,K
+   6,R,J
+   6,L,K
+   6,R,J
+#key cycle
+  56,R,D
+#
+   7,L
+  10,L,D,J
   11,R,D,X
    2,J
    2
@@ -241,13 +228,11 @@ EndRepeat
    1,L,K,G
    6,L,K
   14,U,Z
-   8,J
-   1,R,K,G
-  11,R,K
-  12,R,J,G
+  24,R,J
+   6,R,K,G
    7,R
 #spinner cycle
-   0
+   1
 #
   15,U,X
   18,R,J
@@ -349,10 +334,12 @@ EndRepeat
    1,L,K,G
    3,L,K
    7,L
-  10,L,X
-  28,R,J
+   6,L,D,X
+   1,R,K,G
+  16,R,K,G
+   8,R,J,G
+   1,R
   15,U,Z
-   1
    1,R
   17,R,J
    2,K,G
@@ -423,7 +410,7 @@ EndStunPause
    1,R,J
    5,R,U,X
   43
-
+ 
 #lvl_7
    8,R,U,X
   10,R,J,G
@@ -450,40 +437,46 @@ EndStunPause
   14,L,D
    1,L
    5,L,D
-   2
-  14,D
-   2,L
-   1
-   1,L
-   7,L,Z
-   3,R,J
-   1
-   3,R
-  11,R,J
-   9,R
+   2,D
+   8,D
+   9,R,D
+   4,D,X
+   1,R,J,G
+  17,R,K,G
+  16,R,J,G
    1,R,J
-   9,R
   15,U,X
-  38,R,G
-   1,R,J,G
+  23,L,G
+   7,G
+   1,R,G
+   1,K,G
    1,L
-   6,R
-   4,X
-   1,R,J
-   5,R
-   1,R,J
-  50,R,U,J,G
-  54,U,G
-  40,R,U,G
-   1,L,J,G
-  25,L,U,K,G
-  36,U,G
-   5,R,U,G
-   1,R
+  11,R,J,G
+   1,K,G
+   1,L,K
    1,R,J,G
-   3,L
-   4
+  13,R,J
+   1,R,K,G
+   2,R,J,G
+   1,J
+  10,R,J
+   8,R,X
+   3,R,J,G
    5,R
+   2,R,J
+  80,R,U,K,G
+   1,U,K,G
+   1,K
+  15,U,X
+   1
+   2,L
+  16,L,J
+  22,L,J,G
+   2,R,J,G
+   3,R,J
+   1,R,K,G
+   2,R,J,G
+   7,R
   10,R,X
   11,R,J
   15,U,X
@@ -506,7 +499,7 @@ Repeat 3
    3,R
    2
 EndRepeat
-  12
+   2
 #
    3,L
    6,L,J
@@ -550,7 +543,7 @@ EndRepeat
   10,L,K,G
    7,L
 #spinner cycle
-   2
+   1
 #
    6,L,D,X
    1,R,J,G
@@ -699,4 +692,4 @@ EndStunPause
    1,L,Z
   13,L,J
 
-ChapterTime: 1:32.548(5444)
+ChapterTime: 1:30.814(5342)
