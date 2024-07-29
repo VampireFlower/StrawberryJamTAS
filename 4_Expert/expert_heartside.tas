@@ -1,4 +1,4 @@
-RecordCount: 52790
+RecordCount: 54037
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -33,13 +33,6 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1,R,J,G
    5,R
    1,R,J,G
-## +0f different subpixel and timeactive values
-#   1,R
-#   1
-#   6,R
-#   1,R,K
-#  32,R
-##
    1
    7,R
    1,R,K
@@ -576,9 +569,9 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
   13,R,D,X
    1,R,J
    1,R,K,G
-   4,K
-   5,R,K
-   1,R
+   5,K
+   4,R,K
+   1,K
   15,R,D,X
    1,R,J
    1,R,K
@@ -586,17 +579,16 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1,R,K
    1,R,J
    1,R,K
+   1,R,J
+   2,R,K
    1,R,J,G
+   8,R
    1,R,K
-   7,R
-   4,R,J
-   1,R
-   2,R,J
    4,R
-   3,R,J
+   4,R,J
    5,R
-   2,R,J
-  13,R
+   1,R,K
+  14,R
    1,R,J
    4,R
    8,R,U,X
@@ -901,7 +893,7 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
   21,R,D
   12,R,Z
 ## Spinner cycle [b04_powerav]
-   2
+   1
 ##
   45,R,X
   15,U,C
@@ -1252,20 +1244,22 @@ endstunpause
   35,D,J
 
 #lvl_c00_intro
-   5,L
-  11,R,U,X
-   1,J,G
-   1,R,K,G
-   2,L,K
-   4,L,J,G
-   1,L
-   4,L,K,G
+   8,R
+   9,R,U,X
+   1,K
+   1,R,J,G
+   1,L,J
    4,L
-   3
-   2,R,J
-  15,U,X
+   2,L,J,G
+   5,L
+   1,L,K
+   2,L
+   2,D,J
+   2,L,J
+  14,U,X
   15,J
-   3,K
+   1
+   1,R,J,G
    7,L
    3,L,J
   14,U,X
@@ -1641,6 +1635,9 @@ AnalogMode Ignore
    9,R,J,G
   17,R
   16,R,X
+## Lightning cycle [d02_lethargicdoggo]
+   1
+##
   11,R,Z
    1,R,J
    2,R
@@ -1854,37 +1851,33 @@ EndRepeat
    7,R,D,X
    1,L
    4,J,G
-   1,R,J
-   1,J
+   2,R,J
    5,R
    3,R,K
    8,R
-  10,R,D,J
-   4,R
-  13,R,D,X
+  12,R,J
+   3,R
+  12,R,D,X
   40
 
 #lvl_d01_ru
-   2,R,D,X
-   2,R
-   4,R,D,J
-   2,R
+   3,R,D,X
+   1,R
+   6,R,D,J
   15,R,U,X
-   6,R
+   5,R
   15,U,X
    8,R
    1,R,J,G
-   2,R
-   1,R,J,G
+   2,L,J
    7,R
-## Lightning cycle [d02_lethargicdoggo]
-   1
-##
    4,R,X
-  16,R,J
-   1,K,G
-   7,R
-   5,L
+   9,R,J
+   3,J
+   5
+   1,J,G
+   6
+   6,L
    5,L,Z
    1,R,J
    4
@@ -2039,71 +2032,59 @@ EndRepeat
   15,R,D,X
    8,R,D
   15,R,J
-  79,R,G
-   1,G
-  24,D,G
-   8,G
+  78,R,U,J,G
+  15,R,D,G
+   5,D,G
+  20,G
    1,D
-   2
-   2,R
-   1
-  14,L,Z
+   5,L
+  14,L,X
    1,R,J
+   2,R,K,G
+   1,R,J,G
    5,R,D,X
   13,R,G
-   1,R,D,J,G
-  15,R,D,X
-## Cycle in d01_ru
-stunpause
-   6,R,D
-endstunpause
-## -1f drift dependent
-#   3,R,D,J
-#   5,R
-#   3,R,K,G
-#   5,R
-#   3,R,J
-#  14,R,U,X
-#   3,J,G
-#   7,R
-##
-   7,R,D,J
-   6,R
-   1,R,K
-   1,R
-   1,R,K
-   1,R
-  14,R,U,Z
-   3,R,J,G
+  12,R,J,G
+   3,R,G
+   1,L
    2,R
-   1,R,J,G
-   7,R
-   5,R,J
-   2
-   7,R,Z
-   1,R,J
-   6,R
+   4,R,K
+   1,R
+   1,R,K
+   4,R,U,Z
+StunPause
+   5,R,U,Z
+   2,R,J,G
+   3,R
+EndStunPause
+  17,R
    1,R,J
    5,R,D,X
   40
 
 #lvl_d03_appels
-   9,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-   1,R
-  14,R,D,X
-   7,R,J
-  28,R,J,G
+   7,R,D,X
+   6,R,J
+  16,J,G
+   9,R,J,G
+   3,J,G
   24,R,X,G
    1,R
   13,G
-   9,X,G
+   2,R,X,G
+   2,X,G
+   1,R,X,G
+   4,X,G
    1,D
   21,R,G
    1,R
-  18,D
+   1
+   3,L
+   2
+   1,L
+   4
+   1,R,K
+   6
   13,G
   22,X,G
   21,C,G
@@ -3749,4 +3730,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 7:37.997(26941)
+ChapterTime: 7:37.504(26912)
