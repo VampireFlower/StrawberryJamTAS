@@ -1,4 +1,4 @@
-RecordCount: 10750
+RecordCount: 10787
 
 console load StrawberryJam2021/4-Expert/Yoshachobi7
    1
@@ -687,13 +687,13 @@ EndStunPause
    4,J,G
    1,R,J
    5,R
-   1
-  10,R
    2
+  11,R
   14,R,D,X
   11,R,J
   16,R
-   7,R,J,G
+   1,R,J,G
+   5,R
   14,R,D,X
   21,R,J
   14,R,X
@@ -704,8 +704,8 @@ EndStunPause
   15,R,X
   14,R
   15,R,D
-  31,R
-  15,R,U,X
+  32,R
+  14,R,U,X
  135,R
 
-ChapterTime: 1:30.831(5343)
+ChapterTime: 1:30.814(5342)
