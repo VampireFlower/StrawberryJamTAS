@@ -1,4 +1,4 @@
-RecordCount: 11567
+RecordCount: 11577
 
 console load StrawberryJam2021/4-Expert/Yoshachobi7
    1
@@ -538,7 +538,7 @@ EndStunPause
 #  17
 #   9,R,Z
 ### Spinner cycle [a8]
-   0
+   1
 ###
   15,R,X
    9,R
@@ -650,22 +650,17 @@ EndStunPause
 
 #lvl_a8
    1,R,D
-   1
 StunPause
-   1
-   5,R,D
+   2
+   6,R,D
 EndStunPause
-  10,R,D
+   9,R,D
    3,R
-StunPause
    1,R
    1,R,D
-EndStunPause
    2,R
    8,R,U,Z
-StunPause
    2,R
-EndStunPause
    1,R,J,G
    1,J
    2
@@ -692,4 +687,4 @@ EndStunPause
   14,R,U,X
  135
 
-ChapterTime: 1:28.604(5212)
+ChapterTime: 1:28.434(5202)
