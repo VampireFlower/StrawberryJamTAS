@@ -1,4 +1,4 @@
-RecordCount: 5913
+RecordCount: 6054
 
 console load StrawberryJam2021/4-Expert/Aspar
    1
@@ -6,10 +6,11 @@ console load StrawberryJam2021/4-Expert/Aspar
 #Start
   61
 
-#lvl_00-intro
 #spinner cycle
    1
-#
+#placed above room label for ARB
+#do not move unless you know what you know what you are doing
+#lvl_00-intro
    6,L,D,X
    1,R,J
    3,R
@@ -68,10 +69,12 @@ console load StrawberryJam2021/4-Expert/Aspar
   40
 
 #lvl_00-intro-cutscene
-repeat 3
    1,R,J
   14,R,D,X
-endrepeat
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
    2,R,J
   14,R,D,X
    1,R,J
@@ -261,12 +264,13 @@ EndStunPause
    1,L,J
    4,L
    1,L,J
-  26,L,D
-   2,L
+  23,L,D
+
   15,L,X
-  22,D
-   4,R,D
-   1
+   7,L,D
+  20,D
+   2,R,D
+   2,R
    1
   48,R,J
   11,K,G
@@ -306,7 +310,7 @@ EndStunPause
    1,L,D
    6,D
 #spinner cycle
-   1
+   2
 #
    1,D,N
    1,J
@@ -371,23 +375,27 @@ EndStunPause
    6,R,D
   15,R,U,X
    4,R
-   1,R,K
-   5,R
-   4,R,J,G
-   1,R
-  13,R,K
-   7,R
-  49,R,J
-   1,R,K,G
-   5,L,K
-   4,K
-   6,R,K
-  10,R,J,G
+  23,R,K
   12,R
-  10,R,K,G
-   9,R
+  48,R,J
+   1,K,G
+   1,L,K
+  14,R,J,G
+   8,R,K,G
+   2,R
+   1
+   1,R
+   2
+   2,R
    1,R,J
-  13,R,D
+   4,R
+   1,R,K,G
+   7,R,J,G
+   5,R
+
+  14,R
+   1,R,D
+   1,R
    4,R,Z
    6,R,J
   40
@@ -462,21 +470,23 @@ EndStunPause
    1,K
   24,R,K
   10,R,J,G
-   7,R
-   3,R,J
+   8,R
+   2,R
    2
-   3,R
-  30,R,K,G
-  10,J,G
-   1,R,J
-   1,L
-   3,R,K,G
+   2,R
+   1
+   1,R,K,G
+  25,R,J,G
+   1,K
+  11,R,K
    7,R
-  11,U,X
+   4,R,J
+   9,U,X
   40
 
 #lvl_99-end
-   2,R
+   1
+   1,L
   23,L,J
   15,U,C
   10,L
@@ -494,4 +504,4 @@ EndStunPause
   14,L,U,X
  135
 
-ChapterTime: 1:10.329(4137)
+ChapterTime: 1:10.210(4130)
