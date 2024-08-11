@@ -1,4 +1,4 @@
-RecordCount: 4826
+RecordCount: 4850
 #draft had 0
 
 console load StrawberryJam2021/2-Intermediate/Emik
@@ -263,14 +263,14 @@ EndStunPause
   16,L,Z
    2,L,J
    1,R,K,G
-  10,R,J,G
-   3,J
-   1,R,J
+   3,R,J,G
+   3,R
   15,U,X
    6,R
-  24,R,U,C
-   2,J,G
-   3,L,J
+   2
+   5,J,G
+  12,R,J
+  16,R,U,C
    5,R,U,X
   39,L,D
    4
@@ -435,4 +435,4 @@ EndStunPause
   45,L,J
   90,G
 
-ChapterTime: 0:59.891(3523)
+ChapterTime: 0:59.857(3521)
