@@ -1,4 +1,4 @@
-RecordCount: 19181
+RecordCount: 21010
 
 console load StrawberryJam2021/5-Grandmaster/Soloiini
    1
@@ -834,37 +834,34 @@ EndRepeat
    9,R,D,X
   14,R,G
   12,R,J,G
-   7,R,G
-   1,R,J,G
-   1,R,G
-   1,R,J,G
-   2,R,G
-   2,R
-  15,R,Z
-  10,R
-   1
-   1,R
-   1
-   1,L,J
-  13,G
-   9,R,J,G
+   1,G
    5,R,G
    1,R,J,G
-   4,R,G
-  11,R
+   3,R,G
+   1,R,J,G
+   1,R,G
+   2,R
+  15,R,Z
+   8,R
+   5
+   3,J,G
+  13,J,G
+   3,L,J,G
+   2,L,G
+   3,G
+  12,R
+   1
    1,G
   12,J,G
-   5
-   8,J
-   7,R
+   6
+   7,J
+   1,R,J
+   6,R
    1
-   2,R
-   5,R,D
+   4,R
+   2,R,D
    1,R
-   3,R,D
-   1,R
-   7,R,D
-   1,D
+  13,R,D
    6,R
   23,R,G
    1,L
@@ -946,33 +943,36 @@ EndRepeat
 #lvl_Halcyon Promenade
    4,R,K
    3,R,J
-  21,R,J,G
+  15,R,J,G
+   3,L,J,G
+   1,J,G
+   1,L,J,G
+   1,J,G
    1,R,K
-  11,U,X
+   3,L,K
+  13,U,X
    1,L,J
-  29,L,J,G
-   9,R,K,G
-   1,R,G
-  12,L,J,G
-   3,R,G
-   1,R,D
+  23,L,J,G
+   5,R,J,G
+   1,J
+   7,L,K,G
+   1,J,G
+   6,J
+   4
    3,R
    5,L,U,X
-  25,L,G
-   6,R,J,G
-   1,R,G
-   4,R,J,G
-   1,L,J
-   6,R,J
-   1,R
-   5,R,Z
-   1,L,J
-   6,L
-   6,L,J
-  22,L,J,G
+  26,L,U,G
+   7,G
+   6,J,G
    3,L,J
+   5,L,Z
+   1,L,J
+  13,L,G
+  14,L,K,G
+   3,L,K
    6,U,X
-  33,G
+  13,G
+  20,G
    1,L,J,G
    7,L,G
    1,L,J,G
@@ -1023,22 +1023,30 @@ EndRepeat
   27,R,G
    4,L,G
    7,R,Z,G
-  11,R,J,G
-   9,R,G
-  40,G
-   9,J,G
-  11,L,J,G
+  12,R,J,G
+   1,R,G
+   1,R,J,G
+   6,R,G
+   6,R
+   3,J
+   4,R,J
+   1,R
+  17,U,X
+  33,L,G
    1,L
   14,L,U,X
-  22,L,G
-   1,L
-  15,L,U,X
-   2,L
-   2,R
-   3
-   1,L
-  24,L,G
-  26,G
+  17,L,G
+   6,G
+   1,R
+  11,L,U,X
+   1,J,G
+   9
+   1,R
+   4
+   4
+  13,G
+   6,L,G
+  10,G
    8,R,J,G
    7,J,G
    1,R,D,J
@@ -1061,13 +1069,12 @@ EndRepeat
 #lvl_Arrogance
    3,R,G
    1,L
-  12,R,D,X
-   1,R,J
-   5,R
+   2,R
    1
-   1,R,N
+  14,R,D,X
+   1,N
    1,S
-   1,D,O
+   1,D,J
   34
    4,Z
    1,L,J
@@ -1263,4 +1270,4 @@ EndRepeat
    1,L,J
   55,L
 
-ChapterTime: 2:43.727(9631)
+ChapterTime: 2:43.166(9598)
