@@ -1,4 +1,4 @@
-RecordCount: 5296
+RecordCount: 5710
 
 console load StrawberryJam2021/4-Expert/LethargicDoggo
    1
@@ -281,77 +281,98 @@ console load StrawberryJam2021/4-Expert/LethargicDoggo
    1,L,J,G
   21,L
   15,U,X
-  23
-  14,R
+   6,R
+  28
+   3,R
   14,L,X
-  18,L,J
-  18,U,X
-   8,R,J,G
-  14,R,X
-   1,L,J
-  14,L,D,X
-   1,R,J
-   6,R,D,X
+   3,L,J
+   9,J
+   5
+   3,L
+  15,U,X
+   2,R,J,G
+   2,L,K
+  12,L,Z
+   3,R,J
+   7,R,D,X
    1,R,J,G
-  12,R
+   1,R
+   1
+   6,R
+   1,R,K
+   2,R
+   4,R,J
+   3,R
+   7,R,D,X
+   1,R,J,G
+   1,R
+   1
+   9,R
    2,R,J
-   4,R
-   6,R,D,X
-   1,R,J,G
-   3
-   8,R
-   1,R,J
-   4,R
+   3,R
   12,R,D,X
   40
 
 #lvl_a-07
    1,R
-   9,R,J
-  20,R,D
-   8,R,J
+  11,R,J
+   5,R
+   2,R,K
+  13,R,D,X
+   2,R,J,G
+   5,R
+   1,R,K
+   1,R
 StunPause
-   3,R
-SkipInput 3 1
-   7,R,D,X
+   1,R,K
+   6,R
 SkipInput 3
-   8,R,D,X
-   3,R,D
+   8,R
+   4,R,D
 EndStunPause
-   6,R,D
+   4,R,D
   15,D,X
-   6,D
-  12,L,D
-   5,L
-   1,L,D
-  10,L
+   5,D
+  16,L,D
+   4,L
    1
-  17,U,X
-  34,R,J
-   2,R
-   3
+   5,L
+   2
+   1,L
+  18,U,X
+  15,R,J
+   8,R
+  11,R,K
+   5,R
   15,R,U,Z
-  22,R
-  20,L
-  21,R,D
+  21,R
+   1
+  18,L
+   4
+   2,L
+  10
+   2,R
+   5,R,D
   13,R,Z
    1,R,J
    1,R
-  16,R,D,X
-  26,R,J
-  21,R
+  15,R,D,X
+   1,R
+  12,R,J
+   5,R
+   7,R,K
+  20,R
+   2,R,D
   14,R,Z
    2,R,J
 #lightning cycle 0
-#   4,R,K,G
-#  13,R,D,X
-
-#lightning cycle 1
-   1,R,K,G
-   2
    4,R,K,G
-  11,R,D,X
-
+  13,R,D,X
+#lightning cycle 1
+#   1,R,K,G
+#   2
+#   4,R,K,G
+#  11,R,D,X
 #lightning cycle 2
 #   1,K,G
 #   1
@@ -473,4 +494,4 @@ EndStunPause
   15,U,X
  135
 
-ChapterTime: 1:13.695(4335)
+ChapterTime: 1:13.440(4320)
