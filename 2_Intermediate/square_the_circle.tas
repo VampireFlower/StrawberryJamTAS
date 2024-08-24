@@ -1,4 +1,4 @@
-RecordCount: 10474
+RecordCount: 10587
 
 #StunPauseMode, Simulate
 console load StrawberryJam2021/2-Intermediate/bryse0n
@@ -7,6 +7,9 @@ console load StrawberryJam2021/2-Intermediate/bryse0n
 #Start
   99
 
+#lightning cycle (do not move from above this room level or arb desyncs)
+   0
+#
 #lvl_a_01
    7,R,Z
    1,R,J
@@ -85,44 +88,40 @@ console load StrawberryJam2021/2-Intermediate/bryse0n
   13,L,X
    1,J,G
   26,R,D
-   3,D
-   3
+   2,D
+   4
    1,R
   15,R,Z
-  15,L,D
-   2,L
-  13,L,Z
-   1,R,K
-   6,R
-   5,R,K
-   4,R
-  14,R,U,X
-   1,K,G
-   8
-   1,J
-   4,K
-   1,J
-  15,U,X
-   2,R
-  14,R,K
-   9,R
-   3,R,K
+  15,L
+   2,L,D
+  10,L,D,X
+  13,R,J
+   1,R
+  15,R,U,X
    1,R,J,G
    7,R
+  14,R,J
+   3,R,K,G
+   1,L,K
+  10,J
+  15,U,Z
+   9,R,J,G
+   7,R
+   5,L,J
+   4,J
    1,L,J
-   9,J
   16,U,X
    2,K
   40
 
 #lvl_a_02.5
-   7,L
-   1,L,K,G
-   3,L,J,G
-   6,L,D,X
+   6,L
+   1,L,J,G
+   4,L
+   4,L,Z
    1,L,J
    7,L
-   8,L,D,K
+  10,L,D,K
    8,U,X
    1,R
    1,K
@@ -294,8 +293,6 @@ console load StrawberryJam2021/2-Intermediate/bryse0n
   10,R
    1,L
   15,R,D
-#Lightning cycle (avoids camera side effects in next room)
-   0
   45,L,C
    4,L,K
    1,K
@@ -790,5 +787,5 @@ Endstunpause
 
 #lvl_outro
   42,R,D
- 139,D,X
-ChapterTime: 1:46.097(6241)
+ 139,R,X
+ChapterTime: 1:46.046(6238)
