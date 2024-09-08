@@ -1,4 +1,4 @@
-RecordCount: 10843
+RecordCount: 10852
 
 console load StrawberryJam2021/3-Advanced/galaksyz
    1
@@ -112,10 +112,11 @@ console load StrawberryJam2021/3-Advanced/galaksyz
   40
 
 #lvl_a_02-Gala
-   4,R
-   6,J,G
-  10,R,D,X
-  24,R,J
+   6,R
+   1,L
+   3,R,J,G
+  12,R,Z
+  21,R,J
   14,R,U,Z
   15,U,C
    2,R,J,G
@@ -475,7 +476,7 @@ console load StrawberryJam2021/3-Advanced/galaksyz
 # Moonblock cycle
    3
 # Spinner cycle [a_08-TiltTheStars]
-   0
+   1
 #
   15,U,X
   15,R,J
