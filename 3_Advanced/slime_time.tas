@@ -1,4 +1,4 @@
-RecordCount: 10396
+RecordCount: 10843
 
 console load StrawberryJam2021/3-Advanced/galaksyz
    1
@@ -6,9 +6,8 @@ console load StrawberryJam2021/3-Advanced/galaksyz
 #Start
  190
 
-### Spinner cycle [a_01-Gala]
+# Spinner cycle [a_01-Gala]
    1
-###
 
 #lvl_a_00-Worldwaker2
    4,R,X
@@ -113,7 +112,7 @@ console load StrawberryJam2021/3-Advanced/galaksyz
   40
 
 #lvl_a_02-Gala
-   4,R,K
+   4,R
    6,J,G
   10,R,D,X
   24,R,J
@@ -132,30 +131,31 @@ console load StrawberryJam2021/3-Advanced/galaksyz
    1
   10,R,J,G
    1
-   6,R,X
-  13
-   1,L,J,G
-   7,L
-   1,G
-   1,L,J,G
-   1,J
-   6,L
+   4,R,Z
+   1,R,J
+   1,R
+   3,K
    1
-   1,L
-   5
-  14,L,Z
+   6,R
+   8
+   3,R
+   2
+  12,L,Z
    1,L,J
-  12,L,U,Z
-  11,R,U,X
+   1,J
+   1,L,J
+  15,L,U,Z
+   9,L
   18,U,C
   23,R
   15,R,Z
   15,R,U,X
    1,R,J,G
    7,R
-   7,R,J
+   6,R,J
+   1,R
    5,R,Z
-   8,R,J
+   7,R,J
    4,R
    1,R,J
   10,R,D,X
@@ -178,30 +178,34 @@ console load StrawberryJam2021/3-Advanced/galaksyz
   14,R,U,C
    9,U,X
   28,L,J
-  14,U,Z
-  33,U,C
-   8,R,J
+  13,U,X
+  34,U,C
+   7,R,J
    8,R
-   1,R,J
-   2,R
-   2,R,J
-   3,R
-   2
-  28,R,Z
-   2,R,K,G
+   6,R,K
    5,R
-   1,R,J
-   7,R
-   2
-  21,R,J
-  14,R
    1
-  15,R,X
-   1
-   2,R
-   1,R,K,G
+  15,R,Z
+  12,R
    1,R,J,G
   14,R
+   1,J
+   6,R,J
+   1,J
+   3,R,J
+   6,R
+   6,R,K
+   6,R
+   1
+   1,R
+   1
+   1,R
+   2
+  15,R,X
+   4,R
+   1,R,J,G
+   1,R,K,G
+  13,R
   11,R,X
    1,R,J,G
    1
@@ -230,27 +234,29 @@ console load StrawberryJam2021/3-Advanced/galaksyz
   15,R,U,Z
   15,R,D,X
    1,R
-   9,R,D
+   9,R
+   1,R,D
   14,R,X
    1,L,J
    5,J
-  15,D,X
-  15,R
-   4,R,J,G
+  18,D,X
    4,R
-   1,L
+   5,R,D
+   2,R,J,G
+   6
+   2,L
   14,R,Z
    6,R,J
-  23,R,D
-   3,R
+  16,R
+   9,R,D
+   2,R
    1,R,D
-   1,R
-   1,L,D
+   1,L
    7,J,G
-   4,R,J
-  14,R
+   5,R,J
+  15,R
   15,R,U,X
-  22,R
+  20,R
   14,R,D,X
   17,R,J
    1,R
@@ -466,11 +472,11 @@ console load StrawberryJam2021/3-Advanced/galaksyz
   25,L
   15,U,X
   18,R,J
-### Moonblock cycle
+# Moonblock cycle
    3
-### Spinner cycle [a_08-TiltTheStars]
+# Spinner cycle [a_08-TiltTheStars]
    0
-###
+#
   15,U,X
   15,R,J
    4,R
@@ -508,7 +514,7 @@ console load StrawberryJam2021/3-Advanced/galaksyz
    1,R,J,G
    1,R,K,G
    7,R
-### +6f stunless
+## +6f stunless
 #   1,R,J
 #  13,R,D,X
 #  40
@@ -541,7 +547,7 @@ console load StrawberryJam2021/3-Advanced/galaksyz
 #   2,R,D
 #  19
 # 116,D
-###
+##
    1,R
   13,R,D,X
   40
@@ -584,4 +590,4 @@ EndStunPause
    3,R,D
  135
 
-ChapterTime: 1:14.239(4367)
+ChapterTime: 1:13.984(4352)
