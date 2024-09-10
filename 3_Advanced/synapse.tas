@@ -1,4 +1,4 @@
-RecordCount: 15833
+RecordCount: 16770
 
 console load StrawberryJam2021/3-Advanced/MousseMoose
    1
@@ -119,37 +119,34 @@ EndRepeat
    1,L,J
    3,L
    6,L,D
-  10,L,J
-   2,L,J
+  12,L,J
   11,U,X
    2,L,J
   11,L
    4,L,Z
    1,L,J
-   6,L
-   7,L,J
+   7,L
+   6,L,J
   10,R,D,X
 
 #lvl_a2
-   4,R,D,X
-   1,R,J
-   4,R
-  15,R,D,X
-   7,R,D
-   4,R
-   3,R,D
-  18,R,U,X
-   7
-   2,R
-  14,R,C
-   1,L,J,G
-   4,R,J
-  27,R,D
+   2,R,J
+   7,R
+  16,D
+   6
   15,R,Z
-   7,R
-   1,J,G
-   7,R
-   6,R,Z
+  18,R,V
+   9,R,X
+  20,R,J,G
+  14,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   4,R,D
+  15,R,Z
+   1
+   5,R,D,X
    1,R,J
    6,R
    4,R,J
@@ -188,7 +185,8 @@ EndRepeat
    1,R,J
    7,R
    1,R,J
-   8,R,D,X
+  15,R,D,X
+   4,Z
    5,L,J
   10,L
    1,L,J
@@ -214,12 +212,10 @@ EndStunPause
    2,R
    2
   10,L,D,X
-   2,L,J
-   5,L
-   7,L,J
-   1,L
+   3,L,J
+  12,L
    1
-  16,U,Z
+  15,U,Z
 # we intentionally lose
 # 1f getting here for
 # a4 spinner cycle
@@ -243,44 +239,47 @@ EndRepeat
    1,R,J
    1,L
   14,K,G
+   4,L,K
+   1,K
+   1
    1,L,K
-   1,L,J,G
-   5
-   1,R
-   1,L
-   1,R
-   1,L
-   2,R
-   2,L
-   4,Z
+   5,L,Z
    1,L,J
    6,L
    7,L,J
   15,L,D,X
+   1,L
 
 #lvl_a4
-   6,L,J
+   1,L
+   3,L,J
   10,L,D,X
 StunPause
    5,L
    4,L,D,J
    5,L
-   3,L,J
-EndStunPause
-   1,L
    1,L,J
+EndStunPause
+   2,L,J
+   1,L
+   1,J
   18,L,Z
   15,U,X
    7,L
    5,J,G
-   7,L,J
-   8,L
+   6,L,J
+   1,J
+   7,L
+   1,L,J
   15,L,D,X
-  10,L,D
+   6,L,D
+   1,L
+   1,L,D
+   3,L
    4,Z
    1,L,J
-   7,L
-  15,L,D,J
+   6,L
+  16,L,D,J
    2,L,K,G
    1,K
    1,J
@@ -302,8 +301,9 @@ EndRepeat
   11,K,G
    1
    6,L
+#ACAC
 #cycle
-   3
+   9
   15,L,X
    4,Z
    4,L,J
@@ -337,8 +337,7 @@ skipinput 3 1
    6,R
    1,R,J
 EndStunPause
-   1,R,J
-   3,R
+   4,R
    7,R,U,Z
    4,R,J,G
    6,R
@@ -359,18 +358,17 @@ EndStunPause
    1,L,J
    1,K
    2,J,G
-  15,R,J
+   9,R,J
+   9,J
   15,U,Z
    5,R
   16,R,J
-   5,K,G
-   2
+   6,K,G
    1,R,J,G
    5,L,J
    6,R,J
    7,R
-   7,R,J
-   1,R
+   8,R,J
    8,R,Z
    1,R,J
    6,R
@@ -383,7 +381,7 @@ EndStunPause
    2,R,J
   32,R
 #cycle
-   2
+   3
    9,R,Z
    1,R,J
    7,R
@@ -462,8 +460,14 @@ EndStunPause
    1,L,J
    1,J
   18,U,X
+## alt cycle ##
+#  10,U,C
+#StunPause
+#   1,U
+###############
   11,U,C
 StunPause
+###############
 skipinput 3 2
    7,U
    8,R
@@ -534,18 +538,21 @@ EndStunPause
    1,K
    7,L,K
    6,R,J,G
-   7,R
+   6,R
    2,R,J
+   1,R
+   1,R,J
    4,R
   15,L,U,X
-  13
+   7
+   1,L
+   1
 Repeat 5
   14,D,X
    1
 EndRepeat
-   3,R,J
-   2,J
-   1,R,J
+   4
+   5,R,J
   14,L,D,X
    1,L,J
   19,L,D,X
@@ -647,7 +654,7 @@ EndRepeat
    6,L,D
    2,R,D
 #cycle
-   1
+   0
    4,R,Z
    2,R,J
    8,R
@@ -819,4 +826,4 @@ EndRepeat
    1,R,J
   30,R
 
-ChapterTime: 1:30.967(5351)
+ChapterTime: 1:30.678(5334)
