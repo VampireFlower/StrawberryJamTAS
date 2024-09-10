@@ -1,4 +1,4 @@
-RecordCount: 7548
+RecordCount: 7661
 
 console load StrawberryJam2021/5-Grandmaster/maya
    1
@@ -12,15 +12,15 @@ console load StrawberryJam2021/5-Grandmaster/maya
 #lvl_Insert Coin
    4,R,Z
    1,R,J
-   6
-   1,R
-   1,J
-   4,R,J
-  13,R,U,Z
+   3,R
+   1,K
+   3
+   3,J
+  14,R,U,Z
    1,R,J,G
-   5
-   5,R
-  18,R,D,X
+  10
+  15,R,D,X
+   3,R,D
    1,N
    1,S
    1,D,J
@@ -103,8 +103,7 @@ console load StrawberryJam2021/5-Grandmaster/maya
   40
 
 #lvl_Ready?
-   2,R
-   2,R
+   4,R
    2
    1,R,J
    5,R,U,X
@@ -121,27 +120,6 @@ console load StrawberryJam2021/5-Grandmaster/maya
   15,R,D,X
    4,R,J
   38,R
-
-#   2,R
-#   2,R
-#   2
-#   1,R,J
-#   5,R,U,X
-#   1
-#  20,R
-#   2
-#  12,R,D,X
-#  13,R
-#   8,R,U,Z
-#   6
-#  15,D
-#   6,L,D
-#  18,L,D,X
-#  11,R
-#  15,R,D,X
-#   4,R,J
-#  38,R
-
   13
    3,D
   11,L,D,X
@@ -253,7 +231,8 @@ console load StrawberryJam2021/5-Grandmaster/maya
    2,L,K,G
    2,L,J,G
   11,L,K,G
-   8,L
+   7,L
+   1
   20,L,U,X
   11,R
   14,R,U,X
@@ -265,26 +244,30 @@ console load StrawberryJam2021/5-Grandmaster/maya
    1,R
   15,R,D,X
    4,R,D
-   1,R
-  35,R,J
-   4,R,D
-   7,R
-  12,R,U,X
+  12,R,J
+   5,R
+   4,R,K
+  22,R
+   2,R,D
+  13,R,U,X
    1,R,J,G
-  13,R
+   9,R
+   1,R,K
+   3,R
    1,R,J
-   1,R
   40
 
 #lvl_Pursuit
-  15,R,U,X
+  14,R,U,X
    1,J
-   5
-   6,L
+   1,L,J
+   9,L
    1,L,N
-   3,R
-  17,R,D,X
-  13,R,C
+   1,L
+   4
+  15,R,D,X
+   2,R
+  13,R,X
    5,R,J
    9,D,X
   23,L
@@ -887,4 +870,4 @@ EndStunPause
   19,R,D,X
   54,R,J
 
-ChapterTime: 2:24.160(8480)
+ChapterTime: 2:24.109(8477)
