@@ -1,4 +1,4 @@
-RecordCount: 54970
+RecordCount: 54973
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -722,23 +722,23 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1,R,D
   15,R,Z
   32,D
-   1,L,D
-   1,D
    6,L,D
-   7,R,D
+   8,D
+   2,R,D
+   2,L
+   7,G
+   2
    3,R
-   2,R,J
-  10,R,D,X
-   1,L,D,X
-   3,R,D,X
-   6,R,J
-   8,R
+   1,R,J
+   1,L,K,G
+   4,R,K
+   7,R
   38,U,G
    1,J,G
    1,K,G
-   1,R,K
+   2,R,K
    1,K
-  11,R,K
+  10,R,K
   14,R,X
    6,R,J
    3,R
@@ -879,7 +879,7 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
   21,R,D
   12,R,Z
 # Spinner cycle [b04_powerav]
-   1
+   0
 #
   45,R,X
   15,U,C
@@ -2942,8 +2942,7 @@ EndStunPause
    1,R
    1,R,J,G
    4,J
-   3
-  40
+  43
 
 #lvl_f01_quantumspaceman
    1,R
@@ -3744,4 +3743,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 7:37.249(26897)
+ChapterTime: 7:37.198(26894)
