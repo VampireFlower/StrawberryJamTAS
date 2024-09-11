@@ -1,4 +1,4 @@
-RecordCount: 16770
+RecordCount: 17273
 
 console load StrawberryJam2021/3-Advanced/MousseMoose
    1
@@ -216,9 +216,6 @@ EndStunPause
   12,L
    1
   15,U,Z
-# we intentionally lose
-# 1f getting here for
-# a4 spinner cycle
    1,L
   14,L,J
    8,L
@@ -303,7 +300,7 @@ EndRepeat
    6,L
 #ACAC
 #cycle
-   9
+   0
   15,L,X
    4,Z
    4,L,J
@@ -344,36 +341,62 @@ EndStunPause
    3,R,J
    1,R
    1,R,J
-   3,R
-   5,R,D,X
+   3
+   6,R,D,X
    1,R,J
-   1,R
    1,S
    1,D,J
   34
-   5,R
-   3,R,D,J
-   6,J
+   6
+  11,L,D,J
+   1,L,K,G
+   1,L,J,G
    1,R,J
-   1,L,J
-   1,K
-   2,J,G
-   9,R,J
-   9,J
-  15,U,Z
-   5,R
-  16,R,J
+   1,J
+   1,R,J
+   1,J
+   1,R,J
+   1,J
+   1,R,J
+   1,J
+   1,R,J
+   1,J
+   2,R
+  17,R,K
+  15,U,X
+   2,R
+  18,R,J
    6,K,G
-   1,R,J,G
-   5,L,J
+# almost adds extra 
+# dash (2f too slow)
+#   7,R
+#   4,X
+#   1,R,J
+#   5,J
+#   7
+#   6,L,Z
+#   1,R,J
+#   3,R
+#   1,R,J
+#   2,R
+#   2
+#   7,R,Z
+#   1,R,J
+#   6,R
+#   1,R,J
+#   5,R,D,X
+#  35
+#0:40.494(2382)
+   5
+   2,R
+   4,X
    6,R,J
    7,R
-   8,R,J
-   8,R,Z
+   6,R,Z
    1,R,J
-   6,R
+   7,R
    1,R,J
-  14,R,D,X
+  11,R,D,X
   35
   13,L,Z
 
@@ -411,32 +434,35 @@ EndStunPause
    1,R
    6,L
    4,Z
-   2,L,J
+   1,L,J
+   1,J
    2
    2,J
    5
    4,L,Z
-   1,L,J
-   6,L
-   4,L,J
-  12,L,Z
-   3,R,J
+   1,J
+   6
+   4,J
+  15,L,Z
   15,D,C
-  15,D,X
-   6,R,J
-   1,J
-   7
-  14,L,Z
+  11,R,D,X
+   4,L,J
+  10,R,X
+   1,L,J
+   4,J
+   6
+  10,L,Z
    1,R,J
-   1,J
-   5,R,J
+   2,J
+   6,R,J
    4,R
    1,R,J
-   1,R
-   6,R,J,G
-   1,J
+   2,R
+   1,R,K,G
+   1,K
+   1,R,K
+   5,K
   15,U,X
-   1
   18,U,C
    1
   15,U,X
@@ -451,21 +477,21 @@ EndStunPause
    1,L,J,G
    1,L,K,G
    4,L
-   1
+   1,L
    1,L
    1,L,J
    7,L
    5,L,J
-   6,J
+   5,J
    1,L,J
-   1,J
+   2,J
   18,U,X
+  10,U,C
 ## alt cycle ##
-#  10,U,C
 #StunPause
 #   1,U
 ###############
-  11,U,C
+   1,U
 StunPause
 ###############
 skipinput 3 2
@@ -780,7 +806,7 @@ EndRepeat
   15,L,D,X
    2,L
    1,R
-   1,J,G
+   1,J
    3,K,G
    8
    1,L
@@ -826,4 +852,4 @@ EndRepeat
    1,R,J
   30,R
 
-ChapterTime: 1:30.678(5334)
+ChapterTime: 1:30.576(5328)
