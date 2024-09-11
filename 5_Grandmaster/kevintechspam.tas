@@ -1,4 +1,4 @@
-RecordCount: 9980
+RecordCount: 10369
 
 console load StrawberryJam2021/5-Grandmaster/Todd
    1
@@ -6,7 +6,7 @@ console load StrawberryJam2021/5-Grandmaster/Todd
 #Start
  130
 
-#spinner cycle
+# Spinner cycle [2]
    1
 
 #lvl_1
@@ -123,42 +123,81 @@ console load StrawberryJam2021/5-Grandmaster/Todd
    5,R
    1,R,D
    6,R,D,J
-   7,R
-  23,R,J
-  16,R,D,X
-   1,L,J
-   4,J
-   6,R,J
-   1,J
-  15,D,X
-  15,R
-   4,R,D
+   4,R
+   1
    2,R
-   2,R,D
-   5,U,X
-AnalogMode Square
-  27,F,4
-AnalogMode,Precise
-   7,F,320
-  14,F,275
-  13,F,230.9
-   7,F,270
-   6,F,279
+   4,R,J
+   6,R
+   1,R,K
+  29,R,G
+   1,R,D
   15,R,D,X
-   8,R,D
-   7,D
-   4,R,D
+   1,R,D
+   7,R,D,J
+  18,R,U,X
+  15,U,C
+  16,R
+  24,D
+  48,L,D
+  15,U,Z
+   2,L
+   2
+   1,L
+   1
+   1,L
+   6
+   1,L
+   5,R,X
+   3,J
+   5,R
+  10,R,K
+   2,R
+   1
+   4,R
+   1
+   1,G
+   1
+  20,G
+   1,J,G
+   1,K,G
+  11,J,G
+   1,L,J
+  38,L,U,X
+AnalogMode Precise
+   3,F,359.9
+   3,F,350
+   9,F,300
+   6,F,275.8
+   6,F,239
+   5,F,222
+   2,F,232.5
+  14,F,280
+  15,R,D,X
+  11,R,D
+   8,D
   15,L,X
-  18,L,D,C
-  15,L,D,X
-  18,L,D,C
-   5,L,D
+  20,L
+   7
+   8,R,Z
+  12,L,J
+   1
+   9,L,K
+  15,L,Z
+   1,J
+   7,R,J
+   6,R
+   2,R,K
+  14,R
+  13,D
+   8,L,D
+   2,L
+   5,L,X
    1,J
   41,L
    1,J
   13,L
    1,J
-  21,L,D
+  24,L,D
    3,J
    4,L
   18,L,Z
@@ -190,99 +229,45 @@ AnalogMode,Precise
    1,R,D
    4,D
   15,R,X
-  27,L,D
-   7,L,Z
-   1,J,G
-   1,R,J
-   5,R
-  10,J
-   6
-   1,R
-   1
-   8,L,D
-   1
-   1,L,D
-   1,L
+  14,L
+  16,L,D
+   2,D
+   2,L,D
+  60,G
+   5,L,X
+  11,L,J,G
    1,J
-   5,K
-   7
-   1,J,G
-   1,K,G
-   1,L,J,G
-   9,R,J
-   1,R
-   1
-   6,R
-   1,R
-   1,R,J
-StunPause
-   2,R
-   3
-SkipInput 3 1
-  14,R,U,X
-  13,R,G
-   1,K,G
-   3,L,G
-EndStunPause
-  33,D,G
-   6,L,D,G
-   6,D,G
-   2,R,D,G
-   1,D,G
-   1,G
-   8,D,G
-   1,G
-   1,D,G
-   1,D
-  13,R,Z
-   1,L,J
-   6,L
-   1,L,J
-   5,L,D,X
-  18,L,J,G
-   3,L,K,G
+   2,K
    1,R,K
-  17,L,K
+   4,K
+  17
+  13,R
+   1,L,J,G
+   1,L,K,G
+   1,J,G
+  15,R,D,X
+   2,R,D
+   1,R,J
+   9,R,D,X
+  13,R,G
+   9,R,J,G
+  18,R,G
+  20,R,U,G
+   1,R,G
+  77,R,U,G
    1,L
-   2,L,K
-  14,L,U,Z
+  15,U,Z
    1,L,J,G
-   1,L,J
-   1,L,K,G
-   1,L,J,G
-   2,J
-   1,K,G
-   1,R,K
-   1,L,K
-   1,J,G
-   2,R,J
-  13,J
-   4,L,J
-  10
    1,R
-   9,R,D
-   1,L,J,G
-   1,L,K,G
-   1,J,G
-  23,R,D,X
-   1,R,J
-   5,R,D,X
-  13,R,G
-  12,R,K,G
-  34,R,G
-  79,R,U,G
-   1,L,J
-   6,R,J
-  15,U,X
-   1,L,J,G
-   7,L
-   9,L,J
+   6,L
+   6,L,J
+   5,L
   15,U,Z
    1,R,J,G
    7,R
-#Spinner cycle
+# Spinner cycle [5]
    2
-##
+#
    4,Z
    2,R,J
    8,R
@@ -713,4 +698,4 @@ AnalogMode,Ignore
    4,X
  135,D
 
-ChapterTime: 1:36.135(5655)
+ChapterTime: 1:34.316(5548)
