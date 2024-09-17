@@ -1,4 +1,4 @@
-RecordCount: 4233
+RecordCount: 4387
 
 console load StrawberryJam2021/4-Expert/Flamecrafter113
    1
@@ -277,12 +277,12 @@ console load StrawberryJam2021/4-Expert/Flamecrafter113
   15,L,J
   43,L,X
    4,R,J
-   6,R,Z
-  12,R,J
-  49,R,D
-  15,R,X
-   5,R,D
-   4,R,X
+   5,D,X
+   8,R,J
+  39,R,D
+   2,D
+   5
+   9,R,X
   10,R,J
   15,R,D
    1,D
@@ -374,17 +374,6 @@ EndRepeat
    8,R
    9,R,J
    2,J
-#  10,L,J
-#   8,L
-#   4,R
-#   1,R,J
-#   5,R
-#  14,L,X
-#  24,R,J
-#  15,R,D
-#   2,R
-#   1,R,K
-#   9,R,J
    9,U,X
    6,R,J
   12,R
@@ -403,23 +392,17 @@ EndRepeat
    6,R
   24,R,Z
    4,J
-   1,K
-   5,R,K
-  15,R,U,X
-  19,R,D
-  13,D,X
-  12,R,J
-  13,R
-   1,R,J
-  14,R,D
-   6,L,D
+   5,D,X
+  28,R,J
+   1,R
+  22,D
    2,R,D
    4,R,X
   15,R,J
-   1,R
+   2,R
    4,R,J
-   3,R
-   1,R,J
+   2,R
+   1,R
   11,R
   29,R,X
    4,R,J
@@ -450,4 +433,4 @@ EndRepeat
   14,R,U,X
  135
 
-ChapterTime: 1:04.583(3799)
+ChapterTime: 1:03.512(3736)
