@@ -1,4 +1,4 @@
-RecordCount: 20564
+RecordCount: 21125
 
 console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    1
@@ -1549,14 +1549,34 @@ EndStunPause
    3,R,K,G
   13,R,U,X
    1,R,J,G
-   9,R
-  12,R,J
-  15,R,D,X
-  11,R,J
-  13,R,U,X
+## -20f no bino storage
+#   9,R
+#  12,R,J
+#  15,R,D,X
+#  11,R,J
+#  13,R,U,X
+#   1,L
+#   3,J,G
+#  10,U,X
+#  12,R
+## 
+   8,R
+   1,R,N
+   3,R
+   7,R,D,X
+   1,R,J
+   2,R
+   1,R,K
+   5,R
+  11,R,D,X
+   1,R,J
+   6,R
+  12,R,D,J
+  12,R
+  13,R,U,Z
    1,L
-   3,J,G
-  10,U,X
+   4,J,G
+   9,U,X
   12,R
   15,L,U,X
    7,L
@@ -1609,55 +1629,55 @@ EndStunPause
   15,R,C
   24,R
    5,L
-Repeat 33
-   1,L
-   1,R
-EndRepeat
-   7,L
-  14,L,D,X
+  50
+   2,J
+  15
+   4,K
+   1
+  14,L,Z
    1,R,J
+   1
    7,R,D,X
    1,R,J
-   6,R
-   1,R,K
-   2,R
-   2,R,J
-   5,R,D,X
-   3,R,J,G
-   5,R
-   1,R,K
+   2
    7,R
+   3,R,D,J
+   5,R,D,X
+   1,R,J,G
+  11,R
+   1,R,J
+   6,R,D,X
   40
 
 #lvl_cp6_checkpoint
-  14,R,J
+   9,R,D,J
+   2,R
    7,R,D,X
    1,R,J,G
-  12,R
-   4,R,J
    1,R
-  19,R,D,X
-  12,R,J
-   3,R
-  19,R,D,X
-   2,R,J
+   1
+   9,R
+   1,R,J
+   1,J
+   2,R
+  15,R,D,X
+   3,R,D
+   5,R,J
+   5,R
+  15,R,D,X
+   1,R,J
    5,R,D,X
    1,R,J
+   7,R
+  10,R,J
    5,R
-   8,R,J
-  12,R
-   3,R,J
-   3,R
   40
 
 #lvl_cp6_03_heartside_awheyaway
-   1,R
-   1,R,J
-   4,R
-   1,R,J
-   7,R
-  14,L,D
-  10,L
+  10,R
+   3,L
+  12,L,D
+   9,L
    3
    5,R,D,X
    1,R,J
@@ -2008,4 +2028,4 @@ Repeat 33
 EndRepeat
    1
 
-ChapterTime: 4:21.443(15379)
+ChapterTime: 4:21.307(15371)
