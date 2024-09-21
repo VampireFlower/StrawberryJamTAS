@@ -1,4 +1,4 @@
-RecordCount: 10369
+RecordCount: 10740
 
 console load StrawberryJam2021/5-Grandmaster/Todd
    1
@@ -126,142 +126,114 @@ console load StrawberryJam2021/5-Grandmaster/Todd
    4,R
    1
    2,R
-   4,R,J
-   6,R
-   1,R,K
-  29,R,G
-   1,R,D
-  15,R,D,X
-   1,R,D
-   7,R,D,J
-  18,R,U,X
-  15,U,C
-  16,R
-  24,D
-  48,L,D
-  15,U,Z
-   2,L
-   2
-   1,L
-   1
-   1,L
-   6
-   1,L
-   5,R,X
-   3,J
-   5,R
-  10,R,K
-   2,R
-   1
-   4,R
-   1
-   1,G
-   1
-  20,G
-   1,J,G
-   1,K,G
-  11,J,G
-   1,L,J
-  38,L,U,X
-AnalogMode Precise
-   3,F,359.9
-   3,F,350
-   9,F,300
-   6,F,275.8
-   6,F,239
-   5,F,222
-   2,F,232.5
-  14,F,280
-  15,R,D,X
-  11,R,D
-   8,D
-  15,L,X
-  20,L
-   7
-   8,R,Z
-  12,L,J
-   1
-   9,L,K
-  15,L,Z
-   1,J
-   7,R,J
-   6,R
-   2,R,K
-  14,R
-  13,D
-   8,L,D
-   2,L
-   5,L,X
-   1,J
-  41,L
-   1,J
-  13,L
-   1,J
-  24,L,D
-   3,J
-   4,L
-  18,L,Z
-  14,L,D
-   1,J
-  23,L,J
-   1,K
-   8,L,K
-  24,L
-   6,L,D
-   1,L
-   1,J
-  13,R,D,X
-   1,L,J,G
-  20,R,D
-   5,R,D
    1,R,J
-   5,R
-   4,R,J
+   2
    1,R
-   4,R,J
-   4,R
-  15,U,X
-  15,R,J
-   2,R
-  15,R,X
-   8,R,D
-   9,D
-   1,R,D
-   4,D
-  15,R,X
-  14,L
-  16,L,D
-   2,D
-   2,L,D
-  60,G
-   5,L,X
-  11,L,J,G
-   1,J
-   2,K
+   1
+   1,R
+   2,R,K
+   2
    1,R,K
-   4,K
-  17
-  13,R
+  15,G
+  12,R,D,G
+   1,D,G
+   1,D
+  14,R,Z
+   1,R,J
+  14,R,D,X
+   1,L,J
+   7,L
+   1,L,D,J
+  14,L,D,X
+   5,L,J
+   1,L
+   1,L,K
+   1,L
+   1,L,K
+   6,L
+   6
+   2,D
+   1,L,D
+   4,D
+  31,L,D,G
+  42,R,D,G
+  17,U,G
+   2,R,K
+   4
+  15,R,Z
+   1
+  22,G
+  21,R,U,G
+   3,R,D,G
+  32,D,G
+   7,L,D,G
+   1,L,D
+   9,L,D,X
+   1,J
+  10,R
+  38,R,D,G
+   6,R,G
+   9,R,D,G
+   1,R,G
+   7,R,D,G
+   2,R
+   7,J
+   5
+  18,L,Z
+   1,J
+   8,R,D,X
+  14,R,J,G
+  25,R,D,G
+  18,R,G
+  15,R,D,G
+  39,R,U,K,G
+   4,U,G
+   1,R,U,G
+   1,U,G
+   7
+  14,U,X
+  13,G
+   6,L,G
+   8,G
+   4,R
+   4,L
+  15,R,X
+   1
+  27,D,G
+  24,R,D,G
+  28,D,G
+   3,L,D,G
+   1,R
+  10,L,X
+   1,J
+  11,L,J
+  13,L
+   1,K
+   4,R
+   1
+  18,R
    1,L,J,G
    1,L,K,G
    1,J,G
-  15,R,D,X
-   2,R,D
+   8,R,X
+ 288,R,U,J,G
+   1,L,J
+   3,R,J
+  14,R
+   4,R,Z
    1,R,J
-   9,R,D,X
-  13,R,G
-   9,R,J,G
-  18,R,G
-  20,R,U,G
-   1,R,G
-  77,R,U,G
-   1,L
-  15,U,Z
+   3,R
+   1,R,J
+   3,R
+  12,R,J
+   5,R
+   2,R,K
+  15,U,X
    1,L,J,G
-   1,R
-   6,L
-   6,L,J
-   5,L
+   2,R,J
+   1,L,J
+   7,L
+  10,L,J
   15,U,Z
    1,R,J,G
    7,R
@@ -315,6 +287,7 @@ AnalogMode Precise
    1,L,J
   15,R,D,X
   20
+AnalogMode Precise
   60,F,120
   13,F,132.8
    1,R
@@ -698,4 +671,4 @@ AnalogMode,Ignore
    4,X
  135,D
 
-ChapterTime: 1:34.316(5548)
+ChapterTime: 1:33.704(5512)
