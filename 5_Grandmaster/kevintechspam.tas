@@ -1,11 +1,10 @@
-RecordCount: 10740
+RecordCount: 10750
 
 console load StrawberryJam2021/5-Grandmaster/Todd
    1
 
 #Start
  130
-
 # Spinner cycle [2]
    1
 
@@ -238,7 +237,7 @@ console load StrawberryJam2021/5-Grandmaster/Todd
    1,R,J,G
    7,R
 # Spinner cycle [5]
-   2
+   1
 #
    4,Z
    2,R,J
@@ -400,15 +399,14 @@ AnalogMode Precise
   15,R,Z
    6,R
    1,L
-StunPause
    1,J
+StunPause
    1,K,G
    1,J,G
    1,K,G
 SkipInput,3,1
-   4,R,D,X
+   5,R,D,X
 EndStunPause
-   1,R,D,X
    1,L,J,G
    1,R,J
    1,J
@@ -671,4 +669,4 @@ AnalogMode,Ignore
    4,X
  135,D
 
-ChapterTime: 1:33.704(5512)
+ChapterTime: 1:33.687(5511)
