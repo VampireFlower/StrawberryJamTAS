@@ -1,4 +1,4 @@
-RecordCount: 11161
+RecordCount: 11209
 
 console load StrawberryJam2021/4-Expert/powerav
    1
@@ -6,7 +6,7 @@ console load StrawberryJam2021/4-Expert/powerav
 #Start
 #lvl_a-1
 #spinner cycle
-   2
+   0
 #
    4,R,X
    6,R,J
@@ -231,43 +231,43 @@ console load StrawberryJam2021/4-Expert/powerav
    3,R
    7,R,D
    7,R,Z
-   4,R,J
-   2,R
+   6,R,J
   40
 
 #lvl_a-4
-   1,K
+   2,R,J
+   1,R
    1,R,K
+   4,R
    1
-   2,R
-   1
-   2,R
-   1,R,D,N
+   4,R
+   1,R,N
    1,R,J
    2,R
    6,R,D,X
    1,R,J
-   7,R
-   8,R,J
-   8,R
-   1,R,K
-  15,R,U,Z
    6,R
-   2
-   1,R,J,G
-   1,R,K,G
-   2,K
-   9,R,K
+   1,R,K
+   9,R,J
+   2,R
+  15,R,U,Z
+   8,R
+   1,J,G
+  12,R,K,G
   15,R,U,X
-  14,U,C
+   1
+  13,U,X
   16,J
-   2,L,J
+   1,L,J
+   1,J
    1
   15,L,U,X
-  27,L
-   7
+  28,L
+   3
    1,L
-   6
+   7
+   1,R
+   1,L
    2,J,G
    7
    1,R
@@ -801,4 +801,4 @@ EndStunPause
   19,R,U,X
  135
 
-ChapterTime: 1:38.974(5822)
+ChapterTime: 1:38.923(5819)
