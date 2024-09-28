@@ -1,4 +1,4 @@
-RecordCount: 10389
+RecordCount: 10562
 
 console load StrawberryJam2021/4-Expert/powerav
    1
@@ -90,40 +90,42 @@ console load StrawberryJam2021/4-Expert/powerav
    1,R,J
    5,R,D,X
    1,J,G
-   1,R,J,G
-   1,J
-   4,R,J
+   6,R,J,G
    1,R,K,G
    8,R
    1,R,J
    2,R
-  10,R,J
+   8,R,J
+   1,J
+   1,R,J
   14,R,U,X
   21,R,J,G
    1,L,J
-  36,R,J
-   5,L,Z
+  27,R,J
+   6,R,D
+   2,R
+   4,R,Z
    1,R,J
-   7,R
+   6,R
   12,R,J
   15,R,D,X
-  19,R,J
+  15,R,D,J
+   4,J
    8,U,C
   13,G
    3,R,G
    7,L,G
    3,G
    6,L
-   1,R
    1
+   1,R
    8,R,U,X
   39,R
   14,R,X
   29,R,D
    5,D
-  44,R
-   1
-   2,R
+  47,R
+
   14,R,U,Z
    1,J
    1
@@ -134,10 +136,12 @@ console load StrawberryJam2021/4-Expert/powerav
    1,R,D
    1,R
    1,R,D
-   2,R,J
+   1,R,J
+   1,J
   19,R,U,X
   45,R,J,G
    3,L,J
+
   15,R,Z
    1,R
   28,J
@@ -776,4 +780,4 @@ EndStunPause
   19,R,U,X
  135
 
-ChapterTime: 1:39.195(5835)
+ChapterTime: 1:39.144(5832)
