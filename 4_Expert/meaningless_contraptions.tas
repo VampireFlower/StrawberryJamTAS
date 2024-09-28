@@ -1,4 +1,4 @@
-RecordCount: 10562
+RecordCount: 11161
 
 console load StrawberryJam2021/4-Expert/powerav
    1
@@ -6,7 +6,7 @@ console load StrawberryJam2021/4-Expert/powerav
 #Start
 #lvl_a-1
 #spinner cycle
-   1
+   2
 #
    4,R,X
    6,R,J
@@ -125,7 +125,6 @@ console load StrawberryJam2021/4-Expert/powerav
   29,R,D
    5,D
   47,R
-
   14,R,U,Z
    1,J
    1
@@ -141,7 +140,6 @@ console load StrawberryJam2021/4-Expert/powerav
   19,R,U,X
   45,R,J,G
    3,L,J
-
   15,R,Z
    1,R
   28,J
@@ -218,109 +216,132 @@ console load StrawberryJam2021/4-Expert/powerav
    4,R
    5,R,D
    1,R
-  11,R,D
-   6,R,J
+   1,D
+  10,R,D
+   1,R,J
+   2,J
+   1,R,J
+   2,J
   10,U,X
    1,R,J
-  18,R,D
-   4,R,Z
-   3,R,J
-   6,R
+   1,R
+   2,L
+   4,R
+   1,R,D
+   3,R
+   7,R,D
+   7,R,Z
+   4,R,J
+   2,R
   40
 
 #lvl_a-4
-   1,R
-   1,R,N
-   1,R,J
-   2,R
-  14,R,D,X
-   2,R,J
-   5,R
-   1,R,J
-   2,R
-   8,R,J
-   5,R
-   2
-   1,R
+   1,K
+   1,R,K
    1
-  23,R,U,Z
-   1,J,G
-  14,R,J
+   2,R
+   1
+   2,R
+   1,R,D,N
+   1,R,J
+   2,R
+   6,R,D,X
+   1,R,J
+   7,R
+   8,R,J
+   8,R
+   1,R,K
+  15,R,U,Z
+   6,R
+   2
+   1,R,J,G
+   1,R,K,G
+   2,K
+   9,R,K
   15,R,U,X
-  15,U,Z
-   1,L
-  16,R,J
+  14,U,C
+  16,J
+   2,L,J
+   1
   15,L,U,X
-  19,L,D
-   5,D
-   7,L,D
-   1,D
-   4
-   1,D
-   1,K,G
+  27,L
+   7
    1,L
    6
-   1,L
-   1
+   2,J,G
+   7
    1,R
-  11,L,J
-   3,L
-  15
-   2,D
-  13,R,D,G
-   6,R,G
-   3,R,G
-   3,R,D,G
-   4,R,G
+   9,L,J
+   6,L
+  11
+  10,R
+   6,G
+   9,U,G
+   7,G
    1,R
    1,R,J,G
    1,R,K,G
    1,R,J,G
    1,R,K,G
-   2,R,J,G
-   2,D
-   4,R,D
-   1,R,J
+   1,R,J,G
+   6,R
    1
    2,R,D,J
-   1,L,K,G
-  11,R,K
-StunPause 
-   3,R,K
-   5,R,J,G
+   2,L,K,G
+   4,R
+   7,R,U,X
+StunPause
+   4,R,U,X
+   2,R,J,G
 EndStunPause
-   4,R,J
-  13,R,D
-   3,L,D
-   5,R,D
-   1,D
-  17,R,D
-  11,R,U,X
-  24,R,J,G
-   1,L
-   1,R
-  15,U,X
-   1,R
-  11,R,C
-  21,R,G
-  18,L,D,G
-   2,R,G
+   5,R,J
+   1
    1,L
    2,R
-  25,R
-  15,R,D,X
-   3,R
-  16,R,D
-   2,D
-   2,R,D
-   1,D
-   2,R,D
-   9,R,J
+   1
+   2,R
+  10,R,D,X
+   1,R,J
+   1
+   6,R
+   1
    7,R
-   4,R,J
-  10,R
+  12,R,D
+   2,R
+   1,R,D
+   5,R
+   8,R,U,X
+  24,R,G
+   1,L
+   1,K
+   1,R,K
+   1,K
+  15,U,X
+  10,R,C
+  20,R,G
+   4,G
+   1,R,G
+   2,G
+  10,D,G
+   2,G
+   2,R,G
+   1,L
+  26,R
+  15,R,D,X
+   5,R
+   8,R,D
+   1,L,D
+   4,D
    3,R,D
+   1
    1,R
+   2
+   1,D
+   1,J
+   5,R,J
+   5,R
+  10,R,K
+  13,R
    7,R,Z
    1,R,J
    6,R
@@ -426,7 +447,7 @@ EndStunPause
    3,R,J
   11,R
 ## spinner cycle
-   1
+   2
 ##
    6,R,Z
    1,R,J
@@ -780,4 +801,4 @@ EndStunPause
   19,R,U,X
  135
 
-ChapterTime: 1:39.144(5832)
+ChapterTime: 1:38.974(5822)
