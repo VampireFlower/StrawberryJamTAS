@@ -1,11 +1,11 @@
-RecordCount: 5532
+RecordCount: 5640
 
 console load StrawberryJam2021/5-Grandmaster/tofu
    1
 
 #Start
 #lvl_Atrium
-#spinner cycle
+##spinner cycle
    1
 ##
    5,L
@@ -78,7 +78,7 @@ EndStunPause
    1,S
    1,D,O
   69,J
-#spinner cycle
+##spinner cycle
    1
 ##
    7,L,X
@@ -112,28 +112,31 @@ SkipInput,3,1
 SkipInput,3,1
    4,L,J,G
 EndStunPause
-   3,R
-   2
-   3,J
-  51,R,G
-   4,R,D,G
-   4,R,G
-   2,R,D,G
-   2,G
-   1,D,G
-   2,G
+   1
+   4,R
+   3,R,J
+  36,R,U,J,G
+   4,R,U,G
+   3,R,D,G
+   6,R,U,G
+   6,R,D,G
+   3,D,G
    1,L
-  14,R,U,X
+   3,R
+   3
+   1,R
+  13,R,U,X
    1,J,G
    3
    6,R
-   3,R,D
+   4,R,D
+   1,R,J
 StunPause
-   1,R,D
-   4,R,J
+   3,R,J
    2,J
+   1
 EndStunPause
-   3
+   2
   15,R,D,X
    1,R,D
   40
@@ -432,4 +435,4 @@ EndStunPause
   14,R,U,X
  135
 
-ChapterTime: 0:54.961(3233)
+ChapterTime: 0:54.740(3220)
