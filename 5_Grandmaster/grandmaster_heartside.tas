@@ -1,4 +1,4 @@
-RecordCount: 41366
+RecordCount: 42826
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -2127,133 +2127,134 @@ Set CelesteTAS.SimplifiedBackdrop false
   21,R,U,G
    4,R,D,G
    2,R,U,G
-   5,J,G
-   1
-   5,L
+   1,J,G
+   1,R,J,G
+   1,J,G
+   2,J
+   6,L
   14,R,Z
    1,R,J
+   5,R,D,X
   13,R,G
    1,R,J,G
-   9,R,D,G
+   7,R,G
   43
 
 #lvl_f2_02-Soloiini
-   2,G
-  11,R,G
-  24,R,D,G
-   1,R,G
-   1,R,D
-  15,L,D,X
-  10,R,D,C
+  30,R,D,G
+   4,R,D
+   8,L,D,X
+   1,L,J,G
+   4,L,K,G
+   7,L
+   2,L,K
+  10
+  11,R,D,X
    1,R,J
    2,R,K,G
    1,R,J,G
    1,R,K,G
    5,R,D,X
-  13,R,G
-  53,R,U,K,G
-   1,U,G
+  18,R,J,G
+  28,R,U,K,G
+   2,R,U,G
+   1,R,U,J,G
    1,R,U,G
-  20,U,G
+   2,U,G
    2,D,G
-   8,U,G
-   2,G
-   1,R
-   5,L
-  15,U,X
-  13,U,G
-   1,R,U,G
-   2,U,G
-   1,R,U,G
-Repeat, 5
+   1,U,G
    1,R,U,G
    1,U,G
-endrepeat
-   4,R,U,G
-   1,L,D
-   5,K,G
-   1,L,K
-   4,L,J,G
-   1,L
-   4
+  12,D,G
+   5
+  13,U,X
    1,J
-   1
-   1,J
-   5,R
-   1
-   1,J
+  10
    1,K
-  42,R,K,G
+   1
+   1,K
+   6,R
+  14,G
+  29,R,G
+   1,G
    1,R,G
-   1,R
-   5,R,J,G
-   5,R
-   1,R,K
-   1,R,J,G
-   5,R,K,G
-   1,R,K
-  36,R,K,G
-   1,R,K
-  20,R,U,X
-  23,R,U,J,G
-   7,U,J,G
-  14,R,U,J,G
-   1,K,G
-   2,R,U,K,G
-   9,R,G
-   3,R,J,G
-  13,R,G
-   3,L,D,G
-   2,L,G
-   1,R,D,G
-  27,R,U,J,G
-   1,R,D
-   2,R
-   3
-   1,R,K,G
-   4,L,K
-   1,K
-   3,R,K
-   1,R
-   1,R,J,G
-  20,R,K,G
-   2,R,G
-   1,R
-   7,R,J
-   3,R
-  10,R,U,X
-  28,R,U,G
-   6,U,G
-   1,R,U,G
-   1,L
-   6,R,D,K
-   4,R
-   1,J,G
+   1,G
+   9,R,D,G
+  30,R,J,G
    1,R,J
+   2,R
+   1,R,J
+   1,R,K,G
+   1,K
+   4,R,K
+   4,R
+   1,R,J,G
+   1,R,K,G
+   2,R,K
+  32,R,K,G
+   1,K,G
+  10,R,K,G
+   1,K,G
+   1,K
+  15,R,U,X
+   8,R
+  25,G
+  14,R,J,G
+   7,J,G
+   4,R,K,G
+   9,R,G
+   1,R,J,G
+   1,R,G
+   2,R,J,G
+  11,R,D,G
+   4,R,U,G
+   1,R,D,G
+  26,R,J,G
+   6,R,D,J
+   1,R
+   2,R,J,G
+   3,L,J
+   4,R,J
+   1,R,K,G
+  22,R,J,G
+   6,R
+   2,R,K
+   1,R
+   1,R,K
+   1,R
+   1,R,K
+   1,R
+  11,R,U,X
+  20,R,G
+   2,G
+   3,R,G
+   1,L
+   2
+   3,R
+   6,R,D,J
+   3,J
+   1
+   1,K,G
    1,L
    1,R
-   3,K,G
-   2
-   3,L
-   3,L,J
-   2,J
-   3
-   1,J
+   3,J,G
+   5,L
+   1,L,K
+   2,L
+   5,K
    5,U,X
-  13,U,G
-   1,R,U,G
-   1,U,G
-   2,L,U,G
-   1,U,G
-   1,L,U,G
-   1,U,G
-   1,L,U,G
-   1,U,G
-   1,L,U,G
-   2,U,G
+  13,G
+   1,R,G
+   3,L,G
+   1,G
+   1,L,G
+   1,G
+   1,L,G
+   1,G
+   1,L,G
+   1,R,G
    1,R,D
-   1,K,G
-   2
+   4,J,G
    1,K,G
    4,R
    2
@@ -2385,12 +2386,11 @@ endrepeat
    2,J
    2,L,J
   11,R,K,G
-   4,R
-   3
+   7,R
 ##spinner cycle for flag 1
    0
 ##
-   8,R,Z
+   6,R,Z
    1,R,J
    7,R
    1,R,J
@@ -2398,7 +2398,7 @@ endrepeat
    1,R,J
   14,R,D,X
    1,R,J
-  11,R,D,X
+  12,R,D,X
    8,R,J
    4,R,K,G
    2,K
@@ -2719,4 +2719,4 @@ Repeat 34
    2,L,D
 EndRepeat
 
-ChapterTime: 7:08.230(25190)
+ChapterTime: 7:08.026(25178)
