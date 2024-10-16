@@ -1,4 +1,4 @@
-RecordCount: 12739
+RecordCount: 13761
 
 console load StrawberryJam2021/3-Advanced/Jolly
    1
@@ -29,10 +29,11 @@ console load StrawberryJam2021/3-Advanced/Jolly
    1
    2,R
   13,R,D,X
-  40,X
+  40
 
 #lvl_a1
-   5,R,D,X
+   2,R,D,X
+   3,R,D
    1,R
    3,R,D
    2,R,D,J
@@ -50,32 +51,31 @@ console load StrawberryJam2021/3-Advanced/Jolly
    8,G
   28,U,G
    2,G
-   1,J
+   1,J,G
    1,K
    2,L,K
-  10,R,K
+   9,R,K
+   1,R
    1,R,J,G
-   7,R
-   1,J
-   2,R
-   9
-   6,R,D
-   4,D
-   4,R,D
-   1,D
-  15,R,Z
-   2,R
-   4
    1,R
    1,L
-   6
+   5,R
+   1,J
+  10
+   7,R
+   1
+   3,D
+   5,R,D
    1,D
    1
-  12,G
-   7,D,G
-   7,G
-   2,U,G
-   6,G
+   1,D
+   1
+   1,R
+  15,R,Z
+   9
+   1,L,G
+   7,L
+  26,G
    1,D,G
    5,R,Z
    1,R,J
@@ -83,7 +83,7 @@ console load StrawberryJam2021/3-Advanced/Jolly
    1,R,J
    2,R
   13,R,D,X
-  40,X
+  40
 
 #lvl_a3
    1,R,D,X
@@ -96,17 +96,19 @@ console load StrawberryJam2021/3-Advanced/Jolly
    1,J
   30,R
    3
-  29,L,X
+  15,L,X
+  14,L
   13,L,D
    1
    1,L,D
-   7,R,D
+   7,D
   20,L,D
   14,L,Z
   10,R,J
-  10,R
-  24,R,D
-  20,R,X
+  15,R
+  19,R,D
+  15,R,X
+   5,R
    1,G
    6
    2,R,D
@@ -120,7 +122,8 @@ console load StrawberryJam2021/3-Advanced/Jolly
    4
    1,L
   15,R,X
-  20,L,D
+  14
+   6,L,D
    1
    1,D
    9,R,Z
@@ -143,7 +146,8 @@ console load StrawberryJam2021/3-Advanced/Jolly
    8,R
    1,R,J
   14,R
-  20,R,X
+  15,R,X
+   5,R
    6,R,Z
    1,R,J
    7,R
@@ -162,15 +166,14 @@ console load StrawberryJam2021/3-Advanced/Jolly
    8,L
    9,L,G
    1
-   1,R
    1,L
    1,J,G
    1,K,G
   15,R,D,X
-   8,R
-   1,R,J
-   2,J
+   8,R,D
    9,R,J
+   2,J
+   1,R,J
    4,R
    8,R,U,Z
   40
@@ -183,8 +186,8 @@ console load StrawberryJam2021/3-Advanced/Jolly
    8,R,U,Z
    1,L,J,G
    2,R,J
-   5,R
-   3
+   6
+   2,R
    2,L
    8,R,U,X
    7,L
@@ -231,15 +234,16 @@ console load StrawberryJam2021/3-Advanced/Jolly
    1,L,J,G
    1,K,G
    1,J,G
-  21,R,D,X
+  18,R,D,X
+   3,R,D
    2,R
    1
 StunPause
    1
-skipinput,3,1
-   9,R,U,Z
+SkipInput 3 1
+  10,R,U,Z
 EndStunPause
-   5,R,U,Z
+   4,R,U,Z
    6,J,G
    3
    6,R,U,X
@@ -248,23 +252,29 @@ EndStunPause
 #lvl_b3
    4,R,U,X
   10,L,J,G
+  13,R
+   7
+  13,D
+   1
+  27,D
+   5,L,D
+   4,D
+   1,L,D
+   1,D
+   8,R,D
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  10,R,D,X
+   1,R,J
    5,R
-   2,R,J
-   6,R,D
-  54,L,D
-  13,R,D
-   6,R,D,X
-   1,R,J
-   7,R
-   1,R,J
-   9,R,D,X
-   1,R,J
-   7,R
   40
 
 #lvl_b4
-  14,R,J
-  13,U,X
+   1,R,K
+  12,R,J
+  14,U,X
   15,R,J
   12,R,X
    1,L,J
@@ -307,17 +317,16 @@ EndStunPause
   40
 
 #lvl_b5
-   4,R
-   1,R,J
-   1,R
+   6,R
   13,R,U,X
-   1
    1,J,G
    7
    1,G
-   2,J,G
-   8,R
-  14,R,D,X
+   1,R,J,G
+   2,L,J
+   1,R,J
+   7,R
+  13,R,D,X
    1,R,J
    7,R
    1,R,J
@@ -325,7 +334,7 @@ EndStunPause
    1,R,J
    5,R
   15,D,X
-   3,R,D
+   3,D
   41,R,C
    9,L,Z
    1,R,J
@@ -337,7 +346,8 @@ EndStunPause
    1,L
    1,J,G
    1
-  29,R,D,X
+  15,R,D,X
+  14,R,D
   40
 
 #lvl_b6
@@ -368,44 +378,39 @@ EndStunPause
    8,R
    2,R,J
    8,R
-  16,L
-  19,R
-  15,R,U,Z
+  13,L
+   7,L,U,X
+  16,R
+   2,L
+   8,R,U,Z
   18,L
-   5
-   7,R,J,G
-   5,J
-   3,K,G
-   1,R,K
-   1,K
-   1,R,K
-   1,J
-   3,K,G
-  11,L,K
-##could save 1f with good subpixels
-#   6,K
-#   1,L,K
-#   1,K
-#   1
-#  14,L,Z
-#   1,R,J
-#   1,R
-#   3,R,J
-#   1,R
-#  11,R,J
-#Invoke, Player.MoveV, -1
-#  99,R,Z
-##
-   6,K
-   1,L,K
-   1,K
    1
-  14,L,Z
-   2,R,J
-   3,R
+   9,L
+   1
+   9,R,J,G
+   2,J
    1,R,J
-   7,R,K
-   5,R
+   5,K,G
+   2,R,K
+   1,K
+   1,J
+   2,K,G
+   6,L,K
+   1,K
+   2,L,K
+   1
+   2,L
+   4
+   1,K
+   1,L,K
+   1
+   1,L
+  14,L,Z
+   1,R,J
+   1,R
+   3,R,K
+   1,R
+  11,R,J
   15,R,Z
   12,R,J
   15,U,X
@@ -474,37 +479,59 @@ EndStunPause
   15,D,X
    3,D
   12,J
- 102
-  17,J
-  14,R,U,X
-  36,L,C
-  20,U,G
-  17,G
-  25,J,G
-   6,R,J
-  15,U,X
+ 111
+  12,J
    5
-  44,R,J
-   6,U,G
+  14,R,U,X
+  10
+  36,L,C
+   6,G
+  14,U,G
+   6,G
+   2,D,G
+   2,G
+   1,D,G
+   1,G
+   1,D,G
+   4,G
+   2,J,G
+  12,K,G
+   5,R
+   5
+   1,L
+   2
+   3,K
    1
-   1,J
-   1,R,K,G
-  19,L,K
-  13,R
+   1,K
+  15,U,X
+   1
+  15,R,J
+   8,R
+   6,R,K
+   9,L,K
+   1,L,D,K
+   1,K
+   1,R,D,J
+   1,K,G
+   1,J,G
+  13,L,U,X
+  12,R
   15,R,U,X
    9,R
-   6,R,Z
+   8,R,Z
    1,R,J
-   7,R
-   2,R,J
-   4,R
+   5,R
+   1,R,K
+   1,R
+   3,R,J
+   2,R
    6,R,D,X
    1,R,J,G
-   7,R
-   1,R,K
-   3,R
-   4,R,K
-   4,R,J,G
+   1,R
+   1
+   9,R
+   4,R,J
+   4,R,K,G
    1,R
   40
 
@@ -514,9 +541,8 @@ EndStunPause
    1,R,J
 # spinner cycle
    1
-#####
 # second spinner cycle in later bubble
-  45,R,Z
+  45,R,X
    1,R,J
   15,R,D,C
   12,R,D
@@ -562,7 +588,7 @@ EndStunPause
   13,R,U,Z
 # Spinner Cycle
    0
-#####
+#
   32,R,X
   15,R,D,C
    6,L,Z
@@ -585,25 +611,36 @@ EndStunPause
   12,R,J,G
   11,R,K,G
    1,R
-   6,R,J,G
+   1,R,J,G
+   2,L,J
+   3,R,J
    7,R
-   4,R,Z
+   5,R,Z
    1,R,J
    7,R
-   4,R,J
+   2,R,J
+   1,R
    5,R,D,X
    1,R,J,G
-  13,R
-   1,R,J
-   5,R
-   1,R,J
+   1,R
+   1
+   9,R
+   3,R,J
+   6,R
   40
 
 #lvl_brys3
-   6,R
-  16,R,U,Z
-  42,L,G
-   2,U,G
+   3,R
+   1,R,K
+   1,R
+  15,R,U,Z
+   9
+   1,L,G
+   1,L
+   1
+   1,L
+   4
+  28,G
    1,J,G
    1,K,G
    1,L,J,G
@@ -707,4 +744,4 @@ EndStunPause
    2,U,X
   39,L,J
 
-ChapterTime: 1:24.014(4942)
+ChapterTime: 1:23.844(4932)
