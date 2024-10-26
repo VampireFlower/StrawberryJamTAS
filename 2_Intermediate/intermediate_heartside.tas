@@ -1,4 +1,4 @@
-RecordCount: 19990
+RecordCount: 20373
 
 console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1
@@ -144,16 +144,19 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    2,R,J
   37,R
    3,R,J,G
-  16,R
-  13,R,U,Z
-   1,L,J,G
-   1,K,G
-  15,U,X
-  30,R,J
-  11,K,G
-  15,U,X
-   4,L
-  25,R
+  14,R
+   2
+  15,R,U,Z
+
+  15,U,C
+  29,R,J
+   1,R
+   9,K,G
+  15,U,Z
+   1,L
+   1,J
+  24,R
+   1
   15,R,U,X
   19,R
    1,R,J,G
@@ -176,17 +179,14 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    4,R,J,G
   49,R,D
   15,R,U,Z
-   1,R,K
-  11,R,J
-   6,K,G
+   1,L,K,G
+   9,L,J,G
    1,L
-   1,R,J,G
-   4,R,K,G
-   1,R
-   1,R,J,G
-   2,R
-   1
-   4,R
+   2,K,G
+   1,J
+   6,K,G
+   3,R,K
+   7,R
    6,R,Z
    1,R,J
    7,R
@@ -266,14 +266,15 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
   11,R,X
    3,L,J
    1,L,K,G
-  15,R,U,Z
-   1,K
-   2
-   2,R,K,G
+  10,U,X
+   2,R,J
+   1,R,K,G
    7,R
-   5,L,Z
+  10,R,Z
+   1,L,K
+   4,L
    1,L,J
-  10,L,D
+   5,L,D
   12,L,D,K
    1,L,J,G
    7,L,X
@@ -290,151 +291,143 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
   12,L
   13,L,D,X
    1,L,J
-  25,L
+  21,L,G
+  17,R,D,X
+  12,D,C
+   3,R
+   4,R,J
   15,R,D,X
-  13,D,C
-   6,L
-  14,L,U,X
-   1,L,J,G
-   2,R,J
-   1,R
-   1,L,K,G
-   8,L
-   3,L,D,J
-  18,L,D,X
-   4,Z
-   2,L,J
-   8,L
-   1,L,J
-   6,L,D,X
-  12,R,J
-   2,K,G
-   7,R
-   7,L
-   6,R,D
-  11,L,D,X
+   1,L,D
+   5,D
+  13,L,D
    7,L,J
-   7,L,K
+  14,R,U,X
+   3,R,J
+   1,R
+   1,R,J
+   5,R
+   4,R,J
+  14,U,X
+   7,R,J
+   2,K
+   7,R
+   1,J
+   8,L,J
+   4,R,K
+  11,R,X
+   1,L,J
+   8,L
+  11,L,J
+  15,L,G
+   1,L,J
+  14,R,D,X
    2,R,J
-  15,D,X
-   8,R,D
-   2,J
+  10,R,U,Z
+   1,L,J
+   7,L
+  10,R,Z
+   1,L,J
+   1,J
+   3
   14,R,D,X
    1,R,J
-   7,R
-  10,R,J
-   7,R,X
-   2,J
-   6,L
-   4,R,Z
-   1,L,J
-  10,L
-  13,R,D,X
-   2,R,J
+   2,R,D
+  15,L,D
   15,D,X
-   4,Z
-   1,R,J
-   7,R
-   4,R,J
-  15,L,U,X
-   3,R
-  10,L,C
-   8,L,J
-  15,R,U,Z
-   1,L,J,G
-   2,R
-   1,R,J,G
-   5,R
-   1,R,J
-  15,R,D
-   1,G
-   6,R,J,G
-   1,R
-   1,R,J
-   3,R
-   3,R,D
-   2,R,J
-   8,R,K,G
-   3,R,J
-   1,R
-   1,R,K,G
-  11,R,X
-   4,J
+   1,J
+   1,L
+  15,L,D,X
+   4,D,C
    1,L,J
-   3,R,J
-   7,R,K,G
-   1,L,J,G
-   9,R,J
-  11,R,Z
+   1,L
+   2,L,K
+   5,L
+   3,L,K
+   8,U,X
+   3,L,J
+  14,L,D
+   2,L
+   2,L,J
+  17,L,D,X
+   4,D,C
+   1,L,J
+   7,L
+   2,L,J
+   2,J
+   9,U,X
+   4,R,J
+   1,R
+   3,R,K
+   7,R
+   6,R,X
    2,L,J
    1,L
-   9,L,J
-   3,K
-  16,L,G
-   2,L,U,G
-   5,R
-  15,R,D,X
-   4,R,J
-   8,K
-  10,R,Z
-   2,L,J
+   1,L,J
    4,L
-  14,R,D,X
-   2,R,J
-   3,R
-   9,L,D
-   2,R
-   3,L
-   3,R,D
-   6,L,D
-   2,L
-   1,L,D
-   1,L,G
+   4,L,J
+   7,U,X
+   4,L,J
+   1,L,K,G
    1,L,J,G
-   6,L
-   5
-   1,L,D
-   2,D
-   2,L
-  15,R,D,X
-  12,L,D,C
-   1,L,J
+   5,L,K,G
    7,L
-   7,L,D,J
-   2,L,K,G
-  14,L,D,X
+   4,L,Z
+   2,L,J
+   1,L
    1,L,J
-   4,L
+   6,L
    1,L,J
-   6,L,D
-   2,D
-  12,U,X
-   2,R,J
-   4,J
-   1,L,J
-   3,K,G
-   5
-   3,R
-   3,R,D,J
-  10,U,X
-   6,R,J
-   9
-   2,R
-  10,R,D,X
-   1,L,J
+   6,L,D,X
+   5,R,J
+   9,R,K
+   7,R
+   6,J
+  15,L,D,X
    2,L
-   3
-  17,R,D,X
-   2,L,D
-   5,R,D
-   1,R
+  10,L,X
+   3,L,J
+   9,K
+  15,D,X
+   8,R,D
    2,R,J
   15,R,D,X
-   4,D,C
-   4,R,J
-   1,R
-  10,R,D
-  12,L,D,X
+   6,R,J
+   3,K
+  10,R,D,X
+   1,R,J
+   6,J
+   1,R,K
+  15,R,U,Z
+   2,R,J
+
+   2,R,K,G
+   7,R
+  10,R,J
+   5,R
+  10,R,Z
+   1,J,G
+   3,R
+   9,L
+   1,L,J
+  15,L,D,X
+  13,D
+  11,R,D
+   4,D,X
+   1,L,J
+  12,L,D
+   1,L,J
+   7,R,Z
+   1,R,J,G
+   9,R
+   1,R,J
+  10,R,D,X
+   1,R,J
+  16,R,D
+#awful
+  12,R,D,J
+   1,K,G
+   5,L,K
+  10,R,D,X
    5,R,J
    7,R,D,X
   40
@@ -505,7 +498,7 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
   15,R,X
   15,R,C
 #spinner cycle
-   0
+   2
 #
   27,R,X
   40
@@ -1693,4 +1686,4 @@ EndStunPause
   13,R,U,X
  135
 
-ChapterTime: 4:07.146(14538)
+ChapterTime: 4:06.687(14511)
