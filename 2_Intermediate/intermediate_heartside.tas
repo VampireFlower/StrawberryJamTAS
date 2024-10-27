@@ -1,4 +1,4 @@
-RecordCount: 20750
+RecordCount: 20751
 
 console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1
@@ -799,13 +799,11 @@ EndStunPause
    5,L,U,C
   54,R,G
   28,R,U,X
-#waiting for blue kevin
   11,D,C
-   8
 ## spinner cycle
-   2
+   1
 ## 
-  51,R,U,X
+  52,R,U,X
   18,R,U,Z
   12
   15,L,U,C
@@ -826,8 +824,10 @@ EndStunPause
   14,R
    1,J
    1,K
-  13,J,G
-  11,R,U,X
+   3,R,J,G
+   7,L,J
+   3,J
+  10,R,U,X
   15,R,C
   16,R,X
   38,D,C
@@ -1697,4 +1697,4 @@ EndStunPause
   13,R,U,X
  135
 
-ChapterTime: 4:06.126(14478)
+ChapterTime: 4:05.973(14469)
