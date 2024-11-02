@@ -1,4 +1,4 @@
-RecordCount: 63207
+RecordCount: 63611
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -1864,50 +1864,52 @@ AnalogMode Ignore
 #lvl_c05_kaerra
    8,R,U,Z
    1,J
-  25,R,J
+  25,R
    9
    1,R
   12,L,U,X
    1,L,J,G
-   1,K,G
-   9,L,K
+   3,K,G
+   3,L,K
+   1,K
+   4,L,K
    1,R,K
-  11,K
-   6,R
+   8
+   3,R
    1
-   5,R
-   3
+   9,R
   15,R,Z
-   2
+   2,R
   10,R,D,X
    1,R,J
-  29,R
-   2
+  27,R
+   1
+   2,R
+   1
   15,R,D,X
-   2,D
+   2,R,D
    4,R,Z
    5,R,J
    1,R
-  10,R,J
-   1,R
-   8
+  10,R,K
+   9
   13,D
    1
   15,L,Z
-   7,L
-   4
-   1,L
-   4
-   4,D
+   6,L
+   8
+   1,L,D
+   5,D
    1,L,D
    1,D
    1,L,D
    1,D
    4,L,D
-   4,D
-   1,R,D
+   2,D
+   1
    1,D
-   1,L,D
+   1
+   1,R,D
    1,D
    7,L,D
   13,L
@@ -1934,7 +1936,7 @@ AnalogMode Ignore
   18,L,D
   22,D
 # Lightning cycle [d02_lethargicdoggo]
-   1,D
+   0,D
 #
   36,R,Z
 
@@ -2345,25 +2347,27 @@ EndStunPause
    1,R,J
    6,R,D,X
    6,R,J,G
-   2,R,K,G
-   6,R
-   1,R,J
-   4,R
-  12,R,D,J
+   3,R,K,G
    2,R
-   3
-   2,K
-  18,U,X
+   1
+   8,R
+  12,R,D,J
+   3,R
+   1
+   1,R
+  17,U,X
+   1,J
    8,L,C
   12,R,J
-   6,R
+   8,R
    1,R,K
-   5,R
-  15,R,U,X
    2,R
+  15,R,U,X
+   1,R
   14,R,C
-  20,R,G
-   7,K,G
+  25,R,K,G
+   1,K,G
+   1,R,K,G
    1,D,K
    1,K,G
    2,K
@@ -3973,4 +3977,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 7:33.645(26685)
+ChapterTime: 7:33.492(26676)
