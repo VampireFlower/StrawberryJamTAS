@@ -1,4 +1,4 @@
-RecordCount: 9102
+RecordCount: 10459
 
 console load StrawberryJam2021/5-Grandmaster/fishtank
    1
@@ -451,11 +451,12 @@ EndRepeat
   21,R,D
    4,R,J
   23,R,D
-   4,D
-repeat,9
-   1,R
+   1,L,D
+   3,D
+Repeat 9
+   1,F,90,0.29
    1,D
-endrepeat
+EndRepeat
   64,D
    1,S
    1,D,J
@@ -668,26 +669,26 @@ endrepeat
    1,L,D
    1,F,189.456
   14,D
-   1,F,170.4
-   1,F,161.9
-   1,F,152
-   1,F,140.6
-   2,R
+   1,F,170.4,0.29
+   1,F,161.9,0.29
+   1,F,152,0.29
+   1,F,140.6,0.29
+   2,F,90,0.29
 repeat,7
    1,D
-   1,R
+   1,F,90,0.29
 endrepeat
-  17,R
-   1,F,82.8
-   1,F,75.5
-   1,F,68
-   1,F,60
-   1,F,56.4
+  17,F,90,0.29
+   1,F,82.8,0.29
+   1,F,75.5,0.29
+   1,F,68,0.29
+   1,F,60,0.29
+   1,F,56.4,0.29
 repeat,9
-   1,R
+   1,F,90,0.29
    1,U
 endrepeat
-   1,F,47.5
+   1,F,47.5,0.29
   10,U
    1,L
    1,U
@@ -707,20 +708,30 @@ endrepeat
   40
 
 #lvl_Swimming
-   5,R,D
-  23,D
-   2,R,D
-   6,L,D
-   1,F,230
-   4,D
-   6,R,D
+   1
+   5,R
+   1
+   1,K
+   7
+   1,R
+  10,D
+   7,L
+   1,L,D
+   1,F,238.6
    2,D
-  21,R,D
-   9,R
-#Comment by Rhuan:
-#I don't know much about dashless water movement,
-#so it might be possible to optimize this current
-#strat to save one or two more frames.
+   1,F,202.969384
+   2,D
+   1,F,173.698
+   1,F,163.95
+   1,F,153.69
+   1,F,142.42
+   1,F,135
+   1,F,150
+   1,D
+   6,R
+   1
+  14,R,D
+   8,R
   11,R,J
    1,R,K
    1,R,J
@@ -761,74 +772,95 @@ endrepeat
    3,R
   17,D
    3,L,D
-   5,L
-   5,D
-   1,F,196.5408
-   4,D
-   1,F,170
-   1,F,160
-   1,F,140
-   1,F,127
-   1,F,112
-#bad
-   2,R
+   1,F,225.1
+   1,F,241.05
+   3,F,269
+   1,F,244.23
+   8,D
+   1,F,174.28
+   1,F,164.56
+   1,F,154.35,0.29
+   1,F,143.16,0.29
+   4,F,90,0.29
+   3,D
+   1,F,147.65,0.29
    1,D
-   1,R
-   7,D
-   1,R,D
-   3,L,D
-   1,F,211
-   1,F,222
-   1,F,237
-   1,F,242
+   4
+   6,L
+   1,F,131.28
+Repeat 10
+   1,F,270,0.29
+   1,F,228.72,0.29
+EndRepeat
+   1,F,226.92,0.29
+Repeat 4
+   1,F,231.78,0.29
    1,D
-  22,F,237
-  10,F,211
-  10,L
-   1,L,J
-   5,L,K
-   7,K
-   8,U
-   1,F,5
+EndRepeat
+   1,F,270,0.29
    1
+   9,L
+  11,L,J
+   3,L,U
    1,U
+   1,L
+   1,F,299.33
+   6,U
+   1,F,359.99
    1
-   8,U
-   4,L,U
    1,J
-  11,R,J
-  22,F,228
-   7,D
-  12,R,D
+   4,L,J
+   7,R,J
    3,R
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
+   1,F,342.5
+   4,F,74.7,0.29
+   3,L
+   4,F,244.7
+   5,L
+   1,F,262.8
+   1,F,255.5
+   1,F,240
+   3,D
+   2
+   3,L
+   3,R
+   3,R,D
+   1,D
    8,R,D
-   2,D
-   1
+   5,R
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+  10,R
+   1,R,D
    1,R,D,J
-   2,R
-   2,R,J
+   3,R,K
   40
 
 #lvl_Passenger
+   2,R
+   4,R,D
+   3,R
+   6,R,D,J
+   1,L,K,G
+   4,R,K
+  23,R,J,G
+  12,L,K,G
+   1,J,G
+   3,L,J
+   1,J
+   1,L,J
+   1,R,J
+   1,L,K,G
+   8,K
+   2
    1,R
-   3,R,J
-   6,R
-   4,R,D,J
-   4,J
-   3,R,J
-  23,R,K,G
-  12,L,J,G
-  10,K,G
-   9,J,G
-   3,L
-   1,K
-   6,L,K
+   4,L,J
+   1,J
+   5,L,J
   26
    1,R,D
   34,F,6.5
@@ -839,7 +871,9 @@ endrepeat
    4,F,281
    6,F,309.68
    6,F,344
-   9,F,7
+   1,F,350
+   1,F,352.2
+   7,F,7
   21,F,30.7
   17,F,24
    7,F,7.31
@@ -883,4 +917,4 @@ endrepeat
   16,L,U,X
  135
 
-ChapterTime: 1:02.849(3697)
+ChapterTime: 1:02.611(3683)
