@@ -1,4 +1,4 @@
-RecordCount: 26857
+RecordCount: 27048
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -1314,55 +1314,50 @@ EndRepeat
 #lvl_Aquifer
    3,R,D,X
    1,R,J
-  15,R,D
+   2,R
    1,R,K
+  10,R
+   3,F,147.5376
    1,R,J
    1,R,K
    1,R,J
    1,R,K
    1,R,J
-   3,R,K
-   1,R
-   7,R,D,X
-   1,R,J,G
-   1,R,K
-   6,R,J
-  13,R
-   1,R,J
    1,R,K
    1,R,J
    1,R,K
+   5,R,J
    5,R
-   1,R,J
+   1
+   1,R
+  12,R,J
+   3,R
+  13,R,U,X
+   1,R,G
+   6,R,J,G
+   4,R,K,G
+   7,R,J,G
+   6,R,K,G
+   6,R,J,G
    4,R
-   1,J
-   7,R,J
-  14,R,U,X
-   1,R,J,G
-  21,R
-   6,R,Z
+   1
+   2,R
    1,R,J
-   7,R
-   1,R,J
-   5,R,D,X
+   3,R
   40
 
 #lvl_heartside_sp1029
-   5,R,D,X
+  11,R
    1,R,J
-   7,R
-   1,R,J
-  14,R,D,X
-  13,R,J
-   2,J
-  10,R,X
+  12,R
+   9,R,X
   21,R,J,G
    1,R
   13,R,U,X
   25,R,G
    1,R
   18,L,X
-  12,L,U,C
+  13,L,U,C
   21,R
   14,R,D,X
   26,R,J
@@ -1374,13 +1369,14 @@ EndRepeat
   36,R,G
    1,R
   15,R,U,X
-  55,R,D,G
-   1,R
-   1,R,D
+  54,R,D,G
+   1,D,G
+   1
+   1,D
    8,R,X
    1,R,J,G
   21,R
-  14,X
+  14,R,X
    2,L,D
    8,R,Z
    1,R,J,G
@@ -2142,4 +2138,4 @@ EndStunPause
   11,U,X
  135
 
-ChapterTime: 4:41.078(16534)
+ChapterTime: 4:40.517(16501)
