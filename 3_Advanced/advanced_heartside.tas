@@ -1,4 +1,4 @@
-RecordCount: 27424
+RecordCount: 27426
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -861,65 +861,80 @@ EndStunPause
 #any potential stun route in this room seems pretty miserable
 #might still be fast though
   15,L,D,X
-   5,L,J
-  15,L,D,X
-   5,L,D
-   8,L
-  15,L,U,X
-   1,K,G
-   1,R,K
-   1,L,J,G
-   7,L,K,G
-   1,L,J,G
-   1,L,K,G
-   5,L
    1,L,J
-  18,L,D
-   6,L
-  10,R,J
-   1,J
-   1,R,J
+  22,L
+   7,L,U,X
+   1,R
+   1,J,G
+   4
+   1,L
+   7
+   1,L
+   5
+   4,D
+   2
+   5,D
+   4,R,J,G
+   8,J
    1,K
    8,J,G
    1,L,J
    1,L,K,G
    1,L,J,G
-  26,L,K,G
-  13,U,X
-   8,R,J
-   8,R
-  15,R,X
-  15,R,D
-   1,R
-  15,R,X
-   3,R
-  15,R,U,Z
+   1,K,G
+  11,L,K
+   4,L
+   1
+  15,U,X
+   1
+   3,L
+   1
+   1,L
+  18,R,U,X
+  25,R
+   2,R,D
+  18,R,X
    5,R
   15,R,X
-   9,R
-  22,R,X
-  19,R,U,Z
-#boo
-   8,R,U,C
-  32,D
-   8,L,D
-   7,L
-   1,L,J
-   7,L
-  23,D
-  60
-   2,R
-   4,R,D
-   1,R
-   1,R,D
-  20,R,Z
-   1,R,J
-   3
    4,R
+  18,R,U,X
+  18,R,C
+   5,R
+  18,R,X
+   5,R
+  15,R,U,X
+   5,R
+  15
+  11,D
+   1,R,D
+   1,D
+  18,L,D,K
+   8,L,K
+   4,L
+   4
+   4,D
+   1,R,D
+   5,D
+  13,L,D
+  19,L
+   1
+   7,D
+   2,R
+   2
+   1,R
+   1,G
+   1,R,J,G
+  11,R
+   9,R,D
+   5,R
+   1,R,D
+  15,R,X
+   1,R,J,G
+  17,R
   15,D,X
-   2,L,D
+   1,D
   18,L,D,C
-   1,L,D
+   2,D
   15,L,X
   14,L,D,C
    1,L,J
@@ -958,13 +973,11 @@ EndStunPause
   12,R,D,X
    1,R,J,G
   12,R
-  11,R,J
-  18,R
-   3,J
-   5,R,J
-   2,J
-   1,R
-   1
+  12,R,J
+  17,R
+   1,R,J
+   6,J
+   3,R,J
   15,U,X
    5,R
    5
@@ -2152,4 +2165,4 @@ EndStunPause
   11,U,X
  135
 
-ChapterTime: 4:40.211(16483)
+ChapterTime: 4:39.905(16465)
