@@ -1,4 +1,4 @@
-RecordCount: 27423
+RecordCount: 27424
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -189,12 +189,16 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
 #spinner cycle - bee berserk
    1
 ##
-   2,R,J
-  11,R,Z
-   5,R,J
-  14,R,Z
-   1,R,J
-   8,R,D,X
+   4,Z
+   4,R,J
+   1,R
+   1,R,K,G
+   3,R,K
+   7,R
+   1,R,D
+   2,R,D,J
+   2,R
+  10,R,D,X
   43
 
 #lvl_heartside_TiltTheStars
@@ -2148,4 +2152,4 @@ EndStunPause
   11,U,X
  135
 
-ChapterTime: 4:40.262(16486)
+ChapterTime: 4:40.211(16483)
