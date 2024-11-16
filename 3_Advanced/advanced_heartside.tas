@@ -1,4 +1,4 @@
-RecordCount: 27426
+RecordCount: 27751
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -687,35 +687,34 @@ EndStunPause
    1,L
    3,J,G
   30,R,K
-   1,L
-   6,R,U,X
-  18,L
-  12,R,U,X
-  37,R,G
-   1,D
-  14
-   5,U,X
-  18,R,G
-  18,R,J,G
-   1,L
-   5
-   3,J
-  12,U,X
-  35,L,G
-   1,L,D
-   4,L
-   1
-   3,J
-   1
-   1,J
-  10,U,X
-  19,G
-   8,R,G
-  10,L
-  10
-   7,L,D
-   9,D
+   3,L
+   9,R,U,X
+  14,L
+   9,R,U,X
+  21,R,G
    1,R
+  19,R
+   6,U,X
+  17,R,G
+  25,R,J,G
+   1,L,J
+   7,J
+  13,U,X
+  31,L,G
+   1,L,D
+   7
+   4,J
+   9,U,X
+  19,U,G
+  14,L,G
+   1,L
+   2,R
+   3,R,J
+   2,J
+   1,R,J
+   5,J
+  19
+   8,D
    2
    8,L,Z
    1,L,J
@@ -726,8 +725,8 @@ EndStunPause
    6,L
    1
    6,L
-   1,J
-   4,L,J
+   1,D,J
+   4,L,D,J
   29,L,X
    9,L,Z
    8,L,J
@@ -735,7 +734,8 @@ EndStunPause
    9,R
   15,D,X
    1,D
-  27,L
+   9,L
+  18,L
    1,L,D
    3,J,G
   12,K,G
@@ -744,23 +744,26 @@ EndStunPause
   15,R
   15,R,X
    1
-  35,R
+  26,R
+   9,R
    6
-   1,R
-   2
-  11,D
-   2
+   1,R,D
+  13,D
+   1
 # jelly is bottleneck by a few frames
-  27,R
+  26,R
   50,R,U,J,G
    2,R,G
    2,R,U,G
    1,R,G
-   3,R,U,G
+   1,R,U,G
+   1,R,G
+   1,R,U,G
    1,L
   13,R
   14,R,X
-  13,J,G
+   1,J,G
+  12,J,G
    8,R,J
   15,U,X
    1,R
@@ -840,16 +843,28 @@ EndStunPause
   19,R,D,X
   80,D
   40,L,D
-  36,D
-   1,J
-   8
-   2,J
-   5
-  11,R,Z
-   1,L,J
-   2
-   4,L
+  20,D
+   8,R,D
+   6,R
+   1,R
+   1,R
+   4,R,Z
    1,R,J
+   3,L,J
+   2,L
+   3,L,J
+   1,L
+   1
+   1
+   1,L
+   1
+   1
+  10,R,D,Z
+   1,L,J
+   1
+   3
+   2,L
+   1,D,J
    1,J
    6,L,D,X
    1,R,J,G
@@ -862,18 +877,21 @@ EndStunPause
 #might still be fast though
   15,L,D,X
    1,L,J
-  22,L
-   7,L,U,X
+   5,L
+   1,L,J
+   9,L
+   7
+   6,L,U,X
    1,R
    1,J,G
    4
-   1,L
-   7
-   1,L
+   5,L
+   9
+   2,D
+   2,R,D
+   1
+   1,D
    5
-   4,D
-   2
-   5,D
    4,R,J,G
    8,J
    1,K
@@ -886,25 +904,23 @@ EndStunPause
    4,L
    1
   15,U,X
+   5,L
+  21,R,U,X
+  15,R,D,C
+  12,R,D
+   5,R,X
+   1,R,J,G
+   1,J
+  22,R,J
+  21,R,U,X
+  23,R,C
+  23,R,X
    1
-   3,L
-   1
-   1,L
-  18,R,U,X
-  25,R
-   2,R,D
-  18,R,X
-   5,R
-  15,R,X
+  17,R,U,C
    4,R
-  18,R,U,X
-  18,R,C
-   5,R
-  18,R,X
-   5,R
-  15,R,U,X
-   5,R
-  15
+   2
+   1,R
+   8
   11,D
    1,R,D
    1,D
@@ -923,33 +939,39 @@ EndStunPause
    2
    1,R
    1,G
-   1,R,J,G
-  11,R
-   9,R,D
-   5,R
-   1,R,D
-  15,R,X
-   1,R,J,G
-  17,R
+   4,R,J,G
+   9,R
+  11,L,D,X
+   2,R,J
+   2,R
+  15,R,D,X
+   6,R
+   1,R,J
+   3,R
+   6
   15,D,X
-   1,D
-  18,L,D,C
-   2,D
-  15,L,X
-  14,L,D,C
+   5,L,D
+  18,L,D,X
+  15,L,C
+  14,L,D,X
    1,L,J
+  14,L,D,X
+   1,L,J
+   2,L,J
+   1,L
+  15,L,D,X
+   4,L
+   8,L,D
    2,L
-  14,L,D,X
-   1,L,J
-  14,L,D,X
-  16,L
-   2,L,D
+   1,L,D
+   1,L
    1,G
    1
    1,J
    1,L,K,G
-  16,L
-  20,D
+  15,L
+  13,D
+   8,D
    2,R,D
    4,D
    2,R,D
@@ -1847,7 +1869,7 @@ EndRepeat
    1,R,J
   14,R,D,C
 #spinner cycle [heartside_jolly]
-   1
+   2
 #
   15,D,X
   14,R,D,C
@@ -2165,4 +2187,4 @@ EndStunPause
   11,U,X
  135
 
-ChapterTime: 4:39.905(16465)
+ChapterTime: 4:39.599(16447)
