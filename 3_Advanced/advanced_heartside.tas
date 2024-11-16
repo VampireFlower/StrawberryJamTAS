@@ -1,4 +1,4 @@
-RecordCount: 27339
+RecordCount: 27421
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -1324,8 +1324,10 @@ EndRepeat
 #lvl_Aquifer
    3,R,D,X
    1,R,J
-  13,R
-   3,F,151.0443
+   2,R
+   1,K
+  10,R
+   4,F,163.9318
    1,R,J
    1,R,K
    1,R,J
@@ -1334,33 +1336,29 @@ EndRepeat
    1,R,K
    1,R,J
    1,R,K
-   5,R,J
-   3,R
-   3
-   1,R
-  12,R,J
+   1,R,J
+   7,R,K
+  12,R,J,G
    3,R
   14,R,U,X
-   1,R,J,G
-   6,R,K,G
-   4,R,J,G
-   7,R,K,G
-   6,R,J,G
+   3,R,J,G
    5,R,K,G
-   5,R
-   1
-   1,R
-   1,R,J
-   3,R
+   1,R,J,G
+   4,R,K,G
+   6,R,J,G
+   4,R,K,G
+   1,R,G
+   8,R,J,G
+   7,R
   40
 
 #lvl_heartside_sp1029
    3,R
-   1,R,K
-   7,R
    1,R,J
-  11,R
-   9,R,X
+   8,R
+   5
+   4,R
+   5,R,X
   21,R,J,G
    1,R
   13,R,U,X
@@ -1830,7 +1828,7 @@ EndRepeat
    1,R,J
   14,R,D,C
 #spinner cycle [heartside_jolly]
-   0
+   1
 #
   15,D,X
   14,R,D,C
@@ -2148,4 +2146,4 @@ EndStunPause
   11,U,X
  135
 
-ChapterTime: 4:40.415(16495)
+ChapterTime: 4:40.313(16489)
