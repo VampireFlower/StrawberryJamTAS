@@ -1,4 +1,4 @@
-RecordCount: 29285
+RecordCount: 29711
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -1426,57 +1426,69 @@ EndRepeat
 #lvl_heartside_sp1029
    3,R
    1,R,J
-   8,R
-   5
-   4,R
+   5,R
+   1
+   1,R
+   1
+   2,K
+   7,R
    5,R,X
-  21,R,J,G
+  13,R,G
+   6,R,K,G
+   2,R,G
    1,R
   13,R,U,X
   25,R,G
    1,R
   18,L,X
-  12,L,U,C
-  21,R
+  11,L,U,C
+  27,R
   14,R,D,X
-  26,R,J
-   8,U,X
-   3
-  22,R,G
-   4,R
-  14,U,X
-  36,R,G
-   1,R
-  15,R,U,X
-  54,R,D,G
-   1,D,G
+   1,L,J
+   4
+   2,L
    1
-   1,D
-   8,R,X
+   4,L
+   1
+   1,L
+   9,U,X
+  14,G
+  11,R,G
+   1,R
+  13,U,X
+  24,R,G
+   8,R,D,G
+   1,R
+  14,R,U,X
+  35,R,G
+  13,R,D,G
+   8,D,G
+   3,R,D,G
+   1,R
+   7,R,X
    1,R,J,G
   21,R
   14,R,X
-   2,L,D
-   8,R,Z
-   1,R,J,G
-   3,R
-   1,R,K,G
    4,R
+   7,R,Z
+   4,R,J,G
+   5,R,K,G
   40
 
 #lvl_heartside_hennyburgr
    4,R,K
-   3,K
+   2,R
    6,R,U,Z
+   5,L,J,G
+   1,N
+   4
    1,L
-   3,J,G
-   5,N
-   4,R
-   1,R,J
+   4
+   3,R
   15,D,X
-   3,L,D
-#waiting
-   7
+   4,L,D
+   1,D
+   2
    1,R
    5,L,Z
    1,R,J
@@ -1811,7 +1823,8 @@ EndRepeat
   13,R,D
    1,R
   15,R,U,Z
-   9,R
+   8,R
+   1
   10,R,Z
    3,R,J
    9,R
@@ -1822,34 +1835,25 @@ EndRepeat
   18,U,X
   12,L,Z
   16,R,J
-  16,R,D,X
-   4,R,D,J
-  19,R,D
-  10,L,D,Z
+  15,R,D,X
+   1,R,D
+   5,R,D,J
+   9,R,U,X
    1,L
+   1,J,G
+   2,R,K,G
+   2,R,J,G
    1,J
-   1,L,K,G
-   3,R,K
-  34,R,D
-   6,D
-   2,R
-   1,R,J
-   8,R,D,X
-   1,R,J
-   7,R
+  55,R
+   6,R,D
    2,R,J
-   6,R,D,X
-   1,L,J,G
-   1
-   4,R
-   3,R,J
-  17,R
    9,R,U,X
   40
 
 #lvl_heartside_RadleyMcTuneston
-   6,R,U,X
-   9,U,C
+   5,R,U,X
+   1,L,J,G
+   8,U,C
   14,R,D,X
    8,L,J
   15,R,Z
@@ -1893,7 +1897,7 @@ EndRepeat
    1,R,J
   14,R,D,C
 #spinner cycle [heartside_jolly]
-   1
+   2
 #
   15,D,X
   14,R,D,C
@@ -2211,4 +2215,4 @@ EndStunPause
   11,U,X
  135
 
-ChapterTime: 4:38.018(16354)
+ChapterTime: 4:37.049(16297)
