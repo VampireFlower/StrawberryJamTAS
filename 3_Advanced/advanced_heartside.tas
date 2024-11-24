@@ -1,4 +1,4 @@
-RecordCount: 29711
+RecordCount: 29912
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -1818,43 +1818,55 @@ EndRepeat
    2,R,K,G
   14,R,Z
    8,R,J
-   1,R
-   1,R,J
-  13,R,D
-   1,R
+   4,R
+   2,R,K
+  10,R
   15,R,U,Z
-   8,R
-   1
-  10,R,Z
-   3,R,J
    9,R
-   7
-  13,R,X
-   9,L,J
-  17,L
+  10,R,Z
+   2,R,J
+   1,R
+   2,R,K
+  12
+  14,R,Z
+   1,L,J
+   1,L
+   1,R,K,G
+   8,L,K
+   4,L
+   3
+   1,L
+   1
   18,U,X
-  12,L,Z
-  16,R,J
+  11,L,Z
+  12,R,J
+   1,R
+   1,R,K
   15,R,D,X
    1,R,D
-   5,R,D,J
+   1,R,D,J
+   1,L,K,G
+   3,R,K
    9,R,U,X
    1,L
    1,J,G
    2,R,K,G
    2,R,J,G
-   1,J
-  55,R
-   6,R,D
-   2,R,J
+   1
+  53,R
+   4,R,D
+   1,R
+   1,R,D
+   1,R,J
+   1,R
    9,R,U,X
   40
 
 #lvl_heartside_RadleyMcTuneston
    5,R,U,X
    1,L,J,G
-   8,U,C
-  14,R,D,X
+   8,U,X
+  14,R,D,C
    8,L,J
   15,R,Z
    1
@@ -2215,4 +2227,4 @@ EndStunPause
   11,U,X
  135
 
-ChapterTime: 4:37.049(16297)
+ChapterTime: 4:36.845(16285)
