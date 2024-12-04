@@ -1,7 +1,7 @@
 #draft: psyGamer
 #improvement: EllaTAS
 
-RecordCount: 12073
+RecordCount: 12333
 
 console load StrawberryJam2021/1-Beginner/mosscairn
    1
@@ -14,11 +14,10 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    1,S,N
    1,D,J
 #waiting here for cycle
-#it breaks even overall but looks cooler so i kept it lol
-#that said you can move the 3f of waiting before the cutscene skip
-#and it saves 3f IL time only (but breaks even in a full game setting)
+   0
+#you can move the waiting before the cutscene skip
+#saves IL time only (breaks even in a full game setting)
 #for the sake of this not being misleading and confusing, i left the waiting after the cutscene skip
-   3
   34
    5,L,D,X
    1,R,J
@@ -41,17 +40,21 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    7,R,D,X
    1,R,J,G
   11,R
-   5,R,J
+   1,R,J
+   4,R
    5,R,D,X
    1,R,J,G
-   4
-   5,R
+   5
+   1,R
+   1,R,K
+   1,R
+   1,R,J
   15,R,D,X
-   2,R
-  10,R,D,J
+   1,R
+   9,R,D,J
+   2
    1,J
-   1,K
-  10,L,J,G
+  10,L,K,G
   15,L,X
   21
   14,L,Z
@@ -209,18 +212,21 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    1,R,K,G
    6,R,D,X
    1,R,J
-   3,R
-   1,R,J
-   2,R
-   2,R,D
-#bit faster here could get a horizontal liftboost
-   5,R,D,J
-  17,R,D,X
-   5,R
+   4,R
+   2,R,K
+   7,R
+   2,R,J
+  15,R,D,X
+   1,R,D,J
   40
 
 #lvl_a-06b
-  31,R,D
+   1,R,D,J
+  15,R,D,X
+   4,L,D
+  10,R,D
+   1,D
+   1,R,D
   11,R,Z
    1,R,J
    7,R
@@ -343,21 +349,20 @@ console load StrawberryJam2021/1-Beginner/mosscairn
   10,R,D
    1,R,J
   14,R,X
-   1,L,J
-  10,L,D,X
-  10,L,J
-   2,J
 #cory.  if we go faster this will be significant bottleneck, still a ways to go though
-   9,L,D,X
-   5,R,J
-   1,R,K,G
-  11,R,X
-  14,R,J
-   1,K,G
-   1,L,K
-   6,R,J,G
-   7,R
-   1,G
+   2,L,J
+  14,L,D,X
+   1,L,J
+  13,L,D,X
+   1,L,J
+   3,L
+  10,R,Z
+   1,R,J
+   1
+   2,R
+   5,R,J,G
+  20
+   6,G
    8,R,Z
    1,R,J
    2,R,K
@@ -384,17 +389,22 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    6,R,J
   14,R,U,X
    1,J
-   7
-  15,L
+  22
   15,L,X
-   7
-   5,L
-   5,L,D,X
+  10
+   2,L
+   4,Z
    1,L,J
-   5,L
-  10,L,J
-  14,U,X
-  11,J
+   3,L
+   1,L,K
+   1,L
+   1,L,K
+   1,L
+  12,L,J
+   2,L
+  14,U,Z
+   3,J
+   6,L,J
   40
 
 #lvl_b-00
@@ -410,7 +420,8 @@ console load StrawberryJam2021/1-Beginner/mosscairn
   34
   10,R
 #can add 3 dashes
-  48,L
+  15,L,X
+  36
   13,U,X
   23,R,J
    1,R,K,G
@@ -439,12 +450,14 @@ console load StrawberryJam2021/1-Beginner/mosscairn
   13,L,U,Z
    1,J,G
    7,L
-   4
-   8,L
-  15,U,X
-   1,L,J,G
-   6,L
+   3
+   7,L
    1
+  15,U,X
+   2,L,J,G
+   4,L
+   1
+   2,L
 #waiting frame
    1
   10,L,X
@@ -974,7 +987,7 @@ console load StrawberryJam2021/1-Beginner/mosscairn
 #lvl_c-06
   11,R
   15,R,X
-   2
+   3
    1,L,N
    3,J
    3,L,K
@@ -1041,4 +1054,5 @@ console load StrawberryJam2021/1-Beginner/mosscairn
   11,L
   13,L,U,X
  135
-ChapterTime: 1:59.680(7040)
+
+ChapterTime: 1:59.578(7034)
