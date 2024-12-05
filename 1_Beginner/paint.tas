@@ -1,7 +1,7 @@
 #draft: psyGamer
 #improvement: EllaTAS
 
-RecordCount: 12333
+RecordCount: 12628
 
 console load StrawberryJam2021/1-Beginner/mosscairn
    1
@@ -310,13 +310,16 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    3
   15,L,U,Z
   15,R,D,C
-   5
-   1,L,J
-  15,R,D,X
-   1,L,J
-  13
-   1,R
+   4,R,D
+   7,L,Z
    1,R,J
+   2
+   5,R
+  14,R,D,X
+   1,L,J
+   1,L
+   4
+   1,L
   14,R,D,X
    1,R,J
    1
@@ -352,17 +355,13 @@ console load StrawberryJam2021/1-Beginner/mosscairn
 #cory.  if we go faster this will be significant bottleneck, still a ways to go though
    2,L,J
   14,L,D,X
+   2,L,J
+  14,L,D,X
    1,L,J
-  13,L,D,X
-   1,L,J
-   3,L
-  10,R,Z
-   1,R,J
-   1
-   2,R
-   5,R,J,G
-  20
-   6,G
+  10,R,C
+   9,R,J
+  25,R
+   1,G
    8,R,Z
    1,R,J
    2,R,K
@@ -389,22 +388,23 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    6,R,J
   14,R,U,X
    1,J
-  22
-  15,L,X
-  10
-   2,L
-   4,Z
+   5
+   1,K
+   9
+   5,L
+   1,K
+   5,L,X
+   1,L,J,G
+   1
+  17,L
+   5,R,Z
    1,L,J
-   3,L
-   1,L,K
-   1,L
-   1,L,K
-   1,L
-  12,L,J
-   2,L
-  14,U,Z
-   3,J
-   6,L,J
+   5,L
+  11,L,J
+   1,J
+   2
+  14,U,X
+  10,J
   40
 
 #lvl_b-00
@@ -458,8 +458,8 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    4,L
    1
    2,L
-#waiting frame
-   1
+#waiting
+   3
   10,L,X
   10,L,J
    1,L
@@ -599,10 +599,13 @@ console load StrawberryJam2021/1-Beginner/mosscairn
   15,L,X
    5,R,Z
    1,L,J
-   8,L,D
+   4,L
+   2
+   1,L
+   1
   15,L,G
    2,L,D,G
-   4,L,G
+   3,L,G
    8,L,Z
    1,L,J
    1,L,K,G
@@ -970,6 +973,7 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    8,R
    1,R,J
   15,D,X
+   1
 #cycle slightly thrown off sync here after being fine since before the bus
 #idk lol
    4,Z
@@ -985,21 +989,27 @@ console load StrawberryJam2021/1-Beginner/mosscairn
   40
 
 #lvl_c-06
-  11,R
-  15,R,X
-   3
-   1,L,N
-   3,J
-   3,L,K
-   6,L
-  10,R,Z
-   1,L,K
-   2
-   2,L,K
+   6,R
+   1,J,G
+   4,L
+   4,Z
+   1,R,J
+   1,R,K,G
+   1,L
+   5,R
+   1,R,N
+   3,R,J
+   7,R,X
    1,K
+   1,J
+   1,L,J
+   5,L
+  10,R,Z
+   1,L,J
+   5
   15,U,X
   15,R,Z
-  14,R,D
+  14,R
   41
    2,L
   16,L,U,X
@@ -1055,4 +1065,4 @@ console load StrawberryJam2021/1-Beginner/mosscairn
   13,L,U,X
  135
 
-ChapterTime: 1:59.578(7034)
+ChapterTime: 1:59.476(7028)
