@@ -1,5 +1,5 @@
 #draft by Vamp
-RecordCount: 1954
+RecordCount: 1978
 
 console load StrawberryJam2021/1-Beginner/NotYourBadeline
    1
@@ -56,19 +56,21 @@ console load StrawberryJam2021/1-Beginner/NotYourBadeline
    1,L,K,G
    7,L
   10,L,X
-   5,R,J
-   4,R
-  13,R,U,X
-   3,R,J,G
-   8
-  25,R,D
+   6,R,J
    3,R
-   1,R,D
-  12,R,Z
+  13,R,U,X
+   2,R,J,G
+   5
+   1,R
+   1,R,K
+   3,R
+  15,R,D,X
+  15,R,D
+   7,R,Z
    1,R,J
-   6,R
+   7,R
    1,R,J
-   6,R,U,V
+   6,R,U,Z
   40
 
 #lvl_a_04
@@ -104,14 +106,13 @@ console load StrawberryJam2021/1-Beginner/NotYourBadeline
    1,R,K
    1,K
   10,U,X
-  10,L
-  15,U,X
-   1,L
-  16,R,C
-   4,D,X
+  11,L
+  13,U,X
+   2,R
+  14,R,Z
    1,R,J
    7,R
-  12,R,D,K
+  12,R,D,J
   40
 
 #lvl_a-05
@@ -254,4 +255,4 @@ Endrepeat
    1,K,G
    2
 
-ChapterTime: 0:27.234(1602)
+ChapterTime: 0:27.098(1594)
