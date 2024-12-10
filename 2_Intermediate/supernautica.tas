@@ -1,4 +1,4 @@
-RecordCount: 2520
+RecordCount: 2816
 
 console load StrawberryJam2021/2-Intermediate/LegS
    1
@@ -17,40 +17,41 @@ console load StrawberryJam2021/2-Intermediate/LegS
   14,R,U,X
   64,R,U,J,G
    2,R
-   1,K,G
-   1
-   7,J,G
-   1,L,J
-   1,R,K,G
+   6,K,G
+   1,R,K
+   1,K
+   1,R,K
+   1,K
    1,L,K
-  10,R,K,G
-   6,R
-   1
+   1,R
    1,R,J,G
-  11,R,D
-   1,R,G
-   5,R,Z
+   1,L,J
+  18,R,J
+   2,R
+   6,L,D,X
    1,R,J
-   4,R
-   1,R,D,J
-   7,R
+   6,R,D
+   1,R,J
+   2,R
+  10,R,K
   40
 
 #lvl_LegS-1
+   1,R,K
   15,R,D,X
-   2,R,J
+   5,R,J
   15,R,D,X
-  26,R,J
-   9,R
-  16,R,X
-   1,J
-   4,R,J
-   7,J
-   4,R,J
-  14,R,Z
-   1,R,J
+  25,R,J
+   4,R
+   1
    7,R
-  19,R,J
+  30,R,U,Z
+   7,R,V
+   1,R,J
+   4,R
+   1,R,J
+   2,R
+  18,R,J
   14,R,D,X
    1,R,J
    7,R,D,X
@@ -232,7 +233,7 @@ console load StrawberryJam2021/2-Intermediate/LegS
    1,D,O
   34
 # Spinner unload cycle
-   0
+   2
    5,J,AR
    9,R,J
   15,U,X
@@ -297,4 +298,4 @@ console load StrawberryJam2021/2-Intermediate/LegS
   14,U,X
  135
 
-ChapterTime: 0:50.048(2944)
+ChapterTime: 0:50.014(2942)
