@@ -1,4 +1,4 @@
-RecordCount: 4561
+RecordCount: 6407
 
 console load StrawberryJam2021/3-Advanced/Tortoise
    1
@@ -10,131 +10,135 @@ console load StrawberryJam2021/3-Advanced/Tortoise
 
 #lvl_0
  114
-   1,S
+   1,S,N
    1,D,J
   34
    6,R,Z
    1,R,J
-   3,R
-   1,R,J
-   3,R
-   1,R,J
-  15,R,D,X
-   6,R
-  20,R,D
-   2,D
-   7
-   9,L,J
-   1,R,J
-  11,R,D,X
+   7,R
    2,R,J
-   2,K,G
-  10,R,Z
+  18,R
+  18,R,D
+   6,R
+   3,R,D
+  15,R,D,X
+   6,R,D
+   1,R,J
+   1,R
+  12,R,Z
 
 #lvl_1
-   3,R,Z
-  11,L,J
-   2,K,G
+   1,R,Z
+   9,L,J
+   1,L,K,G
+   1,R,K
+   1,L,K
+   2,K
    1,J
    2,K,G
-  16,R,K
+  10,R,K
+   6,R
   15,U,X
    5,R
-  16,L,J
-   2,R,J
-   8,K
-   1,R,K
-   1,R,J,G
+   4,J
+  10,L,J
+   1,J
+   1,L
+   1
+   9,J
+   1,R,J
+   2,R
+   1
+   4,R
+   3,R,J
+  11,R,D,X
+   1,R,J
    2,R,K,G
-   5,R
-   2,R,J
-   3,R
-  13,D,X
 
 #lvl_2
-#You can stunpause here, it loses time (see original wip: https://discord.com/channels/403698615446536203/1074148268407275520/1082416570212552855)
-#vamp's idea in the video was to overclock here and then somehow land crouched in the 1 tile gap on the left of the falling block
-#I could not get this to happen and decided to leave this for later (or never look at it again)
-#Vamp's video: https://discord.com/channels/403698615446536203/1074148152317321316/1079990477710954497
-#   2,L
-   2,D,X
-   4,L,K
-  14,R,U,X
+   3,R,K
+   2,R,J,G
+   1,R
+  12,U,X
+   4,L,J
+   3,J
+   1,L,J
    1,J
-   6,L,J
-   1,L,K,G
-   6,L,J,G
-   4,K,G
+  11,L
+   5,R,Z
+   1,L,J
    2
-   2,J,G
-   1,L,J
-   2,L
+   1,K
    5
-   6,R,Z
+   4,L,D
+  12,L,D,J
+   2,L
+   1,R
+   8,J,G
    1,L,J
-   1
-   2,J
-   3
    1,J
-   1
-   5,L,D
-  15,L,J
-   1,L,K
-  12,L,J
-   4,R,K
-   2,R
-   7,R,Z
+   1,K
+   2,R,K
+   4,K
+   2
+   6,R,Z
    1,R,J
    6,R
-   5,R,J
-   2
-   3,R
-   1,R,J
-   4,R
-   1,R,K
-  10,R,D
    4,R,J
-   3,R
-   1,R,J
-   9,R,K
+   5,R
+   2,R,K
+   1,R
+   1,R,K
+   9,R
+   2,R,D
+   1,R,D,J
+   5,R
+   1,R,K
+   1,J
+   1,K
+   8,R,K
   10,R,Z
    1,R,J
    5,R
-   1,R,G
+   1,G
   10,L,Z
    1,L,J
-   9,L,D
+   9,L
   15,R,D,X
-   8,D
-   2,R,D
-  15,L,D,C
-   7,D
+  10,D
+  18,L,D,X
+   4,D
    4,Z
    4,R,J
    1,R
-   3,R,J
-   1,D
-  14,R,D
+   1,R,K
+   9,R
+   4
+  14,L,Z
+   1,L,J
   15,L,D,X
-   1,L,D
-  15,L,D,X
-   3,L,D
-   7,L
-   9,L,D,X
-   2,R,J
-   8,R,K,G
+  11,D
+   2,L,D
+   1,R,J
+  10,R,D,X
+   1,R,J
+   5,R,K,G
 
 #lvl_3
-   4,R,K
+   5,R,K
+   2,R,J,G
+   1,J
+   7,R,J
+   2,R,K,G
+   1,K
    1,R
-   4,R,J,G
-   2,J
-   4,R,J
-   7,R
-   1,L,D,J
-   3,R,J
-   7,R
-   1,R,G
+   1
+   1,R
+   2,L
+   1,J,G
+   4,R
+   3
+   1,G
   12,R,D,X
    3,R,J
    5,J
@@ -149,40 +153,40 @@ console load StrawberryJam2021/3-Advanced/Tortoise
    2,L
    4,Z
    1,L,J
-   5,L
-   1
-   1,L,J
-   2,J
-   1
-   8,L,U,X
-   1,L,J,G
-  10
-   1,L,J
-   1,J
-  10,L,J
-   1,R,J
-   1,K,G
-   6,K
-   1,L,K
-  14,U,X
-   1,L,J
    6,L
-   3,R
+   4,L,D,J
+   8,L,U,X
+   1,J,G
+   7
    1,L
-   6,K,G
-   1,L,J,G
-  16,L,D
-   4,L,K
-  11,L,X
+   1,L,K
+   1,L
+   9,L,J
+   1,J
+   2,L,J
+   1,R
+   8,J,G
+  15,U,X
    1,R,J,G
-   1,R,K
-  18,R
-   5,R,J
+   4
+   2,R
+   1,J
+   8,K,G
+   2,L,K
+  14,L
+   1,L,J
+   3,L
+  11,L,X
+   1,J
+   1,K
+  17,R
+   4,R,J
   10,R
   15,R,U,Z
-  15,L
-  15,L,D
-  10,D
+  10
+   5,L
+  12,L,D
+  13,D
   15,R,Z
    3,L
    1
@@ -199,91 +203,113 @@ console load StrawberryJam2021/3-Advanced/Tortoise
    4,R
    1,R,G
    4,L
-   4,L,D,X
-   1,L,K
-  13,R,D
-   1,D
-   5,R,D
+   4,Z
+   1,L,J
+   6
+   7,R
+   1
+   1,R
+   4,R,D
    6,D
    8,L,Z
-   4,R,K
-   1,R
-   1,R,K
-   7,R
-   3,R,D
-   7,L,D
-   3,L
-   1,L,D,J
-   5,L
-  14,L,D,X
-   1,L,J
-   1,L
+   5,R,J
+   4,R
+   4
+   3,R
+   1
+  15,L,D,X
+  14,L,D,C
+   2,L,J
   14,L,D,X
    1,R,J
-  11,K,G
-   7,J,G
-  15,D,X
+  12,K,G
+   6,J,G
+  18,D,X
   10,R,Z
-   4,R,J
-   1,R
+   5,R,J
   12,R,U,Z
    1,R,J,G
    1,K,G
    6,R
-   2,R,J
+   2,R,K
    1,R
    1,L
    3
-  10,U,C
+  10,U,X
   15,R,J
-   6,J
-   1,K
-   3,L,K
+   5
+   1,J
+   4,L,J
+   7,L
+  11,L,J
+   6,L,Z
+   1,L,J
    5,L
    1
-   1,L
+   8,J
+   1,L,J
+   3,J
+   1
+   1,R,J,G
+   1,R,K,G
+   9,K
+   5,R,X
+   2,R,J,G
    1,J
-   8,R
+   1,K,G
+   2,R,K
+   1,K
+   1,R,K
+   4,K
+   2,L,K
+   8,L
+   2,L,K
+   9,L
+   8,D
+   7,R,D
+   1,R
+   6,R,Z
+   5,R,J
+   5,R
+   6
+   5,R
+   2
    1,G
-   3,L
-   8,L,J
+   1,L,J
+   7,L,K
    7,L,Z
    1,L,J
-   6,L
-   1,J
-   3,L,J
-   9,J
-   1,R,K,G
-  12,R,J,G
-   5,R,X
-   1,R,K,G
-   1,J,G
-   8,R,J
-   3,L,J
-  22,L,D
-  13,R,D
-  22,D
-  14,K
-   5,R,J,G
-   4,L,J
-   1,R,K,G
+   5,L
+   1
+   8,J
+   1,L,J
+   3,J
+   1
    1,R,J,G
-  23,R,K,G
-  10,R
-  13,R,X
+   1,R,K,G
+   9,K
+   5,R,X
+   2,R,J,G
+   1,J
+   7,R,J
+  15,R
    7,R,J
   10,R,Z
-   5,R,J
-  15,R,D,X
-   4
+   1,R,J
+   5,J
+  11,R,D,X
+   1,R,J
+   7,R,K,G
 
 #lvl_4
-   2,R,J
-   1,R,K,G
-   5,R
-   1,R,J
-   7,R
-   3
+   1,R,K
+   2,K
+   1,J,G
+   4,R,J
+   1
+   1,R
+   4
+   4,L
   15,U,Z
   15,L,J
    3,L
@@ -316,82 +342,122 @@ console load StrawberryJam2021/3-Advanced/Tortoise
   15,L,D,X
   15,D,C
   15,L,X
-  12,D,C
-   3,R,J
-   7,R,D,X
-   1,L,J
-   4,L
-   2,L,D,J
-   8,U,X
-   7,R,J
-  13,R
-   4,R,X
+  13,D,C
    1,J
-   9
-   1,L,J
-   3,R
-  12,D
+   1
+   6,D,X
+   4,R,K,G
+   1,K
+   1,J
+   2,R,D,K
+   1,R,J,G
+   7,U,X
+   6,R,J
+   1,R
+  11,R,K
+   1,R
+   4,Z
+   1,R,J
+  10
+  15,L,D,C
+   3
   14,L,D,C
    1,R,J
   15,R,Z
    1,R,D,J
    5,R
-  24,R,K
-  15,R,Z
-   2,R
-   2,J
-   6,L,K
-  12,U,X
   10,R,J
-   3
-   1,K,G
-   9,L,J
-   6,K,G
-   1
-  12,R,J
-   1,K,G
-   1
-   1,J
-   2,L,J
-  18,R,J
+  11,R
+   1,R,D
    1,R
-   1,R,K,G
-   9,R,J,G
+   1,R,D
+  15,R,Z
+   1
+   1,R
+   2,J
+   1,K
+   2,L,K
+   2,L
+  13,U,X
+   2,R,J
+  10,J
+   1,K,G
+  11,L,K
+   4,J,G
+   1,R,J
+   1,L,J
+   2,K,G
+   6,R,K
+   4,K
+   1,J,G
+   1,L
+   1,K
+  12,J
    5,R
-  25,R,J
-  15,R,D
+   3,R,K
+   1,R
+   1,R,J,G
+   7,R,K,G
+   5,R
+  10,R,K
+  14,R
+  16,R,D
   15,L,D,X
-  12,L,D
-   5,R,D
+   5,D
+   1,L,D
    1,D
-   4,R,D
+   1,L,D
+   4,D
+   6,R,D
+   4,D
    5,U,X
    1,R,J
-  15,R,D
-  13,L,D
+  15,R
+   7
+   2,D
+   4,L,D
   75,O
    4,Z
    2,R,J
   13,R
-  38,L,K
-  16,L,G
-   3,L,J,G
+   1,K
+  11,L,K
+   5,L
+  10,L,K
+  11,L
+  12,G
+   1,U,G
+   1,G
+   1,U,G
+   2,L,J,G
   23,L
   14,R,X
-  10,R,J
-  11,U,Z
-  13,R,J
-  11,R,X
-   3,R,J
-   1,L,J
+   6,R,J
    2,J
-   6,L,J
-  15,U,X
-  15,L,J
-  18,L
-   5
-   3,R,J
+   2
    1,R
+   1
+  11,U,Z
+  11,R,J
+  10,R,X
+   3,R,J
+   1,R,K,G
+   5,L,K
+   1,K
+   1,L
+  15,U,X
+   1
+  14,L,J
+  10,L
+   1,L,K
+   1,L
+   1,L,K
+   1,L
+   1,L,K
+   3,L
+   5
+   3,R,D,J
+   1,J
   10,L,D,X
    7,L,J
   17,L,X
@@ -400,14 +466,18 @@ console load StrawberryJam2021/3-Advanced/Tortoise
    3,R
   15,R,X
   13,R
-   4,R,X
-   3,J
-   4,R,D
-  28,D
+   4,X
+   1,R,J
+   2,J
+   4,R
+  14
+  14,D
   12,L,D
    3,D
    4,Z
-  17,L,J
+  15,L,J
+   1,L
+   1,L,K
   14,U,X
    1,R,J
    2,R,K,G
@@ -415,10 +485,10 @@ console load StrawberryJam2021/3-Advanced/Tortoise
   11,R,D,X
    1,L,J
    2,L
-   1,L,K,G
+   4,L,K,G
 
 #lvl_5
-   5,L,K
+   2,L,K
   11,D,X
    1,R,J
    3,R
@@ -431,55 +501,65 @@ console load StrawberryJam2021/3-Advanced/Tortoise
   12,L,U,Z
    5,L,K,G
    4,L
-  15,D,C
-  15
+  15,D,X
+  13
   12,J
   15,R,Z
   15,R,D,X
    6,R,J
-  11,R,D,C
+  11,R,D,X
    1,R,J
-   9,D
-   8,R,D,X
-   3,L,J
-   1,L,K,G
-   1
-   9,L
-   3,L,D,J
-   3,L,K,G
+   9
+   9,R,D,X
+   1,L,J
+   1,L
+   2,L,K
+   1,L,J,G
+   3
+   7,L
+   1,L,J
+   6,L,U,Z
+   2,L,J,G
    7,L
    1,L,J
    2,L
-   1,L,J,G
+   1,L,K,G
    3,L
    1,R
    1,J,G
   15,L,D,X
-   1,L,D,J
-   3,L
-   1
+   1,L,J
+   4,L
   43
 
 #lvl_6
-  10,L
-   5,L,K
-   5,L
+   4,L
    1,L,K
+   5,L
+   4,L,J
    6,L
-  14,L,U,X
-   3,L,K,G
-   5,L
    1,L,K
-  15,L,D
-  10,R,D
-  11,L,D,X
-   1,L,J
    3,L
-  12,L,D,X
+   1,L,K
+  14,L,U,X
+   2,L,J,G
+  18,L
+   2,L,D
+   3,R,D
+   9,L,D
+   1,D
+   1,L,D
+   6,L,Z
    1,L,J
    7,L
+   1,L,J
+   7,L,D,X
+   1,L,J
+   3,L
+   1,L,K
+   3,L
    6,L,D,J
-  16,U,X
- 135
+  15,U,X
+ 136
 
-ChapterTime: 0:50.762(2986)
+ChapterTime: 0:49.912(2936)
