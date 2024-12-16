@@ -1,4 +1,4 @@
-RecordCount: 10087
+RecordCount: 10192
 
 console load StrawberryJam2021/5-Grandmaster/Linj
    1
@@ -123,15 +123,17 @@ console load StrawberryJam2021/5-Grandmaster/Linj
    4,R,U,C
    1,R
   12,R,X
-   4,R,D,C
-   4,R,J
-  12,R,K
-   5,R
-   6,R,K
-  79
-  14,D
-   4
-   2,R,D
+   4,R,U,C
+   4,R,D,X
+  11,R,D,C
+   4,R,D,J,X
+   8,J
+  63
+  31,D
+   5
+   1,D
+   1,R
+   1,R,D
   40
 
 #lvl_Ultimatum
@@ -159,8 +161,7 @@ console load StrawberryJam2021/5-Grandmaster/Linj
 
 #lvl_Weaver
   12,R
-   4,R,U,J,C
-   4,R,J
+   8,R,U,J,C
    1,R,K
   14,R,D,X
    1,R,J,G
@@ -208,4 +209,4 @@ console load StrawberryJam2021/5-Grandmaster/Linj
   11,D,X
  135
 
-ChapterTime: 0:26.826(1578)
+ChapterTime: 0:26.775(1575)
