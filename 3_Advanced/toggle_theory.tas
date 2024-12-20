@@ -1,4 +1,4 @@
-RecordCount: 4458
+RecordCount: 5024
 
 console load StrawberryJam2021/3-Advanced/Citrea
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/3-Advanced/Citrea
  190
 
 #spinner
-   0
+   1
 
 #lvl_intro
   15,D,X
@@ -38,7 +38,8 @@ console load StrawberryJam2021/3-Advanced/Citrea
   16,U,Z
   15,R,J
   10,R
-  15,U,Z
+  14,U,Z
+   1,L
    1,R,J
    1,L,K,G
    4,R,K
@@ -58,78 +59,81 @@ console load StrawberryJam2021/3-Advanced/Citrea
    4,R,D
    5,R,J
   15,R
-   5
-  40
+  45
 
 #lvl_a-2
   10,R,Z
    1,R,J
-   4,R
+   3,R
+  10,R,J
+  10,R,X
    4,R,J
-   6,R
-   7,R,Z
-   1,R,J
-   4,R
-   9,J
-  13,R,Z
-   1,L,J
-   3,L
-   1,L,J
-   1,J
-  11,L,J
-   6,L
+   2,R
+  14,R,X
+  22,L,J
   15,L,X
-   1,L
-  10,L,J
-   8,L
-  14,L,U,Z
+  18,L,J
+  15,L,U,X
    7
-   3,L
-   4,D,X
-  11,R,J
-  16,R
-   5,R,D,J
-  40
+   2,L
+   4,Z
+  33,R,J
+  40,J
 
 #lvl_a-3
-#still probably so much timesave here
-   1,R,J
-  13,R
-  15,R,U,X
-  19,R
+   8,R,J
+   2,J
+   1,K
+   1,R,K
+  11,K
+   1,R,K
+   2,J,G
+   8,R,J
+   1,J
+   2,R,J
+  18,R,D,X
+   1,R
   14,R,D,X
-  30,R,J
-  17,R,X
-   6,R
+   8,R,J
+  11,R
+  18,R,X
+   3
   15,L,D,X
-   9,L,D
+   5,L,D
+   4,L
+   1,L,D
   14,L,Z
-  11,L,J
-   5,L
-   1,L,J
-  24,L,D
+  10,L,J
+   1,L
+   2,L,J
+  25,L,D
+   1,L
+   1,L,D
+   1,L
    6,L,Z
    1,R,J
-  12,R,D
-  18,R,D,J
-   2,R
-  11,U,X
+  11,R,D
+  11,R,J
+   1,R
+   2,R,J
+   3,J
+   1,R,J
+   3,J
+  12,U,X
    6,R,J
-   2,R
+   1,J
    1,R,K,G
-   1,R,J,G
-   9,R
-   9,R,U,Z
+  11,R,J,G
+   3,R
   40
 
 #lvl_a-4
-   5,R
-   1,R,J
+   5,R,J
   14,U,X
   15,R,J
    8,R
-   1,R,J
-  21,R
+   9,R,J
+  13,R
   12,R,D,X
    3,R,J
    6,R,D,X
@@ -279,4 +283,4 @@ EndStunPause
   11,U,X
  135,D
 
-ChapterTime: 0:37.247(2191)
+ChapterTime: 0:37.043(2179)
