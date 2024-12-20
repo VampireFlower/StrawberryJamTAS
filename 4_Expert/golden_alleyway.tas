@@ -1,4 +1,4 @@
-RecordCount: 10832
+RecordCount: 11321
 
 console load StrawberryJam2021/4-Expert/RedBoule
    1
@@ -52,18 +52,18 @@ EndRepeat
    1,R,J
   11,R,D,X
    1,R,J
-   1
-  40
+  41
 
 #lvl_a_02
    1
    6,R,D,X
    1,R,J
    3,R
-   1,R,K
+   1,R,J
    3,R
    3,R,J
    5,R,D,X
+
    2,R,J,G
   13,R
    1,R,D,J
@@ -191,23 +191,39 @@ EndRepeat
    1,R,J
    4,R
   16,R,J
-  14,U,X
-  27,J
-  16,L
-   2
+  18,U,X
+  19,J
+   7,L,J
    1,L
-  17,U,G
-  13,G
-   1,U,G
-   1,L,K,G
-   1,J
-  10,K,G
+   2,L,J
+   1,L
+   2,L,J
+   2
+   2,L
+   1
+   2,L
+   1,L,J
+   2,L
+   8
+   1,L
+   8,R,D
+   1,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
    1,R
-  25,R,D
-   8,D,G
-   1,R,D
+   1,R,J,G
+   5,R
+   4
+   3,R,D
+   1,J
+   5
+   2,J
+   1
+  25,L,D
+   9,R,D
    1,D
-  10,R,D
+   4,R,D
    8,R,Z
    2,R,J,G
    5,R
@@ -420,8 +436,7 @@ EndRepeat
   14,R,D,X
    2,R,J,G
    1,R
-   3
-  40
+  43
 
 #lvl_b_01
    1
@@ -777,8 +792,7 @@ EndStunPause
    1,J
    1
    1,G
-   5
-  40
+  45
 
 #lvl_b_05
    2,R,J
@@ -802,4 +816,4 @@ EndStunPause
    1,R,K
   50,R
 
-ChapterTime: 1:27.193(5129)
+ChapterTime: 1:27.091(5123)
