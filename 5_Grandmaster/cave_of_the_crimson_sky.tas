@@ -1,4 +1,4 @@
-RecordCount: 3193
+RecordCount: 3333
 
 console load StrawberryJam2021/5-Grandmaster/RedBatNick
    1
@@ -7,6 +7,9 @@ console load StrawberryJam2021/5-Grandmaster/RedBatNick
  190
 
 #lvl_cotcs-0
+#Spinner Cycle
+   0
+#
    4,R,Z
    1,R,J
    3,R
@@ -142,9 +145,6 @@ console load StrawberryJam2021/5-Grandmaster/RedBatNick
   46,R,J,G
   15,R,U,X
    7,R
-#Spinner Cycle
-   1
-#
   18,L,U,X
    5,R,C
    5,R,J
@@ -248,20 +248,21 @@ console load StrawberryJam2021/5-Grandmaster/RedBatNick
   25,L
   10,L,D
   11,L
-  24,R,D
-   1,L,D
-   1,R,D
-  16,L,D
-  11,R,D
+  21,R,D
+  15,R,Z
+  13,R
+   1,L,J
+  37,L,D
+  15,R,D
 stunpause
-  10,R,D
+   9,R,D
   15,L,D
-   6,D
+   9,D
 endstunpause
-   7,L,D
+   8,L,D
   10,D
    3,L,D
-  37,D
+  36,D
   40
 
 #lvl_cotcs-5
@@ -270,21 +271,20 @@ endstunpause
   15,R,Z
    1
   15,U,X
-  16,R
+  28,R,D
+   1,D
   15,R,Z
+   6,R
+   3,L
    1,R
-   2
-   9,J
-  16,R,K
-  15,L,C
-  34,R,D
-  15,R,Z
-  19,R
-  18,L,X
-  15,R,C
-  13,R
-  15,R,U,Z
-   4,R
+  13,L,D
+   1,L,J
+   3,L
+   4
+  15,R,X
+   9,R
+#upright a frame earlier if gem is grabbed on rightmost ~0.03 px
+  13,R,U,Z
   15,U,C
    4,R
   15,R,D,X
@@ -310,25 +310,26 @@ endstunpause
 #lvl_cotcs-6
    6,L,D,X
    1,R,J
-   7,R
-   3,R,J
+   3,R
+   1,R,K
+   3,R
+   1,R,J
+   2,R
   15,R,D,X
-   7,R,J
-   3,R
-   2
-  12,R,D,X
-   1,R,J,G
-  11,R
-   2,R,J
-   3,R
-   4,R,J,G
-   1,K,G
-   7,K
-   7
+   8,R,K
+   5,R
+  11,R,D,X
+   7,R,J,G
+   5,R
    4,R,J
-  11,R,K,G
+   1,R
+   3
+   7,R,K
+   7,R
+   4,R,J
+  10,R,K,G
    6,R,J,G
-  15,U,X
+  16,U,X
  135,D
 
-ChapterTime: 0:51.119(3007)
+ChapterTime: 0:50.609(2977)
