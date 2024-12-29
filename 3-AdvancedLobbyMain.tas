@@ -116,13 +116,12 @@ Read,3_Advanced/tectonic_trenches,Start
    1,O
   32
 
-Read,3_Advanced_Lobby/adv_18-19,Start
-Read,EnterLevel,Start
+Read,3_Advanced_Lobby/adv_18-19warpTo20,Start
 Read,3_Advanced/rightside-down_cavern,Start
    1,O
   32
 
-Read,3_Advanced_Lobby/adv_19-20,Start
+Read,3_Advanced_Lobby/adv_19-20fromwarp,Start
 Read,EnterLevel,Start
 Read,3_Advanced/the_lab,Start
    1,O
@@ -164,4 +163,4 @@ Read,3_Advanced/advanced_heartside,Start
   61
    1,O
 
-FileTime: 34:52.666(123098)
+FileTime: 34:51.221(123013)
