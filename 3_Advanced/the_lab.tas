@@ -1,4 +1,4 @@
-RecordCount: 8577
+RecordCount: 8778
 
 console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1
@@ -77,11 +77,11 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
 
 #lvl_start-04-Radley (0)
    4,R,J
-   5,R
-  15,D,X
-   9,D
-   3,L,D
-  10,R,Z
+   4,R
+   6,R,D
+  16,L,D
+   2,D
+  10,R,D,X
    1,R,J
   20,R,D
   12,R,U,Z
@@ -755,4 +755,4 @@ EndRepeat
    1,R,K,G
   32,R
 
-ChapterTime: 1:27.618(5154)
+ChapterTime: 1:27.601(5153)
