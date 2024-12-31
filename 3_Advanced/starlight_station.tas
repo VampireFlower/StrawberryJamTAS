@@ -1,4 +1,4 @@
-RecordCount: 13761
+RecordCount: 13899
 
 console load StrawberryJam2021/3-Advanced/Jolly
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/3-Advanced/Jolly
   76
 
 #Spinner Cycle [b2]
-   0
+   1
 
 #lvl_a0
    1,L
@@ -209,26 +209,24 @@ console load StrawberryJam2021/3-Advanced/Jolly
    5,D,G
    1
    3,L
-  22,R,D
-   5,R
-   3
-   1,R
    6
-#0.024 precise x pixel
+   3,D
+  19,R,D
+   5,R
+   2
+   1,L,J,G
+   1
+   1,L
+   1,R
    2,L
+   9
+   1,G
    1
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   6,L,G
-   3,U,G
-   2,R
-   1,L
+   1,G
+   2
+   1,G
    1
-   7,G
+   9,G
   20,U,G
    4,G
    1,L,J,G
@@ -237,12 +235,8 @@ console load StrawberryJam2021/3-Advanced/Jolly
   18,R,D,X
    3,R,D
    2,R
-   1
-StunPause
-   1
-SkipInput 3 1
+   2
   10,R,U,Z
-EndStunPause
    4,R,U,Z
    6,J,G
    3
@@ -744,4 +738,4 @@ EndStunPause
    2,U,X
   39,L,J
 
-ChapterTime: 1:23.844(4932)
+ChapterTime: 1:23.113(4889)
