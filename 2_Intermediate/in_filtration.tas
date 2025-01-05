@@ -158,14 +158,14 @@ EndRepeat
    1
    1,R,J,G
    1,R,K,G
-StunPause 
+StunPause
    1,R,J,G
    1,R
 EndStunPause
    1,R,K,G
    1,R,J,G
    1,R
-StunPause 
+StunPause
 SkipInput 3 1
    9,R,D,X
 EndStunPause

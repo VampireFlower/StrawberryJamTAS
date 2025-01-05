@@ -175,7 +175,7 @@ console load StrawberryJam2021/4-Expert/QuantumSpaceman
   16,R,D
    3
   26,D
-StunPause 
+StunPause
    6,R,D
 EndStunPause
   10,R,D
@@ -427,7 +427,7 @@ EndStunPause
   14,R,J,G
   12,R,K,G
    4,R,G
-StunPause 
+StunPause
    5,R,G
   10,R,K,G
    1,R,U,G

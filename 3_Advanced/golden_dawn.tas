@@ -64,17 +64,17 @@ console load StrawberryJam2021/3-Advanced/Maladroit
    4,R
    7,R,D,J
    5,R,D,X
-StunPause 
+StunPause
    6,R,D,X
 EndStunPause
    1,R,D,X
-StunPause 
+StunPause
    2,R,D,X
 EndStunPause
    1,R,D,X
    1,L,J
    2,R,J
-StunPause 
+StunPause
 SkipInput 3 1
    5,R,U,Z
 EndStunPause

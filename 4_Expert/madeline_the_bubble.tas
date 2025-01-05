@@ -398,7 +398,7 @@ console load StrawberryJam2021/4-Expert/Vina
    2
    1,R
    4,L
-StunPause 
+StunPause
    4,L
 EndStunPause
    2,L
@@ -428,7 +428,7 @@ EndStunPause
   69,O
 ### pufferfish cycle
    1
-### 
+###
   14,L,Z
   14,L,J
    4,L
