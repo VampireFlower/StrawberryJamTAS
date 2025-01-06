@@ -6,7 +6,7 @@
 #- intermission rooms
 #- reduce stun pauses
 
-RecordCount: 5913
+RecordCount: 6052
 
 console load StrawberryJam2021/5-Grandmaster/Hydro
    1
@@ -228,19 +228,25 @@ console load StrawberryJam2021/5-Grandmaster/Hydro
    1,R
    9,R,U,X
    1,R,J,G
-   2,R,J
-   3,R
-  15
+   1,K,G
+   4,R
+  14
   40
 
 #lvl_B1
-   6
-  10,R,D,X
+   7
+   8,R,D,X
    1,R,J
-   7,R
-   8,R,J
-  17,J
-   4,R,J
+   3
+   2,R,K
+   2,R
+   1
+  12,R,J
+   2,R
+   1
+   2,R
+   4
+   8,J
    1,K
    5,R,J,G
    1,L,J
@@ -250,7 +256,7 @@ console load StrawberryJam2021/5-Grandmaster/Hydro
    6,R
   16,R,J
    6,J
-  37,R,G
+  29,G
    6,J,G
    1,L,J
   14,R,K,G
@@ -260,40 +266,39 @@ console load StrawberryJam2021/5-Grandmaster/Hydro
    2,J,G
    1,R,J
    1,K
-  12,R,K
-  11,U,Z
-  10,R,J
-# 2/3 stun, works on 2 spinner cycles
+  10,R,K
+  14,U,Z
+   7,R,J
+   2,J
 StunPause
-   6,R,J
+   2,J
 EndStunPause
-   1,R
+   1,R,J
   40
 
 #lvl_B2
-# can probably add another wait dash here
    1,S,N
    1,D,J
   69,O
-# cycle wait
-   9
-#
    1,R,J
-   6,R
-   4
+  10,R
    7,L,D,X
    3,L,J
-   3,L
-   5
+   8,L
    1,L,N
    1,R,J
-  11,R
-  14,R,D,X
+   2
+  10,L,D,X
+   1,R,J
+   4,R
+  15,R,D,X
+   1
+   1,L,J
+  12,L,Z
    1,R,J
    2,R
    3,R,K
-   4,R
-   1,R,D
+   5,R,D
   20,R
    2,D
   11,R,D,J
@@ -464,4 +469,4 @@ Repeat 45
    1,L,D
 EndRepeat
 
-ChapterTime: 0:56.678(3334)
+ChapterTime: 0:56.185(3305)
