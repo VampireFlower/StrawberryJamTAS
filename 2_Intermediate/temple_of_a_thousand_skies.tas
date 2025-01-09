@@ -1,10 +1,13 @@
-RecordCount: 6756
+RecordCount: 9366
 
 console load StrawberryJam2021/2-Intermediate/Ice
    1
 
 #Start
  190
+
+#Spinner cycle [b-07]
+   0
 
 #lvl_a-01
    4,R,Z
@@ -22,7 +25,8 @@ console load StrawberryJam2021/2-Intermediate/Ice
    9,R
   14,R,Z
    1,R,J
-  19,R,D,X
+  15,R,D,X
+   4,R,D
    4,R,J
    3,R
   40
@@ -38,8 +42,9 @@ console load StrawberryJam2021/2-Intermediate/Ice
   40
 
 #lvl_a-03
-  14,L,N
-  22,R,J
+  14,L
+  15,R,J
+   7,R
   15,R,Z
    8,R
   52,U,X
@@ -50,125 +55,153 @@ console load StrawberryJam2021/2-Intermediate/Ice
   14,J
   15,L,X
    4,L
-   1
-   1,L
-   8
+  10
    6,D
   10,R,D,X
    1,L,J
-   1
-   5,L
-   1,L,J
-  18,L,D
-   3,L
-   1,L,D
+   4,L
+   1,L,K
+  10,L
+  12,L,D
    9,L
+   1
   15,U,Z
    5,L
    5,J
-  20,L,J
+  10,L,J
+   8,L
+   2,L,K
   13,L
-   1,L,J
-  28,L,D
+   1,J
+  18,L
+  10,L,D
    2,L,J
   15,L,X
    2,L
    1,R,J
-  18,R,U,G
-   1,R
+  16,R,U,G
+   3,R
    9,U,X
-   8,L,J
+   8,J
   40
 
 #lvl_a-04
-   8,L,J
-   1,J
-   2,L,J
+   7,L
+   2
+   2,L
    9,U,X
    6,R,J
   11,R
-   5,R,Z
+   6,R,Z
    1,R,J
-   6,R
+   7,R
    1,R,J
    1,R
-   1,R,J
-   2,R
   15,R,Z
-   6,R
-   4,R,Z
-   1,R,J
-   1,R
-   4,R,J
    5,R
    4,R,Z
+   2,R,J
+   3,R
+   1,R,K
+   1,R
+   1,R,K
+   3,R
+   5,R,Z
    1,R,J
    6,R
    9,R,D,J
    5,R
-   4,R,K
-  12,R,D,X
+   3,R,K
+   1,R
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   3,R,J
+  13,R,D,X
    1,R,J
    7,R
+   2,R,J
+  12,R,D,X
    1,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   5,R,J
-  13,R,D,X
-  93
-  12,L
+   2
+   1,R
+   1,R,K
+   3,R
+   3,R,J
+   1,R,K,G
+   2,R
+   4,Z
    1,L,J
-   4,L,K,G
-   6,U,X
+   1,J
+   4
+   4,R,J
+  15
+  10,R,U,G
+   2,G
+   1,U,G
+   5,R,X
+   9,J
+  12,K
+   4,R
+  14
+   1,R
+   1
+   7,L
+   1,L,J
+   1,L,K,G
+   6,L,J,G
+   5,U,X
   40
 
 #lvl_b-01 (0)
-   3
+   2
+   1,L
    1,R,J
-   2,J
-   6,R,J
    1,J
-  26,R,J
-   1,K
-   4,R,K
+   1,R,J
    1,J
-   1,K
-   6,R,K
-   1,L,K
-   1,J,G
-   5,R,J
-   5,R
+  11,R,J
+  16,R
+   1
    1,R,K
+   2,L,K
+   1,J
+   1,K,G
+   3,R
+   1,L
+   1,K
+   2,J,G
+   6,R,J
+   1,K
+   1,R,K
+   1,K
+   2,R,K
+   1,K
    1,R
+   6,R,K
    1,J
-   4,R,J
+   3,R,J
+   1,J
    1,L,K,G
-   2,L,J,G
-   1,R,J
-   1,J
-   1,R,J
-   1,J
-   1,R,J
-   1,J
+   1,L,J,G
    1,R,J
    1,J
    2,R,J
    1,L,J
    1,K,G
    1,R,K
-   6,L,J,G
-  16,L,U,X
-   1
-  15,U,C
+  12,L,J,G
+  15,L,U,X
+   2,L
+  15,U,X
   17,R
    8
    6,J,G
@@ -176,33 +209,42 @@ console load StrawberryJam2021/2-Intermediate/Ice
    2,R
    1
   15,R,Z
-  18,R,D
+  18,R
    4,Z
    1,R,J
    3,R
    1,R,K,G
-   9,R
+   1,R
+   1
+   7,R
    1,R,J
    2,R
   10,R,D,X
-   1,R,K,G
-  12,R
+   1,R,J,G
+   9,R
+   1,R,K
+   2,R
   40
 
 #lvl_b-02 (0)
    3,R,J
   15,R,D,X
-  17,R,J
+  12,R,J
+   5,R
   36,R,X
    4,R,J
    8,R,K
-  19,R,D,X
-   4,R,J
-   6,R,D,X
-   2,R,J,G
-   6,R
-   2,R,K
-   5,R
+  15,R,D,X
+   4,R,D
+   1,R,J
+   4,R
+   5,R,D,X
+   1,R,J,G
+   1,R
+   1
+   4,R
+   3,R,K
+   4,R
    1,R,J
    5,R,D,X
    3,R,J,G
@@ -215,11 +257,12 @@ console load StrawberryJam2021/2-Intermediate/Ice
    2,R,J
    5,R,K,G
    5,R,J,G
-   6,R,U,X
+   5,R,U,X
   40
 
 #lvl_b-04
-  10,R,K
+  10,R,U,X
+   1,R
   37,U,X
    6,R,D,C
    1,R,J
@@ -231,28 +274,32 @@ console load StrawberryJam2021/2-Intermediate/Ice
    4,R,J
   59,U,C
    6
-   3,R
+   2,R
+   1
   66,D,X
-  26,L,U,C
+  22,L,U,C
+   4,L,J
    7,L,Z
   10,L,J
    7,L
    1,L,J
   14,L,D,X
    1,L,J
-  36,D,X
-   4,L,D
+   4,X
+  33,D,X
+   2,L
   13,L,D,X
    1,L,J
    4,L
   40
 
 #lvl_b-02 (1)
-  11,L,D
+  11,L
   47,D,X
-  42,D,C
-   3,R,D
-  14,R,D,X
+  15,D,C
+  28
+   2,R
+  13,R,D,X
    1,R,J
    5,R
   40
@@ -260,29 +307,32 @@ console load StrawberryJam2021/2-Intermediate/Ice
 #lvl_b-03
    1,R
    1,R,J
-  23,R,D
+  18,R
+   5,R,D
   15,L,D,X
   26,L,D
-  19,R,D
-   2,R
+   9,D
+  12,R,D
    9,R,J
   15,R,X
    3,R
-  10,R,Z
-   4,R,J
-   6,R
-   1,R,K
-  13,R,D
+  11,R,Z
+   3,R,J
+  16,R
+   4,R,D
   15,L,D,X
-  14,L,D
-  12,D
-   8,L,J
-  10,L,X
+  13,D
+   7,L,D
+   6,L
+   7,L,J
+  11,L,X
   15,L,C
   13,L
   15,L,X
    1,J
-  41,R,D
+  13
+   5,R
+  23,R,D
   13,R,Z
   15,R,U,X
   33,R,C
@@ -293,29 +343,30 @@ console load StrawberryJam2021/2-Intermediate/Ice
    1,R,D
    2,R
    1,R,D
-   4,R,Z
+   4,Z
    1,R,J
    6,R
   10,R,J
    5,R
-   2,R,J
+   2,R,K
    1,R
   14,R,Z
    1,R,J
    6,R
    6,R,J
-  52,U,X
-  12,R
+  55,U,X
+   9,R
   15,L,D,X
-   4,R,Z
+   4,Z
    1,R,J
    3,R
-   1,R,J
+   1,R,K
    3,R
-  17,R,D,J
+  12,R,D,J
+   5,R
    1,L,K,G
-  16,R,K
-   1,R
+  11,R,K
+   6,R
    1,K
    1,R
   15,U,X
@@ -327,50 +378,56 @@ console load StrawberryJam2021/2-Intermediate/Ice
    2
    1,K
    5,L
-  20,L,K
-  11,L
+  10,L,K
+  21,L
    5,J
-   9,L,J
+   7,L,J
+   2,L
   15,L,U,Z
    1,J
    7,R,D,X
    2,J,G
-  13,R
-   4,R,Z
+   9,R
+   1,R,K
+   3,R
+   4,Z
    1,L,J
-   1,L
+   2,L
+   2,K
    1
-   3,L
-   4,L,D,J
-   1,J
-   2
+   5,L,D,J
    1,L
-   4
+   5
   15,L,D,X
   10,L,D
    8,L,D,X
-  15,L,J
+   9,L,J
+   4,L
+   1,L,K
   15,L,U,Z
-   1,R
-   1,R,J,G
-   8,R,G
-  37,R,U,G
-   1,R,J,G
-   6,K
-  11,L,K
+   9
+   1,R,G
+   2,R,J,G
+   7
+   6,G
+  19,U,G
+   3,G
+   1,J,G
+   5,K
+   7,L,K
+   4,L
   10,L,D,X
    5,L,J
   14,L,D,X
    2,L,J
-   5,L
+   4,L
    1,L,K
-   3,L
+   4,L
    4
-   1,L,J,G
-   8,L,J
+   9,L,J,G
   15,L,D,X
   10,L
-   4,L,D,X
+   4,Z
    1,L,J
    4,L
    1,L,J
@@ -390,15 +447,16 @@ console load StrawberryJam2021/2-Intermediate/Ice
    3,L,J
    5,L,D,X
    1,L,J,G
-  11,L
-   1,L,J
-   2,L
-   1
+  10,L
+   1,L,D
+   1,L,D,J
+   3,L
    5,L,D,X
    1,L,J,G
-   3,L
-   1
-   8,L
+   3
+   2,L
+   1,L,K
+   6,L
    1,L,J
    5,L,D,X
    2,L,J,G
@@ -407,7 +465,7 @@ console load StrawberryJam2021/2-Intermediate/Ice
    3,L
    7,L,J
   15,L,D,X
-  13,L,D,C
+  12,L,D,C
   27,L
    4,L,J
    9,L,D,X
@@ -420,84 +478,93 @@ console load StrawberryJam2021/2-Intermediate/Ice
    3,L
    6,L,D,X
    4,L,J,G
-   3,L,K,G
+   4,L,K,G
    5,L
-   1,L,K
-   1,L
   40
 
 #lvl_b-01 (1)
+   7,L
+   5,L,J
    5,L
-   7,L,J
-  14,L,D
-  19,D
-  27,L,D
-   6,L,D,X
+   2,L,K
+  10,L
+   2
+  22,D
+  20,L,D
+   4,Z
    1,L,J
-   9,L,D
-   6,D
-  17,L,D,J
+   2,L
+   2,L,K
+   6,L
+   6
+  12,L,D,J
+   5,L
+   1,R
+   4,J,G
+   1,L,J
    1,R,J
-   3,K,G
-   1,L,K
+   4,K,G
+   4,L,K
    1,R,K
-   1,K
    1,J,G
-   6,L,J
-   1,R,J
+   2,L,J
+   1,R
    1,K,G
-   3,L,K
-   1,R,K
-   1,J,G
-   1
-   2,K
-   3,L,K
+   5,L
+   1,L,K
    1,R
    1,J,G
    1,L
-   4,R
-   3,R,K
+   4
+   3,K
    1,R,J,G
    1,L,J
-   1,R,J
+   1,J
    1,L,J
-   1,R,J
+   1,J
    1,L,J
+   1,J
+   1,L,J
+   1,J
+   2,L,J
    1,R,J
-   3,L,J
-   1,R,J
-   2,K,G
+   1,K,G
    1,L,K
   15,R,U,X
-  47,R,U,G
+   9,R
+   6,G
+  32,U,G
    5,J,G
    1,R,J
    2,J
    1,R,J
    2,J
    1,R,J
-   5,J
-   1,R,J
-   2,L,J
-   2,R,G
-  24,R,U,G
-   5,R,J,G
-   6,L,J
+   5
    1,R
-   5,L
-   4
+   2,L,K
+   1,R,K
+   6,G
+  16,U,G
+   8,J,G
+   1,L,J
+   5,R,K,G
+   3,L
+   3,L,K
+   3,K
+   1
    1,L
-   1,J
-   3,L,J
-  13,L,X
+   4,L,D,J
+  12,L,X
   15,L,C
   15,L,X
-  25,L,D
+  14,L
+  11,L,D
    2,L
    2,L,D
    1,L
    1,L,D
-   4,L,Z
+   4,Z
    1,L,J
    6,L
    7,L,J
@@ -505,136 +572,177 @@ console load StrawberryJam2021/2-Intermediate/Ice
 
 #lvl_b-05 (0)
   15,L,D,X
-   3,L,J
-   3,L
-   1
-  16,L,D,X
-   1,L
-   5,L,D
-  16,L,D,X
+   5,L,D,J
+   2,L
+  15,L,D,X
+   7,L,D
+  15,L,D,X
   27,L
    4,L,J
    1,L,K
-  25,L,D,X
-   2,L,D,J
-   4,L
-  14,L,U,X
+  15,L,D,X
+   9,L,D
+   3,L,J
+   6,L
+  12,L,U,X
    1,L,J,G
-  10,L
+   1,L
+   1
+   7,L
+   3,L,J
+   4,J
    1,L,J
-   9,J
+   2,J
   15,L,U,X
-   9,R
-   5,R,J
+   9
+   4,R,J
+   1,R
   14,U,X
    8,L,J
    3,R,J
    2,J
-   1,R,J
-   1,L,K,G
+   1,R
    1,L,J,G
    1,L,K,G
-  10,L
-#spinner cycle (2/3)
-   0
-#
+   1,L,J,G
+   1,L
+   1
+   6,L
+   1,L,K
    8,L,J
   38,U,X
   40
 
 #lvl_b-07
-  12
+  11,U,X
+   1
    1,R
    1
   10,L,D,X
-   3,J
+   1,L,J
+   2,J
    3,L,K,G
    1,K
    2,L,K
    1,L,J,G
   12,L,K,G
   15,L,D,X
-   5,L,K
+   5,L,J
   11,L
   15,L,X
    8,L
-  11
-  20,J
+  12
    1,L,J
-   2,R,J
-   2,L,G
-  12,L,J,G
-   7,L
-   7,L,U,G
+   6,R,J
+   1,L,J
    1,R,J
-  12,R,K
-  16,R
+   1,L,J
    1,R,J
-  19,R,D
+   1,L,J
+   4,R
+   4,L
+   1,R,K
+   1,L
+   1,G
+  10,J,G
+   7
+   6,G
+   1,L,J,G
+   2,J
+   1,K
+   2,J,G
+  10,R,J
+  25,R
+   1,R,D
   15,R,X
-  23,R,D
+  14,R
+   7,R,D
+   3,R
+   8,D
   14,R,Z
-  45,R,J
+  12,R,J
+   6,R
+   9,R,K
+  18,R
   14,R,X
   10,R,J
   15,R
-  28,R,G
-   1,D,G
    1,G
-   1,D,G
+   3
    1,G
-   1,D,G
+   1
+   1,R
    1,G
-   1,J
-   1,L,J
-   1,L
-   1,K
-   6,U,X
-  13,L,J
+   1
+   1,R
+  18,G
+   1,U,G
+   1,G
+   4,U,G
+   2,G
+   2,L,J
+   5,U,X
+  14,L,J
 StunPause
-  15,L,J
-   2,J
-   1,K
-   3,R,K
+   1,L,J
+  13,L
+   2
+   1,J
+   3,R,J
 EndStunPause
-   1,R,K
-  17,L,K
-   1,L,G
-  13,L,J,G
-  13,L,K,G
-  13,L,J,G
-  13,L,K,G
    1,R,J
-  12,R,K
-   4,J
-   9,K
-   7,R
-   4,R,Z
+   7,J
+   3
+   2,L
+   5,L,K
+   1,G
+  11,J,G
+   1,R,J
+   1,L,K,G
+  12,L,J,G
+  12,K,G
+   9,J,G
+   1,L,J
+   1,R,J
+   1,L,J
+   5,L,K,G
+   5,R,K
+   1,J
+   4,R,J
+   5,K
+   5,J
+   4,R,J
+   2,R
+   1
+   4,R
+   4,Z
    1,R,J
    7,R
    3,R,J
   10,U,X
-   1,S
+   1,S,N
    1,D,J
   69,O
-#spinner cycle
-   1
+#Spinner cycle [b-06]
+   0
 #
-   4,R,Z
+   4,Z
    1,R,J
-   8,D
-   7,R,D
+   8
+   7,R
   19,D,X
   40
 
 #lvl_b-05 (1)
-  26,R,D
-  40,R,D,X
+  24,D
+   2,R
+  15,R,D,X
+  25,R,D
   30,L,D
   14,L,D,X
    1,L,J
    2,L
-  39,D,C
+  39,D,X
   40
 
 #lvl_b-06
@@ -643,7 +751,7 @@ EndStunPause
    1,R,D
    2,D
    4,R,D
-   4,L,Z
+   4,Z
    1,L,J
    7,L
    7,L,J
@@ -653,52 +761,63 @@ EndStunPause
    1
    7,L,D,X
 StunPause
-   9,L,D
-  16,D
+   8,L,D,X
+   1,L,D
+  17,D
 EndStunPause
-   5,D
+   4,D
   14,L,D
   12,D
-   1,S
+   1,S,N
    1,D,J
   69,O
-   4,R,Z
+   4,Z
    1,R,J
    7,R
    7,R,J
-  14,R,D
-   8,L,D
+  12,R
+   1,R,D
+   1
+   4,L
+   4,L,D
    3,D
    1,L,D
-   1,D
+   1
   13,U,X
    3,R,J
-  16,L,J
-   1,L,K
-   9,L,J
+  12,J
+   2
+   2,L
+   1,K
+   1,J
+   8,L,J
   25,U,X
   40
 
 #lvl_b-05 (2)
-  27,U,X
-   2,R
+  27,U
+   2
   10,R,X
-   6,J
+   4,R,J
+   2,J
   14,U,X
-   9,J
-   3
-   1,R,J,G
+  10,J
+   1
+   1,R
+   1,R,K,G
+   2,R
+   1
+   4,R
+   6,R,Z
+   1,R,J
    7,R
-   4,R,Z
-   2,R,J
-   8,R
    1,R,J
   14,R,D,X
    1,R,J
   15,R,D,X
+   4,R,D
+   4,R,J
    4,R
-   4,R,K
-   5,R
   14,R,U,X
    1,R,J,G
    1,L
@@ -706,31 +825,42 @@ EndStunPause
   33,R,X
    4,R,J
    1,R,K
-   6,R
+   5,R
+   1,R,K
   14,R,Z
    5,R,J
   14,R,U,X
    2,R,J,G
-  11,R
+   1
+  10,R
    1,R,J
   14,R,D,X
    1,R,J
   40
 
 #lvl_b-01 (2)
-   3,R,J
-   5,R,K,G
-  10,R
-  12,R,J
-   9,R
+   2,R,J
+   1
+   1,R,J,G
+   3
+   2,R
+   1,R,J,G
+   1,R
+   1
+   6,R
+   1,R,K
+  10,R,J
+   5,R
    2,R,K
-   8,R
+  11,R
   15,D,X
   13,D
-  37,R,D
+   6,R,D
+   1,D
+  30,R,D
   10,R,Z
    1,R,J
-   6,R
+   7,R
    8,R,U,Z
   88,U,X
   40
@@ -742,36 +872,41 @@ EndStunPause
 
 #lvl_c-02
   69
-  14,L,U,X
-   1,L,J,G
-   5,L
-   1,L,K
-   6,L
-   6,L,K
-  15,U,Z
-   1,R,J,G
+   1,L
    2,L,J
-   7,R
-   2,R,J
-   1,J
-   1,R,K,G
-  16,R,J,G
+  12,L,U,X
+   1,L,J,G
+   1,L
+   1
+   7,L
+  10,L,J
   15,U,X
-  10,L
-   1,R,J
-  17,D,X
+   4,R,J,G
+   7,R
+   4,R,J
+   8,J
+   2
+  15,U,X
+  10
+   1,R,D,J
+  15,D,X
+   2,D
   15,D,C
-  26,R,J
+  12,R,J
+  13,R
+   1,R,K
   15,U,X
   10
    1,J
   21
-  21,R,J
+  12,R,J
+   9,R
   15,D,X
    1
    3,L,J
-  16,J
+   9,J
+   7
   15,U,X
  135
 
-ChapterTime: 1:55.226(6778)
+ChapterTime: 1:54.614(6742)
