@@ -1,4 +1,4 @@
-RecordCount: 24057
+RecordCount: 24059
 
 console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1
@@ -533,8 +533,8 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
   12,R,D
    3,R,J
    5,R
-   9,R,J
-   7,R
+   7,R,J
+   8,R
   11,L,K
   33,R,U,X
   14,R,D,C
@@ -543,7 +543,7 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
   15,R,X
   15,R,C
 #spinner cycle
-   1
+   2
 #
   27,R,X
   40
