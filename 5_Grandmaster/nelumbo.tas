@@ -1,4 +1,4 @@
-RecordCount: 6607
+RecordCount: 6923
 
 console load StrawberryJam2021/5-Grandmaster/tofu
    1
@@ -298,6 +298,9 @@ EndStunPause
    1,R,J,G
    1,L,J
    7,R
+#Spinner cycle [Zigzag]
+   1
+#
    7,R,Z
    1,R,J
    7,R
@@ -329,9 +332,8 @@ EndStunPause
   14,R,D,X
    1,L,J
   11,L,U,X
-  14,L,U,G
-   5,L,U,J,G
-   2,L,G
+  16,L,G
+   5,L,K,G
    1,D
   12,L
   12,L,J
@@ -360,33 +362,47 @@ EndStunPause
   15,D,C
   10,R,X
    5,L,J
-  18,L,U,X
-  18,D,C
-  10,L,X
-   1,R,K
-   2,R
-  13,R,D,J,X
-  14,R,U,J,G
-   3,R,K
-   6,R,D,X
-  13,R,G
+  12,L,U,X
+   1,L,J,G
+  10
+   1,L,D
+  10,R,D
+   2,D
    1,R,D
-  10,R,D,X
-  13,R,D,G
+  14,R,Z
+   1,L,J
+   7,L
+   9,L,D,X
    1,R,J
-   6,R,U,X
+   5,R,D,X
+   1,R,J,G
+   2,R
+   1
+   5,R
+   1,R,D
+   1,D,J
+   2,R,J
+   9,R,D,X
+  14,R,G
+   1,R
+   5,R,D,X
+  13,R,G
+   6,R,X
   13,R,G
    2,R,J
-   5,R,U,X
-  42,R,U,J,G
+  19,R,J,G
+StunPause
+   3,R,J,G
+   1,R,G
+EndStunPause
+  10,R,G
   40
 
 #lvl_Lotus
- 196,R,U,J,G
-   7,R,D,G
+ 115,R,U,J,G
    1,L
-   8,R,J
-  14,R,U,X
+  15,R,D,X
+   6,R
  135
 
-ChapterTime: 0:52.700(3100)
+ChapterTime: 0:51.493(3029)
