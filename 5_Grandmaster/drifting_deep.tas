@@ -1,11 +1,11 @@
-RecordCount: 14054
+RecordCount: 14058
 
 console load StrawberryJam2021/5-Grandmaster/xlibiza
    1
 
 #Start
 #Spinner Cycle
-   2
+   0
 #
 #lvl_a-00
    4,Z
@@ -203,30 +203,30 @@ AnalogMode Square
    1,L
   15,L,U,X
    5,L
+   1
+   1,L
+   8
    1,R
-  15
-   1,R
-   1,R,D
-   1,R
+   1
+   7,R
    5,R,X
   26
    1,R,U
-AnalogMode Precise
-  22,F,115
-   7,F,110
-  22,F,108.269
-   1,F,109.579
-  12,F,157.6
-   1,F,158.235
-  14,F,216.5
-   1,F,215
-  10,F,150
-  15,F,113
-   1,F,123.004
-  16,F,133.5
-   3,F,145,0.5
+  11,F,105
+  38,F,109.870
+   2,F,109.974
+   1,F,112.691
+  12,F,157.671
+   1,F,163.005
+  14,F,215.311
+   1,F,210.377
+  11,F,150
+  13,F,117.1
+   1,F,119.021
+  19,F,133.7
   14,R,Z
-   5,R,J
+   4,R,J
+   1,R
   12,R,D,X
    1,R,J,G
    1,R,K
@@ -270,6 +270,7 @@ AnalogMode Precise
   10,J
   26
    1,R,U
+AnalogMode Precise
   15,F,19.034
    1,F,19.307
   18,F,31.701
@@ -900,8 +901,6 @@ EndStunPause
   10,R,K
   12,R,Z
    7,R,J
-
-
   19,U,X
    8
    6,R
@@ -916,7 +915,6 @@ EndStunPause
    5
    8,D,X
    1,L,J
-
    9,L,D
   14,D,X
   12,D,C
@@ -1115,4 +1113,4 @@ AnalogMode Ignore
   14,R,U,X
  135,D
 
-ChapterTime: 2:34.751(9103)
+ChapterTime: 2:34.700(9100)
