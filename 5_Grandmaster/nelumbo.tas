@@ -1,4 +1,4 @@
-RecordCount: 7614
+RecordCount: 8088
 
 console load StrawberryJam2021/5-Grandmaster/tofu
    1
@@ -190,7 +190,7 @@ EndStunPause
    1,R,D
    9,R
   10,D,X
-#Spinner cycle [Rat Run] (2/3)
+#Spinner cycle [Rat Run]
    1
 #bad spot but works ig
    5,R,J
@@ -291,49 +291,54 @@ EndStunPause
   20,R,G
    1,G
    2,R
-  14,R,D,X
-  13,R,G
-   2,R,K
-  12,R,U,Z
-  12,R,J,G
-  14,R,U,X
-  33,R,U,K,G
-  14,R,U,X
-   1,R,J,G
-   1,L,J
-   7,R
-#Spinner cycle [Zigzag]
-   0
-#
-   7,R,Z
+   1,R,D
+  11,R,Z
+  17,R,G
+  13,R,U,Z
+   2,R,J,G
+   1,J
    1,R,J
-   7,R
+   9,J
    1,R,J
-  11,R,D,X
+   1,J
+   4,R,J
+  14,R,U,X
+  15,R,G
+   4,U,G
+   2,R,G
+   8,R,J
+   7,R,U,X
+StunPause
+   2,R,U,X
+EndStunPause
+   3,R,U,X
+   1,L,J,G
+   6,R,J
+  14,R
+   7,R,J
+   3,R
+   1
   40
 
 #lvl_Zigzag
-   3,R,D,X
-   1,R,J
-   3,R
-   1,R,K
-   3,R
-   1,R,J
-  15,R,D,X
-   3,R
-  10,R,D,J
   15,R,D,X
    1,R,J
-   5,R
-   9,R,U,Z
-   1,L,J,G
-   6,R,J
-  17,R
-  23,R,G
-   1,L
+  17,R,D,X
+   1,R,J
+   4,R
+   7,R,U,X
+   1,R,J,G
+   3,R,J
+  16,R
+  13,R,G
+   5,R,J,G
+   3,R,G
+   1,R,D
   15,R,D,X
-   1,L,D
   11,R,D
+#Spinner cylce [Zigzag]
+   0
+#
    5,L,D,X
    5
    5,L,J
@@ -406,4 +411,4 @@ EndStunPause
   14,R,U,X
  135
 
-ChapterTime: 0:50.388(2964)
+ChapterTime: 0:50.150(2950)
