@@ -1,4 +1,4 @@
-RecordCount: 8329
+RecordCount: 8966
 
 console load StrawberryJam2021/5-Grandmaster/tofu
    1
@@ -126,26 +126,29 @@ EndStunPause
 StunPause
    3,R,J
    2,J
-   1
+   1,R,J
 EndStunPause
-   2
+   3,J
   15,R,D,X
-   1,R,D
+   1,R
   40
 
 #lvl_Backstreet
   15,R,D,X
   15,D,C
-   5,L
-   1,J
+   1
+   1,L,J
+   3,L
+   5
+   2,K
+   2
    1,L
-   7
-   2,L,J
-   5,L
+   1
+   1,L
    7,L,Z
    1,R,J
    6,R
-   1,R,D,J
+   1,R,J
   15,R,D,X
    2,R
    1,R,J
@@ -153,68 +156,58 @@ EndStunPause
   15,R,D,X
    2,R
    1,R,J
-  16,R,U,X
-  13,G
-   6,R
-   5,R,D,X
-  13,G
-   4,R
-   1
-   4,R
-   2
-   1,D
-   1
-   2,D
-   1,L,J
-  19,R
-  15,R,D,J
-   7,U,X
-  21,R,G
-   1,R
-  17,L,U,X
+  15,R,U,X
+  13,R,G
+   9,R
+   4,R,K
+   3,R
    1,R,J
-   8,R,D,X
+  14,R,D,X
   14,R,G
-   1,R,J,G
-   6,R,G
+   9,R
+  10,R,D,J
+   4,R
+  15,U,X
+  15,L,C
+   1,J
+   2,R,J
+   5,R,D,X
+  14,R,G
+   9,R,K,G
    1,R,D
    7,R
-   1
-   1,R
-   2
-   1,R,D,J
-  10,R,X
-  14,G
-   2,J,G
-   5,R,G
-   1,R,D
-   9,R
-  10,D,X
-#Spinner cycle [Rat Run]
-   2
-#bad spot but works ig
-   5,R,J
-  17,R,U,X
-  13,G
-  15,R,D,J,X
    1,R,J
-   1,R,D,J
-  10,R,D,K
-   6,R
-   2,R,J
-   1,R
-  10,R,U,X
-   1,R,G
-  29,R,D,J
+   4
   10,R,X
-  22,R,U,J,G
-  15,R,D,X
-   8,R
-   1,R,J
-  15,R,D,X
-  10,R
+  21,G
+   1,D
   10
-  13,L
+   9,D,X
+#Spinner cycle [Rat Run]
+   0
+#bad spot but works ig
+   6,R,J
+  16,R,U,X
+  13,G
+  15,R,D,X
+   4,R,J
+   9,R
+   1,R,K
+   2,R
+  15,R,U,X
+  21,R,G
+   1,R,D
+   4,R
+   1,R,K
+   1,R
+  13,R,X
+  13,G
+   5,R,K
+  10,R,D,X
+   1,L,J,G
+   2,R,J
+  27,R
+  32,D
   14,L,Z
    1,R,J
   15,R,D,X
@@ -409,4 +402,4 @@ EndStunPause
   14,R,U,X
  135
 
-ChapterTime: 0:49.980(2940)
+ChapterTime: 0:49.521(2913)
