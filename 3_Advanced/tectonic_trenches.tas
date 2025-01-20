@@ -1,4 +1,4 @@
-RecordCount: 3459
+RecordCount: 3612
 
 console load StrawberryJam2021/3-Advanced/Julia
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/3-Advanced/Julia
   69
 
 #Spinner Cycle
-   0
+   2
 
 #lvl_a-01
    1,L,J
@@ -332,8 +332,10 @@ console load StrawberryJam2021/3-Advanced/Julia
    1,R,J
    1,L,J
   12,L,K,G
+   1,L
+   1
+   4
    2,L
-   6
    2,R,J
    2,R
   10,K
@@ -341,35 +343,21 @@ console load StrawberryJam2021/3-Advanced/Julia
    6,U,J,G
    2,L,U,J,G
    1,R,J
-   2,L,J
-   1,L
-   1,L,J
-   6,G
-### could save 1 pause with round error
-#   2,G
-#   2,R
-#   1,J
-#   5,R,J
-#   9,R
-#Invoke, Player.MoveH, 0.0416
-#   4,R
-#  10,R,Z
-#StunPause
-#   4,R,Z
-#   1,R,J
-#EndStunPause
-#   6,R,D,X
-#  99,R,G
-###
+   3,L,J
+   1,J
+   1
+   4,G
    2,R
    1,J
    5,R,J
-   7,R
-   2,R,J
-   5,R
-   8,R,Z
+   3
+   1,R
+   1
+   8,R
+   1
+  10,R,Z
 StunPause
-   6,R,Z
+   4,R,Z
    1,R,J
 EndStunPause
    6,R,D,X
@@ -397,4 +385,4 @@ EndStunPause
   14,R,X
  135
 
-ChapterTime: 0:50.422(2966)
+ChapterTime: 0:50.252(2956)
