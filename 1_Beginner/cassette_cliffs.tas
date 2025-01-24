@@ -1,4 +1,4 @@
-RecordCount: 5232
+RecordCount: 5681
 
 console load StrawberryJam2021/1-Beginner/Ceph
    1
@@ -151,7 +151,7 @@ console load StrawberryJam2021/1-Beginner/Ceph
   40
 
 #lvl_5
-   1,S
+   1,S,N
    1,D,J
   69,O
    5,R,Z
@@ -214,30 +214,44 @@ console load StrawberryJam2021/1-Beginner/Ceph
    1,J
    1,L,K,G
    5,J,G
-  15,R,D,X
-   1,D,J
-  10,R,K,G
+  14,R,D,X
+   1,R,N
+   1,J
+   1,R,J
+   1,J
+   1,R,J
+   1,J
+   3
    3,R
-  15,R,D,X
-   8,R
+   3
+   1,R,K
+  10,R
+   1,R,D
+  12,R,U,Z
   40
 
 #lvl_7 (0)
-   9,R
-   8,R,G
-   2,R,U,G
-  15,R,G
-   3,R,U,G
-  10,R,X
-  16,J
-  15,U,Z
-   1,R,J,G
    7,R
+  15,R,U,X
+   1,J,G
+   2,K
+  11,R,J,G
+   9,K
+   1,L,K
+   1,R,J,G
+   3,L,J
+   4,J
+   2,R,J
+   2,R
+   1,R,K,G
+   1,K
+   2,R
+   1
+   4,R
   10,R,X
-   3,R,J
-   1,J
-   4,R,J
-   2,J
+   1,R,J
+   7,J
+   2,R,J
   15,U,X
    1,R
   40
@@ -247,8 +261,9 @@ console load StrawberryJam2021/1-Beginner/Ceph
    2,L
   40
 
-#lvl_7 (2)
-   1,S
+#lvl_7 (1)
+   7,L,X
+   1,S,N
    1,D,O
   69,J
    7,F,125
@@ -274,25 +289,34 @@ console load StrawberryJam2021/1-Beginner/Ceph
   14,L,K
    1,R,K
    1,R,J,G
-   1,L,J
-   1,R,K,G
-   1,R,K
+   5,J
+   1,R,J
+   1,J
+   1,R,J
+   2,K,G
    1,L,K
-   1,R,K
-   2,K
-   1,R,K
-   2,J,G
    7,L
-   5,L,J
-   3,L
-  17,L,U,Z
-   5,L
-  21,L,X
    1,L,J
-  16,L
+   5,L
+   1
+  15,L,U,X
+   6,L
+  15,L,X
+   4,L
+   1,L,J,G
+   1,L,K,G
+   7,L
+   2
+   1,K
+   1
+   1,L
+   4
   15,L,Z
-  20,D
-  97
+  14
+   6,R,D
+   6
+  15,D,X
+  79
   15,R,D,X
    4,R,D
    1,R,J
@@ -304,15 +328,22 @@ console load StrawberryJam2021/1-Beginner/Ceph
    1,R,J
    1,R
   15,L,X
-  24
-   1,J
+  12
+  15,L,X
+  15,L,C
+  15,L,X
+  15,L,C
   15,R,X
-   2,G
-   2,D
-  49
-   5,D
-   4
+   1,G
+   1
+   8,D
+   6
+   1,D
+   3
 #cycle wait
+   0
+#
+   5,U
    2
   15,R,Z
    1,R,J
@@ -470,4 +501,4 @@ console load StrawberryJam2021/1-Beginner/Ceph
   14,R,U,X
  135
 
-ChapterTime: 0:58.208(3424)
+ChapterTime: 0:57.953(3409)
