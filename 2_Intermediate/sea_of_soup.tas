@@ -1,4 +1,4 @@
-RecordCount: 5394
+RecordCount: 5397
 
 console load StrawberryJam2021/2-Intermediate/SpoopySoup
    1
@@ -170,9 +170,9 @@ console load StrawberryJam2021/2-Intermediate/SpoopySoup
   40,R,J
    1,R,K,G
    1,R,J,G
-  13,R
-  16,R,J
-  36
+  12,R
+  17,R,J
+  35
   15,R,U,C
   14,R,U,X
    1,J
@@ -325,18 +325,18 @@ EndRepeat
   27,D
 ### each strat works with a different spinner cycle
 ## 1 ---
-   1,R,D
-   2,L,D
-   2,D
-   5,R,D
-  15,D
-## 2 ---
-#   1,D
 #   1,R,D
 #   2,L,D
 #   2,D
 #   5,R,D
-#  14,D
+#  15,D
+## 2 ---
+   1,D
+   1,R,D
+   2,L,D
+   2,D
+   5,R,D
+  14,D
 ## 3 ---
 #   2,D
 #   1,R,D
@@ -375,4 +375,4 @@ EndRepeat
   28,D
  139,U,X
 
-ChapterTime: 0:52.632(3096)
+ChapterTime: 0:52.615(3095)
