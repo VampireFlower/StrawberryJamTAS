@@ -1,4 +1,4 @@
-RecordCount: 63616
+RecordCount: 63617
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -651,42 +651,52 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
   16,U,G
    1,G
    2
-   5,J
-   2
+   2,J
+   1
+   3,J
+   1
   13,R,D,X
-  11,L
-   7,U,X
-  11,R
-  15,R,D,X
-   1,R
-  15,U,X
-   2
-   3,D
-   9,R,D
-   4,D
-   3,R,D
-  15,R,D,X
+   1
    9,R
-  15,U,X
-   5,R
+   1
+   8,R
+  15,R,U,Z
+   7,R
+  14
+   1,R
+   5,D
+   3,L,D
+   1
+   1,R
    5
    1,R
-  15,U,X
+   6,G
+   1,U,G
+   1,G
+   4,D,G
+   1
+   1,R
+   3
+  15,R,U,Z
+   7
    2,R
-  10,R,D
-  11,D
-   7,R,D
-   1,D
-   3,R,D
+  15,U,X
+   1,R
+   1
+   7,L,D
+  25,R,D
   15,R,X
   11,R
-  11,R,X
+  14,R,X
   40
 
 #lvl_b02_alt_alt
-   4,R,X
+   1,R,X
+   1,R
   15,R,C
+   1,R
   15,R,X
+   2,R
   14,R,Z
    1,R,J
 
@@ -903,8 +913,8 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
   19,D
   21,R,D
   12,R,Z
-# Spinner cycle [b04_powerav]
-   0
+# Spinner cycle [b04_powerav] (2/3 stun)
+   2
 #
   45,R,X
   15,U,C
@@ -3949,4 +3959,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 7:33.492(26676)
+ChapterTime: 7:33.441(26673)
