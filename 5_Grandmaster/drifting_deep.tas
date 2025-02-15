@@ -1,4 +1,4 @@
-RecordCount: 14631
+RecordCount: 14633
 
 console load StrawberryJam2021/5-Grandmaster/xlibiza
    1
@@ -803,27 +803,6 @@ EndStunPause
   26,U,X
    8
    3,R
-#  15,R,X
-#  15,R,Z
-#  10
-#***
-#   4,R
-#Invoke Player.MoveV 0.1
-#   6,L,D
-#  12,L,J
-#   5,L
-#  15,R,U,X
-#  16
-#   2,J
-#  15,R,Z
-#  10,R,V
-#   3,R,J
-#   7,K,G
-#  10,J
-#  18,L,Z
-#  99,L,C
-
-
   10,R,Z
   16,L,J
   20,L,X
