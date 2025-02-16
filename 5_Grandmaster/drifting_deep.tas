@@ -1,4 +1,4 @@
-RecordCount: 14633
+RecordCount: 14767
 
 console load StrawberryJam2021/5-Grandmaster/xlibiza
    1
@@ -1065,7 +1065,7 @@ AnalogMode Ignore
    9,R,D,X
   15,R,U,C
   13,R,D,X
-## +7f deathwarp route
+## +18f deathwarp route
 #   5,R,J
 #   4,R
 #   4,R,J
@@ -1142,25 +1142,28 @@ AnalogMode Ignore
    2,K,G
    2,L,K
    2,K
-   1,L,K
+   3,L,K
+   6
    1,K
-   1,L,K
+   1
+   1,R,D,J
+   1,R
    1,K
-   2
-   2,J,G
-   1,L,J
-   1,R,J
-   1,L,J
-   1,K,G
-  28,R,K
+   6,R
+  15,R,U,Z
    1,L,J,G
+   2,L,K,G
+   1,J,G
    1,L
-   2,J,G
-   1,L,J
-   2,L
-   1,K,G
-   3
-  15,R
+   1
+   1,L
+   2,R
+   1,R,K
+   1,R
+   1,R,K
+   1,R
+   1
+   9,R
   10,R,D
    6,R,Z
    1,R,J
@@ -1202,4 +1205,4 @@ AnalogMode Ignore
   14,R,U,X
  135,D
 
-ChapterTime: 2:34.445(9085)
+ChapterTime: 2:34.258(9074)
