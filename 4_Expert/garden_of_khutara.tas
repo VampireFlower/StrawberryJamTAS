@@ -1,4 +1,4 @@
-RecordCount: 13825
+RecordCount: 13831
 
 console load StrawberryJam2021/4-Expert/DanTKO
    1
@@ -332,9 +332,7 @@ console load StrawberryJam2021/4-Expert/DanTKO
 
 #lvl_DanTKO_05
    1
-   1,R
-   1,R
-   2,R
+   4,R
   14,R,D,X
    1,R,J
    3,R
@@ -350,8 +348,7 @@ console load StrawberryJam2021/4-Expert/DanTKO
   20,D
   13,R,D,X
   20,R,J
-  17,R
-   1,R
+  18,R
    2,R,D
    1,R
   15,R,U,X
@@ -361,8 +358,7 @@ console load StrawberryJam2021/4-Expert/DanTKO
    3,R,G
    1,R
    4,R,J
-   3,R
-   1,R
+   4,R
    4,J
    1,R,K,G
    9,J,G
@@ -735,14 +731,13 @@ console load StrawberryJam2021/4-Expert/DanTKO
    5,R
   15,R,D,X
    4,R
-   4,R,J
-   7,R,D,X
+  10,R,D,X
    3,R,J,G
-  15,R
-   2,R,J
+  14,R
+   3,R,J
   19,R
-   4,R,D,J
+   3,R,D,J
   27,R,U,X
  122
 
-ChapterTime: 1:15.565(4445)
+ChapterTime: 1:15.531(4443)
