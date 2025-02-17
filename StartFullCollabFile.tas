@@ -9,6 +9,7 @@ Set,CrouchDashMode,Press
 Set,GrabMode,Hold
 Set,GravityHelper.ControlScheme,Absolute
 EnforceMaingame
+SelectCampaign, StrawberryJam2021/0-Lobbies
 Unsafe
 Add 2
 Add 1,J
@@ -18,32 +19,6 @@ Add 94
 Add 1,J
 Add 61
 
-   1,D
-   1,F,180
-   1,D
-   1,F,180
-   1,L
-   1,U
-   1,F,
-   1,U
-   1,J
-Skip
-  70
-Add 41
-   1,D
-   1,F,180
-   1,R
-   1,J
-   1,U
-   1,F,
-   1,L
-   1,J
-   1,D
-   1,F,180
-   1,J
-   1,S
-  48
-   1,U
-   1,J
+   1,O
 Add 131
    1

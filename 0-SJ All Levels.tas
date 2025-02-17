@@ -1,15 +1,11 @@
 #To sync:
 #Use Celeste 1.4.0.0 (or latest)
-#Use Everest 4607 (or latest stable)
-#Use Strawberry Jam 1.0.9 (or latest)
-#Please let us know if future versions
-#Appear to be desyncing the TAS
+#Use Everest 5326 (or latest stable)
+#Use Strawberry Jam 1.0.11 (or latest)
+#Please let us know if future versions appear to be desyncing the TAS
 
 #Use the bindings in the CelesteTAS readme
-#Change your default map to Strawberry Jam Collab
-#Start from file creation "Begin"
-#Make sure map select shows up
-#Open and close Mod Options if it doesn't
+#Start from the title screen
 
 Read,StartFullCollabFile
 
