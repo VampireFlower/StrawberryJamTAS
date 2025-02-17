@@ -8,8 +8,8 @@ Set,CollabUtils2.DisplayEndScreenForAllMaps,False
 Set,CrouchDashMode,Press
 Set,GrabMode,Hold
 Set,GravityHelper.ControlScheme,Absolute
-EnforceMaingame
 SelectCampaign, StrawberryJam2021/0-Lobbies
+EnforceLegal
 Unsafe
 Add 2
 Add 1,J
