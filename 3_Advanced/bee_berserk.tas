@@ -1,4 +1,4 @@
-RecordCount: 10492
+RecordCount: 10748
 
 console load StrawberryJam2021/3-Advanced/TiltTheStars
    1
@@ -261,7 +261,7 @@ endrepeat
   15,U,X
   12,R
 ##spinner cycle
-   2
+   0
 ##
   98,U,X
   12,R,U,C
@@ -288,35 +288,42 @@ Repeat 20
 EndRepeat
    2,R
    2,L
- 100,U,G
-  15,D,G
-  10,G
- 113,L,G
-  10,L,Z
-   1,L,J
-   1,K,G
-   1,R
-Repeat 10
-   1,R,J,G
-   1,K
-ENdRepeat
-   3,R,D
-   1,K
-   1,R,J,G
-   1,K
-   3,R,D
-   1,K
-   1,R,J,G
-   1,K
-   3,R,D
-   1,K
-   1,R,J,G
-   1,K
-  20,R,D,X
-   1,D
-   2,R,D
+  89,U,G
+   8,L,J,G
+   9,L
+   9
+   2,R,G
+  90,L,U,G
+   7,L,D,G
+  18,L,G
+   6,L,D,G
+   1,D,G
+   4,L,Z
    1,R,J
-   9,R,D,X
+   2,R
+Repeat, 8
+   1,K
+   1,R,J,G
+EndRepeat
+   1,K
+   3,R,D
+   1,K
+   1,R,J,G
+   1,K
+   3,R,D
+   1,K
+   1,R,J,G
+   1,K
+   3,R,D
+   1,K
+   1,R,J,G
+   1,K
+   3,R,D
+   1,K
+   1,R,J,G
+  23,R,D
+   1,R,J
+   5,R,D,X
   40
 
 #lvl_a-04
@@ -325,7 +332,7 @@ ENdRepeat
    1,J
    1,R,J
    7,R
-   9,R,J
+   9,R,D,J
   15,R,D,X
    3,R,D
    1,D
@@ -758,4 +765,4 @@ EndStunPause
    4,R,D,X
  135
 
-ChapterTime: 2:02.315(7195)
+ChapterTime: 2:02.213(7189)
