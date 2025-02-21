@@ -1,4 +1,4 @@
-RecordCount: 9290
+RecordCount: 9694
 
 console load StrawberryJam2021/5-Grandmaster/tofu
    1
@@ -70,9 +70,9 @@ console load StrawberryJam2021/5-Grandmaster/tofu
 #lvl_Pier
    1
   72,O
-##spinner cycle
-   0
-##
+#Spinner cycle [Rat Run]
+   2
+#
    7,L,X
   12,R,J
   11,U,X
@@ -83,90 +83,72 @@ console load StrawberryJam2021/5-Grandmaster/tofu
    1,R,J
    7,R,D,X
   13,R,G
-  20,R,D
-   9,R,Z
-  17,R,J,G
-  16,R,U,Z
-  11,R,J,G
-   9,R
-   1,R,D,J
-  13,R,D,X
-  13,J,G
-   2,R,D,J
-   1,R
-   4,R,K
-   1,R
-StunPause
-   2,R
-SkipInput,3,1
-   5,R,U,X
-   1
-SkipInput,3,1
-   4,L,J,G
-EndStunPause
-   1
-   4,R
-   3,R,J
-  36,R,U,J,G
-   4,R,U,G
-   3,R,D,G
-   6,R,U,G
-   6,R,D,G
-   3,D,G
-   1,L
-   3,R
-   3
-   1,R
-  13,R,U,X
-   1,J,G
-   3
+   1,R,J
    6,R
-   4,R,D
-   1,R,J
-StunPause
-   3,R,J
-   2,J
-   1,R,J
-EndStunPause
-   3,J
-  15,R,D,X
+  17,R,Z
+   1,J
+  15,L,D,X
+   5,L,D
+   5
+   1,J
+   2
+  15,R,Z
+   7,R
+   1
+   1,J
+  11
    1,R
+   2
+  14,L,Z
+   1,R,J
+   5,R,D,X
+   1,J,G
+  12,R
+   1
+   1,R,J
+  17,R,D,X
+  14,G
+  15,R,U,Z
+   5,R,J,G
+   7,R,U,X
+   1,R,J,G
+  11,R
+   1,R,J
+   6,R,D,X
+  13,R,G
+   3,R
+   1,R,J
+   1,R
+   7,R,U,X
+   1,L
+   3,J,G
+   3
+  38,R,U,K,G
+   1,R,G
+   1,L
+  14,R
+   3
+   1,L,D,J
+   6,J
+  15,R,D,X
+   4,D
   40
 
 #lvl_Backstreet
-  15,R,D,X
-  15,D,C
-   1
-   1,L,J
-   3,L
-   5
-   2,K
-   2
-   1,L
-   1
-   1,L
-   7,L,Z
-   1,R,J
-   6,R
-   1,R,J
-  15,R,D,X
-   2,R
-   1,R,J
-   1,R
-  15,R,D,X
-   2,R
-   1,R,J
-  15,R,U,X
+   6,D
+  17,R,D
+   1,R,D,J
+  17,R,U,X
+   2,R,J,G
+  14,R
   13,R,G
-   9,R
-   4,R,K
-   3,R
-   1,R,J
-  14,R,D,X
-  14,R,G
-   9,R
-  10,R,D,J
-   4,R
+   7,R
+   2,L,D,J
+   5,R,J
+   1,J
+   2,R,J
+   1,J
+   2
   15,U,X
   15,L,C
    1,J
@@ -183,9 +165,6 @@ EndStunPause
    1,D
   10
    9,D,X
-#Spinner cycle [Rat Run]
-   1
-#bad spot but works ig
    6,R,J
   16,R,U,X
   13,G
@@ -422,4 +401,4 @@ EndStunPause
   14,R,U,X
  135
 
-ChapterTime: 0:49.266(2898)
+ChapterTime: 0:47.481(2793)
