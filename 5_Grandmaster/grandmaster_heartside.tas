@@ -1,4 +1,4 @@
-RecordCount: 43934
+RecordCount: 43935
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -292,11 +292,11 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
   11,L,J
   28,R,U,X
    3,R
-   9,R,J
-   1,L,J
+   8,R,J
+   2,L,J
    4,K,G
-  11,R,K
-   8,J,G
+  12,R,K
+   7,J,G
    2,L,J
    1,K
    3,L,K
