@@ -1,4 +1,4 @@
-RecordCount: 7842
+RecordCount: 7873
 
 console load StrawberryJam2021/4-Expert/itsabrody
    1
@@ -385,31 +385,29 @@ console load StrawberryJam2021/4-Expert/itsabrody
    1,G
    2,R,J,G
   15,R,D,X
-  13,L,D,C
-   2,R,J
-  15,R,D,X
-  12,R,J
-   5,R
-   9,R,K
-   7,R
-   1,R,K,G
-   2,L,K
-   3,R,K
-   4,R
-   1
-   2,R
-   5,R,Z
+  18,R,D,C
+   9,R,Z
    1,R,J
+  17,R,D
+   1,R
+   1,R,J
+   6,R,K,G
+  14,R,U,X
+   3,R,J,G
+   3
    4,R
+   1,R
   43
 
 #lvl_7
+   1
    3,R
    4,R,J
    5,R
-   2,R,J
-   7,R
-   5
+   1,R,J
+   2,R
+   1,R,J
+  10,R
   27,R,Z
   15,U,X
    6,R
@@ -621,4 +619,4 @@ endrepeat
   55,R,D
   80,J
 
-ChapterTime: 1:10.278(4134)
+ChapterTime: 1:10.159(4127)
