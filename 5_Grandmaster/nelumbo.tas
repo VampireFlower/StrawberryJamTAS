@@ -1,4 +1,4 @@
-RecordCount: 10696
+RecordCount: 10846
 
 console load StrawberryJam2021/5-Grandmaster/tofu
    1
@@ -47,8 +47,9 @@ console load StrawberryJam2021/5-Grandmaster/tofu
   40
 
 #lvl_Veranda
-   1,K
-  10,R,K
+   7,K
+   1,R,K
+   3,K
   14,U,X
    4,R,J
    8,R,X
@@ -58,10 +59,13 @@ console load StrawberryJam2021/5-Grandmaster/tofu
    4,R
   13,R,U,X
    1,J,G
-   2,R
-   3,L,D
-   5,R,D
-   6,D
+   2
+   3,L
+   3,R
+   1
+   1,R
+   2
+   3,D
   15,R,D,X
   14
   11,L,D
@@ -71,7 +75,7 @@ console load StrawberryJam2021/5-Grandmaster/tofu
    1
   72,O
 #Spinner cycle [Backstreet]
-   2
+   0
 #
    7,L,X
   12,R,J
@@ -153,46 +157,39 @@ EndStunPause
   13,R,G
    7,R
 StunPause
-   1,R
-   1
+   2,R
 EndStunPause
+   2,R
    1
-   1,R
-   8,R
-   2,L,D,J
+   7,R
+   1
+   3,L,D,J
 StunPause
    2,J
 EndStunPause
-   3,J
-   2,R,J
-   1,R
+   4,J
 StunPause
-   1,R
+   1,J
 SkipInput 3 1
    4,R,D,X
 EndStunPause
    4,R,D,X
    1,L,J,G
-  11,J
-   1,R,J
+   6,J
+   6,R,J
    1,J
 StunPause
-   6,R
+   1,R,J
+   3,R
 EndStunPause
-   1
-   1,R
-   1
-   7,R,U,Z
-   3,L,J,G
-   5,R,J
-   5,R
-   2,R,K
+   2,R
+   4
+   6,R,U,Z
+   8,L,J,G
+   3
+   7,R
 StunPause
-   2,R,K
-   1,R
-EndStunPause
-StunPause
-   1,R
+   2,R
 EndStunPause
    1,R
   40
@@ -200,10 +197,10 @@ EndStunPause
 #lvl_Opulence
    2,R
   15,D,X
-   6,R,D
-  12,D
+   4,R,D
+  13,D
 #Spinner cycle [Rat Run]
-   2
+   0
 #
    4,Z
    1,R,J
@@ -272,17 +269,21 @@ EndStunPause
 #lvl_Rat Run
    1,R,D,X
    1,R,J
-  11,U,X
-  11,R,J
+  10,U,X
+   3,J
+   4,R,J
+   1,J
+   3,R,J
    5,R,Z
-   5,R,J
-   2,R
    1,R,J
+   2
    8,R
-  14,D
-   1,L,D
-   1,D
-   1,L,D
+   1,R,K
+   6,R
+   1,L
+   1
+   1,L
+  12,D
   15,D,X
    5,R,D,C
    1
@@ -411,4 +412,4 @@ EndStunPause
   14,R,U,X
  135
 
-ChapterTime: 0:45.492(2676)
+ChapterTime: 0:44.829(2637)
