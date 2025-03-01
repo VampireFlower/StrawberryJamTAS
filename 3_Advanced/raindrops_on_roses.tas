@@ -1,5 +1,5 @@
 #By Kataiser
-RecordCount: 8529
+RecordCount: 8677
 
 console load StrawberryJam2021/3-Advanced/Worldwaker2
    1
@@ -232,7 +232,7 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
    6,R,K,G
    7,R
 #spinner cycle
-   1
+   0
 #
   15,U,X
   18,R,J
@@ -313,15 +313,15 @@ EndRepeat
   10,R,X
   11,J
   39,U,J,G
-  10,R,U,G
+   5,R,U,J,G
+   5,R,U,G
    1
   15,R,U,X
    1,L,J,G
-   2,L,K,G
-   1,J,G
-   3,L,J
-   5
-   4,L
+   1,L,K,G
+   2,R,K
+   3,L,K
+   8,L
    5,L,Z
   14,R,J,G
    7,R,K,G
@@ -334,26 +334,33 @@ EndRepeat
    1,L,K,G
    3,L,K
    7,L
-   6,L,D,X
-   1,R,K,G
-  16,R,K,G
+   1
+   5,L,Z
+  17,R,K,G
    8,R,J,G
-   1,R
+   1,R,J
   15,U,Z
    1,R
   17,R,J
-   2,K,G
-   5
-   2,R
-  10,R,X
-  20,L,J
-  13,U,X
+   1,K,G
+   1,R
+   1
+   1,R
+   3
+   1,R
+   1,L
+  25,L,J
+  14,U,X
   13,G
-  69,R,U,G
+  59,R,U,J,G
+   8,R,D,G
+   1,R,U,G
+   1,R,D,G
    3,R,J,G
    1,R
   15,R,U,X
   11,R
+#  6f bhop is possible here but doesn't seem to immediately help
    4,Z
    1,R,J
    5,R
@@ -378,7 +385,8 @@ SkipInput, 3, 1
    7,D
    3
    1,D
-   2,L,J
+   1,L,J
+   1,L,J
    7,R,J
    4,R
    3
@@ -440,7 +448,7 @@ EndStunPause
    2,D
    8,D
    9,R,D
-   4,D,X
+   4,Z
    1,R,J,G
   17,R,K,G
   16,R,J,G
@@ -506,8 +514,8 @@ EndRepeat
   14,R,D,X
    1,R,J
    5,R,X
-  13,R,G
-   2,R,J,G
+  14,R,G
+   1,R,J,G
    6,R,K,G
    1,R,G
    7,R,K,G
@@ -639,6 +647,7 @@ EndStunPause
 #  12,R,K,G
 #  17,R,U,X
 # 135,R,D
+
   11
   15,U,X
    1,R,J
@@ -692,4 +701,4 @@ EndStunPause
    1,L,Z
   13,L,J
 
-ChapterTime: 1:30.814(5342)
+ChapterTime: 1:30.763(5339)
