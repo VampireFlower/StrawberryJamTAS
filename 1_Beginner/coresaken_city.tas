@@ -59,7 +59,7 @@ console load StrawberryJam2021/1-Beginner/voliver9
   40
 ##
 # other coremode
-#lvl_a-03 (0)
+#lvl_a-03
 #   7,L
 #   1,G
 #  15,K
@@ -94,7 +94,7 @@ console load StrawberryJam2021/1-Beginner/voliver9
 #  12,U,X
 #  40
 #
-#lvl_a-04 (0)
+#lvl_a-04
 #   7
 #  15,J
 #   5
@@ -130,7 +130,7 @@ console load StrawberryJam2021/1-Beginner/voliver9
 #   1,K
 #  40
 #
-#lvl_a-05 (0)
+#lvl_a-05
 #   2,R,J,G
 #   5,R
 #   3,R,J
@@ -166,7 +166,7 @@ console load StrawberryJam2021/1-Beginner/voliver9
 #   4,R
 #  40
 #
-#lvl_a-06 (0)
+#lvl_a-06
 #   2,R,K
 #   5,R,J
 #   7,R
@@ -222,7 +222,7 @@ console load StrawberryJam2021/1-Beginner/voliver9
 #   2,R,D
 #  40
 #
-#lvl_a-07 (0)
+#lvl_a-07
 #  29,R,D
 #  12,R,Z
 #   5,R,J
@@ -256,7 +256,7 @@ console load StrawberryJam2021/1-Beginner/voliver9
 #   1,R,J
 #  40
 #
-#lvl_a-08 (0)
+#lvl_a-08
 #   1,R,J
 #   7,R
 #   1,R,J
@@ -302,7 +302,7 @@ console load StrawberryJam2021/1-Beginner/voliver9
 #   5,R
 #  40
 #
-#lvl_a-09 (0)
+#lvl_a-09
 #   5,R
 #   3,R,J
 #  14,R,U,X
@@ -335,7 +335,7 @@ console load StrawberryJam2021/1-Beginner/voliver9
 #   6,R
 #  40
 #
-#lvl_b-03 (0)
+#lvl_b-03
 #  15,R,D,X
 #  12,R
 #   5
@@ -356,7 +356,7 @@ console load StrawberryJam2021/1-Beginner/voliver9
 #ChapterTime: 0:35.989(2117)
 ##
 
-#lvl_a-03 (1)
+#lvl_a-03
    7,L
    1,G
   15,K
@@ -385,7 +385,7 @@ console load StrawberryJam2021/1-Beginner/voliver9
   14,L,U,X
   40
 
-#lvl_a-04 (1)
+#lvl_a-04
    6,L
    1,L,J,G
   18,L,K,G
@@ -428,7 +428,7 @@ console load StrawberryJam2021/1-Beginner/voliver9
    1,J
   40
 
-#lvl_a-05 (1)
+#lvl_a-05
    5,R,K,G
    6,K,G
   15,R,U,X
@@ -461,7 +461,7 @@ console load StrawberryJam2021/1-Beginner/voliver9
    4,R
   40
 
-#lvl_a-06 (1)
+#lvl_a-06
    2,R
    5,R,J
    7,R,G
@@ -497,7 +497,7 @@ console load StrawberryJam2021/1-Beginner/voliver9
   14,D,X
   40
 
-#lvl_a-07 (1)
+#lvl_a-07
    7,R,D
   22,D
    2,R,D
@@ -536,7 +536,7 @@ console load StrawberryJam2021/1-Beginner/voliver9
    2,R,J
   40
 
-#lvl_a-08 (1)
+#lvl_a-08
   29,R,J
    6,U,X
   11,J
@@ -584,7 +584,7 @@ console load StrawberryJam2021/1-Beginner/voliver9
    2,L,D,J
   40
 
-#lvl_a-09 (1)
+#lvl_a-09
   12,J
    1,L,K,G
    1,L,J,G
@@ -614,7 +614,7 @@ endrepeat
    6,R,J
   40
 
-#lvl_b-03 (1)
+#lvl_b-03
    5,R,J
   15,R,D,X
    1,R
