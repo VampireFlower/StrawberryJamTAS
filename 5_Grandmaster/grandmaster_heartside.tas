@@ -1,4 +1,4 @@
-RecordCount: 43935
+RecordCount: 44557
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -1346,51 +1346,62 @@ AnalogMode Ignore
   13,G
    9,R,J,G
    5,R,G
-   8,R,K,G
-   4,R,G
-   2,G
+   7,R,K,G
+   3,R,G
+   1,G
    1,R,G
+   3,G
    1
   18,R,U,Z
-   5,R
-  11,U,X
+   2
+  12,U,X
   13,G
-  12,L,G
+   3,L,G
+   2,G
+   1,L,G
+   5,G
+  13,R,G
+   8,G
+  35,D,G
   20,R,G
-   3,R,D,G
-  31,D,G
-   1,G
-  21,R,G
-  26,D,G
+  16,G
+  34,D,G
    8,L,D,G
-  15,D,G
-   2,L,D,G
-   6,D,G
    1,D
   14,R,D,X
    1,L,J
    8,L,D,X
-  17,L,J,G
-  29,L,K,G
-   1,R,K
-   4,L,K
-  13,L,U,Z
-   7,L,J,G
-   1,J
-   1,R,K,G
-   7,L,K
-   5,L
-   1,L,J
-   4,L
-   1,J,G
-   5,L,J
+  16,L,J,G
+  12,L,K,G
+   5,L,G
+   9,L,K,G
+   4,L,G
+   2,R
    2,L
+  14,L,U,Z
+  10,L,J,G
+   1,J
+  11,L,J
+   1,L,K,G
+   3,J,G
+   2,L,J
+   1,J
+   1
    7,R
-   1,R,J
+   1,R,K
    8,R
-   5,R,J
-  41,R
-  17,R,J
+   1,J
+   4,R,J
+  27,R
+   1,R,D
+   1,R
+   2,R,D
+   2,R
+   6,R,D
+   1,R
+   1,J
+  11,R,J
+   6,R
    1,R,K,G
    1,R,J,G
    3
@@ -1402,8 +1413,9 @@ AnalogMode Ignore
    1,D
    4,R,Z
    1,R,J
-   8,R
+   7,R
    1
+   1,R
    1,L,J
   13,G
    1,J,G
@@ -1411,23 +1423,27 @@ AnalogMode Ignore
   16,R,K,G
    2,K,G
    1,J,G
-   3,L,J,G
    1,R,J
+   4,L,J
   14,U,X
   24,L,G
    1,D
   10,U,X
-  14,G
-   8,L,G
-  43,R,G
+  13,G
+   1,L,G
+   6,G
+  36,R,G
+  10,R,D,G
    1,R
-  14,R,Z
-  18,R,D
-   9,R
-   5
-  21,G
-   8,L,G
-   2,G
+  15,R,Z
+  14,R
+   5,R,D
+   1,R
+   3,L
+  14,L,G
+   1,G
+   1,L,G
+  17,G
   45,R,D,G
    2,D,G
    4,R,D,G
@@ -1450,24 +1466,28 @@ AnalogMode Ignore
   23,R,Z
    1,J,G
    5
+   1,K
+   1
+   1,K
+   1
    1,R
-   2
-   1,L
-   1,L,K
    4,L
-   7,L,Z
+   7,L,D,X
    1,R,J
-   5,R
-   1,R,D,J
-   1,R
-   6,R,D,X
-  13,G
-  31,R,J,G
+   6,R
+   1,R,J
+   5,R,D,J,X
+  14,R,J,G
+  12,R,K,G
+   5,R,G
+   9,R,K,G
+   4,R,G
+   1,R,G
    1,R
   15,L,D,X
-   5,R,D
-   8,D,X
- 186
+   1
+   5,L
+ 190
 
 #lvl_d3_07-Maya
 #may be fixed in the future
@@ -2388,7 +2408,7 @@ Set CelesteTAS.SimplifiedBackdrop false
   11,R,K,G
    7,R
 ##spinner cycle for flag 1
-   0
+   1
 ##
    6,R,Z
    1,R,J
@@ -2741,4 +2761,4 @@ Repeat 34
    2,L,D
 EndRepeat
 
-ChapterTime: 7:06.513(25089)
+ChapterTime: 7:06.309(25077)
