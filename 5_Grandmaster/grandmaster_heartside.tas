@@ -1,4 +1,4 @@
-RecordCount: 44557
+RecordCount: 45706
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -1502,147 +1502,168 @@ Set CelesteTAS.SimplifiedBackdrop true
    4,L,J
   15,U,X
    2,L
-  18,L,J
-   3,K
-   5
-   1,L
-   1,L,N
+  15,L,J
+   2,L
+   2,R
+   1,K
+   1,J,G
+   4
+   2,L
+   1,N
+   1,L,J
+   2,J
+   1
+  15,D,X
    3,L
-  15,L,D,X
-   1,R
-   1,L
-   2
-   2,D
-   1,D,J
+   1,L,D,J
    1
    1,K,G
    1,R
    1,L
    1,J,G
   27,R,J
-   1
+   1,J
    8,K
-   4,R,K
-  15,U,X
+   1,R,K
+   2,K
+   1,R,K
+  15,U,Z
+  30,R
+  15,U,Z
    1
-  28,R
-  15,U,X
-   1,L
-  25,R
-  19,R,U,X
-  37,L
-  23,L,U,X
-  26,R
-  18,U,X
-  19,U,C
-   9,U,Z
-  16
-   9,L,U,X
-  36,R
-  13,R,Z
-   2,R,J
-  15,R,D,X
-   2,R
-   7,R,D,J
-  18,R,D,X
-  15,R,D,C
-   1,R,D
-  13,R,D
-   8,R
-   4,R
-   5,R
-  12,U,Z
-  16,L
-  14,U,X
-  17,R
-  27,R,X
+   7,L
+  20,R
+  15,R,U,X
    8
-  11,R
-   7,D,X
-  15
-   6,L
-   1
-   1,L
+  31,L
   15,L,U,X
    7,L
-  11,R
-  15,R,U,Z
-   3
-  31,L
-  20,L
-  15,L,D,X
-   2,L,D
-   1,L
-   3
-   1,L,D
-   9,L,C
-  25,L
-   9,L,U,Z
-  17,L
-  16,L,U,Z
-   6,L
-   9,U,X
-  18
-  17,R
-   9
+   7
+  20,R
+  10,U,X
+   8,R
+  10,U,X
+   9,L
+   8,U,Z
+  16,R
+  15,L,U,X
+  26,R
+  14,R,Z
+   3,R,J
+  15,R,D,X
+   2,R
+   6,R,J
    1,R
-   1
+  18,R,D,X
+  15,R,D,C
+  11,R,D
    1,R
-  42,L
-  24,L
-  15,U,X
+   3,R,D
+  14,R
    2
+  12,U,Z
+  16,L
+  20,U,X
+  11
+  15,R,X
+  12,R
+  19
+  13,D,X
+   9
    4,L
-   5
+   1
+   4,L
+  21,L,U,X
+  14
+  20,R,U,Z
+  31,L
+  13
+  15,L,D,X
+   2,D
+   4
+   1,L
+  16,L,X
+  19,L
+  15,L,U,X
+  12
+  15,L,U,X
+   3
+  18,U,X
+   8
+  19,R
+   6
+   1,R
+   6
+   7,L,D
+   8
+  27,L
+  18
+   1,R
+   6
+  15,U,X
+   1
+   9,L
    9,L,U,Z
    1,R
   17
   15,R,U,X
-  19,R,D
-   7,L,D
-   1,R
-  11,L
-   6,R
-   2
-   2,R
-   8,R,X
-  21,L
-  15,L,U,Z
+  19,R
+   3
+   3,D
    1
-  25,R
-   7,U,X
-  24,R
-  10,U,Z
-  26,R
-   8,R,D,X
-  20,R
+   7,R,D
+  13,R
+   1
+  14,R,X
+  15,L
+  15,L,U,X
+   7
+  19,R
+  14,U,X
+  18,R
+  16,U,Z
+  19,R
+  15,R,D,X
+  13,R
+   1
+## -1f
+#Set Player.Position.X 35308.4999
+#  15,U,X
+#   9,R
+#  14,R,Z
+##
   15,U,X
   10,R
   14,R,Z
    1,R,J
    2,R
   14,R,D,X
-  15,R,J
-   1,R
-   1,R,J
-   1,R
-  15,R,U,X
-   5,R,U,C
-  16,R
-  13,R,U,X
-  28,L
-  11,L,U,X
+  12,R,J
+   2,R
+   1,R,K
+   1
+   1,R,K
+   2,R
+  14,R,U,X
+  16,L
+  19,R,U,X
+  20,L
+  13,L,U,X
    1,L,J,G
    2,L,K,G
    1,L,J,G
-   2,L,K,G
-   1,K
-  16,L,K
-  14,L,U,X
-  23,R
-  15,R,X
-  17,R,D,C
-  45,R,J
+  15,L,K,G
+   4
+  20,L,U,X
+  17,R
+  14,R,X
+   1,R
+  15,R,D,X
+   2,R
+  12,R,J
+   5,R
+  10,R,K
+  18,R
   14,R,U,X
  349
 
@@ -1668,15 +1689,17 @@ Set CelesteTAS.SimplifiedBackdrop false
    7,R,U,X
   35
    1,R,U
-  40,F,101.6
-   3,F,90
-  27,R,D,X
+  42,F,101
+  15,R,D,X
+  12,R,D
    4,Z
    1,R,J
-   6
+   6,R
    1,R,N
-   9,D
-   9,R,D
+   1,R
+   8
+   5,R
+   4
   14,D,X
    1,R,J
   18,R,X
@@ -2761,4 +2784,4 @@ Repeat 34
    2,L,D
 EndRepeat
 
-ChapterTime: 7:06.309(25077)
+ChapterTime: 7:06.156(25068)
