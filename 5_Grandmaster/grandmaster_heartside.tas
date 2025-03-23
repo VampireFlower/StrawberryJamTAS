@@ -1,4 +1,4 @@
-RecordCount: 47090
+RecordCount: 47286
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -189,30 +189,32 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1,R,J,G
    6,R
    1,R,J
-   4,R
+   3,R
+   1,R,D
    1,R,D,J
    5,R,D,X
   13,R,G
-  22,R,J,G
+  18,R,J,G
+   1,J,G
    1,L,J
+   9,R,J
+   1,R
+   5,R,D
    2,R,J
    5,R
-   5,R,D
-   3,R,J
-   5,R
-   1,R,J
-   2
+   4,R,K
   18,R,U,X
    1,R
   15,R,D,X
+   1,R,D
   15,R,D,C
-  22,R,D
+  21,R,D
    1,R,J
    5,R,D,X
   17,R,J,G
- 102,R,U,K,G
+ 100,R,U,K,G
    8,U,K,G
-   1,L,K
+   3,L,K
   14,R,U,X
    1,J,G
    3
@@ -220,7 +222,7 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
 
 #lvl_a3_16-Cookie
    3,R
-   5,L
+   4
   14,L,U,Z
    4,R,J
   14,R,D,X
@@ -1315,13 +1317,12 @@ AnalogMode Ignore
   14,R,D,X
    9,R,J
    1,R
-   2,R,J
-   2
+   2,R,K
+   1,K
+   1
   14,R,U,Z
    6,R,J,G
-   5,R
-   1,R,J
-  19,R
+  24,R
   13,L,X
   10,L,J,G
    2,K
@@ -1344,7 +1345,7 @@ AnalogMode Ignore
    9,L,C
   72,O
 ## Spinner cycle [d2_08-Aiden] (2/3)
-   1
+   0
 ##
   13,L,Z
    1,R,J
@@ -2818,4 +2819,4 @@ Repeat 34
    2,L,D
 EndRepeat
 
-ChapterTime: 7:05.901(25053)
+ChapterTime: 7:05.850(25050)
