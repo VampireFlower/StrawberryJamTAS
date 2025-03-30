@@ -1,4 +1,4 @@
-RecordCount: 47286
+RecordCount: 47493
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -1199,23 +1199,25 @@ AnalogMode Ignore
    8,L,D,X
    1,L,K,G
    1,L,J,G
-  22,L,K,G
-  14,L,Z
+  12,L,K,G
+  10,L
+   1,L,K
+   1,J,G
+   1,L
+   3
+   4,R
+   3
+   1,R
+   7,R,Z
    1,L,J
-  15,L,D,X
-   2,L
-   8,L,J
    6,L
-   3,L,K
-   8,L
-   1
-  17,L,U,Z
-  13,R
-   9,R,X
-  12,R,J,G
-  10,R
-  14,R,Z
-  16,R,J
+  10,L,J
+   1,L
+  15,L,U,Z
+  17,L
+   2
+  10,L,D,X
+  19,R,J
   14,R,U,X
   23,R,U,C
    4,Z
@@ -1339,7 +1341,7 @@ AnalogMode Ignore
   14,J
  115,R,X
   15,R,Z
- 120,D,X
+ 123,D,X
 
 #lvl_d2_08-Aiden
    9,L,C
@@ -2467,7 +2469,7 @@ Set CelesteTAS.SimplifiedBackdrop false
   11,R,K,G
    7,R
 ## Spinner cycle [f3_01-Hydro]
-   0
+   2
 ##
    6,R,Z
    1,R,J
@@ -2819,4 +2821,4 @@ Repeat 34
    2,L,D
 EndRepeat
 
-ChapterTime: 7:05.850(25050)
+ChapterTime: 7:05.289(25017)
