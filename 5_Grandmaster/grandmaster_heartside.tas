@@ -1,4 +1,4 @@
-RecordCount: 48038
+RecordCount: 48310
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -53,23 +53,28 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    6,L
   14,L,Z
    1,R,J
-   2,R
+   1
+   1,R
    1,R,K,G
    1,R,J,G
-   1,R,K,G
-   5,R,J,G
-   1,J
+   1,K,G
+   3,J,G
    3
   17,R,D,X
-   7,R,D
-   1,R,J,G
-   8,R
-   3
-  15,D,X
-  12,L,D
+  12,D
+  11
+   1,D
+   5,R,Z
+   1,J,G
+   4
+   9,L
    1,G
-  10
-   8,G
+  14
+   2,D
+   1,L,D
+   1,D
+   1,L,D
+   2,G
    1
    1,J,G
    1,K,G
@@ -99,23 +104,26 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    3,L,Z
   15,R,G
    5,U,X
-   6,L,J
+   7,L,J
   23,L
-  13,U,G
+  10,G
+   3,U,G
+   1
    1,L,J,G
    1,L,K,G
    1,L,J,G
-   4,L,K,G
+   2,K,G
+   1
   15,L,D,X
-   7,L
-  13,L,D,X
-   6,L,J,G
-  16,L,D,X
-   7,L
-   6,G
-   2,D,G
-  12,G
-  31,D,G
+   1,J
+  19,L,D,X
+   1
+  17,L,D,C
+   2,D
+   1,G
+  10
+  22,G
+  18,D,G
    1
    1,J,G
    1,K,G
@@ -2478,7 +2486,7 @@ Set CelesteTAS.SimplifiedBackdrop false
   11,R,K,G
    7,R
 ## Spinner cycle [f3_01-Hydro]
-   1
+   0
 ##
    6,R,Z
    1,R,J
@@ -2830,4 +2838,4 @@ Repeat 34
    2,L,D
 EndRepeat
 
-ChapterTime: 7:05.187(25011)
+ChapterTime: 7:04.983(24999)
