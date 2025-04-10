@@ -1,4 +1,4 @@
-RecordCount: 8677
+RecordCount: 9756
 
 console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
    1
@@ -30,7 +30,7 @@ console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
 #lvl_a-02intro
  171
 # Spinner Cycle
-   0
+   2
 #####
    3,R,J
   14,R,D,X
@@ -99,6 +99,79 @@ console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
   11,L,K,G
    1,K,G
    1,J,G
+## -10f bad theo subpixel
+#   3,K,G
+#   1,G
+#  10,J,G
+#   3,G
+#   1,L,G
+#   5,G
+#  12,R,G
+#  18,R,D,G
+#   7,D,G
+#   1,R,D,G
+#   2,D,G
+#   1,J,G
+#  12,R,J,G
+#   1,L,J
+#  18,R,U,X
+#  11,R,U,C
+#  33,R,G
+#   1,J,G
+#  10,R,J,G
+#   2,R,G
+#   1,L
+#   4,R
+#   3,R,K
+#  14,R
+#   1,R,D
+#   4,R,J
+#   2,R
+#  15,R,D,X
+#   2,R,D
+#   3,D
+#  11,R,D
+#   8,L
+#  13,L,U,Z
+#   1,R
+#   5,J,G
+#   3,L,J
+#   5,R,X
+#  16,G
+#   1,R,G
+#   9,R,J,G
+#   5,R,G
+#   1,R,K,G
+#   1,R,G
+#   1,R,K,G
+#  11,R,G
+#   4,R,D
+#   1,R
+#   1,R,D
+#   1
+#  10,L,Z
+#   4,R,J
+#  20,R,J,G
+#   3,R,G
+#   3,R,K,G
+#  16,R,G
+#   1,R
+#  10,R,U,X
+#  21,R,G
+#   1,R
+#   1
+#   1,R
+#  15,R,U,X
+#  12,R
+#   6
+#   4,R
+#   9,R,D
+#   8,D
+#   4,L,D
+#   5,D
+#   5,R,D
+#   1,D
+##
    4,K,G
   10,J,G
    3,G
@@ -346,13 +419,13 @@ console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
    9,R,D
    5,R
   15,R,Z
-   8,R
-  11,U,X
+  11,R
+  10,U,X
   21,R,G
-   1,R
-  11,L
-  41,D
-   6
+  24
+  10,D
+  17,L,D
+   4
   14,L,Z
    1,R,J
    6,R,D,X
