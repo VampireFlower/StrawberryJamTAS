@@ -1,4 +1,4 @@
-RecordCount: 50441
+RecordCount: 50595
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -597,16 +597,15 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
   10,L,D,X
    1,L,J,G
   11,L,J
-  14,L
-   4
-   2,J
+  17,L
+   2,L,J
    2
   15,U,X
   15,D,C
    1
    1,L
-   3,R,D
-   4,R,Z
+   3,R
+   4,Z
    1,R,J
    1,R,K,G
    1,R,J,G
@@ -618,28 +617,38 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
   18,R,G
    2,R,J
   46,R,U,G
-  90,R,U,J,G
-  16,R,U,G
+ 103,R,U,J,G
    1,L
-   9,R
+  12,R
 
 #lvl_b3_13-TheDavSmasher
    4,R
-   1,R,K,G
    1,R,J,G
-  10,J
+   9,K,G
+   3,R,K
   15,U,X
-  10,L,J
-   6,R,J
-  10,L,X
-   7,L,J,G
+  16,J
+   9,L,X
+   1,J,G
+   9,L,J
+   2,R,J
   18,L,U,X
-  18,R,U,C
+   6
+   3,R,J
+   2
+  20,R,X
    4,L,G
-  15,L,D,X
-  42,L,D
   16,L,X
-  15,D,C
+   1,L
+   1
+  15,L,D,X
+  21,D
+  16,L,D
+  10,L,D,X
+   1,L,J
+   2,L
+   3
+  14,D,X
    1,N
   12,R,J
    5,R,Z
@@ -689,26 +698,42 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1,R,J,G
    1,R,K,G
    7,R,J,G
-  31,R,K,G
-  19,U,X
-  20,R
-  19,R,X
-  26,R,U,Z
-   9,L,G
-  13,U,G
-   4,L
-  15,L,U,X
-   3,L
-  19,L,J
+   3,R,K,G
+   5,R
+   1,R,K
+   1,R
+   1,R,K
+   1,K
+  12,R,J
   13,U,X
+  11,R
+  10,R,U,Z
+   1,J
+  11,R,J
+   1,R
+  10,L,Z
+   6,R,J
+   6,R
+   1,R,K
+   6,R
+  26,R,U,Z
+   4,L,G
+  14,L,U,X
+   4,L
   11,L,J
-  25,L,D
-  36,R,D
-  18,R,X
-  15,R,D,C
-  20,R,D
-   5,D
-  25,R,D
+   5,L
+   5,L,K
+   2,K
+   8,U,X
+  12,L,J
+  24,L
+   1
+  16,R,D
+   1,D
+  17,R,D
+  15,R,Z
+  15,R,D,X
+  52,R,D
    6,R,Z
    1,R,J
    7,R
@@ -721,7 +746,7 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    4,R
   20,R,D,J
   18,R,U,X
-  47,G
+  42,G
    7,U,C
   25,L,J
   15,U,X
@@ -2558,7 +2583,7 @@ Set CelesteTAS.SimplifiedBackdrop false
   11,R,K,G
    7,R
 ## Spinner cycle [f3_01-Hydro]
-   1
+   0
 ##
    6,R,Z
    1,R,J
@@ -2910,4 +2935,4 @@ Repeat 34
    2,L,D
 EndRepeat
 
-ChapterTime: 7:04.473(24969)
+ChapterTime: 7:04.422(24966)
