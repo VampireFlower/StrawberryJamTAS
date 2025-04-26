@@ -1,4 +1,4 @@
-RecordCount: 16980
+RecordCount: 17727
 
 console load StrawberryJam2021/5-Grandmaster/Ecl1psed
    1
@@ -368,57 +368,128 @@ EndStunPause
    1,R,K
    1,R
   12,R,U,Z
-   1,K,G
-  16,G
-   3,K,G
-   1
-   6,L,J
-   6,L
-  10,R,Z
-  12,L,J
-   2,J
-   2
-  18,L,X
-   5,R
-  15,R,D,C
-  15,R,U,X
-  40,R,D
-  21,L,D
-  14,L,Z
-   1,L,J
-   4,L
-   4,L,J
-   8,L
-   3
+## -4f no bino storage
+#    1,K,G
+#   16,G
+#    3,K,G
+#    1
+#    6,L,J
+#    6,L
+#   10,R,Z
+#   12,L,J
+#    2,J
+#    2
+#   18,L,X
+#    5,R
+#   15,R,D,C
+#   15,R,U,X
+#   40,R,D
+#   21,L,D
+#   14,L,Z
+#    1,L,J
+#    4,L
+#    4,L,J
+#    8,L
+#    3
+#    1,L
+#   18,R,D,X
+#   15,D,C
+#    3,R,D
+#    4,D
+#    6,L,D
+#    7,L,X
+#   20,L,J
+#   14,U,X
+#    5,L,J
+#    3,L
+#   15,R,D,X
+#    4,L,D
+#    9,R,D
+#   21,R
+#    1,D
+#    1,R,D
+#    1,D
+#    1,R
+#    1,R,D
+#    7,L,D
+#    3,L
+#    1,L,D
+#   29,L,Z
+#    6,L,D
+#   11,D
+#    1,R,D
+#    1,L,D
+#    1,R
+#   10,L,D,X
+##
+   5,J,G
+   1,K
+  15,R,J,G
+   6,R,Z
+   8,L,J
+   3,L
+   1,L,K
    1,L
-  18,R,D,X
-  15,D,C
-   3,R,D
-   4,D
-   6,L,D
-   7,L,X
-  20,L,J
-  14,U,X
-   5,L,J
-   3,L
-  15,R,D,X
-   4,L,D
-   9,R,D
+   1,L,K
+   9,L
+   3
+  15,R,X
+   1,R
+  15,R,U,Z
   21,R
-   1,D
-   1,R,D
-   1,D
-   1,R
-   1,R,D
-   7,L,D
-   3,L
-   1,L,D
-  29,L,Z
+   1
+  15,D
    6,L,D
-  11,D
-   1,R,D
+   2,L
    1,L,D
-   1,R
+   1,L
+   2,L,D
+   4,Z
+   1,L,J
+   1,L
+   7,L,K
+  14,L
+   1,J
+   8
+   1,L
+  12,R
+   4,R,D
+   1,R,D,N
+   1,R,D
+   2
+   1,L
+  15,R,Z
+  14,R
+   5,R,D
+  10,L,D
+   2
+   1,L
+   1,L,D
+   1,L
+   2,L,D
+  18,L,D,X
+  15,L,U,C
+   1
+  15,L,U,X
+  17
+   5,R
+   4,R,D
+   1,D
+  12,R,D
+  14,R
+   8,R,D
+   7,D
+   1
+   1,L,D
+   2,L
+  15,L,Z
+  14,L
+   5,L,D
+   6,D
+   1,L,D
+   6,D
+   1,R,D
+   1,D
   10,L,D,X
    2,R,J
    3,R
@@ -463,67 +534,140 @@ EndStunPause
    1,R,K
   23,L,D
   15,L,X
-   1,L
-  21,L,D
-   3,D
-   2
-   1,L,D
-   3
-  15,R,Z
-   8
-   7,L,Z
+## +13f non-bis strat
+#   22,L,D
+#    3,D
+#    2
+#    1,L,D
+#    3
+#   15,R,Z
+#    8
+#    7,L,Z
+#    1,R,J
+#    6,R
+#    1,R,J
+#    8,R,D,X
+#   40
+
+#    4,R,D,X
+#    1,S
+#    1,D,J
+#   34
+#    3,R,D,J
+#   12,R,D,X
+#   13,R,G
+#    1,R,J,G
+#    5,R,G
+#    2,R,J,G
+#   18,R,G
+#   12,R,J,G
+#    5,R,G
+#   10,R,J,G
+#   16,R,G
+#    1,R,D,G
+#    2,D,G
+#    1,R
+#   15,R,U,X
+#    1,J
+#   15,R,K,G
+#    1,K
+#    1,R,J,G
+#    7,R
+#    4,R,Z
+#    1,R,J
+#    4,R
+#    3,R,J
+#    5,R
+#    2
+#   13,D,X
+#   13,G
+#    1,J,G
+#   10,L,J,G
+#    1,K,G
+#    2,R,K,G
+#    8,R,K
+#    5,R
+#    2
+#    6,R,Z
+#    1,R,J
+#    7,R
+#    1,R,J
+#    8,R,D,X
+#   40
+##
+  13,L
+   1,R
+  12,R,D
+   3,R
+   2,D
+  15,R,X
+   5
+  14,L,D,X
    1,R,J
-   6,R
-   1,R,J
-   8,R,D,X
+  14,R,D,X
   40
 
 #lvl_a-06
-   4,R,D,X
-   1,S
-   1,D,J
-  34
-   3,R,D,J
-  12,R,D,X
+   1,R,K
+   6,R,D,K,X
+   1,S,N
+   1,D,O
+  34,K
+   1,R,K
+   7,R
+   1,R,J
+   5,R,D,X
   13,R,G
    1,R,J,G
-   5,R,G
-   2,R,J,G
   18,R,G
-  12,R,J,G
-   5,R,G
-  10,R,J,G
-  16,R,G
-   1,R,D,G
-   2,D,G
-   1,R
-  15,R,U,X
-   1,J
-  15,R,K,G
-   1,K
-   1,R,J,G
-   7,R
-   4,R,Z
-   1,R,J
-   4,R
-   3,R,J
-   5,R
-   2
-  13,D,X
-  13,G
-   1,J,G
-  10,L,J,G
+   5,R,D,G
+   9,R,J,G
+   1,R,G
+   6,G
+   2,K,G
+   1,G
    1,K,G
-   2,R,K,G
-   8,R,K
+   9,G
+   1,R,G
+   7,G
+   1
+  15,R,U,X
+   1
+   1,R,J,G
+   1,J
+   4,L,J
+   6,R,J
+   2,R
+   1,R,K,G
+   2,R
+   1
+   4,R
+   4,Z
+   1,R,J
+   3,R
+   2,R,K
    5,R
    2
-### spinner cycle [a-07]
+   1,R
+   1
+  12,D,X
+  13,G
+   1,R,K,G
+   1,J,G
+   7,L,J,G
+   3,J,G
+   1,K,G
+   8,R,K,G
+   6,R,G
+   1,R,D
+## spinner cycle [a-07]
    0
-###
+##
    6,R,Z
    1,R,J
-   7,R
+   1,R
+   1,R,K
+   5,R
    1,R,J
    8,R,D,X
   40
@@ -642,11 +786,11 @@ EndStunPause
    1,R
   15,L,X
   53
-   1,S
+   1,S,N
    1,D,J
   72,O
    9,J
   16,U,X
  135
 
-ChapterTime: 1:08.544(4032)
+ChapterTime: 1:08.391(4023)
