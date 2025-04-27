@@ -1,4 +1,4 @@
-RecordCount: 10844
+RecordCount: 11382
 
 console load StrawberryJam2021/3-Advanced/Nic
    1
@@ -349,10 +349,10 @@ EndStunPause
    4,L,X
    3,L,J
    5,L,K,G
-### 06-b Spinner Cycle
-   2
+### 06-a Spinner Cycle
+   1
 ###
-   1,S
+   1,S,N
    1,D,J
   69,O
    7,R,Z
@@ -475,21 +475,27 @@ EndStunPause
    3,R,J
   15,R,D,X
   10,R,D
-  19,R,J
-   3,J
+  11,R,J
+  15,R,D,X
+   1,R
+   2,R,D,J
+   4,R
+   4
+  11,L,C
+   8,L,J
+   2,L
+  14,U,X
+  10,L,J
+   1,K,G
+   8
+  16,R
    1,R,J
-   2,J
-  16,L,K
-   8,J,G
-   1,R,J
-   1,R,K
-  12,R,J
   15,U,X
-   5,L
-  21,L,J
+   3,R
+  27,L,J
   40
 
-#lvl_06-a (0)
+#lvl_06-a
   10,R,J
    2,L,K
   15,U,X
@@ -564,127 +570,82 @@ EndStunPause
    2,J,G
   10,R,J
    9,R
-   1,R,J
-  12,R
-   1,R,D
-   1,R
-   1,R,D
-   5,L,Z
-   1,R,J
-   6,R
-   1,R,J
-   2,R
-   5,R,D,X
-   1,R,J,G
-   2,R,K,G
-   1,R,J,G
-   3,R,K,G
-   6,R
-   1,R,K
-   2,R
+   2,R,K
+   8,R
+   3
+   2,D
+   1
+  10,R,X
+   7,R,J
+  12,R,K,G
+  15,R,U,X
+   9,R
+   1,L,J
+   9,J
+  14,R,U,Z
+   3,J,G
    1,R,J
    2,J
-   2,R,J
-   5,R
+   7
+  12,L,J
+   3,K,G
    1,R,K
-   2,R
-   6,R,J,G
-   2,R
-   2,R,J,G
-   1,R,K,G
-   2,R
-   2,R,J,G
-  15,R,D,X
-   2,R,D
-   2,R,J
-  40,J
-
-#lvl_06-b
-   2,R,J
-StunPause
-   3,R,J
-   4,J
-   1
-   2,R
-SkipInput 3 1
-  14,U,X
-   1,J
-EndStunPause
-   1,K,G
-   5,L
-  10
-   2,R
-   1
-   1,R,D
-   3,D
-  13,L
-   6,L,D
+   2,K
+   1,R,K
    1,L,J,G
-   7,L
-   7,L,Z
-   1,L,J
-   6,L
-   1,L,J
-   8,L,D,X
-  43
-
-#lvl_06-a (1)
-   6,L,D,X
-   1,L,J
-   9,L,U,X
-   1,L,J,G
-   6,L,K,G
+   1,L,K,G
+   1,R,K
    1,K
-   8,L,J,G
-   5,L
-   5,L,J
-   1,L
-   6,L,J
-  12,U,X
-   4,J
-  11
-   8,J
-   6,G
-   9,D,G
-   6,G
-   1,D,G
-   1,G
-   1,D,G
-   1,G
-  71
-   7,D,J
-   5
-   3,J
+   1,R,K
+   1,K
+   3,R,K
+   9,J
+  12,R
+  10,U,X
+StunPause
+   4,U,X
+   5,J
+  10
+   1,R
+SkipInput 3 1
+  15,U,Z
+   6,L
+SkipInput 3 1
+  13,U,X
+EndStunPause
+   2,U,X
+  11,L
+   4,L,D,J
+   3,L
   15,U,X
-  19,R,J
-  12,K,G
-  11,J,G
-   7
-  14,U,X
-  10,L,J
-   2,K,G
-   7
-  14,U,X
-  13,J
-   1,R,K,G
-   4,L
-   3
-  16,U,X
+   3,R,J,G
+   4,R
+   1,L
+   1,J,G
+   6,R
+   7,J,G
+   2,L
+   1,R
+   3,J,G
+   5,L
+   7,L,D,J
+  12,U,X
   40
 
 #lvl_07-a
-   2,L,J
-   9,R,J
-   4,R,K,G
-   9,U,X
-   7,L,J
-   8,J
+   1,S,N
+   1,D,J
+  69,O
+   6,R,J
+   8,U,X
+   6,L,J
+   9,J
   11
   14,U,X
-  13,R,J
-   4,R
-   6
+  12,R,J
    1,R
+  10,R,K
+   2,R
    2,J
   15,U,Z
   18,L,J
@@ -772,4 +733,4 @@ EndStunPause
   14,R,U,X
  135
 
-ChapterTime: 1:24.728(4984)
+ChapterTime: 1:23.708(4924)
