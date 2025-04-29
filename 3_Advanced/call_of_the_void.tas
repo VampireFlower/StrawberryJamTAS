@@ -1,4 +1,4 @@
-RecordCount: 4432
+RecordCount: 4564
 
 console load StrawberryJam2021/3-Advanced/Viv
    1
@@ -214,31 +214,30 @@ Endstunpause
    2,R
    2,L,G
    3,R,J,G
-  31,R,X
-   1,L
-   3
-   1,K,G
-  15,R,D,X
-  16,R
-   2,R,D
+  28,R,X
+   1
    2,R
-   4,L,J
+   4,L
+   1,J,G
+  31,R,D,X
+   4,D
+   3,R,J
+   5,R,U,X
   40
 
 #lvl_viv5 (0)
-   1,L,J
-   2,R,J
-   1,R
-  98,R,U,Z
-  51,L,J
-  39,D,G
-  25,U,G
-  15,D,X
+  10,R,U,X
    3,R
+  81,R,U,Z
+  50,L,J
+  39,D,G
+  21,U,G
+  15,D,X
+   2,R
   20,R,D,J
    1,L,K,G
-   7,J,G
-  60,R,J
+   6,J,G
+  61,R,J
   20,U,X
   25,L,J
    1,G
@@ -398,4 +397,4 @@ Endstunpause
   28,L,D,J
  139,R,X
 
-ChapterTime: 1:36.492(5676)
+ChapterTime: 1:36.322(5666)
