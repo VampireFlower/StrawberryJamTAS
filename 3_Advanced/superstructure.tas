@@ -1,4 +1,4 @@
-RecordCount: 7340
+RecordCount: 7411
 
 console load StrawberryJam2021/3-Advanced/Goldian
    1
@@ -327,45 +327,27 @@ console load StrawberryJam2021/3-Advanced/Goldian
   14,R,D,X
    1,R,J
   13,R,D,X
-   2,L
-   8,L,D,X
    1,R,J
-   3,R
-   1
-   1,R
-   1
-   1,R
-   1,R,D,J
    1,R,K,G
-   1,R,J,G
-  11,R,K,G
-   2,R
-   2,R,J,G
-   3,R
-   2
-   3,J
-  15,U,X
-  10,L
-   1,G
-   1,J
-   7,L,J
-   5,R,J
-   2,L,J
-  10,L,D,X
-   8,R,J
-   6,R
-   1,R,J
-   8,R
-  14,R,D
+   7,R
+   1
+   1,R
+   1
+  14,G
+  12,R,J,G
+  15,R,Z
+   1,R
+  21,R,J
+  15,R,X
+  28,R,D
+   6,D
+  15,D,X
+   1,L
    1,D
-  14,D,X
-   1,R,J,G
-   2,R
-   8
-   5,L
-   4,R
+   6
    6,R,G
-  34,G
+   1,D,G
+  35,G
    3,U,G
   12,J,G
   11,R
@@ -618,4 +600,4 @@ endrepeat
   13,R,U,X
  135
 
-ChapterTime: 1:15.752(4456)
+ChapterTime: 1:15.548(4444)
