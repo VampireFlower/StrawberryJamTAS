@@ -1,3 +1,17 @@
+Set,CollabUtils2.DisplayEndScreenForAllMaps,False
+unsafe
+console overworld
+2
+1,J
+94
+1,J
+56
+Repeat 20
+1,D
+1,F,180
+Endrepeat
+1,J
+14
 #To sync:
 #Use Celeste 1.4.0.0 (or latest)
 #Use Everest 5326 (or latest stable)
@@ -17,7 +31,7 @@ Read,1-BeginnerLobbyMain,Start
 
 Read,LoadLobbyfromHeartside
 
-Read,2-IntermediateLobbyMain,Start
+FileTime: 2:54:16.547(615091)
 
 Read,LoadLobbyfromHeartside
 
@@ -31,4 +45,6 @@ Read,LoadLobbyfromHeartside
 
 Read,5-GrandmasterLobbyMain,Start
 
-FileTime: 2:54:16.564(615092)
+FileTime: 
+
+***
