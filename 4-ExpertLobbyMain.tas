@@ -1,4 +1,3 @@
-Set,CollabUtils2.DisplayEndScreenForAllMaps,False
 #This file was made based off the files in the EL folder.
 Unsafe
 #This will wipe the debug save!
@@ -189,7 +188,5 @@ Read,EnterHeartside,Start
 Read,4_Expert/expert_heartside,Start
   61
    1,O
-FileTime: 46:30.839(164167)
-FileTime: 
 
-***
+FileTime: 46:30.856(164168)
