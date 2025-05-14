@@ -1,4 +1,4 @@
-RecordCount: 3355
+RecordCount: 3379
 
 console load StrawberryJam2021/4-Expert/pansear
    1
@@ -87,21 +87,17 @@ console load StrawberryJam2021/4-Expert/pansear
   10,R,J
   15,R,D,X
   21,R
-   4,R,J
-  10,R,Z
-   4,R,J
-   5,R
-#frameties updash
-  22,R,U,Z
-  15,L,U,V
-   4,L,J
-  10,L,X
-  23,R
+   7,R,J
+   4,Z
+  16,R,J
+  23,U,X
+  13,L,C
+  27,R
   14,R,D,X
-  12,R,J
+  11,R,J
   18,R,D,X
-  29,R
-  14,U,X
+  27,R
+  13,U,X
   14,R,J
    9,R
    3,R,K
@@ -455,4 +451,4 @@ console load StrawberryJam2021/4-Expert/pansear
   15,R,U,X
  135,R,D
 
-ChapterTime: 1:13.593(4329)
+ChapterTime: 1:13.559(4327)
