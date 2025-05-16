@@ -1,15 +1,13 @@
-RecordCount: 2943
+RecordCount: 3730
 
 console load StrawberryJam2021/4-Expert/nyan
    1
 
 #Start
+#Spinner cycle [a-02]
+   0
+
 #lvl_start
-
-## spinner cycle
-   2
-##
-
    6,R,Z
    1,R,J
    7,R
@@ -41,25 +39,27 @@ console load StrawberryJam2021/4-Expert/nyan
    8
    1,R,J
   15,D,X
-   7
-   3,R
-   1
-   1,R
-   5,U,X
-  20,L,J
-   5,J
+  10,L,D,C
    2,R,J
-   2,R,K,G
-  13,R,J,G
+   3,J
+   5,U,X
+  15,J
+   5,L
+   3
+   1,L
+   2
+   1,R
+   1,R,J,G
    1,R,K,G
-   7,R
-   1,R,G
-   4,R,K,G
-   8,R
-   3,R,D
-   1,R
-   9,R,D
-   1,R
+  12,R,J,G
+   1,K,G
+   7
+   1,G
+   1,R,J,G
+   2,L,J
+   2,R,J
+  10,R
+  11
   13,R,Z
    1,R,J
    1,L,K,G
@@ -75,25 +75,40 @@ console load StrawberryJam2021/4-Expert/nyan
    7,L
    4
    1,D
-  19
-   7,R
+   1
+   1,J
+   5
+   4,K
+   9
+   6,R
   24,R,J
   11,R,Z
-   6,R,J,G
-   8,R
-   2,R,J
-  26,R,D
-   4,R,Z
-   1,R,J
-   5,R
-  15
+   2,R,J,G
+   1,J
+   3,R,J
+  18,R
+   3,R,D
+  14,D
    4,Z
    1,R,J
-   8
-   1,R
-  13,D
+  15,R
+   1,R,D
+   1,D
+   1,R,D
+   1
+   1,R,D
+   2,J
+   5
+  15,R,D,X
+   3,D
   15,D,X
-  50,D
+   2,R
+   1,D
+   1
+   1,R
+   1,D
+   1
+  43,D
    1,J
    4,R,X
    4,R,J
@@ -148,8 +163,7 @@ console load StrawberryJam2021/4-Expert/nyan
    5,K
    1,L,J,G
    1,L,K,G
-   5,J,G
-   1,J
+   6,J,G
   16,R,Z
   10,J,G
    1,L,J
@@ -364,21 +378,24 @@ EndStunPause
    4,R
    2,R,J
   15,R,Z
-   4,R
-  10,R,G
+   3,R
+   1
+  10,G
    1,J,G
-  11
+   1,R
+  10
    2,R,D
    2,R
-   3,R,J
-   2,J
-   1,R,J
+   4,R,J
+   5,J
+   2,R,J
    1,J
-   1,R,J
-   9,J
-   1,R,J
-   2,L,J
-  49,R,G
+   4
+   1,R
+   1
+   1,L
+   1
+  48,R,G
    1,J,G
    1,R,K,G
    1,J,G
@@ -464,31 +481,38 @@ EndStunPause
    9,R,J
   15,L
   16,L,X
+   1,R,J
    4,Z
-   4,L,J
+   5,L,J
    1,L
-   1,L,J
-   2,L
-   8
-   1,R,D,J
-   1,L,J
-   4,L,K,G
-  15,L,X
-   1,L,G
-   7,J,G
-  26,U,G
-   1,R,J
-   9,R,K
-  27,R,D
-   6,R
-  15,R,X
-  11,R,D
-  15,R,J
-  14,R,Z
-  10,R,J
+   1,L,K
+   8,L
+   1,L,D,J
+   1,L,K,G
+  16,L
+   6,G
+   9,U,G
+   1,G
+  10,U,X
+  12,J
+   3,R
+   1
+   4,R
+   1
+  17,R
+   5,R,D
    1,R
-   1,R,J
+  15,R,X
   10,R
+  11,R,J
+   5,R
+  13,R,Z
+  10,R,J
+   2,R
+   2,R,K
+   1,R
+   1,R,K
+   6,R
   15,D,X
    4,R
    1,L
@@ -497,7 +521,8 @@ EndStunPause
   10,R,K
    4,R
   15,R,D,X
-   9,R,D
+   1,R
+   8,R,D
    1,R
    6,R,J
    1,R
@@ -567,4 +592,4 @@ EndStunPause
    9,R
  135,L
 
-ChapterTime: 1:09.394(4082)
+ChapterTime: 1:09.139(4067)
