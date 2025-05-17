@@ -1,4 +1,4 @@
-RecordCount: 6595
+RecordCount: 7511
 
 console load StrawberryJam2021/2-Intermediate/GlowWoomii
    1
@@ -6,7 +6,7 @@ console load StrawberryJam2021/2-Intermediate/GlowWoomii
 #Start
  190
 
-#Spinner cycle [r1]
+#Spinner cycle [r1] (2/3 stun)
    1
 
 #lvl_startroom
@@ -34,27 +34,29 @@ Repeat 4
    1,R,J,G
    1,R,J
 EndRepeat
-  15,R,G
-   2,R,J,G
+   7,R,J,G
+   6,R,J
   15,R,D,X
-   3,R,J
-   3,R
-  13,R,U,Z
+   1,R
+   5,R,J
+  11,R,U,X
   40
 
 #lvl_r1
-   1,R,U,Z
-   1,L,K,G
-  10,R,K
-   8,R,G
-   9,R,D
-  13,R,U,Z
-  11,R,G
+   1,R,U,X
+   1,L,J,G
+  10,R,J
+   7,R,G
+   3,R
+   1,R,K
+   4,R
+  11,R,U,Z
+  12,R,G
 StunPause
-   3,R,G
-   7,R,J
+   1,R,G
+   7,R,K
 EndStunPause
-   6,R,J
+   5,R
   14,U,X
   64,R,C
    8,R,U,Z
@@ -193,41 +195,42 @@ EndStunPause
    1,R,K,G
    3,R,J,G
    7,R
-   1,R,J
-   8,R,U,X
-   6,R,J,G
-   1,R
-   2,R,K,G
-   7,R
-   1,R,J
-  12,R,D,X
+   2,R,D,J
+   7,R,U,X
+   4,R,J,G
+   2,R
+   3,R,K,G
+   8,R
+   2,R,J
+   7,R,D,X
+   1,R,J,G
+   4,R
+   2
   40
 
 #lvl_r8
-   1,R,D,X
-   1,R,J
-  12,R
+   9,R
    1,R,N
-   1,R,J
-   2,R
-   5,R,Z
-   1,R,J
-   6,R
-   6,R,J
-  10,R,G
+  10,R,J
+   3,J
+   9,R,G
    1,G
-   3,L,G
-   2,R,J,G
+   1,L,G
+   1,R,G
+   1,R,J,G
    8,L
    7,L,G
-Repeat 3
+Repeat 2
    1,L,J,G
    1,L
    7,L,G
 EndRepeat
+   1,L,J,G
+   1,L,J
+   7,L,J,G
    2,L,J
   10,L,D,X
-   3,L,J,G
+   2,L,K,G
    5,L
    1,L,K
    7,L
@@ -237,17 +240,18 @@ EndRepeat
 
 #lvl_rhub (1)
    2,L
-   2,L,D
-  11,L,D,J
+   1,L,D
+   8,L,D,J
+   4,L
    1,R,K,G
   23,L,K
   15,U,X
-  18,L,J
-   1,L,K,G
-   1,R,K
-   1,L,K
-   8,K
-   1
+  10,L,J
+   1,R,J
+   1,L,J
+   3,J
+   3
+  12,K,G
    5,J,G
    4
    2,L
@@ -258,34 +262,41 @@ EndRepeat
   40
 
 #lvl_r9
-   1,L,J
-   8,L
-   1,L,J
-   1,L
-  10,L,X
-  18,L,J
+   2,L,J
+   9,L
+  11,L,X
+  12,L,J
+   5,L
   15,U,X
-   4,L
-  19,R,J
-   5,R,K,G
+   2,L
+  15,R,J
+   5,R
+   4,R,K,G
+   1,R
+   1,R,J,G
    7,R
-  12,R,J
+  11,R,J
    5,R,Z
    1,R,J
    6,R
    5,R,J
    2,R
   15,R,D,X
-  15,D
-  13,L,D,X
-   2,R,J
+  10,D
+   3
+   1,D
+   1,G
+  13,L,Z
+   1,R,J
+   1,R
   15,R,D,X
    9,R,D
-  12,R,J
+  11,R,J
   12,R,G
-   4,R,J
    1,R
-   1,R,J
+   3,R,K
+   1,R
+   1,R,K
    7,R
   15,R,Z
   10,R
@@ -352,4 +363,4 @@ EndRepeat
    1,L,J
   47
 
-ChapterTime: 0:38.573(2269)
+ChapterTime: 0:37.978(2234)
