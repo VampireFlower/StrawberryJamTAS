@@ -1,4 +1,4 @@
-RecordCount: 6045
+RecordCount: 6574
 
 console load StrawberryJam2021/5-Grandmaster/xplosives
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/5-Grandmaster/xplosives
   99
 
 #spinner_cycle
-   0
+   1
 
 #lvl_a0
    6,L,Z
@@ -25,31 +25,36 @@ console load StrawberryJam2021/5-Grandmaster/xplosives
   18,R,X
    6,R,G
   12,U,G
-   7,J
+   4,R,J,G
+   2,R
   13,R,D,X
    1,L,J,G
    1,K,G
-   1,L,J,G
+   1,J,G
    1,L,K,G
-   2,L
-  30,R,D
+   3
+  15,R
+  14,R,D
+   5,R
+   1,R,J
+   2,R
+  21,R,X
+   1,R
    3,R,J
-   9,J
-  18,R,D,X
+  14,U,X
+   6,L,J
    2,R,J
-   1,K
-  14,U,Z
-   7,L,J
-   3,R,J
+   1,J
+   1,R,J
    1,J
    1,K
-   1,R,K
+   1,R
    1,R,J,G
-   4,R,K,G
+   3,R,K,G
    1,R,J,G
-   7,R
-   2,R,J
-   4,R
+   8,R
+   2,R,K
+   3,R
    4,R,D
   15,L,D,X
   14,R,D,C
@@ -89,22 +94,26 @@ console load StrawberryJam2021/5-Grandmaster/xplosives
   15,L,D,X
   18,L,D
    5,L
-   5
-   1,L
-  31,G
-   7,D,G
+   6
+   5,G
    1
-   2,R,J
-  15,R,D,X
-  16,R,D
-   9,R,J
-   5,R
-  15,R,D,X
-  26,R,J
-  20,R,D,X
-   1,R,J,G
+  11,R
+  13,R,D
+   1,R
+   6,L,G
+   1,J
    1,K,G
-   5,R,K
+  15,R,D,X
+   4,D
+  13,R,D
+  12,R,J
+   1,R
+  15,R,D,X
+  12,R,J
+   5,R
+   9,R,K
+  20,R,D,X
+   7,R,J,G
   40
 
 #lvl_a2
@@ -353,4 +362,4 @@ endstunpause
   32,G
   54
 
-ChapterTime: 0:42.959(2527)
+ChapterTime: 0:42.908(2524)
