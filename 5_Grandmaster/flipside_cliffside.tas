@@ -1,4 +1,4 @@
-RecordCount: 4549
+RecordCount: 4590
 
 console load StrawberryJam2021/5-Grandmaster/tcookiem
    1
@@ -570,25 +570,28 @@ console load StrawberryJam2021/5-Grandmaster/tcookiem
    5,R
    1,R,K
    1,R
+   2,R
    1,R,K
-   3,R
+   1,R
   14,R,U,X
    2,J,G
    5,R
    1,L
    1
-   7,J
-  10,R,X
-   5,R,J
-  10,R,U,X
+   1,L,J
+   7,R,U,X
    1,R,K,G
    9,R
-  12,J
+   1,R,J
+   1,R
+  12,R,U,X
+   1,K,G
+   3
+   6,R
+  12,R,J
   14,R,U,X
    2,R,J,G
-   6,R
-   2,R,J
-   5,R
+  12,R
    4,L,Z
    1,L,J
    5,L
@@ -645,4 +648,4 @@ console load StrawberryJam2021/5-Grandmaster/tcookiem
    8,U,X
  135,D
 
-ChapterTime: 1:11.978(4234)
+ChapterTime: 1:11.961(4233)
