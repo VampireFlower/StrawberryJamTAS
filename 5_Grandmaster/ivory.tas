@@ -1,4 +1,4 @@
-RecordCount: 10799
+RecordCount: 12003
 
 console load StrawberryJam2021/5-Grandmaster/Linj
    1
@@ -61,61 +61,56 @@ console load StrawberryJam2021/5-Grandmaster/Linj
   12,L,D,X
    8,R,C
    4,R,J
-   6,R,K
+   4,R,K
+   2,K
   15,R,D,X
    1,R,J
   11,R,D,X
-  15,R,C
-   4,R,J
-   2,R,K
-  15,R,D,X
-   4,R,J
-  10,R,X
-   6,L,C
-   4,L,J
-   7,L,K
-  13,L,X
-   7,L,C
-   4,L,J
+   8,L,C
+   8,L,J
    3,L,K
-   4,K
-  12,L,D,X
-   6,L,J
-   4,L,K
-   3,R,K
-   1,R
+   1,L,J,G
+  11,L,D,X
+   9,L,C
+   4,L,J
+   1,L
+   2,L,K
+   1,L
+  15,L,U,X
+   7,R
    1,R,J
-  10,R,Z
-   4,R,J
-   1,R
-   1,R,K
-   2,R
-   6,R,J,G
-   4,R,K,G
-   6,R,D,X
-   4,R,J,G
+   5,R,D,X
+   2,R,J,G
    5,R
-   1,R,K
-   2,R
+   1,S,N
+  10,J
    1,R,J
+   4,R
+  10,R,D,X
+   2,R,J,G
+   5,R
+   2,R,K
+   3,R
+   5,R,J
   15,R,D,X
-   6,R
-   6,R,D
-  10,D
+  28,R
    1,L,J
+   1
   40
 
 #lvl_Hawthorne
-   2,J
-   2
-  20,R,D,X
-  12,L,D
-   4,R,D
-   7,R,J
-   5,R
-   3,R,K
-  10,R
-   9,R,X
+   5
+  15,R,D,X
+   8,R,D
+   2,L,D
+  10,D
+   7,L,D,X
+   2,R,D
+  12,L,J
+   5
+   8,K
+   6
+   5,R,X
   40
 
 #lvl_Ascent
@@ -205,4 +200,4 @@ console load StrawberryJam2021/5-Grandmaster/Linj
    9,R,D,X
  135
 
-ChapterTime: 0:26.690(1570)
+ChapterTime: 0:26.486(1558)
