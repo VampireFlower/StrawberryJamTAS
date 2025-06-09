@@ -1,4 +1,4 @@
-RecordCount: 9797
+RecordCount: 10278
 
 console load StrawberryJam2021/2-Intermediate/Rocketguy2
    1
@@ -6,8 +6,11 @@ console load StrawberryJam2021/2-Intermediate/Rocketguy2
 #Start
   76
 
-#Spinner Cycle RG2-1
+#Spinner cycle [RG2-1]
    0
+
+#Spinner deload cycle [RG2-8]
+   3
 
 #lvl_RG2-0
 #waiting for ability to pause
@@ -24,7 +27,7 @@ console load StrawberryJam2021/2-Intermediate/Rocketguy2
    6,R
    1,R,J
   10,R,D,X
-   1,S
+   1,S,N
    1,D,J
   34
    1,R,J
@@ -115,7 +118,7 @@ EndStunPause
   40
 
 #lvl_RG2-4
-#RG2-9 spinner cycle
+#Spinner cycle [RG2-8]
    1
 #
   15,R,J
@@ -297,7 +300,7 @@ EndStunPause
 #lvl_RG2-8
    1,R,N
    2
-   1,S
+   1,S,N
    1,D,J
   34
   11,L,Z
@@ -306,31 +309,29 @@ EndStunPause
    5,R
    1,R,J
    2,R
-  15,R,X
-  12,R,D
+  15,R,K,X
+   7,R,K
+   1,K,AR
+   1,R,K
+   3,K,AR
+   1,K,G,AR
+   1,K,AR
+  10,R,D,K
+  10,K,AR,ML
+   1,K,AR,MLD
+   1,K,AR,ML
+   4,K,AR,MLD
+   1,K,G,AR
+   2,K,AR
+   1,K,G,AR
+   1,K,AR
+   5,K,AR,ML
+   2,AR,ML
+   7,AR
+  10,R
    1,R,G
-  10,R,D
-   7,D,AR,ML
-   5,AR,ML
-   1,AR
-   9,D,AR,ML
-   1,S,N
-   1,J
-   8
-   2,R,J,G
-  11,AR
-  16,R,D,G
-   5,R,G
-   1,R,D,G
-   8,R,G
-   1,S,N
-   1,J
-   8
-   2,R,J,G
-   1,S,N
-   1,J
-   8
-   2,R,K,G
+   5,R
+  21,R,G
    1,S,N
    1,J
    8
@@ -356,26 +357,28 @@ EndStunPause
    8
    2,R,K,G
    1,R,J,G
+   1,R,K,G
+   1,R,J,G
    3,R,K,G
 StunPause
-   2,R,K
+   2,K
 EndStunPause
-   2,R,K
-   1,K
-  14,R,U,Z
-   8,R
-   4
    2,R
+  13,R,U,Z
+  10,R
+   2,R,K
+   1,R,J,G
+   5
+   1,R
   40
 
 #lvl_RG2-9
-   1,R,J
+   1,R
    6,R,D,X
 StunPause
    2,R,D,X
-   2,R,J
+   3,R,J
    1,J
-   1,R,J
 EndStunPause
    2,R
    1
@@ -384,7 +387,7 @@ StunPause
    2,R
 EndStunPause
   18,R
-  10,R,D,J
+  10,R,J
   14,R,U,X
    1,R,J,G
   33,R,D
@@ -402,4 +405,4 @@ EndStunPause
   16
  101,G
 
-ChapterTime: 0:53.176(3128)
+ChapterTime: 0:52.870(3110)
