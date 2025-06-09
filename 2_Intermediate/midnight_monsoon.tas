@@ -1,4 +1,4 @@
-RecordCount: 5810
+RecordCount: 6387
 
 #console evalcs Action<float, long> i1 = (float timeRate, long frames) =>{long num4 = Math.Abs(frames);bool flag = frames < 0;float num5 = 0.0166667f * timeRate * (flag ? (-1f) : 1f);for (long num6 = 0L; num6 < num4; num6++){((Level)Engine.Scene).TimeActive += num5;}}
 console load StrawberryJam2021/2-Intermediate/Luma
@@ -110,25 +110,29 @@ console load StrawberryJam2021/2-Intermediate/Luma
    1
    1,R
    1
-  11,R,D,J
+  10,R,D,J
+   1,J
    1,R,K,G
-   5,R,J,G
+   1,R,J,G
+   4,J
    1,R,K
-   6,R
+   5,R
    1,R,J
-  10,R
-   1,R,D,K
+   2,R,K
+   5,R
+   3,R,K
   40
 
 #lvl_1
-   1,R,D,K
+   5,R,K
   14,R
-   1
-   4,R
-   4,D,X
+   4,Z
    1,R,J
-   4,R
-  16,R,J
+   1,R
+   1
+   1,R,K
+   1,R
+  17,R,J
   18,R,D,X
   16,R,U,C
   18,R,G
@@ -141,9 +145,9 @@ console load StrawberryJam2021/2-Intermediate/Luma
    1,L,D
    1,L
    1,L,D
-   1
-   1,L,D
-   4,D
+   1,L
+   1,D
+   4,L
   10,R,X
    3,J
    9,R,J
@@ -181,7 +185,6 @@ console load StrawberryJam2021/2-Intermediate/Luma
 #lvl_2
    3,R,J
    7,R
-
    1,J
    3,R,J
    1,J
@@ -325,7 +328,7 @@ console load StrawberryJam2021/2-Intermediate/Luma
   20,R,G
   12,L,D,G
 #spinner cycle
-   1
+   0
 #
   43,R,X
   15,U,C
@@ -365,62 +368,81 @@ ENdStunPause
    1
    1,R,J,G
    1,R,K,G
-   9,R
-   3,R,J
+   1,R
+   1
+   1,R
+   1
+   2,R
+   2
+   1,R
+   2,R,J
+   1,J
    1,R,K,G
-  13,R
-   1,R,J
-   4,R
+   4,R,J,G
+  15,R
   40
 
 #lvl_4
-   1,R,J
-   8,R,Z
-   5,R,J
-  18,J,G
-   3,K
-   1,L,K
-  11,K
-  17,D,X
-   1,L,J
-  14,L
-   1,L,J
-   2,L
-  28,L,G
-   3,G
-   1,D
-   1,N
- 239
- 150,D
-   9
-  14,R,U,Z
-#spinner unload cycle
-   0
-#
-  15,R,D,V
-  13,D
-  60,R,D
-   9,D
-  15,D,AU
-  10,R,D,AU
-   6,D,AU
-   1,R,D,AU
-   5,D,AU
-  25,R,D,AU
-   2,L,D
-   9,R,D
-   4,R,Z
-   2,R,J
+   3,R
+   1,R,N
    1,R
+  34
+#Spinner cycle
+   2
+#
+  85,AD
+   1,O
+  19
    2,R,J
-   7,R
-   3,R,J
+   5,R,Z
+   4,R,J
+   6
+StunPause
+  10,L
+EndStunPause
+   3
+   4,D
+  21,L,G
+   1,R
+  10,L
+   3,L,D
+  10,D
+   1
+  35,D
+StunPause
+  20,D
+SkipInput 3
+   4,D
+   9,R,D
+EndStunPause
+  11,R,D
+  14,R,J,G
+  17,R,D,G
+   1,L
+  10,R
+  13,R,D
+  15,R,Z
+   2
+   1,L
+   3,R,D
+  20,R
+   1,R,D
+   1,R
+   2,R,D
+  12,R,J
+   5,R
+   1,R,K,G
+   1,R,J,G
+   8,R
+   1,R,K
   40
 
 #lvl_5
-  12,R,J
-   9,U,X
-  33,R
+   1,R,K
+   8,R,J
+   2,R
+  20,R,U,X
+  27,R
   18,R,D,C
   32,R,X
   15,U,C
@@ -602,4 +624,4 @@ ENdStunPause
    1,L,J,G
   47,L,K,G
 
-ChapterTime: 1:24.881(4993)
+ChapterTime: 1:24.048(4944)
