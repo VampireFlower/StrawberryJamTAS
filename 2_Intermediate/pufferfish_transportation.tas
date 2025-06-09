@@ -1,4 +1,4 @@
-RecordCount: 10278
+RecordCount: 10351
 
 console load StrawberryJam2021/2-Intermediate/Rocketguy2
    1
@@ -8,9 +8,6 @@ console load StrawberryJam2021/2-Intermediate/Rocketguy2
 
 #Spinner cycle [RG2-1]
    0
-
-#Spinner deload cycle [RG2-8]
-   3
 
 #lvl_RG2-0
 #waiting for ability to pause
@@ -328,10 +325,14 @@ EndStunPause
    5,K,AR,ML
    2,AR,ML
    7,AR
-  10,R
+  17,R
    1,R,G
-   5,R
-  21,R,G
+   1,R
+   1,R,G
+   1,R
+   6,R,G
+   5,G,AR,MU
+  12,R,G
    1,S,N
    1,J
    8
@@ -352,33 +353,30 @@ EndStunPause
    1,J
    8
    2,R,J,G
-   1,S,N
-   1,J
-   8
-   2,R,K,G
+   1,R,K,G
    1,R,J,G
    1,R,K,G
    1,R,J,G
-   3,R,K,G
-StunPause
+   1,R,K,G
    2,K
-EndStunPause
-   2,R
-  13,R,U,Z
-  10,R
+StunPause
    2,R,K
+EndStunPause
+  14,R,U,Z
+   2
+   8,R
+   3,R,K
    1,R,J,G
-   5
-   1,R
+   6,R
   40
 
 #lvl_RG2-9
-   1,R
+   1
    6,R,D,X
 StunPause
    2,R,D,X
-   3,R,J
-   1,J
+   2,J
+   2,R,J
 EndStunPause
    2,R
    1
@@ -405,4 +403,4 @@ EndStunPause
   16
  101,G
 
-ChapterTime: 0:52.870(3110)
+ChapterTime: 0:52.751(3103)
