@@ -1,4 +1,4 @@
-RecordCount: 1340
+RecordCount: 1365
 
 console load StrawberryJam2021/2-Intermediate/pixelator
    1
@@ -354,22 +354,33 @@ console load StrawberryJam2021/2-Intermediate/pixelator
    1,R
   10,R,X
    7,R,J
-  12,R,K,G
-   6,J,G
+  11,R,K,G
+   1
+   5,J,G
+   1
    5,R,Z
    1,R,J
-   7,R
+   6,R
    1,R,J
-  30,R,D
-  14,R,D,X
+   6,R
+   1,R,K
+  13,R
+   1,R,D
+   1,D
+   1,R,D
+   9,D
+  12,R,D,X
    1,R,J
-   5,R,D,X
+   2,R
+   4,Z
    1,R,J
-   7,R
-  13,R,J
+   3,R
+   1,R,K
+   3,R
+  12,R,J
    1,L,K,G
   13,R,K
   14,R,U,X
  135
 
-ChapterTime: 0:48.127(2831)
+ChapterTime: 0:48.110(2830)
