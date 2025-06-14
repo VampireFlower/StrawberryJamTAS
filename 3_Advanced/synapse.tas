@@ -1,4 +1,4 @@
-RecordCount: 17910
+RecordCount: 18512
 
 console load StrawberryJam2021/3-Advanced/MousseMoose
    1
@@ -9,6 +9,7 @@ console load StrawberryJam2021/3-Advanced/MousseMoose
 #lvl_intro_fall
 #spinner cycle
    1
+#
    1,R,K
    1,R,J
    1,R,K
@@ -54,7 +55,7 @@ console load StrawberryJam2021/3-Advanced/MousseMoose
   16,L,D
    2,D
   11,L,Z
-   1,S
+   1,S,N
    1,D,J
   34
   16,L
@@ -113,11 +114,14 @@ EndRepeat
    4,L
    2
    1,L
-   5,R,Z
+   4,Z
    1,L,J
-   8,L
    1
-   5,L,D,X
+   2,L
+   1
+   2,L
+   4
+   4,Z
    1,L,J
    3,L
    6,L,D
@@ -151,62 +155,80 @@ EndRepeat
    5,R,D,X
    1,R,J
    6,R
-   4,R,J
-   9,R
-   5,R,J
-   4,R,K,G
-   5,R
-  14,R,U,X
-   1,R,J,G
-   9,R
-   2,R,J
-   7,R,D
-  13,L,D
-   2,L
-  13,L,K
-   1,J,G
-   5,L,J
-   6,R,J
-  15,R,Z
-  17,D
-  11,R,D
-   7,D
-   2,R,D
-  10,R,Z
-  11,R,J
-   4,R
    3,R,J
-   2,R
-  18,U,X
-  15,U,C
-  15,R,X
    5,R
+   3,R,K
+   1,R
+   1,R,K
+   5,R
+   4,R,J,G
+   5,R
+  14,R,U,Z
+  11,R,J,G
+   4,R
+   1
+   5,L,K
+   5,J,G
+   5,R,J
+  18,R
+  14,R,D
+   1,D
+   7,R,D
+   2,R,D,J
+   3,R
+   2,D,J
+   1
+   2,R
+   2,D
+   1,R,D,J
+   2,J
+  14,L,D,X
+   1,R,J
+  15,R,D,X
+   1,R,D
+   3,R,J
+   1,J
+   3
+   1,R
+   2
+  18,U,X
+   2,L
+  15,R,U,C
+  15,R,X
+   6,R
    6,R,Z
    1,R,J
    7,R
    1,R,J
   15,R,D,X
-#cycle
-  15,D,C
+  15,R,D,C
+   4,Z
+   1,R,J
+   1,L
+   1
+   1,L
+   7
    4,Z
    5,L,J
-   5,L
-   2,L,J
-   3,L
+  10,L
    1,L,J
 
 #lvl_a3
-   3,L,J
+   3,J
 StunPause
-   3,L,J
-   4,L
-skipinput 3 1
+   1,J
+   2,L,J
+   1,J
+   1,L,J
+   1,J
+   2
+SkipInput 3 1
    9,U,X
 EndStunPause
-   1
    9,R,J
   11,R
-   2,R,J
+   1,L,D,J
+   1,R,J
   11,L,D,X
    1,L,J
    9,L
@@ -341,7 +363,7 @@ EndStunPause
    3
    6,R,D,X
    1,R,J
-   1,S
+   1,S,N
    1,D,J
   34
    6
@@ -444,42 +466,40 @@ EndStunPause
    4,L,J
   10,R,X
    1,L,J
-   4,J
-   6
+   8,J
+   1
   10,L,Z
-   1,R,J
-   2,J
-   6,R,J
-   4,R
-   1,R,J
+   5,R,J
+   3,J
    2,R
+   2,R,K
+   3,R
    1,R,K,G
    1,K
    1,R,K
-   5,K
+   1,K
+   1,R,K
+   1,K
+   1,R,K
+   1,K
   15,U,X
   18,U,C
    1
   15,U,X
    2,L
-   2
-   1,L
-   1
-   4,L
-  10,L,J
+   3
+   5,L
+   7,L,J
+   3,J
   15,U,X
    1,L
    1,L,J,G
-   1,L,K,G
-   4,L
-   1,L
-   1,L
-   1,L,J
-   7,L
-   5,L,J
-   5,J
-   1,L,J
-   2,J
+   2,L
+   1
+  10,L
+  11,L,J
+   1
+   2,L
   18,U,X
   10,U,C
 ## alt cycle ##
@@ -623,7 +643,7 @@ EndRepeat
    1,R,J
   12,R,D,X
    1,L,J
-   1,S
+   1,S,N
    1,D,J
   34
    8,L,J
@@ -851,4 +871,4 @@ EndRepeat
    1,R,J
   30,R
 
-ChapterTime: 1:30.508(5324)
+ChapterTime: 1:30.457(5321)
