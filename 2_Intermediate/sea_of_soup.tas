@@ -256,7 +256,7 @@ console load StrawberryJam2021/2-Intermediate/SpoopySoup
   15,R,U,X
    1,F,0.01
   10,U,X
-Repeat 3
+Repeat,3
    1,R,J
    1,R,K
 EndRepeat
@@ -368,7 +368,7 @@ EndRepeat
    1
   19,L,D
    1,R,D
-Repeat 16
+Repeat,16
    1,F,270,0.29
    1,D
 EndRepeat

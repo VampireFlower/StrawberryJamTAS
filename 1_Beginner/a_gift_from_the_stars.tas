@@ -8,10 +8,10 @@ console load StrawberryJam2021/1-Beginner/HankyMueller
 
 #lvl_Intro A
    5,L
-repeat,5
+Repeat,5
    1,L,J
   14,L
-endrepeat
+EndRepeat
    4,L
    6,L,J
    4,L
@@ -408,11 +408,11 @@ endrepeat
    6,R,D,X
    1,R,J
    4,R
-stunpause
+StunPause
    4,R
-skipinput 3 1
+SkipInput,3,1
   14,D,X
-endstunpause
+EndStunPause
    2,D
   40
 

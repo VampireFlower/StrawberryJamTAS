@@ -339,10 +339,10 @@ console load StrawberryJam2021/2-Intermediate/Luma
   26,R
 StunPause
    8,R
-SkipInput 3 1
+SkipInput,3,1
   15,R,Z
    3,R
-SkipInput 3 1
+SkipInput,3,1
    8,L,D,X
    2,R,J
 EndStunPause
@@ -647,13 +647,13 @@ EndStunPause
   31,R,D,K
    4,X
   52,R,D,X
-Repeat 4
+Repeat,4
    1,R,J
    1,R,K
 EndRepeat
    1,R,J
    1,L,K
-Repeat 7
+Repeat,7
    1,L,J
    1,L,K
 EndRepeat

@@ -67,7 +67,7 @@ console load StrawberryJam2021/4-Expert/Stotch
   15,R,X
    5,R
   12,D
-Repeat 1
+Repeat,1
    1,R,D
    1,D
 EndRepeat

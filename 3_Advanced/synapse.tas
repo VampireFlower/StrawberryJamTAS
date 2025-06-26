@@ -82,7 +82,7 @@ console load StrawberryJam2021/3-Advanced/MousseMoose
   15,U,X
    5,L
    1,R,J,G
-Repeat 5
+Repeat,5
    1,L,J
    1,J
 EndRepeat
@@ -222,7 +222,7 @@ StunPause
    1,L,J
    1,J
    2
-SkipInput 3 1
+SkipInput,3,1
    9,U,X
 EndStunPause
    9,R,J
@@ -249,7 +249,7 @@ EndStunPause
    1,R,K
    6,L,K
    1,L,J,G
-Repeat 3
+Repeat,3
    1,J
    1,R,J
 EndRepeat
@@ -308,7 +308,7 @@ EndStunPause
    2,R
    1,L,J,G
    1,L,K,G
-Repeat 4
+Repeat,4
    1,R,K
    1,K
 EndRepeat
@@ -347,7 +347,7 @@ EndRepeat
    2,R
    5
 StunPause
-skipinput 3 1
+SkipInput,3,1
    6,R,D,X
    1,R,J
    6,R
@@ -509,10 +509,10 @@ EndStunPause
    1,U
 StunPause
 ###############
-skipinput 3 2
+SkipInput,3,2
    7,U
    8,R
-skipinput 3 1
+SkipInput,3,1
   15,U,Z
    2,R
    3,L
@@ -588,7 +588,7 @@ EndStunPause
    7
    1,L
    1
-Repeat 5
+Repeat,5
   14,D,X
    1
 EndRepeat
@@ -706,7 +706,7 @@ EndRepeat
   33,R,Z
   28,R,V
   15,R,D,X
-Repeat 2
+Repeat,2
   14,D,C
    1
 EndRepeat

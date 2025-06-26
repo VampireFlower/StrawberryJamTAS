@@ -164,7 +164,7 @@ console load StrawberryJam2021/4-Expert/Aspar
    4,R,K
    6,L
    1,L,J,G
-Repeat 7
+Repeat,7
    1,R,J
    1,J
 EndRepeat

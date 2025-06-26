@@ -513,7 +513,7 @@ EndStunPause
   11,D
   37,R,X
   23,D
-Repeat 39
+Repeat,39
    1,R,D
    1,L,D
 EndRepeat

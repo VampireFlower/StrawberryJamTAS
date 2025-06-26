@@ -408,9 +408,9 @@ console load StrawberryJam2021/5-Grandmaster/alisticious
    5,R,U,X
   18,U
    1,L,J
-Stunpause
+StunPause
    1,L,J
-EndStunpause
+EndStunPause
   11,L,J
    5,L,U,X
    1,U

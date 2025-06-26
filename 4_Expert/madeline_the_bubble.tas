@@ -811,15 +811,15 @@ EndStunPause
   16,L,U,Z
    2,L
   32
-repeat 6
+Repeat,6
    2,R,D
    4,L,D
    2,R,D
-endrepeat
+EndRepeat
    4,L
-repeat 7
+Repeat,7
    5,L,D
    2,R,D
-endrepeat
+EndRepeat
 
 ChapterTime: 1:41.388(5964)

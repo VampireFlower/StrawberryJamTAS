@@ -2012,7 +2012,7 @@ EndStunPause
   14,R,D
   32,L,D
    9,L,U
-Repeat 33
+Repeat,33
    1,L,J
    1,L,K
 EndRepeat

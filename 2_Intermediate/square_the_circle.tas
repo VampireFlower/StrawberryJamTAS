@@ -640,9 +640,9 @@ EndStunPause
    1,L,K,G
    5,R,K
    4,R
-Stunpause
+StunPause
    6,R
-Endstunpause
+EndStunPause
    2,R
    5,D,C
    7,D,X

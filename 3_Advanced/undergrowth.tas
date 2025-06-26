@@ -607,10 +607,10 @@ StunPause
    5,J
   10
    1,R
-SkipInput 3 1
+SkipInput,3,1
   15,U,Z
    6,L
-SkipInput 3 1
+SkipInput,3,1
   13,U,X
 EndStunPause
    2,U,X

@@ -130,7 +130,7 @@ EndStunPause
    1,R,J,G
    8,R
    5
-Repeat 29
+Repeat,29
    1,D
    1
 EndRepeat

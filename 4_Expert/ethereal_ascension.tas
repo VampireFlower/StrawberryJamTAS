@@ -323,7 +323,7 @@ EndStunPause
   20,L,J
 StunPause
   19,L,G
-SkipInput 3 1
+SkipInput,3,1
    7,U,X
    3,J
    4,R,J
@@ -433,7 +433,7 @@ StunPause
    1,R,U,G
    1,L
    1,R
-SkipInput 3 1
+SkipInput,3,1
   11,U,Z
 EndStunPause
    4,U,Z

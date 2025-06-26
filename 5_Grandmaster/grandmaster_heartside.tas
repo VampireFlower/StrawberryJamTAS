@@ -969,12 +969,12 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
   15,U,X
   13
    2,L
-Repeat 15
+Repeat,15
    1,L
    1
 EndRepeat
    6,R
-Repeat 18
+Repeat,18
    1,R
    1
 EndRepeat
@@ -1126,7 +1126,7 @@ EndRepeat
    1,L,K
    3,K
    1,R,J,G
-Repeat 6
+Repeat,6
    1,L,J
    1,R,J
 EndRepeat
@@ -1236,9 +1236,9 @@ EndRepeat
    4,L,J
    4,L
   27
-AnalogMode Square
+AnalogMode,Square
    1,F,249.201
-AnalogMode Ignore
+AnalogMode,Ignore
   10,F,305
    9,F,352
   13,F,358.4
@@ -1622,8 +1622,8 @@ AnalogMode Ignore
    1,S,N
    1,D,J
   34
-Set CelesteTAS.SimplifiedGraphics true
-Set CelesteTAS.SimplifiedBackdrop true
+Set,CelesteTAS.SimplifiedGraphics,true
+Set,CelesteTAS.SimplifiedBackdrop,true
    4,L,J
   15,U,X
    2,L
@@ -1793,8 +1793,8 @@ Set CelesteTAS.SimplifiedBackdrop true
  349
 
 #lvl_e0-Clarity
-Set CelesteTAS.SimplifiedGraphics false
-Set CelesteTAS.SimplifiedBackdrop false
+Set,CelesteTAS.SimplifiedGraphics,false
+Set,CelesteTAS.SimplifiedBackdrop,false
   22,R
    2,J,G
    6,R,Z
@@ -2930,7 +2930,7 @@ EndStunPause
    7,L,J
   16,U,X
    2,R
-Repeat 34
+Repeat,34
    2,R,D
    2,L,D
 EndRepeat

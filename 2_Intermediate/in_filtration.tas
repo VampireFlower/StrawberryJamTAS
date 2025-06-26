@@ -45,7 +45,7 @@ console load StrawberryJam2021/2-Intermediate/Jems
    5,R
    1,R,J
    2,L,J
-Repeat, 7
+Repeat,7
    1,R,J
    1,L,J
 EndRepeat
@@ -544,7 +544,7 @@ EndStunPause
    1,L,J
    2,L
   36,X
-Repeat 15
+Repeat,15
    1,L,U
    1,R,U
    1,L,D
@@ -935,12 +935,12 @@ EndRepeat
   10,R,J
    1,L,J
   11,L
-Repeat, 11
+Repeat,11
    1,G
    1
 EndRepeat
    4,R
-Repeat, 9
+Repeat,9
    1
    1,R
 EndRepeat

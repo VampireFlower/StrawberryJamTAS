@@ -354,7 +354,7 @@ console load StrawberryJam2021/4-Expert/Flamecrafter113
    1,R
 StunPause
    1,R
-SkipInput 3 1
+SkipInput,3,1
    6,D,X
 EndStunPause
    5,D,X

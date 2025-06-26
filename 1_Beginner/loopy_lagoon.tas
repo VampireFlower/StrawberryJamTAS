@@ -603,7 +603,7 @@ console load StrawberryJam2021/1-Beginner/coffe
   12,R,J,G
   17,R
    5,L,D,X
-Repeat 33
+Repeat,33
    2,L
    2,R
 EndRepeat

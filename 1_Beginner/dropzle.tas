@@ -7,10 +7,10 @@ console load StrawberryJam2021/1-Beginner/Owen-Shirrell
    4,R,Z
    1,J
   12
-repeat,36
+Repeat,36
    1,O
    1,J
-endrepeat
+EndRepeat
 
 #lvl_00 - Overpass
    1,L,J

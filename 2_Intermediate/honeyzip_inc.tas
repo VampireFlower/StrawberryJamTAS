@@ -29,7 +29,7 @@ console load StrawberryJam2021/2-Intermediate/GlowWoomii
    1,K
    1,R,K
   32,R,J
-Repeat 4
+Repeat,4
    7,R,G
    1,R,J,G
    1,R,J
@@ -191,7 +191,7 @@ EndStunPause
    1,R,J,G
    8,L
    7,L,G
-Repeat 2
+Repeat,2
    1,L,J,G
    1,L
    7,L,G
@@ -306,7 +306,7 @@ EndRepeat
    6,L
    4,R
   12,R,J
-Repeat 3
+Repeat,3
    7,R,J,G
    1,R,K,G
    1,R

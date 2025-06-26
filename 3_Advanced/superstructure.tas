@@ -580,10 +580,10 @@ EndStunPause
    1,R,D,J
    1,R
   17,R,D,X
-repeat,6
+Repeat,6
    1,R,J
   14,R
-endrepeat
+EndRepeat
    9,R,J
    1,R
   12,R,D,X

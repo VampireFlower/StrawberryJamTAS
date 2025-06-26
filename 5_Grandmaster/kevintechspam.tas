@@ -306,7 +306,7 @@ console load StrawberryJam2021/5-Grandmaster/Todd
    1,L,J
   15,R,D,X
   20
-AnalogMode Precise
+AnalogMode,Precise
   60,F,120
   13,F,132.8
    1,R
@@ -427,7 +427,7 @@ AnalogMode Precise
    1,J,G
    1,K,G
 StunPause
-SkipInput 3 1
+SkipInput,3,1
    5,R,D,X
    1,L,J,G
    1,R,J

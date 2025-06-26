@@ -255,11 +255,11 @@ console load StrawberryJam2021/5-Grandmaster/RedBatNick
    1,L,J
   37,L,D
   16,R,D
-stunpause
+StunPause
    9,R,D
   15,L,D
    8,D
-endstunpause
+EndStunPause
    1,D
    9,L,D
    9,D

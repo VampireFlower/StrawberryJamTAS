@@ -146,10 +146,10 @@ console load StrawberryJam2021/4-Expert/spirialis
    3,R,J
    3
   18,R
-repeat 5
+Repeat,5
    1,R,J
    1,R,G
-endrepeat
+EndRepeat
   15,G
   10,R,J
    3
@@ -217,23 +217,23 @@ endrepeat
    1,R,K,G
    1,R,G
    5,R,D,X,G
-repeat 4
+Repeat,4
    1,R,D
    1,R,D,G
-endrepeat
+EndRepeat
    1,R,D,G
-repeat 4
+Repeat,4
    1,R,D
    1,R,D,G
-endrepeat
+EndRepeat
    1,R,D
    1,R,D,J,G
    4,Z,G
    1,R,D
-repeat 5
+Repeat,5
    1,R,D,J,G
    1,R
-endrepeat
+EndRepeat
    1,R,K,G
    1,R,J,G
    1,R,K,G
@@ -341,10 +341,10 @@ endrepeat
   10,R,D
    8,R,D,J
    1,D,J,G
-repeat 4
+Repeat,4
    1,D,J
    1,D,J,G
-endrepeat
+EndRepeat
    1,R,J
    1,R,D,J,G
    1,R,D,J
@@ -534,10 +534,10 @@ endrepeat
    2,D
    8,G
    1,L,D,J
-repeat 8
+Repeat,8
    1,L,G
    1,L,K
-endrepeat
+EndRepeat
   11,L,G
    5,L,J
    3,K

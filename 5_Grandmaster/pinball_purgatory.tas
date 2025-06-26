@@ -370,9 +370,9 @@ console load StrawberryJam2021/5-Grandmaster/maya
    7,R
 StunPause
   13,R
-SkipInput 3 1
+SkipInput,3,1
    8,R,D,X
-SkipInput 3
+SkipInput,3
   10,R,D,X
    1,L,D
    7,R,D

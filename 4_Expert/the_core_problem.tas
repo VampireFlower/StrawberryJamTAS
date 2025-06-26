@@ -551,7 +551,7 @@ StunPause
    1,D
    2
    1,L
-SkipInput 3 1
+SkipInput,3,1
    4,L,Z
    2,R,J
    3,R
@@ -674,17 +674,17 @@ EndStunPause
    7,R,X
 StunPause
   10,R
-SkipInput 3 1
+SkipInput,3,1
   11,R,C
-SkipInput 3
+SkipInput,3
    9,R
-SkipInput 3 1
+SkipInput,3,1
    8,R,D,X
    3,K,G
    2,R,K
    1,L,K
    1,R,K
-SkipInput 3 1
+SkipInput,3,1
   11,U,X
 EndStunPause
    1

@@ -202,7 +202,7 @@ console load StrawberryJam2021/5-Grandmaster/Soloiini
    1,R,J
    5,R,D,X
   13,R,G
-Repeat 2
+Repeat,2
    1,R,J,G
   14,R,G
 EndRepeat
@@ -215,7 +215,7 @@ EndRepeat
    1,R,J
    6,R,D,X
   13,R,G
-Repeat 2
+Repeat,2
    1,R,J,G
   14,R,G
 EndRepeat
@@ -441,7 +441,7 @@ EndRepeat
   31,R,G
    2,G
    1,D
-Repeat 22
+Repeat,22
    2,D
    2
 EndRepeat
@@ -532,7 +532,7 @@ EndRepeat
    2,R
    1,R,N
    1,R,K
-Repeat 26
+Repeat,26
    1,L,D,J
    1,R,D,K
 EndRepeat

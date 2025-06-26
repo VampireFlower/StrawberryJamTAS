@@ -506,12 +506,12 @@ console load StrawberryJam2021/2-Intermediate/thebreadstick1
    2,D,J
 StunPause
    3,D,J
-SkipInput 3 1
+SkipInput,3,1
   15,U,X
    1
-SkipInput 3 1
+SkipInput,3,1
    8,R,U,Z
-ENdStunPause
+EndStunPause
   14,R
    1
    2,J,G

@@ -486,15 +486,15 @@ console load StrawberryJam2021/1-Beginner/Jadeturtle
    5,R
   13,R,J
   54,L,D,X
-repeat, 6
+Repeat,6
    2,R
    2,L
-endrepeat
+EndRepeat
    5,L,J
-repeat, 9
+Repeat,9
    3,R,J
    3,L,J
-endrepeat
+EndRepeat
    2,R,J
 
 ChapterTime: 1:08.289(4017)

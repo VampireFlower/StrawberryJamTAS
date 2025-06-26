@@ -43,10 +43,10 @@ console load StrawberryJam2021/3-Advanced/Viv
    1
    1,O
   24
-repeat 6
+Repeat,6
    1,J
    1,O
-endrepeat
+EndRepeat
   25
   10,L,D,X
   11,R,J
@@ -169,9 +169,9 @@ endrepeat
 StunPause
    9,D
    3,L,J
-SkipINput 3 1
+SkipInput,3,1
    7,R,D,X
-Endstunpause
+EndStunPause
    6,R,D
    5,R,J
   14,R,X

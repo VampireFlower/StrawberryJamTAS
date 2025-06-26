@@ -452,7 +452,7 @@ EndRepeat
   23,R,D
    1,L,D
    3,D
-Repeat 9
+Repeat,9
    1,F,90,0.29
    1,D
 EndRepeat
@@ -680,20 +680,20 @@ EndRepeat
    1,F,152,0.29
    1,F,140.6,0.29
    2,F,90,0.29
-repeat,7
+Repeat,7
    1,D
    1,F,90,0.29
-endrepeat
+EndRepeat
   17,F,90,0.29
    1,F,82.8,0.29
    1,F,75.5,0.29
    1,F,68,0.29
    1,F,60,0.29
    1,F,56.4,0.29
-repeat,9
+Repeat,9
    1,F,90,0.29
    1,U
-endrepeat
+EndRepeat
    1,F,47.5,0.29
   10,U
    1,L
@@ -794,12 +794,12 @@ endrepeat
    4
    6,L
    1,F,131.28
-Repeat 10
+Repeat,10
    1,F,270,0.29
    1,F,228.72,0.29
 EndRepeat
    1,F,226.92,0.29
-Repeat 4
+Repeat,4
    1,F,231.78,0.29
    1,D
 EndRepeat
@@ -898,9 +898,9 @@ EndRepeat
    1,K
    4,L,K
   26
-AnalogMode Square
+AnalogMode,Square
    1,F,21.62
-AnalogMode Ignore
+AnalogMode,Ignore
   16,F,0.001
    2,F,0.001,0.4
    1,F,359

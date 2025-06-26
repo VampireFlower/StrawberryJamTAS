@@ -323,10 +323,10 @@ EndStunPause
    1,R
 StunPause
    7,R
-SkipInput 3 1
+SkipInput,3,1
   15,R,X
    1,R
-SkipInput 3 1
+SkipInput,3,1
   13,D,X
 EndStunPause
    2,D,X

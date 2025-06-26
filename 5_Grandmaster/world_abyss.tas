@@ -41,7 +41,7 @@ StunPause
    1,L,J,G
    1,R,J
    7,R
-EndStunpause
+EndStunPause
    2,R
    1,R,J
   18,R,D
@@ -85,7 +85,7 @@ EndStunpause
   22,R
    6,R,G
    3,U,G
-Repeat 25
+Repeat,25
    1,D,G
    1,U,G
 EndRepeat
@@ -104,7 +104,7 @@ EndRepeat
    5
   42,G
    1
-Repeat 7
+Repeat,7
    1,J
   25,R,J
    1,K
@@ -356,7 +356,7 @@ StunPause
 EndStunPause
    3,D
 StunPause
-SkipInput, 3, 1
+SkipInput,3,1
   14,R,U,Z
 EndStunPause
    1,J,G
@@ -668,7 +668,7 @@ EndStunPause
    1,J,G
   18
    1,R
-Repeat 20
+Repeat,20
    2,L
    2,R
 EndRepeat
@@ -684,7 +684,7 @@ EndRepeat
    7
    1,J
    4
-Repeat 3
+Repeat,3
    1,J
   10
    2,J
@@ -699,7 +699,7 @@ EndRepeat
    1,K
   21,J
    1,L,G
-Repeat 3
+Repeat,3
    1
    4,G
 EndRepeat

@@ -538,7 +538,7 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    9,L
   23,D
 #key cycle :)
-Repeat 2
+Repeat,2
    3
    1,D
    1

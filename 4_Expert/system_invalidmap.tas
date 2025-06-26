@@ -33,7 +33,7 @@ console load StrawberryJam2021/4-Expert/Skunkynator
    8,K,G
    4,L,K
   12,L,J,G
-Repeat, 4
+Repeat,4
   12,K,G
   12,J,G
 EndRepeat

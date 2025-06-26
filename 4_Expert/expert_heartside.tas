@@ -1403,7 +1403,7 @@ EndStunPause
    2,K
    2
   12,L,J
-AnalogMode Square
+AnalogMode,Square
   27,F,43
    6,F,6.132
    1,F,5.675
@@ -1412,7 +1412,7 @@ AnalogMode Square
   20,F,345
    8,F,0
    6,F,26.4
-AnalogMode Ignore
+AnalogMode,Ignore
   14,R,Z
    2,R,J,G
    6,R
@@ -3606,11 +3606,11 @@ EndStunPause
    1,R,J
   15,R,D,X
    1
-Repeat 7
+Repeat,7
    1,D
    1
 EndRepeat
-Repeat 5
+Repeat,5
    1,L
    1,R
 EndRepeat
@@ -3876,7 +3876,7 @@ EndRepeat
    1,R,J
    4,R
    1,R,D
-Repeat 4
+Repeat,4
    2,R,D,J
    3,R
 EndRepeat

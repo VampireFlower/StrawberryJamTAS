@@ -267,7 +267,7 @@ EndStunPause
    6,R
 StunPause
    2,R
-SkipInput 3 1
+SkipInput,3,1
   14,R,U,Z
    1,R,J,G
 EndStunPause

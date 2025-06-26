@@ -1,0 +1,4 @@
+ForceCorrectCommandCasing = true
+CommandArgumentSeparator = ","
+RoomLabelStartingIndex = 0
+RoomLabelIndexing = "CurrentFile"

@@ -17,10 +17,10 @@ console load StrawberryJam2021/0-Lobbies/3-Advanced -288 536
    6,L,D
    1,D
    3
-Repeat 17
+Repeat,17
    1,L,J
    1,L,K
-Endrepeat
+EndRepeat
    5
   11,L
   12,L,Z

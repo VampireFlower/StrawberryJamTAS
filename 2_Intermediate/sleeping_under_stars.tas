@@ -307,7 +307,7 @@ console load StrawberryJam2021/2-Intermediate/Arphimigon
    2,J
   15,R,U,Z
    6
-Repeat 8
+Repeat,8
    1,R,G
    1
    1,L,G
@@ -331,7 +331,7 @@ EndRepeat
   13,R,J
   16,L,D
    6,D
-Repeat 2
+Repeat,2
    6
    6,D
 EndRepeat
@@ -339,7 +339,7 @@ EndRepeat
    4,D,J
    8
   35,U,X
-Repeat 4
+Repeat,4
    9,D
    9
 EndRepeat

@@ -472,10 +472,10 @@ EndStunPause
 StunPause
    4,R
    1,R,D
-SkipInput 3 1
+SkipInput,3,1
   15,R,Z
    2,R
-SkipInput 3 1
+SkipInput,3,1
   15,D,X
    1,R,D
 EndStunPause
@@ -1325,7 +1325,7 @@ EndStunPause
    1,D
   15,R,X
    5,R
-Repeat 17
+Repeat,17
    1,R,G
    1
 EndRepeat

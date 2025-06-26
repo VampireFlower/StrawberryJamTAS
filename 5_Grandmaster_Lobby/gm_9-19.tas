@@ -48,7 +48,7 @@ console load StrawberryJam2021/0-Lobbies/5-Grandmaster 2864 1096
    2,R,J
   14,R,U,X
   27,L,U
-AnalogMode, Precise
+AnalogMode,Precise
   17,F,347.59
   62,F,345.18
   23,F,347.32
@@ -88,7 +88,7 @@ AnalogMode, Precise
   20,F,310.387
    1,F,315.654
  100,F,0
-AnalogMode Ignore
+AnalogMode,Ignore
    2
   16,U,X
    1,N

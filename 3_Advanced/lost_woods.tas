@@ -1,6 +1,6 @@
 RecordCount: 3351
 
-set Language english
+Set,Language,english
 console load StrawberryJam2021/3-Advanced/Oppen
    1
 

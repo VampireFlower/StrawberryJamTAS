@@ -410,7 +410,7 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
    1,L,J,G
    1,L,K,G
    1,K
-Repeat 3
+Repeat,3
    1,R,K
    1,K
 EndRepeat

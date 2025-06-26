@@ -363,7 +363,7 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   12,K,G
    1,L,J,G
    2,R,J
-Repeat 3
+Repeat,3
    1,J
    1,R,J
 EndRepeat

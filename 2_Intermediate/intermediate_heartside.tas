@@ -734,7 +734,7 @@ EndStunPause
   31,R,Z
 StunPause
    1,R,Z
-SkipInput 3 1
+SkipInput,3,1
    4,R,J
    4,R
    7,R,K
@@ -743,7 +743,7 @@ SkipInput 3 1
   13,J,G
   11,L,K,G
    4,L,J,G
-SkipInput 3 1
+SkipInput,3,1
    8,U,X
 EndStunPause
    7,U,X

@@ -79,9 +79,9 @@ EndStunPause
    4,R
   16,R,D,X
 StunPause
-SkipInput 3 1
+SkipInput,3,1
    4,R
-SkipInput 3 1
+SkipInput,3,1
   13,R,U,Z
 EndStunPause
    1,R,J,G
@@ -382,19 +382,19 @@ EndRepeat
    5,R,J
    2,R
   11,R,D,X
-stunpause
+StunPause
    7,R,D,X
    1,R,D
-endstunpause
+EndStunPause
    5,R,D
-stunpause
+StunPause
    2,R,D
-endstunpause
+EndStunPause
    1,R,D
-stunpause
+StunPause
    7,R,D
    1,R,D,J
-endstunpause
+EndStunPause
    9,R,D,J
   40
 

@@ -466,7 +466,7 @@ EndStunPause
    9,R,J
 #bruh
   23,R,U,X
-Repeat 45
+Repeat,45
    2,R,D
    1,L,D
 EndRepeat
