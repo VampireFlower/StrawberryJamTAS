@@ -1,4 +1,4 @@
-RecordCount: 10257
+RecordCount: 10417
 
 console load StrawberryJam2021/4-Expert/Agent
    1
@@ -237,43 +237,23 @@ EndStunPause
    8,R,J
   19
    4,R
-   7,R,D,J
-   4,R
+   6,R,D,J
+   5,R
+   6
+   1,R,K
    1
-   1,R
-   3
-   4,K
-   1
-   7,R
-   2
-   1,R
-   5,U,X
-   9,R,J
-   9,L,J
-  15,L,X
-# Skipping coin is possible
-# but about 14f slower - Marlin
-  20,R
-## -1f with a better spinner cycle
-#  12,R,J
-#   4
-#  15,U,X
-#  14,J
-#   1,R,J
-#   3,R
-#   4
-#  15,L,D,X
-##
-   1,R
+   8,R
   12,R,J
-   2,R
-   3
+   7,R
+   1
   15,U,X
-   2
+  18,L
+  15,U,X
+   4,L
   15,J
+   5
    4,R
   15,L,D,X
-##
    6,R,Z
    1,L,J
    6,L
@@ -282,8 +262,8 @@ EndStunPause
   14,U,X
   10,L,J
   11,L
-   6,L,J
-   1,L
+   5,L,J
+   2,L
    8,L,Z
    1,L,J
    6,L
@@ -326,7 +306,7 @@ EndStunPause
    7,R
    3
 #Spinner cycle 2
-   1
+   0
 #-----
   14,U,X
    7,R,J
@@ -446,4 +426,4 @@ EndStunPause
   35,R
  100,D
 
-ChapterTime: 0:49.419(2907)
+ChapterTime: 0:49.113(2889)
