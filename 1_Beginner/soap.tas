@@ -1,4 +1,4 @@
-RecordCount: 5713
+RecordCount: 6040
 
 console load StrawberryJam2021/1-Beginner/Circumplex
    1
@@ -118,15 +118,21 @@ console load StrawberryJam2021/1-Beginner/Circumplex
    8,R
    2,R,J
   13,R,D
-  37,R
-   1,R,G
-   8,D
-   6,R,D
-   9,R,G
-  16,R
+  37,R,K
+   1,K,G
+   1,K
+   1,L,K
+   1,R,D,K
+  12,K
+   6,K,G
+   1,D,K,G
+   1,K,G
+   1,D,K,G
+   2,R,K
+  13,R
   15,R,U,Z
-  36,R
-  17,R,D
+  38,R
+  14,R,D
   12,R,X
    1,L
    1,K,G
@@ -198,10 +204,12 @@ console load StrawberryJam2021/1-Beginner/Circumplex
    9,U,X
    1,J
   11,R,J
-   5,R
-   1,K,G
-   7,R
-   1,R,J
+   2,R
+   3
+   1,J,G
+   3,R
+   1
+   3,R
    6,R,Z
    1,R,J
    7,R
@@ -237,7 +245,7 @@ console load StrawberryJam2021/1-Beginner/Circumplex
    1
    8,R
   15,R,Z
-### spinner cycle [07]
+### spinner cycle [07] (2 spinner cycles work)
    0
 ###
   30,R,X
@@ -267,30 +275,29 @@ console load StrawberryJam2021/1-Beginner/Circumplex
   40
 
 #lvl_07
-#stuns yellow
-##with spinner cycle 0
-#  10,D
-#  15,L,D,X
-#  32,L,D
-#  16,R,D
-#  13,L,D
-#  24,D
-#StunPause
-#  12,D
-#EndStunPause
-#   1,D
-#  43
-#with spinner cycle 2
-  10,D
+   5,R,D
   15,L,D,X
-  32,L,D
-  15,R,D
-  25,L,D
-  13,D
-StunPause
+  38,L,D
   12,D
+   3,R,D
+   2,D
+   1,R,D
+   4,D
+   3,L,D
+## stun blue
+#   14,L,D
+#   14,D
+#StunPause
+#   10,D
+#EndStunPause
+#    1,D
+## stun yellow
+  28,D
+StunPause
+  10,D
 EndStunPause
    1,D
+##
   43
 
 #lvl_08
@@ -319,21 +326,29 @@ EndStunPause
   11,D,X
   15,D,C
   14,D
-   2
+   1,R
+   1,D
    3,R
   15,R,Z
-   1,L
-   3,J,G
-   9,R,J
-  15,U,X
-  19,R,Z
-  20,R
-  15,U,Z
-  18,L
+   1
+  13,L,J,G
+   1,J
+   1,L,J
+   3,L
+  15,R,U,X
+  15,R,U,Z
+  22,R
+  15,L,U,X
+   1,L,J,G
+   1
+   1,L,K,G
+   1,R
+   6,L
   10,L,X
-  12,L,J
+  11,L,J
   15,U,X
-   8,R,J
+   4,R,J
+   4,J
   40
 
 #lvl_09
@@ -518,4 +533,4 @@ Repeat,39
    1,L,D
 EndRepeat
    1,R,D
-ChapterTime: 1:19.849(4697)
+ChapterTime: 1:19.526(4678)
