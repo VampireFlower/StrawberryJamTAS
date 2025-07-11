@@ -1,5 +1,5 @@
 #draft by Vamp
-RecordCount: 1978
+RecordCount: 1980
 
 console load StrawberryJam2021/1-Beginner/NotYourBadeline
    1
@@ -14,7 +14,7 @@ console load StrawberryJam2021/1-Beginner/NotYourBadeline
    7,R
    1,R,J
    8,R,D,X
-   1,S
+   1,S,N
    1,D,J
   34
    2,R
@@ -115,7 +115,7 @@ console load StrawberryJam2021/1-Beginner/NotYourBadeline
   12,R,D,J
   40
 
-#lvl_a-05
+#lvl_a_05
    3,R,J
   21,R,D,X
    1,D
@@ -233,7 +233,7 @@ console load StrawberryJam2021/1-Beginner/NotYourBadeline
 
 #lvl_a_09
   15,R,D,X
-   1,S
+   1,S,N
    1,D,J
   34
   10,R,D
