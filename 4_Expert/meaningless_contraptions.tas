@@ -1,4 +1,4 @@
-RecordCount: 11209
+RecordCount: 11616
 
 console load StrawberryJam2021/4-Expert/powerav
    1
@@ -447,7 +447,7 @@ EndStunPause
    3,R,J
   11,R
 ## spinner cycle
-   2
+   0
 ##
    6,R,Z
    1,R,J
@@ -483,52 +483,49 @@ EndStunPause
    1,L
    1
    1,R,J,G
-   5,R
-   2,R,J
-   1,R
+   1,L
+   6,R
    6,L,Z
    2,R,J
-   5,R
+   1,K,G
+   7,R
    1,R,D,J
    1,L,K,G
+   2,R
+  12,R,D,X
+StunPause
+   2,R,D,X
+EndStunPause
+   1,R,D,X
+   1,R,D
    4,R
+   3,R,J
 StunPause
-SkipInput,3,1
-   6,R,D,X
-EndStunPause
-   5,R,D,X
-StunPause
-   3,R,D,X
-EndStunPause
-StunPause
-EndStunPause
-   3,R,D,X
-   4,R,J
-StunPause
+   2,R,J
 EndStunPause
    1,R,J
 StunPause
+   2,R,J
 EndStunPause
    3,R,J
-StunPause
-EndStunPause
-   6,R,J
   12,R
-  11,R,D
-   1,L,D
-   1,L
-   1,R
+   2,R,J
   15,R,D,X
-   2,R,D
-  23,D,X
+   1,R,J
+   8,R
+  15,D,X
+   3,R,D
+   3,D
+   2,L,D
+   4,D
   12,R,D
    5,R,J
    5,R
    2,R,J
    3,R
    1,R,J,G
-  10,R,K,G
-   2
+   9,R,K,G
+   2,K
   13,U,X
    1,R,J
    8,R
@@ -801,4 +798,4 @@ EndStunPause
   19,R,U,X
  135
 
-ChapterTime: 1:38.923(5819)
+ChapterTime: 1:37.920(5760)
