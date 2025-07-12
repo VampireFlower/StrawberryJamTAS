@@ -1,4 +1,4 @@
-RecordCount: 19194
+RecordCount: 19196
 
 #console evalcs Action<float, long> i1 = (float timeRate, long frames) =>{long num4 = Math.Abs(frames);bool flag = frames < 0;float num5 = 0.0166667f * timeRate * (flag ? (-1f) : 1f);for (long num6 = 0L; num6 < num4; num6++){((Level)Engine.Scene).TimeActive += num5;}}
 console load StrawberryJam2021/2-Intermediate/Dooshii
@@ -728,8 +728,7 @@ EndStunPause
    8,R,J
    2,R
   15,R,D,X
-   1,R
-   4,R
+   5,R
   14,R,Z
    1,R,J
   10,R,D,V
@@ -846,8 +845,7 @@ EndStunPause
    3,R,J,G
    6,R
    1,R,J
-   2,R
-   1,R
+   3,R
    1,R,J
    7,R,U,Z
   40

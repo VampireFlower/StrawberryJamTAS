@@ -1,4 +1,4 @@
-RecordCount: 7402
+RecordCount: 7403
 
 console load StrawberryJam2021/4-Expert/rdoggo8
    1
@@ -27,7 +27,7 @@ console load StrawberryJam2021/4-Expert/rdoggo8
    1,R,K
   22,R,J
   15,U,X
-   2,U,X
+   2
   28,R,G
    4,L,G
    6,L
@@ -563,8 +563,7 @@ console load StrawberryJam2021/4-Expert/rdoggo8
   30,R,G
   24,R,D,G
   40,R,U,G
-   4,U,G
-   1,U,G
+   5,U,G
    2,D,G
    1,R,D,G
    1,D,G

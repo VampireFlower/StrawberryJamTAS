@@ -47,7 +47,6 @@ EndRepeat
    2,R
   15,R,D,X
   10,R,D
-
    1,R,J
   14,R,D,X
    1,R,J
@@ -64,7 +63,6 @@ EndRepeat
    3,R
    3,R,J
    5,R,D,X
-
    2,R,J,G
   13,R
    1,R,D,J
@@ -181,7 +179,6 @@ EndRepeat
    1,R,J
    4,R
    1
-
   15,R,U,Z
    5,L,X
   11,R
@@ -735,8 +732,7 @@ EndRepeat
    7,R
   10,R,D,J
   18,R,K,H
-   1
-   1
+   2
    1,R
    1
    7,U,X

@@ -252,8 +252,7 @@ console load StrawberryJam2021/5-Grandmaster/Hydro
    1,L,J
   13,R,J
    1,R,K,G
-  13,R
-   6,R
+  19,R
   16,R,J
    6,J
   29,G
@@ -421,7 +420,7 @@ EndStunPause
    1,D
   40
 
-#lvl_Welcome Again
+#lvl_Welcome Again.
   11,R,D
    7,D
    7,R,D

@@ -1,4 +1,4 @@
-RecordCount: 6054
+RecordCount: 6055
 
 console load StrawberryJam2021/4-Expert/Aspar
    1
@@ -265,7 +265,6 @@ EndStunPause
    4,L
    1,L,J
   23,L,D
-
   15,L,X
    7,L,D
   20,D
@@ -391,9 +390,7 @@ EndStunPause
    4,R
    1,R,K,G
    7,R,J,G
-   5,R
-
-  14,R
+  19,R
    1,R,D
    1,R
    4,R,Z
@@ -470,8 +467,7 @@ EndStunPause
    1,K
   24,R,K
   10,R,J,G
-   8,R
-   2,R
+  10,R
    2
    2,R
    1

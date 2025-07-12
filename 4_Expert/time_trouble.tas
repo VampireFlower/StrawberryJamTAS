@@ -1,4 +1,4 @@
-RecordCount: 6371
+RecordCount: 6372
 
 console load StrawberryJam2021/4-Expert/Moladan
    1
@@ -369,8 +369,7 @@ EndRepeat
 #endstunpause
 #   9,R,D,J
 #  40
-
-#bot yells at me if theres a room label here
+##lvl_a-06
 #   2,R,J
 #   5,R
 #   3,R,J
@@ -512,8 +511,7 @@ EndStunPause
   11,J,G
    1,R,J
    2,R
-   7
-  11
+  18
   18,R,X
   15,U,C
    6,L
