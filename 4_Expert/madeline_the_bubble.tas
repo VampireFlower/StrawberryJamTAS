@@ -1,4 +1,4 @@
-RecordCount: 16222
+RecordCount: 16306
 
 console load StrawberryJam2021/4-Expert/Vina
    1
@@ -617,7 +617,7 @@ EndStunPause
 #lvl_Vina-08
    2,R,D,X
    7,R,J
-   1,S
+   1,S,N
    1,D,J
   34
    1,R
@@ -667,29 +667,29 @@ EndStunPause
   14,U,Z
    7,G
   41,L
-   6,L,G
+   8,L,G
    1,L
-  15,L,X
-  14,L,U,C
-  24,L,G
-   1,L
-  24,L,X
-  18,R
-  38,R,G
+  15,L,U,Z
+  17,L,X
+  18,L,G
    1,G
-   1,R,G
+   1,L,G
+   1,G
+   1
+  17,L,U,Z
+   7,G
+  38,R
+   4,R,G
    1,R
-  14,R,U,X
-  22,R,G
+  15,R,X
    1,R
-  14,R,U,X
-  26,R,G
+  14,R,U,C
+  29,R,G
    1,R
-  12,R,U,Z
+  14,R,U,Z
   37,R,G
-   3,R,D,G
-   3,R,G
-   1,R,D,G
+   6,R,D,G
+   1,R,G
    1,R
   14,R,X
    1,R,J,G
@@ -822,4 +822,4 @@ Repeat,7
    2,R,D
 EndRepeat
 
-ChapterTime: 1:41.388(5964)
+ChapterTime: 1:40.878(5934)
