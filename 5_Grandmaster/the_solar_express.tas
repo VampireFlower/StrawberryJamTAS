@@ -1,4 +1,4 @@
-RecordCount: 21187
+RecordCount: 21280
 
 console load StrawberryJam2021/5-Grandmaster/Soloiini
    1
@@ -1214,27 +1214,27 @@ EndRepeat
   21,L,U,X,G
   86,R,G
   74,U,X,G
-   1,S,N
-   1,D,O
-  36
 
 #lvl_Luxury Suite
-   4,Z
+   1,S,N
+   1,D,O
+  34
+   6,R,Z
    1,R,J
-  12,R
+   7,R
    1,R,J
-   8,R,D,X
-   1,R,J
-   2,R
+  12,R,D,X
   43
 
 #lvl_Breathe
-   6,R
    1,R,J
-  18,R,J,G
-   4,R,G
+   3,R
+   1,R,K
+   3,R
+   1,R,J
+  21,R,J,G
    1,R
-  12,R,Z
+  10,R,Z
    1,R,J
    2,R,K,G
    1,R,J,G
@@ -1242,8 +1242,9 @@ EndRepeat
    1,R,J,G
    2,R,K,G
    5,R,D,X
-  13,R,G
-   9,R,J,G
+  14,R,K,G
+   2,R,G
+   6,R,J,G
   28,R,D,G
    1,D,G
   40
@@ -1266,4 +1267,4 @@ EndRepeat
   23,L,U,Z
  116,L
 
-ChapterTime: 2:42.605(9565)
+ChapterTime: 2:42.520(9560)
