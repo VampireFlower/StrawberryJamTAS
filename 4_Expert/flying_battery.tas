@@ -1,4 +1,4 @@
-RecordCount: 4983
+RecordCount: 5027
 
 console load StrawberryJam2021/4-Expert/alicequasar
    1
@@ -41,15 +41,13 @@ console load StrawberryJam2021/4-Expert/alicequasar
    1,R,J
    9,R,D,X
   18,R,G
-   2,R,J,G
-   2,R,G
-   1,D,J
-   3,J
-  12,L,Z
-   1,G
-  13,R,X
-  18,U,C
-   9,R,G
+   3,R,J,G
+   6,R,J
+   8,U,X
+  13,G
+   1,L,G
+   3,G
+  11,R,G
    1,L
    3,R
   15,R,D,X
@@ -467,4 +465,4 @@ console load StrawberryJam2021/4-Expert/alicequasar
   14,R,U,X
  135
 
-ChapterTime: 0:56.474(3322)
+ChapterTime: 0:56.304(3312)
