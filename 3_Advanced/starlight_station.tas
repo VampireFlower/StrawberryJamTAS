@@ -1,4 +1,4 @@
-RecordCount: 13899
+RecordCount: 15146
 
 console load StrawberryJam2021/3-Advanced/Jolly
    1
@@ -501,16 +501,17 @@ console load StrawberryJam2021/3-Advanced/Jolly
   15,R,J
    8,R
    6,R,K
-   9,L,K
-   1,L,D,K
-   1,K
-   1,R,D,J
-   1,K,G
-   1,J,G
-  13,L,U,X
-  12,R
-  15,R,U,X
-   9,R
+   4,L,K
+   5,L
+   1,L,D
+   2,L
+   1,R,G
+  12,J,G
+   4,L
+  15,U,X
+   1,R,J,G
+   2,L,J
+   7,R
    8,R,Z
    1,R,J
    5,R
@@ -551,8 +552,8 @@ StunPause
 SkipInput,3,1
   12,U,X
 EndStunPause
-   2,U,X
-  14,L
+   3,U,X
+  13,L
    4,R
    1,R,J
   15,R
@@ -568,138 +569,133 @@ EndStunPause
   18,U,X
   15,R,U,C
   15,R,U,X
-  10
-   1,R
-   6,L
+  17
   14,R,Z
    1,L,J
-  11,L,Z
+   8,L,Z
    1,R,J
-   1,R,K,G
-   6,R,J,G
-   4,R
-  13,R,U,Z
+   6,R
+   9,R,J
+  10,R,U,Z
 # Spinner Cycle
-   0
+   1
 #
-  32,R,X
-  15,R,D,C
-   6,L,Z
+  40,R,X
+   7,R,D,C
    1,R,J
    7,R
    1,R,J
-  14,R,D,X
-   1,R,J,G
-   3,L
-   7,R
-StunPause
-   2,R
-EndStunPause
-   6,R
-   7,R,D
+   7,R,D,X
+   1,R,J
+   1,J
+   5
+   2,K
    1
-   9,R
-   1,L
-   4,R
-  12,R,J,G
-  11,R,K,G
-   1,R
-   1,R,J,G
-   2,L,J
-   3,R,J
-   7,R
-   5,R,Z
-   1,R,J
-   7,R
-   2,R,J
-   1,R
-   5,R,D,X
-   1,R,J,G
-   1,R
+   1,R,D
+   3,R
    1
-   9,R
-   3,R,J
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+   1
+   1,R
+   1,R,J,G
    6,R
+   2,R,K
+   1,R
+   3,K
+   1
+   8,R
+   3,R,D
+   4,D
+   5,R,U,X
+   7,L,J,G
+   5
+   2,K
+   3
+   7,L,J
+   3,R,J
+   7,R,U,X
   40
 
 #lvl_brys3
+   7,R,U,X
+   3,L,J,G
+   1,R,J
+   5,R
+   2,K
+StunPause
+   5,R,D
+   1,D
+   8,R,D
+EndStunPause
+   3,R
+   2,R,D
+  15,D,X
+   3,R
+   4,Z
+   8,R,J
+   1,R
+   1,R,K
+  13,R
+   4,R,D
+   3,D
+   1,R,D
+   9,R,Z
+  29,R,J
+   1
+  10,K,G
+  15
+   1,G
+   1,R,J,G
+   7
+   2,K
+   1
+   1,L,D,J
+   7
+  26,R,G
+   1,U,G
+  11,R,J,G
+  15,R
+   7,R
+   3
+  10,R,Z
+   1,R,J
    3,R
    1,R,K
    1,R
-  15,R,U,Z
-   9
-   1,L,G
-   1,L
-   1
-   1,L
-   4
-  28,G
+   2,R,J
+   1,L,J
+   6,U,X
+   1,K
    1,J,G
    1,K,G
-   1,L,J,G
-  11,R,J
-   1,R
-  29,L
-  14,L,U,X
-  12,R
-   4,R,J
-  10,L,D,X
-  23,R,J
-   5,R
-  14,R,X
-  21,R,D
-   3,D
-  10,R,D,X
-  24,R,J
-  15,R,X
-   1,G
-   1,R,J,G
-   5,R
-   2,J
-   3,L
-   1,R,G
-  25,U,G
-   3,G
-   1,J,G
-  12,R,K,G
-  13,R
-  10,R,J
-  14,L,Z
-   1,L
-  12,R,D,X
-   1,R,J
-   2,L
-  14,L,Z
-   1,R,J
-  10,R,U,X
-   1,L,X
-   1,J,G
-   1,K,G
-   4,J,G
+   4,L,J,G
    1,K,G
    1,J,G
    1,L,K,G
-   1,J,G
-   1
-# not cycle dependent
-  17,R,D,X
-   9,R,D
-   6,R
+   2,J,G
+  18,R,D,X
+   1,D
+   4,R,D
+   2,D
+   4,R
+   2
+   1,R,D
    8,R,U,Z
    1,L,J,G
-   4,R,J
-  50,J
-   6,D,J
-   1,J
-  14,R,U,X
-   5,K,G
+   3,R,J
+  58,J
+  13,R,U,X
+   5,J,G
   40
 
 #lvl_brys4
-   2,R
+   1,J
   14,R,U,X
    1,R,J,G
-  55,R,U,G
+   7,R
+  48,R,U,G
   75,L,G
    3,D
    5,G
@@ -737,4 +733,4 @@ EndStunPause
    2,U,X
   39,L,J
 
-ChapterTime: 1:23.113(4889)
+ChapterTime: 1:21.345(4785)
