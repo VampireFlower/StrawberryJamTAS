@@ -1,4 +1,4 @@
-RecordCount: 50890
+RecordCount: 52110
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -61,61 +61,62 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    4
    3,L,J,G
   17,R,D,X
-  18,D
-   3
+  12,D
+  10
    1,D
-   6,R,Z
+   5,R,Z
    1,J,G
    4
-   9,L
-   1,G
-   6
-   1,L,D
-   1
-   6,R
-   3,R,D
-   1,D
-   1,L,G
-   1,J,G
-   1,K,G
-   1,J,G
-   1,K,G
-  15,R,D,X
-   6,D
-   5,R,D
-   9,R,D,J
-   2,R
-   1,L
-   3,J,G
-  15,R,D,X
-  17,R,D
-   1,R
-   1,R,J
-   2,R
-  17,R,U,X
-  33,R,G
-   6,R,D,G
-   1,L
-   9,R
-  16,R,U,X
-  12
-   5,L,Z
-   7,R,Z
-   3,L,Z
-  14,R,G
-   1,R,J,G
-   5,U,X
-   5,J
-   1
-  20,K
+   7,L
    2
    6,G
-   7,U,G
+   2
+   1,L
+   4
+   5,R
+   2,R,D
+   1,L,G
+   1,L,J,G
+   1,K,G
+   1,J,G
+   1,K,G
+  15,R,D,X
+   7,D,K
+   1,R,D,K
+   4,D,K
+   8,L,D,J
+   5
+   1,L,J,G
+   3
+  15,R,D,X
+   6,R,D
+   1,R
+   1,R,J
+   5,R
+  10,R,K
+   6,R
+  17,R,U,X
+  47,R,U,J,G
+   1,L
+   1,R
+  15,U,X
+   2
+   2,L
+   1
+  15,J
+   3
+  12,K,G
+   1,J,G
+  10
+   6,G
+   6,U,G
+   1,G
    1
    1,L,J,G
    1,L,K,G
    1,L,J,G
-   3,K,G
+   2,K,G
+   1
   15,L,D,X
    1,J
   19,L,D,X
@@ -125,51 +126,45 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1,G
   10
   22,G
-  18,D,G
-   1
+  17,D,G
+   1,R
+   1,L,G
+   1,K
    1,J,G
    1,K,G
    1,J,G
    1,K,G
   15,R,D,X
-   4,R
-   1,D,K
-   8,R,D,K
-   7,R,K
-   3,K
-   8
-   4,D
-  15,R,D,X
-  10,D
-  40,R,D
-   2,R
-   4
-   1,R,D
-  15,R,D,X
-   7,R
-   8,R,D
+   2,R,D
+  10,D,K
+   4,K
+  13
    2,D
-   6,L,J
-   4
-   1,R,J,G
-   2,J
+  15,R,D,X
+  26,D
+  31,R,D
+  15,R,D,X
+  14,R
+   1,R,D
+   3,D
+   7,J
+   2
+   3,J,G
   40
 
 #lvl_a2_17-Todd
    4,J
-   5
-   1,K
-   8
+  14
   15,R,Z
   14
    5,L,D
    1,D
-  11,L,D
-   2,L
+  13,L,D
   15,L,X
    6,L
    1,J
-  25,L,J
+  24,L,J
+   1,L
   21,G
   15,U,G
    6,L,J,G
@@ -221,40 +216,37 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1,R
    5,R,K
    5,R
-   4,R,D
-   1,D
-   2,L,J
-  10
+   3,D
+   2,R
+   1,J
+   5,R
+   6,K
   18,R,U,X
-   2
+   1,R
   15,R,D,X
-  13,D
-   1,R,D
-   2,D
-   6,R,D
-   1,D
+  11,D
+  11,R,D
+   1,R
   15,R,D,X
    1,R,D
-   1,R,J
    5,R,D,X
-  17,R,J,G
-  85,R,U,K,G
-  15,U,G
-   2,G
-   3,R,G
-   1
-  14,R,U,X
-   1,J,G
-   3
+  17,R,K,G
+  99,R,U,J,G
+   1,R
+  14,R,U,Z
+   2,K,G
+   4,J,G
   43
 
 #lvl_a3_16-Cookie
-   2,R
-   1
-   4,R
-  14,L,U,Z
-   4,R,J
-  14,R,D,X
+   2,J
+   6,L,J
+   1,R,K,G
+   1,R,J,G
+   1,L,J
+   1,J
+   1,K
+  14,R,Z
   12,R,J
    6,R
   13,R,U,X
@@ -463,12 +455,12 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    2,R,D
    7,L,D
    5,L,D,X
-   1,D
+   3,D
    1
-   9,D
+   7,D
    5,D,X
    7,R,D
-   7,D
+   6,D
    1,R,J
    7,R
    8,R,J
@@ -2928,4 +2920,4 @@ Repeat,34
    2,L,D
 EndRepeat
 
-ChapterTime: 7:04.320(24960)
+ChapterTime: 7:03.912(24936)
