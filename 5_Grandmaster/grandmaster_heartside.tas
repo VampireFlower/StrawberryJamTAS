@@ -1,4 +1,4 @@
-RecordCount: 54724
+RecordCount: 57055
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -1148,32 +1148,29 @@ EndRepeat
    1,R,J
    2,K,G
    1,L,K
-   3,J
+   8,R,J,G
    1,L,J
-   8,J
-   2,L
-   1
-   2,L
-   1,L,K
    9,R,J
-   5,R
-   2,R,J
+   1,K,G
+   6,R,K
    3,R
-   2
-   1,R
+   1,L
+   1,J
   10,L,J
    4,L
+   5,J
+   7
+   1,L,K
+   1,L
+   1,G
+   1,R,J
+   2,R,K
+   4,R
+   1,R,J,G
+   9,R
+   2,R,K
    1,R
-   7,J,G
-   1,R,J
-   2,J
-   2,R,J
-   2,R
-   3,R,J,G
-   5,R
-   1,R,J
-   8,R,D
-   1,D
+   2
    1,L,D,J
    2,J
    1,L,J
@@ -1188,13 +1185,13 @@ EndRepeat
    3,R
    1,R,J
    1,J
-   3,R
-   3,R,J
-   1,L,K,G
-   1,L,J,G
-   1,L,K,G
-   1,R,K
    1
+   2,R
+   1,R,D,J
+   2,J
+   1,L,K,G
+   3,L,J,G
+   1,R
   12,J
   18
   25,D
@@ -1220,47 +1217,26 @@ EndRepeat
    1,L,J
   10,J
    1
-  14,J
-   3
-   1,K
-   1,R,K
-   1,K
-   1,R,K
-   6,K
-   2,U
-   1,R,J
-   1,L,K
-   1,J
-   1,K
-   1,J
-   1,L,J
-   8,L,K
-   6,K
-   1
-   3,J
-   1,L,U
-   1,L
-   1,J
-   1
-   1,L
-   7
-   1,J
-   5,R,J
-   4,L,J
-   4,L
-  27
+  15,J
+   4,R,K
+   7,K
+  18,U,Z
+   2,L,J
+  18,U,X
+   8,L,J
+  28
 AnalogMode,Square
-   1,F,249.201
+   1,F,247.3
 AnalogMode,Ignore
   10,F,305
-   9,F,352
-  13,F,358.4
-  80,F,10.2
+  25,F,3.5
+  77,F,10.2
   15,U,X
- 346
+   1,R
+ 349
 
 #lvl_d0-Purity
-  73
+  69
    5,L,D,X
    1,R,J
    3,R
@@ -1430,42 +1406,49 @@ AnalogMode,Ignore
   15,R,J
   14,U,X
    8,J
+   3
   10,L,X
-  19,R,J
+  12,R,J
+   3,R
+   1
+   3,R
+   1,R,K
    1,R
-   1,R,J
-   1,R
-  22,R,U,Z
-   1,R,K,G
+  15,R,U,Z
+   9,R
+   1,R,J,G
   11,R
    5,R,Z
    5,R,J
    1,R,K,G
-  12,R
-   2,R,J
-  14,R,D,X
-   9,R,J
-   1,R
+   7,R
+   1,R,J
+   5,R
    2,R,K
+   9,R
+   1,R,J
+   3,J
+   5,R
+   1,R,K
+  15,R
+   8,R,X
+   6,R,J
+   1,J
+   8,R,J
+  15,R,U,Z
+   1,R
    1,K
-   1
-  14,R,U,Z
-   6,R,J,G
-  24,R
-  13,L,X
-  10,L,J,G
-   2,K
-   5,L,X
-   7,L,J,G
-  14,L,D
-  10,R,D
-  19,L,X
-  11,L,D,C
-   2,L,J
-   3,L,K,G
-  15,L,J,G
-  18,U,X
-  14,J
+   2,R
+  15,L,Z
+   7,L
+  15,L,X
+   6,L
+  29,L,X
+   3,L,J,G
+  11,L,K,G
+   7,L
+  14,U,Z
+  10,J
  115,R,X
   15,R,Z
  123,D,X
@@ -1807,22 +1790,22 @@ Set,CelesteTAS.SimplifiedBackdrop,false
    4,R
    1,R,K,G
   12,R
-   1,R,J
+   1,R,D,J
    5,R,U,X
   40
 
 #lvl_e1_06-tofu
    7,R,U,X
-  35
+  34
    1,R,U
-  42,F,101
+  39,F,99.2
+   3,F,90
   15,R,D,X
-  12,R,D
+  13,R,D
    4,Z
    1,R,J
    6,R
    1,R,N
-   1,R
    8
    5,R
    4
@@ -1838,8 +1821,8 @@ Set,CelesteTAS.SimplifiedBackdrop,false
    2
    6,R,U,X
   18,G
-   1,R,G
-  16,R
+   2,R,G
+  15,R
    1,L,J
    3,J
   18,U,Z
@@ -2481,8 +2464,7 @@ Set,CelesteTAS.SimplifiedBackdrop,false
    1,G
    6,L,K
    7,R,U,X
-  23,R,U,G
-   1,R
+  24,R,U,G
    3
    1,R
   11,L
@@ -2884,18 +2866,15 @@ EndStunPause
    1,L,K,G
    7,L
    9,L,K
-  47
-  15,R,U,X
-   1
-   1,R
-   1,R,J,G
-   2,J
+  54
+  13,R,X
+   2,R,J,G
   27
-   1,L,U
-  86,F,346.203
-  34,F,20,0.69
-  11,R
-  12,R,U,X
+   1,R,U
+  83,F,8.76
+  37,F,342,0.59
+   7,L
+  13,L,U,X
   27
    1,S,N
    1,D,J
@@ -2948,4 +2927,4 @@ Repeat,34
    2,L,D
 EndRepeat
 
-ChapterTime: 7:01.175(24775)
+ChapterTime: 7:00.546(24738)
