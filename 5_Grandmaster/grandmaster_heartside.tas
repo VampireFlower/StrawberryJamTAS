@@ -1,4 +1,4 @@
-RecordCount: 57055
+RecordCount: 57061
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -1498,38 +1498,36 @@ AnalogMode,Ignore
   14,R,D,X
    1,L,J
    8,L,D,X
-  14,L,J,G
-   9,L,K,G
+  15,L,G
+   8,L,K,G
    1,R,K
-   2,L,K
-   5,L
-   2,L,K
-  11,L
-  14,L,U,Z
-   3,L,J,G
-   2,J
-  16,L,J
-   1,K,G
    1,L,K
-   3
-   4,L
-   6,R
+   5,L
+   9,L,K
+   5,L
+  14,L,U,Z
+  13,L,J,G
+   7,J
+   1
+   2,K,G
+   5
+   3,L
+   1,R
+   1,R,K
+   3,R
    1,R,J,G
   12,R,K,G
    5,R
-  10,R,K
-   8,R
-   6,R,D
-   1,D
-   5,R,D
+   6,R,K
+  11,R
+   2,D
+  10,R,D
    5,D
-   2
-   1,R
-   1,R,D
-   1,L
+   2,R,D
+   1,L,D
    1,J,G
-   5,J
-  15,J,G
+   2,J
+  15,L,J,G
    6,L,G
    1,L,D
   12,L,Z
@@ -1540,13 +1538,14 @@ AnalogMode,Ignore
    9,R,J,G
    5,R,G
   10,R,K,G
-   4,R,G
+   6,R,G
+   1,G
    1,L
-   1,R
-   1
-   1,R
   17,U,X
-  20,L,G
+  13,G
+   1,R,G
+   2,G
+   4,L,G
    1,G
    1
    1,R
@@ -2691,43 +2690,38 @@ Set,CelesteTAS.SimplifiedBackdrop,false
    4,L
    1,R
    1,L
-   1,J
-   5,L,K,G
-   5,L
-   1,L,J
-   3,L
-   1,L,J
+   7,L,J,G
+  15,U,X
    1,L
+   9,R,J
+   3,J
    1,K
-   3,R,K
-  13,L,K
-   3,L,G
-   1,J,G
-   2,R,J
-  12,R,K
    1,J
-   3,R,J
-   1,L,J
-  10,R,J
-   1,R,K
-   9,R
-  10,L,Z
-  10,R,J
-   1,R
-   1,R,K
+  11,L,J
+  14,R,J
+   1,J
+   5,R,J
+   2,R,K
+   6,R
+   2
+  11,L,D,X
+   9,R,J
    5,R
-   1,R,D
   10,R,J
-  16,R
+   9,R
+   4,R,K
+   3,R
+   2
    2,R,K,G
    1,K
    8,R,K
-   4,R
+   3,R
    1
-   2,J
-   4
    1,R
-   2
+   2,J
+   3
+   1,R
+   3
    1,K
    1,J
    7
@@ -2927,4 +2921,4 @@ Repeat,34
    2,L,D
 EndRepeat
 
-ChapterTime: 7:00.546(24738)
+ChapterTime: 7:00.393(24729)
