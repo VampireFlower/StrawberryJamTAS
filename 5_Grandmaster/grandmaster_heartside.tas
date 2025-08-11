@@ -1,4 +1,4 @@
-RecordCount: 57061
+RecordCount: 57514
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -2336,59 +2336,47 @@ Set,CelesteTAS.SimplifiedBackdrop,false
    1,R,K,G
    5,R,D,X
   18,R,J,G
-  28,R,U,K,G
-   2,R,U,G
-   1,R,U,J,G
-   1,R,U,G
-   2,U,G
+  48,R,U,K,G
+   6,R,D,G
    2,D,G
-   1,U,G
-   1,R,U,G
-   1,U,G
-  12,D,G
-   5
-  13,U,X
-   1,J
-  10
-   1,K
    1
-   1,K
-   6,R
-  14,G
-  29,R,G
-   1,G
+  10,U,X
+   2,J
+   9
+   6,L,K
+   1,L
+  21,L,G
+   1,L,D
+   3,L
+   1,J,G
+   2,L,J
+   4
+   1,L
+   1
+   1,R
+   4,R,J
+  35,R,U,J,G
    1,R,G
-   1,G
-   9,R,D,G
-  30,R,J,G
-   1,R,J
    2,R
-   1,R,J
-   1,R,K,G
-   1,K
-   4,R,K
+   6,R,K,G
    4,R
+   1
    1,R,J,G
    1,R,K,G
-   2,R,K
-  32,R,K,G
-   1,K,G
-  10,R,K,G
-   1,K,G
-   1,K
+   4,R,K
+  32,R,U,K,G
+   1,R
   15,R,U,X
-   8,R
-  25,G
-  14,R,J,G
-   7,J,G
+   5,R
+   3
+  40,R,U,G
+   8,G
+   4,R,J,G
+  10,R,G
    4,R,K,G
-   9,R,G
-   1,R,J,G
-   1,R,G
-   2,R,J,G
   11,R,D,G
-   4,R,U,G
-   1,R,D,G
+   2,R,U,G
+   2,U,G
   26,R,J,G
    6,R,D,J
    1,R
@@ -2398,52 +2386,37 @@ Set,CelesteTAS.SimplifiedBackdrop,false
    1,R,K,G
   22,R,J,G
    6,R
-   2,R,K
-   1,R
    1,R,K
    1,R
    1,R,K
-   1,R
+   4,R
   11,R,U,X
-  20,R,G
-   2,G
-   3,R,G
-   1,L
-   2
-   3,R
-   6,R,D,J
-   3,J
+  30,R,U,J,G
+   7,U,J,G
+   4,L,J
+   4
+   6,D,J
+   2,R,J
+   1,R
    1
    1,K,G
-   1,L
-   1,R
-   3,J,G
-   5,L
    1,L,K
-   2,L
-   5,K
+   1,R,K
+   3,J,G
+   6,L
+   4,L,K
    5,U,X
-  13,G
-   1,R,G
-   3,L,G
-   1,G
-   1,L,G
-   1,G
-   1,L,G
-   1,G
-   1,L,G
-   1,R,G
-   1,R,D
-   4,J,G
-   1,K,G
-   4,R
-   2
-   4,L
-   1,L,J
-   5,U,X
+  19,L,G
+   2,G
+   1,R
+  10
+   1,L
+   2,K
+   7,U,X
   56,G
    3,R,G
-   6,R,D
+   1,L
+   5,R
    1,J,G
    2,R
    1
@@ -2569,7 +2542,7 @@ Set,CelesteTAS.SimplifiedBackdrop,false
   11,R,K,G
    7,R
 ## Spinner cycle [f3_01-Hydro]
-   0
+   1
 ##
    6,R,Z
    1,R,J
@@ -2921,4 +2894,4 @@ Repeat,34
    2,L,D
 EndRepeat
 
-ChapterTime: 7:00.393(24729)
+ChapterTime: 7:00.189(24717)
