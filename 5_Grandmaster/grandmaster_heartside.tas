@@ -1,4 +1,4 @@
-RecordCount: 57783
+RecordCount: 57969
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -1322,20 +1322,24 @@ AnalogMode,Ignore
   10,L,D,X
   19,R,J
   14,R,U,X
-  23,R,U,C
-   4,Z
-   1,L,J
-   5,L
-   9,L,J
-  10,L,D,X
-   1,R,J
-  14,R
-   1
-   3,D
-  12,R,Z
-   4,R,J
+  15,U,C
    2,R
+   7,R,Z
+   5,L,J
+   1,L
+   1,L,K
+   1
+   1,L
+   6
+   4,Z
+   4,R,J
+   5,R
+   1,R,K
+   5,R
+  13,R,D,X
+   4,R,J
    5,R,K
+   6,R
   21,R,X
    7,R,J
    4,Z
@@ -2549,8 +2553,7 @@ Set,CelesteTAS.SimplifiedBackdrop,false
    1
    3,R
 ## Spinner cycle [f3_01-Hydro]
-   3
-   1,L,J
+   0
 ##
    4,Z
    2,R,J
@@ -2663,14 +2666,10 @@ Set,CelesteTAS.SimplifiedBackdrop,false
    1,R,J
    2,J
   15,R,D,X
-   2
-   3,R,J
-   8,R,Z
-  45
-   1,R
-   4,L
-   1,R
-   1,L
+   4
+   9,R,U,Z
+  27,R
+  25,L
    7,L,J,G
   15,U,X
    1,L
@@ -2727,12 +2726,12 @@ Set,CelesteTAS.SimplifiedBackdrop,false
    1,D
    1,L,D
    7,D
-   6,R,D
+   5,R,D
 StunPause
-   2,R,D
-   6,R
+   3,R,D
+   5,R
 EndStunPause
-  10,R
+  11,R
    6,R,D
   38,R,U,Z
    7,R,J
@@ -2902,4 +2901,4 @@ Repeat,34
    2,L,D
 EndRepeat
 
-ChapterTime: 7:00.121(24713)
+ChapterTime: 6:59.968(24704)
