@@ -1,10 +1,13 @@
-RecordCount: 4527
+RecordCount: 4656
 
 console load StrawberryJam2021/1-Beginner/Eclipse
    1
 
 #Start
  190
+
+#Spinner cycle [c_02]
+   0
 
 #lvl_a_01
    1,L,J
@@ -453,24 +456,37 @@ console load StrawberryJam2021/1-Beginner/Eclipse
   18,D,X
   15,L,U,Z
   85,U,X
-  20,L
-  44,D
-   1,L,D
-   1,R,D
-   4,R
-  29,R,U,Z
-   3,R,J
-   8,J
-  62,R,X
-   4,R,J
-   4,R,K
-   3,K
-  16,U,X
-  64,R,C
-   4,L,G
-  19,L,U,X
-   4,L,J
-  21,L,C
+   6
+   2,R
+StunPause
+   2,R
+SkipInput,3,1
+  15,U,X
+   3
+   1,R,J
+EndStunPause
+   9,R,J
+  10,R
+   1,R,K
+   6,R
+   5,R,Z
+   2,R,J
+   1,R,K,G
+   1,R
+   1
+   7,R
+  11,R,J
+  15,R,D,X
+   2,R
+   1,R,J
+  18,R
+   5,R,D
+   1,R
+   2,R,D
+   1,R
+  15,R,Z
+   1,R
+  11
   20,D,X
    3,L,D
   10,D
@@ -498,4 +514,4 @@ console load StrawberryJam2021/1-Beginner/Eclipse
   15,U,C
  135
 
-ChapterTime: 1:44.227(6131)
+ChapterTime: 1:43.615(6095)
