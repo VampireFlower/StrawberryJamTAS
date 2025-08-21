@@ -1,4 +1,4 @@
-RecordCount: 24190
+RecordCount: 24713
 
 console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1
@@ -1249,26 +1249,23 @@ EndStunPause
   18,R,D,X
    1,L,D
   18,R,D
-   7,R,Z
-  10,R,J
-   3,R
-   1
-   1,K
-   1
-   2,K
-   2
-   1,R
-  15,D,X
-   7,L
-  15,R,Z
-   5,U,X
-  12,R,J
-   3,J
-  50,R
-   4,R,D
+  11,R,Z
+   5,R,J
+   6,R
+   1,R,K
+   8,R
+  15,L,D,X
+  10,R,C
+   1,R,J,G
+   4,R
+  18,R,D,X
+  33,R
+   1,D
+   3
    2,R
+   6,R,D
+   1,R
    1,R,D
-  29,R
   44,R,X
    1,G
    2,R,J,G
@@ -1292,34 +1289,27 @@ EndStunPause
    5,D,X
   23,L
   15,U,X
-   6,L
-  15,U,C
-   1,L
-   1
-   1,L
-   6
-   7,U,X
-  12
-   9,R
+   7,L
+  21,U,X
+  19,U,C
+  12,R
   15,R,X
    8,R
-   1
-   1,R
-   1
   15,U,Z
    1,R
-   8,R,J
-   4,R
+   9,R,J
+   1,R
   15,R,U,X
-   5,R,Z
+   1,R
+   6,R,C
    1,R,J,G
    5,R,K,G
-  19,R
-   7,R,D
-  13,D
+  18,R
+   2,R,D
+   1,R
    3,R,D
-   1,D
-  12,R,D
+  12,D
+  19,R,D
    4,Z
    1,R,J
    5,R
@@ -1462,7 +1452,7 @@ EndStunPause
   11,R
    1,G
 #spinner cycle
-   0,G
+   2,G
 #
    1,J
    1,L,J
@@ -1835,4 +1825,4 @@ EndStunPause
  132
    3,L
 
-ChapterTime: 4:03.406(14318)
+ChapterTime: 4:02.590(14270)
