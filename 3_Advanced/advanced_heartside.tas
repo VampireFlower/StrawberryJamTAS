@@ -1,4 +1,4 @@
-RecordCount: 31436
+RecordCount: 32019
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -43,79 +43,76 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
 #lvl_heartside_oppen_b
    2
   15,D,X
-  11,D
+   6,D
+   2
+   1,R,D
+   2
    1,J
-  11,D
-  19,R,D
-  15,D,X
+  18
+   6,R,D
+   6,D
+  15,L,D,X
+   3,L,D
    3,D
-   1,L,D
-   2,D
-  14,R,Z
-   3,R,J
+   6
+   4,Z
+   2,R,J
+   2,R
+   1,R,K
+   1,R
+   1,R,K
+   2,R,J
+   2,R,K,G
+   1,K
+   7,R
+  14,R,U,Z
 
 #lvl_heartside_oppen_a (1)
-  21,R,J
-  15,U,X
-   5,R
-  31,R,J
-   2,K,G
-  12,R,K,G
-   2,J,G
-  12,R,J
-   8,K,G
-   1,R,K
-   1,K
-   1,R,K
-   1,L,K
-  14,R,J,G
-   1,K
-   7,R,K
-   1,J
-   1,L,J
-  10,R,J
-   3,K,G
-   1,L,K
-  12,R,J,G
-   7,R
-   4,D,X
-   1,R,J
-   1,R
-   1,R,J
-   1,R
-   1,R,K,G
-   9,R
-   1,R,J
-   6,R,D,X
+   1,S,N
+   1,D,J
+  69,O
+   4,Z
+   2,R,J
+   2,R
   40
 
 #lvl_heartside_Worldwaker2
-   8,R,D,X
+   6,R
    1,R,J
   14,R,D,X
    1,R,J
-  15,R,D
+  11,R,D,X
+   1,R,J
+  10,R
   15,D,X
    8,L,D
-   5,R
-  16,R,D
-  19,L
+   3,D
    1,L,D
-   7,R,D
+  10,R,D
+   7,R
+   6,L
+  16,L,D
+   3,D
   15,R,D,X
-   3,R
-   1,R,D
-   6,R
-   2
-  12,R,Z
-  14,R,J,G
-  49,R,U,K,G
-   6,R,G
-   1,R,U,G
    1,R
-  15,U,X
-  20,L,G
-   5,R,G
+   2,R
+   5,R,D
+   2,R
+   1,R,D
+   1,R
+   4,Z
+   1,R,J
+   5,R
+  17,R,G
+  48,R,U,J,G
+   1,R,G
+   1,R,U,G
+   3,R,G
+   3,R,U,G
+   4,R
+  12,U,X
+  17,R,G
+   8,L,G
    1
   13,L,Z
    1,L,J
@@ -187,7 +184,7 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1,D,J
   69,O
 #spinner cycle - bee berserk
-   0
+   2
 ##
    4,Z
    4,R,J
@@ -2234,4 +2231,4 @@ EndStunPause
   11,U,X
  135
 
-ChapterTime: 4:35.774(16222)
+ChapterTime: 4:34.363(16139)
