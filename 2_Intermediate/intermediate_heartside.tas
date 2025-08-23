@@ -1,4 +1,4 @@
-RecordCount: 24713
+RecordCount: 24937
 
 console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1
@@ -538,7 +538,7 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
   10,R
   15,R,X
   15,R,C
-#spinner cycle
+#Spinner cycle [cp2-2-dooshii]
    2
 #
   27,R,X
@@ -641,14 +641,14 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
   22,R,D
    5,R
    2,R,D
-##Spinner cycle
-##+0f
+### Spinner cycle [cp2-3-glowwoomii]
+## +0f
 #   7,R,Z
-##+1f
+## +1f
    8,R,D,X
-##+2f
+## +2f
 #   9,R,D,X
-##
+###
    1,R,J
    6,R
    1,R,J
@@ -689,7 +689,7 @@ EndStunPause
    5,R,K
    1,R,J
   12,R,D,X
-#Spinner Cycle
+#Spinner cycle [cp2-4-ice]
    0
 #
    1,S
@@ -830,9 +830,9 @@ EndStunPause
   54,R,G
   28,R,U,X
   11,D,C
-## spinner cycle
+#Lightning cycle [cp2-5-bryse0n]
    1
-##
+#
   52,R,U,X
   18,R,U,Z
   12
@@ -1310,6 +1310,9 @@ EndStunPause
    3,R,D
   12,D
   19,R,D
+#Spinner cycle [cp3-5-RG2]
+   1
+#
    4,Z
    1,R,J
    5,R
@@ -1335,64 +1338,61 @@ EndStunPause
    2,L
   14,R,U,X
    4,R
-  19,R,K,G
-  12,R,J,G
-   8,K,G
-   2,L,K
-  11,L,J
-   1,L
-  15,R,Z
-  17,L,D
-   7,L,Z
-   3,L
+  11,R,K,G
+   5
    2,R
-   4
-   2,R
-  12,D,X
-   1,L
-   1,J,G
-   6
-   1,L
-  18,G
-  12,D,G
-   8,R,Z
-   4,L
-   1,J,G
-   1,K,G
-   4
-  15,R,D,K,X
-   1,D,K
-   1,R,K
-   2,R,D,K
-   3,R
-   8,R,D,J
-   1,J
+   1
+   1,R
+   8,G
+   2
+   1,R
+  25,G
+   3,D,G
+   2,R,J,G
+   6,R,U,Z
+   1,L,J,G
+   4,R,J
+   4,R
+StunPause
+   6,R
+EndStunPause
+   4,R,J
+  12,R
+   1
+   5,R,Z
   40
 
 #lvl_cp4-0-Cp
-   3,R,J
-   4,R
-   1
-   1,K
-   4,L,J,G
-  15,U,X
-  15,R,J
-   7,R
-  11,R,J,G
-   1
-   1,R
+  10,R,Z
    3
    1,R
+   1,J
+   3,R,J
+   1,L,J
+   1,K
+   2,J,G
+   7,R,J
+   2,J
+  15,U,Z
+  15,R,J
+   7,R
+   1,R,J,G
    1
+   1,R
+   1
+   1,R
+   2
+   1,R
    5,R,D,J
    1,R,K,G
    2,R,J,G
-   4,J
+   1,J
+   3,R,J
    4,K,G
-   9,U,X
-  15,L,J
-   7,L
-   5
+  10,U,X
+  14,L,J
+   8,L
+   4
    1,D
   22
    6,L
@@ -1451,7 +1451,7 @@ EndStunPause
   15,L,U,Z
   11,R
    1,G
-#spinner cycle
+#Spinner cycle [cp4-1-Emik]
    2,G
 #
    1,J
@@ -1825,4 +1825,4 @@ EndStunPause
  132
    3,L
 
-ChapterTime: 4:02.590(14270)
+ChapterTime: 4:01.876(14228)
