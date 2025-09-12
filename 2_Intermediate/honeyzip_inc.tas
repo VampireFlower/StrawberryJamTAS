@@ -1,4 +1,4 @@
-RecordCount: 8149
+RecordCount: 8708
 
 console load StrawberryJam2021/2-Intermediate/GlowWoomii
    1
@@ -7,28 +7,27 @@ console load StrawberryJam2021/2-Intermediate/GlowWoomii
  190
 
 #Spinner cycle [r1] (2/3 stun)
-   1
+   0
 
 #lvl_startroom
    6,R,Z
    1,R,J
    7,R
    1,R,J
-   6,R,D,X
-   1,R,J
-   6,R
-   1
-   1,R,J
-   2,J
-   1,R,J
-  16,L,K
+  10,R,D,X
+   4,R,J
+   3,J
+   1,K
+  11,L,K
+   4,L
+   4,J
+   1,K
+   3,R,K
    1,J
-   2,R,J
-   1,K
-   2,R,K
-   1,K
-   1,R,K
-  32,R,J
+  11,R,J
+   5,R
+  10,R,K
+   5,R
 Repeat,4
    7,R,G
    1,R,J,G
@@ -51,11 +50,12 @@ EndRepeat
    1,R,K
    4,R
   11,R,U,Z
-  12,R,G
+  11,R,G
 StunPause
-   1,R,G
-   7,R,K
+   2,R,G
+   6,R,K
 EndStunPause
+   1,R,K
    5,R
   14,U,X
   64,R,C
@@ -137,26 +137,37 @@ EndStunPause
    1
    1,L
    2
-  17,R,G
+  15,R,G
+   1,D,G
+   1,G
    3,U,G
+   1
   11,J,G
+   2,L
   15,U,X
-   5,L
-   2,L,J,G
+   1,L,J,G
    7,L
-  12,L,J
-   5,J
+   5,L,J
+   7,J
+   4
   15,U,X
    6
    9,J,G
-   7,L
+   1,K,G
+   1,L
+   1
+   1,L
+   1
+   2,L
+   1,R
 # We keep the lock here since not all conditions from above apply:
 # 1. Be on the zipper without jumping
 # 2. 8f after touching it we have 260 X speed
-  10,L,X
-  23,R,J
+  12,R,J
+   5,R
+   9,R,K
   15,U,X
-   3,R
+   1,R
    6,R,J,G
    7,R
    1,G
@@ -165,14 +176,13 @@ EndStunPause
    1,R,J,G
    7,R
    1,R,J
-   1,J
-   8,R,U,X
-   5,R,J,G
-   2,R,K,G
-   5,R
-   3,R,K
-   1,R
-   2,R,D,J
+   9,R,U,X
+   3,R,J,G
+   2,R
+   3,R,K,G
+   1
+   7,R
+   2,R,J
    7,R,D,X
    1,R,J,G
    3,R
@@ -273,25 +283,32 @@ EndRepeat
   15,R,Z
   12,R
   23,L,U,X
-  26,G
+   1,G
+   1
+   1,R
+   1
+   1,R
+   1,L
+  19,G
    2
-   1,L,J,G
-   7,K,G
+   1,J,G
+   6,K,G
   14,R,U,X
   18,R,C
-  14,R,G
-  16,R,J,G
+  12,R,G
+  18,R,J,G
   15,R,U,X
-   1
-  14,J,G
-   4,R,K,G
+   1,R
+  12,R,J,G
+   5,K,G
    1,J,G
    6,R
   13,L
    1,R
   12,R,D
    1,R
-   2,R,D
+   1,R,D
+   1,R
   15,R,Z
    8,L
    8,L,G
@@ -329,9 +346,8 @@ EndRepeat
    1,R,K
   13,R
    1,R,J
-  13,R,U,X
-   1,R,J
-  35,R,D
+  27,R,U,X
+  22,R,D
   15,D
   11,L,D
    2,D
@@ -347,4 +363,4 @@ EndRepeat
   13,R,K
   25,L,K
 
-ChapterTime: 0:37.689(2217)
+ChapterTime: 0:37.451(2203)
