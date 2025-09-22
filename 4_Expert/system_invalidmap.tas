@@ -1,4 +1,4 @@
-RecordCount: 2238
+RecordCount: 2441
 
 console load StrawberryJam2021/4-Expert/Skunkynator
    1
@@ -219,38 +219,25 @@ EndRepeat
    1,L,J
    3,L
   18,R,U,X
-#skip swag strat and go
-#straight to tp wall
-#   5,L,J
-#   7,R,J
-#  48,L,U,X
-#   4,R,G
-#  18,R,Z
-#   8,L,J
-#   5,L,K
-#   7,R,K
-#   7,R
-#  51,R,G
-#   3,R,D,G
    5,L,J
    7,R,J
   48,L,U,X
    4,R,G
-   3,J,G
-   2,R,J
-   3,R
-  10,L,U,Z
-   4,L
-   2,L,J
-   5,L
-   1,L,J
-   7,R
-  10,R,J
-   2,R
-  29,R,Z
-  22,R,D
-   5,R,G
-   7,L,D,X
+  18,R,Z
+   8,L,J
+   5,L,K
+  11,R,K
+  12,R,J,G
+  10,K,G
+   7
+   6,G
+   1,U,G
+   7,G
+  18,D,X
+   1,L,D
+   1,R,G
+   1,L,D
+   5,L,Z
    1,L,J
   12,L
    1,L,J
@@ -343,4 +330,4 @@ EndRepeat
    1,R,J
   11,L,J
 
-ChapterTime: 0:47.396(2788)
+ChapterTime: 0:47.379(2787)
