@@ -1,4 +1,4 @@
-RecordCount: 5162
+RecordCount: 5565
 
 console load StrawberryJam2021/2-Intermediate/marlin
    1
@@ -121,38 +121,38 @@ console load StrawberryJam2021/2-Intermediate/marlin
    1,R
    1,R,K,G
    1,R,J,G
-   5
-  28,R
-   2,R,D
+  18,R
+  14
+   2,D
    5,R,Z
-   2,K,G
+   1,R,J,G
    1
   22,R
   11,R,J
   15,R,D,X
-  10,R,D
-  33,R,J
-  15,R,D,X
-   3,R,J
-   7,R,K,G
+  11,R
+  12,R,J
+  11,R
+  18,R,K
+   8,R
+  10,R,U,X
   40
 
 #lvl_4
+   5,R,U,X
+   4,R
+  15,R,U,X
+   5,R
+   5,L,D,X
+   1,R,J
    1,R,K
-  15,R,D,X
-   2,L
-   3,R
-  14,L,X
-  12,R,J
-  34,R
-  15,R,D,X
-   3,R,D
+   2,R,D
+   1,R,D,J
+  13,R
+  18
   15,D,X
-  20,D
-   2,L,D
-   1,D
-   1,L,D
-  17,D
+   3,L,D
+  47,D
   14,R,Z
    6,R,J
   12,R
@@ -182,7 +182,6 @@ console load StrawberryJam2021/2-Intermediate/marlin
 #   4,Z
 #   7,R,J
 #   4,R,K,G
-
   59,R
   24,R,U,X
   15,R,C
@@ -531,4 +530,4 @@ console load StrawberryJam2021/2-Intermediate/marlin
    4,C
  135,R,U,C
 
-ChapterTime: 1:23.572(4916)
+ChapterTime: 1:23.232(4896)
