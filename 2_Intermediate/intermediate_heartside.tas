@@ -1,4 +1,4 @@
-RecordCount: 26891
+RecordCount: 27208
 
 console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1
@@ -246,7 +246,7 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
   15,U,X
   15,R,Z
    2,R
-   1,S
+   1,S,N
    1,D,J
   69,O
    4,R,X
@@ -691,7 +691,7 @@ EndStunPause
 #Spinner cycle [cp2-4-ice]
    0
 #
-   1,S
+   1,S,N
    1,D,J
   69,O
    4,L,Z
@@ -1590,38 +1590,40 @@ EndStunPause
    3,R
   12,R,J,G
    5,R
-   2,K
-   2,R,K
+   5,R,K
+   2,R
    1
    8,U,X
-  55,R,U,G
-   1,L
-   7,R
-  31,L
+  48,R,D,J,G
+   1,L,J
+   6,R,J
+   1,J
+  29,L
    6,L,D
-   6,R,D
-   3,R
+   6,D
+   4,R
   15,R,Z
   12,R,X
-   9,R,J
-  21,R,D,G
-   5,R,K,G
-  14,R,G
+   8,R,J
+  14,R,J,G
+  26,R,G
    3,R,J,G
-  17,R,G
-   7,R,G
+   5,R,G
+   1,R,K,G
+   1,R,G
+   1,R,K,G
+  15,R,G
    3,G
    1,L,G
    1,R
-   7,L
-   1
-   9,L
+  16,L
   46,R,X
   14,R,D,C
-  30,R,J
-  21,R,X
+  35,R,J
+  18,R,X
+   1,R
   14,R,C
-  55,R,G
+  51,R,U,G
   39,R,X,G
   18,U,C,G
    1,R
@@ -1630,26 +1632,30 @@ EndStunPause
   24,R,G
    1,R
   15,D,X
-  12,L,D
-  25,L,X
-  85,R,C
+  10,L,D
+  15,L,Z
+  11,L
+  86,R,C
   15,U,X
-  15,R,C
-  18,L
-   6
+  14,R,C
+  24,L
   36,R
-  24,R,J
+  23,R,J
   14,R,X
-  19,R,D,G
-  48,L,D,G
-  16,L,G
-  34,R,X,G
+  17,R,U,J,G
+   1,U,J,G
+   1,R,U,J,G
+  10,U,J,G
+  51,L,D,G
+  35,R,X,G
   15,U,C,G
-   8,R,G
-  14,R
+   1,G
+   3,R,G
+   1,G
+  17,R
   15,R,Z
   10,R
-  12
+   9
    5,L,D,X
    2,R,J
    2,R
@@ -1890,4 +1896,4 @@ EndStunPause
   14,U,X
  135
 
-ChapterTime: 4:00.227(14131)
+ChapterTime: 3:59.955(14115)
