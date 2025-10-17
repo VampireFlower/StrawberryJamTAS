@@ -1,4 +1,4 @@
-RecordCount: 6856
+RecordCount: 9671
 
 console load StrawberryJam2021/4-Expert/Jackal
    1
@@ -12,13 +12,16 @@ console load StrawberryJam2021/4-Expert/Jackal
    5,R,D,X
    5,R,J,G
    1,R,K,G
-  11,R
-   3,R,J
-   5,R
-   4,R,K
-   2
-  10,R,X
-   1,R,K,G
+  10,R
+   1,D
+   4,R,D,J
+   6,R
+   2,R,K
+   1,R
+   1,R,K
+   2,R
+   8,R,X
+   1,R,J,G
    4
    5,R
    8,R,J
@@ -26,28 +29,30 @@ console load StrawberryJam2021/4-Expert/Jackal
 
 #lvl_a04
    2,R,J
-   5,R
-   1,R,J
-  19,R
+   7,R
+   1,R,K
+   1,R
+   1,R,K
+  14,R
+   1,R,D
    1,L,J,G
    6,R,J
-   5,R
-   1,R,J
+   6,R
+   3,R,K
   14,R,Z
-  30,R,J
-  14,R,U,X
-   1,L
+  12,R,J
+   1,R
+  10,R,K
+   4,R
+  15,R,U,Z
    1,L,J,G
-   2,R,J
-   7,L,J
-   1,K,G
-   4,L,K
-   1,R,K
-   2,L,J,G
-   3,J
-   2,R,J
-   2,J
-   3,L,J
+   1,R,J
+  10,J
+   2,L,K,G
+   1,K
+   1,L,K
+   4,K
+   4,J
    1,K
   10,J,G
    1,R,J
@@ -55,19 +60,18 @@ console load StrawberryJam2021/4-Expert/Jackal
 
 #lvl_a05
    8,R
-   1,R,J,G
-   4,R
+   5,R,J,G
   12,R,U,X
    1,R,J,G
    9,R
-   1,R,K
-   2,R
-  14,R,Z
+   2,R,K
+   3,R
+  11,R,Z
    1,L,J
    1
    1,K
-   2
-   4,L
+   3
+   3,L
   14,L,Z
    1,R,J
    6,R,D,X
@@ -85,69 +89,65 @@ console load StrawberryJam2021/4-Expert/Jackal
    5,R,J,G
    5,R
    2,R,K
-   8,R
-   3,R,D,J
+  10,R
+   1,R,J
   40
 
 #lvl_a06
    1,R,J
-   1,J
+   2,R
   15,R,D,X
-   1
-   1,R,J,G
-   2,J
-   8,R,J
+  10,R,J,G
    6,R
    8,R,J,G
-   5,R
-   2,R,K
-   6,R
-   9,R,J
-   7,R
-   3,R,K
-   8,R
-  10
-   7,L
-  15,D,X
-   3,L,D
-   1,J
-   1,L,J
-   1,L
-  10,R,D,X
-  10,R,J
-   8,R
-  14,R,X
-   1,R,J,G
-   9,R
-   1,R,J
-   5,R
-   6
-   2,L
-   6
-  14,U,X
-  27,R
-#skip bumper -12f
-#but less speed
-  15,R,X
-  22,R,D
-   4,R
-   6
-   5,R
-   4
-   1,L
-   1,J,G
-   7
-   3,G
-   8
-  15,R,D,X
-   6
-  11,R,D,C
-   2,R,J,G
-   1,K,G
-  17,R,J,G
+  11,R
+   7,R,J
+  16,R
    2
-   4,R
-   2,R,D,J
+   1,R
+   2,D
+   1,R
+  12,R,U,X
+  10,L,D
+  11,L,Z
+   5,R,J
+   2,R
+   2,R,K
+   1,R
+   2,R,K
+   5,R
+  13,R,X
+   1,R,J,G
+   6,R
+   3,R,K
+   3,R
+   9
+   6,L
+  15,L,U,X
+   3,L
+   9
+  37,R
+  15,R,U,Z
+   1,J
+   2
+   1,R
+   9
+   1,L
+   3
+   1,L
+   1
+   9,R,D
+   2,R
+   1,R,D
+   9,R
+   7,R,D,X
+   4,R,J,G
+   8,R,K,G
+   1,K
+   3,R,K
+   5,R
+   9,R,K
+   2,R,J
    1,R
    5,R,D,X
    1,R,J,G
@@ -155,39 +155,34 @@ console load StrawberryJam2021/4-Expert/Jackal
   40
 
 #lvl_a07
-   1,R
+   2,R
    1,R,J
    9,R
-   2,R,J
+   2,R,K
    8,R
-  13,R,U,X
-   2,R,J,G
-   9,R
-   2,R,J
-  13,R,D
-   1,D
-   6
+   1,R,D
+  14,R,U,X
+   5,R,J,G
+  19,R
+   2,R,D
+  11,D
   15,R,D,X
-   3,R,D
+   1,D
+   2,R,D
    4,R,J
    5,R
-   1,R,J
-   1,R
-   7
-   2,K,G
-   9,R,K
-   1,K
    2,R,K
-   1,L,J,G
-   1,R,J
-   3,R
+   4,R
+   3
+   2,J,G
+  10,R,J
    1,L
-   1,K,G
-   1,R,K
-  17,U,X
-  14,R,K
-   4,L,K
-   9,R,J,G
+   7,J,G
+  15,U,X
+   5,J
+  10,R,J
+   3
+  11,J,G
    1,K
    1,J,G
    1,L,J
@@ -197,39 +192,39 @@ console load StrawberryJam2021/4-Expert/Jackal
    9,L
    1,L,K,G
    8,L,J,G
-  14,U,Z
+  19,U,X
   27,L
-  18,L,X
-   6
-  14,L
-  23
-  13,U,X
-   6
-  12,L
-  11,L,X
+   1
+  17,L,U,X
+  13,L
+   1
+   1,L
+  22
+  19,U,X
+  13,L
+  10,L,X
    5,R,J
    7,J
   12
-   8,U,X
-   6
+  14,U,X
   25,R
-  13,R,X
-  36
+  19,R,X
+  30
    8,R
   27,U,X
   14,R,C
    1,L,J
    6,J
-   7
-   3,J
-  10,U,X
    6
+   1,L
+   2,L,J
+   1
+  16,U,X
   23,L
-  16,L,X
-   6
-  15,L
+  21,L,X
+  16,L
   14,U,X
-  13,R,J
+  12,R,J
   40
 
 #lvl_a09
@@ -246,9 +241,9 @@ console load StrawberryJam2021/4-Expert/Jackal
    8,R,D,X
   10,R,J,G
    1,R
-   3,L,J
+   3,J
    5,R,J
-   3,L,J
+   3,J
    1,R,J
   30,L,J
    1,L,D
@@ -264,17 +259,18 @@ console load StrawberryJam2021/4-Expert/Jackal
   10,R,D,X
    1,R,J,G
   11,R
-  22,R,J
-  11,R
-  13,R,Z
+   6,R,J
+   6,R
+   5,R,K
+   7,R
+  14,R,Z
+   3,R,J,G
+   3,R
    1,R,J
-   1,J
-   2,R,J
-   2,J
-  15,R,U,Z
-  22,R,D
-   1,D
-   9,R,D
+   3,R
+  21,R,U,Z
+  25,R
+   1
   14,R,D,X
    9,R,J
    1,R
@@ -294,102 +290,108 @@ console load StrawberryJam2021/4-Expert/Jackal
   22,R,D
    2,D
   10
-   8,R
-   2
+   7,R
+   1
+   2,R
+   1
   14,R,Z
    1,R,J
   12,R,D,X
-  11,R,J
+  10,R,J
    1,R
+   1,R,K
+   1,R
+   1,R,K
+   9,R
+   3
    1,R,J
-  14,R
-#+23f bino
-  10,R,U,Z
-  40,Z
+   9,R,U,X
+  40
 
 #lvl_a12
-   3,R,U,Z
-   1,L
-   2,J,G
-   1
-   5,R
-   1,R,N
-   3,R
-   2,R,J
+   3,R,U,X
+   1,L,J,G
+   6,R,J
+   1,R,J,N
+   3,R,J
   10,L,D,X
    1,R,J
-   1,R
-   1,R,J
-  20,R
-  14,R,U,X
-  12,R,D
+   6,R
+   1,R,K
+  12,R
+  19,R,U,Z
+   7,R
   10,L,D,X
   12,R,J
    1,R
-   7,R,J
-   5,R
-   2,R,J,G
-  12,U,X
-  16,R
+   2,R,K
+   3,K
+  15,R,U,Z
+   7
+   1,R
+   7
+   9,R
   15,R,D,X
-   1,R
-  11,R,J
-   1,R
-   7,R,J
+   1,R,J
+   5,R
+   2,R,K
   10,R
-  14,U,X
-  28,R
-   5,R,D
-   3,R
-   6,R,D
+  21,R,U,X
+  30,R
+  11,R,D
   14,R,Z
    1,R,J
    7,R,D,X
-  40
+  40,J
 
 #lvl_a14
-   1,D
-   5,R,J
-   3,R
-   6,R,D,X
-   2,R,J,G
-   6,R
    1,R,J
    2,R
-   1,D
-   7,R,D,J
-   1
+   6,R,K
+   6,R,D,X
+   3,R,J,G
+   6,R
+   1,R,K
+   3,R
+   8,R,J
   12,R,D,X
-  30,R,J,G
-   4,R,K,G
-   9,R
-   1,R,J
-   4
-   3,R
-  10,D
-   3,R,D
-   3,R
+  12,R,J,G
+   5,R
+  10,R,K
+   2,R
+   2,R,J,G
+   7,R
+   1,R,K
+   1,R
+   1,R,K
+   9
+   4,D
    1,R,D
-   6
-   8,R
-  21,L
-   4,L,D
-  16,L,U,X
-   8
+   4,D
+   1,R
+   1,D
+   1,R
+   9,R,D
+   7,R
+   1
+   1,R
+  16
+   3,D
+   1,R
+   4
+  15,L,U,X
+   7,L
+   2
   10,R
   14,R,Z
    1,R,J
   11,R,D,X
-  23,R,J
-   6
-   2,R
-   2
+  29,R,J
+   3,R
   14,R,D,X
    1,R,J
   10,R,D,X
-  30,R,J
-   3,J
-   6
+  39,R,J
   15,D,X
   10,R,Z
    7,R,J
@@ -409,8 +411,8 @@ console load StrawberryJam2021/4-Expert/Jackal
    3,R,J
   10,R
    1,L,K,G
-  12,R,K
-   8,R
+  11,R,K
+   9,R
   20,R,X
    1,R,J,G
   13,R
@@ -435,4 +437,4 @@ console load StrawberryJam2021/4-Expert/Jackal
   16,R,U,X
  135
 
-ChapterTime: 0:49.470(2910)
+ChapterTime: 0:48.620(2860)
