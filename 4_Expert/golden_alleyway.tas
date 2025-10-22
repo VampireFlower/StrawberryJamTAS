@@ -1,4 +1,4 @@
-RecordCount: 13580
+RecordCount: 13762
 
 console load StrawberryJam2021/4-Expert/RedBoule
    1
@@ -11,7 +11,7 @@ EndRepeat
   10
 
 #Spinner cycle [b04]
-   0
+   1
 
 #lvl_a_01
   10,R,X
@@ -378,8 +378,7 @@ EndRepeat
    2,D
    2,R,D
    2,D
-   2,L,D
-   1,L,D
+   3,L,D
    1,L
    1,L,D
    2,L
@@ -537,56 +536,36 @@ EndRepeat
    5,F,45
    7,F,0
   10,F,351.08
+   8,U
   15,U,X
-   1,L
-   1,L,J,G
-   4,J
-   1,L,J
-   6,J
-   1,K
-   2,J,G
-   9,R,J
-   9,R
-   2,R,K
-   2,R
-   1
-   1,R
-   1
-   1,R,G
-#nrcb on gate, close to getting down this gap without dashing.
-#if you can manage it, you probably save like .3 here
-#  10,R,D,X
-#   1,R,J
-#   4,L
-#   2,L,J
-#   4,L
-#   1,L,G
-#   1,K,G
-#   5,R
-#   6,R,J
-#   1,R
-#   2,R,J
-#   1,R
-#   1,J
-#   2,R
-#   1
-#   6,R
-#Set,Invincible,True
-# 100,L,D
-## doesnt seem possible
-  10,R,D,X
+   1,J
    2,R,J
-   6,R
-   6
+  14,R
+   4
+   1,R
+  10,R,Z
+   1,R,J
+   1,R
+   2,R,J
    2,R
-   2
-  15,D,X,G
-  35,L
-  19,L,D
+   1,R,J
    8,R
-   6,R,J
-   5,R
-  10,L,D,X
+   1,R,J,G
+   1,R
+   2
+   2,R
+   7,J
+   6
+   1,R
+   3
+   3,D
+  12,L,D
+   1,D
+  10,L,D
+   5,L
+  22,L,D
+   1
+  11,L,D,X,G
    1,R,J
   10,R
    1,R,J,G
@@ -832,4 +811,4 @@ EndStunPause
    1,R,K
   50,R
 
-ChapterTime: 1:26.343(5079)
+ChapterTime: 1:25.986(5058)
