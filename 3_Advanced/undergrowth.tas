@@ -1,4 +1,4 @@
-RecordCount: 11382
+RecordCount: 11741
 
 console load StrawberryJam2021/3-Advanced/Nic
    1
@@ -350,7 +350,7 @@ EndStunPause
    3,L,J
    5,L,K,G
 ### 06-a Spinner Cycle
-   1
+   0
 ###
    1,S,N
    1,D,J
@@ -441,48 +441,53 @@ EndStunPause
   15,U,X
    2,J
   10,L,J
-   3,R,J
+   2,R,J
+   1,J
+   1,R
    1
    1,K
    1,R,K
    1,R,J,G
-   6,R,K,G
+   4,R,K,G
    6,R
-   1,R,J
-  23,R,D
+   2,R,K
+  17,R
+   6,R,D
   13,D
-   3,L
-   2,L,D
+   7,L,D
+  13,R,D
+   2,R,J
+  10,L,D,X
+  12,R,J
+   2,R
+   6,L,U,X
+   3,L,J,G
+   1,R
+   8
    2,L
-   7,D
-  20,R,D
-   2,D
-  14,R,D,X
-   1,R,J
-  14,R,X
-   8,R,J
-  13,R,Z
-   9,R,J
-   1,L,J
-  12,K,G
-  14,R,Z
-  33,R,J
-   5,K,G
-   2,L,K
-  13,R,J,G
-   3,J
-  13,R,Z
-   3,R,J
+   1
+  10,R,J
+  10,R,Z
+   7,R,J
   15,R,D,X
-  10,R,D
-  11,R,J
+   6,R
+   6,R,J
+  24,R
+  14,R,Z
+   4,R,J
+  15,R,D,X
+  11,R,D
+   7,R,J
+   6,R
   15,R,D,X
    1,R
-   2,R,D,J
+   1,R,D,J
+   3,R
+   1,R,K,G
    4,R
-   4
   11,L,C
-   8,L,J
+   1,L,J
+   7,J
    2,L
   14,U,X
   10,L,J
@@ -733,4 +738,4 @@ EndStunPause
   14,R,U,X
  135
 
-ChapterTime: 1:23.708(4924)
+ChapterTime: 1:23.198(4894)
