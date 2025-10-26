@@ -1,4 +1,4 @@
-RecordCount: 7713
+RecordCount: 9733
 
 console load StrawberryJam2021/5-Grandmaster/maya
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/5-Grandmaster/maya
  190
 
 #Spinner Cycle [Phase]
-   2
+   1
 
 #lvl_Insert Coin
    4,R,Z
@@ -29,29 +29,27 @@ console load StrawberryJam2021/5-Grandmaster/maya
 #lvl_Tutorial
    6,L,Z
    1,R,J
-   7
-   4,L,J
-   1
-  15,R,U,X
-   1,R
-  14
-  18,L
-   2
-  14,L,X
-  21,R
-  15,U,X
+   4
+   1,J
    2,R
-  19,L,U,X
-  42,R
-  11
+   4,L,J
   15,R,U,X
-  19,R
+   3,R
+  25,R
+  22,L,U,X
+   9,R
+   3
+  15,U,X
+   3,R
+  18,L,U,C
+  42,R
+  17
+  15,R,U,X
    1
+  16,R
   15,U,Z
-   8,R
-   1
-   1,R
-   6,R,Z
+  10,R
+   7,R,Z
    1,R,J
    7,R
    1,R,J
@@ -160,7 +158,8 @@ console load StrawberryJam2021/5-Grandmaster/maya
    6,R,D,X
    1,R,J
   14,R,Z
-  21,R,J
+  12,R,J
+   9,R
   11
   15,R,X
   20,R
@@ -174,30 +173,37 @@ console load StrawberryJam2021/5-Grandmaster/maya
   14,L
   20,L,U,X
   30,R
-#resync
   15,D,X
-   9,D
-   4,L
-   2,L,D
-  10,R
+   8,D
+   6,L,D
    6
-   3,L
+   6,L
+   4
+   2,L
+   1
   15,D,X
    4,R,D
-   5,R
+   1,R
+   1,R,D
+   3,R
    5,R,D,X
   26,R,D
   16,R,U,Z
   11,R
   15,R,D,X
-  20,R,D,J
-   7,L,U,X
-   2,L,J,G
-   7,L
-   5,L,Z
+   4,R
+  12,R,K
+   1,R
+   3
+   1,J
+   6,L,K,G
+   1,L
+   7,L,Z
    1,L,J
    7,L
-  17,L,J
+  12,L,J
+   2,L
+   3
    1,K
    7,R,J,G
    9,R,Z
@@ -211,7 +217,9 @@ console load StrawberryJam2021/5-Grandmaster/maya
    9,R
   11,R,Z
    1,R,J
-   3,L
+   1
+   1,J
+   1
   15,R,D,X
    1,L,D
    1,R,J,G
@@ -221,36 +229,38 @@ console load StrawberryJam2021/5-Grandmaster/maya
    5,R,Z
    1,L,J
    3
-   7,L
-   8,L,J
-   1,R,J
+   6,L
+   1,L
+   8,L,K
+   1,R,K
   14,L,U,X
    1,L,J,G
    2,L,K,G
-   2,L,J,G
-  11,L,K,G
-   7,L
+   1,L,J,G
+   1,L
+  17,L,K,G
    1
+   1,L
   20,L,U,X
-  11,R
-  14,R,U,X
-   5,L
-  14,L,U,X
-  58,R
-  17,R,D
-  14,R,D,X
-   1,R
+  10,R
+  15,R,U,X
+   8,L
+  11,L,U,Z
+   9,R
+  12,R,U,X
+  53,R,D
+   1,R,D
   15,R,D,X
+  15,R,D,C
    4,R,D
-  12,R,J
-   5,R
-   4,R,K
+  22,R,J
+   1,R
+   1,R,J
   22,R
-   2,R,D
   13,R,U,X
    1,R,J,G
    9,R
-   1,R,K
+   1,R,J
    3,R
    1,R,J
   40
@@ -374,17 +384,16 @@ SkipInput,3,1
 SkipInput,3
   10,R,D,X
    1,L,D
-   7,R,D
-   1,L,D
+   8,R,D
 EndStunPause
-#resync here might be improvable
-   2,R,D
+   2,R
   16,R,Z
   17
   15,R,D,X
-  19,R
-  27,R,X
-  25,R
+  17,R
+  26,R,C
+   2
+  24,R
   11,L,U,X
   17,L
   10,L,U,X
@@ -396,7 +405,7 @@ EndStunPause
   22,R,U,X
    2
 #Spinner Cycle [Delta]
-   1
+   0
 #
    6,R,Z
    1,R,J
@@ -451,17 +460,18 @@ EndStunPause
   16
    2,R
   15,L,Z
-  46,D
-   5,R
+  18,D
+  29,R,D
+   4,D
    1,R,D
-  10,R,D,X
+  10,L,D,X
    5,R,J
    7,R,D,X
 StunPause
    8,R,D,X
 EndStunPause
   11,R,J
-   9,R
+   8,R
   14,R,Z
    1,R,J
   14,R,D,X
@@ -562,33 +572,32 @@ EndStunPause
    6,R,D
    7,R,J
    6,R
-   2,R,J
-   2,R
-   1,R,J
-  14,R,U,Z
-  14
-   8,R,X
-   4,R
-   9
-   9,L,X
-  35,L
-  33,R
-#resync
-  14,R,Z
    1,R,J
    3,R
-  15,R,D,X
-   4,R
-  26,R,K
-  10,R,D
-   6,D
-  11,L,D,X
-  18,R
-  15,R,D,X
-   6,R
-  11,R,U,C
-  12,L
-  18,R
+   1,R
+  14,R,U,Z
+  14,L
+   7,R,X
+   1,R,J,G
+  10,J
+   8,L,X
+  32,L
+   3
+  37,R
+  14,R,Z
+   1,R,J
+  15,R,D,J,X
+   7,R,J
+  39,R,K
+   4,R,D
+   8,D
+   5,L,Z
+   2,R,J
+   1,R
+  10,R,J
+   7,R
+  18,R,U,X
+  17,R
   15,R,D,X
   29,R,J
   14,R,U,X
@@ -862,4 +871,4 @@ EndStunPause
   66,J
    3,L,J
 
-ChapterTime: 2:24.109(8477)
+ChapterTime: 2:23.616(8448)
