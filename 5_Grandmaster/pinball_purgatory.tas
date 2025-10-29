@@ -1,4 +1,4 @@
-RecordCount: 11510
+RecordCount: 11882
 
 console load StrawberryJam2021/5-Grandmaster/maya
    1
@@ -812,38 +812,47 @@ EndStunPause
   22,L,D
   11,L
   25,L,D,X
-  11,D
+  10,D
+   2,L,D
+   1,D
    4,L,D
-   2,D
-   1,L,D
-  18,L,X
+   3,D
+  17,L,X
   11,R
   15,R,D,X
-   3,R,D
-  29,R,J
-  14,R,Z
-   1,R,J
-   2,R
-  17,R,D,X
-  11,R,J
+   9,R,J
    5,R
-  11,R,J
-  15,R,U,X
-   9,R
-  12
-   5,L
-   1,L,D
-   6,L
-  12,R
-  21,R,X
-  11
-  15,R,X
-  11,R
+   2,R,J
+   1,R
+   2,R,J
+   6,R
+  14,R,X
+   1,R,J,G
+   2,R,K,G
+   1,R,J,G
+   7,R
+   2,R,J
+  18,R,D,X
+   1,R
+   8,R,J
+   6,R
+   1,R,J
+   1,R
+   2,R,J
+  19,R,U,X
    1
-  24,R
-   8,U,X
-   8
-  18,R
+   5,R
+  21,L
+  21,R
+  12,R,D,X
+  11,R
+  34,R,C
+  17,R
+   7,U,X
+   7
+   6,R
+   1
+  12,R
   11,R,Z
   11,L
   12,L,U,X
@@ -853,11 +862,11 @@ EndStunPause
   11
   15,U,X
   16,R,C
-  18,D
-   1,L
+  17,D
+   2
+   1,L,D
    1
-   1,L
-   1
+   1,D
    6,D
    7
   10,L
@@ -882,4 +891,4 @@ EndStunPause
   66,J
    3,L,J
 
-ChapterTime: 2:20.386(8258)
+ChapterTime: 2:20.284(8252)
