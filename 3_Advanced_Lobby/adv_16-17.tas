@@ -7,13 +7,15 @@ console load StrawberryJam2021/0-Lobbies/3-Advanced -288 536
    1,L,J
    5,J
    4,L,J
-   6,L,K,G
-   4,L,J,G
-   5,L,K,G
-  11,L
+   4,L,K,G
+   2,L
+   5,L,J,G
+   4,L,K,G
+   8,L
    1,L,J
-   1
-  18,L,D,X
+   2,L
+  15,L,D,X
+   4,L,D
   11,R,D,C
    1,R,J
    1,R,K
@@ -34,4 +36,4 @@ console load StrawberryJam2021/0-Lobbies/3-Advanced -288 536
   15,D,X
   29,L,D
    1,X
-#0:03.706(218)
+#0:03.689(217)
