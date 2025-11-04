@@ -3,7 +3,7 @@ console load StrawberryJam2021/0-Lobbies/4-Expert
 
 #Start
  190
-   2,R
+   1,R,D,J
   10,L,X
   23,L,J
   17,L,U,X
@@ -30,6 +30,6 @@ console load StrawberryJam2021/0-Lobbies/4-Expert
    3,L,J
   11,L,U,X
    2,L,J,G
-  19,L
+  18,L
    1,N
-#0:04.165(245)
+#0:04.131(243)
