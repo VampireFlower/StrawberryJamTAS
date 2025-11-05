@@ -1,4 +1,4 @@
-RecordCount: 2823
+RecordCount: 3252
 
 console load StrawberryJam2021/1-Beginner/Owen-Shirrell
    1
@@ -7,10 +7,7 @@ console load StrawberryJam2021/1-Beginner/Owen-Shirrell
    4,R,Z
    1,J
   12
-Repeat,36
-   1,O
-   1,J
-EndRepeat
+  72,O
 
 #lvl_00 - Overpass
    1,L,J
@@ -63,10 +60,9 @@ EndRepeat
    1,R,D
    1,D
    3,L,D
-  40
+  43
 
 #lvl_04 - Widdershins
-   3
    3,L,D
    1,D
    1,L,D
@@ -80,10 +76,9 @@ EndRepeat
    7,D
    2,R,D
    6,D
-  40
+  43
 
 #lvl_05 - Symmetry
-   3
   13,R,D,X
    1,R,J
    1,R
@@ -176,35 +171,20 @@ EndRepeat
 
 #lvl_08 - Daedalus
    9,R
-  22,R,D
-   6,D
-   1,R,D
-  18,D
-  40
+  25,R,D
+  13,L,D
+   3,R,D
+   4,R
+   2
+  43
 
 #lvl_09 - Perpendicular
-   3
-   2,R,D
-  15,R,Z
-  14,R
-   6,R,D
-   8,D
-   1,R,D
-   2,D
-  15,U,X
-  13,L,D,C
-  11,L,J
-   1,L
-   1,L,J
-   8,L,D
-   1,R,D
-  32,D
-   1
+  20,L
    1,D
+   1,L,D
+  12,D
    1
-   1,D
-   3
-   3,D
+  27,D
    5,L,D,X
    1,L,J,G
    9
@@ -242,42 +222,44 @@ EndRepeat
   15,U,X
    1,L
   10,L,Z
-   7,L,J
-   6,L
-   1,L,J
-   6,L
-  15,D,X
-  16,D
-   1,L,D
-   1,D
-   1,L,D
-   1,D
-  12,L,D
-  13,L,D,X
-   1,L,J
-   7,L
-   8,L,J
-   4,L
-   2,R
-   2,R,J
-   1,R
+   4,L,J
+   8,J
+   1
+   2,K
+   1,L,K
+  12
+  28,D
+  15,U,X
+  15,L,C
+   2,L
+  15,L,U,Z
    1,L
-   2,R,J
-  18,R,D
-   1,D
+  15,D,X
+  11,L,D,C
+   1,L,J
+   3,L
+   1,L,K
+   3,L
+   1,L,J
+   6,L
+   1,L,K
+   4,L
+   1,R
+   7
+  31,D
+   2,L,D
   40
 
 #lvl_10 - Downfall
-   6,L,D
-   1,L
+   7,L,D
    5,L,Z
    1,L,J
-   9,L,D
-  15,L,D,X
-   4,D
-   6,L,D
+   4,L
+   2,L,K
+  10,L
+  16,L,D
   15,D,X
-   5,D
+   3,D
  135
 
-ChapterTime: 0:32.317(1901)
+ChapterTime: 0:32.062(1886)
