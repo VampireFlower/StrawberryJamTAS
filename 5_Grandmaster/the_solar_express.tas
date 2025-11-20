@@ -1,4 +1,4 @@
-RecordCount: 21280
+RecordCount: 21691
 
 console load StrawberryJam2021/5-Grandmaster/Soloiini
    1
@@ -31,34 +31,42 @@ console load StrawberryJam2021/5-Grandmaster/Soloiini
    1,R,J,G
    1,J
    3,R,J
-  16,R,D
-   1,L,D
-   9,D
-   1,G
-   5,L,D
-   1,D
-   1,L,D
-   1,L,G
-   2
-  11,L,U,G
-   2,J,G
-   1,K,G
-   8,R,U,X
+  13,R,D
+  10
+  10,D
+   1,R,D
+   4,D
+   2,L,D
+   1,R,G
+   1,J
+   1,L,J
+   5,L
+   1,L,J
    1,L
-   1,J,G
-   5
-  15,R,D,J,X
+   1,L,J
+   1,L
+   2
+  12,R,Z
    1,R,J
-   4,R,D,J
-   8,R,J
-  52,R,K
-  24,R,U,X
+   1,R,K,G
    1,R
+   1,R,J,G
+   6,R,D,X
+   1,R,J,G
+   1,R
+   1,R,K,G
+  11,R,J,G
+   6,R
    1,R,J
-   1,R
-  17,D,X
+   4,R
+  41,R,J
+  16,R,X
+  16,D,C
    1,S,N
   35,D,O
+# spinner cycle [Crystal Causeway]
+   1
+#
    6,R,Z
    1,R,J
    7,R
@@ -237,6 +245,33 @@ EndRepeat
    7,R,J,G
    5,R,G
    3,R,J,G
+## faster route to moonblock?
+#    2,R,G
+#    6,R,J,G
+#    7,R,G
+#    1,R,J,G
+#    1,R,J
+#   14,R,U,X
+#   50,R,J,G
+#    1,R
+#   19,R,X
+#    3,G
+#    1,R,J,G
+#   16,L,J,G
+#    3,R,J,G
+#    5,R,G
+#    2,R
+#    1,R,J
+#    2,R,K
+#    1,R,K
+#    5,R,X
+#    1,R,J,G
+#    1,R,K,G
+#    4,R
+#    3,R,J,G
+#    3,R
+#   90,R,G
+##
    2,R,G
    6,R,J,G
    7,R,G
@@ -255,62 +290,41 @@ EndRepeat
    7,R,C
   28,R,G
    4,R,J,G
-   6,R,K,G
-  14,R,G
-   2,R
-  15,R,U,X
-  19,R
+   1,R,K,G
+  50,R,D,G
+   1,R
+  21,R,X
+   2,G
+   4,J,G
    6
-   6,U,X
-  33,G
-   1,R
-  19,L
+   1,J
    1
-  32,G
+   2,J
+   4
+   3,R
    4,R,J
-  11,R,D,X
-  14,R,J,G
-   1,J,G
-   3,R,J,G
-   5,R,G
-   1,R,J,G
-   1,R,G
-   1,G
-   1,R,J,G
-   1,G
-  21,R,D,G
-  11,R,G
    1,R
-   5,R,J,G
-   6,R
-   7,R,J
-  15,R,D,X
-   4,D
-   5,R,D
-  11,R
-   7,L,Z
-   4,R,J
-  30,R,K,G
-   2,G
-   5,R,G
-   2,G
-  13,R,D,G
-  11,R,G
-   3,R,D,G
-   2,R,G
-   1,R,J,G
-   9,R,G
-   1,R,J,G
-   6,R,G
-   1,R,J,G
-   4,R,G
-   1,R
-  20,R,D
-   5
-   8,R
-  14,R,D,X
+   9,R,Z
    1,R,J
-   5,R,D,X
+   1,R,K,G
+   1,R
+   1,R,J,G
+   3,R,K,G
+  51,R,K,G
+   1,K,G
+   6,R,K,G
+StunPause
+  16,R,G
+EndStunPause
+  11,R,J,G
+   1,R
+  14,R,U,X
+  32,R,J,G
+   1,R,D
+   6,R,K
+  14,L,D,X
+   1,R,J
+   6,R,D,X
   13,R,G
    1,R,J,G
   14,R,G
@@ -318,15 +332,15 @@ EndRepeat
   14,R,G
    1,R,J,G
   14,R,G
-   2,R,J,G
-   5,R,G
+   1,R,J,G
+   8,R,G
    1,R,D
   14,L,D,X
    1,R,J
    8,R,D,X
   13,R,G
-   1,R,D,J
-   8,R,D,X
+   1,R,D,K
+  10,R,D,X
   13,R,G
   40
 
@@ -1267,4 +1281,4 @@ EndRepeat
   23,L,U,Z
  116,L
 
-ChapterTime: 2:42.520(9560)
+ChapterTime: 2:41.245(9485)
