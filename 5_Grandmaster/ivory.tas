@@ -1,4 +1,4 @@
-RecordCount: 12266
+RecordCount: 12732
 
 console load StrawberryJam2021/5-Grandmaster/Linj
    1
@@ -147,57 +147,54 @@ console load StrawberryJam2021/5-Grandmaster/Linj
    4,R,J
    1,R,K
   15,R,D,X
-   1,R
-  15
-  13,D
+  15,R
+   3,R,D
+  10,D
+   1,R,J
    5,R,D,X
   40
 
 #lvl_Weaver
-   9,R
-   4,R,U,J,X
-   3,R,J
+  11,R
+   4,J,X,ALU,MR
    1,R,K
-  15,R,D,K,X
-   2,K
-   2,L,K
-   6,L
-   1,L,J
-   8,L,D,X
-   2,R
-   1,R,J
-   7,R
+   9,L,D,C
+   5,R
+   4,R,D
+   9,R,U,X
+   1,J,G
+   7,L,K
+   7,L,D,K,X
    2,R,K
-   9,R
-  11,R,U,Z
+   8,R
+   3,R,K
+   6,R
+  10,R,U,Z
   40
 
 #lvl_Whale Stitcher
    3,R,U,Z
-   1,R,J,G
+   2,R,J,G
    1,R
   15,R,D,X
-   7,R,D
-   2,R
+   6,R,D
   40
 
 #lvl_Afterthought
-   3,R
+   2,R,D
+   4,R
   12,R,U,Z
-   4,L,J
-   4
-   1,R,K
-  18,K
-   1,R
-  26
-   4,R,J,G
-   7,R,D,X
+   5,R,J
+  12,R,K
+  17,R
+  12,D
+   5,R,X
   40
 
 #lvl_Parasol
-   6,R,D
-   9,R,U,C
-   9,R,D,X
+   8,R
+   4,R,U,J,C
+  11,D,X
  135
 
-ChapterTime: 0:26.452(1556)
+ChapterTime: 0:26.248(1544)
