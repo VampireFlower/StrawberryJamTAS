@@ -6,7 +6,7 @@
 #- intermission rooms
 #- reduce stun pauses
 
-RecordCount: 6100
+RecordCount: 6283
 
 console load StrawberryJam2021/5-Grandmaster/Hydro
    1
@@ -276,23 +276,13 @@ EndStunPause
   40
 
 #lvl_B2
-   1,S,N
-   1,D,J
+   9,D,X
   69,O
-   1,R,J
-  10,R
-   7,L,D,X
-   3,L,J
-   8,L
-   1,L,N
-   1,R,J
-   2
-  10,L,D,X
-   1,R,J
-   4,R
-  15,R,D,X
+#waiting
+  10
+  11,R
    1
-   1,L,J
+   1,D
   12,L,Z
    1,R,J
    2,R
@@ -323,31 +313,38 @@ EndStunPause
   30,L,U,X
    2,J,G
    2,L,J
+   7
+   4,Z
+   3,L,J
+   3,L
+   2,L,K
+   2,L
    2
-   5,R
-  10,L,D,X
-   5,R,J
-  10,L,D,X
-   3,R,J
-  10,L,D,X
+   1,N
+   1,R,J
+   2
+   6,R,D,X
    4,R,J
-  10,L,D,X
-   7,R,J
    1,R
-   3,R,K
-  13,R
-  12,R,U,X
-   1,L
-   1,J,G
-   4
+   2,R,K
    3,R
-  15,D,X
+   1,R,K
+   4,R
+  10,L,Z
+   1,R,J
+   6,R
+   9,R,J
+   5,R
+   3,R,K
+   3,R
+  15,R,X
+  15,D,C
+  15,R,X
   15,R,C
   15,R,X
-  10
   14,L,Z
    1,R,J
-  11,R,D,X
+  10,R,D,X
    1,R,J
   13,R,K,G
   15,R,D,X
@@ -396,7 +393,7 @@ EndStunPause
    3,R,J
    7,R
 ###spinner cycle
-   1
+   2
 ###
    7,R,J
   11,R,Z
@@ -470,4 +467,4 @@ Repeat,45
    1,L,D
 EndRepeat
 
-ChapterTime: 0:55.981(3293)
+ChapterTime: 0:55.505(3265)
