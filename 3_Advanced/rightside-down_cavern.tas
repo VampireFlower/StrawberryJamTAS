@@ -1,4 +1,4 @@
-RecordCount: 12028
+RecordCount: 12245
 
 console load StrawberryJam2021/3-Advanced/Vamp
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/3-Advanced/Vamp
   90
 
 ##spinner cycle [Vamp_8]
-   1
+   2
 ##
 
 #lvl_intro_SJ
@@ -188,40 +188,42 @@ EndRepeat
    4,L,U
    2,R,U
    7,R
-  17,R,U
-  12,R,Z
+   3,R,U
+   6,L,U
+   8,L
+   2,L,U
+   1,U
+  15,R,U,C
+   1,G
+   4,Z
    1,R,J
-   8,R
-  12,R,D,Z
-   1,L,J,G
-   2,R
+   1,R
+   1,R,K,G
+   1,R,J,G
+   1,R
+   2,R,J,G
+  13,R
   40
 
 #lvl_Vamp_5
-  15,R,U,X
-  17,L,U
-   5,R,U
-   2,L,U
-  14,L,U,X
-   1,R,J
+   2
    1,R
-  16,R,U,X
-   2,R,J
-  11,R
-  15,R,D,X
-   8,R,J
-   9,R
-   1,R,J
-   4,R,D
-  10,L,D
-  15,R,D
-   1,R
-   1,R,D
+   2
+  35,R,U
+  15,R,D,Z
+   5,R,J
    4,R
-   1,R,D
-   2,R
+   2
+   1,R
+   2,R,K
+  10
+   4,D
+  12,R,D
+  11,R
+   3,R,D
+   1,R
   15,R,X
-  14,R
+  12,R
    4,R,Z
    1,R,J
    6,R
@@ -501,4 +503,4 @@ EndRepeat
    1,G
    1
 
-ChapterTime: 0:56.967(3351)
+ChapterTime: 0:56.457(3321)
