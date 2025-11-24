@@ -1,4 +1,4 @@
-RecordCount: 6936
+RecordCount: 7783
 
 console load StrawberryJam2021/3-Advanced/sp1029
    1
@@ -78,14 +78,14 @@ console load StrawberryJam2021/3-Advanced/sp1029
    1,R,J,G
    1,R
    4,J,G
-   7,R,Z
-   1,R,J
-   8,R
+   5,R,Z
    1,R,J
    4,R
-   2
+   1,R,K
    2,R
-   8,R,Z
+   1,R,J
+  11,R
+   7,R,Z
    1,L,J
   13,L,G
   10,L,K,G
@@ -136,33 +136,34 @@ console load StrawberryJam2021/3-Advanced/sp1029
    6,L
    4,R,X
    1,R,J
-  20,R
-   6,U,X
-  25,R,G
-  13,D,G
-   5,L,D,G
-   9,D,G
-   1,L
-   6,R,D
-   3,R
-   1,L
-   1,K,G
+  19,R
    2
-   8,R
-   4,R,Z
-   2,R,J
-   8,R
+   6,U,X
+  24,R,G
+   6,L,D,G
+  20,D,G
+   1
+   1,R,D
+   1,R
+   1,R,D
+   6,R
+   1,L
+   1,J,G
+   3
+   6,R
+   4,Z
+   1,R,J
+   2,R,K,G
+   7,R,J,G
   40
 
 #lvl_a-06
-   1,R,J
-  13,R,D,X
-   1,R,J
-   3,R
-   1,R,J
-   3,R
-  10,R,J
-   3,J
+   5,R,J
+   2,R
+  15,R,D,X
+   7,R,J
+   5,J
+   1
   13,U,X
   43
 
@@ -176,92 +177,107 @@ console load StrawberryJam2021/3-Advanced/sp1029
    1,J
    1,R,K,G
    4,K
-  14,U,Z
-   2
-   2,L,K,G
-   6,L
+  15,U,X
    1
-   2,L,J
+   2,L,J,G
+   3,L
+   1
+   2,L
+   1
+   2,L,D,J
    1,J
-   1,L,J
    5,D,X
    7,R
-   1,R,K,G
-   2,R
-   8,L,Z
-   1,L,K
-  21,L,J,G
-  10,L,D,G
-  35,R,D,G
-   4,R,G
-   9,R
-  15,R,Z
-  19,L,D
-  21,L,D,G
-   1,G
-   1,R
-  11,U,X
-  29,R,G
-   1,R
+   1,J,G
    1
-   2,R
-  10,D,X
-   3,L
-   5,R
-  25,R,G
-   3,L,J,G
-   7,L,D,J
-  13,R,Z
-   1,L,J
-   1,L
-   5,L,D,X
-  13,L,G
-  26,L,J,G
-   1,L
-  15,D,X
-   9,D
-   8,R,D
-   3,D
-   7,R,Z
-   1,R,J
-   5,R,K,G
-   2,R
-   2,R,J,G
-   4,R
-   1,R,J
    1,R
+   7,L,Z
+   1,L,J
+  20,L,J,G
+  12,L,G
+   3,G
+  11,D,G
+   1,L,G
+  11,R,D,G
+   4,R,G
+   1,G
+   2,R,G
+   5,G
+  13,R,G
+   1,R,K,G
+   1,G
+   1,K,G
+   1,G
+   1,K,G
+  10,G
+   4,D,G
+   2,G
+   1
+  12,U,Z
+  13,G
+  10,R,G
+   1,R,D
+   4,J,G
+   5,L,J
+   7,R,Z
+   1,L,J
+  15,L,J,G
+  12,L,K,G
+   5,L,G
+  10,L,K,G
+   5,L,G
+   1
+  15,D,X
+   9,R,D
+  10,D
+   6,R,Z
+   1,R,J
+   6,R,K,G
+   2,R
+   1,R,J,G
+   6,R
   40
 
 #lvl_a-08
    5,R
-  23,R,D,G
-   3,L,D,G
-   9,L,J,G
+  21,R,G
+   2,G
+   1,L,G
+   2,L,D,G
+   6,L,G
+   4,R,G
    1,R
   15,R,U,X
+   1,R
   18,R,U,C
-   4,R
-  18,R,X
+   1,R
+  15,R,X
   15,D,C
-   3,R,D
-   8,L,D
-  10,L,D,X
+   3,D
+   6,L,D
+   2,L
+   1,L,D
+   1,L
+   6,L,Z
    1,L,J
-  21,L,J,G
-  21,L,D,G
-  29,R,D,G
-   1,R
-  10,L,Z
-  38,R,J,G
-   6,R,G
-   1,R
-  15,L
-   1,R,J,G
-   1,R
+  13,L,G
+   1,L,K,G
+  18,L,G
+   4,L,D
+  24,R,D
+   1,D
+  14,L,D,X
+   1,R,J
+   5,R,D,X
+  13,R,G
+   2,R,J,G
+   8,R,G
+   8,G
+  17,R
   14,R,Z
    1,L,J
-  10,L,U,X
-   3,R
+  12,L,U,X
+   2,R
    2,R,J
    7,R,D,X
    1,R,J
@@ -383,7 +399,7 @@ console load StrawberryJam2021/3-Advanced/sp1029
    8,R,D
    2,D
 #powerbox cycle
-   7
+   0
 ###
    5,R,Z
    1,R,J
@@ -402,8 +418,8 @@ console load StrawberryJam2021/3-Advanced/sp1029
    1,R,J
    3,R
    7,R,J
-  14,R,U,X
-  11,R
+  20,R,U,X
+   4,R
  139,U,X
 
-ChapterTime: 0:50.099(2947)
+ChapterTime: 0:48.331(2843)
