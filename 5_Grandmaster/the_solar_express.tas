@@ -1,4 +1,4 @@
-RecordCount: 23906
+RecordCount: 24330
 
 console load StrawberryJam2021/5-Grandmaster/Soloiini
    1
@@ -163,31 +163,32 @@ console load StrawberryJam2021/5-Grandmaster/Soloiini
    2,K
    5,R,J
   15,U,Z
-  14,J
+  15,J
    4
-   7,L
+   5,L
+   1
+   1,L
    6,G
-  24,U,G
-   1,J,G
-   4,K,G
-   6,R,U,Z
-   9,R,J,G
-  10,R
-   6,J
-   3
-   8,U,Z
-  14,R,J
-   9,J
-   1,K,G
-   4,L,K
-   1,R,J,G
+   3,U,G
+   1,G
+  10,U,G
+   3,G
+  15,U,G
+   4,Z
+   1,R,J
    6,R,K,G
+  11,R
+  10,R,K
+   3,R
+  15,U,Z
+  15,L,J
+   3
+   2,J,G
   40
 
 #lvl_Untapped
    1,J,G
-   1,L
-  12
+  13
    8,D,X
   40
 
@@ -227,6 +228,40 @@ Repeat,2
    1,R,J,G
   14,R,G
 EndRepeat
+## -4f to moonblock
+#    1,R,J,G
+#   10,R,G
+#    1,D
+#   14,L,D,X
+#    1,R,J
+#    6,R,D,X
+#   13,R,G
+#    1,R,D,J
+#+2f theo y subpixel
+#   11,R,D,X
+#   13,R,G
+#   40
+
+#    1,R,J,G
+#   14,R,G
+#    1,R,J,G
+#   14,R,G
+#    6,R,J,G
+#    5,R,G
+#    2,R,K,G
+#    2,R,G
+#    6,R,J,G
+#    1,J,G
+#    2,J
+#    1
+#   13,R,U,X
+#   25,R,G
+#    1,R,K,G
+#   16,R,G
+#    1,R
+#   15,R,X
+#   99,G
+##
    3,R,J,G
    8,R,G
    2,G
@@ -871,60 +906,65 @@ EndRepeat
    1,L
    1,R
   15,R,D,X
-   4,L,J
+   4
   18,L,U,X
-   1
-   6,R,U,X
-  21,R,G
-   4,L,G
-  10,R,Z,G
-  32,R,K,G
-   1,R
-  15,R,U,X
-   8,R,C
-  24,R,G
-   4,R,J
-   1,L,J
+  14,R,U,C
+   4,J
+   7,R,Z
+   1,R,J
+  11,R
+  10,R,J,G
+   7,R
    1,R,K
+   4,R
+  14,R,U,Z
+   1,J,G
+   1,R,J
+   5,J
+  11,L
+   7
+   4,D
+  20,R,X
+   1
+   1,R,J
+   1,R
   20,L,X
    8,L,J
-   1,L,K
-  17,L,K,G
-   4,K,G
-   1,L,K
-  13,U,X
-  14,G
-   7,L,G
-   1,L,D
-   1,L,J,G
-   3,L,K,G
-   4,L
-  23,L,G
+  12,L,K
+   2,J,G
+   3,R,J
+  15,U,X
    1,L
+   2,L,J,G
+   1,L,K,G
+   3,L,J,G
+  10,L
+   1,L,K
+   1,L
+   1,L,K
+   3,L
+   3,L,J
   15,L,U,Z
-   7,L,X
-  26,L,G
-   4,R,G
- 121,D,X,G
-   2,R,G
-   4,R
-   6,L,Z
+  25,L,X
+ 123,D,C
+   2,L
+   3,L,D
+   5,L,D,X
    1,R,J
-   7,R
-   1,R,J
-  14,R,D,X
-   1,R,J
-  12,L,X
-  13,G
-   1,R,D,J
-  13
+  13,R,J,G
+   9,R,K,G
+   5,R,G
+   1,D
+  15,L,D,X
+  15,D,C
+  19
+   1,L
   14,R,Z
    1,L,J
-   2,L
-   1
-   3,J
-   3
-   7,L,Z
+   2
+   1,K
+   5
+   9,L,Z
    1,R,J
    6,R
    1,R,J
@@ -1272,4 +1312,4 @@ EndRepeat
   23,L,U,Z
  116,L
 
-ChapterTime: 2:40.140(9420)
+ChapterTime: 2:39.528(9384)
