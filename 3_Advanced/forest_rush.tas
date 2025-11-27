@@ -1,4 +1,4 @@
-RecordCount: 9971
+RecordCount: 10721
 
 console load StrawberryJam2021/3-Advanced/mmm
    1
@@ -10,16 +10,30 @@ console load StrawberryJam2021/3-Advanced/mmm
    6,L,Z
    1,R,J
    3,R
-   1,R,K
+   1,R,J
    3,R
    1,R,J
   14,R
    1,R,J
    5,R
-   1,R,K
+   1,R,J
    2,R
    4,R,J
    5,R
+## +2 speed alternate dultra
+#    1,R
+#    2
+#    2,J
+#    3
+#    3,R
+#   40
+#    5,R
+#    9,R,D,X
+#    1,R,J,G
+#    1,R,K
+#    1,R,J
+#   14,R
+##
    2,R,K
    4,R
    5
@@ -52,20 +66,17 @@ console load StrawberryJam2021/3-Advanced/mmm
    5,R
    3,R,J
   12,R
-   2,R,J
-   9,R
-   1,R,J
-  10,R
+   7,R,J
+  19,R
   40
 
 #lvl_a02
-   9,R,D,X
+   4,Z
    1,R,J
-   9,R
-   1
+  10,R
    2,R,J
-   1,R
-   3
+   3,R
+   1
    4,R
    7,R,J
   15,R,D,X
@@ -80,10 +91,9 @@ console load StrawberryJam2021/3-Advanced/mmm
    7
   26,R
   10,R,J
-   5
+   5,R
    2,K
-   4,R
-   7
+  11
   14,R,D,X
    1,L,J
    5
@@ -193,40 +203,47 @@ console load StrawberryJam2021/3-Advanced/mmm
    1,J
   15,U,X
   11,L,J
-   4,R,J
-   2,R
-   4,R,J
+   6,R,J
+   1,K
+   1,K
+   2,R,J
    1,R,K
-  15,U,X
-   1
-  10,J
+   1,R,K
+  14,U,X
+  11,L,J
   40
 
 #lvl_a05
-  11,L
-   8,L,Z
-   7,L,J
+   1
+   4,J
+   6
+   4,L,Z
+   8,L,J
    1,L
-   2,L,J
-   5,L
-   2,L,J
-   5,L
-   2,L,J
+   1,L,J
    2,L
-   1,L,D
+   1,L,J
+   5,L
+   1,L,J
+   5,L
+   2,L,J
+   5,L
+   1,L,J
+   2,L
    1,L,D,J
    2,L
    5,L,D,X
    1,R
    1,J,G
   11
-   5,L
+   3,L
    2,L,D
-   2,L
-   3,L,D
-   2,L
-  12,L,J
-  56,L
+   3,L
+   2,L,D
+   1,L,J
+  12,J
+  43
+  12,L
    5,R,J
    1,R
   14,L,Z
@@ -258,9 +275,9 @@ console load StrawberryJam2021/3-Advanced/mmm
    2,R,J
    8,R
    1,R,J
-   7,R
+   6,R
    1,R,K
-  10,R
+  11,R
    2,R,J
    9,R
    1,R,J
@@ -477,4 +494,4 @@ console load StrawberryJam2021/3-Advanced/mmm
   13,R
  139,D,X
 
-ChapterTime: 1:00.588(3564)
+ChapterTime: 1:00.554(3562)
