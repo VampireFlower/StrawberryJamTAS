@@ -1,4 +1,4 @@
-RecordCount: 12912
+RecordCount: 13150
 
 console load StrawberryJam2021/3-Advanced/Vamp
    1
@@ -147,61 +147,6 @@ EndRepeat
    1,R
   15,R,X
   14,R
-## -9f to moonblock
-#    4,R,U
-#    1,R
-#    2,R,U
-#    1
-#    1,R
-#    1,R,J
-#    1,K
-#    4,L,K
-#    6,L
-#   10,R,U,X
-#    1,R,J
-#   11,R,K,G
-#   15,R,U,X
-#    2,R,J
-#    7,R,K,G
-#   40
-#    4,R,K
-#    5,R
-#    3,R,K
-#    1,R
-#    1
-#   14,R,Z
-#    4,R,J,G
-#    5,R
-#    2,R,J
-#    7,R
-#    1,R,J,G
-#   19,R,U
-#    8,R
-#   14,R,U
-#    1,R
-#   12,R,J
-#    1
-#    1,R
-#    2
-#    1,R
-#   15,U,X
-#    2,L
-#    1
-#    1,U
-#    2,R,U
-#    4,R
-#    2,R,U
-#   17,L,U
-#   15,R,U,X
-#    1,G
-#    4,Z
-#    1,R,J
-#    1,R
-#    1,R,K,G
-#    1,R,J,G
-#    1,R
-#    6,R,K,G
-##
    4,R,U
    1,R
    2,R,U
@@ -218,26 +163,23 @@ EndRepeat
   40
 
 #lvl_Vamp_4
-   1,L
-   2,R
-   8,R,J
-   5,R
-   2,R,J
-  14,R,Z
-   7,R,J,G
-   7,R
-   2,R,J
-   6,R
-   1,R,J,G
-  32,R,U
-   1,J,G
-  10,R
-   1,L
-   9,R
-  15,R,X
-   5,R
-   1
+   1,R,K
    3,R
+   9,R,J
+   4,R
+  14,R,Z
+   6,R,J,G
+   8,R
+   1,R,K
+   1,R
+   1,R,K
+   3,R
+   1,R,J,G
+  41,R
+  15,R,X
+   6,R
+   1
+   2,R
    5
    6,U
    4,L,U
@@ -246,9 +188,10 @@ EndRepeat
    3,R,U
    6,L,U
    8,L
-   2,L,U
-   1,U
-  15,R,U,C
+#wait for moonblock cycle
+   3
+   6,L
+  15,R,Z
    1,G
    4,Z
    1,R,J
@@ -554,4 +497,4 @@ EndRepeat
    1,G
    1
 
-ChapterTime: 0:56.100(3300)
+ChapterTime: 0:55.947(3291)
