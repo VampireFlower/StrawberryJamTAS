@@ -1,4 +1,4 @@
-RecordCount: 8045
+RecordCount: 8497
 
 console load StrawberryJam2021/1-Beginner/frozenflygone
    1
@@ -258,22 +258,20 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
 #lvl_Lab-2
    1,L,J
    3,L
-   1,L,J
-   5,L,D
-  16,D,X
+   3,L,K
+   2,L
+   2,L,D
+   9,L,J
+  14,L,D,X
   40
 
 #lvl_Lab-4 (0)
-   1,L,J
-  10,L
-  12,L,U,X
-   1,L,J
-   2,L
+  11,L
   14,L,U,X
    1,L,J
   14,L,U,X
    1,L,J
-  12,L,U,X
+  11,L,U,X
    1,L,J
   40
 
@@ -402,10 +400,10 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
    4,R,Z
    1,R,J
    2,R,K,G
-   9,R
+  10,R
 
 #lvl_WZ-2
-   3,R
+   2,R
   15,R,U,Z
    1,L,J,G
    1,L,K,G
@@ -416,42 +414,51 @@ Repeat,3
 EndRepeat
    1,R,K
    1
-   7,R,J
-   7,R
-   7,R,Z
+   1,J
+   6,R,J
+   1
+   1,R
+   1
+   1,R
+   1
+   2,R
+   6,R,Z
    1,R,J
    6,R
-   1,R,J
-  12,R,D,X
-   1,R,J
-   2,L,J
-   8,L,U,X
-   1,L,J
-   2,L
-   3,L,J
-   4,L
-  10,L,U,J
-   1,J
-   1,K
-   7,R,J,G
-   3,R
-  10,L,D,X
-   1,L,J,G
-   2,L
-  11
-   4,L,Z
+   7,R,D,J
+   5
+   2,K
+   1,R,K
+  14,L,Z
    1,L,J
    6,L
+   5,R,U,J
    1,L,J
-   4,L
-  15,U,X
-   2,L,U
-  10,L,X
-   6,L,J
+   4,J
+   1,L,J
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,L,K
+   1,K
+   9,J
+   3,L,J
+   2
+   5,L,Z
+   4,L,J
    3,L
+   3,L,K
+   5,L
+  15,U,X
+   3,L
+  10,L,X
+   7,L,J
+   1,J
   15,D,X
-   1,L,J,G
-   7,L
+   1,J,G
+   5,L
+   1
+   1,L
    7,L,Z
    1,L,J
    6,L
@@ -501,35 +508,43 @@ EndRepeat
 
 #lvl_WZ-3a
    1,R
-   5,U,X
-  17,U
-   5,L,U,X
-  28,L,U
-   7,R,U
+  18,U,X
+   4,U
   15,L,U,X
-  15,L,U,C
-   8,J
-   2,L,J
-   3,J
+   5,U
+   4,L,U
+   2,U
+  13,L,U
+   1,U
+   4,L,U
+   8,L,U,X
+   1,L,J
+   3
+   1,K
+   3
+  12,R,J
+   3,R,K,G
+   1,L,K
+   1,K
+   1,L,K
+   1,K
+   1,L,K
+   1,K
+   1,L,K
+   1,K
+   1,L,K
+   1,L
+   1,R
+   1,J,G
+   1,L,J
    1,R,K,G
-   1,L,K,G
-   1,R,K,G
-   1,L,K,G
-   1,R,K,G
-   1,L,K,G
-   1,R,K,G
-   1,L,K,G
-   1,R,K,G
-   1,L,K,G
-   1,R,K,G
-   1,L,K,G
-   1,R,K,G
-   1,L,K,G
-   1,R,K,G
-   1,J
-  13,R,J
+   4,L,K
+   1,K
+   1,L,K
+   5,K
+   1
   15,D,X
-   3,L,D
+   3,L
 
 #lvl_WZ-4
    6,L,D
@@ -557,8 +572,9 @@ EndRepeat
 #lvl_WZ-5a
    1
    1,J
+   3
    1,L
-   6
+   3
   15,D,Z
    1,L,J,G
    2,L,K,G
@@ -711,4 +727,4 @@ EndRepeat
    5,U,X
  135
 
-ChapterTime: 1:26.632(5096)
+ChapterTime: 1:26.326(5078)
