@@ -1,4 +1,4 @@
-RecordCount: 33447
+RecordCount: 33960
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -371,6 +371,7 @@ EndStunPause
    1,R,K
   12,R
    4,D
+
   11,R,D
    9,R,D,J
   14,R,U,X
@@ -391,7 +392,8 @@ EndStunPause
   22,R
    1,J
   12,L,K
-   3,L
+   2,L
+   1,L
    2,R
    8,R,K
   25,R
@@ -401,7 +403,8 @@ EndStunPause
    6,R,U,Z
    1,R,J,G
    1,J
-  19
+  18
+   1
    1,R,J
    3,J
   20,R,J
@@ -452,7 +455,10 @@ EndStunPause
    5,R,D
   10,R,J
    1,J
-   5
+
+   4
+   1
+
    4,K
    1,R,K
    1,J,G
@@ -494,35 +500,40 @@ EndStunPause
   19,R,D,X
    4
   12,L,U,Z
-   6,R,G
+  12,R,G
   10,R,X
    4,R,J
-  23,R,K
-  11,R,U,X
-   7
-   4,L,K
-  13,L,X
+   1,R,K
+   7,R
+  14,R,U,Z
+   8
+   2,R,J,G
+   2
+   4,L,K,G
+   1,L
+  14,L,X
    1,R,J
-   5,J
+   4,J
+   1
   10,L,X
    1,R,J
-   3,J
-  11,R,J
-   6,R,K,G
+   1,J
+  12,R,J
+   5,R,K,G
+   2,R
+  16,R,X
+   4,R
    1,R
-  17,R,X
-   4,L,G
-  10,L,X
+  12,L,X
    4,R,J
    1,R,K
-   3,R
-  14,R,X
+   1,R
+  12,R,X
    4,R,J
    1,R,K
    5,R
-  14,R,X
-   5,R
-   9,R,D
+  20,R,X
+   9,R
   24,D,X
   20,R,C
    4,R,J
@@ -586,7 +597,7 @@ EndStunPause
    4,R,J
    1,R,K
    4,R,J,G
-   7,R
+   7,R,D
   36,R,D
   14,R,U,G
   10,R,X
@@ -623,42 +634,42 @@ EndStunPause
   18,R,J
   14,U,X
   26,L,J
-  12,R,J
+   7,R,J
+   6,R
   15,R,X
-  11,R
-  15,R,U,C
-  16,R,X
-   4
-   2,R
-  26,R,U,C
-  26,R,U,X
-  15,R,C
-  23,R
-  13,L,D
-   1
-   2,L
+  28,R
+  31,R,U,X
+  24,R,U,C
+  15,R,X
+  27,R,C
+  10,L,D
+   3,L,D
+   3,L
+   3
   14,R,D,X
-  25,R,J
-  18,R,U,X
-  16,R
-  15,D,X
-   3,R,D
-   4,L,D
-   1
-   1,L,D
-  19,R
-  12,U,X
-  20,R,J
-   7,R
-  11,R,J
-   5,R
-   1
-  15,R,X
-  15,R,C
-   5,R
-   5,L
+   8,R,J
+   6,R
+   1,R,J
+   3,R
   15,R,U,X
-   1,R
+   7,R,D
+  15,X
+  15,D,C
+   1
+   6,L,D
+   1,L
+   1
+  18,R
+  12,U,X
+  30,R,J
+  11,R
+   4
+  18,R,X
+  15,R,C
+   4,L
+   2,R
+   1,L
+  17,R,U,X
   14,R,Z
    1,R,J
    4,R
@@ -1983,7 +1994,8 @@ EndRepeat
    1,R,J
   14,R,D,C
 #spinner cycle [heartside_jolly]
-   1
+#weird drift thing
+   8
 #
   15,D,X
   14,R,D,C
