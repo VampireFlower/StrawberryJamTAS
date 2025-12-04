@@ -1,4 +1,4 @@
-RecordCount: 8101
+RecordCount: 8550
 
 console load StrawberryJam2021/4-Expert/itsabrody
    1
@@ -31,17 +31,19 @@ console load StrawberryJam2021/4-Expert/itsabrody
    3,L,K
   13,L,D
    8,D
+   5,R,D
+   4,R
+   1,J
+  11,R,J
+  18,R
    6,R,D
-   3,R
-  18,R,J
-  15,R
-   3,D
-   1
    5,R,X
    6,R,J,G
    5,R
-   7,R,J
-   9,R
+   1,R,K
+   1,R
+   6,R,K
+   8,R
    5,R,Z
    1,R,J
    6,R
@@ -349,36 +351,45 @@ console load StrawberryJam2021/4-Expert/itsabrody
   15,R,U,Z
    1,R
   12,J
-   5,R,K,G
-   7,R
-   7,R,Z
-   1,R,J
-   7,R
-   1,R,J
-   6,R,D,X
+   1,R,K,G
+   1,L,K
+   2,K
+   1,R,K
+   3,R
+   1
+   3,R
+   9,R,Z
+   5,R,J
+   5,R
   40
 
 #lvl_6
-   8,R,D,X
-   2,R,J
    1,R
-   3,R,J
-  17,R,D
+   1,R,K
+   6,R
+   1,R,N
+   1,R,J
+   2
+  10,L,D,X
+  10,R,J
+   1,R
+   1,R,K
+   3,R
+   1,R,K
+  10,R
+   4,R,D
+   1,R
   15,R,U,Z
-   4,R
-   1
-   7,R
-  12
-   1,R
-   7,R,D
-   5,D
-   1,R,D
-   1,D
-   1
+  20,R
+   5
+   3,D
+   6,R,D
+   4
+   2,R,D
   15,R,X
   15,R,Z
-   8
-   8,R
+  10
+   6,R
    1,G
    2,R,J,G
   15,R,D,X
@@ -388,72 +399,73 @@ console load StrawberryJam2021/4-Expert/itsabrody
   17,R,D
    1,R
    1,R,J
-   6,R,K,G
-  14,R,U,X
-   3,R,J,G
-   3
-   5,R
-  43
-
-#lvl_7
-   1
-   3,R
-   4,R,J
-   5,R
-   1,R,J
-   2,R
-   1,R,J
-  10,R
-  27,R,Z
-  15,U,X
-   6,R
-  15,R,X
+   5,R,K,G
    1,R
-  14,R,D
-   1,D
-  13,R,D
-   8,R
-   1
-   6,L,J
-  11,L
-   1,G
-Repeat,3
-   1
-   1,G
-EndRepeat
-   1,G
-   5,J,G
-   6,L,J
-  14,L,X
+  14,R,U,X
    1,R,J,G
-   3,L
-   6
-   3,J
-   5
    1,L
    3
-  15,U,X
-  15,U,C
-   4,R
-   2
-  23,L,U,X
-  20,R,C
-   6,L,K,G
-  15,R,Z
-  10,L
-   4
-  10,D
-   1,R,D
-   8,D
    2,R
+   1
+   9,L,Z
+   1,R,J
+   1
+   5,R
+   2,R,J
+   6,R,D,X
+  43,J
+
+#lvl_7
+   4,D,J
+   1,R
+   8,R,K
+   5,R
+   3,K
+  12
   15,R,U,X
-  17,R
+  15,L,U,C
+   4,L
+   2
+   2,L
+   1
+   2,L
+   1
   15,R,Z
-  18,R,D
-  15,R,U,Z
-  12,R
-  13,R,J
-   8,R,Z
+   5,R
+   4,J
+   1
+   1,R
+  15,R,Z
+   1,R
+  15,D,X
+   5,R,D
+   2,D
+   5,R,D
+   1,D
+  14,R
+  15,U,X
+  10,R
+  15,R,Z
+  19,R
+   1,R,D
+   1,R
+   6,R,D
+   1,R
+   1,J
+   1,R,J
+   1,J
+   2,R,J
+   2,J
+   1,R,J
+   1,J
+   1,R,J
+  18,R,U,X
+   8,R
+   1,J
+   1,K
+  11,R,K
+   3,R
+   7,R,Z
   12,R,J,G
   15,R,D,X
    3,R
@@ -602,4 +614,4 @@ EndRepeat
   55,R,D
   80,J
 
-ChapterTime: 1:08.969(4057)
+ChapterTime: 1:07.184(3952)
