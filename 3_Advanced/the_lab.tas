@@ -1,4 +1,4 @@
-RecordCount: 8778
+RecordCount: 9527
 
 console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1
@@ -40,10 +40,10 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
 
 #lvl_start-02-Radley (0)
   90,D
-  40
+  43
 
 #lvl_start-03-Radley/Worldwaker2
-  57,D
+  54,D
   13,R,D
   14,R,D,X
    1,R,J
@@ -166,10 +166,11 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
   15,L,D,X
    7,L,J
    5,L
-  11,J
-  15,D,X
+   8,J
 
 #lvl_evade-01-Quantum
+   3,J
+  15,D,X
   14,R,D
    3,R
    8,L
@@ -189,50 +190,80 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    2,L,J
    2,R,J
   14,U,X
-  18,R,J
-   2,K,G
+  11,R,J
    1,J
-  10,K,G
+   1,R,J
+   2,J
+   3
+   1,J
+   4,K,G
+   4,L,K
+   3,L,J,G
+   1,K
   40
 
 #lvl_evade-02-TiltTheStars
    1,L
-  10,L,J,G
+   2,L,J,G
+   1,J
+   6,L,J
   15,L,D,X
    7,R,D
    5,R
   15,R,U,X
    4,R
    1,R,J,G
-  12,R
-   1
-   5,R
-   1,R,D
-   1,R
-   4
+   9,R
+   2
+   6,R
+   7
    9,R
   15,U,X
-   8,R
-   2
-  28,R,U,G
+   9,R
+   1,R
+   1,G
+   9,J,G
+   1,R
    1
+   1,R
+   1
+   1,R
+   2
+   6,G
+   4,U,G
+   1,J,G
+   1,R,J
+   1,L,J
    1,J
-  14,K
+   4,K
    1,L,K
-   2,R,K
-   1,L,K
+   7,K
+   2,R
+   1,K
    1,L,G
-  15,L,D
-   4,D
-  18,L,D
+   1
+   1,R
+   1,L
+   1,G
+   1,L,J,G
+   2
+   4,L
+   1
+   4,L
+   1
+   2,L
+   1,L,D
+   1,L
+   4,L,D
+   1,D
+  11,L
   15,L,X
-  14,L
-   3,D
+  17,L
    4,Z
    2,L,J
    8,L
    1,L,J
-   8,L,D,X
+   8,L,Z
    1,L,J
    7,L
    1,L,J
@@ -252,24 +283,23 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1,L,J,G
    1,K,G
    4,L
-   3,R
+   6,R
 
 #lvl_hub (1)
-   5,R
+   2,R
    4,R,Z
    1,R,J
   25,R,D
-#key cycle
+#wait for key (key cycle doesn't matter)
   15
   10,L,Z
-   1,J
+   1,L,J
   22,L,D
   14,L,D,X
    1,R,J
    6,R,D,X
    1,R,K,G
-  10,R
-   3
+  13,R
 
 #lvl_move-01-TiltTheStars
    3,R
@@ -387,10 +417,10 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    7,L
    4,X
    5,L,J
-  40
+  43
 
 #lvl_start-04-Radley (1)
-   8,L,J
+   5,L,J
   17,U,Z
    9,L,J,G
    7
@@ -406,7 +436,7 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
   13,R
   15,R,Z
   23,D
-#key cycle
+#waiting
    5
    4,Z
    1,R,J
@@ -415,10 +445,10 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1,R,D
   14,L,D,X
    1,R,J
-  11,R,D,X
+  15,R,D,X
 
 #lvl_cross-01-Worldwaker2
-   6,R,D,X
+   2,R,D,X
    1,R,J
   12,R,D,X
   10,R,U,C
@@ -508,30 +538,38 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    9,R
   15,R,U,Z
    5,L,K,G
-  42,L,G
+   8,L
+   1,G
    1
-   1,K,G
-   1,J,G
+   2,L,D
+   1
+   1,L,D
+  14,G
+   6
+   4,J
+   2,R,J
+   3,J
    1,L,K,G
-   1,K
-   1
-   1,R
-  14,R,U,X
+   1,J,G
+   4,K,G
+  13,R,U,X
    1,R,J,G
-   3,R
+   3
   40
 
 #lvl_cross-03-TiltTheStars
   11,R
    1,R,J
-   8,R
+   6,R
   40
 
 #lvl_start-02-Radley (1)
    5,R
+   4
 
 #lvl_hub (3)
-  13,R,D
+   2,R
+   8,R,D
   15,R,Z
    1
    9,R,J
@@ -549,21 +587,24 @@ Repeat,2
    1,D
    5
 EndRepeat
-  16,D
+  13,D
 #
-  20,J
-  15,U,X
-   1
-   1,R
-   8,L,J
-   5,R,J
+  12,J
+  15,U,Z
+   2,R
+  11,R,J,G
+  10,K,G
+   1,L,K
+   1,L
+   1,J
+  11,R,D,X
+   1,R,J
+   3,R
   14,R,D,X
    1,R,J
   14,R,D,X
    1,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
+  13,R,D,X
    8,R,J
 
 #lvl_escape-01-Worldwaker2
@@ -668,13 +709,20 @@ EndRepeat
   15,U,X
    1,L,J,G
    7,L
-  12,L,G
-  13,U,X
+   1,G
+   6,J,G
    1,R,J
-   1,L,K,G
+   1,L,J
+  12,K
+   3
+   1,J
+   1,K,G
    1,J,G
-   1,L,K,G
-  21,R,K
+   5,R,D,X
+   1,L,J,G
+  11,R,J
+   3,R
+   1
    6,R,X
    1,R,J,G
    8,L
@@ -755,4 +803,4 @@ EndRepeat
    1,R,K,G
   32,R
 
-ChapterTime: 1:27.601(5153)
+ChapterTime: 1:27.465(5145)
