@@ -1,4 +1,4 @@
-RecordCount: 13833
+RecordCount: 14356
 
 console load StrawberryJam2021/4-Expert/DanTKO
    1
@@ -637,33 +637,36 @@ console load StrawberryJam2021/4-Expert/DanTKO
   18,R,U,X
    1,L,J,G
    4,L,K,G
-   9,L,G
-   1,L,D,G
-   1,L,G
-   1,L,D,G
+   1,G
    3
-   2,L
-   6,L,G
+   3,R
    1
+   1,R
+   1,J
+   1,R,J
+   6,J
+   8,L
    1,J
    1,K,G
-   1
-   9,R,X
+   9,R,D,X
    1,J,G
-   8,R
-   1
-  11,R
+   4
+   6,R
+  14,R,K
+   2,R,J
+  14,R,U,Z
+   1,R,J,G
+   2,J
+   2,R,J
+  12,L
+  10,L,D,X
    1,R,J
-  10,R
-  13,R,U,Z
-   6,R,J,G
-  10,L
-  12,L,D,X
-   5,R,J
-  20,R,D,X
+   4,R
+  15,R,D,X
+   4,R,D
    8,R,J
    5,R
-   2,R,J
+   2,R,K
    4,R
   11,L
   11,L,Z
@@ -675,17 +678,15 @@ console load StrawberryJam2021/4-Expert/DanTKO
    8,R
    1
   15,R,D
-   9,R,J,G
-   5,R
-   1,R,J
-  13,R
+   8,R,J,G
+   7,R
+   3,R,K
+  10,R
   15,R,D,X
-  16,R,D
-   1,R,D,J
-   2,J
-   8,R,J
-   1,J
-   8,R,J
+   5,R,D
+   2,D
+   8,R,D
+  20,R,D,J
    1,R,K,G
    1,L,K
    4,R,J,G
@@ -736,4 +737,4 @@ console load StrawberryJam2021/4-Expert/DanTKO
   27,R,U,X
  122
 
-ChapterTime: 1:15.531(4443)
+ChapterTime: 1:15.412(4436)
