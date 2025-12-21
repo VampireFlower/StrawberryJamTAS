@@ -14,7 +14,7 @@ Read,1_Beginner/loopy_lagoon,Start
    1,O
   32
 
-Read,1_Beginner_Lobby/unused/beg_1-2,Start
+Read,1_Beginner_Lobby/beg_1-2,Start
 Read,EnterLevel,Start
 Read,1_Beginner/collapsing_skyline,Start
    1,O
@@ -109,25 +109,25 @@ Read,1_Beginner/midnight_spire,Start
    1,J
   31
 
-Read,1_Beginner_Lobby/unused/beg_0-8,Start
+Read,1_Beginner_Lobby/beg_0-8,Start
 Read,EnterLevel,Start
 Read,1_Beginner/rose_garden,Start
    1,O
   32
 
-Read,1_Beginner_Lobby/unused/beg_8-9,Start
+Read,1_Beginner_Lobby/beg_8-9,Start
 Read,EnterLevel,Start
 Read,1_Beginner/treehive,Start
    1,O
   32
 
-Read,1_Beginner_Lobby/unused/beg_9-10,Start
+Read,1_Beginner_Lobby/beg_9-10,Start
 Read,EnterLevel,Start
 Read,1_Beginner/if_my_driveway,Start
    1,O
   32
 
-Read,1_Beginner_Lobby/unused/beg_10-11,Start
+Read,1_Beginner_Lobby/beg_10-11,Start
 Read,EnterLevel,Start
 Read,1_Beginner/forest_path,Start
    1,O
@@ -139,7 +139,7 @@ Read,1_Beginner/azure_caverns,Start
    1,O
   32
 
-Read,1_Beginner_Lobby/unused/beg_12-22,Start
+Read,1_Beginner_Lobby/beg_12-22,Start
 Read,EnterHeartside,Start
 Read,1_Beginner/beginner_heartside,Start
   61
