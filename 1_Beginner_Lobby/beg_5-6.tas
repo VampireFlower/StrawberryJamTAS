@@ -5,8 +5,10 @@ console load StrawberryJam2021/0-Lobbies/1-Beginner 2816 656
   36
    2,L,J
   10,L,Z
-   6,L,J
-  13,L
+   1,L,J
+   4,L
+  11,L,D,X
+   4,L,J
   15,D,X
   15,D,C
   15,D,X
@@ -22,4 +24,4 @@ console load StrawberryJam2021/0-Lobbies/1-Beginner 2816 656
    4,R,J
   10,R
    1,X
-#0:02.737(161)
+#0:02.703(159)
