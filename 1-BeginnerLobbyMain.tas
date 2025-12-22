@@ -104,12 +104,14 @@ Read,1_Beginner/midnight_spire,Start
    1,O
   32
 
-  36
-   1,Q
-   1,J
-  31
+Read,1_Beginner_Lobby/beg_21-0,Start
+Read,1_Beginner_Lobby/beg_0-11,Start
+Read,EnterLevel,Start
+Read,1_Beginner/forest_path,Start
+   1,O
+  32
 
-Read,1_Beginner_Lobby/beg_0-8,Start
+Read,1_Beginner_Lobby/beg_11-8,Start
 Read,EnterLevel,Start
 Read,1_Beginner/rose_garden,Start
    1,O
@@ -127,13 +129,7 @@ Read,1_Beginner/if_my_driveway,Start
    1,O
   32
 
-Read,1_Beginner_Lobby/beg_10-11,Start
-Read,EnterLevel,Start
-Read,1_Beginner/forest_path,Start
-   1,O
-  32
-
-Read,1_Beginner_Lobby/beg_11-12,Start
+Read,1_Beginner_Lobby/beg_10-12,Start
 Read,EnterLevel,Start
 Read,1_Beginner/azure_caverns,Start
    1,O
@@ -144,4 +140,5 @@ Read,EnterHeartside,Start
 Read,1_Beginner/beginner_heartside,Start
   61
    1,O
-FileTime: 27:26.943(96879)
+
+FileTime: 27:26.654(96862)
