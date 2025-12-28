@@ -4,10 +4,11 @@ console load StrawberryJam2021/4-Expert/powerav
    1
 
 #Start
-#lvl_a-1
 #spinner cycle
    0
 #
+
+#lvl_a-1
    4,R,X
    6,R,J
    7,R
