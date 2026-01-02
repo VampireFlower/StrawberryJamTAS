@@ -13,15 +13,12 @@ console load StrawberryJam2021/0-Lobbies/5-Grandmaster 3024 1256
    5,L
    1,L,J
   15,L,D,X
-   2,L,J
-   2,K
-  15,U,X
-   4,L,J
+   1,L,J
    1,R,J
-   9,J
-   1,K,G
+  14,U,X
+  15,J
    1
-   1,J,G
+   3,K,G
    3
    4,L
   14,U,X
@@ -32,4 +29,4 @@ console load StrawberryJam2021/0-Lobbies/5-Grandmaster 3024 1256
    1,R,J
    5,R
    1,X
-#0:01.802(106)
+#0:01.785(105)
