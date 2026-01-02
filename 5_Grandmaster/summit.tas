@@ -1,4 +1,4 @@
-RecordCount: 11252
+RecordCount: 11254
 
 console load StrawberryJam2021/5-Grandmaster/math
    1
@@ -765,10 +765,11 @@ console load StrawberryJam2021/5-Grandmaster/math
    1,L,J
   18,U,Z
   15,U,X
- 300
+ 299
+   7
 
 #lvl_3000M-00
-  65
+  59
    4,L,Z
    3,L,J
    3,L
