@@ -1,4 +1,4 @@
-RecordCount: 11823
+RecordCount: 11850
 
 console load StrawberryJam2021/3-Advanced/galaksyz
    1
@@ -6,7 +6,7 @@ console load StrawberryJam2021/3-Advanced/galaksyz
 #Start
  190
 
-# Spinner cycle [a_01-Gala]
+#Spinner cycle [a_01-Gala]
    1
 
 #lvl_a_00-Worldwaker2
@@ -196,29 +196,20 @@ console load StrawberryJam2021/3-Advanced/galaksyz
    7,R,J
    8,R
    6,R,K
-   5,R
-   1
+   4,R
+   2
   15,R,Z
   12,R
    1,R,J,G
   14,R
    1,J
-   6,R,J
-   1,J
-   3,R,J
-   6,R
-   6,R,K
-   6,R
-   1
-   1,R
-   1
-   1,R
-   2
+   8,R,J
+  18,R
   15,R,X
-   4,R
+   9,R
    1,R,J,G
    1,R,K,G
-  13,R
+  15,R
   11,R,X
    1,R,J,G
    1
@@ -529,8 +520,8 @@ console load StrawberryJam2021/3-Advanced/galaksyz
   15,U,X
   15,R,J
    3,R
-# Spinner cycle [a_08-TiltTheStars]
-   2
+#Spinner cycle [a_08-TiltTheStars]
+   0
 #
   15,U,X
   15,R,J
@@ -602,4 +593,4 @@ console load StrawberryJam2021/3-Advanced/galaksyz
   24
  111,D
 
-ChapterTime: 1:13.661(4333)
+ChapterTime: 1:13.610(4330)
