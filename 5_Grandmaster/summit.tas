@@ -1,4 +1,4 @@
-RecordCount: 11254
+RecordCount: 11371
 
 console load StrawberryJam2021/5-Grandmaster/math
    1
@@ -100,8 +100,7 @@ console load StrawberryJam2021/5-Grandmaster/math
    1,S,N
    1,D,O
   34
- 107
-   4
+ 111
 
 #lvl_0500M
   11,R
@@ -189,8 +188,7 @@ console load StrawberryJam2021/5-Grandmaster/math
    1
    1,R
   16,L
- 349
-   7
+ 356
 
 #lvl_1000M
   11
@@ -268,8 +266,7 @@ console load StrawberryJam2021/5-Grandmaster/math
    5,J
   14,L,J
   14,L,K,G
- 303
-   4
+ 307
 
 #lvl_1500M
 #entire room is cycle locked probably
@@ -439,9 +436,8 @@ console load StrawberryJam2021/5-Grandmaster/math
    2,L,J
   15,J
   15,U,X
-   1
- 301
-   4
+   1,L
+ 305
 
 #lvl_2000M
   11,R
@@ -536,8 +532,7 @@ console load StrawberryJam2021/5-Grandmaster/math
    8
 #being .025 lower would save a frame
    1,R
- 317
-   4
+ 321
 
 #lvl_2500M
   11,R
@@ -614,9 +609,8 @@ console load StrawberryJam2021/5-Grandmaster/math
   15,D,X
   22,J
   15,U,X
-   2
- 297
-   7
+   2,L
+ 304
 
 #lvl_2501M
 #BIS messes up wind OoO
@@ -765,8 +759,7 @@ console load StrawberryJam2021/5-Grandmaster/math
    1,L,J
   18,U,Z
   15,U,X
- 299
-   7
+ 306
 
 #lvl_3000M-00
   59
@@ -979,34 +972,38 @@ AnalogMode,Ignore
    2
    1,L
    3
+   2,R
+   9,R,J
    1,R
-   6,R,J
-   9,R
-  14,R,Z
-   3,L,J
-  35,R,U,X
-   1,J,G
-   1,L,J
-   2,R,K,G
-   1,K
-  20,D
-  11,R,D
-   1,D
-   1,R,D
+   1
    1,R
-   1,G
-  14,R,J
-   8,U,C
-  52,R,J
-  15,L,D
+   1
+  15,R,Z
+  15,D,X
+   1,L,D,J
+  11,R,J
+   5,R
+  10,R,K
+  13,R
+  10,J,G
+  12,K,G
+  15,R,Z
+   3,R
+  15,R,X
+   6,R
+   8
+  10,L,D
+   1
+   1,L
    4
   10,L,X
   11,R,J
   32,R,D
   15,R,Z
    2,R
-  21,D,X
-   8,R,D
+  15,D,X
+   6,L,D
+   8,D
   16,R,U,Z
    3
   12,J
@@ -1276,4 +1273,4 @@ AnalogMode,Ignore
   15,R,U,X
  135,R,D
 
-ChapterTime: 3:12.389(11317)
+ChapterTime: 3:11.862(11286)
