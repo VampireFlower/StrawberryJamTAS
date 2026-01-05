@@ -8,91 +8,7 @@ EnforceMaingame
    1
 
 #Start
-Read,3_Advanced_Lobby/adv_0-14,Start
-Read,EnterLevel,Start
-Read,3_Advanced/lost_woods,Start
-   1,O
-  32
-
-Read,3_Advanced_Lobby/adv_14-13,Start
-Read,EnterLevel,Start
-Read,3_Advanced/bee_berserk,Start
-   1,O
-  32
-
-Read,3_Advanced_Lobby/adv_13-11,Start
-Read,EnterLevel,Start
-Read,3_Advanced/belated_valentines_day,Start
-   1,O
-  32
-
-Read,3_Advanced_Lobby/adv_11-10,Start
-Read,EnterLevel,Start
-Read,3_Advanced/superstructure,Start
-   1,O
-  32
-
-Read,3_Advanced_Lobby/adv_10-9,Start
-Read,EnterLevel,Start
-Read,3_Advanced/toggle_theory,Start
-   1,O
-  32
-
-Read,3_Advanced_Lobby/adv_9-8,Start
-Read,EnterLevel,Start
-Read,3_Advanced/forest_rush,Start
-   1,O
-  32
-
-Read,3_Advanced_Lobby/adv_8-6,Start
-Read,EnterLevel,Start
-Read,3_Advanced/attack_of_the_clone,Start
-   1,O
-  32
-
-Read,3_Advanced_Lobby/adv_6-5,Start
-Read,EnterLevel,Start
-Read,3_Advanced/the_tower_xvi,Start
-   1,O
-  32
-
-Read,3_Advanced_Lobby/adv_5-3,Start
-Read,EnterLevel,Start
-Read,3_Advanced/starlight_station,Start
-   1,O
-  32
-
-Read,3_Advanced_Lobby/adv_3-2,Start
-Read,EnterLevel,Start
-Read,3_Advanced/call_of_the_void,Start
-   1,O
-  32
-
-Read,3_Advanced_Lobby/adv_2-1,Start
-Read,EnterLevel,Start
-Read,3_Advanced/raindrops_on_roses,Start
-   1,O
-  32
-
-Read,3_Advanced_Lobby/adv_1-4,Start
-Read,EnterLevel,Start
-Read,3_Advanced/starry_ruins,Start
-   1,O
-  32
-
-Read,3_Advanced_Lobby/adv_4-7,Start
-Read,EnterLevel,Start
-Read,3_Advanced/synapse,Start
-   1,O
-  32
-
-Read,3_Advanced_Lobby/adv_7-12,Start
-Read,EnterLevel,Start
-Read,3_Advanced/golden_dawn,Start
-   1,O
-  32
-
-Read,3_Advanced_Lobby/adv_12-15,Start
+Read,3_Advanced_Lobby/adv_0-15,Start
 Read,EnterLevel,Start
 Read,3_Advanced/sands_of_time,Start
    1,O
@@ -157,10 +73,93 @@ Read,3_Advanced/dusk_city,Start
    1,O
   32
 
-Read,3_Advanced_Lobby/adv_25-26,Start
+Read,3_Advanced_Lobby/adv_25-7,Start
+Read,EnterLevel,Start
+Read,3_Advanced/synapse,Start
+   1,O
+  32
+
+Read,3_Advanced_Lobby/adv_7-12,Start
+Read,EnterLevel,Start
+Read,3_Advanced/golden_dawn,Start
+   1,O
+  32
+
+Read,3_Advanced_Lobby/adv_12-14,Start
+Read,EnterLevel,Start
+Read,3_Advanced/lost_woods,Start
+   1,O
+  32
+
+Read,3_Advanced_Lobby/adv_14-13,Start
+Read,EnterLevel,Start
+Read,3_Advanced/bee_berserk,Start
+   1,O
+  32
+
+Read,3_Advanced_Lobby/adv_13-11,Start
+Read,EnterLevel,Start
+Read,3_Advanced/belated_valentines_day,Start
+   1,O
+  32
+
+Read,3_Advanced_Lobby/adv_11-10,Start
+Read,EnterLevel,Start
+Read,3_Advanced/superstructure,Start
+   1,O
+  32
+
+Read,3_Advanced_Lobby/adv_10-9,Start
+Read,EnterLevel,Start
+Read,3_Advanced/toggle_theory,Start
+   1,O
+  32
+
+Read,3_Advanced_Lobby/adv_9-8,Start
+Read,EnterLevel,Start
+Read,3_Advanced/forest_rush,Start
+   1,O
+  32
+
+Read,3_Advanced_Lobby/adv_8-6,Start
+Read,EnterLevel,Start
+Read,3_Advanced/attack_of_the_clone,Start
+   1,O
+  32
+
+Read,3_Advanced_Lobby/adv_6-4,Start
+Read,EnterLevel,Start
+Read,3_Advanced/starry_ruins,Start
+   1,O
+  32
+
+Read,3_Advanced_Lobby/adv_4-1,Start
+Read,EnterLevel,Start
+Read,3_Advanced/raindrops_on_roses,Start
+   1,O
+  32
+
+Read,3_Advanced_Lobby/adv_1-2,Start
+Read,EnterLevel,Start
+Read,3_Advanced/call_of_the_void,Start
+   1,O
+  32
+
+Read,3_Advanced_Lobby/adv_2-3,Start
+Read,EnterLevel,Start
+Read,3_Advanced/starlight_station,Start
+   1,O
+  32
+
+Read,3_Advanced_Lobby/adv_3-5warpTo26,Start
+Read,3_Advanced/the_tower_xvi,Start
+   1,O
+  32
+
+Read,3_Advanced_Lobby/adv_5-26fromwarp,Start
 Read,EnterHeartside,Start
 Read,3_Advanced/advanced_heartside,Start
   61
    1,O
 
-FileTime: 34:27.013(121589)
+FileTime: 34:19.227(121131)
