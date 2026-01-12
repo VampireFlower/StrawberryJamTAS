@@ -1,5 +1,4 @@
-RecordCount: 5634
-#draft had 0
+RecordCount: 9013
 
 console load StrawberryJam2021/2-Intermediate/Emik
    1
@@ -8,8 +7,8 @@ console load StrawberryJam2021/2-Intermediate/Emik
  190
 
 #Spinner cycle
-   2
-##
+   1
+
 #lvl_a_01
    4,L,Z
    7,L,J
@@ -60,17 +59,27 @@ console load StrawberryJam2021/2-Intermediate/Emik
    8,L
   15,L,U,X
    4,R,J
+   2
    1,R,K
-   1,L
-   2,R
-  21,R,G
-   1,R
-  16,L
-  34,L,X
-  13,G
-   1,J,G
+   1
+  21,G
+   1
+  12,L
+   3,L,D
+  15,L,X
+  21,L
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   4,G
   11,R,D,X
-  17,L,J
+  12,L,J
+   1,L
+   2,L,K
+   2,L
   15,L,U,Z
    4,L,J
    3,L,K
@@ -85,16 +94,25 @@ console load StrawberryJam2021/2-Intermediate/Emik
    4,L,J
    1,L,K
   20,L,X
-   4,L,J
-   1,L,K
-  24,U,X
-  22,L,J
-  18,L
-   5,L,D
-   9,L,K
-   5,L
+   4,J
+  20,U,X
+   4,R
+   1,J
+   2,K,G
+  10,L,K
+   6,L
    5,L,K
-  21,L,Z
+  10,L
+  10,L,D
+   1,R,D
+   1,J
+   2,K,G
+   7,L,K
+   5,L
+   2,L,K
+   2,L
+  15,L,Z
+   6,L
   11,L,K
    7,L
    8,L,Z
@@ -104,52 +122,118 @@ console load StrawberryJam2021/2-Intermediate/Emik
 
 #lvl_a_04
    5,L
-   7,L,J
-  13,L,D
-   2,D
-   1,L,D
-  17,R,D
-   4,R,U,G
-   1,R
-  13,G
-  15,R,U,G
+   6,L,J
+  13,L
+   1
+   1,L
+   1
+   1,L
    2
-   1,J,G
-   2,K,G
+   9,D
+   1,L,D
+   2,D
+## -4f + spinner cycle wait
+#Invoke,Player.MoveH,-0.038
+#    2
+#    1,R,G
+#    2,J,G
+#    2
+#    1,R
+#    1
+#    4,R
+#    2,L
+#    1
+#    1,D
+#    3
+#    1,R,G
+#    1,J
+#    1,K,G
+#    1
+#    1,K
+#    1,L,K
+#    1,K
+#    4,L,K
+#    2,K
+#    2
+#    1,R,G
+#    1,R,J,G
+#    1,K,G
+#    1,J,G
+#   12,L,U,X
+#   14,L,J,G
+#StunPause
+#    7,L,J,G
+#    1,R
+#EndStunPause
+#    1,L
+#    8
+#    1,J,G
+#    4
+#    1,R
+#   13
+#   20,D
+##
+   1
+   1,D
+   1,R,G
+   2,J,G
+   2
+   4,R
+   1
+   1,R
+   1,L,K
+   2,L
+   1
+   2,L
+   1,R,G
+   1,J
+   3,K,G
+   1
+   1,L
+   9
+   1,R,G
+   1,R,J,G
+   1,K,G
+   2,J,G
   12,L,U,X
   14,L,G
 StunPause
    8,L,G
 EndStunPause
-   9,L,G
-   1,R,J
-   1,L,K,G
-   2,R,K
-   1,L,K
-   1,L,J,G
-  18,L
-  20,D
-  15,L,Z
-   6,L,J
-  15,L,Z
+   9,G
+   1,D
+   3,J,G
    2
+   1,L
+   1,R
+   2
+   1,R
+   9
+   2,L
+  13,D
+   4,L,D
+   2,D
+   1,L,D
+  15,L,Z
+   5,L,J
+  15,L,Z
+   2,L
    3,R,J
    9,R
   23,G
-   6,D,G
-   3,G
-   1,D,G
-   1,J,G
+   5,J,G
+   1
+   1,L
+   1,R
    1,K,G
-   1,R,J,G
-   2,L,J
-   1,L,K,G
-  23,L,D
+   1,J,G
+   1,R,K,G
+  18,L
+  12,L,D
   40
 
 #lvl_a_05
-  10,L,D
-   4
+   9,L,D
   52,L,X
    4,R,G
   18,R,U,Z
@@ -172,34 +256,43 @@ EndStunPause
    1,R,J,G
    2,L,J
    2,R,J
+   4
+   3,R
+   2,R,D,J
+   1
+   6,L,U,X
+   1,L,J,G
+   2
+   1,L
    6
-   1,R
-   5,L,J
-   2,L,J,G
-  15,L,Z
-   1,R
-   3,L
-  10,L,J
+   1,K
+   1
+  12,R,J
    7
   15,D,X
-   7,L
+   6,L
    4,Z
    1,L,J
-  22,L,D
-  12,D
-   4
+  15,L
+   7,L,D
+   8,D
+   1
+   1,D
+   6
    1,L
-   7,L,J
-   3,J
-  22,L,U,X
+   1,L,J
    4,J
+  25,L,U,X
+   4,R,J
    7,L,Z
-  10,L,J
-  16,L
-  17,L,K,G
-  48,L,D
-   1,L,D
-   4,L
+   5,L,J
+  15,L
+   2,D
+   4,L,J,G
+   1,L
+  10,L,K,G
+  41,L
+  16,L,D
   14,L,Z
    3,L,J,G
    1,L
@@ -218,52 +311,123 @@ EndStunPause
 #lvl_a_06
   18,L,D,X
    4,L,J
-  10,L,K
+   9,L,K
   18,L
-  10,L,D
-  25,L
+  33,L,D
   25,L,U,X
    4,L,J
-   9,L,K
-  20,L,D
-  10,L
-  14,L,X
-   6,L,J,G
-  27,L,D
-  15,D,X
-   9
-  10,L,Z
-   1,L,J
-   1,R,K,G
+   1,L,K
+   2,K
+   3,L,J,G
+   1,L,K,G
    2,L,K
-   3,J,G
-   1,R,K,G
-   7,L,K
-   3,L
-  14,L,U,Z
-  84,L,D,G
+   7,L
+   1,L,K
+  12,L
+   1,L,D
+  14,L,X
+   3,L,J,G
+   9,L
+   1,L,K
+   9,L
+   1,D
+   1,L,D
+   6,D
+  15,D,X
+   5,R,D,C
+   1,L,J
+   2
    1,L
-   8,D
-  16,L,D
+   4
+   1,K
+   1,J
+   2,L,J
+   4,L,K,G
+   3,L,J,G
+  11,L
+  14,L,U,Z
+  30,G
+   4,R,D,G
+  39,L,D,G
+   1,L
+   7
+   1,D
+  15,L,D
    3,L
+   1,L,D
    1,L,J,G
   25,L,K,G
    1,L,J,G
    2,L
-   9,L,J,G
-   8
-  16,L,Z
-   2,L,J
-   1,R,K,G
+   8,J,G
+   3
+   1,R
+   3
+   5,L,Z
+   1,L,J,G
+## -8f
+#    1,L
+#    1,L,D,J
+#    1,R,D,K
+#    1,R,D,J
+#    2,D
+#    2,L
+#    4,D
+#    3,L,D
+#Set,Player.Position,-6135.0167,98.7501
+#    4,R,D,J
+#    1,R,K,G
+#    1,L,K
+#    1,K
+#    1,L,K
+#    1,K
+#    1,L,K
+#    1,K
+#    1,L,K
+#    1,K
+#    1,L,K
+#    1,K
+#    1,L,K
+#    1
+#    3,L
+#    1,R
+#    2,J,G
+#    1,L,J
+#    9,R,K,G
+#    1,L,K
+#    2,R,K
+#    5,R
+#    1,K
+#    4,J,G
+#    3,L,J
+#   18,L,U,X
+#   24,L
+#    6,L,Z
+#   12,L,J,G
+#    8,L
+#    2,L,K
+#    9,L
+#   31,L,D
+##
+   1,L
+   1,L,D,J
+   1,L,D,K
+   4,D
+   1,L,D,J
+   2,J
+   1,K
    3,R,J,G
-   3,R
+   1,L,J
+   1,J
   15,U,X
    6,R
    2
    5,J,G
-  12,R,J
-  16,R,U,C
-   5,R,U,X
+  10,R,J
+   2,R
+  15,R,U,X
+   1,R
+   5,R,U,C
   39,L,D
    4
    6,L,Z
@@ -284,100 +448,114 @@ EndStunPause
    4,L,J
    2,L,K
   34,L,D,G
-   1,L
-  11,L,D
+   8,L
+   3,L,D
   10,L,U,Z
-   4,L,J
-   3,L,K
+   5,L,J
+   9,L,K
+   4,L
+  11,J,G
+   4,K,G
+   1,R,K
+   2,K
+   7
+   6,G
+   1,D,G
+   1,G
+   1,D,G
+   5,G
+   1
+   1,R,J,G
+   8,L,Z
+  10,J,G
+   1,R,J
+   1
+   4,K,G
+   4
+   2,R
+   1,L
+  11,L,D,J
    5,L
-  14,L,U,X
-   1,J,G
-   7,L
-#3f faster door grab
-#cant resync
-#   6,R,J
-#   1,R
-#   6
-#   1,U,G
-#  13,R,G
-#   1,R
-#   1,K
-#   1,J,G
-#   2,J
-#   3
-#   1,L
-#   6,R,U,G
-   6,R,J
-   1,R
-   6
-  15,R,G
-  29,U,G
-  32,L,J
-  38,L,X
+   6,L,K
+  10,L
+  30,L,X
    4,L,J
-   4,L,K
-  17,L,D
-  19,R,D,X
-  15,G
-   4,D,G
+   1,L,K
+  19,L
+  15,R,D,X
+   3,R,D
+   1,G
+   3
+   1,R,D
+   1
+   1,R,D
+   4,G
+   1
+   1,K
    1,J,G
+   1
+   6,L
+   1
+   1,R,J,G
    1,K,G
    1,R,J,G
-  10,L,D,J
-  32,L,D
-   9,R,D
-  15,R,D,X
-   9,L,D
+   3,L,J
+   2,L
+   3
+   1,L
+  12
+  21,D
+  18,R,D,X
+   7,R,D
   26,L,Z
    5,L,J
   22,L,K
   38,U,X
-#faster than gultra chain but probably still slow
-  10,L,D,C
-   3,L,J
-   3,L,K,G
-   9,L,D,X
-   1,L,J
-   7,L
-   1,L,J
-   8,L,D,X
+   7,L,D,C
+   2,L,J
+   2,L
+   1,L,K
    1,L,J,G
-   1,L
-   5,L,K,G
+  10,L
+   3,L,J
+  11,L,D,X
+   4,L,J,G
+   4,L,K,G
   15,L
-  10,L,J
-   1,L,D
+   9,L,J
+   2,L
   40
 
 #lvl_a_08
-  22,L,D
-   3
+  16,L
+   4
+   4,D
    1,R,G
-   8
-   1,R
-   1
-   7,G
-   1
+   7
+   4,L
+   2
+   1,R,G
    1,J
-   1,R,K,G
-  30,L,G
-  10,L,D,G
-   1,L
-  15,L,Z
-  23
-   2,R,D
-   1,R,G
-   1,R,J,G
-   5,R
-   8,D
-  15,L,D,X
-  13,L,D
-   3,L,G
-   1
-   6,G
-   1,U,G
+   1,K,G
+   7
+  29,L,G
+  10,D,G
+   4,L,J,G
+  15,D,X
+   1,R,D
    1,G
+   1
+   1,R,D
+   7,R
+   3,R,D
+  15,L,D,X
+  12,L,D
+   1,G
+   1
+   2,L,D
+   7,G
   12,D,G
+   1,G
    1
    1,J
    2
@@ -409,7 +587,8 @@ EndStunPause
    1,L
    6
    3,L,J,G
-  19,J,G
+   1,J
+  18,J,G
   24,D,G
    1,R
    5
@@ -434,4 +613,4 @@ EndStunPause
   45,L,J
   90,G
 
-ChapterTime: 0:59.602(3506)
+ChapterTime: 0:58.055(3415)
