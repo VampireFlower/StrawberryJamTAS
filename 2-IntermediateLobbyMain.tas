@@ -20,7 +20,19 @@ Read,2_Intermediate/low-g_botany,Start
    1,O
   32
 
-Read,2_Intermediate_Lobby/int_2-3,Start
+Read,2_Intermediate_Lobby/int_2-9,Start
+Read,EnterLevel,Start
+Read,2_Intermediate/fifth_dimension,Start
+   1,O
+  32
+
+Read,2_Intermediate_Lobby/int_9-7,Start
+Read,EnterLevel,Start
+Read,2_Intermediate/sleeping_under_stars,Start
+   1,O
+  32
+
+Read,2_Intermediate_Lobby/int_7-3,Start
 Read,EnterPostcard,Start
 Read,2_Intermediate/pointless_machines,Start
    1,O
@@ -44,25 +56,30 @@ Read,2_Intermediate/pufferfish_transportation,Start
    1,O
   32
 
-Read,2_Intermediate_Lobby/int_6-8warpTo9,Start
+Read,2_Intermediate_Lobby/int_6-8warpTo10,Start
 Read,2_Intermediate/supernautica,Start
    1,O
   32
 
-Read,2_Intermediate_Lobby/int_8-9fromwarp,Start
+Read,2_Intermediate_Lobby/int_8-10fromwarp,Start
 Read,EnterLevel,Start
-Read,2_Intermediate/fifth_dimension,Start
+Read,2_Intermediate/honeyzip_inc,Start
    1,O
   32
 
-Read,2_Intermediate_Lobby/int_9-7,Start
+Read,2_Intermediate_Lobby/int_10-11,Start
 Read,EnterLevel,Start
-Read,2_Intermediate/sleeping_under_stars,Start
+Read,2_Intermediate/vertigo,Start
    1,O
   32
 
-Read,2_Intermediate_Lobby/int_7-0,Start
-Read,2_Intermediate_Lobby/int_0-12,Start
+Read,2_Intermediate_Lobby/int_11-14,Start
+Read,EnterLevel,Start
+Read,2_Intermediate/the_tower,Start
+   1,O
+  32
+
+Read,2_Intermediate_Lobby/int_14-12,Start
 Read,EnterLevel,Start
 Read,2_Intermediate/sea_of_soup,Start
    1,O
@@ -74,31 +91,7 @@ Read,2_Intermediate/in_filtration,Start
    1,O
   32
 
-Read,2_Intermediate_Lobby/int_13-14,Start
-Read,EnterLevel,Start
-Read,2_Intermediate/the_tower,Start
-   1,O
-  32
-
-Read,2_Intermediate_Lobby/int_14-11,Start
-Read,EnterLevel,Start
-Read,2_Intermediate/vertigo,Start
-   1,O
-  32
-
-Read,2_Intermediate_Lobby/int_11-10,Start
-Read,EnterLevel,Start
-Read,2_Intermediate/honeyzip_inc,Start
-   1,O
-  32
-
-Read,2_Intermediate_Lobby/int_10-17,Start
-Read,EnterLevel,Start
-Read,2_Intermediate/temple_of_a_thousand_skies,Start
-   1,O
-  32
-
-Read,2_Intermediate_Lobby/int_17-16,Start
+Read,2_Intermediate_Lobby/int_13-16,Start
 Read,EnterLevel,Start
 Read,2_Intermediate/construction_conundrum,Start
    1,O
@@ -116,10 +109,16 @@ Read,2_Intermediate/square_the_circle,Start
    1,O
   32
 
-Read,2_Intermediate_Lobby/int_18-19,Start
+Read,2_Intermediate_Lobby/int_18-17,Start
+Read,EnterLevel,Start
+Read,2_Intermediate/temple_of_a_thousand_skies,Start
+   1,O
+  32
+
+Read,2_Intermediate_Lobby/int_17-19,Start
 Read,EnterHeartside,Start
 Read,2_Intermediate/intermediate_heartside,Start
   61
    1,O
 
-FileTime: 28:48.696(101688)
+FileTime: 28:47.217(101601)
