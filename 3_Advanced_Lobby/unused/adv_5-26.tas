@@ -63,13 +63,13 @@ console hearts 25
    2,R,J,G
    1,R,K,G
    9,R,J,G
-   7,R
-   5,R
-   4
-   7,L
-  15,U,Z
+  12,R
+   8
+   3,R
+  15,U,X
    3,L,J,G
-   7,L
+   5
+   2,L
    1,D,J
    6,L,J
    1,L,K,G
@@ -77,37 +77,35 @@ console hearts 25
    1,L,K,G
    1
   15,L,U,X
-   9
-   9,R
-  10
-   1,R,J
-   2,J
-   6,R,J
+  18
+   1,R,D,J
+   5,R
+   2,K
+   2
+   9,R,J
   12,L,K
    5,K
   14,U,X
-   2,R,J
-  11,J
+   3,R,J
+  10,J
    1,L,K,G
-   7,L
-   1,G
-  10,L,K,G
-   4,L
-  18
-   5,R
-   4,R,J
-   1,L,J
-   1,J
-   2
-   3,L,K
-   2,L
-  14,U,X
-   6,J
-  10,R
-   1
-   3,R
+   5,L
    1
    1,R
+   2,L,J,G
+   2,R,J
+   1,L,K,G
+   3,R
+   2,L
+   3,R
+   4,L
+   7,G
+   2,U,G
+   4,J
+   7,U,X
+  12,J
+  11,R
+  14
    5,R,Z
    1,R,J
    4,R
@@ -123,20 +121,18 @@ console hearts 25
    2,L,J
   15,U,X
    1,K,G
-   1,J
-  13,L,K,G
-   4
+   1,R,K
+   1,R
+  11,L,J,G
+   5
   14,U,X
    1
    6,L,U,X
   10
-  17,L,U,X
-   5,L,J,G
-   1
-   4,L,K,G
-   1
-   4,L,K,G
-   1,J,G
+  15,L,U,X
+   1,L
+  12,L,J,G
+   4,K,G
    1
    3,L
    1
@@ -185,4 +181,4 @@ console hearts 25
    1,L,J
    7,L
    1,X
-#0:17.765(1045)
+#0:17.527(1031)
