@@ -1,4 +1,4 @@
-RecordCount: 8642
+RecordCount: 8736
 
 console load StrawberryJam2021/4-Expert/QuantumSpaceman
    1
@@ -337,21 +337,28 @@ EndStunPause
    0
 #
    1,R,J
-  27,R,D
+  15,R
+   3
    7,D
-  20,R,G
+   9,R,D
+  18,R,D,G
+   1,D,G
+   2,R,D,G
+   8,R
+  14,R,X
+  32,R,K,G
+  21,R,G
+  13,R,U,G
    1,G
+   6,R,G
+   1,R,U,G
+   7,R,G
+  74,R,D,G
+   7,D,G
    1,U
-  12,L
-   9,R,X
-  53,R,G
-  15,R,U,G
-  58,R,G
-  51,R,D,G
-   4,D,G
-   1,U
-  25,L
-   5
+  20,L
+   3
+   5,L
   12,R,Z
   16,U,G
   41,R,U,G
@@ -536,4 +543,4 @@ EndStunPause
   15,U,X
  124
 
-ChapterTime: 1:42.544(6032)
+ChapterTime: 1:42.187(6011)
