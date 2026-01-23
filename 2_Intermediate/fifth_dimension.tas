@@ -1,4 +1,4 @@
-RecordCount: 2934
+RecordCount: 3855
 
 console load StrawberryJam2021/2-Intermediate/Liero
    1
@@ -50,21 +50,21 @@ console load StrawberryJam2021/2-Intermediate/Liero
    1,R
    3
    1,R,J
-  17,R
-   8,R,D
+  13,R
+  11,R,D
   15,R,Z
-  21,R,X
-  15,R,D
-   1,R
-   1,R,D
+   1
+  18,R,X
+  14,R
+   6,R,D
   15,R,Z
    8,U,X
-  24,R,J
-   4,R
+  15,R,J
+  12,R
   15,R,X
-  27,R,D
-   8,D
-   2,R,D
+  17,R
+  11,R,D
+   9,D
   15,L,U,X
   15,L,C
   20,L,D
@@ -257,9 +257,9 @@ console load StrawberryJam2021/2-Intermediate/Liero
    2
   10,R,X
   24,R,J
-##Spinner cycle
-   0
-##
+#Spinner cycle
+   1
+#
   12,U,X
   36,R,J
   15,R,X
@@ -271,11 +271,12 @@ console load StrawberryJam2021/2-Intermediate/Liero
    8,R,J
    6,R,D,X
 StunPause
-   9,R
+   9,R,D,X
 SkipInput,3,1
-  15,R,D,X
-SkipInput,3,5
-   8,D
+  15,R,D,C
+   5,D
+SkipInput,3
+   3,D
 SkipInput,3,1
   11,D,X
 EndStunPause
@@ -294,47 +295,36 @@ EndStunPause
   18,L,D
   15,L,X
    7,L,C
-##Spinner drift cycle
-   0
-##
+#Spinner drift cycle
+   3
+#
   15,D,X
    4,D
   40
 
 #lvl_A11
-   1,D
-  21,L,D
-   5,D
-   2
-   7,L
-   4,R,Z
-   2,R,J
-   4,R
+  30,L,D
+  11,R,D,X
    1,R,J
-   1,R,K,G
-   1,R
-   1
-   1,J,G
-   5,R
+   4,R,K,G
+  10,R,D,X
 StunPause
-   3,R,K
-   1,R
+   1,R,D,X
+   3,R,J
 EndStunPause
-   1,R
+   1,R,J
 StunPause
-   7,R
-SkipInput,3,1
-  15,R,X
+   2,R,J
    1,R
+   4,R,K
+  11,R
 SkipInput,3,1
   13,D,X
 EndStunPause
    2,D,X
-   2,R,D
-   2,R,D,J
-   6,R,D
-   1,D
-   1,R,D
+   1,R
+   3,R,D,J
+   8,R,D
    2,R,J
    8,R,D,X
   40
@@ -352,4 +342,4 @@ EndStunPause
    5,U,X
  135
 
-ChapterTime: 0:58.055(3415)
+ChapterTime: 0:57.834(3402)
