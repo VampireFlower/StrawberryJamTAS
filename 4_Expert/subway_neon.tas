@@ -1,11 +1,11 @@
-RecordCount: 4469
+RecordCount: 4609
 
 console load StrawberryJam2021/4-Expert/nyan
    1
 
 #Start
 #Spinner cycle [a-02]
-   0
+   1
 
 #lvl_start
    6,R,Z
@@ -52,10 +52,9 @@ console load StrawberryJam2021/4-Expert/nyan
    1,R,J,G
    1,R,K,G
   12,R,J,G
-   1,K,G
-   7
-   1,G
-   1,R,J,G
+   6
+   1,L
+   2,R,J,G
    2,L,J
    2,R,J
   10,R
@@ -542,32 +541,44 @@ EndStunPause
    4,D
    3
    1,D
-   7,J
-  15,D,X
-  28,D
-   3
-   3,J
-   6,R,J
    1,J
+  18
+  27,D
   18,L,X
-  26,R,D
-   1,D
-   8,R,D
-  12,R,X
-  21,R,J
-  15,R,D,X
-   3,R,D
-  54,R
-  23,R,X
-   4,R,C
-  16,R,J
-   4,R,K,G
+   5
+   1,L
+   8
+  15,R,D
    8,R
-  10,R,D,X
-   1,J
+   3
+   1,R
    1
+   1,D
+   3
+   1,L
+   5,L,Z
+   1,R,J
+   3
+   1,R
+  10,R,J
+  15,R,D,X
    2,R
-   1
+  12,R,J
+   6,R
+   2,R,K
+   1,R
+   1,R,K
+  10,R
+   4,R,D
+  15,R,U,X
+  21,R
+  10,R,X
+  12,R,J
+   5,K,G
+  10,R,Z
+   1,R,J
+   2,R
+   2
    6,R,U,Z
   40
 
@@ -592,4 +603,4 @@ EndStunPause
   10,R
  135,L
 
-ChapterTime: 1:08.646(4038)
+ChapterTime: 1:08.306(4018)
