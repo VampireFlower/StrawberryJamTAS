@@ -1,4 +1,4 @@
-RecordCount: 10846
+RecordCount: 10907
 
 console load StrawberryJam2021/5-Grandmaster/tofu
    1
@@ -351,33 +351,36 @@ EndStunPause
    4,R
   16,L,D
   12,L,X
+#Spinner cycle [Zigzag]
+   0,L,X
+#
    3,R,J
    3,R
   15,R,X
-   1,J,G
-   1,R,J
-   1,K
+   2,J,G
+   1,L,J
   16,D,C
    1,J
    1,K
    1,J
    3,L,J
-   8,L,D
+   8,L
   15,D,X
-   9,D
-#Spinner cycle [Zigzag]
-   0
-#
-  15,L,U,X
-   3,R,J
-  18,R,D,X
-  15,D,C
-   6,R,X
+   5,L
+   8,L,X
    1,J
    1,K
+   3,R,K
+   1,R
+   4,R,K
+   1,R
+   1,R,D
+  13,R
+   8,D
+  10,D,X
    1,J
-   3,L,J
-   8,L
+   1,L,J
+  10,L
   18,D,X
    7,R,Z
    1,L,J
@@ -412,4 +415,4 @@ EndStunPause
   14,R,U,X
  135
 
-ChapterTime: 0:44.829(2637)
+ChapterTime: 0:44.727(2631)
