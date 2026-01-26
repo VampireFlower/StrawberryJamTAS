@@ -1,10 +1,13 @@
-RecordCount: 10175
+RecordCount: 10245
 
 console load StrawberryJam2021/1-Beginner/HankyMueller
    1
 
 #Start
   69
+
+#Spinner cycle [Staircase]
+   0
 
 #lvl_Intro A
    5,L
@@ -72,18 +75,23 @@ EndRepeat
    2,L,J
   13,L
   11
-  34,L,U,X
-  15,R,D
-   5,R
+  15,L,U,X
+  19,L
+   3
+   5,D
+   7,R,D
+   4,R
    1,R,D
-  15,R
-   2,R,D
-   1,R
-  26,L
-  26,L,U,C
+  18,R
+   1
+  28,L
+  15,L,U,X
+   8,L
   15,U,X
-  28,L,D
-   9,D
+  27,L
+   1,L,D
+   8,D
+   1,L,D
    5,R,D,X
    6,L,J
   17,L,D
@@ -100,7 +108,7 @@ EndRepeat
    2,L
    1,L,J,G
    4,L,K,G
-   1,S
+   1,S,N
    1,D,J
   34
    9,L
@@ -124,12 +132,9 @@ EndRepeat
   40
 
 #lvl_Timestop Intro
-   1,S
+   1,S,N
    1,D,J
   69,O
-#spinner cycle (Staircase)
-   2
-#
    4,Z
    1,R,J
   40
@@ -153,8 +158,7 @@ EndRepeat
   14,L,X
    1,R,J
    4
-   6,R
-   3,F,
+   9,R
    1,R,J
   17,R,D
    2,D
@@ -352,8 +356,7 @@ EndRepeat
    1,L,J
    7,L
    1,L,J
-   5
-   3,F,
+   8
    8,L,D,X
    7,L,J
    9,L,U,Z
@@ -417,7 +420,7 @@ EndStunPause
   40
 
 #lvl_End
-   1,S
+   1,S,N
    1,D,J
   72,O
    5,R
@@ -434,11 +437,10 @@ EndStunPause
    2,L,J
   11,L
    1,N
- 154
+ 158
 
 #lvl_End Cabin
-   4
   10,R,X
  135
 
-ChapterTime: 0:57.035(3355)
+ChapterTime: 0:56.984(3352)
