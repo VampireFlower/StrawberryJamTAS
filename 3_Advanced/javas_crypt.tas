@@ -1,4 +1,4 @@
-RecordCount: 6407
+RecordCount: 6751
 
 console load StrawberryJam2021/3-Advanced/Tortoise
    1
@@ -212,47 +212,90 @@ console load StrawberryJam2021/3-Advanced/Tortoise
    4,R,D
    6,D
    8,L,Z
-   5,R,J
-   4,R
-   4
-   3,R
-   1
+   6,R,J
+   8,R,D
   15,L,D,X
-  14,L,D,C
-   2,L,J
+  13,L,D,C
+   3,L,J
   14,L,D,X
    1,R,J
   12,K,G
    6,J,G
   18,D,X
   10,R,Z
-   5,R,J
-  12,R,U,Z
-   1,R,J,G
-   1,K,G
-   6,R
-   2,R,K
-   1,R
+## +1f
+#    5,R,J
+#   12,R,U,Z
+#    1,R,J,G
+#    1,K,G
+#    6,R
+#    2,R,K
+#    1,R
+#    1,L
+#    3
+#   10,U,X
+#   15,R,J
+#    5
+#    1,J
+#    4,L,J
+#    7,L
+#   11,L,J
+#    6,L,Z
+#    1,L,J
+#    5,L
+#    1
+#    8,J
+#    1,L,J
+#    3,J
+#    1
+#    1,R,J,G
+#    1,R,K,G
+#    8,K
+#    1
+##
+   6,R,J
+   4,R,K,G
+  14,R,U,Z
+   1,J
+   1,L,J
+   1,L
+   1,L,K,G
+   1,L
+   1,L,K,G
+   1,L
+   1
    1,L
    3
-  10,U,X
-  15,R,J
+   1,L
+   1,R,J
+  12,L,U,Z
+   1,R
+   1,J,G
    5
-   1,J
-   4,L,J
-   7,L
-  11,L,J
-   6,L,Z
-   1,L,J
-   5,L
+   1,L,K
+   2,K
    1
-   8,J
-   1,L,J
-   3,J
+   1,L
    1
+   1,L,D,J
+   1,R,J
+   3,K,G
+   1,L
+   1,L,J,G
+   1,L,K,G
+   1,L
+   1
+   4,L
+  11,R,U,X
    1,R,J,G
-   1,R,K,G
-   9,K
+   1,L,J
+   1,L
+   6,R
+  12,R,J
+   2,R
+   7,K,G
+   1,L,K
+   2,J
    5,R,X
    2,R,J,G
    1,J
@@ -262,9 +305,11 @@ console load StrawberryJam2021/3-Advanced/Tortoise
    1,R,K
    4,K
    2,L,K
-   8,L
-   2,L,K
-   9,L
+   6,L
+   1,L,K
+   1,L
+   1,L,K
+  10,L
    8,D
    7,R,D
    1,R
@@ -278,16 +323,16 @@ console load StrawberryJam2021/3-Advanced/Tortoise
    1,L,J
    7,L,K
    7,L,Z
+#+2f key cycle
+   2,L,Z
+#
    1,L,J
-   5,L
+   2,L
+   4
+  12,J
    1
-   8,J
-   1,L,J
-   3,J
-   1
-   1,R,J,G
    1,R,K,G
-   9,K
+  10,K
    5,R,X
    2,R,J,G
    1,J
@@ -562,4 +607,4 @@ console load StrawberryJam2021/3-Advanced/Tortoise
   15,U,X
  136
 
-ChapterTime: 0:49.912(2936)
+ChapterTime: 0:49.878(2934)
