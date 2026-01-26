@@ -1,4 +1,4 @@
-RecordCount: 5127
+RecordCount: 5391
 
 console load StrawberryJam2021/3-Advanced/Citrea
    1
@@ -6,8 +6,8 @@ console load StrawberryJam2021/3-Advanced/Citrea
 #Start
  190
 
-#spinner
-   1
+#Spinner cycle [a-4]
+   2
 
 #lvl_intro
   15,D,X
@@ -21,7 +21,7 @@ console load StrawberryJam2021/3-Advanced/Citrea
    1,R,K
    2,R,J,G
    7,R,D,X
-   1,S
+   1,S,N
    1,D,J
   34
    3,R
@@ -88,25 +88,25 @@ console load StrawberryJam2021/3-Advanced/Citrea
   11,K
    1,R,K
    2,J,G
-   8,R,J
-   1,J
+   6,R,J
+   3,J
    2,R,J
   18,R,D,X
-   1,R
+   1,R,J
   14,R,D,X
    8,R,J
-  11,R
+   4,R
+   1,R,K
+   5,R
   18,R,X
-   3
+   2,R
+   1
   15,L,D,X
-   5,L,D
-   4,L
-   1,L,D
+   9,L,D
   14,L,Z
-  10,L,J
-   1,L
-   2,L,J
-  25,L,D
+  11,L,J
+  15,L
+  12,L,D
    1,L
    1,L,D
    1,L
@@ -114,17 +114,15 @@ console load StrawberryJam2021/3-Advanced/Citrea
    1,R,J
   11,R,D
   11,R,J
+   5,R
+   1,K
    1,R
-   2,R,J
-   3,J
-   1,R,J
-   3,J
-  12,U,X
-   6,R,J
-   1,J
+   2
+  12,U,Z
+   2,J
+   7,R,J
    1,R,K,G
   11,R,J,G
-   3,R
   40
 
 #lvl_a-4
@@ -137,8 +135,7 @@ console load StrawberryJam2021/3-Advanced/Citrea
   12,R,D,X
    3,R,J
    6,R,D,X
-   1,L,J,G
-   1,L,J
+   2,L,J,G
    1,R,J
    5,R
    2,R,J
@@ -188,7 +185,7 @@ EndStunPause
    4,R,J
   15,R,D,X
   14,R
-  18,R,D,K
+  18,R,D
    4,R
   26,R,J
   14,R,U,X
@@ -234,18 +231,18 @@ EndStunPause
    9,R,K
    7,R
    1,R,J
-   1,S
+   1,S,N
    1,D,J
-  17,O
- 207
+  18
 
 #lvl_heart
+ 206
    4,L,Z
    8,L,J
    4,L
    1,L,J
    1,L
-   1,S
+   1,S,N
    1,D,J
   34
    8,L,G
@@ -268,11 +265,8 @@ EndStunPause
    6,L
    3,L,J
    5,L,K,G
-## breaks even
-#  12,J,G
-#  15,L,U,X
   16,L,J,G
   11,U,X
  135,D
 
-ChapterTime: 0:36.958(2174)
+ChapterTime: 0:36.907(2171)
