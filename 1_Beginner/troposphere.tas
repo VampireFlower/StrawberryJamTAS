@@ -1,4 +1,4 @@
-RecordCount: 4656
+RecordCount: 4674
 
 console load StrawberryJam2021/1-Beginner/Eclipse
    1
@@ -346,12 +346,24 @@ console load StrawberryJam2021/1-Beginner/Eclipse
    9,L,K
    4,L
   14,L,U,Z
-  38
-  56,U,X
-  65,R,C
-  15,D,X
-   6,R,D
- 274
+  41,L
+  18,L
+  19,R,U,Z
+   4,L,G
+  21,L,U,X
+   4,R,G
+   7,R,J,G
+  20,R,Z
+   2,R
+   5,R,J
+   3,R
+  14,R,D,X
+   1,R,J
+   1,R
+   1,R,K
+  12,R
+  14,R,Z
+ 275
   40
 
 #lvl_b_05
@@ -457,9 +469,9 @@ console load StrawberryJam2021/1-Beginner/Eclipse
   15,L,U,Z
   85,U,X
    6
-   2,R
+   3,R
 StunPause
-   2,R
+   1,R
 SkipInput,3,1
   15,U,X
    3
@@ -514,4 +526,4 @@ EndStunPause
   15,U,C
  135
 
-ChapterTime: 1:43.615(6095)
+ChapterTime: 1:43.598(6094)
