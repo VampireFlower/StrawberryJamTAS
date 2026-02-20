@@ -1,10 +1,13 @@
-RecordCount: 34417
+RecordCount: 34439
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
 
 #Start
   36
+
+#Spinner cycle [heartside_Galaksyz]
+   0
 
 #lvl_Start
    5,R,D,X
@@ -188,9 +191,6 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1,S,N
    1,D,J
   69,O
-#spinner cycle - slime time
-   1
-#
    4,Z
    4,R,J
    1,R
@@ -211,25 +211,12 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
   80,R,U,C
   13,R,Z
    1,R,J
-## +62f retry for infinite stamina
-   3,R
-   1,S,N
-   1,D,J
-  69,O
-   1,L,J
-  10,R,D,X
+   7,R
    1,R,J
-   6,R
-  15,D,X
+   3,J
    3
-## +0f
-#    7,R
-#    1,R,J
-#    3,J
-#    3
-#   15,R,D,X
-#   16,D
-##
+  15,R,D,X
+  16,D
    7,D,X
    1
    5,L
@@ -243,71 +230,37 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1,R
    1
   27,R,J
-## +1f bee cycles
+   1,K,G
+   1,L,K
+  14,R,J,G
    1,R,K,G
+   2,R,J,G
    1,J
-  16,R,K,G
-   1,R,J,G
-   2,R,K,G
-   1
    7,R
-   5
-   7,R,J
-   7,R
-   2,R,K
-   1,R
-  18,R,Z
-  15,R,X
-  10,R
-   4
-   6,D
+   2,R,J
+   4,R
+   8,R,K
+   3,R
+  22,R,X
+  25,R,C
+  10,D
    1,L,D
-   1,D
+  12,D
    8,L,D
+#+3f bee cycle
+  15,U,X
+   2
+  14,R,J
+   5,R
+  15,R,D,X
+   3,R,D
+   3,R
+   5,R,D
+   2,D
    1
    1,D
-   5
-   4,D
-  13,U,X
-  23,R,J
-  15,R,D,X
-   8,R,D
-   5,R
+   1,R
    1,R,D
-   1
-## +0f
-#    1,K,G
-#    1,L,K
-#   14,R,J,G
-#    1,R,K,G
-#    2,R,J,G
-#    1,J
-#    7,R
-#    2,R,J
-#    4,R
-#    8,R,K
-#    3,R
-#   22,R,X
-#   25,R,C
-#   10,D
-#    1,L,D
-#   12,D
-#    8,L,D
-#+3f wait for last bee
-#   15,U,X
-#    2
-#   14,R,J
-#    5,R
-#   15,R,D,X
-#    3,R,D
-#    3,R
-#    5,R,D
-#    2,D
-#    1
-#    1,D
-#    1,R
-#    1,R,D
-##
    8,L,D,X
    1,R,J
    6,R
@@ -386,7 +339,7 @@ EndStunPause
   14,L,J
   12,L,U,Z
    3
-#spinner cycle - synapse
+#Spinner cycle [heartside_MousseMoose]
    0
 #
   89,R,C
@@ -418,7 +371,6 @@ EndStunPause
    1,R,K
   12,R
    4,D
-
   11,R,D
    9,R,D,J
   14,R,U,X
@@ -686,8 +638,7 @@ EndStunPause
   24,R,U,C
   15,R,X
   27,R,C
-  10,L,D
-   3,L,D
+  13,L,D
    3,L
    3
   14,R,D,X
@@ -1167,11 +1118,15 @@ EndStunPause
    1,L,J
   10,R,D,X
    1,R,J
-  11,R,K,G
+   5,R,K,G
+
+#lvl_heartside_Tortoise_B
+   5,R,K
+   1,K
   14,R,D,X
    2,R,J
   25,R,D,X
-  13,R
+  12,R
   10,R,X
    8,L,J
   18,U,X
@@ -1417,63 +1372,39 @@ EndRepeat
    1,L
   14,R
    3,R,D
-## -72f with infinite stamina
-  25,D
-   6
+  29,D
    2,G
    1,R,J,G
    1,R,K,G
-   1,R,J,G
-   2,R,K,G
    2,R,J,G
    1,R,K,G
-   2,R,J,G
-   1,R,K,G
-   1,R,J,G
-   2,J
-   9,R,J
-   4,R
-   4,R,K,G
-   1,R,J,G
    7,R
-   2,R,K
-  11,R
-   2
-## +0f
-#   29,D
-#    2,G
-#    1,R,J,G
-#    1,R,K,G
-#    2,R,J,G
-#    1,R,K,G
-#    7,R
-#    4,R,J
-#    6,R
-#   25,R,G
-#    1,J,G
-#    1,L
-#    1,R,J,G
-#    1,J
-#    1
-#    3,R
-#   12,R,J,G
-#    6,R
-#    6,R,K
-#   25,R
-#    1,R,D
-#    1,R
-#    1,R,D
-#    1,R
-#    1,D
-#    1,G
-#    3,J,G
-#    4,R,J
-#    2,R
-#    1
-#    1,R
-#    5,J,G
-#    2,L,J
-##
+   4,R,J
+   6,R
+  25,R,G
+   1,J,G
+   1,L
+   1,R,J,G
+   1,J
+   1
+   3,R
+  12,R,J,G
+   6,R
+   6,R,K
+  25,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   1,D
+   1,G
+   3,J,G
+   4,R,J
+   2,R
+   1
+   1,R
+   5,J,G
+   2,L,J
   15,R,Z
   18,R,D,X
    4,R,J
@@ -2019,12 +1950,14 @@ EndRepeat
    5,R,U,X
    1,L,J,G
    8,U,X
-  14,R,D,C
-   8,L,J
+  11,R,D,C
+   4,L,J
+   7,R,U,C
   15,R,Z
    1
   12,L,Z
-  15,U,X
+   9,L,U,C
+   1,J
    7
    8,R,D,X
    1,J
@@ -2032,27 +1965,25 @@ EndRepeat
   15,L,U,X
   11,R,D,C
    9
-  15,L,U,X
-  11,R,D,C
+  11,R,D,X
+   8,L,J
   15,U,X
   10,D,C
    3
   15,L,U,C
-  15,D,X
-   5,L,D
-   8,R,D
-   3,D
-   8,R,D
-   7,R,Z
+  18,D,X
+   2,L,D
+   6,R,D
+   1,D
+  12,R,D
+   6,R,Z
    1,R,J,G
-  10,R
-   2
-   5,L,Z
+   8,R
+   4
+   5,L,D,X
    1,R,J
-   3,R
-   1,R,J
-   3,R
-  20,R,J
+   7,R
+  19,R,J
   14,U,Z
    9,R,J
    7,R
@@ -2061,9 +1992,6 @@ EndRepeat
   14,R,D,X
    1,R,J
   14,R,D,C
-#spinner drift cycle [heartside_jolly]
-   5
-#
   15,D,X
   14,R,D,C
    1,R,J
@@ -2139,63 +2067,60 @@ EndRepeat
   14,R,D,X
    1,J
   10,L,Z
-   8,R,J
-   6,R
-   1,R,J
-   1
-  15,L,D,X
-   7
-   3,R,J
-   7,R,D,X
-   8,R,J
-  15,R,X
-  11,R,D,C
    7,R,J
-   1,R
-   2,R,J
-   2,R
+   3,R
+   1,R,K
+   6,R
+   9,D,X
+#Spinner drift cycle [heartside_jolly]
+   7
+#
+  20,L,C
+  11,R,D,X
+  18,R,J
+  14,R,D,X
+   8,R,J
   15,R,U,Z
    9,R
-  36,R,U,G
-   1,R,G
+   1,G
+   3,J,G
+   7
+   6,G
+   2,U,G
+   1,G
+  18,U,G
   12,L,J
-  10,L
-  11,R
-  23,R,U,X
-   3,R
-   6
-   1,R
-   9,R,G
-   8,R,J,G
-   3,R
-  15,R,X
-  15,R,C
-  12,R
-  10,R,Z
-  10,R,J
-   1,R
-  11,R,D,X
-StunPause
-   1,R,D,X
-   1,L,J,G
-   4,R,J
-EndStunPause
+   7,L
+   2
+  24,R
+  18,U,X
+  15,U,C
+  10,L,X
    1,R,J
-StunPause
-   3,R,J
-   4,R
-   4
+   4,J
+   2
    1,R
+  15,R,D,X
    8
-   9,L
+   1,R
+   4,R,U,Z
+StunPause
+   1,R,U,Z
+   1,L
+   2,J,G
+   5,R
+   2,R,K
+   1,R
 EndStunPause
-   2,D
-  19,R
-   9
-   1,L
-   1
-   1,L
-  54
+   1,R
+StunPause
+   5,R
+   4
+   6,L
+   5,D
+EndStunPause
+  70,D
+  15,R
   13,L,D,X
    2,R,J
    2,R,K,G
@@ -2384,4 +2309,4 @@ EndStunPause
   11,U,X
  135
 
-ChapterTime: 4:33.326(16078)
+ChapterTime: 4:32.238(16014)
