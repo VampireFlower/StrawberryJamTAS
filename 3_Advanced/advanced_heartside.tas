@@ -1,4 +1,4 @@
-RecordCount: 35566
+RecordCount: 36842
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
   36
 
 #Spinner cycle [heartside_Galaksyz]
-   0
+   2
 
 #lvl_Start
    5,R,D,X
@@ -119,44 +119,37 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    3,R,U,G
    4,R
   12,U,X
-  17,R,G
-   8,L,G
+  25,R,G
    1
+  14,L,Z
+   1,L,J
   13,L,Z
+  14,L,J
+  14,L,Z
    1,L,J
-   6,L
-  19,L,J
-  12,L,D,X
-   2,L,K,G
-   2,L
-   1,L,J,G
-  11,L
+  13,L,Z
+   7,L,J
+   1,L
    1,L,J
-   1
-   4,L
-   4,L,J
-   2,L
    1,L,K,G
-  16,L,K
+  18,L,K
    1,J,G
-   3,R,J
-   4,L,J
-   1,K,G
-   5,L,K
-   1,K
-   3,L,K
-   1,R,K
+   6,R,J
+   1,L,K,G
    1,L,K
    1,J,G
+   8,L,J
    1,R,J
-   7,J
-   4,R,J
    1,L,J
-   1,L,K,G
-   2,R,K
-   1,K
+   1,K,G
+   5,R,K
+   6,K
+   1,L,K
+   1,J,G
+   5,L,J
    1,R,J
-  48,R,U,J,G
+   1,R,K,G
+  45,R,U,K,G
    1,R
   14,U,X
   18,L,J
@@ -494,19 +487,21 @@ EndStunPause
   12,D
   39,R,D
   19,R,D,X
+   4,L,J
+   9,L,K
+  10,L,X
+   4,R,G
+   1
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   8,R,J,G
+   6,R
+  10,R,U,Z
+   5
    4
-  12,L,U,Z
-  12,R,G
-  10,R,X
-   4,R,J
-   1,R,K
-   7,R
-  14,R,U,Z
-   8
-   2,R,J,G
-   2
-   4,L,K,G
-   1,L
+   7,L,J
   14,L,X
    1,R,J
    4,J
@@ -530,19 +525,18 @@ EndStunPause
    5,R
   20,R,X
    9,R
-  24,D,X
-  20,R,C
+  22,D,X
+  13,R,U,C
+   8
+   7,R
+  13,L,U,X
    4,R,J
-   3,R,K
-  13,L,U,Z
-   4,R,J
-   2,R,K
-   1,K
-   4,R,K
-   7,R,J,G
-  12,R,X
-  26,L,D,G
-   3,L,G
+   1,R,K
+  10,R
+  13,R,U,X
+   4,L,G
+   7,G
+  16,D,G
   10,L,Z
    4,R,G
    4,K,G
@@ -557,19 +551,23 @@ EndStunPause
    6,R,J
    2,R,K
   18,U,X
-  14,L,U,C
-   4,R,J
-   2,R
+   1,R
+  12,L,U,X
+   4,J
+   2,J
+  10,R,X
+   5,R,J
    1,R,K
-   1,R,J,G
-   3,R
-  17,R,X
-   4,R,J
+   1,J,G
+   1,R,J
+   3,J,G
   15,R,D,X
-  15,R,D
-   9,R
-   1,R,D
-  21,G
+  22,D
+   6,G
+   4,D,G
+   2,G
+   1,D,G
+   8,G
    5,D,G
    5,R
    1,L,J,G
@@ -2107,7 +2105,7 @@ EndRepeat
    4,D
    7,L,Z
 #Spinner cycle [heartside_jolly]. 0/1 stun
-   0
+   1
 #
   20,L,C
   11,R,D,X
@@ -2129,9 +2127,9 @@ EndRepeat
    3,L,K,G
    3
    2,R
-  11,R,D,X
+  12,R,D,X
 StunPause
-   4,R,D,X
+   3,R,D,X
    6,R
    6,G
    3,U,G
@@ -2334,4 +2332,4 @@ EndStunPause
   11,U,X
  135
 
-ChapterTime: 4:29.790(15870)
+ChapterTime: 4:29.467(15851)
