@@ -1,6 +1,5 @@
-RecordCount: 3436
+RecordCount: 3599
 
-set Language english
 console load StrawberryJam2021/3-Advanced/Oppen
    1
 
@@ -22,7 +21,7 @@ console load StrawberryJam2021/3-Advanced/Oppen
   15,R,D,X
    1,R,J
    7,R,D,X
-   1,S
+   1,S,N
    1,D,J
   34
    2,R,J
@@ -46,10 +45,10 @@ console load StrawberryJam2021/3-Advanced/Oppen
    1
    1,R,J
    8,R
-   5,R,D,X
+   6,R,D,X
 
 #lvl_oppen_1a (1)
-   2,R,D,X
+   1,R,D,X
    1,R,J,G
   11,R
   11,R,J
@@ -203,11 +202,11 @@ console load StrawberryJam2021/3-Advanced/Oppen
    2,L
    1,L,J
   16,L
-   4,R,Z
+   5,R,Z
 
 #lvl_oppen_1c (1)
 #key3route
-  10,R,Z
+   9,R,Z
    2,L,J
    8,R,U,X
    6,R,J,G
@@ -277,7 +276,7 @@ console load StrawberryJam2021/3-Advanced/Oppen
   12,L,J
   14,L,U,X
    2,L,J,G
-   1,S
+   1,S,N
    1,D,J
   69,O
 #key1route
@@ -287,10 +286,11 @@ console load StrawberryJam2021/3-Advanced/Oppen
   12,L
    2,L,J
    2,L
-  18,L,D,X
+  15,L,D,X
+   4,L,D
 
 #lvl_oppen_1a (2)
-  11,L,D
+  10,L,D
   22,D
    1
    1,D
@@ -326,7 +326,7 @@ console load StrawberryJam2021/3-Advanced/Oppen
    6,L,J
    5,L
   15,L,U,Z
-   1,S
+   1,S,N
    1,D,J
   69,O
    2,R,J
@@ -367,7 +367,7 @@ console load StrawberryJam2021/3-Advanced/Oppen
    2,L,J
    8,L,Z
    2,L,J
-   1,S
+   1,S,N
    1,D,J
   69,O
    4,Z
@@ -386,43 +386,77 @@ console load StrawberryJam2021/3-Advanced/Oppen
    1,L
   14,L,D,X
    1,L,J
-  15
+   9,J
+   8,K,G
+   6
+   7,D,J
+   6
+   1,D,J,G
+  10
+   1,D,J,G
+  10
+   1,D,J,G
+  10
+   1,D,J,G
+   1,R,J
+  10,J
+   1,L
+   5,K,G
+   6,L
    1,R
-   1,L,X
-  25
-   1,O
-   1
-   1,O
-  20
-   1,O
-   1
-   1,O
-  80
-   1,O
-   1
-   1,O
-  80
-   1,O
-  27
-  15,L,C
-  22
-   6,R
-  10,R,Z
+  12
+  10,L,D
+   9
+   1,L,J
+  14,L
+   1,L,J
+   2,L
+   5,L,D,X
+   1,J,G
+  15
+   6,G
+   3,U,G
+Repeat,19
+   1,D,G
+   1,U,G
+EndRepeat
+   8
+   1,D,J,G
+  10
+   1,D,J,G
+  10
+   1,D,J,G
+  10
+   1,D,J,G
+   4
+   3,K
+   3
+   1,R
+   1,L,D,J,G
+  26,L
+   5,R,Z
    1,R,J
-   7,R
-   1,R,J
-   7,J
+   5,R
+   1,R,K
+   1,R
+   3,R,J
   14,R,Z
-   1,R,J
+   4,R,J
+   4,R,K,G
+   5,R
+   3
   14,R,D,X
    1,L,J
    6,L,D,X
    1,L,J,G
-  12,L
+   5,L
+   1,L,K
+   1,L,J,G
+  11,L
    7,L,J
   15,L,D,X
-   2,L,J
-  13,L,U,Z
- 135,L,G
+   1,L,J
+  27,L,U,X
+ 121
 
-ChapterTime: 0:49.198(2894)
+ChapterTime: 0:49.181(2893)
