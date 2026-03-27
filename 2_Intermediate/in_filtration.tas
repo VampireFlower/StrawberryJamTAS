@@ -1,4 +1,4 @@
-RecordCount: 13284
+RecordCount: 13412
 
 console load StrawberryJam2021/2-Intermediate/Jems
    1
@@ -8,15 +8,14 @@ console load StrawberryJam2021/2-Intermediate/Jems
 
 #lvl_btd-00
    5,R
-   1,R,K
+   1,R,J
   22,R
    1,S,N
    1,D,J
   34
-
-# Spinner Cycle
+#Spinner cycle [btd-02]
    0
-# -------------
+#
    4,R
    1,R,J
   14,R
@@ -56,10 +55,11 @@ EndRepeat
    1,R,D
    1,L
    5,R,J
-   2,J,G
-   2,J
-   2,R
-   1,R,G
+   1,J,G
+   1,J
+   1,R,J
+   1,R
+   1,G
    5,R,J,G
   10,R
    2,L
@@ -88,41 +88,41 @@ EndRepeat
   10,R,J
   13,R,Z
    1,R,J
-  15,R
-   4,R,D
+   3,R
+   5,R,K
+  11,R
   40
 
 #lvl_btd-02
-   1,R,D
-   2,R
-   1,R,D
    9,R
-  22,R,J
-   9,K,G
-   1
-  37,L
-  14,R,U,X
-   4,R,K,G
-  19,R,D
-  25,L,D
-   7,L
-   2,L,D
+   1,R,D
+   1,R
+   3,R,D
+   1,R
+   1,R,D
+  20,R,D,J
+  10,K,G
    1,L
+   4,J
+  30,L
+  13,R,U,X
+   6,R,J,G
+  19,R
+  34,L,D
   13,R,D,X
    1,J,G
-   3,R,J,G
-   1,J,G
-   1,R,J,G
-   1,J,G
-   1,R,J,G
-   4,J,G
-   1,L,J,G
+   3,R,J
+   1,J
+   1,R,J
+   1,J
+   1,R,J
+   5,J
    2,L,K,G
-   2,K,G
+   2,K
    1
   38,R
   15,R,U,Z
-  22,R,D
+  22,R
    8,L,D
    1,D
    5,L,D
@@ -173,15 +173,15 @@ EndRepeat
    1
    1,R,J,G
 StunPause
-EndStunPause
    1,R,K,G
+EndStunPause
    1,R
    1,R,J,G
    1,R,K,G
    1,R,J,G
 StunPause
-EndStunPause
    1,R
+EndStunPause
    5,R,D,X
 StunPause
    4,R,D,X
@@ -190,7 +190,7 @@ EndStunPause
   40
 
 #lvl_btd-04
-   1,S
+   1,S,N
    1,D,J
   69,O
    5,L
@@ -352,7 +352,7 @@ EndStunPause
    5,R,D
    1,R,K
    3,R,D
-   1,S
+   1,S,N
    1,D,J
   34
   14,R,D
@@ -529,7 +529,7 @@ EndStunPause
   10,L
    1,L,J
   14,L
-   1,S
+   1,S,N
    1,D,J
   34
   11,L,J
@@ -1170,4 +1170,4 @@ EndRepeat
   17,L,D,J
   14,L,K,G
 
-ChapterTime: 2:13.603(7859)
+ChapterTime: 2:13.552(7856)
