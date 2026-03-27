@@ -1,4 +1,4 @@
-RecordCount: 1325
+RecordCount: 1566
 
 console load StrawberryJam2021/5-Grandmaster/alisticious
    1
@@ -174,7 +174,7 @@ console load StrawberryJam2021/5-Grandmaster/alisticious
   40
 
 #lvl_a-02 (0)
-   1,S
+   1,S,N
    1,D,J
   69,O
    5,L,Z
@@ -256,9 +256,12 @@ console load StrawberryJam2021/5-Grandmaster/alisticious
    5,R,U,Z
    3,U
    2
-   6,R
+   1,R
+
+#lvl_b-04b
+   5,R
   10,D,X
-   1,S
+   1,S,N
    1,D,J
   69,O
    4,X
@@ -357,10 +360,9 @@ console load StrawberryJam2021/5-Grandmaster/alisticious
    1,L,D
    5
   22,L,X
-   1,R,G
+   4,R,G
 
 #lvl_b-05b
-   3
    5,L,D,X
    1
    1,R,J
@@ -422,30 +424,25 @@ EndStunPause
    4,R,D,X
    1,L,U
    1,L
-   1,U
-   7
-   1,U
-   1
-  10,U
-   5,U,X
-   6,L
-  11
+  10
+   9,U
    1,L
-   3
-   4,D,X
+   1,U
    6,L
-   5,R,J
-   5,R
-   1,R,J
-  25,R
+   5,U,X
+  43,R
+   2,R,D
    5,R,U,Z
-  10,U
-   2
-   7,L,U
-  19,R
+   5,R
+  14,U
+  14,L
+  13,R
    5,R,U,X
-  12,U
-   9
+  13,U
+   1,L,U
+   1,R
+   3
+   5,R
    5,L,U,X
   12
    1,U
@@ -471,4 +468,4 @@ EndStunPause
    8,L,D,C
   64,D
 
-ChapterTime: 0:39.865(2345)
+ChapterTime: 0:39.831(2343)
