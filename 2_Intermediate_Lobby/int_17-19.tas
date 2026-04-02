@@ -5,24 +5,24 @@ console hearts 18
 
 #Start
   36
-  14,R,Z
+  14,R,D,X
    1,R,J
-   5,R,D,X
+   6,R,D,X
    1,R,J,G
+  12,R
+   1,R,J
   14,R
-   1,R,D,J
-  14,R
-  10,R,D,J
+  12,R,J
    1,R,K,G
-   4,R,J,G
+   2,R,J,G
    3,R
   15,R,D,X
-   1,R,D,J
+   1,R,J
   14,R,D,X
    1,R,J,G
    1,R,K,G
-  17,R
-   1
+  11,R
+   6
    1,N
   32
    4,X
@@ -40,7 +40,7 @@ console hearts 18
    6,R
    1,R,J
   14,R,D,X
-   1,S
+   1,S,N
    1,D,J
   34
    1,D
@@ -130,4 +130,4 @@ console hearts 18
    2,R,K,G
    6,R
    1,N
-#0:12.240(720)
+#0:12.206(718)
