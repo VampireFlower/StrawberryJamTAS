@@ -1,4 +1,4 @@
-RecordCount: 36842
+RecordCount: 36903
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
   36
 
 #Spinner cycle [heartside_Galaksyz]
-   2
+   0
 
 #lvl_Start
    5,R,D,X
@@ -107,20 +107,20 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    6,R
    3,R,D
    1,R
-   1,D
-   4,Z
+   1,R,D
+   7,L,Z
    1,R,J
-   5,R
-  17,R,G
-  48,R,U,J,G
-   1,R,G
-   1,R,U,G
-   3,R,G
-   3,R,U,G
-   4,R
-  12,U,X
-  25,R,G
-   1
+   6,R
+   1,R,J
+   4,R,J,X
+  18,R,J,G
+  35,R,K,G
+  12,R,U,K,G
+   5,R,K
+  11,U,X
+  21,R,G
+   3,G
+   3
   14,L,Z
    1,L,J
   13,L,Z
@@ -2332,4 +2332,4 @@ EndStunPause
   11,U,X
  135
 
-ChapterTime: 4:29.467(15851)
+ChapterTime: 4:29.416(15848)
