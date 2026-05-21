@@ -1,4 +1,4 @@
-RecordCount: 5034
+RecordCount: 5052
 
 console load StrawberryJam2021/3-Advanced/Viv
    1
@@ -13,7 +13,7 @@ console load StrawberryJam2021/3-Advanced/Viv
    1,D,J
   34
 #spinner cycle
-   0
+   2
 #
    4,Z
    1,R,J
@@ -142,10 +142,9 @@ EndRepeat
    1,R
    3
    1,R,N
-   1,L,J
-   2,L,J
+   3,L
   15,D,X
-   8,R,D
+   6,R,D
    8,R,Z
    1,R,J
    7,R
@@ -154,11 +153,12 @@ EndRepeat
    1
    5,R
   24
-  26,L,Z
+  29,L,Z
   14,L,D,X
    6,L,J
   23,L,D
-   6,L
+   3,L
+   3
   10,R,D,X
    7,R,J
    2,D
