@@ -1,4 +1,4 @@
-RecordCount: 16385
+RecordCount: 16837
 
 console load StrawberryJam2021/4-Expert/Vina
    1
@@ -28,7 +28,7 @@ console load StrawberryJam2021/4-Expert/Vina
    4,R
    7
 #Spinner cycle [Vina-05]
-   0
+   1
 #
    2,L,J
    1,L
@@ -280,48 +280,37 @@ console load StrawberryJam2021/4-Expert/Vina
    1,R
    6
   15,U,X
-   5,R
-  15,L,U,X
-  13,L
-   3
-  13,U,X
-  20,R
-  14,R,X
-  15,R,J
-  12,L,J
-  18,G
-   1
-   2,J
-   1
-   2,R
-   1
-   2,R,J
-   5,R
-  28,R,J
-   4,R,D
-  37,R
+   8
+  18,L,X
+   6,G
+   3,D,G
+   3,G
+   2,D,G
+   3,K,G
+  30,L,J,G
+  15,U,X
+   5,L
+  10,J
+  25,R
+  15,R,X
+  60,R,J
+  14
   15,R,Z
+  15,U,X
    6,R
   10
-   1,J
-   1,R,K,G
-   5,L,K
-   2,K
-  15,U,X
-   3,R
-   2
   17,R
-  13,R,X
+  14,R,X
   11,R,J
   10,R
    3,R,J
   12,R
-   7
-   3,L,D
+   6
+   2,L,D
+   2,D
    1
   15,L,D,X
-   7,L
-   8
+  15,L
   40,R
   15,R,X
    7,R
@@ -822,4 +811,4 @@ Repeat,7
    2,R,D
 EndRepeat
 
-ChapterTime: 1:40.793(5929)
+ChapterTime: 1:40.691(5923)
