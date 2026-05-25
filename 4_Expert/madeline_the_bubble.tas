@@ -1,4 +1,4 @@
-RecordCount: 16837
+RecordCount: 17604
 
 console load StrawberryJam2021/4-Expert/Vina
    1
@@ -280,26 +280,26 @@ console load StrawberryJam2021/4-Expert/Vina
    1,R
    6
   15,U,X
-   8
-  18,L,X
-   6,G
-   3,D,G
-   3,G
-   2,D,G
-   3,K,G
-  30,L,J,G
-  15,U,X
-   5,L
-  10,J
-  25,R
-  15,R,X
-  60,R,J
-  14
-  15,R,Z
+   9,R
+  15,L,D,X
+   3
+   1,G
+   6
+  21,L,U,X
+  19,L,U,C
+  12,L
+   1,K
+   1,J
+  48,R,J
+  63,R
+  18,R,Z
   15,U,X
    6,R
-  10
-  17,R
+   3
+   1,R
+   9
+   2,R
+  20,R
   14,R,X
   11,R,J
   10,R
@@ -349,53 +349,42 @@ console load StrawberryJam2021/4-Expert/Vina
   11,R,J
    7,R
   10,R,K
-   2,R
+   8,R
+   3,D
+   4
+   1,R
+   1,G
+   2,J,G
+   3,L,J
   15,R,U,X
-   3
-   1,R
-   8
-   1,R
-   2
-   1,R
-   5
-   1,R
-  29,L
-   7
-   1,L
-   1
-   1,L
-   2,L,D
-  21,U,X
-  11
-   9,U,Z
-   5,L
-   2
-   1,R
-   4,L
-StunPause
-   4,L
-EndStunPause
-   2,L
+  32,L
+  10
+  25,U,Z
+  17,L
   15,U,X
-   8
-  10,R
+   2,R
+   2
+   6,L
+   2
+   1,L
   16
-  20,L,U,X
-  38,R
+   6,R,D,X
+  21,L
+  12,U,X
+  44,R
   15,R,U,Z
-   1,R
   15,U,X
   18,R,C
   12,R,U,X
    1,L,J,G
    2,L,K,G
   15,U,Z
-   9,U,C
+   9,U,X
   40
 
 #lvl_Vina-06
 #2/3 Spinner cycle [Vina-09]
-   0
+   1
 #
    1,S,N
    1,D,J
@@ -811,4 +800,4 @@ Repeat,7
    2,R,D
 EndRepeat
 
-ChapterTime: 1:40.691(5923)
+ChapterTime: 1:40.232(5896)
