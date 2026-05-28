@@ -1,4 +1,4 @@
-RecordCount: 2605
+RecordCount: 2625
 
 console load StrawberryJam2021/4-Expert/Skunkynator
    1
@@ -251,19 +251,22 @@ EndRepeat
    1,L,J
    7,L
   27,L,J
-  28,U,X
-   4,R
+  32,U,X
+   1,R,J,G
+   4
+   7,R
+  16,R,U,Z
+   4,L,G
    1,J,G
-   2
-   9,R
-  24,R,U,Z
-   1,J
-  11,R,J
-   6,R
+   3
+   4,L
+  10,R,U,Z
+   4,R,J
+   3,R,K
+   4,R
   15,R,D,X
-   2,R
-  12,R,D
-  18,R,Z
+  13,R,D
+  14,R,Z
    4,L,G
   38,U,X
   50,L,U,C
@@ -331,4 +334,4 @@ EndRepeat
    1,R,J
   11,L,J
 
-ChapterTime: 0:47.243(2779)
+ChapterTime: 0:47.175(2775)
