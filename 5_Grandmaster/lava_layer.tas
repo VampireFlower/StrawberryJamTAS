@@ -1,4 +1,4 @@
-RecordCount: 7542
+RecordCount: 8106
 
 console load StrawberryJam2021/5-Grandmaster/tobyaaa
    1
@@ -264,68 +264,86 @@ EndStunPause
   43
 
 #lvl_Phil
-   3,R
-   1,K,G
-   3,R,K
    1,L
-   8
-   2,L
-   1
-  14,R,C
-   2,R,J
-   8,R
-   8,R,J
+   1,R,J,G
+   5,R,K,G
    6
    1,R
-  15,R,Z
-  13,R
-  12,L,J
+   4,Z
+   8,R,J
+   3,R
+   1,R,K
+   3,R,J
+   3,J
+   2
+   1,R
+   2
    7,J
-   1,L,J
-   7,J
+   5,L,J
+   8,L
+  12,J
+   6,L
+   1,J
+   6,R,J
+   6,R
+  11,L,Z
+   1,R,J
+   1,R
+   2,K
+  14,R,U,Z
+   2,J,G
+   7,R,J
+   8,R
+  10
+  14,D
+   9,R,D
+  18,R
+  14
+   4,L
+   1,L,D
+   3,D
+   1
+   1,R,D
+   1,D
+   8,R,D
+   1,J
+   6,R,J
+   4,R
+   1,L,J,G
+   1,L,K,G
+   1,K
+   1
+   1,J
+   2,K,G
+   8,R,K
+   6,R
+   1,R,J,G
+   3,R,K,G
+   6,R
+   1,R,K
+   1,R
+   1,R,K
   10,R
    3,R,D
-   4,R,D,J
-   5,R
-   3,R,J
-   3,R
-   1,R,J
-   3,R
-  12,R,J
+   9,D
+  39,R
+   6,D
+   1,J
+   8,R,J
    1,R
-  15,U,X
-  27,R
-   3
-  42,R,J
-   5
-   3,D
-   1,R,D
-   7,R,J
-   1,R
-  11,R,J
-   2,J
-  13
-   4,J
-   7,K,G
-   4,R,K,G
-   1,R
-   6,R,J
-  17,R,D
-  29,R
-  18,D
-  45,R,D
-  10,R,J
-   2,R
   15,R,U,X
-  36,R,U,C
+   5,R
+  15,R,U,X
+  21,R
    1,R,J,G
    4,R,K,G
-   1,R
-   5,R,J
-  22,R,D
-   4,R,Z
+   9,R
+   1,R,K
+   9,R
+   9,R,D
+   4,Z
    1,R,J
-  10,R,D
+  10,R
   43
 
 #lvl_Susan
@@ -446,4 +464,4 @@ EndStunPause
   12,R,U,Z
  135
 
-ChapterTime: 0:56.185(3305)
+ChapterTime: 0:54.791(3223)
