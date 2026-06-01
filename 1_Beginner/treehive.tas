@@ -1,4 +1,4 @@
-RecordCount: 6412
+RecordCount: 6454
 
 console load StrawberryJam2021/1-Beginner/skeleton
    1
@@ -6,8 +6,8 @@ console load StrawberryJam2021/1-Beginner/skeleton
 #Start
   91
 
-#spinner cycle
-   1
+#Spinner cycle [skeleton_05]
+   0
 
 #lvl_skeleton_00
    4,Z
@@ -111,7 +111,8 @@ console load StrawberryJam2021/1-Beginner/skeleton
    4,L,J
   38,R,U,X
   15,U,C
-  41
+   1
+  40
 
 #lvl_skeleton_02
    7,R
@@ -272,27 +273,21 @@ console load StrawberryJam2021/1-Beginner/skeleton
    4,L,J
    5,L,Z
    6,L,J
-   4,L
-   3,L,K
-   2,L
-  11,L,J
-   5,L,K,G
-   2,R,K
-   1,L,K
-  21,L,Z
+   9,L
+   4,L,J
+   6,L
+  52,L,D,X
+   4,L,G
+  28,L,D,X
    4,R,G
-  29,R,U,X
-  15,L,D,C
-  21,R,G
   21,R,X
    4,R,J
-   1,R
-   3,R,K
-   4,R
+   2,R,K
+   6,R
   14,R,U,Z
-   1,R,K,G
-   9,R
-   5,R,D,X
+   1,R,J,G
+  10,R
+   4,Z
    1,R,J
    7,R
    3,R,J
@@ -385,4 +380,4 @@ console load StrawberryJam2021/1-Beginner/skeleton
   17,U,X
  135
 
-ChapterTime: 1:02.645(3685)
+ChapterTime: 1:02.543(3679)
