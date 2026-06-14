@@ -1,4 +1,4 @@
-RecordCount: 11172
+RecordCount: 11650
 
 console load StrawberryJam2021/4-Expert/hivemindsrule
    1
@@ -261,12 +261,14 @@ EndStunPause
    6
    1,R
    3,L,J
-   1,L
    1,K
-   1,J,G
-  10
-   8,R
-  19,R,D
+   1,L,J,G
+  12,R
+   6
+  11,D
+   5,R,D
+   1,R
+   2
   15,R,D,X
    2,R,D
    6,G
@@ -377,4 +379,4 @@ EndStunPause
   13,D
  139,U,X
 
-ChapterTime: 0:38.998(2294)
+ChapterTime: 0:38.981(2293)
