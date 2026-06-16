@@ -1,4 +1,4 @@
-RecordCount: 5052
+RecordCount: 5435
 
 console load StrawberryJam2021/3-Advanced/Viv
    1
@@ -8,13 +8,13 @@ console load StrawberryJam2021/3-Advanced/Viv
    1,R,J
  108
 
+#Spinner cycle [viv3] (2/3 stun)
+   1
+
 #lvl_viv0
    1,S,N
    1,D,J
   34
-#spinner cycle
-   2
-#
    4,Z
    1,R,J
    7,R
@@ -160,25 +160,33 @@ EndRepeat
    3,L
    3
   10,R,D,X
-   7,R,J
-   2,D
-  24,R,D
+   6,R,J
+   2
+   2,R,K
+  12,R
+   8,R,D
+   3,D
+   2
+   3,R
+   1
    5,R
-  11
-   7,L
-  68,J
-  25,R,G
-  16,R,J,G
+  10
+  81,L,J
+   1,R,G
+   4
+   2,R,G
+  24
   15,D,X
-  32,D
+  35
 StunPause
-   9,D
-   3,L,J
+   7
+   1,L
+   2,L,J
 SkipInput,3,1
    7,R,D,X
 EndStunPause
-   6,R,D
-   5,R,J
+   3,R,D,X
+   7,R,J
   14,R,X
   40
 
@@ -406,4 +414,4 @@ EndStunPause
   28,L,D,J
  139,R,X
 
-ChapterTime: 1:36.084(5652)
+ChapterTime: 1:35.897(5641)
