@@ -1,4 +1,4 @@
-RecordCount: 9690
+RecordCount: 10167
 
 console load StrawberryJam2021/4-Expert/Banana23
    1
@@ -569,7 +569,7 @@ console load StrawberryJam2021/4-Expert/Banana23
   15,R,U,Z
    2,R
   11,R,X
-## +11f play in opposite core mode
+## +15f play in opposite core mode
 #    1,R,J,G
 #    5,R
 #   15,D,X
@@ -798,15 +798,14 @@ EndStunPause
 
 #lvl_a-10
    7,R
-   2,D
-   1,R
-   2,R,J
+   3,D
+   2,R,D,J
   10,R,D,X
    1,R,J,G
-  12,R
-   1,R,J
-   1,R,K,G
-   3,K
+   3
+   8,R
+   2,R,J
+   3,R,K,G
    5,R
    4,R,K
    1,R
@@ -831,17 +830,16 @@ EndStunPause
    1,R,K
   10,R
    1,R,D
-  15,D
-   5,L,D
+  14,D
+   3,L,D
+   1,D
+   2,L,D
    4,D
-   4,Z
+   9,R,Z
   12,R,J
-   2,R
-   4,R,K
-  11,R
-   1,L
-   3,J,G
-   4,R,J
+   1,R
+  11,R,K
+   5,R
   10,U,X
   15,R,J
    8,R
@@ -862,8 +860,8 @@ EndStunPause
   14,L,D
    1,G
    1
-   1,L
-   3,G
+   2,L
+   2,G
    1
   20,G
    4,L,J,G
@@ -871,11 +869,12 @@ EndStunPause
   13,U,Z
   11,R,J
    2,J
-   5,R,J
+   2,R,J
+   3,R
    5,U,X
    6,R,J
-   1,R
    1
+   1,R
    1,R,K,G
    1,R,J,G
   18,R
@@ -890,46 +889,53 @@ EndStunPause
   18,R
    5,R,D
 #Spinner cycle [a-10]
-   1
+   0
 #
-  11,R,D,C
+  11,R,D,X
    1,R,J,G
    2,K,G
   10,R,K
   12,R,J,G
    5,R
-   2,R,J
-  16,R,D
-   3,R,J
-  16,R
-   7,R,X
+   1,R,K
+   1,R
+   1,R,K
+   4,R
+   1
+   6,R
+   4,R,D
+   1,J
+   7,R
+   1
+   8,R
+   8,R,X
 StunPause
-  10,R
+   7,R,X
+   2,R
 SkipInput,3,1
-  11,R,C
+  12,R,C
 SkipInput,3
-   9,R
+   6,R,C
+   3,R
 SkipInput,3,1
    8,R,D,X
-   3,K,G
-   2,R,K
-   1,L,K
-   1,R,K
+   2,J,G
+   3,R,J
+   2,L,J
 SkipInput,3,1
   11,U,X
 EndStunPause
+   2,U,X
+   5,J
    1
-   4,L,J
-   1,R,J
-   2
-  10,R,X
+   9,R,X
    1,R,J,G
-   2,J
+   1,J
    1
   13,R
    2,R,J
    2,R
-   1,R,J,G
+   1,R,K,G
    4,R
   40
 
@@ -948,8 +954,8 @@ EndStunPause
    1,R,J
    9,R,U,X
   18,R,C
-   1,R,J
-  11,R,U,Z
+   4,R,J
+   8,R,U,Z
    1,R,J,G
    6,R
   34,D,X
@@ -959,7 +965,8 @@ EndStunPause
   28,R,D,C
    1,R,J,G
   25,R,K,G
-  12,U,X
+  10,U,X
+   2,J
   27
 
-ChapterTime: 1:37.002(5706)
+ChapterTime: 1:36.866(5698)
