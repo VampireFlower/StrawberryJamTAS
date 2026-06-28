@@ -1,4 +1,4 @@
-RecordCount: 4534
+RecordCount: 4765
 
 console load StrawberryJam2021/4-Expert/Scroogle
    1
@@ -58,23 +58,27 @@ console load StrawberryJam2021/4-Expert/Scroogle
 
 #lvl_a-01
    4,R
-  12,L,J
+   1,J
+   9,L,J
+   1,J
+   1
+   1,L
    4,X
-  16,L
-  18,L,X
-  15,U,C
+  23,L
+  18,L,U,Z
+   1,L
    5,L,X
    1,K
    2,J,G
   11,R,J
-   5,K,G
+   7,K,G
    1,L,K
    1,R,K
    2,J,G
-  10,L,J
+  11,L,J
   15,R,X
-  14
-   5,R
+   1
+  15,R
    7,R,D
    1,R
    6,R,D,J
@@ -98,21 +102,23 @@ console load StrawberryJam2021/4-Expert/Scroogle
   10,R,J
    1,K,G
    8,R,K
-  11,U,X
+  12,U,X
    8,L,J
-   2,J
+   1,L
   15,L,U,Z
-  13,U,X
-   4,L,J
+  14,U,X
+   2,L,J
   40
 
 #lvl_a-02
-   8,L
-   1,K
-   7,R,K
+   8,R
+   1,K,G
+   1,R,K
+   1,L,K
+   5,K
    4,X
-  17,R
-   2
+  16,R
+   3
   16,R,D,X
    9,L
   15,L,X
@@ -357,4 +363,4 @@ console load StrawberryJam2021/4-Expert/Scroogle
   13,R,U,X
  135,R,D
 
-ChapterTime: 0:31.586(1858)
+ChapterTime: 0:31.518(1854)
