@@ -1,4 +1,4 @@
-RecordCount: 4648
+RecordCount: 5245
 
 console load StrawberryJam2021/5-Grandmaster/tcookiem
    1
@@ -140,97 +140,105 @@ console load StrawberryJam2021/5-Grandmaster/tcookiem
   15,U,X
   10,R
    5,R,J
-   5,R
+   2,R
+   2
+   1,R
   14,L,D,X
-   1,L,J
-  15,L,D,X
-  22,L,J
-  15,L,U,X
-   1,K,G
-   1,R,K,G
-   1,L,J,G
-   4,L,K,G
-   1,K
-   3,L,J,G
+   4,L,J
+  15,L,D,J,X
+   7,L,J
+  12,L,K
    5,L
-   3,L,J
-   1,L
+   8,L,K
    1
-   1,K
-   4,R,D,J
-  10,L,J
-  15,U,X
-   2,R,J
+  12,J,G
+  12,K,G
+   2,J,G
+   1,L
+   3,K
+   1
+  10,L,X
+  12,R,J
+   3,R
+  15,R,U,X
    2,R
-  15,U,X
-   2,R
-   1,R,J,G
-   1,R
+   2,J,G
+   1,L,J
    1,R,K,G
-   1,R,J,G
-  20,R
-  14,R,Z
+   6,R,J,G
+   4,R
+   1
+   2,R
+   4,Z
    1,R,J
-  15,R,D,J,X
-   1,R,D,J
-   6,R,J
-  23,R,K
-  15,U,X
-  10,L,J
-   8,J
-   7,R,K,G
-   5,J
-  11,R,K,G
+   6,R
+  12,R,J
+   5,R
+   9,R,K
+  15,R,U,X
+   5,R
+   1,J
+   5,L,J
+   1,L
+   1,R,K,G
+   5,R,J,G
+   2,K,G
+   1,L
+  12,R,J,G
    7,R
-   5,R,Z
-   1,R,J
-   1,R
-   2,R,J
-   1,R
-   1,R,J,G
-   9,R
-   6,R,J
+  11,R,J
+   3,R
+  11,R,X
   40
 
 #lvl_Glare
-   6,R,J
-  15,R,D,X
-  10,R,J
-   1,R
-   5
-   1,R
-  21,R,U,X
-   4,L,J
-   4,Z
-   7,L,J
-   9,L
-  23,L,J
-  38,R,U,X
-  10,L,C
-  18,L,J
-  15,U,Z
-   3
-   3,L,J
-  10,J
-   9
+   4,R,X
+   7,R
+  14,R,Z
+   1,R,J
    1,J
-  15
+   1,R,K,G
+   6,K
+   7,R,J,G
+  18,R,U,X
+  19,R,U,Z
+   5,L,X
+   4,L,J
+   1,L,K,G
+   1,L
+   1
+  10,L
+  12,L,J
+   5,L
+   4,L,K
+  38,R,U,X
+   7,L,C
+  15,L,J
+   5,L
+   5,L,K
+  15,U,X
+   2
+   2,L,J
+  12,J
+  25
   14,D
-  25,R,D
+  24,R,D
   34,R,X
    4,R,J
    1,R,K
   15,R,D,X
-   6,R,D
-  23,R,K
-   1,K
-   3,R,K
-  14,U,X
-  13,R,J
-  11,R
-   2,R,J
+   4,R,D
+  12,R,J
+   5,R
+  10,R,K
+   1,R
+  11,U,Z
+  14,R,J
+  10,R
   14,R,X
-  25,R,J
+  15,R,J
+   5,R
+   8,R,K
   14,U,X
   15,L,J
   13,L
@@ -655,4 +663,4 @@ console load StrawberryJam2021/5-Grandmaster/tcookiem
    8,U,X
  135,D
 
-ChapterTime: 1:11.944(4232)
+ChapterTime: 1:11.638(4214)
