@@ -1,9 +1,12 @@
-RecordCount: 5245
+RecordCount: 5989
 
 console load StrawberryJam2021/5-Grandmaster/tcookiem
    1
 
 #Start
+#Lightning cycle [Basin]
+   2
+
 #lvl_Solitude
   13,R,Z
   10,R,J
@@ -252,73 +255,169 @@ console load StrawberryJam2021/5-Grandmaster/tcookiem
    4,Z
    1,R,J
    5,R
-  24,R,J
-  48,R,U,X
-   4
-   4,R,Z
-   3,R,J
-   4
-   6,R,J
-   6,R,D,X
-   1,R,J,G
-  13,R
+## +24f stunless
+#   24,R,J
+#   48,R,U,X
+#    4
+#    4,R,Z
+#    3,R,J
+#    4
+#    6,R,J
+#    6,R,D,X
+#    1,R,J,G
+#   13,R
+#    1,R,J
+#   40
+
+#   15,R,J
+#   17,R,U,X
+#   14,R
+#  126,G
+#    1,U,G
+#    1,G
+#    3,L
+#    2
+#    1,L
+#   21,R,X
+#    4,R,J
+#    1,R,K
+#   14,R
+#   11,R,J
+#   30,R,D
+#   22,R,Z
+#   27,L,D
+#    5,L
+#    3,L,D
+#   17,L,Z
+#    1,J,G
+#    1,R,J
+#    1,L,K,G
+#    2,K
+#    1,L,J,G
+#    1,R,J
+#    1,L,J
+#    1,R,J
+#    1,L,J
+#    3,R,J
+#    1,L,J
+#    9,K,G
+#    2,L,K
+#    2,J,G
+#    3,L,J
+#    1,J
+#    1,L,J
+#    4,J
+#    1,R,J
+#    2,L,K,G
+#   13,R,J
+#   85,R,X
+#    8,R,J
+#   27,R,K
+#   39,R
+#   15,R,U,X
+#   21,R
+#    2,R,J,G
+#    3,L,J
+#    1,R,K,G
+#    7,R
+#    3,R,J
+#   11,R,Z
+##
+  12,R,J
+   5,R
+   4,R,K
+   1,K
+  15,R,U,Z
+  34,R
+   4,R,J
+   5,R,D,X
    1,R,J
+   1,R
+   1,R,K
+   1,R,J,G
+   9,R
+   2,R,J
+   8,R,K,G
+  11,R,U,X
   40
 
 #lvl_Basin
-  15,R,J
-  17,R,U,X
-  14,R
- 126,G
-   1,U,G
-   1,G
-   3,L
-   2
-   1,L
-  21,R,X
-   4,R,J
-   1,R,K
-  14,R
-  11,R,J
-  30,R,D
-  22,R,Z
-  27,L,D
-   5,L
-   3,L,D
-  17,L,Z
-   1,J,G
-   1,R,J
-   1,L,K,G
-   2,K
+   3,R,U,X
    1,L,J,G
-   1,R,J
-   1,L,J
-   1,R,J
-   1,L,J
-   3,R,J
-   1,L,J
-   9,K,G
-   2,L,K
-   2,J,G
-   3,L,J
-   1,J
-   1,L,J
-   4,J
-   1,R,J
-   2,L,K,G
-  13,R,J
-  85,R,X
-   8,R,J
-  27,R,K
-  39,R
+   6,R,J
   15,R,U,X
   21,R
-   2,R,J,G
-   3,L,J
+   1
+  19,D
+   1,R,D
+StunPause
+   1,D
+   5,L,D
+SkipInput,3,1
+  19,R,D,X
+EndStunPause
+  13,R,D,X
+  12,R
+  16,R,D
+   1
+  10,L,D,X
+  10,R,J
+  15,R,D,X
+   4,R
+   1,R,D
+   1,R
+  10,R,D
+   1,R
+   1,R,D
+  31,R,U,Z
+   4,R,J
+   2,R,K
+  15,R,D,X
+  65,R,Z
+   7,R,J
+  12,R,K
+   2,R
+  15,R,U,X
+   1,R,J,G
+   2,L,J
+   1,R,J
+   2,K,G
+   1,R,K
+   4,R
+   1
+   1,R
+   1,L
+   1
+   5,L,Z
+   1,R,J
+   6,R
+  12,R,J
+   5,R
+  10,R,K
+   1,R
+  15,R,U,Z
+   6,R
+   8,J,G
+   1,K,G
+   1,L,K
+   6,R,K
+   1,J,G
+   1,L,J
+   1,R,J
+   1,K,G
+   1,L,K
+   3,K
+   1,R,J,G
    1,R,K,G
-   7,R
-   3,R,J
-  11,R,Z
+   3,R,J,G
+   3,L,J
+   5,R,J
+   4,R
+   1
+   2,R
+   1,R,J
+   2,R
+  10,R,Z
    1,R,J
    8,R,K,G
   13,R,U,Z
@@ -663,4 +762,4 @@ console load StrawberryJam2021/5-Grandmaster/tcookiem
    8,U,X
  135,D
 
-ChapterTime: 1:11.638(4214)
+ChapterTime: 1:11.264(4192)
