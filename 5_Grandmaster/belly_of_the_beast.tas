@@ -1,10 +1,13 @@
-RecordCount: 9887
+RecordCount: 11125
 
 console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
    1
 
 #Start
  190
+
+#Spinner cycle [a-08] (2/3 stun)
+   0
 
 #lvl_a-01
    4,R,Z
@@ -29,9 +32,6 @@ console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
 
 #lvl_a-02intro
  171
-# Spinner Cycle
-   1
-#####
    3,R,J
   14,R,D,X
    1,R,J
@@ -297,7 +297,10 @@ console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
    7,L,D
    1,L
    6,R,X
-  47,L,D
+  28,L
+   8
+   1,L,D
+  10,D
    1
    2,R
    1,R,D
@@ -376,27 +379,31 @@ console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
   11,R
   10,U,X
   21,R,G
-  24
-  10,D
-  17,L,D
-   4
+  37
+  18,L,D
   14,L,Z
    1,R,J
    6,R,D,X
    1,R,J,G
-  13,R,D
+   1,R
+   1
+   6,R
+   1,R,K
+   3,R
+   1,R,D
    1,R,D,J
    1,R,D,K
    2,R
    1,R,J
-  10,R,D,X
+   9,R,D,X
   13,R,G
    2,R,J,G
-   5,R,G
-   1,R,J,G
+   5,R
+   1,R,K,G
    5,R,G
    6,R,J,G
-   7,R,G
+   6,R,G
+   1,G
   40
 
 #lvl_a-05
@@ -478,9 +485,9 @@ console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
    1,J,G
    8,R,J,G
    6,R
-## +2f theo subpixel
+#+2f theo subpixel
    2,R
-##
+#
   14,R,D,X
    1,R,J
   11,R,D,X
@@ -572,81 +579,85 @@ console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
 
 #lvl_a-07
    2,R,G
-   2,R,J,G
-   1,R,G
-   1,R,J,G
-  11,R,G
-   3,R,J,G
-   1,K,G
-   7,R,K,G
-   2,L,K,G
-   1,L,G
-   1,L
+   3,R,K,G
+  12,R,G
+   3,L,J,G
+   9,K,G
+   1,R
+#+3f theo y subpixel
+   2
   14,L,D,X
-   3,L,J
-  10,R,D,X
-   1,R,J
-   3,R
-   4,R,J
+   2,R,J
+   6,R
+   1
   14,R,U,X
   21,G
-   1,R
-   5,L,J,G
-   5,L
-   4,L,J
+   1
+   1,L,J,G
+   1,L,K,G
+   1,L
+   1
    1,J
-#stall for 2f for theo
-  23,R,K
-  10,R,D
-   9,L,D
+  11,R,J
+   5,R
+  10,R,K
+   6,R
+   3
+   6,D
+   7,L,D
    1,D
-   1,L,D
-   5,L
-   2,L,D
-   1,D
+   1,L
   12,R
   18,R,Z
-  17,L,D
+  14
+   2,D
   17,R,Z
    1,R,J
-   5,R,D,J,X
-  13,R,J,G
-  26,R,K,G
-   2,R,G
-   1,G
+   5,R,D,X
+  13,R,G
+  12,R,J,G
    6,R,G
-   4,R
+   8,R,K,G
+   8,R,G
+   5,R
   15,R,U,Z
-   7,R
-  10,R,U,C
+   9,R
+   9,R,U,X
   21,R,G
    1,R
   18,R,X
   15,D,C
-   2,R,D
   10,L,D,X
    5,R,J
   14,R,U,Z
-  30,R,G
-   4,R,D
+  33,R,G
+   1,R
    9,U,X
   27,R,G
-   1,R,D
-   3,R
-   7,R,U,G
- 129,R,G
-   2,R,U,G
+   1,D
    1
-  39,R,D,G
-   3,R
-  12,R,Z
-   4,R,J
+ 136,G
+   3,U,G
+   2,G
+   1
+   1,R
+  18,G
+   1,R,G
+   2,L,G
+   4,R,G
+   1,R,D,G
+   1,D,G
+  13,R,D,G
+   1,R
+  14,R,Z
+   1,R,J
+   1,J
   14,L,D,X
    1,R,J
    5,R,D,X
-  15,R,J,G
-  11,R,K,G
-   2,R,D,K
+  13,R,G
+  12,R,J,G
+   2,R,D
   15,R,D,X
    1,R,J
    8,R,D,X
@@ -654,24 +665,22 @@ console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
   40
 
 #lvl_a-08
-  12,R,J,G
-   6,R,G
-   2,R,J,G
-   1,R,G
-   2,R,J,G
-   8,L,D,G
+  10,R,J,G
+   9,R,G
+   1,R,K,G
+   9,R,G
 StunPause
-  16,L,D,G
-   1,L,G
-   7,L,D,G
+  17,R,D,G
+   2,L,D,G
+   3,R,D,G
 EndStunPause
-   1,D,G
-  19,L,D,G
-   3,D,G
-   1,L,D,G
-  19,D,G
+  11,R,D,G
+   6,D,G
+   1,R,D,G
+  25,D,G
    8,L,D,G
-  11,D,G
+   7,D,G
+   4,G
    1,L
   15,L,C
   12,L
@@ -697,11 +706,11 @@ EndStunPause
   13,U,X
   23,L,G
    1,R
-  42,L,D
-  21,L,X
+  43,L,D
+  20,L,X
   22,L,J
-  56,U,Z
+  56
    1,R,K
    2
 
-ChapterTime: 1:33.364(5492)
+ChapterTime: 1:32.684(5452)
