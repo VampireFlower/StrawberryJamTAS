@@ -1,4 +1,4 @@
-RecordCount: 11371
+RecordCount: 11487
 
 console load StrawberryJam2021/5-Grandmaster/math
    1
@@ -153,41 +153,44 @@ console load StrawberryJam2021/5-Grandmaster/math
    1,R,J
    1,R
    1,R,J,G
-   5,R,K,G
-   5,R
-   2,R,K
-   5,R
-   5
+   4,R,K,G
+   7,R
+   5,R,K
+   2
+   1,R
+   2
    1,L,G
    7,J
    5
-   4,R
-   2,R,J
-   4,R
+   1,R,K
+   6,R
+   1
+   2,R
    1
    1,R
    1
-   2,R,D
-   1,D
    1,R,D
-   1,R,J
+   4,R
+   1,D
+   1,L,D,J,G
    1,L,K,G
-   5,R,K
-   7,R
-   1,G
-   1,R,J,G
-   3,L,J
-   5,R,J
-   1,R,K,G
-   8,R,J,G
-   5,R
+   1,L,J,G
    1,R,J
-  16,R
+   5,R
+   3,R,K
+   1,J,G
+   5
+   2,K
+   2,L,K
+   1,G
+   1,J,G
+   1,R,J
+   1,J
+   2,L,K,G
+   7,L
    1
-   1,R
-   1
-   1,R
   16,L
+   6,L,D
  356
 
 #lvl_1000M
@@ -1273,4 +1276,4 @@ AnalogMode,Ignore
   15,R,U,X
  135,R,D
 
-ChapterTime: 3:11.862(11286)
+ChapterTime: 3:11.590(11270)
