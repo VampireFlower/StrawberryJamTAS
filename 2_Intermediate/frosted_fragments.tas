@@ -1,11 +1,13 @@
-RecordCount: 19359
+RecordCount: 19445
 
-#console evalcs Action<float, long> i1 = (float timeRate, long frames) =>{long num4 = Math.Abs(frames);bool flag = frames < 0;float num5 = 0.0166667f * timeRate * (flag ? (-1f) : 1f);for (long num6 = 0L; num6 < num4; num6++){((Level)Engine.Scene).TimeActive += num5;}}
 console load StrawberryJam2021/2-Intermediate/Dooshii
    1
 
 #Start
  106
+
+#Spinner cycle [a4v2]
+   0
 
 #lvl_a1
    6,R,Z
@@ -163,9 +165,6 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
   15,R,X
   24,R,C
   14,U,X
-#cycle wait
-   0
-#/cw
   15,U,C
    1,R
   15,R,U,X
@@ -179,8 +178,6 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
    1,R
    1,R,K,G
   13,R
-StunPauseMode,Input
-#StunPauseMode, Simulate
   14,L,D,X
    1,R,J
    5,R,D,X
@@ -188,11 +185,10 @@ StunPauseMode,Input
   13,R
    1,R,J
    5,R,D,X
-  40,J
+  40
 
 #lvl_a4v2 (0)
-#console evalcs i1(1f,2)
-   1,R,K
+   1,R,J
    7,R
    1,R,J
    2,R
@@ -617,40 +613,30 @@ EndStunPause
 
 #lvl_a_10v2
    1,R,J
-  10,R
+   5,R
+   1
+   4,R
    4,Z
    1,R,J
    3,R
-   1,R,J
-   3,R
-  11,R,J
-   1,R,K,G
-   6
-   1,L
-   1,R,J,G
-   8,U,X
-   3
-   3,L
-  12,L,J
-   1
-   2,L,K,G
-   7,L
-  14,L,Z
-   1,R,J
-   1
-   6,R
-   6,R,D,J
-   2,R
-   1,K,G
-   1,L,K
    1,R,K
-   1,J,G
-   1,L,J
+   3,R
+   6,R,J
+  14,U,Z
+   6
+   1,L,J,G
+  11,J
+   5
+   2,L
+  12,U,Z
+   3,R
+   5
    1,L,K,G
    1,L,J,G
-   2,L
-  13,L,U,X
-   7,L,J,G
+   1,L,K,G
+   3,K
+   3,L,K
+   7,L,J
   15,L,X
    8,L,C
   15,L,Z
@@ -865,4 +851,4 @@ EndStunPause
   14,R,U,X
  135,D
 
-ChapterTime: 1:31.341(5373)
+ChapterTime: 1:30.814(5342)
