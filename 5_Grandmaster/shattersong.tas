@@ -1,4 +1,4 @@
-RecordCount: 6290
+RecordCount: 6384
 
 console load StrawberryJam2021/5-Grandmaster/Hydro
    1
@@ -269,28 +269,26 @@ EndStunPause
 #lvl_B2
    9,D,X
   69,O
-#waiting
-  10
-  11,R
-   1
-   1,D
-  12,L,Z
    1,R,J
+   3,R
+   1
    2,R
-   3,R,K
-   5,R,D
-  20,R
-   2,D
+   4
+  15,D,X
+  10,L,Z
+   1,R,J
+   1,R
+   1
+   1,R,K
+   5,R
+   1,D
+  22,R
   11,R,D,J
    1,L,K,G
-   4,R,K
-   5,L,K
-   3
-   1,L
-   1
-   1,L
-   1
-   1,L
+   5,R,K
+   4,K
+   4
+   4,L
    5,L,U,X
   28,R,J,G
   14,R,X
@@ -457,4 +455,4 @@ Repeat,45
    1,L,D
 EndRepeat
 
-ChapterTime: 0:55.488(3264)
+ChapterTime: 0:55.437(3261)
