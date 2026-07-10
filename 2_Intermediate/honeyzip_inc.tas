@@ -1,4 +1,4 @@
-RecordCount: 8718
+RecordCount: 8853
 
 console load StrawberryJam2021/2-Intermediate/GlowWoomii
    1
@@ -192,20 +192,15 @@ EndStunPause
 #lvl_r8
    9,R
    1,R,N
-  10,R,J
-   3,J
-   9,R,G
-   1,G
+  13,R,J
+  10,R,G
    1,L,G
-   1,R,G
-   1,R,J,G
-   8,L
-   7,L,G
-Repeat,2
+   1,L,J,G
+   4,L
+   8,L,G
    1,L,J,G
    1,L
    7,L,G
-EndRepeat
    1,L,J,G
    1,L,J
    7,L,J,G
@@ -221,9 +216,9 @@ EndRepeat
 
 #lvl_rhub (1)
    1,L,D,J
-   2,L
+   3,L
    7,L,D,K
-   5,L
+   4,L
    1,R,K,G
   23,L,K
   15,U,X
@@ -365,4 +360,4 @@ EndRepeat
   13,R,K
   25,L,K
 
-ChapterTime: 0:37.434(2202)
+ChapterTime: 0:37.213(2189)
