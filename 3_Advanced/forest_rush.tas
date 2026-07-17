@@ -1,4 +1,4 @@
-RecordCount: 11807
+RecordCount: 12112
 
 console load StrawberryJam2021/3-Advanced/mmm
    1
@@ -315,54 +315,58 @@ console load StrawberryJam2021/3-Advanced/mmm
    1,R,K
   11,R
   22,R,D
-   7,L,D
-   7,L
+   2,L,D
+  13,L
    1,L,J
   14,L
-   1,L,J
-   3,L
-  13,R
-   5,R,J
+   3,L,D,J
   14,R
-   8,R,J
-   9,R
-   1,R,K
-   3,R
-   2,J
-   9,R,J
-   4
-   1,R
-  10,K
-   7
+   4,R,J
+   5,R
+   2,R,K
+   7,R
+   8,R,D,J
+   5,R
+   1,K
+   7,R
+  12,J
+   5
+   8,K
+   9
    6,R,U,X
    1,L,J,G
-   9
+   8
+   1,K
   40
 
 #lvl_a07
-  14
-   1,L,J
-  11,R,J
-   1,R
-   2
-  15,R,D,X
-  26
-  11,D
-  16,L,U,X
-  47,D
+   1,K
+   9
+   3,D
    1
-   1,D
+  12,L,J
    3
-  15,L,J
-  11,R,K
+  15,R,D,X
+  20,D
+   6,L,D
+   5,D
+  12,D,J
+   1
+  16,L,U,X
+  33,D
+   3,R,D
+  13,D
+   3
+   9,L,J
    6
-   1,L
-   2
-  40,R,D
-   1
-   1,R,D
-   1
-   6,R,Z
+   1,K
+  12
+   2,D
+   2,L,D
+   3,D
+  15,R,D
+   5,R
+   9,R,Z
    1,R,J
    3
    3,R
@@ -488,4 +492,4 @@ console load StrawberryJam2021/3-Advanced/mmm
   20,R,J
  139,D,X
 
-ChapterTime: 0:58.718(3454)
+ChapterTime: 0:58.514(3442)
