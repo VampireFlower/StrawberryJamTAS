@@ -1,4 +1,4 @@
-RecordCount: 7826
+RecordCount: 7872
 
 console load StrawberryJam2021/4-Expert/spirialis
    1
@@ -311,11 +311,10 @@ EndRepeat
    1
   14,U,C
    1,J
-  11,R,U,Z
-   1,G
-   1
-   2,J
-   6,R,Z
+  13,R,U,Z
+   1,J,G
+   1,K
+   5,R,Z
    1,R,J
    4,R
    1
@@ -558,4 +557,4 @@ EndRepeat
   27,R,U,X
  122
 
-ChapterTime: 1:03.070(3710)
+ChapterTime: 1:03.053(3709)
