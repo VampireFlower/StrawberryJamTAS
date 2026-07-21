@@ -1,4 +1,4 @@
-RecordCount: 25999
+RecordCount: 26163
 
 console load StrawberryJam2021/5-Grandmaster/Soloiini
    1
@@ -63,9 +63,10 @@ console load StrawberryJam2021/5-Grandmaster/Soloiini
   16,R,X
   16,D,C
    1,S,N
-  35,D,O
-# spinner cycle [Crystal Causeway]
-   1
+   1,D,O
+  34
+#Spinner cycle [Crystal Causeway]
+   0
 #
    6,R,Z
    1,R,J
@@ -366,61 +367,90 @@ EndRepeat
    1,R
    1,R,J,G
    1,R,K,G
-   3,R,K
+   2,K
+   1,R,K
    1,R
   31,R,G
    1,R,D,G
-   1,G
+   1,R,G
    1,R,D,G
-  14,R,G
-   2,R,D,G
+  13,R,G
+   4,R,D,G
    2,D,G
 StunPause
    1,G
-   1
-EndStunPause
-   1,R,J
-   1,R,J
-   2,R,K,G
    1,R,J,G
-  22,R,J,G
+EndStunPause
+   1
+   1,R,K,G
+   2,R
+   1,R,J,G
+## exits 3f sooner and with more speed
+#Set Player.wallSpeedRetained 554
+#Invoke TheoCrystal.NaiveMove -0.01 0
+#    3,R,J
+#   26,R,J,G
+#    1,R,J
+#   11,R,U,X
+#    4,R,J,G
+#   13,R,G
+#    1,R,J,G
+#   15,R,G
+#    1,R,J,G
+#   14,R,G
+#    1,R,J,G
+#   11,R,G
+#    3,R,D
+#    1,R,J
+#    8,R,D,X
+#   13,R,G
+##
+   2,R,J
+  20,R,J,G
    1,J,G
-   6,R,J,G
-   1,K
+   6,R,G
+   1,R
   11,R,U,X
-   4,R,J,G
+   4,R,K,G
   13,R,G
    1,R,J,G
   15,R,G
    1,R,J,G
   14,R,G
    1,R,J,G
-  14,R,G
-   1,R,D,J
-  12,R,D,X
+  12,R,G
+   2,R,D
+   1,R,J
+  11,R,D,X
   13,R,G
   40
 
 #lvl_Miser's Warren
-Repeat,7
    1,R,J,G
   14,R,G
-EndRepeat
-   8,R,J,G
-   1,R,J
-  11,R,X
-   2,R,J
-   1,R
-   1,K,G
-   1,R,K
-  11,R,U,X
-  23,R,G
    1,R,J,G
-   2,R,G
+  14,R,G
+   1,R,J,G
+  14,R,G
+   1,R,J,G
+  14,R,G
+   1,R,J,G
+  14,R,G
+   1,R,J,G
+  14,R,G
+  10,R,J,G
+  10,R,G
+   1,R
+  10,R,X
+   1,R,J
+   2,K,G
+   2,R,K
+  11,R,U,X
+  26,R,G
    1,R,J
   18,R,U,X
    5,R,C
-  39,R,G
+  38,R,G
    1,D
    6,R,Z
   19,R,J
@@ -1336,4 +1366,4 @@ EndRepeat
   23,L,U,Z
  116,L
 
-ChapterTime: 2:39.239(9367)
+ChapterTime: 2:39.137(9361)
