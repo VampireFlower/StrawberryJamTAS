@@ -1,4 +1,4 @@
-RecordCount: 26163
+RecordCount: 26340
 
 console load StrawberryJam2021/5-Grandmaster/Soloiini
    1
@@ -283,11 +283,9 @@ EndRepeat
    3,R,J,G
    2,R,G
    6,R,J,G
-   6,R,G
-   1,G
-   1,R,J,G
-   2,J,G
-   1,J
+   7,R,G
+   2,R,J,G
+   2,R,J
   14,L,D,X
    1,R,J
   13,R,U,C
@@ -334,12 +332,11 @@ EndRepeat
    3,R
    3,R,K
    2,R
-   3,R,J
-  16,R,J,G
+   5,R,J
+  14,R,J,G
    8,R,G
    1,R,D
-   2,R
-   2,R
+   4,R
    6,D
    2,L,G
    1,L,J,G
@@ -385,33 +382,15 @@ EndStunPause
    1,R,K,G
    2,R
    1,R,J,G
-## exits 3f sooner and with more speed
-#Set Player.wallSpeedRetained 554
-#Invoke TheoCrystal.NaiveMove -0.01 0
-#    3,R,J
-#   26,R,J,G
-#    1,R,J
-#   11,R,U,X
-#    4,R,J,G
-#   13,R,G
-#    1,R,J,G
-#   15,R,G
-#    1,R,J,G
-#   14,R,G
-#    1,R,J,G
-#   11,R,G
-#    3,R,D
-#    1,R,J
-#    8,R,D,X
-#   13,R,G
-##
-   2,R,J
-  20,R,J,G
+# better speed is possible
+# Set,Player.wallSpeedRetained,554
+   3,R,J
+  19,R,J,G
    1,J,G
-   6,R,G
-   1,R
+   6,R,J,G
+   1,R,J
   11,R,U,X
-   4,R,K,G
+   4,R,J,G
   13,R,G
    1,R,J,G
   15,R,G
@@ -421,7 +400,7 @@ EndStunPause
   12,R,G
    2,R,D
    1,R,J
-  11,R,D,X
+   9,R,D,X
   13,R,G
   40
 
@@ -1366,4 +1345,4 @@ EndRepeat
   23,L,U,Z
  116,L
 
-ChapterTime: 2:39.137(9361)
+ChapterTime: 2:39.103(9359)
