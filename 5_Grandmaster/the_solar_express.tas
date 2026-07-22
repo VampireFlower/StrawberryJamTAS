@@ -1,4 +1,4 @@
-RecordCount: 26624
+RecordCount: 27063
 
 console load StrawberryJam2021/5-Grandmaster/Soloiini
    1
@@ -797,62 +797,77 @@ EndRepeat
    9,L,G
   44,D,G
   45,G
-  29,U,G
-  33,G
-  10,D,G
-  20,G
-   2,U,G
-   1,G
-   1,U,G
-  18,G
-   1,R
+   8,U,G
+  13,G
+  12,R,J,G
+   5,R,G
+   6,R,J,G
+  10,J,G
+   6,L,G
+   4,L,G
+   1,L,D
+   2,L,D
+   1,R,K
+   5,R,U,X
   13,R,G
-#-1f maybe possible by being farther right
-  22,R,J
-   8,R,X
-  34,R,G
+   3,G
+  20,R,G
+   5,R,K,G
+   5,R,G
+   2,R,G
+   1,R,K,G
+   1,D,K
+   1
+   1,K
+   1
+   5,R,X
+  13,R,G
+  21,R,G
    6,R,J,G
    2,R,G
   12,R,K,G
    9,R,G
-   8,G
-   2,R
-   2
+   8,R,G
+   4,R
   15,R,X
-  14,R,D,C
+   3,R
+  10,L,D,X
    1,R,J
-   8,R,U,X
-  57,R,G
-  23,R,D,G
+   4,J
+   3,R
+   1,R,J
+  20,G
    4,R,G
-   2,R,J
-  10,R,X
-   5,R,J
+  13,R,D,G
+   2,R,G
+   1,R,D,G
    1,R
-   6,U,X
-  18,G
-   4,R,G
-   7,R
+  10,R,X
+   5,R,J,G
+   2,R
+   1,R,K,G
+   1,R
+  23,R,J,G
+  22,R,G
+   7,R,D,G
+   1,R
    2,R,J
-  10,R,Z
+  11,R,Z
    1,R,J
    2,R,K,G
    1,R,J,G
-   1,R,K,G
-   7,R,D,K,X
-  17,R,K,G
-  11,R,J,G
-   1,R
-  12,R,U,X
-   2,J,G
-   4,R
-  13,R,G
-   7,R,J,G
-   2,J,G
-   4,G
-   6,R,D
-   3,D
-   2,R,D
+  35,R,K,G
+   1,R,K
+  13,R,U,X
+   1,J,G
+   7,R
+   4,J
+   2,R,J
+  16,R,J,G
+   5,R,G
+   3,R,D
+   5,D
+   2,D
    1,D
   14,L,D,X
    1,R,J
@@ -1348,4 +1363,4 @@ EndRepeat
   23,L,U,Z
  116,L
 
-ChapterTime: 2:39.001(9353)
+ChapterTime: 2:38.270(9310)
