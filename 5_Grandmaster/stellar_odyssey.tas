@@ -1,4 +1,4 @@
-RecordCount: 17900
+RecordCount: 18593
 
 console load StrawberryJam2021/5-Grandmaster/Ecl1psed
    1
@@ -79,28 +79,28 @@ console load StrawberryJam2021/5-Grandmaster/Ecl1psed
   15,R,D,X
    1
    5,R
-   3,R,D
-   5,J
-   5,R
-   2,K,G
-   7,R,D,X
-  13,R,J,G
-   3,J,G
-   1,L,K,G
-   3,K,G
-StunPause
-   2,K,G
-EndStunPause
-   3,K,G
-   3,R,K,G
-   1,R,K
-  12,J,G
-   4,K,G
-  24,J,G
-   3,L,J,G
-   2,J,G
+   2,D
+   1,R,D,J
+   6,J
+   4
+   6,R,D,X
+  13,G
    1,L,J,G
-   1,J,G
+   6,J,G
+StunPause
+   2,J,G
+EndStunPause
+   3,J,G
+   3,G
+   1,R
+  12,J,G
+   3,K,G
+   1
+  24,J,G
+   3,L,G
+   2,G
+   1,L,G
+   3,G
    2,L,K,G
    4,L,G
    1,R,J,G
@@ -170,45 +170,50 @@ EndRepeat
    3,R
   15,R,D,X
   10,R
-  18,R,J
-   4,J
-   1,R,J
-   1,J
-  15,L,U,X
-  12,U,C
-  21,L,J
-  15,L,U,X
-  11,L
-   7
+  12,R,J
+   5,R
+   3,R,K
    1,R
-   1
-   1,R
-   5
    1,R,K
-   2,K
-   1,R,K
-   1
-  12,R
-  16,L,Z
-   9,L,D,J
-  10,L
-   7,L,J
-  19,U,X
-  15,U,C
-  17,R,U,X
-  21,L
-   1
-  15,L,U,X
-   1
    2,R
-   7,L,U,X
-  17,R
-  19,U,C
-   3,R
-  15,U,X
+  15,L,U,X
+  13,U,C
+  18,L,J
+   2,L
+  15,L,U,X
+  18,L
+  11,L,D,X
+   1,R,J
+   2
+   1,R,K,G
+  13,R,X
+   1,L,J
+   5
+   6,L
+  10,L,D,J
+  10,L
+   1,L,K
    1,L
-  10,G
-   2,J
+   2,L,K
+   1,K
+   1,L,K
+  18,U,X
+  15,U,C
+   1,R
+  15,R,U,X
+   1,R
+  20,L
+  15,L,U,X
+   3,L
+   1,R
+   6,L,U,X
+  17,R
+  15,U,X
+   8,R
+  15,U,X
+  10
+   1,L,G
+   2,J,G
    5,L,D,X
    1,J
    8,R,K
@@ -235,23 +240,26 @@ EndRepeat
    3,L
    6,L,D,X
    1,R,J
-  17,D
-  15,R,D
+  14
+   4,R
+   4,R,D
+   9,D
+   1,R,D
    4
-  13,R,Z
+  14,R,Z
   40
 
 #lvl_a-03b
-   2,R,Z
-   6,L,X
+   1,R,Z
+   5,L,X
   40
 
 #lvl_a-03 (1)
    1
   72,O
-### spinner cycle [a-04]
-   1
-###
+#Spinner cycle [a-04]
+   0
+#
    6,R,Z
    1,R,J
    5,R
@@ -658,9 +666,9 @@ EndStunPause
    1,K,G
    9,R,K,G
    1,R,D,K
-## spinner cycle [a-07]
+#Spinner cycle [a-07]
    0
-##
+#
    6,R,Z
    1,R,J
    7,R
@@ -789,4 +797,4 @@ EndStunPause
   16,U,X
  135
 
-ChapterTime: 1:08.340(4020)
+ChapterTime: 1:08.187(4011)
