@@ -1,4 +1,4 @@
-RecordCount: 12122
+RecordCount: 12221
 
 console load StrawberryJam2021/5-Grandmaster/Todd
    1
@@ -6,8 +6,8 @@ console load StrawberryJam2021/5-Grandmaster/Todd
 #Start
  130
 
-# Spinner cycle [2]
-   1
+#Spinner cycle [2]
+   0
 
 #lvl_1
    4,Z
@@ -80,35 +80,36 @@ console load StrawberryJam2021/5-Grandmaster/Todd
    1,R,D
    1,L,D
    4,J
-   2,K,G
-   6,R,K
-   3,R
-   2
-   8,U,X
+   1,K,G
+   1,R,K
+   5,L,K
+   3
+   1,J
+   3,K,G
+   7,U,X
    7,R,J
-  70,R,D,G
-  16,R,G
-   1,R,D
+  66,R,D,G
+   1,R,G
+   1,R,D,G
+   1,R,G
+   1,R,D,G
+  11,R,G
+   5,G
+   1,D
    1,G
-   2,J,G
-   1,K
-   4,L,K
-   2,K
+   9,L,J
   14,L,D,X
    1,R,J
    5,R,D,X
   13,R,G
    5,R,J,G
-   2,R,G
-   1,G
+   3,R,G
    1,L
   15,R,D,X
    8,D
    1
-   1,R,D
-  11,R
-   1
-  10,R
+   1,D
+  22,R
   19,R,J
    1
   11,R,U,X
@@ -116,7 +117,8 @@ console load StrawberryJam2021/5-Grandmaster/Todd
    7,R,J
    1,J
    2,R,J
-  26,R
+  22,R
+   4,R,D
   12,R,J
    8,R
    3,R,J
@@ -135,15 +137,13 @@ console load StrawberryJam2021/5-Grandmaster/Todd
    2,R
    1,R,J
    2
-   1,R
+   2,R
    1
-   1,R
    2,R,K
    2
    1,R,K
   15,G
-  12,R,D,G
-   1,D,G
+  13,R,D,G
    1,D
   14,R,Z
    1,R,J
@@ -159,8 +159,8 @@ console load StrawberryJam2021/5-Grandmaster/Todd
    2
    3,D
    1
-   1,D
    1,L,D
+   1,D
   21,D,G
    9,L,D,G
   31,R,D,G
@@ -256,8 +256,8 @@ console load StrawberryJam2021/5-Grandmaster/Todd
   15,U,Z
    1,R,J,G
    7,R
-# Spinner cycle [5]
-   2
+#Spinner cycle [5]
+   0
 #
    4,Z
    2,R,J
@@ -733,4 +733,4 @@ AnalogMode,Ignore
    4,X
  135,D
 
-ChapterTime: 1:32.684(5452)
+ChapterTime: 1:32.633(5449)
