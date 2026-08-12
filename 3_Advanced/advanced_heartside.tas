@@ -1,4 +1,4 @@
-RecordCount: 36903
+RecordCount: 37085
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -2068,57 +2068,59 @@ EndRepeat
   14,R,D,X
    1,R,J
   14,R,D,X
-## -8f no archie
-#    4,R,J
-#    1,R
-#    1,R,K
-#    3,R
-#    1,R,K
-#    6,R
-#    1,G
-#    1
-#    1,R
-#    1
-#    2,J
-#   10,R,Z
-#    1,R,J
-#    1,L,K,G
-#    5,R
-#    1,R,K
-#    7,R
-#    9,D,X
-##
-   5,R,J
-   6,R
+   4,R,J
+   1,R
    1,R,K
-   5,R
+   3,R
+   1,R,K
+   6,R
    1,G
    1
-   1,J
+   1,R
    1
+   2,J
   10,R,Z
    1,R,J
    1,L,K,G
-   2,R,K
-   4,R
-  14
-   4,D
-   7,L,Z
-#Spinner cycle [heartside_jolly]. 0/1 stun
+   5,R
+   1,R,K
+   7,R
+   9,D,X
+#Spinner cycle [heartside_jolly] (2/3 stun)
    1
 #
   20,L,C
   11,R,D,X
-  18,R,J
-  14,R,D,X
    8,R,J
-  15,R,U,Z
-   9,R
-   6,G
-  32,U,G
-  10,L,J
-  10,L
+   1,R
+   5,R,K
    1
+   1,K
+   1
+   1,R,K
+   5,R
+   1,G
+   1
+   1,G
+   1
+   7,G
+   1,U,G
+   4
+  15,U,Z
+   1,R
+   1
+   1,R
+   1
+   1,L
+   1
+   6,R,G
+  29,U,G
+   1,G
+   1,U,G
+   1,G
+  10,L,J
+   8,L
+   3
   24,R
   18,U,X
   15,U,C
@@ -2332,4 +2334,4 @@ EndStunPause
   11,U,X
  135
 
-ChapterTime: 4:29.416(15848)
+ChapterTime: 4:29.263(15839)
