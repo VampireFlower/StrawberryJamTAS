@@ -1,4 +1,4 @@
-RecordCount: 21262
+RecordCount: 21467
 
 console load StrawberryJam2021/3-Advanced/MousseMoose
    1
@@ -10,56 +10,56 @@ console load StrawberryJam2021/3-Advanced/MousseMoose
    1
 
 #lvl_intro_fall
-   1,R,K
    1,R,J
    1,R,K
    1,R,J
    1,R,K
-   2,R,J
-   1
+   1,R,J
+   1,R,K
+   1,R,J
+   1,J
+   5
+   4,R
+   8,R,Z
+   1,R,J
    7,R
-   1,D
-   2,R
-   7,R,Z
    1,R,J
-   7,R
-   1,R,K
-  11,R,D,X
+  10,R,D,X
   40
 
 #lvl_intro_a1
-   3,R,D,X
+   4,R,D,X
    1,R,J
-   6,R,D,X
+   5,R,D,X
    1,R,J
-   7,R
+   3,R
+   1,R,K
+   3,R
    8,R,J
    2,R
   15,R,D,X
    5,R,D
-  15,R,D,X
-   4,R
+  15,R,D,C
+   4,R,D
    1,R,J,G
-  12,R
+  11,R
    1,R,J
-  11,R,D
-  15,D,X
-   1,D
-   3,R
-  12,R,D
-   4,R
-   9,R,D
-  12,D
-  24,L,D
-   6,D
-  16,L,D
+  15,R,D,X
+  15,D,C
    2,D
+  11,R,D
+   5,R
+   9,R,D
+  47,L,D
+  11,D
+   2,L,D
   11,L,Z
    1,S,N
    1,D,J
   34
-  16,L
-  30,L,D
+  15,L
+  28,L,D
+   3,D
   60
 
 #lvl_a1
@@ -660,8 +660,8 @@ EndStunPause
 #lvl_c1
    4,R,D,J
   19,R,K
-   1,S
-   1,D,O
+   1,S,N
+   1,D,J
   34
    2,R,J
   18,L,U,X
@@ -889,4 +889,4 @@ EndStunPause
    1,R,J
   30,R
 
-ChapterTime: 1:28.961(5233)
+ChapterTime: 1:28.910(5230)
