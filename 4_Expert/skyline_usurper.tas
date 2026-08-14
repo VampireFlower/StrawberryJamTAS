@@ -1,4 +1,4 @@
-RecordCount: 12811
+RecordCount: 13122
 
 console load StrawberryJam2021/4-Expert/Appels
    1
@@ -337,45 +337,48 @@ console load StrawberryJam2021/4-Expert/Appels
    1
    5,L
   14,L,D,X
-  18,L,J
-   1,L
-   1
+  12,L,J
+   3,L
+   5,L,K
    1,L
    5,R,X
   12,G
-  11,R,G
-   6,R,X,G
-  10,G
+   6,X,G
+  21,R,X,G
    1,L
-   4,R
+   2,R
+   2,R,K
+   6,R
    1
-   7,R
-   1,G
-  14,L,X,G
-  10,R,G
    1,R
-   4,L
-  13,L,K
-   1,L
-  14,L,X
-  67
+   1,G
+   9,L,X,G
+   9,X,G
+   2,L,X,G
+   1,R
+  17,L
+  13,L,Z
+  69
    1,R,J
    7,R,C
-   6,R,J
-   3,R
-  19,R,G
+   7,R,J
+  20,R,G
    8,R,X,G
-   5,G
-   5
-   9,L
-   1
+   1,R,G
+   1,G
+   1,R,G
+   1,G
+   1,R,G
+   8
+   5,L
+   1,L,K
   14,L,X
-  15,L,G
+  16,L,G
   17,L,X,G
    1,L
   12,L,X
-  32
-   7,L,D
+  33
+   6,L
    2
    1,L
    2
@@ -724,4 +727,4 @@ console load StrawberryJam2021/4-Expert/Appels
   12,U,X
  135
 
-ChapterTime: 1:52.455(6615)
+ChapterTime: 1:52.370(6610)
