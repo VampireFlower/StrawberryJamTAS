@@ -1,4 +1,4 @@
-RecordCount: 1365
+RecordCount: 1512
 
 console load StrawberryJam2021/2-Intermediate/pixelator
    1
@@ -6,10 +6,10 @@ console load StrawberryJam2021/2-Intermediate/pixelator
 #Start
  190
 
+#Spinner cycle [lvl05]
+   1
+
 #lvl_lvl00
-#spinner cycle (lvl05)
-   0
-#
   15,R,J
    2,J
   15,U,X
@@ -230,29 +230,41 @@ console load StrawberryJam2021/2-Intermediate/pixelator
    3
    8,R
   12,R,K,G
-  12,R,J,G
-  12,R,K,G
-  10,J,G
+   7,J,G
+   1,R,J
+   1,J
    1,R,J
    1,L,J
-   1,K
-   2,R,K
+   1,J
+  12,R,K,G
+   1,R
+  11,J,G
+   1,L,J
+   2,K
   15,U,X
-   5,R
+   4,R
    1,L
-   3,K,G
-   1,R,K
-  15,L,J,G
-  26,R
-  14,R,U,X
-   9,R
-  12,R,K,G
-  12,R,J,G
-  12,R,K,G
+   2,J,G
+   1,R,J
+   1,L,K,G
+   1,L,J,G
+  11,J
+   3
+   1,R
+   6,L,U,X
+  27,R
+  15,R,U,Z
+   6,R
+  12,J,G
+  12,K,G
+   4,J,G
+   1
+   1,K
   13,L
   14,U,X
-  10,R,J
-   5,L,J
+   6,R,J
+   5,J
+   4,L,J
    1,R,K,G
    1,R
    1,R,J,G
@@ -383,4 +395,4 @@ console load StrawberryJam2021/2-Intermediate/pixelator
   14,R,U,X
  135
 
-ChapterTime: 0:48.110(2830)
+ChapterTime: 0:48.059(2827)
