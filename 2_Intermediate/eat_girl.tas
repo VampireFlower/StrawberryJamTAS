@@ -1,4 +1,4 @@
-RecordCount: 15011
+RecordCount: 15038
 
 console load StrawberryJam2021/2-Intermediate/Ezel
    1
@@ -664,26 +664,22 @@ console load StrawberryJam2021/2-Intermediate/Ezel
    4,K,G
    3
   15,R,D,X
-#undemo lfg
-#closer to saving frame
    4,C
    8,L,D,C
    3,J
   15,D,X
    2,R
-   4,Z
+   7,R,Z
    1,R,J
    3,R
-   3,R,J
   40
 
 #lvl_A-06
-   2,R,J
-   1,R
-   3,R,D,K
-   5,R
-   1,J
-   1,L,K,G
+   1,R,K
+   3,R
+   6,R,D,J
+   1,K
+   1,L,J,G
   10,L,X
    5,R,J
    1,K
@@ -1341,4 +1337,4 @@ console load StrawberryJam2021/2-Intermediate/Ezel
   37,U,X
  105,R
 
-ChapterTime: 1:29.913(5289)
+ChapterTime: 1:29.896(5288)
