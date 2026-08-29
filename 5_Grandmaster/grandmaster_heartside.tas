@@ -1,11 +1,10 @@
-RecordCount: 57969
+RecordCount: 58119
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
 
 #Start
 #lvl_a0-Start
-#feather skip is +30f
    4,Z
    1,R,J
    7,R
@@ -1608,9 +1607,6 @@ AnalogMode,Ignore
  190
 
 #lvl_d3_07-Maya
-#may be fixed in the future
-#=> deathwarp
-#gl resync :)
    2
    1,S,N
    1,D,J
@@ -2552,9 +2548,9 @@ Set,CelesteTAS.SimplifiedBackdrop,false
    3,R
    1
    3,R
-## Spinner cycle [f3_01-Hydro]
+#Spinner cycle [f3_01-Hydro]
    0
-##
+#
    4,Z
    2,R,J
    8,R
@@ -2785,28 +2781,30 @@ EndStunPause
    6,R,K
   21,R
   36,R,J
-   4
-   7,R
-  21,R,K
-   4,K
-  25,R,J
-  14,R,X
- 130,R,D
-   5,D
+   3,J
+   9,R,J
+  18,R,K
+   6,K
+  24,R,J
+  15,R,X
+  68,R
+   7,R,D
+   2,D
+  57,R,D
    7,R
    2,R,D
    1,R,J,G
    5,R,K,G
   49,R,D
- 187,R
-  71,R,D
+ 185,R
+   2
+  70,R,D
   41
-  42,R
-  46
-  17,R
+  40,R
+   2
+  61,R
   15,R,D,X
-  29,R
-   4,R,D
+  34,R
   18,R,X
   69
   13,L,U,Z
@@ -2901,4 +2899,4 @@ Repeat,34
    2,L,D
 EndRepeat
 
-ChapterTime: 6:59.968(24704)
+ChapterTime: 6:59.917(24701)
