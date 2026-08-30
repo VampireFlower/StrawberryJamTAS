@@ -1,4 +1,4 @@
-RecordCount: 29836
+RecordCount: 29842
 
 console load StrawberryJam2021/5-Grandmaster/Soloiini
    1
@@ -230,7 +230,7 @@ Repeat,2
    1,R,J,G
   14,R,G
 EndRepeat
-## -4f to moonblock
+## -10f approximately assuming minimal resync timeloss
 #    1,R,J,G
 #   10,R,G
 #    1,D
@@ -261,8 +261,29 @@ EndRepeat
 #    1,R,K,G
 #   16,R,G
 #    1,R
-#   15,R,X
-#   99,G
+#   12,R,X
+#    1,R,J,G
+#    7
+#    3,G
+#    1,J,G
+#    1
+#    1,K,G
+#    7
+#    2,J
+#    2
+#   10,R,Z
+#    1,R,J
+#    2
+#    1,R,K,G
+#    1,R,J,G
+#    1,R
+#    1,R,K,G
+#    5
+#   14,G
+#   12,R,G
+#    5,R,D,G
+#    3,G
+#   99,R,G
 ##
    3,R,J,G
    8,R,G
