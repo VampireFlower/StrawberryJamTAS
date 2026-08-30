@@ -1,4 +1,4 @@
-RecordCount: 68796
+RecordCount: 69271
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -1461,27 +1461,32 @@ AnalogMode,Ignore
    2,R
    6,R,D,X
    1,R,J
-  16,R
-   1,R,J
-   1,R
-  21,D,X
-  14,L
-  10,L,D,X
-   9,L,J
-   1,J
-   1,L,J
-  18,U,X
-  13
-  15,U,X
-   4,L,J
+   5,R
+   2,R,K
+   6,R
+   3
+   7,D
+  18,D,X
+   7,L,D
+  14,L,D,X
+  11,L,J
    1,L
+  18,U,X
+  12
+  15,U,X
+   3,L,J
+   2,L
   13,R,U,X
    5,R,J,G
-   5,J
-   5
-   5,K
+   4,J
    7
-   4,L
+   1,K
+   1
+   3,K
+   6
+   2,L
+   1,L,D
+   1,L
    1,D
    4,Z
    1,R,J
@@ -1607,8 +1612,8 @@ AnalogMode,Ignore
    9,R,X
    1,R,J,G
    3,J
-   3,R,J
-  17,R,J,G
+   4,R,J
+  16,R,J,G
    5,R,G
   10,R,K,G
    3,R,G
@@ -1617,11 +1622,12 @@ AnalogMode,Ignore
    8,D
    4,L,D
    8,D
-   3
+   2
    1,R
   11
-   7,D
+   5,D
    2
+   2,D
    5,U,X
   17,G
    5,L,G
@@ -1748,7 +1754,7 @@ AnalogMode,Ignore
   19,L
   28,R
   69,L
-  53,R
+  52,R
   15,R,X
   14,R,C
   33,R
@@ -1775,11 +1781,17 @@ AnalogMode,Ignore
   15,R,U,X
    7
   41,R
-  27
+  28
    1,J
   11,R,J
- 122
-   6,L
+  14
+   1,R,J
+   3,J
+  11
+   1,R
+   5
+   5,R
+  87
   10,L,Z
    2,R,J
    1,R,K
@@ -4287,4 +4299,4 @@ EndRepeat
   16,U,X
  135,D
 
-ChapterTime: 7:32.013(26589)
+ChapterTime: 7:31.962(26586)
