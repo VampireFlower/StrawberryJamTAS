@@ -1,4 +1,4 @@
-RecordCount: 3890
+RecordCount: 3905
 
 console load StrawberryJam2021/1-Beginner/Owen-Shirrell
    1
@@ -89,13 +89,12 @@ console load StrawberryJam2021/1-Beginner/Owen-Shirrell
   40
 
 #lvl_06 - Socket
-   2,R,D
+   2,D
   12,R,D,X
    1,R,J
-   2,R
-  14,R,D,X
+   7,R
    1,R,J
-   5,R
+  13,R
   15,D,X
    1,L,J
   19,L
@@ -116,14 +115,12 @@ console load StrawberryJam2021/1-Beginner/Owen-Shirrell
    4,L,K
   13,L,Z
    3,J,G
-   9,R,J
-   5,K,G
-   1,J
+   1,R,J
+  13,R,U,X
+   2,R,J,G
    5,R,Z
    3,R,J
-   1,R
-   1,R,J
-   8,R
+   9,R
   15,D,X
    1,L,D
   22,L
@@ -264,4 +261,4 @@ console load StrawberryJam2021/1-Beginner/Owen-Shirrell
    1,R,D,J
   44,R
 
-ChapterTime: 0:31.773(1869)
+ChapterTime: 0:31.756(1868)
