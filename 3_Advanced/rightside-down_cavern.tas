@@ -1,4 +1,4 @@
-RecordCount: 13353
+RecordCount: 13986
 
 console load StrawberryJam2021/3-Advanced/Vamp
    1
@@ -6,9 +6,8 @@ console load StrawberryJam2021/3-Advanced/Vamp
 #Start
   90
 
-##spinner cycle [Vamp_8]
-   2
-##
+#Spinner cycle [Vamp_8]
+   1
 
 #lvl_intro_SJ
    4,Z
@@ -334,69 +333,81 @@ EndRepeat
    2,U
    1,R,U
    9,R,Z
-  49,R,J
-   3,R,K
-   3,R
+  11,R,J
+   5,R
+   1,R,K
+  21,R
+   3,R,J,G
+  11,R
   14,R,X
    7,R,J,G
   15,R,U,X
-  11,R
-  10,R,U
-   8,R,J
-  14,R,X
-   2,R,J,G
    9,R
-   6
-   6,L,X
-   1,L,J,G
-   7,L
-   5,L,J
-   2,L
-  10
-  10,R,Z
+  12,R,U
+   8,R,J
+   3,R
+  13,R,Z
    1,R,J
-   2,R,K,G
-   1,R,J,G
-   2,R,K,G
+   8,R
+   5,L,U,X
+   1,L,J,G
+   1,L,K,G
+   2
+   6,L
+   3,L,K
+   6,L
+   1,R,J
+   5
+  10,R,U,X
+   1,R,J
+   2,R
+   1,R,K,G
    2,R,J,G
-   9,R,D,Z
+   1,R,K,G
+   2,R,J,G
+  10,R,D,Z
   40
 
 #lvl_Vamp_8
-   5,R,U,Z
-   4,R,J,G
-  10,R,K,G
-   3,R
+   4,R,D,Z
+  11,R,J,G
+   4,R
 StunPause
-   2,R
-   2,R,J
-   2,R
+   3,R
+   2,R,K
+   1,R
 EndStunPause
    7,R
-  15,R,Z
-  14,R
-  12,R,U
+   8,R,Z
+StunPause
+   2,R,Z
+EndStunPause
+   5,R,Z
+  14
+  10,U
+   1
+   4,R
+  14,U,X
+   7,R,J
   13,R
-   1,J
-   1,K
-   8,L,K
-   3,K
-   2,L
-   1,J
-   1,K
-  11,R,K
-  21,R
-  34,R,D
+   1,R,K
+  11,R
+  15,R,D
+  11,R
+   2
    1,J
   11,L,J
+   1,L
    1,K
    1,J
-  21,R,J
-  15,R,U,X
+  11,R,J
    5,R
+   5,R,K
+  15,R,U,X
+   2,R
+   3,R,U
    1,R,J
-   1,R,K,G
-   1,R
+   2,R,K,G
    1,R,J,G
    1,R,K,G
    5,R
@@ -497,4 +508,4 @@ EndRepeat
    1,G
    1
 
-ChapterTime: 0:55.845(3285)
+ChapterTime: 0:55.471(3263)
